@@ -148,8 +148,12 @@ h3 { font-size: 21px; line-height: 1.2; }
 .hero__art { position: relative; justify-self: center; width: min(100%, 460px); aspect-ratio: 1; max-width: 100%; }
 .hero__burst { position: absolute; inset: -8%; width: 116%; height: 116%; }
 .hero__burst polygon { fill: var(--red); }
-.hero__photo { position: absolute; inset: 6%; width: 88%; height: 88%; object-fit: cover; clip-path: var(--torn); transform: rotate(2deg); border: 0; }
-.hero__say { position: absolute; left: -6%; bottom: 2%; transform: rotate(-3deg); }
+/* collage : le portrait de Mamie en photo collée de travers, et Mamie en entier debout devant */
+.hero__photo { position: absolute; right: 2%; top: 4%; width: 64%; height: auto; aspect-ratio: 1; object-fit: cover; border: 8px solid var(--paper-2); border-bottom-width: 26px;
+  transform: rotate(5deg); box-shadow: 0 16px 26px -12px rgba(23,20,20,.6), 6px 6px 0 var(--ink); }
+.hero__mamie { position: absolute; left: 10%; bottom: -2%; width: auto; height: 72%; max-height: 330px; transform: rotate(-4deg);
+  filter: drop-shadow(7px 7px 0 var(--ink)); image-rendering: auto; }
+.hero__say { position: absolute; left: 38%; bottom: 10%; transform: rotate(-3deg); }
 .hero__dots { position: absolute; right: 0; top: 0; width: 40%; height: 60%; background-image: radial-gradient(circle, var(--ink) 2px, transparent 2.6px); background-size: 14px 14px; opacity: .55; -webkit-mask-image: linear-gradient(225deg, #000, transparent 70%); mask-image: linear-gradient(225deg, #000, transparent 70%); pointer-events: none; }
 
 /* ---------- rubriques ---------- */

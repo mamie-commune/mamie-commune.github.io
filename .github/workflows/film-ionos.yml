@@ -1,5 +1,6 @@
-# Copie les films de la release GitHub « film » vers l'hébergement IONOS (dossier videos/),
+# Copie les films de la release GitHub « film » vers l'hébergement IONOS (dossier films/),
 # où ils sont servis comme de vraies vidéos, lisibles sur téléphone.
+# Pas « videos/ » : ce nom est déjà celui de la page Vidéos (/videos), le serveur ouvrirait le dossier à la place.
 # À lancer à la main après avoir ajouté un film à la release : onglet Actions → « Envoyer les films sur IONOS » → Run workflow,
 # ou : gh workflow run film-ionos.yml
 name: Envoyer les films sur IONOS
@@ -36,6 +37,7 @@ jobs:
           # Seuls les fichiers nouveaux ou de taille différente partent.
           lftp --env-password -u "$UTILISATEUR" "sftp://$HOTE" -e "
             set sftp:auto-confirm yes; set net:max-retries 5; set net:timeout 60;
-            mkdir -p -f $DOSSIER/videos;
-            mirror -R --ignore-time --verbose=1 videos/ $DOSSIER/videos;
+            mv $DOSSIER/videos $DOSSIER/films || echo pas-de-dossier-videos-a-renommer;
+            mkdir -p -f $DOSSIER/films;
+            mirror -R --ignore-time --verbose=1 videos/ $DOSSIER/films;
             bye"

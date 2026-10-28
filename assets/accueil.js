@@ -16,7 +16,7 @@
     const filters = document.querySelector(`[data-filters="${key}"]`);
     const base = grid.dataset.base ?? "";
     const limit = Number(grid.dataset.limit) || Infinity;
-    const cta = { BIBLIO: "Lire la fiche →", LIVRES: "Lire le livre →", EXPERIENCES: "Lire le dossier →", ANTIFA: "Lire la fiche →" }[key] || "Lire le guide →";
+    const cta = { BIBLIO: "Lire la fiche →", LIVRES: "Lire le livre →", EXPERIENCES: "Lire le dossier →", ANTIFA: "Lire la fiche →", MANIF: "Lire la fiche →" }[key] || "Lire le guide →";
     const cats = ["Tout", ...new Set(items.map((g) => g.cat))];
     let active = cats.find((c) => slugify(c) === location.hash.slice(1)) || "Tout";
 

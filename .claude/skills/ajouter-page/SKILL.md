@@ -10,6 +10,7 @@ argument-hint: <sujet de la page>
    - fiche de lecture → `_src/bibliotheque/`
    - dossier sur une révolution → `_src/experiences/`
    - antifascisme → `_src/antifascisme/`
+   - guide de manif → `_src/manif/` (la catégorie = la sous-rubrique : Legal Team…)
    - guide numérique → `_src/guides/`
 2. Pour **modifier**, trouver le fichier avec une recherche sur le titre ou l'identifiant et changer le texte dans le `.txt`, jamais dans le `.html` généré.
 3. Pour **créer**, regarder une page voisine et suivre son format (section « Format des pages » de `CLAUDE.md`) :

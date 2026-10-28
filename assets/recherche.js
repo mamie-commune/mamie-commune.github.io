@@ -12,7 +12,7 @@
   const norm = (s) => String(s ?? "").toLowerCase().normalize("NFD").replace(/[̀-ͯ]/g, "").replace(/[’']/g, " ");
 
   // Ordre d'affichage des rubriques sur la page de résultats.
-  const KINDS = ["Rubrique", "Révolutions", "Antifascisme", "Livre complet", "Fiche de lecture", "Outils numériques", "Carte"];
+  const KINDS = ["Rubrique", "Révolutions", "Antifascisme", "Guide de manif", "Livre complet", "Fiche de lecture", "Outils numériques", "Carte"];
 
   let loading = null;
   function load() {

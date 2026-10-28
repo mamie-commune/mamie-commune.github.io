@@ -21,6 +21,7 @@ $navItems = @(
   @("antifa", "antifascisme/index.html", "Antifascisme"),
   @("bibliotheque", "bibliotheque/index.html", "Bibliothèque"),
   @("carte", "carte.html", "Carte"),
+  @("manif", "manif/index.html", "Manif"),
   @("videos", "videos.html", "Vidéos"),
   @("outils", "guides/index.html", "Outils numériques")
 )
@@ -227,6 +228,10 @@ Build-Collection $exp "experiences" "luttes" "Révolutions" "Dossier" '<p class=
 $antifa = Read-Collection "antifascisme"
 Build-Collection $antifa "antifascisme" "antifa" "Antifascisme" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune d''après les ressources publiées par le site antifasciste La Horde. Les originaux (schéma, carte, livre) sont disponibles sur leur site.</p>' "ANTIFA"
 
+# Guide de manif : chaque catégorie des fiches de _src/manif/ devient une rubrique (Legal Team…).
+$manif = @(Read-Collection "manif")   # @() : une seule fiche reste une liste
+Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune. Elle ne remplace pas l''avis d''un·e avocat·e.</p>' "MANIF"
+
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).
 function Plain($html, $max) {
@@ -237,7 +242,7 @@ function Plain($html, $max) {
 }
 function Heads($html) { ([regex]::Matches($html, '<h[23][^>]*>(.*?)</h[23]>') | ForEach-Object { Plain $_.Groups[1].Value 200 }) -join ' · ' }
 $index = @()
-foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Révolutions"), @($antifa, "antifascisme", "Antifascisme"))) {
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Révolutions"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"))) {
   foreach ($g in $set[0]) {
     $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
   }
@@ -254,7 +259,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $body = $raw.Substring($m.Length)
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
-  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
   if ($f.BaseName -notin @("lecteur", "recherche", "404")) {

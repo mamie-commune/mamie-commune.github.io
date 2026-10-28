@@ -54,7 +54,8 @@
     }
     const btn = e.target.closest(".vcard__cover"); if (!btn) return;
     const screen = btn.parentElement;
-    screen.innerHTML = `<iframe src="https://www.tiktok.com/embed/v2/${encodeURIComponent(screen.dataset.id)}" title="Publication TikTok de Mamie Commune" allow="encrypted-media; fullscreen" allowfullscreen loading="lazy"></iframe>`;
+    // Lecteur officiel « player/v1 » : plus fiable que l'ancien embed/v2, qui renvoie souvent un écran noir.
+    screen.innerHTML = `<iframe src="https://www.tiktok.com/player/v1/${encodeURIComponent(screen.dataset.id)}?autoplay=1&music_info=1&description=1&rel=0" title="Publication TikTok de Mamie Commune" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>`;
     screen.classList.add("is-playing");
     const v = list.find((x) => x.id === screen.dataset.id);
     const body = screen.nextElementSibling;

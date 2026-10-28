@@ -15,15 +15,21 @@ Ouvre ce dossier dans Claude Code et demande en français, par exemple :
 
 Claude suit les consignes de `CLAUDE.md` : il modifie les sources dans `_src/`, régénère les pages, te montre le résultat, puis envoie les changements quand tu valides.
 
-## Première mise en ligne
+Raccourcis à taper dans Claude Code :
 
-1. Crée un compte sur github.com, puis un dépôt vide (par exemple `mamie-commune`).
-2. Avec GitHub Desktop : « Add local repository » sur ce dossier, puis « Publish repository ».
-3. Sur GitHub : Settings → Pages → Source : **GitHub Actions**.
-4. Attends 2 à 3 minutes (onglet Actions). Le site est en ligne à l'adresse `https://ton-pseudo.github.io/mamie-commune/`.
+| Raccourci | Ce que ça fait |
+|---|---|
+| `/ajouter-video <adresse TikTok>` | Ajoute une vidéo de Mamie |
+| `/ajouter-lieu <nom, ville>` | Ajoute un lieu sur la carte |
+| `/ajouter-page <sujet>` | Écrit une fiche, un dossier, un guide |
+| `/publier` | Met en ligne (2 à 3 minutes) |
 
-Pour un nom de domaine à toi : Settings → Pages → Custom domain.
+## Modifier depuis n'importe où
+
+Sur https://claude.ai/code, choisis le dépôt `mamie-commune/mamie-commune.github.io` et demande pareil. Pas besoin de Windows : GitHub régénère le site tout seul à chaque envoi.
+
+Site en ligne : https://mamie-commune.github.io
 
 ## Ce qui n'est pas dans le dépôt
 
-- Le film *Les Damnés de la Commune* (1,7 Go, trop lourd pour GitHub) : à déposer sur PeerTube, puis demander à Claude de brancher le lecteur.
+- Le film *Les Damnés de la Commune* (1,7 Go) : fichier joint de la release GitHub « film », lu directement par la page Vidéos.

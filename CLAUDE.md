@@ -4,6 +4,21 @@ Site statique de ressources anarchistes, en français : révolutions, antifascis
 
 La personne qui tient le site n'est pas développeuse : réponds en français simple, montre le résultat, et propose d'envoyer (commit + push) une fois qu'elle a validé.
 
+Site en ligne : https://mamie-commune.github.io · dépôt : `mamie-commune/mamie-commune.github.io`.
+
+## Raccourcis (`.claude/skills/`)
+
+- `/ajouter-video <adresse TikTok>` : nouvelle publication TikTok.
+- `/ajouter-lieu <nom, ville>` : lieu ou collectif sur la carte.
+- `/ajouter-page <sujet>` : fiche de lecture, dossier, page antifascisme, guide.
+- `/publier` : régénérer, vérifier, envoyer, suivre la mise en ligne.
+
+La personne peut aussi demander en phrases normales : utilise le raccourci qui correspond.
+
+## Depuis le web (claude.ai/code) ou un autre ordinateur
+
+La publication sur GitHub (`.github/workflows/publier.yml`) **régénère toutes les pages** sur une machine Windows. Donc, sans PowerShell (session web, Linux, Mac) : modifier les sources (`_src/`, `data/`, `assets/`), commit, push sur `main`, et c'est en ligne en 2 à 3 minutes. Seuls les PDF des livres (`_src/pdf.ps1`, besoin de Windows + Edge) doivent être faits en local.
+
 ## Règle d'or
 
 **Les pages HTML du site sont générées. Ne jamais les modifier à la main.** On modifie les sources dans `_src/` (ou les fichiers de données listés plus bas), puis on régénère :
@@ -66,9 +81,9 @@ Catégories : `fa`, `ucl`, `syndicat`, `librairie`, `lieu`, `media`, `numerique`
 
 ## Vidéos (`data/videos.js`)
 
-Copier une ligne, changer `id` (le nombre à la fin de l'adresse TikTok), `type` (`video` ou `photo`), `date`, `titre`, `vues`, `texte`, `tags`, et éventuellement `lien` vers une page du site.
+Copier une ligne, changer `id` (le nombre à la fin de l'adresse TikTok), `type` (`video` ou `photo`), `date`, `titre`, `vues`, `texte`, `tags`, et éventuellement `lien` vers une page du site. Le lecteur utilisé après le clic est `https://www.tiktok.com/player/v1/<id>` (dans `assets/videos.js`) : l'ancien `embed/v2` donnait des écrans noirs.
 
-Le documentaire *Les Damnés de la Commune* est dans `_src/pages/videos.html`. Le fichier `.mp4` (1,7 Go) n'est **pas** sur GitHub (trop lourd). Quand il est sur PeerTube, mettre son adresse d'intégration (`https://instance/videos/embed/…`) dans l'attribut `data-embed` du bouton `.doc__poster`, puis régénérer.
+Le documentaire *Les Damnés de la Commune* est dans `_src/pages/videos.html`. Le fichier `.mp4` (1,7 Go) n'est **pas** dans le dépôt : c'est le fichier joint de la release GitHub `film` (`…/releases/download/film/les-damnes-de-la-commune.mp4`), lu par l'attribut `data-src` du bouton `.doc__poster`. Pour un autre film : `gh release upload film <fichier.mp4>` (2 Go maximum, nom sans espaces ni accents), puis une nouvelle fiche `.doc` sur le même modèle. Ne jamais ajouter de `.mp4` au dépôt.
 
 ## Livres complets et PDF
 

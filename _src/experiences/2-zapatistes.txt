@@ -9,6 +9,7 @@
 <p>Le jour où entre en vigueur l'accord de libre-échange nord-américain (ALENA), des milliers d'insurgé·es indigènes occupent San Cristóbal de las Casas et plusieurs autres villes du Chiapas. Après douze jours de combats, un cessez-le-feu est signé sous la pression d'immenses manifestations dans tout le Mexique. L'EZLN choisit alors la parole plutôt que la guerre : communiqués, rencontres, ouverture au monde.</p>
 
 <h2 id="san-andres">Les accords trahis et l'autonomie de fait</h2>
+<figure class="photo"><img src="../assets/img/revolutions/zapatistes-encuentro-1996.jpg" alt="Zapatistes lors des rencontres de 1996 au Chiapas." width="1200" height="859" loading="lazy"><figcaption>Zapatistes lors des rencontres de 1996 au Chiapas. <small>Julian Stallabrass · CC BY 2.0 · <a href="https://commons.wikimedia.org/wiki/File:Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional_IMG008a-sm_(11450146613).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>En 1996, les <strong>accords de San Andrés</strong> sur les droits et la culture indigènes sont signés avec le gouvernement, puis jamais appliqués : la réforme constitutionnelle de 2001 les vide de leur contenu. Les zapatistes en tirent la conclusion : ils construiront l'autonomie <strong>sans demander la permission</strong>. En 2003, ils créent les <strong>Caracoles</strong> et les <strong>Conseils de bon gouvernement</strong>.</p>
 
 <h2 id="chronologie">Chronologie</h2>
@@ -45,6 +46,7 @@
 
 === zapatistes-organisation | Zapatistes | Commander en obéissant : l'autogouvernement zapatiste | Chiapas · depuis 1994 | Des charges tournantes et non payées, des assemblées de communauté, et depuis 2023 une structure encore plus décentralisée : l'organisation zapatiste en schémas.
 <h2 id="principe">« Mandar obedeciendo »</h2>
+<figure class="photo"><img src="../assets/img/revolutions/zapatistes-mural.jpg" alt="Peinture murale zapatiste au Chiapas, en 2006, racontant une histoire en espagnol et en langue maya." width="1200" height="764" loading="lazy"><figcaption>Peinture murale zapatiste au Chiapas, en 2006, racontant une histoire en espagnol et en langue maya. <small>Matthew T. Rader · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:An_EZLN_mural_in_Chiapas,_Mexico.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Commander en obéissant : ceux qui ont une charge ne décident pas à la place des communautés, ils exécutent ce qu'elles ont décidé. Les charges sont <strong>tournantes</strong>, de courte durée, <strong>non rémunérées</strong> : pendant leur mandat, la communauté aide à cultiver la parcelle (la milpa) des personnes élues. Une personne qui ne remplit pas son mandat peut être révoquée.</p>
 
 <h2 id="sept">Les sept principes</h2>
@@ -134,6 +136,7 @@
 
 === zapatistes-femmes-commun | Zapatistes | Femmes, commun et menaces : les zapatistes aujourd'hui | Chiapas · depuis 1994 | La Loi révolutionnaire des femmes, la terre mise en commun, et les dangers qui pèsent sur l'autonomie.
 <h2 id="loi-femmes">La Loi révolutionnaire des femmes</h2>
+<figure class="photo"><img src="../assets/img/revolutions/zapatistes-murales-femmes.jpg" alt="« À bas pour toujours la triple exploitation de la femme ! » : peintures murales zapatistes au Chiapas, en 2018." width="1200" height="900" loading="lazy"><figcaption>« À bas pour toujours la triple exploitation de la femme ! » : peintures murales zapatistes au Chiapas, en 2018. <small>Nicolescribe · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Murales_zapatistas_feministas_en_Chiapas,_2018.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Adoptée en 1993, avant même le soulèvement, après une consultation des femmes dans les communautés, elle affirme notamment :</p>
 <ul>
 <li>le droit de participer à la lutte et d'y occuper des charges, y compris militaires ;</li>
@@ -157,6 +160,7 @@
 </ul>
 
 <h2 id="debats">Ce que les libertaires en retiennent</h2>
+<figure class="photo"><img src="../assets/img/revolutions/zapatistes-mujeres-que-luchan.jpg" alt="Rencontre internationale des « femmes qui luttent », organisée par les zapatistes en décembre 2019." width="1200" height="900" loading="lazy"><figcaption>Rencontre internationale des « femmes qui luttent », organisée par les zapatistes en décembre 2019. <small>SandraLPalacios · CC BY 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Mujeres_que_luchan_cantando.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <ul>
 <li><strong>Ne pas prendre le pouvoir</strong> : changer le monde sans conquérir l'État, en construisant l'autonomie là où l'on vit.</li>
 <li><strong>Le temps long</strong> : trente ans de construction patiente, d'erreurs reconnues et de corrections.</li>

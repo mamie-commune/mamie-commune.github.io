@@ -60,6 +60,10 @@ Dans les sources, on écrit les liens normalement (`page.html`, `dossier/index.h
 
 Page `mouvement-17-octobre` (source `_src/pages/mouvement-17-octobre.html`, script `assets/mobilisations.js`). Les données (`data/mobilisations.js`) sont **recopiées** de https://17octobregiletjaune.net/carte/ par `_src/mobilisations.ps1` : ne jamais les modifier à la main. Le workflow `mobilisations.yml` les met à jour **toutes les heures** et republie le site s'il y a du nouveau ; à la main : `gh workflow run mobilisations.yml`. Pour ajouter une mobilisation, c'est sur leur carte, pas chez nous.
 
+## Images des dossiers
+
+Les photos des dossiers Révolutions sont dans `assets/img/revolutions/`, avec auteur, licence et source dans `credits.txt`. Elles viennent toutes de **Wikimedia Commons** : documents d'époque dans le domaine public, ou photos de reportage sous licence libre (CC0, CC BY, CC BY-SA). **Jamais d'image générée par IA, ni de photo colorisée** (demande expresse). Chaque image a une légende et un crédit (auteur · licence · lien Commons) : `<figure class="photo">` (`photo photo--portrait` pour une image en hauteur). Pour en ajouter : compléter la liste dans `_src/images-revolutions.ps1` et le relancer.
+
 ## Format des pages (`_src/experiences`, `_src/antifascisme`, `_src/bibliotheque`, `_src/guides`)
 
 Chaque page commence par une ligne d'en-tête, puis du HTML :

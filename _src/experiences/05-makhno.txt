@@ -2,6 +2,7 @@
 <p>Ce dossier raconte la <strong>Makhnovtchina</strong>, le mouvement insurrectionnel du sud de l'Ukraine qui porte le nom de son animateur, <strong>Nestor Makhno</strong>. De 1917 à 1921, au milieu de la guerre civile russe, des centaines de milliers de paysans et d'ouvriers y ont tenté une révolution sans État ni parti au pouvoir. Les bolcheviks l'ont écrasée, puis effacée de l'histoire officielle en traitant ses combattants de « bandits ».</p>
 
 <h2 id="makhno">Nestor Makhno, fils de paysans pauvres</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/makhno-1919.jpg" alt="Nestor Makhno en 1919." width="632" height="890" loading="lazy"><figcaption>Nestor Makhno en 1919. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Makhno-1919.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <ul>
 <li>Il naît en <strong>1888</strong> à <strong>Houliaïpole</strong>, gros bourg rural du sud de l'Ukraine, alors dans l'Empire russe. Son père meurt quand il a moins d'un an ; enfant, il garde les troupeaux et travaille chez les propriétaires.</li>
 <li>Vers <strong>1906</strong>, il rejoint un groupe anarchiste-communiste de Houliaïpole, en pleine répression de la révolution de 1905.</li>
@@ -33,6 +34,7 @@
 </ul>
 
 <h2 id="exil">L'exil à Paris</h2>
+<figure class="photo"><img src="../assets/img/revolutions/makhno-exil-1925.jpg" alt="Galina Kouzmenko, leur fille et Nestor Makhno en 1925, au début de l'exil." width="1033" height="859" loading="lazy"><figcaption>Galina Kouzmenko, leur fille et Nestor Makhno en 1925, au début de l'exil. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Galina_Kouzmenko_Makhno_et_leur_fille.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Après les prisons de Roumanie et de Pologne, Makhno arrive à <strong>Paris</strong> en 1925, avec sa compagne <strong>Galina Kouzmenko</strong> et leur fille. Il vit pauvrement, travaille en usine tant que sa santé le permet, écrit ses mémoires et participe aux débats du mouvement anarchiste, notamment autour de la <strong>Plateforme</strong> publiée en 1926 avec Archinov. Il meurt de la tuberculose en <strong>juillet 1934</strong>. Ses cendres reposent au columbarium du <strong>Père-Lachaise</strong>.</p>
 
 <h2 id="chronologie">Chronologie</h2>
@@ -101,6 +103,7 @@
 <p>Avec les villes, les makhnovistes cherchent à organiser des <strong>échanges directs</strong> : du blé contre des tissus, des outils, du sel. C'est l'inverse de la politique bolchevique des <em>réquisitions</em>, où des détachements armés venaient saisir les récoltes.</p>
 
 <h2 id="armee">L'armée insurrectionnelle</h2>
+<figure class="photo"><img src="../assets/img/revolutions/makhno-commandants-1919.jpg" alt="Makhno parmi des commandants de l'armée insurrectionnelle, à Berdiansk, en 1919." width="1114" height="785" loading="lazy"><figcaption>Makhno parmi des commandants de l'armée insurrectionnelle, à Berdiansk, en 1919. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Nestor_Makhno_and_his_Lieutenants,_Berdyansk,_1919.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>L'Armée révolutionnaire insurrectionnelle d'Ukraine, dite « makhnoviste », a compté selon les moments quelques milliers à plusieurs dizaines de milliers de combattant·es. Ses règles tranchaient avec les armées de l'époque :</p>
 <ul>
 <li><strong>Volontariat</strong> : on rejoint l'armée par choix ; c'est le congrès, et non un état-major, qui appelle à la mobilisation.</li>
@@ -183,6 +186,7 @@
 <p>En avril 1919, le commandant rouge Dybenko déclare « contre-révolutionnaire » le troisième congrès de la région. Le Conseil militaire révolutionnaire makhnoviste lui répond publiquement, en substance : peut-on appeler révolutionnaires des lois faites par quelques personnes qui se disent révolutionnaires, et qui leur permettent de mettre hors-la-loi un peuple entier plus révolutionnaire qu'elles ? Le congrès, rappellent les makhnovistes, a été élu par les travailleurs eux-mêmes.</p>
 
 <h2 id="cronstadt">Cronstadt, mars 1921</h2>
+<figure class="photo"><img src="../assets/img/revolutions/makhno-cronstadt-1921.jpg" alt="Mars 1921 : des soldats de l'Armée rouge avancent sur la glace pour prendre Cronstadt." width="789" height="543" loading="lazy"><figcaption>Mars 1921 : des soldats de l'Armée rouge avancent sur la glace pour prendre Cronstadt. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Kronstadt_attack.JPG" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Les marins de la base navale de <strong>Cronstadt</strong>, près de Petrograd, étaient en 1917 parmi les plus ardents révolutionnaires. En mars 1921, après des grèves ouvrières affamées à Petrograd, ils réclament des <strong>soviets réélus librement</strong>, la liberté de parole et de presse pour les ouvriers, les paysans, les anarchistes et les socialistes, et la fin des réquisitions. Le pouvoir répond par l'assaut : Trotsky et Toukhatchevski lancent l'Armée rouge sur la glace, et la révolte est écrasée dans le sang. Pour les anarchistes, Cronstadt est la preuve que l'État « ouvrier » tire sur les ouvriers. Emma Goldman, témoin, le raconte dans <a href="../bibliotheque/orage-a-petrograd.html">1921, l'orage éclate à Petrograd</a>.</p>
 
 <h2 id="temoins">Les témoins libertaires</h2>

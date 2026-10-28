@@ -13,6 +13,7 @@
 <p>Pendant la guerre civile syrienne, le régime de Bachar al-Assad retire ses troupes du nord du pays en juillet 2012. Le mouvement kurde lié à ce projet prend en main les villes : il crée des communes, des conseils, des forces d'autodéfense (<strong>YPG</strong>, et les unités de femmes <strong>YPJ</strong>). En janvier 2014, trois cantons (Afrin, Kobanê, Cizîrê) proclament leur autonomie et adoptent un <strong>Contrat social</strong>.</p>
 
 <h2 id="kobane">Kobanê et la guerre contre l'État islamique</h2>
+<figure class="photo"><img src="../assets/img/revolutions/rojava-ypj.jpg" alt="Combattantes des YPJ, les unités de défense des femmes, en 2017." width="1200" height="922" loading="lazy"><figcaption>Combattantes des YPJ, les unités de défense des femmes, en 2017. <small>Kurdishstruggle · CC BY 2.0 · <a href="https://commons.wikimedia.org/wiki/File:YPJ_fighters_with_flags.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>De septembre 2014 à janvier 2015, la ville de <strong>Kobanê</strong>, assiégée par l'État islamique, résiste rue par rue. Elle devient un symbole mondial. Les Forces démocratiques syriennes (FDS), coalition kurde, arabe et syriaque, libèrent ensuite Raqqa (2017) puis le dernier bastion de l'EI à Baghouz (mars 2019), au prix de plus de dix mille morts dans leurs rangs.</p>
 
 <h2 id="chronologie">Chronologie</h2>
@@ -85,6 +86,7 @@
 </figure>
 
 <h2 id="commune">Ce que fait une commune</h2>
+<figure class="photo"><img src="../assets/img/revolutions/rojava-assemblee-femmes.jpg" alt="Une assemblée de femmes près de Qamichli, en décembre 2014." width="1029" height="1035" loading="lazy"><figcaption>Une assemblée de femmes près de Qamichli, en décembre 2014. <small>Janet Biehl · CC BY-SA 2.0 · <a href="https://commons.wikimedia.org/wiki/File:Women%27s_assembly_near_Qamislo.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>La commune n'est pas une simple réunion de voisins : elle prend en charge la vie quotidienne à travers des <strong>commissions</strong>.</p>
 
 <figure class="schema">
@@ -139,6 +141,7 @@
 </ul>
 
 <h2 id="ecologie">Écologie et économie</h2>
+<figure class="photo"><img src="../assets/img/revolutions/rojava-cooperative.jpg" alt="Une coopérative de couture au Rojava, en décembre 2014." width="1200" height="900" loading="lazy"><figcaption>Une coopérative de couture au Rojava, en décembre 2014. <small>Janet Biehl · CC BY-SA 2.0 · <a href="https://commons.wikimedia.org/wiki/File:Rojava_Sewing_Cooperative.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le nord-est syrien a hérité d'une monoculture de blé et de pétrole imposée par le régime. Le projet prévoit de diversifier les cultures, de reboiser et de développer des <strong>coopératives</strong>. La campagne « Make Rojava Green Again » a soutenu des pépinières et des projets agricoles. Dans les faits, la guerre, le blocus et les coupures d'eau de l'Euphrate limitent fortement ces ambitions, et le pétrole reste une ressource centrale.</p>
 
 <h2 id="critiques">Les critiques</h2>

@@ -545,6 +545,15 @@ html.has-player { overflow: hidden; }
 .mobacts li { padding: 5px 0; border-top: 1px dashed var(--ink); }
 .mobacts small { color: var(--muted); }
 
+/* photos d'archives et de reportage dans les dossiers : tirage papier collé de travers */
+.photo { margin: 1.4em 0 2em; padding: 10px 10px 0; background: var(--paper-2); box-shadow: 5px 5px 0 var(--ink), 0 14px 24px -14px rgba(23,20,20,.55); transform: rotate(-.5deg); }
+.photo:nth-of-type(even) { transform: rotate(.5deg); }
+.photo img { display: block; width: 100%; height: auto; border: 0; }
+.photo--portrait { max-width: 380px; margin-inline: auto; }
+.photo figcaption { padding: 10px 2px 12px; font-size: 15px; line-height: 1.45; }
+.photo figcaption small { display: block; margin-top: 4px; font: 400 12.5px/1.4 var(--mono); color: var(--muted); }
+.photo figcaption small a { color: inherit; }
+
 /* page introuvable (404) */
 .lost__in { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: clamp(28px, 6vw, 72px); align-items: center; min-height: 52vh; }
 .lost__mamie { position: relative; width: 180px; margin: 30px 30px 30px 80px; }

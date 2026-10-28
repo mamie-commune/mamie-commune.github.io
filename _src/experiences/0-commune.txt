@@ -9,9 +9,11 @@
 </ul>
 
 <h2 id="18-mars">18 mars : les canons de Montmartre</h2>
+<figure class="photo"><img src="../assets/img/revolutions/commune-canons-montmartre.jpg" alt="Les canons de la Garde nationale rassemblés sur la butte Montmartre, en mars 1871. C'est pour les reprendre que l'armée monte à l'aube du 18 mars." width="1200" height="836" loading="lazy"><figcaption>Les canons de la Garde nationale rassemblés sur la butte Montmartre, en mars 1871. C'est pour les reprendre que l'armée monte à l'aube du 18 mars. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Commune_de_Paris_Canons_%C3%A0_Montmartre_le_18_mars.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>À l'aube, le chef du gouvernement, Adolphe Thiers, envoie l'armée reprendre les canons de la Garde nationale, payés par souscription des Parisiens et parqués sur la butte Montmartre. Les femmes du quartier, debout avant tout le monde, donnent l'alerte et entourent les soldats. La troupe refuse de tirer sur la foule et fraternise. Deux généraux sont tués. Thiers abandonne Paris avec l'armée et l'administration. Le soir, le <strong>Comité central de la Garde nationale</strong> s'installe à l'Hôtel de Ville.</p>
 
 <h2 id="commune">La Commune proclamée</h2>
+<figure class="photo"><img src="../assets/img/revolutions/commune-barricade-castiglione.jpg" alt="Communards devant une barricade de la rue de Castiglione, à Paris, en 1871." width="1200" height="902" loading="lazy"><figcaption>Communards devant une barricade de la rue de Castiglione, à Paris, en 1871. <small>photo attribuée à Bruno Braquehais · CC0, musée Carnavalet · <a href="https://commons.wikimedia.org/wiki/File:La_Commune_1871._Barricade_rue_de_Castiglione,_1er_arrondissement,_Paris._PH20145.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le Comité central refuse de garder le pouvoir : il organise des élections le <strong>26 mars</strong>. Le 28, la Commune est proclamée devant une foule immense place de l'Hôtel-de-Ville. À Lyon, Marseille, Saint-Étienne, Toulouse, Narbonne, Le Creusot, des communes naissent aussi, mais sont écrasées en quelques jours. Paris reste seul.</p>
 <p>La Commune légifère vite : remise des loyers, séparation de l'Église et de l'État, ateliers abandonnés confiés aux ouvriers, école gratuite et laïque. Voir <a href="commune-de-paris-decrets-femmes.html">les décrets et les femmes de la Commune</a>.</p>
 
@@ -47,6 +49,7 @@
 
 === commune-de-paris-organisation | Commune de Paris | Comment la Commune s'organisait | Paris · 1871 | Des citoyens en armes qui élisent leurs chefs, des élus révocables payés comme des ouvriers, des commissions, des clubs et des ateliers coopératifs.
 <h2 id="pouvoirs">Deux pouvoirs nés d'en bas</h2>
+<figure class="photo"><img src="../assets/img/revolutions/commune-barricade-vendome.jpg" alt="Gardes nationaux fédérés devant la barricade de la place Vendôme, en mai 1871." width="1200" height="927" loading="lazy"><figcaption>Gardes nationaux fédérés devant la barricade de la place Vendôme, en mai 1871. <small>Bruno Braquehais · CC0, musée Carnavalet · <a href="https://commons.wikimedia.org/wiki/File:Communards_et_barricade_place_Vend%C3%B4me._Mai_1871._Commune_de_Paris,_guerre_civile,_r%C3%A9volution._1er_arrondissement,_Paris._PH32369.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>La Commune repose sur deux piliers. D'un côté, la <strong>Garde nationale</strong> : les habitants en armes, organisés par bataillons de quartier, élisent leurs officiers et se fédèrent dans un Comité central. De l'autre, le <strong>Conseil de la Commune</strong>, élu le 26 mars par les vingt arrondissements, qui fait les lois et les applique à travers des commissions.</p>
 
 <figure class="schema">
@@ -122,6 +125,7 @@
 
 === commune-de-paris-decrets-femmes | Commune de Paris | Les décrets, les femmes et l'héritage de la Commune | Paris · 1871 | Loyers, laïcité, travail de nuit, guillotine brûlée : ce que la Commune a décidé en deux mois, le rôle des femmes, et ce qu'en ont tiré les anarchistes.
 <h2 id="decrets">Ce que la Commune a décidé</h2>
+<figure class="photo"><img src="../assets/img/revolutions/commune-colonne-vendome.jpg" alt="La colonne Vendôme, symbole des guerres de Napoléon, abattue le 16 mai 1871 sur décision de la Commune." width="1200" height="792" loading="lazy"><figcaption>La colonne Vendôme, symbole des guerres de Napoléon, abattue le 16 mai 1871 sur décision de la Commune. <small>photographe inconnu · CC0, musée Carnavalet · <a href="https://commons.wikimedia.org/wiki/File:Destruction_de_la_colonne_Vend%C3%B4me,_1871,_PH3076.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <div class="tbl"><table>
 <thead><tr><th>Date</th><th>Décision</th></tr></thead>
 <tbody>
@@ -138,6 +142,7 @@
 </tbody></table></div>
 
 <h2 id="femmes">Les femmes de la Commune</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/commune-louise-michel.jpg" alt="Louise Michel photographiée en prison à Versailles, après la défaite de la Commune." width="1075" height="1782" loading="lazy"><figcaption>Louise Michel photographiée en prison à Versailles, après la défaite de la Commune. <small>photo attribuée à Ernest Appert · CC0, musée Carnavalet · <a href="https://commons.wikimedia.org/wiki/File:Portrait_de_Michel_Louise_(1830-1905),_pris_%C3%A0_la_prison_des_Chantiers_%C3%A0_Versailles._Commune_de_Paris,_1871._PH19727-4.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce sont des femmes qui ont donné l'alerte le 18 mars. Elles sont partout ensuite : ambulancières, cantinières, oratrices des clubs, combattantes sur les barricades.</p>
 <ul>
 <li><strong>Louise Michel</strong>, institutrice, garde nationale en uniforme, ambulancière, devenue anarchiste en déportation.</li>

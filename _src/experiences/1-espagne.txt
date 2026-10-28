@@ -2,6 +2,7 @@
 <p>Ce dossier raconte la guerre d'Espagne du point de vue des anarchistes qui l'ont vécue : la <strong>CNT</strong> (Confédération nationale du travail, anarcho-syndicaliste) et la <strong>FAI</strong> (Fédération anarchiste ibérique). Pour eux, 1936 n'est pas seulement une guerre contre le fascisme : c'est une <strong>révolution sociale</strong>, que la guerre et leurs alliés ont fini par étouffer.</p>
 
 <h2 id="avant">Avant 1936 : un mouvement de masse</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/espagne-manifestation-cnt.jpg" alt="Manifestation à Barcelone derrière la banderole de Solidaridad Obrera, le quotidien de la CNT, en 1936-1937." width="620" height="674" loading="lazy"><figcaption>Manifestation à Barcelone derrière la banderole de Solidaridad Obrera, le quotidien de la CNT, en 1936-1937. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:CNT-AIT-FAI.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <ul>
 <li><strong>1910</strong> : fondation de la CNT à Barcelone. Ni parti ni permanents payés : des syndicats qui veulent préparer la société future par l'action directe.</li>
 <li>Pendant vingt-cinq ans, grèves, répression, clandestinité. La CNT devient la plus grande organisation ouvrière d'Espagne, surtout en Catalogne, en Aragon, au Levant et en Andalousie.</li>
@@ -16,6 +17,7 @@
 <p>Au congrès de Saragosse, la CNT adopte une motion sur le <strong>communisme libertaire</strong> : la société future reposera sur la <strong>commune libre</strong>, assemblée de tous les habitants, fédérée avec les autres communes et avec les syndicats d'industrie. Pas d'État, pas d'argent à terme, la production organisée selon les besoins. Deux mois plus tard, ce programme va être mis en pratique.</p>
 
 <h2 id="juillet">19 juillet 1936 : le peuple en armes</h2>
+<figure class="photo"><img src="../assets/img/revolutions/espagne-barricade-1936.jpg" alt="La milicienne anarchiste Ana Garbín Alonso sur une barricade de Barcelone, le 25 juillet 1936, sous le drapeau de la CNT-FAI." width="1200" height="1200" loading="lazy"><figcaption>La milicienne anarchiste Ana Garbín Alonso sur une barricade de Barcelone, le 25 juillet 1936, sous le drapeau de la CNT-FAI. <small>Antoni Campañà · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Militiawoman_on_the_barricade.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le 17 juillet, une partie de l'armée se soulève contre la République. Le gouvernement hésite à armer la population. À <strong>Barcelone</strong>, les comités de défense de la CNT n'attendent pas : les 19 et 20 juillet, avec des ouvriers de tous les quartiers et une partie des gardes d'assaut, ils battent les militaires rue par rue. <strong>Francisco Ascaso</strong> est tué devant la caserne d'Atarazanas.</p>
 <p>Le pouvoir est dans la rue. La CNT-FAI, majoritaire, refuse pourtant de « prendre le pouvoir » : elle accepte de siéger dans un <strong>Comité central des milices antifascistes</strong> avec les autres organisations, en laissant subsister le gouvernement catalan. Ce choix pèsera lourd.</p>
 
@@ -121,6 +123,7 @@
 </figure>
 
 <h2 id="villes">Les villes : l'autogestion des entreprises</h2>
+<figure class="photo"><img src="../assets/img/revolutions/espagne-cooperative-cnt.jpg" alt="Un atelier coopératif de Barcelone géré par la CNT-FAI." width="640" height="382" loading="lazy"><figcaption>Un atelier coopératif de Barcelone géré par la CNT-FAI. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:CNT-FAI_Cooperative_Barcelona.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>À Barcelone, en juillet 1936, beaucoup de patrons ont fui. Les travailleur·euses réunis en <strong>assemblée d'entreprise</strong> élisent un <strong>comité</strong>, qui associe souvent un·e technicien·ne. Les tramways, le métro, le téléphone, l'eau, le gaz, l'électricité, les boulangeries, les spectacles tournent ainsi pendant des mois.</p>
 <ul>
 <li>Selon les témoins de l'époque, les tramways barcelonais, remis en état par leurs employé·es, transportent davantage de passagers qu'avant.</li>
@@ -140,6 +143,7 @@
 
 === espagne-1936-milices-debats | Espagne 1936 | Milices, Mujeres Libres et dilemmes de la révolution | Espagne · 1936-1939 | Des milices sans grades, un mouvement de femmes libertaires, et les choix déchirants de 1936-1937 : participer au gouvernement ou perdre la guerre ?
 <h2 id="milices">Les milices : une armée sans officiers</h2>
+<figure class="photo"><img src="../assets/img/revolutions/espagne-miliciennes-1936.jpg" alt="Miliciennes de la CNT-FAI à Barcelone, en juillet 1936." width="565" height="364" loading="lazy"><figcaption>Miliciennes de la CNT-FAI à Barcelone, en juillet 1936. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Milicianas_CNT-FAI.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Dès juillet 1936, des dizaines de milliers de volontaires partent vers le front d'Aragon. Les milices confédérales refusent les grades, le salut et les privilèges : les délégué·es sont élu·es, la solde est la même pour toutes et tous, et la discipline repose sur l'engagement.</p>
 
 <figure class="schema">
@@ -164,6 +168,7 @@
 <p>Au début de 1937, le gouvernement impose la <strong>militarisation</strong> : les milices deviennent des divisions de l'armée régulière, avec officiers et code militaire. Une partie des miliciens refuse et rentre à l'arrière ; la plupart acceptent, pour ne pas perdre armes et ravitaillement.</p>
 
 <h2 id="mujeres">Mujeres Libres</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/espagne-mujeres-libres.jpg" alt="Le premier numéro de la revue Mujeres Libres, en mai 1936." width="282" height="360" loading="lazy"><figcaption>Le premier numéro de la revue Mujeres Libres, en mai 1936. <small>Mujeres Libres · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Mujeres_libres_n%C2%B01.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Fondée en avril 1936 par Lucía Sánchez Saornil, Mercedes Comaposada et Amparo Poch y Gascón, <strong>Mujeres Libres</strong> (Femmes libres) refuse d'attendre « après la révolution » pour l'émancipation des femmes. Elle aurait compté autour de 20 000 membres.</p>
 <ul>
 <li>Cours d'alphabétisation et de formation professionnelle pour que les femmes remplacent les hommes partis au front.</li>

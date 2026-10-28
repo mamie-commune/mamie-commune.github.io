@@ -1,0 +1,41 @@
+# Toutes les heures : recopie la carte du mouvement du 17 Octobre (17octobregiletjaune.net/carte/)
+# dans data/mobilisations.js. Si elle a changé, enregistre le fichier et relance « Publier le site ».
+# (Un envoi fait par ce robot ne déclenche pas tout seul la publication : on la lance explicitement.)
+name: Mettre à jour la carte du 17 Octobre
+
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: mobilisations
+  cancel-in-progress: false
+
+jobs:
+  carte:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Recopier la carte
+        shell: pwsh
+        run: ./_src/mobilisations.ps1
+      - name: Enregistrer et publier si ça a changé
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/mobilisations.js; then
+            echo "Rien de nouveau sur la carte du 17 octobre."
+            exit 0
+          fi
+          git config user.name "mamie-commune-robot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/mobilisations.js
+          git commit -m "Carte du 17 Octobre : mise à jour automatique"
+          git pull --rebase -q origin main
+          git push -q origin HEAD:main
+          gh workflow run publier.yml --ref main

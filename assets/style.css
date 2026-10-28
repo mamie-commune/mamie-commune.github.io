@@ -534,6 +534,17 @@ html.has-player { overflow: hidden; }
 .dl__item small { font: 400 13px/1 var(--mono); color: var(--muted); }
 .prose .dl__item:hover, .dl__item:hover { background: var(--yellow); color: var(--ink); transform: rotate(0) translate(-2px, -2px); }
 
+/* carte du mouvement du 17 Octobre : en-tête jaune gilet, points ronds */
+.side__head--jaune { background: #f5d400; color: var(--ink); }
+.side__head .side__jour { margin: 0 0 12px; font: 400 20px/1.2 var(--display); }
+.side__jour b { font-weight: 400; background: var(--ink); color: #f5d400; padding: 2px 8px; }
+.side__select { width: 100%; background: var(--paper-2); border: 2px solid var(--ink); color: var(--ink); font: 400 16px/1.4 var(--body); padding: 10px 12px; }
+.side__select:focus { outline: none; box-shadow: 4px 4px 0 var(--pink); }
+.pin--rond { width: 14px; height: 14px; border-radius: 50%; transform: none; border-width: 2px; }
+.mobacts { list-style: none; margin: 8px 0 0; padding: 0; max-height: 180px; overflow-y: auto; }
+.mobacts li { padding: 5px 0; border-top: 1px dashed var(--ink); }
+.mobacts small { color: var(--muted); }
+
 /* page introuvable (404) */
 .lost__in { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: clamp(28px, 6vw, 72px); align-items: center; min-height: 52vh; }
 .lost__mamie { position: relative; width: 180px; margin: 30px 30px 30px 80px; }

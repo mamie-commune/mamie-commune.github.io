@@ -22,6 +22,7 @@ $navItems = @(
   @("bibliotheque", "bibliotheque/index.html", "Bibliothèque"),
   @("carte", "carte.html", "Carte"),
   @("manif", "manif/index.html", "Manif"),
+  @("octobre", "mouvement-17-octobre.html", "17 Octobre"),
   @("videos", "videos.html", "Vidéos"),
   @("outils", "guides/index.html", "Outils numériques")
 )
@@ -40,7 +41,7 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
 
 # Empreinte des sources : change dès qu'un texte, un style, un script ou une donnée change.
 $sha = [Security.Cryptography.SHA1]::Create()
-$verFiles = @(Get-ChildItem $src -Recurse -File -Include *.txt, *.html, *.muse | Where-Object { $_.FullName -notmatch '\\textes\\print\\' }) + @(Get-ChildItem (Join-Path $site "assets") -File -Include *.js, *.css -Recurse) + @(Get-Item (Join-Path $site "data\lieux.js"), (Join-Path $site "data\videos.js"))
+$verFiles = @(Get-ChildItem $src -Recurse -File -Include *.txt, *.html, *.muse | Where-Object { $_.FullName -notmatch '\\textes\\print\\' }) + @(Get-ChildItem (Join-Path $site "assets") -File -Include *.js, *.css -Recurse) + @(Get-Item (Join-Path $site "data\lieux.js"), (Join-Path $site "data\videos.js"), (Join-Path $site "data\mobilisations.js"))
 $verBytes = New-Object System.IO.MemoryStream
 foreach ($vf in ($verFiles | Sort-Object FullName)) { $bytes = [IO.File]::ReadAllBytes($vf.FullName); $verBytes.Write($bytes, 0, $bytes.Length) }
 $ver = ([BitConverter]::ToString($sha.ComputeHash($verBytes.ToArray())) -replace '-', '').Substring(0, 8).ToLower()

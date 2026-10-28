@@ -1,0 +1,30 @@
+<!-- Mouvement du 17 Octobre · Mamie Commune | Carte des mobilisations du mouvement du 17 octobre : manifestations, ronds-points, sittings, blocages, assemblées. Mise à jour toutes les heures. | octobre | <script src="assets/vendor/leaflet.js"></script><script src="assets/vendor/leaflet.markercluster.js"></script><script src="data/mobilisations.js"></script><script src="assets/mobilisations.js"></script> -->
+<link rel="stylesheet" href="assets/vendor/leaflet.css">
+<div class="mapapp">
+  <aside class="side" aria-label="Jour, recherche et types d'action">
+    <div class="side__head side__head--jaune">
+      <p id="mobMaj">Carte des mobilisations</p>
+      <h1>Mouvement du 17 Octobre</h1>
+      <p class="side__jour">Où agir : <b id="mobJourTitre">samedi 31 octobre</b></p>
+      <span>Toutes les mobilisations recensées par le mouvement du 17 octobre, gilets jaunes et vie chère : manifestations, ronds-points, sittings, blocages, assemblées.</span>
+    </div>
+    <div class="side__block">
+      <p class="side__label"><label for="mobJour">Changer de jour</label></p>
+      <select id="mobJour" class="side__select"></select>
+      <p class="side__label" style="margin-top:16px"><label for="mobSearch">Trouver une mobilisation</label></p>
+      <input id="mobSearch" type="search" placeholder="Ville, code postal ou lieu…" autocomplete="off">
+    </div>
+    <div class="side__block">
+      <div class="tally" id="mobTally"></div>
+    </div>
+    <div>
+      <p class="side__label side__block" style="margin:0;border-bottom:0;padding-bottom:6px" id="mobCount">0 lieu affiché</p>
+      <ul class="placelist" id="mobList"></ul>
+    </div>
+    <p class="side__foot">Ta mobilisation n'est pas sur la carte ? Ajoute-la sur <a href="https://17octobregiletjaune.net/carte/" target="_blank" rel="noopener">la carte du mouvement</a> : elle apparaîtra ici dans l'heure, après vérification par leur équipe.<br><br>Données recopiées chaque heure depuis 17octobregiletjaune.net. Fond de carte © contributeurs OpenStreetMap.</p>
+  </aside>
+
+  <div class="mapwrap">
+    <div id="map" role="region" aria-label="Carte des mobilisations"><p class="map__loading">Chargement de la carte…</p></div>
+  </div>
+</div>

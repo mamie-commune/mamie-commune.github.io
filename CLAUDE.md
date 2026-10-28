@@ -56,6 +56,10 @@ Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html
 
 Dans les sources, on écrit les liens normalement (`page.html`, `dossier/index.html`). À la génération, `_src/build.ps1` (`Clean-Links`) les transforme en `page` et `dossier/` : les adresses publiques n'ont ni `.html` ni `index.html`. Sur IONOS, `.htaccess` sert `page.html` pour `/page` et redirige les anciennes adresses en `.html`. Dans le JavaScript (`assets/*.js`, `data/videos.js`), écrire directement les liens sans `.html`. Une page supprimée garde un renvoi : règle dans `.htaccess` + petite page de renvoi générée dans `build.ps1` (exemple : `partage` → `guides/signal`).
 
+## Carte du mouvement du 17 Octobre
+
+Page `mouvement-17-octobre` (source `_src/pages/mouvement-17-octobre.html`, script `assets/mobilisations.js`). Les données (`data/mobilisations.js`) sont **recopiées** de https://17octobregiletjaune.net/carte/ par `_src/mobilisations.ps1` : ne jamais les modifier à la main. Le workflow `mobilisations.yml` les met à jour **toutes les heures** et republie le site s'il y a du nouveau ; à la main : `gh workflow run mobilisations.yml`. Pour ajouter une mobilisation, c'est sur leur carte, pas chez nous.
+
 ## Format des pages (`_src/experiences`, `_src/antifascisme`, `_src/bibliotheque`, `_src/guides`)
 
 Chaque page commence par une ligne d'en-tête, puis du HTML :

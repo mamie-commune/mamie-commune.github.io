@@ -6,6 +6,7 @@
   const form = document.querySelector(".search__in");
   if (!form) return;
   const root = form.dataset.root || "";
+  const ver = (document.currentScript && new URL(document.currentScript.src).search) || "";   // ?v=… : même version que la page
   const input = form.querySelector(".search__input");
   const box = form.querySelector(".search__res");
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -22,7 +23,7 @@
     if (!window.LIEUX) need.push("data/lieux.js");
     loading = Promise.all(need.map((f) => new Promise((ok) => {
       const s = document.createElement("script");
-      s.src = root + f; s.onload = ok; s.onerror = ok;
+      s.src = root + f + ver; s.onload = ok; s.onerror = ok;
       document.head.appendChild(s);
     }))).then(build);
     return loading;

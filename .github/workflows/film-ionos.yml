@@ -1,0 +1,41 @@
+# Copie les films de la release GitHub « film » vers l'hébergement IONOS (dossier videos/),
+# où ils sont servis comme de vraies vidéos, lisibles sur téléphone.
+# À lancer à la main après avoir ajouté un film à la release : onglet Actions → « Envoyer les films sur IONOS » → Run workflow,
+# ou : gh workflow run film-ionos.yml
+name: Envoyer les films sur IONOS
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ionos
+  cancel-in-progress: false
+
+jobs:
+  films:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer les films de la release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir videos
+          gh release download film -R "$GITHUB_REPOSITORY" -p "*.mp4" -D videos
+          ls -lh videos
+      - name: Envoyer sur IONOS (SFTP)
+        env:
+          HOTE: ${{ secrets.IONOS_HOTE }}
+          UTILISATEUR: ${{ secrets.IONOS_UTILISATEUR }}
+          LFTP_PASSWORD: ${{ secrets.IONOS_MOT_DE_PASSE }}
+          DOSSIER: ${{ vars.IONOS_DOSSIER || '/mamiecommune' }}
+        run: |
+          sudo apt-get install -y -qq lftp > /dev/null
+          # Seuls les fichiers nouveaux ou de taille différente partent.
+          lftp --env-password -u "$UTILISATEUR" "sftp://$HOTE" -e "
+            set sftp:auto-confirm yes; set net:max-retries 5; set net:timeout 60;
+            mkdir -p -f $DOSSIER/videos;
+            mirror -R --ignore-time --verbose=1 videos/ $DOSSIER/videos;
+            bye"

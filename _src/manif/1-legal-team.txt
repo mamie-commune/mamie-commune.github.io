@@ -1,6 +1,6 @@
 === legal-team | Legal Team | Sortez couvert·es : tes droits en manif et en garde à vue | Legal team de la Coordination contre la répression · septembre 2024 | Avant de partir, contrôle d'identité, garde à vue, téléphone et fichage, face à la justice, mineur·es, défense collective, et des lettres toutes prêtes pour contester un PV de manif.
 <p>Cette fiche reprend avec nos mots la brochure <strong>« Sortez couvert·es »</strong> de la legal team de la <strong>Coordination contre la répression et les violences policières (Paris, Île-de-France)</strong>, version 7 de septembre 2024. Elle vaut pour la <strong>France</strong>. Imprime l'original et fais-le tourner : <a href="https://rajcollective.noblogs.org/files/2024/09/SORTEZ-COUVERTES-V7-sept-2024-DEF.pdf" target="_blank" rel="noopener">la brochure en PDF</a> (2 pages).</p>
-<div class="note"><p><strong>Urgence à Paris et en Île-de-France</strong> : tu as vu une interpellation ou des violences policières, ou tu es sans nouvelles d'une personne interpellée ? Appelle la legal team au <strong>07 52 95 71 11</strong>, de préférence <strong>sur Signal</strong>. Pour ce qui est moins urgent : <strong>stoprepression@riseup.net</strong>. Dans d'autres villes, cherche ta legal team locale sur le site du <strong>RAJCOL</strong>, Réseau d'autodéfense juridique collective : rajcollective.noblogs.org.</p></div>
+<div class="note"><p><strong>Avant chaque manif, trouve la legal team de ta ville</strong> et note son numéro sur ton bras ou sur un papier : c'est elle qu'on appelle si on voit une interpellation, des violences policières, ou si on est sans nouvelles de quelqu'un. Les legal teams de différentes villes sont listées sur le site du <strong>RAJCOL</strong>, Réseau d'autodéfense juridique collective : rajcollective.noblogs.org.</p></div>
 
 <h2 id="avant">Avant de partir</h2>
 <ul>
@@ -74,7 +74,7 @@
 <li><b>Décider soi-même</b>La défense se prépare à trois (prévenu·e, avocat·e, legal team), mais c'est la personne poursuivie qui a le dernier mot.</li>
 <li><b>Partager les frais</b>Une caisse collective aide chacun·e à payer ses frais de justice selon ses besoins, pas selon ses moyens.</li>
 </ol>
-<p>La legal team n'est pas un service d'« avocats gratos » : elle construit, avec les personnes réprimées, une défense politique. À Paris, la Coordination contre la répression se réunit publiquement tous les mardis à 18 h 30 à la Bourse du travail (détails sur paris-luttes.info et agenda-militant.org). Caisse de soutien : kutt.it/stoprep.</p>
+<p>La legal team n'est pas un service d'« avocats gratos » : elle construit, avec les personnes réprimées, une défense politique.</p>
 
 <h2 id="contester">Contester un PV de manif</h2>
 <p>Tu as reçu un avis de contravention (souvent 135 €) pour avoir manifesté ? <strong>Ne le paie pas</strong> si tu veux le contester. Envoie une lettre en <strong>recommandé avec accusé de réception</strong>, dans les <strong>45 jours</strong>, à l'officier du ministère public dont l'adresse figure sur l'avis, avec <strong>l'original de l'avis</strong> (rempli, daté et signé au verso) et une copie pour toi. Choisis le modèle qui correspond à ta situation :</p>

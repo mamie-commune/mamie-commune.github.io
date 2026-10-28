@@ -9,8 +9,8 @@
 <link rel="icon" href="assets/icone-48.png" sizes="48x48" type="image/png">
 <link rel="icon" href="assets/icone-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="assets/icone-180.png">
-<link rel="stylesheet" href="assets/fonts.css">
-<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/fonts.css?v=3a55b4a4">
+<link rel="stylesheet" href="assets/style.css?v=3a55b4a4">
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
@@ -62,9 +62,9 @@
 
     <article class="doc" id="damnes-de-la-commune">
       <div class="doc__media">
-        <!-- Le film est un fichier joint de la release « film » du dépôt GitHub (data-src).
-             Pour passer par PeerTube : coller l'adresse d'intégration dans data-embed (prioritaire). -->
-        <button class="doc__poster" type="button" data-src="https://github.com/mamie-commune/mamie-commune.github.io/releases/download/film/les-damnes-de-la-commune.mp4" data-embed="" aria-label="Regarder le film Les Damnés de la Commune (1 h 27)">
+        <!-- Le film est hébergé chez IONOS (videos/, envoyé par .github/workflows/film-ionos.yml), lisible sur téléphone.
+             Secours : le fichier joint de la release « film » sur GitHub (data-secours), si l'adresse IONOS ne répond pas. -->
+        <button class="doc__poster" type="button" data-src="videos/les-damnes-de-la-commune.mp4" data-secours="https://github.com/mamie-commune/mamie-commune.github.io/releases/download/film/les-damnes-de-la-commune.mp4" data-embed="" aria-label="Regarder le film Les Damnés de la Commune (1 h 27)">
           <svg class="doc__star" viewBox="0 0 100 100" aria-hidden="true"><polygon points="50,0 61.2,34.5 97.6,34.5 68.2,55.9 79.4,90.5 50,69.1 20.6,90.5 31.8,55.9 2.4,34.5 38.8,34.5"/></svg>
           <span class="doc__ptitle" data-ransom>Les Damnés de la Commune</span>
           <span class="vcard__play" aria-hidden="true">▶</span>
@@ -175,8 +175,8 @@
   </div>
   <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="mentions-legales">Mentions légales</a></p>
 </footer>
-<script src="assets/site.js"></script>
-<script src="assets/recherche.js"></script>
-<script src="data/videos.js"></script><script src="assets/videos.js"></script>
+<script src="assets/site.js?v=3a55b4a4"></script>
+<script src="assets/recherche.js?v=3a55b4a4"></script>
+<script src="data/videos.js?v=3a55b4a4"></script><script src="assets/videos.js?v=3a55b4a4"></script>
 </body>
 </html>

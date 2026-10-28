@@ -33,8 +33,17 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
     $navHtml += "<a href=""$root$($item[1])""$cur>$($item[2])</a>"
   }
   $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts)
-  return Clean-Links ($out.Replace("{{R}}", $root))
+  $out = Clean-Links ($out.Replace("{{R}}", $root))
+  # Version dans l'adresse des scripts et styles : les navigateurs reprennent la dernière version à chaque changement.
+  return [regex]::Replace($out, '((?:src|href)="(?!https?:|//)[^"?#]+\.(?:js|css))"', ('$1?v=' + $ver + '"'))
 }
+
+# Empreinte des sources : change dès qu'un texte, un style, un script ou une donnée change.
+$sha = [Security.Cryptography.SHA1]::Create()
+$verFiles = @(Get-ChildItem $src -Recurse -File -Include *.txt, *.html, *.muse | Where-Object { $_.FullName -notmatch '\\textes\\print\\' }) + @(Get-ChildItem (Join-Path $site "assets") -File -Include *.js, *.css -Recurse) + @(Get-Item (Join-Path $site "data\lieux.js"), (Join-Path $site "data\videos.js"))
+$verBytes = New-Object System.IO.MemoryStream
+foreach ($vf in ($verFiles | Sort-Object FullName)) { $bytes = [IO.File]::ReadAllBytes($vf.FullName); $verBytes.Write($bytes, 0, $bytes.Length) }
+$ver = ([BitConverter]::ToString($sha.ComputeHash($verBytes.ToArray())) -replace '-', '').Substring(0, 8).ToLower()
 
 # Adresses propres : les sources gardent « page.html » et « dossier/index.html » (pratique à écrire),
 # et les pages publiées pointent vers « page » et « dossier/ ». Le serveur sert page.html pour /page (.htaccess).

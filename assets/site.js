@@ -66,7 +66,7 @@
   });
 
   let dialog;
-  function player({ title, embed, file, link }) {
+  function player({ title, embed, file, secours, link }) {
     if (!dialog) {
       dialog = document.createElement("dialog");
       dialog.className = "player";
@@ -84,7 +84,11 @@
       ? `<iframe src="${esc(embed)}" title="${esc(title)}" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>`
       : `<video src="${esc(file)}" controls autoplay playsinline preload="metadata"></video>`;
     const v = dialog.querySelector("video");
-    if (v) v.addEventListener("error", () => { dialog.querySelector(".player__screen").innerHTML = '<p class="player__msg">Le film ne se charge pas pour l\'instant. Réessaie dans un moment.</p>'; });
+    if (v) v.addEventListener("error", () => {
+      // Adresse principale injoignable : on essaie la copie de secours (une seule fois), sinon message.
+      if (secours && v.src !== secours) { v.src = secours; v.play().catch(() => {}); return; }
+      dialog.querySelector(".player__screen").innerHTML = '<p class="player__msg">Le film ne se charge pas pour l\'instant. Réessaie dans un moment.</p>';
+    });
     dialog.querySelector(".player__foot").innerHTML = link ? `<a href="${esc(link)}" target="_blank" rel="noopener">Ouvrir sur YouTube ↗</a>` : "";
     document.documentElement.classList.add("has-player");
     dialog.showModal();
@@ -100,7 +104,7 @@
       player({ title: label(cover), embed: `https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&rel=0`, link: `https://www.youtube.com/watch?v=${encodeURIComponent(id)}` });
     } else if (poster && (poster.dataset.embed || poster.dataset.src)) {
       const m = (poster.dataset.embed || "").match(/youtube-nocookie\.com\/embed\/([\w-]{11})/);
-      player({ title: label(poster), embed: poster.dataset.embed, file: poster.dataset.src, link: m && `https://www.youtube.com/watch?v=${m[1]}` });
+      player({ title: label(poster), embed: poster.dataset.embed, file: poster.dataset.src, secours: poster.dataset.secours, link: m && `https://www.youtube.com/watch?v=${m[1]}` });
     }
   });
 })();

@@ -1,6 +1,9 @@
-# Publie le site sur GitHub Pages à chaque envoi sur la branche main.
+# Publie le site à chaque envoi sur la branche main.
 # 1) Windows : régénère les pages avec _src/build.ps1 (PowerShell 5.1).
-# 2) Linux : met en ligne le résultat, sans les sources.
+# 2) Linux : met en ligne le résultat, sans les sources, sur GitHub Pages (mamie-commune.github.io)
+#    et sur l'hébergement IONOS (mamiecommune.org) par SFTP.
+#    Accès IONOS : secrets IONOS_HOTE, IONOS_UTILISATEUR, IONOS_MOT_DE_PASSE et variable IONOS_DOSSIER
+#    (Settings → Secrets and variables → Actions). Tant qu'ils manquent, l'envoi vers IONOS est sauté.
 name: Publier le site
 
 on:
@@ -34,6 +37,7 @@ jobs:
         with:
           name: site
           path: _site
+          include-hidden-files: true   # pour garder .htaccess (réglages IONOS)
 
   publier:
     needs: generer
@@ -51,3 +55,44 @@ jobs:
           path: _site
       - id: deploiement
         uses: actions/deploy-pages@v4
+
+  ionos:
+    needs: generer
+    runs-on: ubuntu-latest
+    concurrency:
+      group: ionos
+      cancel-in-progress: false
+    env:
+      HOTE: ${{ secrets.IONOS_HOTE }}
+    steps:
+      - name: Vérifier les accès IONOS
+        id: acces
+        run: |
+          if [ -z "$HOTE" ]; then
+            echo "ok=non" >> "$GITHUB_OUTPUT"
+            echo "::notice::Accès IONOS pas encore configurés : envoi vers mamiecommune.org sauté."
+          else
+            echo "ok=oui" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/download-artifact@v4
+        if: steps.acces.outputs.ok == 'oui'
+        with:
+          name: site
+          path: _site
+      - name: Envoyer sur IONOS (SFTP)
+        if: steps.acces.outputs.ok == 'oui'
+        env:
+          UTILISATEUR: ${{ secrets.IONOS_UTILISATEUR }}
+          LFTP_PASSWORD: ${{ secrets.IONOS_MOT_DE_PASSE }}
+          DOSSIER: ${{ vars.IONOS_DOSSIER || '/mamiecommune' }}
+        run: |
+          sudo apt-get install -y -qq lftp > /dev/null
+          # 1er passage : tout, en comparant la taille seulement (les gros PDF ne repartent pas à chaque fois),
+          #   et suppression sur IONOS de ce qui n'existe plus dans le site.
+          # 2e passage : pages, styles et scripts renvoyés à chaque fois (une petite modif peut garder la même taille).
+          lftp --env-password -u "$UTILISATEUR" "sftp://$HOTE" -e "
+            set sftp:auto-confirm yes; set net:max-retries 3; set net:timeout 30;
+            mkdir -p -f $DOSSIER;
+            mirror -R --ignore-time --delete --parallel=4 --verbose=1 _site/ $DOSSIER;
+            mirror -R --parallel=4 --verbose=1 --include-glob '*.html' --include-glob '*.css' --include-glob '*.js' --include-glob '.htaccess' _site/ $DOSSIER;
+            bye"

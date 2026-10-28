@@ -19,4 +19,4 @@ description: Met en ligne les modifications du site Mamie Commune (régénère, 
    ```
    Sur Windows, si `git` n'est pas trouvé : `& "C:\Program Files\Git\cmd\git.exe"`.
 5. **Suivre la publication** : `gh run watch -R mamie-commune/mamie-commune.github.io --exit-status` sur la dernière exécution (`gh run list -R mamie-commune/mamie-commune.github.io -L 1`). Sur Windows : `& "C:\Program Files\GitHub CLI\gh.exe"`.
-6. **Vérifier en ligne** la page modifiée sur https://mamie-commune.github.io (attendre une minute si l'ancienne version s'affiche encore), puis donner le lien à la personne.
+6. **Vérifier en ligne** la page modifiée sur https://mamiecommune.org (et sa copie https://mamie-commune.github.io) (attendre une minute si l'ancienne version s'affiche encore), puis donner le lien à la personne.

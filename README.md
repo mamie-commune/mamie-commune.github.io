@@ -28,7 +28,7 @@ Raccourcis à taper dans Claude Code :
 
 Sur https://claude.ai/code, choisis le dépôt `mamie-commune/mamie-commune.github.io` et demande pareil. Pas besoin de Windows : GitHub régénère le site tout seul à chaque envoi.
 
-Site en ligne : https://mamie-commune.github.io
+Site en ligne : https://mamiecommune.org (copie : https://mamie-commune.github.io)
 
 ## Ce qui n'est pas dans le dépôt
 

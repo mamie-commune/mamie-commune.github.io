@@ -1,0 +1,46 @@
+# Réglages du serveur IONOS (Apache) pour mamiecommune.org. GitHub Pages n'en tient pas compte.
+
+Options -Indexes
+DirectoryIndex index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  # Toujours en HTTPS, et toujours sur mamiecommune.org (sans www).
+  RewriteCond %{HTTPS} !=on [OR]
+  RewriteCond %{HTTP_HOST} !^mamiecommune\.org$ [NC]
+  RewriteCond %{HTTP_HOST} mamiecommune\.org$ [NC]
+  RewriteRule ^ https://mamiecommune.org%{REQUEST_URI} [L,R=301]
+</IfModule>
+
+# Types de fichiers
+AddType font/woff2 .woff2
+AddType image/webp .webp
+AddType image/svg+xml .svg
+AddType video/mp4 .mp4
+AddType application/pdf .pdf
+AddDefaultCharset utf-8
+AddCharset utf-8 .html .css .js
+
+# Les pages sont revérifiées à chaque visite ; images, polices et PDF gardés un mois dans le navigateur.
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 1 hour"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType text/css "access plus 1 day"
+  ExpiresByType application/javascript "access plus 1 day"
+  ExpiresByType text/javascript "access plus 1 day"
+  ExpiresByType image/webp "access plus 1 month"
+  ExpiresByType image/jpeg "access plus 1 month"
+  ExpiresByType image/svg+xml "access plus 1 month"
+  ExpiresByType font/woff2 "access plus 1 year"
+  ExpiresByType application/pdf "access plus 1 month"
+</IfModule>
+
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/javascript image/svg+xml
+</IfModule>
+
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>

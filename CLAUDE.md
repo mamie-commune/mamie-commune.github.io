@@ -4,7 +4,9 @@ Site statique de ressources anarchistes, en français : révolutions, antifascis
 
 La personne qui tient le site n'est pas développeuse : réponds en français simple, montre le résultat, et propose d'envoyer (commit + push) une fois qu'elle a validé.
 
-Site en ligne : https://mamie-commune.github.io · dépôt : `mamie-commune/mamie-commune.github.io`.
+Site en ligne : https://mamiecommune.org (hébergement IONOS Web Plus) · copie : https://mamie-commune.github.io · dépôt : `mamie-commune/mamie-commune.github.io`.
+
+Chaque envoi sur `main` publie aux deux endroits (`.github/workflows/publier.yml`) : GitHub Pages, et IONOS par SFTP avec les secrets `IONOS_HOTE`, `IONOS_UTILISATEUR`, `IONOS_MOT_DE_PASSE` et la variable `IONOS_DOSSIER`. Ne jamais écrire ces accès dans le dépôt ni les demander en clair : la personne les saisit elle-même dans GitHub. Réglages Apache d'IONOS (HTTPS, sans www, cache) : `.htaccess` à la racine.
 
 ## Raccourcis (`.claude/skills/`)
 

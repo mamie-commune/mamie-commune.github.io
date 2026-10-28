@@ -35,23 +35,7 @@
   });
 
   document.addEventListener("click", (e) => {
-    // Documentaires : l'affiche devient le lecteur.
-    // data-embed (adresse d'intégration : YouTube nocookie, PeerTube…) est prioritaire ; sinon data-src (fichier .mp4).
-    const poster = e.target.closest(".doc__poster");
-    if (poster) {
-      const box = poster.parentElement;
-      const embed = poster.dataset.embed, file = poster.dataset.src;
-      if (embed) {
-        box.innerHTML = `<iframe class="doc__video" src="${embed}" title="${poster.getAttribute("aria-label") || "Documentaire"}" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>`;
-      } else if (file) {
-        box.innerHTML = `<video class="doc__video" src="${file}" controls autoplay playsinline preload="metadata"></video>`;
-        box.querySelector("video").addEventListener("error", () => {
-          box.innerHTML = '<p class="note doc__missing">Le film n\'est pas encore en ligne sur cette version du site. Il arrive bientôt.</p>';
-        });
-      } else return;
-      box.classList.add("is-playing");
-      return;
-    }
+    // Les affiches de documentaires (.doc__poster) s'ouvrent dans le lecteur en grand de assets/site.js.
     const btn = e.target.closest(".vcard__cover"); if (!btn) return;
     const screen = btn.parentElement;
     // Lecteur officiel « player/v1 » : plus fiable que l'ancien embed/v2, qui renvoie souvent un écran noir.

@@ -90,6 +90,8 @@ Le documentaire *Les Damnés de la Commune* est dans `_src/pages/videos.html`. L
 - un documentaire en grand : une fiche `<article class="doc">` (modèle : *ANTIFA, chasseurs de skins* dans `_src/pages/videos.html`) avec `data-embed="https://www.youtube-nocookie.com/embed/<id>?autoplay=1&amp;rel=0"` sur le bouton `.doc__poster` (ajouter `doc__poster--noir` pour une affiche noire). La page doit charger `assets/videos.js`.
 - une série de vidéos dans une page (dossier, fiche) : un bloc `<div class="ytwall">` de cartes `<figure class="yt">` (modèle : section « En vidéo » de `_src/experiences/2-zapatistes.txt`). Marche sur toutes les pages (code dans `assets/site.js`).
 - `<id>` = les 11 caractères après `v=` ou `youtu.be/`. Pour une playlist, lire la liste des vidéos sur sa page YouTube et faire une carte par vidéo.
+- Les miniatures sont téléchargées toutes seules par `_src/build.ps1` dans `assets/yt/<id>.jpg` (en local comme lors de la publication) et affichées en noir et blanc, en couleur au survol.
+- Toutes les vidéos YouTube et les films s'ouvrent dans le lecteur en grand (`window.mamiePlayer` dans `assets/site.js`).
 
 ## Livres complets et PDF
 
@@ -107,7 +109,7 @@ Le serveur d'aperçu est décrit dans `.claude/launch.json` (nom : `mamie-commun
 
 ## Direction artistique (à respecter)
 
-Collage de papier découpé, d'après les vidéos TikTok de @mamie_commune : fond crème moucheté, trame de points, grande étoile rouge à cinq branches, titres en lettres de rançon (générées automatiquement par `assets/site.js`), étiquettes noires et roses, bandeaux rouges façon banderole, bords déchirés (`clip-path: var(--torn)`), ombres décalées noires. Couleurs dans `:root` de `assets/style.css` : papier `#ebe3d1`, encre `#171414`, rouge `#e1301c`, rose `#ff5aa8`, jaune `#f5b63b`. Polices locales (`assets/fonts.css`) : Archivo Black (titres), Archivo (texte), Special Elite (machine à écrire), Alfa Slab One. **Aucune ressource externe** (polices, scripts, CDN) : tout est dans `assets/`.
+Collage de papier découpé, d'après les vidéos TikTok de @mamie_commune. Repères relevés dans les vidéos : sous-titres un mot par bande noire avec le mot fort en rose (`data-tags`, mot forcé avec `data-fort="mot"`), bande noire au bord déchiré en haut, notes à la machine à écrire sur papier crème scotché (`.note`), photos et gravures d'époque collées de travers (`.horde`, cartes vidéo), dates sur bandeau rouge (`.timeline`). Le reste : fond crème moucheté, trame de points, grande étoile rouge à cinq branches, titres en lettres de rançon (générées automatiquement par `assets/site.js`), étiquettes noires et roses, bandeaux rouges façon banderole, bords déchirés (`clip-path: var(--torn)`), ombres décalées noires. Couleurs dans `:root` de `assets/style.css` : papier `#ebe3d1`, encre `#171414`, rouge `#e1301c`, rose `#ff5aa8`, jaune `#f5b63b`. Polices locales (`assets/fonts.css`) : Archivo Black (titres), Archivo (texte), Special Elite (machine à écrire), Alfa Slab One. **Aucune ressource externe** (polices, scripts, CDN) : tout est dans `assets/`.
 
 Ton des textes : simple, direct, tutoiement, écriture inclusive avec le point médian (militant·es), pas de jargon.
 

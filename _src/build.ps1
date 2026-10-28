@@ -246,6 +246,29 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
     $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
   }
 }
+# ---------- miniatures YouTube (assets/yt/<id>.jpg) ----------
+# Chaque vidéo YouTube citée dans _src (data-yt="…" ou youtube-nocookie.com/embed/…) reçoit sa miniature, hébergée ici
+# pour que rien ne soit chargé depuis YouTube avant le clic. Sans connexion, on passe : la carte garde sa couverture dessinée.
+$ytIds = Get-ChildItem $src -Recurse -Include *.html, *.txt | ForEach-Object { [regex]::Matches((Read-Utf8 $_.FullName), '(?:data-yt="|youtube-nocookie\.com/embed/)([\w-]{11})') } | ForEach-Object { $_.Groups[1].Value } | Sort-Object -Unique
+foreach ($id in $ytIds) {
+  $out = Join-Path $site "assets\yt\$id.jpg"
+  if (Test-Path $out) { continue }
+  try {
+    Add-Type -AssemblyName System.Drawing
+    $tmp = Join-Path $env:TEMP "yt-$id.jpg"
+    $got = $false
+    foreach ($n in "maxresdefault", "sddefault", "hqdefault") { try { Invoke-WebRequest "https://i.ytimg.com/vi/$id/$n.jpg" -OutFile $tmp -UseBasicParsing -ErrorAction Stop; $got = $true; break } catch {} }
+    if (-not $got) { continue }
+    $img = [Drawing.Image]::FromFile($tmp); $bmp = New-Object Drawing.Bitmap 640, 360; $g = [Drawing.Graphics]::FromImage($bmp)
+    $g.InterpolationMode = "HighQualityBicubic"; $sh = [int]($img.Width * 9 / 16)
+    $g.DrawImage($img, (New-Object Drawing.Rectangle 0, 0, 640, 360), (New-Object Drawing.Rectangle 0, ([int](($img.Height - $sh) / 2)), $img.Width, $sh), "Pixel")
+    $enc = [Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq "image/jpeg" }
+    $ep = New-Object Drawing.Imaging.EncoderParameters 1; $ep.Param[0] = New-Object Drawing.Imaging.EncoderParameter([Drawing.Imaging.Encoder]::Quality, [long]78)
+    New-Item -ItemType Directory -Force (Split-Path $out) | Out-Null
+    $bmp.Save($out, $enc, $ep); $g.Dispose(); $bmp.Dispose(); $img.Dispose(); Remove-Item $tmp
+  } catch { Write-Warning "Miniature YouTube $id non récupérée : $($_.Exception.Message)" }
+}
+
 $js = "// Généré par _src/build.ps1 — ne pas modifier à la main. Utilisé par assets/recherche.js.`nwindow.RECHERCHE = [`n"
 $js += ($index | ForEach-Object { "  { u: $(JsStr $_.u), k: $(JsStr $_.k), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
 $js += "`n];`n"

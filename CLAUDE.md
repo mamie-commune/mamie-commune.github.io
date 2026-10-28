@@ -85,6 +85,11 @@ Copier une ligne, changer `id` (le nombre à la fin de l'adresse TikTok), `type`
 
 Le documentaire *Les Damnés de la Commune* est dans `_src/pages/videos.html`. Le fichier `.mp4` (1,7 Go) n'est **pas** dans le dépôt : c'est le fichier joint de la release GitHub `film` (`…/releases/download/film/les-damnes-de-la-commune.mp4`), lu par l'attribut `data-src` du bouton `.doc__poster`. Pour un autre film : `gh release upload film <fichier.mp4>` (2 Go maximum, nom sans espaces ni accents), puis une nouvelle fiche `.doc` sur le même modèle. Ne jamais ajouter de `.mp4` au dépôt.
 
+**Vidéos YouTube** (chargées seulement au clic, lecteur youtube-nocookie) :
+- un documentaire en grand : une fiche `<article class="doc">` (modèle : *ANTIFA, chasseurs de skins* dans `_src/pages/videos.html`) avec `data-embed="https://www.youtube-nocookie.com/embed/<id>?autoplay=1&amp;rel=0"` sur le bouton `.doc__poster` (ajouter `doc__poster--noir` pour une affiche noire). La page doit charger `assets/videos.js`.
+- une série de vidéos dans une page (dossier, fiche) : un bloc `<div class="ytwall">` de cartes `<figure class="yt">` (modèle : section « En vidéo » de `_src/experiences/2-zapatistes.txt`). Marche sur toutes les pages (code dans `assets/site.js`).
+- `<id>` = les 11 caractères après `v=` ou `youtu.be/`. Pour une playlist, lire la liste des vidéos sur sa page YouTube et faire une carte par vidéo.
+
 ## Livres complets et PDF
 
 1. Ajouter le fichier `.muse` dans `_src/textes/sources/` (vérifier que l'auteur·ice **et** le traducteur·ice sont morts depuis plus de 70 ans, ou que les droits sont accordés).

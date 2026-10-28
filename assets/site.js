@@ -53,4 +53,18 @@
     (el.textContent.trim().length <= 26 ? ransom : tags)(el);
   });
   document.querySelectorAll(".prose h2").forEach(tags);
+
+  // Vidéos YouTube : <div class="yt__screen" data-yt="identifiant"> avec un bouton .yt__cover dedans.
+  // Rien n'est chargé depuis YouTube avant le clic, puis le lecteur youtube-nocookie remplace la couverture.
+  document.addEventListener("click", (e) => {
+    const cover = e.target.closest(".yt__cover"); if (!cover) return;
+    const screen = cover.parentElement;
+    const frame = document.createElement("iframe");
+    frame.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(screen.dataset.yt)}?autoplay=1&rel=0`;
+    frame.title = cover.getAttribute("aria-label") || "Vidéo";
+    frame.allow = "autoplay; encrypted-media; fullscreen; picture-in-picture";
+    frame.allowFullscreen = true;
+    screen.replaceChildren(frame);
+    screen.classList.add("is-playing");
+  });
 })();

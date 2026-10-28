@@ -36,13 +36,13 @@
 
   document.addEventListener("click", (e) => {
     // Documentaires : l'affiche devient le lecteur.
-    // data-embed (adresse d'intégration PeerTube) est prioritaire ; sinon data-src (fichier .mp4 sur le site).
+    // data-embed (adresse d'intégration : YouTube nocookie, PeerTube…) est prioritaire ; sinon data-src (fichier .mp4).
     const poster = e.target.closest(".doc__poster");
     if (poster) {
       const box = poster.parentElement;
       const embed = poster.dataset.embed, file = poster.dataset.src;
       if (embed) {
-        box.innerHTML = `<iframe class="doc__video" src="${embed}" title="${poster.getAttribute("aria-label") || "Documentaire"}" allow="fullscreen" allowfullscreen sandbox="allow-same-origin allow-scripts allow-popups"></iframe>`;
+        box.innerHTML = `<iframe class="doc__video" src="${embed}" title="${poster.getAttribute("aria-label") || "Documentaire"}" allow="autoplay; encrypted-media; fullscreen; picture-in-picture" allowfullscreen></iframe>`;
       } else if (file) {
         box.innerHTML = `<video class="doc__video" src="${file}" controls autoplay playsinline preload="metadata"></video>`;
         box.querySelector("video").addEventListener("error", () => {

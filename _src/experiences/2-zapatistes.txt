@@ -27,6 +27,16 @@
 <li><b>Fin 2023</b><span>Les zapatistes dissolvent les municipalités autonomes et les Conseils de bon gouvernement, au profit d'une nouvelle structure partant des communautés, et lancent « le commun ».</span></li>
 </ol>
 
+<h2 id="videos">En vidéo</h2>
+<p>Quatre vidéos de la chaîne <strong>Hydre aux mille têtes, une histoire de la révolte</strong>, de l'origine du mouvement à aujourd'hui. Clique sur une vidéo pour la lancer : rien n'est chargé depuis YouTube avant ton clic.</p>
+<div class="ytwall">
+<figure class="yt"><div class="yt__screen" data-yt="94dR-gj2IqY"><button class="yt__cover" type="button" aria-label="Regarder « Zapata, le paysan et la révolution » (26 min)"><span class="yt__title" data-tags>Zapata, le paysan et la révolution</span><span class="vcard__play" aria-hidden="true">▶</span><span class="yt__len">26:37</span></button></div><figcaption><b>Zapata, le paysan et la révolution</b>D'où vient le nom : Emiliano Zapata et les paysans de la révolution mexicaine.</figcaption></figure>
+<figure class="yt"><div class="yt__screen" data-yt="O0l187Vwpqo"><button class="yt__cover" type="button" aria-label="Regarder « La plus grande révolte actuelle » (24 min)"><span class="yt__title" data-tags>La plus grande révolte actuelle</span><span class="vcard__play" aria-hidden="true">▶</span><span class="yt__len">24:32</span></button></div><figcaption><b>La plus grande révolte actuelle</b>Trente ans d'autonomie zapatiste au Chiapas.</figcaption></figure>
+<figure class="yt"><div class="yt__screen" data-yt="UjcnCJ-8_Xg"><button class="yt__cover" type="button" aria-label="Regarder « Comment sortir du capitalisme ? » (33 min)"><span class="yt__title" data-tags>Comment sortir du capitalisme ?</span><span class="vcard__play" aria-hidden="true">▶</span><span class="yt__len">33:10</span></button></div><figcaption><b>Comment sortir du capitalisme ?</b>Le (non) modèle zapatiste : ce qu'on peut en apprendre, sans le copier.</figcaption></figure>
+<figure class="yt"><div class="yt__screen" data-yt="QNdwAmiz_es"><button class="yt__cover" type="button" aria-label="Regarder « Petite école zapatiste » (57 min)"><span class="yt__title" data-tags>Petite école zapatiste</span><span class="vcard__play" aria-hidden="true">▶</span><span class="yt__len">57:25</span></button></div><figcaption><b>Petite école zapatiste (2013, VOSTF)</b>Témoignages et description de l'autonomie, racontée par celles et ceux qui la font.</figcaption></figure>
+</div>
+<p class="ytmore"><a href="https://www.youtube.com/playlist?list=PL6K_wffXE9kqFoyQzzxD6YAT2BavOQ_NA" target="_blank" rel="noopener">Toute la playlist sur YouTube ↗</a></p>
+
 <h2 id="suite">Dans ce dossier</h2>
 <ul>
 <li><a href="zapatistes-organisation.html">L'organisation : « commander en obéissant »</a>, avec schémas.</li>

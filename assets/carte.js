@@ -107,6 +107,15 @@
   });
   render();
 
+  // carte.html?q=… (lien depuis la barre de recherche) : filtrer et, si un seul lieu correspond, ouvrir sa fiche.
+  const q0 = new URLSearchParams(location.search).get("q");
+  if (q0) {
+    $("#mapSearch").value = q0; query = q0; render();
+    const exact = shown.filter((p) => norm(p.n) === norm(q0));
+    if (exact.length === 1) cluster.zoomToShowLayer(exact[0]._m, () => exact[0]._m.openPopup());
+    else if (shown.length) map.fitBounds(L.latLngBounds(shown.map((p) => [p.lat, p.lng])).pad(0.3), { maxZoom: 11 });
+  }
+
   /* ---------- ajout ---------- */
   const form = $("#addForm"), hint = $("#addHint");
   $("#fCat").innerHTML = Object.entries(CATS).map(([k, c]) => `<option value="${k}">${esc(c.label)}</option>`).join("");

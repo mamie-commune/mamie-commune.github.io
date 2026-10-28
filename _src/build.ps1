@@ -213,6 +213,25 @@ Build-Collection $exp "experiences" "luttes" "Révolutions" "Dossier" '<p class=
 $antifa = Read-Collection "antifascisme"
 Build-Collection $antifa "antifascisme" "antifa" "Antifascisme" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune d''après les ressources publiées par le site antifasciste La Horde. Les originaux (schéma, carte, livre) sont disponibles sur leur site.</p>' "ANTIFA"
 
+# ---------- index de la barre de recherche (data/recherche.js) ----------
+# Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).
+function Plain($html, $max) {
+  $s = [Net.WebUtility]::HtmlDecode([regex]::Replace([regex]::Replace($html, '<(script|style|svg)[\s\S]*?</\1>', ' '), '<[^>]+>', ' '))
+  $s = ($s -replace '\s+', ' ').Trim()
+  if ($s.Length -gt $max) { $s = $s.Substring(0, $max) }
+  return $s
+}
+function Heads($html) { ([regex]::Matches($html, '<h[23][^>]*>(.*?)</h[23]>') | ForEach-Object { Plain $_.Groups[1].Value 200 }) -join ' · ' }
+$index = @()
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Révolutions"), @($antifa, "antifascisme", "Antifascisme"))) {
+  foreach ($g in $set[0]) {
+    $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
+  }
+}
+foreach ($l in $livres) {
+  $index += [pscustomobject]@{ u = "livres/$($l.id).html"; k = "Livre complet"; t = $l.title; d = $l.d; x = "$($l.author) $($l.date) $($l.cat)" }
+}
+
 # ---------- pages ----------
 foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $raw = Read-Utf8 $f.FullName
@@ -223,5 +242,12 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $out = $f.Name; $root = ""
   if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
+  if ($f.BaseName -notin @("lecteur", "recherche")) {
+    $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
+  }
 }
+$js = "// Généré par _src/build.ps1 — ne pas modifier à la main. Utilisé par assets/recherche.js.`nwindow.RECHERCHE = [`n"
+$js += ($index | ForEach-Object { "  { u: $(JsStr $_.u), k: $(JsStr $_.k), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
+$js += "`n];`n"
+Write-Utf8 (Join-Path $site "data\recherche.js") $js
 Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres et $($exp.Count) pages de dossiers générés."

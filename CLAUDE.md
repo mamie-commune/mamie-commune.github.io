@@ -45,6 +45,7 @@ Le script affiche par exemple `OK : 29 guides, 103 fiches, 37 livres et 12 pages
 | Une vidéo TikTok | `data/videos.js` (une ligne par publication) | non |
 | Les couleurs, polices, mise en page | `assets/style.css` | non |
 | Les lettres de rançon, le menu mobile | `assets/site.js` | non |
+| La barre de recherche (en haut) et la page `recherche.html` | `assets/recherche.js` ; l'index `data/recherche.js` est refait à chaque régénération (titres, résumés, intertitres, début des textes) et les lieux viennent de `data/lieux.js` | oui pour l'index |
 
 Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `partage.html`, `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `experiences/`, `antifascisme/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
 

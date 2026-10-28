@@ -21,6 +21,14 @@
     <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
   </div>
 </header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="{{R}}recherche.html" data-root="{{R}}">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Chercher un livre, une révolution, une ville, un guide…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <button class="search__go" type="submit">Chercher</button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
 <main id="contenu">
 {{BODY}}
 </main>
@@ -57,6 +65,7 @@
   <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="{{R}}mentions-legales.html">Mentions légales</a></p>
 </footer>
 <script src="{{R}}assets/site.js"></script>
+<script src="{{R}}assets/recherche.js"></script>
 {{SCRIPTS}}
 </body>
 </html>

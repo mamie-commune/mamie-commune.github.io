@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>{{TITLE}}</title>
+<meta name="description" content="{{DESC}}">
+<link rel="icon" href="{{R}}assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="{{R}}assets/fonts.css">
+<link rel="stylesheet" href="{{R}}assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="{{R}}index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="{{R}}assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale">{{NAV}}</nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+{{BODY}}
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="{{R}}assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="{{R}}experiences/index.html">Révolutions</a>
+      <a href="{{R}}antifascisme/index.html">Antifascisme</a>
+      <a href="{{R}}bibliotheque/index.html">Bibliothèque</a>
+      <a href="{{R}}carte.html">Carte</a>
+      <a href="{{R}}videos.html">Vidéos</a>
+      <a href="{{R}}guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="{{R}}experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="{{R}}experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="{{R}}experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="{{R}}experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="{{R}}bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="{{R}}bibliotheque/au-cafe.html">Au café</a>
+      <a href="{{R}}guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="{{R}}partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="{{R}}mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="{{R}}assets/site.js"></script>
+{{SCRIPTS}}
+</body>
+</html>

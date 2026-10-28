@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Personnaliser Linux Mint &#183; Mamie Commune</title>
+<meta name="description" content="Premier d&#233;marrage, &#233;cran d&#39;accueil, r&#233;glages Xfce et Cinnamon, logiciels &#224; ajouter et sauvegarde finale (Mint 20 &#224; 22).">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/fonts.css">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../index.html">Accueil</a><a href="../experiences/index.html">Révolutions</a><a href="../antifascisme/index.html">Antifascisme</a><a href="../bibliotheque/index.html">Bibliothèque</a><a href="../carte.html">Carte</a><a href="../videos.html">Vidéos</a><a href="../guides/index.html" aria-current="page">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Outils numériques</a><span>/</span><a href="index.html#linux-mint">Linux Mint</a></p>
+  <h1>Personnaliser Linux Mint</h1>
+  <p class="lead">Premier d&#233;marrage, &#233;cran d&#39;accueil, r&#233;glages Xfce et Cinnamon, logiciels &#224; ajouter et sauvegarde finale (Mint 20 &#224; 22).</p>
+  <div class="gmeta"><span>Linux Mint</span><span>Guide · 3 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<h2 id="premier">1. Premier démarrage</h2>
+<ul>
+<li><strong>Compte</strong> : si quelqu'un d'autre a créé ton compte, change le mot de passe (Utilisateurs et groupes sous Xfce, Détails du compte sous Cinnamon).</li>
+<li><strong>Internet</strong> : câble réseau de préférence, sinon wifi via l'icône réseau du tableau de bord.</li>
+</ul>
+
+<h2 id="accueil">2. L'écran d'accueil</h2>
+<ul>
+<li><strong>Premiers pas</strong> : couleur du thème, clair ou sombre.</li>
+<li><strong>Disposition du panneau</strong> (Mint 20-21 Cinnamon) : « traditionnelle » (titres des fenêtres) ou « moderne » (icônes seules). Mint 22 n'a que la moderne.</li>
+<li><strong>Instantanés Timeshift</strong> : à faire après la personnalisation, sur un disque externe formaté en ext4.</li>
+<li><strong>Gestionnaire de pilotes</strong> : n'installe un pilote non libre que si un matériel ne marche pas (wifi, bluetooth, affichage, pavé tactile).</li>
+<li><strong>Codecs</strong> : le paquet <code>mint-meta-codecs</code> permet de lire les formats non libres.</li>
+<li><strong>Mises à jour</strong> :
+  <ul>
+  <li>fais la première série tout de suite ;</li>
+  <li>Édition → Sources de logiciels : choisis des miroirs rapides pour le dépôt principal et la base ;</li>
+  <li>Édition → Préférences → Automatisation : coche « Retirer les noyaux obsolètes » ;</li>
+  <li>pour une personne peu à l'aise, active les mises à jour automatiques.</li>
+  </ul></li>
+<li><strong>Langue</strong> : vérifie que tout est en français (les Relevés du système le signalent depuis Mint 21).</li>
+<li><strong>Pare-feu</strong> : facultatif, Linux est déjà bien protégé.</li>
+</ul>
+
+<h2 id="xfce">3. Réglages Xfce</h2>
+<ul>
+<li><strong>Apparence</strong> : style, icônes (Mint-X si le style plat Mint-Y ne te plaît pas), polices, DPI (note la valeur d'origine avant de changer).</li>
+<li><strong>Bureau</strong> : fond d'écran, icônes affichées, périphériques amovibles.</li>
+<li><strong>Gestionnaire de fenêtres</strong> : <kbd>Ctrl</kbd>+<kbd>←</kbd> / <kbd>Ctrl</kbd>+<kbd>→</kbd> pour coller une fenêtre sur une moitié d'écran.</li>
+<li><strong>Thunar</strong> (fichiers) : vue, miniatures, unités décimales, format de date.</li>
+<li><strong>Tableau de bord</strong> : position, et greffons (charge système, météo, minuteur de pause, indicateur Verr Maj).</li>
+<li><strong>Clavier</strong> : deux dispositions françaises existent. Avec « Fr (variante) », une ligne dans <code>~/.profile</code> rend la virgule au pavé numérique.</li>
+</ul>
+
+<h2 id="cinnamon">4. Réglages Cinnamon</h2>
+<ul>
+<li><strong>Thèmes, polices, fonds d'écran</strong> : comme sous Xfce.</li>
+<li><strong>Actions</strong> (Mint 22) : ajouts au gestionnaire de fichiers, comme créer un raccourci sur le bureau ou compresser un PDF.</li>
+<li><strong>Applets</strong> : météo, moniteur graphique, mode sombre, minuteur… L'applet « Inhibition » empêche la mise en veille pendant une vidéo.</li>
+<li><strong>Panneau</strong> : clic droit → mode édition pour le déplacer ou réorganiser.</li>
+<li><strong>Fenêtres</strong> : <kbd>Super</kbd>+<kbd>←</kbd> / <kbd>Super</kbd>+<kbd>→</kbd> pour les juxtaposer.</li>
+</ul>
+
+<h2 id="logiciels">5. Logiciels à ajouter</h2>
+<div class="tbl"><table>
+<thead><tr><th>Besoin</th><th>Logiciel</th></tr></thead>
+<tbody>
+<tr><td>Presse-papier multiple</td><td>Diodon</td></tr>
+<tr><td>Vidéo et musique</td><td>VLC (+ sox, lame, normalize-audio)</td></tr>
+<tr><td>Webcam / gravure</td><td>Cheese / K3b</td></tr>
+<tr><td>Réveil et minuteur</td><td>alarm-clock-applet ou Horloges</td></tr>
+<tr><td>Lumière du soir</td><td>Redshift (saisir sa position à la main)</td></tr>
+<tr><td>Empêcher la veille</td><td>Caffeine</td></tr>
+<tr><td>Sauvegarde, comparaison</td><td>LuckyBackup, Meld</td></tr>
+<tr><td>PDF, OCR, images</td><td>PDF Arranger, OCRfeeder, Pinta, LazPaint</td></tr>
+<tr><td>Aide à distance</td><td>DWAgent</td></tr>
+<tr><td>Infos système</td><td>Relevés du système, ou <code>sudo inxi -v8</code></td></tr>
+</tbody></table></div>
+
+<h2 id="raccourcis">6. Raccourcis d'applications</h2>
+<ul>
+<li>Clic droit sur une application du menu → ajouter aux favoris ou au panneau.</li>
+<li>Agrandis le menu en tirant son coin bas-droit (Xfce, Cinnamon 22).</li>
+</ul>
+
+<h2 id="apps">7. Régler les applications</h2>
+<ul>
+<li>Firefox : bloqueur de pub et de traqueurs, autre moteur de recherche. Voir <a href="ublock-origin.html">Configurer uBlock Origin</a>.</li>
+<li>Musique et photos : laisse Rhythmbox et Pix (ou Shotwell) indexer tes dossiers.</li>
+</ul>
+
+<h2 id="final">8. Sauvegarde finale</h2>
+<p>Une fois tout réglé, lance <strong>Timeshift</strong>. Il faut une partition ext4 d'au moins 10 Go ou un disque externe en ext4.</p>
+<p class="credit">Guide rédigé par Mamie Commune d'après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="manuel-mint.html"><small>← Précédent</small><b>Manuel Linux Mint Xfce et Cinnamon</b></a><a href="depannage-mises-a-jour.html"><small>Suivant →</small><b>D&#233;pannage : les mises &#224; jour &#233;chouent</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#premier">1. Premier démarrage</a></li><li><a href="#accueil">2. L'écran d'accueil</a></li><li><a href="#xfce">3. Réglages Xfce</a></li><li><a href="#cinnamon">4. Réglages Cinnamon</a></li><li><a href="#logiciels">5. Logiciels à ajouter</a></li><li><a href="#raccourcis">6. Raccourcis d'applications</a></li><li><a href="#apps">7. Régler les applications</a></li><li><a href="#final">8. Sauvegarde finale</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="../experiences/index.html">Révolutions</a>
+      <a href="../antifascisme/index.html">Antifascisme</a>
+      <a href="../bibliotheque/index.html">Bibliothèque</a>
+      <a href="../carte.html">Carte</a>
+      <a href="../videos.html">Vidéos</a>
+      <a href="../guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="../experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="../experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="../bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="../bibliotheque/au-cafe.html">Au café</a>
+      <a href="../guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="../partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js"></script>
+
+</body>
+</html>

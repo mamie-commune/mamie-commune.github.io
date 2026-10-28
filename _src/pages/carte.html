@@ -1,0 +1,46 @@
+<!-- Carte anar · Mamie Commune | Carte des groupes anarchistes et libertaires, syndicats, librairies, lieux et entraide numérique en France et autour. | carte | <script src="assets/vendor/leaflet.js"></script><script src="assets/vendor/leaflet.markercluster.js"></script><script src="data/lieux.js"></script><script src="assets/carte.js"></script> -->
+<link rel="stylesheet" href="assets/vendor/leaflet.css">
+<div class="mapapp">
+  <aside class="side" aria-label="Recherche et filtres">
+    <div class="side__head">
+      <p>Répertoire · mis à jour le 27/10/2026</p>
+      <h1>Carte anar</h1>
+      <span>Groupes anarchistes, collectifs antifascistes, syndicats, librairies, lieux et entraide numérique.</span>
+    </div>
+    <div class="side__block">
+      <p class="side__label"><label for="mapSearch">Trouver un lieu</label></p>
+      <input id="mapSearch" type="search" placeholder="Ville, département ou nom…" autocomplete="off">
+      <button class="btn btn--main" id="addBtn" type="button">Ajouter un lieu</button>
+    </div>
+    <div class="side__block">
+      <p class="side__label">Où se retrouver</p>
+      <div class="tally" id="tally"></div>
+    </div>
+    <div>
+      <p class="side__label side__block" style="margin:0;border-bottom:0;padding-bottom:6px" id="mapCount">0 lieu affiché</p>
+      <ul class="placelist" id="placeList"></ul>
+    </div>
+    <p class="side__foot">Localisation au niveau de la ville ou du département, jamais d'adresse privée. Les lieux que tu ajoutes restent dans ton navigateur jusqu'à leur publication. <button class="chip" id="exportBtn" type="button" style="margin-top:8px">Exporter mes lieux (0)</button></p>
+  </aside>
+
+  <div class="mapwrap">
+    <div id="map" role="region" aria-label="Carte des lieux"><p class="map__loading">Chargement de la carte…</p></div>
+
+    <form class="addform" id="addForm" hidden>
+      <h2>Nouveau lieu</h2>
+      <p class="addform__hint" id="addHint">Clique sur la carte pour placer le point, ou cherche une adresse.</p>
+      <div class="addform__row">
+        <label for="fAddr">Adresse ou ville<input id="fAddr" type="text" placeholder="Rennes"></label>
+        <button class="btn" type="button" id="fGeo">Placer</button>
+      </div>
+      <label for="fName">Nom<input id="fName" type="text" required placeholder="Groupe libertaire du quartier"></label>
+      <label for="fCat">Type<select id="fCat"></select></label>
+      <label for="fDesc">Description<textarea id="fDesc" rows="3" placeholder="Permanence tous les jeudis, 18h."></textarea></label>
+      <div class="addform__actions">
+        <button class="btn btn--main" type="submit">Enregistrer</button>
+        <button class="btn" type="button" id="fCancel">Annuler</button>
+      </div>
+    </form>
+    <p class="toast" id="toast" role="status" hidden></p>
+  </div>
+</div>

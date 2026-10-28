@@ -1,0 +1,213 @@
+=== entraide | Individu & morale | L'Entraide, un facteur de l'évolution | Pierre Kropotkine · 1902 | L'entraide est une loi de la nature et un moteur de l'évolution plus décisif que la lutte entre individus d'une même espèce.
+<h2 id="contexte">Contexte</h2>
+<p>Articles parus dans la revue britannique <em>The Nineteenth Century</em> entre 1890 et 1896, réunis en livre en 1902, traduits en français en 1906. Le géographe répond aux darwinistes sociaux, qui font de la compétition généralisée la règle de la vie.</p>
+<h2 id="these">La thèse</h2>
+<p>L'entraide n'est pas seulement de la sympathie : c'est un instinct de solidarité qui permet aux espèces de survivre et de progresser. Il pèse davantage que la concurrence entre congénères.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>La « lutte pour l'existence » a été lue de façon trop étroite, bien au-delà de ce qu'écrivait Darwin.</li>
+<li>En Sibérie, Kropotkine observe que le climat et la rareté pèsent plus que la compétition entre animaux de même espèce.</li>
+<li>Fourmis et abeilles partagent la nourriture et se défendent ensemble.</li>
+<li>Les oiseaux chassent en groupe, se relaient pour surveiller et migrent ensemble.</li>
+<li>Chez les mammifères, troupeaux et meutes dominent ; la vie solitaire est l'exception.</li>
+<li>La vie sociale allonge la vie et développe l'intelligence.</li>
+<li>La suite du livre suit l'entraide chez les humains : clans, communes villageoises, cités médiévales, et jusqu'aux syndicats et sociétés de secours.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La coopération est une stratégie de survie, pas une faiblesse.</li>
+<li>La base scientifique de la critique du darwinisme social.</li>
+<li>Un livre devenu classique en biologie comme en politique.</li>
+</ul>
+
+=== memoires-d-un-revolutionnaire | Histoire & luttes | Mémoires d'un révolutionnaire | Pierre Kropotkine · 1898 | Comment un prince russe, page du tsar et officier en Sibérie, est devenu l'un des grands penseurs de l'anarchisme.
+<h2 id="contexte">Contexte</h2>
+<p>Écrit en anglais et paru d'abord en feuilleton à la fin des années 1890, puis traduit en français et revu par l'auteur. Kropotkine, exilé en Angleterre, raconte sa vie depuis l'enfance à Moscou.</p>
+<h2 id="these">La thèse</h2>
+<p>Le servage, la discipline militaire et la vanité aristocratique façonnent toute une société. Kropotkine raconte comment, pas à pas, il en est venu à la rejeter.</p>
+<h2 id="idees">Le parcours</h2>
+<ol>
+<li>L'enfance dans une famille princière de Moscou, la mort de sa mère, l'affection des domestiques serfs.</li>
+<li>Une richesse fondée sur le servage : domestiques réquisitionnés, orchestre privé, dépenses de prestige.</li>
+<li>Le corps des pages, au service personnel du tsar.</li>
+<li>Officier en Sibérie : explorations géographiques et découverte de la vie des communautés paysannes.</li>
+<li>Démission de l'armée, travaux scientifiques, puis voyage en Suisse et découverte de l'Internationale chez les horlogers du Jura.</li>
+<li>Propagande clandestine en Russie, arrestation, évasion spectaculaire de la forteresse Pierre-et-Paul en 1876.</li>
+<li>L'exil, l'emprisonnement en France à Clairvaux, et l'œuvre anarchiste.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Un récit de vie autant qu'un tableau de la Russie impériale.</li>
+<li>La prise de conscience naît dès l'enfance.</li>
+<li>L'une des grandes autobiographies politiques du XIXe siècle.</li>
+</ul>
+
+=== champs-usines-et-ateliers | Économie & propriété | Champs, usines et ateliers | Pierre Kropotkine · 1898 | Décentraliser l'industrie, la marier à l'agriculture, et que chacun·e allie travail intellectuel et travail manuel.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en anglais en 1898, revu et traduit en français en 1910. Kropotkine s'appuie sur de nombreuses statistiques industrielles et agricoles de son temps.</p>
+<h2 id="these">La thèse</h2>
+<p>La spécialisation extrême défendue par les économistes touche à sa fin. Chaque région et chaque personne peut combiner agriculture, industrie et savoir.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>La division du travail réduit l'ouvrier à un geste répétitif et le coupe de la nature.</li>
+<li>Les économistes voulaient spécialiser chaque nation ; la réalité les contredit.</li>
+<li>L'industrie se répand partout dans le monde : les monopoles des premiers pays industriels s'effondrent.</li>
+<li>Les crises viennent d'un pouvoir d'achat ouvrier trop faible.</li>
+<li>Chaque peuple devrait produire d'abord pour ses propres besoins.</li>
+<li>Une agriculture intensive, soignée, peut nourrir bien plus de monde sur moins de terre.</li>
+<li>Les petites industries décentralisées et l'éducation intégrale vont ensemble.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Rapprocher production et consommation.</li>
+<li>Unir champs et ateliers, savoir et métier.</li>
+<li>Un ancêtre des idées de relocalisation.</li>
+</ul>
+
+=== communisme-et-anarchie | Économie & propriété | Communisme et anarchie | Pierre Kropotkine · 1903 | Le communisme peut élargir la liberté de chacun, à condition d'être libertaire, fédéré et ouvert.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1903 dans <em>Les Temps nouveaux</em>. Kropotkine répond aux anarchistes qui craignent que la vie en commun écrase l'individu, et tire les leçons des communautés du XIXe siècle.</p>
+<h2 id="these">La thèse</h2>
+<p>Ce n'est pas la forme communiste qui menace la liberté, mais les idées qu'on y met. Un communisme anarchiste étend la liberté ; un communisme d'État ne le peut pas.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les anciennes communautés ont échoué par excès religieux, imitation autoritaire de la famille et isolement.</li>
+<li>Le communisme est d'abord une façon d'organiser production et consommation, déjà présente dans bien des services.</li>
+<li>Être libre, c'est pouvoir agir sans craindre une sanction sociale.</li>
+<li>Le communisme réduit le temps de travail nécessaire : plus de loisir, donc plus de liberté.</li>
+<li>Le communisme d'État est une utopie que ses partisans n'arrivent même pas à décrire.</li>
+<li>Pour durer, les communes doivent se fédérer et mêler ville et campagne.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Tout dépend des valeurs qui animent l'organisation commune.</li>
+<li>Fédération et ouverture sont des conditions de survie.</li>
+<li>Sans anarchie, le communisme retombe dans la servitude.</li>
+</ul>
+
+=== ouvrier-prends-la-machine | Économie & propriété | Ouvrier, prends la machine ! Prends la terre, paysan ! | Pierre Kropotkine · 1880 | Le petit paysan propriétaire n'est pas à l'abri du capital : il en sera la prochaine victime. Seule l'union avec les ouvriers le sauvera.
+<h2 id="contexte">Contexte</h2>
+<p>Article anonyme du <em>Révolté</em>, 24 janvier 1880, attribué avec une forte probabilité à Kropotkine, alors principal rédacteur du journal.</p>
+<h2 id="these">La thèse</h2>
+<p>Les défenseurs de la propriété font du petit paysan leur allié contre les ouvriers. C'est une illusion : la concentration de la terre le ruinera.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Le vrai critère n'est pas la propriété mais la dépendance : paysans et ouvriers sont des prolétaires.</li>
+<li>La misère rurale touche toute l'Europe.</li>
+<li>Les fermes géantes américaines fonctionnent comme des usines militarisées.</li>
+<li>Machines et capitaux écrasent la petite exploitation.</li>
+<li>Le machinisme réduit la main-d'œuvre et fait baisser les salaires.</li>
+<li>La seule issue : s'unir aux ouvriers pour reprendre la propriété commune.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le petit propriétaire est la prochaine victime du capital.</li>
+<li>Ouvriers et paysans partagent la même condition.</li>
+<li>Un slogan resté célèbre.</li>
+</ul>
+
+=== ameliorer-les-prisons | État & pouvoir | On ne peut pas améliorer les prisons | Pierre Kropotkine · 1887 | Après Clairvaux, Kropotkine en témoigne : la prison ne corrige personne et fabrique des délinquants. Il faut la démolir.
+<h2 id="contexte">Contexte</h2>
+<p>Conférence donnée à Paris le 20 décembre 1887, peu après sa libération. Kropotkine a connu les prisons russes et la centrale de Clairvaux, réputée l'une des meilleures d'Europe.</p>
+<h2 id="these">La thèse</h2>
+<p>Aucune réforme ne rendra la prison utile. Elle ne corrige pas, ne réduit pas le crime et produit de nouveaux délinquants.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>À Clairvaux, les détenus travaillent pour des patrons privés à des salaires dérisoires.</li>
+<li>Ce travail forcé, sans intérêt, est vécu comme une punition.</li>
+<li>Une grande partie des condamnés reviennent en prison, souvent pour plus grave.</li>
+<li>Durcir ou adoucir les peines ne change pas le nombre de crimes.</li>
+<li>La prison coupe des liens familiaux et sociaux qui aideraient à se reconstruire.</li>
+<li>Gardiens et détenus sont corrompus par l'institution elle-même.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le problème est l'institution, pas ceux qui la dirigent.</li>
+<li>Un texte fondateur de l'abolitionnisme pénal.</li>
+<li>À lire avec <a href="la-loi-et-l-autorite.html">La Loi et l'autorité</a>.</li>
+</ul>
+
+=== travail-intellectuel-et-manuel | Individu & morale | Travail intellectuel et travail manuel | Pierre Kropotkine · 1890 | Séparer la tête et la main appauvrit la science et l'industrie. Pour une éducation qui unit les deux.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en mars 1890 dans <em>The Nineteenth Century</em>, à Londres. Kropotkine s'appuie sur l'école technique de Moscou et sur un collège écossais qui applique des principes voisins.</p>
+<h2 id="these">La thèse</h2>
+<p>La coupure entre travailleurs intellectuels et manuels nuit à tout le monde. Il faut une éducation intégrale : culture scientifique et vrai savoir-faire, la spécialisation venant après.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les grands savants d'autrefois fabriquaient leurs propres instruments.</li>
+<li>La division du travail a séparé ouvriers privés de savoir et savants qui méprisent la main.</li>
+<li>Les ouvriers inventent moins, faute de comprendre les machines.</li>
+<li>L'école de Moscou prouve qu'on peut allier science exigeante et métier concret.</li>
+<li>On apprend mieux en faisant.</li>
+<li>Beaucoup d'inventions ont précédé la théorie qui les explique.</li>
+<li>Un temps de travail réduit laisserait à chacun le loisir de l'art et de la science.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Savoir et savoir-faire se nourrissent l'un l'autre.</li>
+<li>Méthodes générales d'abord, spécialité ensuite.</li>
+<li>Prolonge <a href="education-integrale.html">Bakounine</a>.</li>
+</ul>
+
+=== revolution-collectiviste | Révolution & stratégie | La Révolution sera-t-elle collectiviste ? | Pierre Kropotkine · 1913 | Aucun idéal ne se réalise pur : la société de demain sera une résultante, que l'action anarchiste peut orienter.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1913 dans <em>Les Temps nouveaux</em>, à la veille de la guerre. Kropotkine répond à l'idée qu'on passerait d'abord par un État ouvrier collectiviste avant l'anarchie.</p>
+<h2 id="these">La thèse</h2>
+<p>L'histoire avance par la combinaison de tous les courants d'idées, chacun pesant selon l'énergie de ses partisans. Plus les anarchistes agiront nettement, plus l'avenir sera libertaire.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Une société mêle des idéaux multiples ; aucun ne l'emporte entièrement.</li>
+<li>Les républicains de 1793 rêvaient d'une république antique ; l'histoire les a dépassés.</li>
+<li>Le communisme hiérarchique et religieux est périmé.</li>
+<li>L'État ouvrier social-démocrate hérite du jacobinisme : il est déjà dépassé.</li>
+<li>Les idées anarchistes ont déjà influencé leurs adversaires : services publics, grève générale, antimilitarisme.</li>
+<li>Moins de compromis, plus de communisme libre.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le changement social est toujours une résultante.</li>
+<li>Pas de société libre sans individus libres.</li>
+<li>L'action militante pèse même sur ceux qui la combattent.</li>
+</ul>
+
+=== la-federation | État & pouvoir | La Fédération comme moyen d'union | Pierre Kropotkine · 1918 | En pleine révolution russe : seule la fédération peut unir des peuples, la centralisation produit la division.
+<h2 id="contexte">Contexte</h2>
+<p>Discours prononcé à Moscou le 7 janvier 1918 devant la Ligue des fédéralistes, que Kropotkine vient de fonder. Révolution et guerre mondiale en cours.</p>
+<h2 id="these">La thèse</h2>
+<p>La fédération mène à l'union ; la centralisation engendre toujours la discorde.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Le fédéralisme traverse toute l'histoire de la pensée russe, face au centralisme autocratique.</li>
+<li>L'oppression de la Finlande, de la Pologne, de l'Ukraine, de la Géorgie ou des Juifs prépare des fractures.</li>
+<li>Gouverner 180 millions de personnes depuis un centre est impossible.</li>
+<li>Canada et Australie autonomes restent liés à Londres ; l'Irlande administrée de loin se révolte.</li>
+<li>Aux Philippines, le refus d'autonomie déclenche la révolte.</li>
+<li>En Sibérie, les bureaucrates de la capitale étouffent toute initiative locale.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>L'autonomie réelle est la condition d'une union durable.</li>
+<li>Un avertissement prophétique face au centralisme bolchevik.</li>
+<li>Prolonge <a href="l-etat-son-role-historique.html">L'État, son rôle historique</a>.</li>
+</ul>
+
+=== la-guerre-kropotkine | État & pouvoir | La Guerre | Pierre Kropotkine · 1912 | Les guerres modernes naissent des intérêts économiques que l'État protège : marchés, finance, armement, presse.
+<h2 id="contexte">Contexte</h2>
+<p>Texte de 1912, tiré de <em>La Science moderne et l'anarchie</em>. Les tensions montent entre grandes puissances : rivalité anglo-allemande, conquêtes coloniales au Maroc, en Perse, en Libye.</p>
+<h2 id="these">La thèse</h2>
+<p>La guerre n'est pas un accident diplomatique. État, banquiers, marchands d'armes et presse trouvent chacun leur profit à la préparer.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les guerres européennes modernes sont des guerres de marchés.</li>
+<li>La rivalité anglo-allemande s'explique par la course aux débouchés.</li>
+<li>La haute finance prête aux États endettés puis prend la main sur leurs revenus.</li>
+<li>Les industries d'armement ont intérêt à entretenir la peur.</li>
+<li>La grande presse prépare les esprits.</li>
+<li>Les guerres détruisent les richesses et ruinent les travailleurs.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La guerre comme produit d'intérêts organisés.</li>
+<li>Écrit deux ans avant 1914.</li>
+<li>Ironie de l'histoire : Kropotkine soutiendra les Alliés en 1916, ce qui divisera le mouvement.</li>
+</ul>

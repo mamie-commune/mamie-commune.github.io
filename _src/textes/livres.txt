@@ -1,0 +1,38 @@
+# Livres complets du domaine public (auteur et traduction).
+# source (fichier .muse) | identifiant | thème | fiche de lecture liée (facultatif) | présentation courte
+pierre-kropotkine-aux-jeunes-gens | aux-jeunes-gens | Individu & morale | aux-jeunes-gens | L'appel aux jeunes diplômé·es : médecin, juriste, ingénieur, artiste, à quoi sert ton métier ?
+pierre-kropotkine-la-conquete-du-pain | la-conquete-du-pain | Économie & propriété | la-conquete-du-pain | Le grand livre du communisme libertaire : nourrir, loger, vêtir tout le monde après la révolution. Préface d'Élisée Reclus.
+pierre-kropotkine-l-anarchie-sa-philosophie-son-ideal | anarchie-philosophie-ideal | Révolution & stratégie | anarchie-philosophie-ideal | L'anarchie présentée comme une philosophie cohérente, en accord avec les sciences.
+pierre-kropotkine-la-morale-anarchiste | la-morale-anarchiste | Individu & morale | la-morale-anarchiste | D'où vient le sens moral ? Kropotkine le fonde sur la solidarité et l'égalité, sans Dieu ni loi.
+pierre-kropotkine-la-loi-et-l-autorite | la-loi-et-l-autorite | État & pouvoir | la-loi-et-l-autorite | La loi protège la propriété et le pouvoir ; la coutume et la solidarité n'en ont pas besoin.
+pierre-kropotkine-l-etat-son-role-historique | l-etat-son-role-historique | État & pouvoir | l-etat-son-role-historique | Comment l'État moderne est né en écrasant les communes libres du Moyen Âge.
+pierre-kropotkine-l-esprit-de-revolte | l-esprit-de-revolte | Révolution & stratégie | l-esprit-de-revolte | Comment l'esprit de révolte naît et se propage avant les grandes révolutions.
+pierre-kropotkine-la-commune-de-paris | commune-de-paris-kropotkine | Révolution & stratégie | commune-de-paris-kropotkine | Les leçons de 1871, dix ans après.
+pierre-kropotkine-paroles-d-un-revolte | paroles-d-un-revolte | Révolution & stratégie | paroles-d-un-revolte | Recueil d'articles du Révolté, réunis et préfacés par Élisée Reclus en 1885.
+pierre-kropotkine-la-grande-revolution | la-grande-revolution | Révolution & stratégie | la-grande-revolution | Histoire de la Révolution française vue d'en bas : paysans, sections, communes.
+michel-bakounine-dieu-et-l-etat | dieu-et-l-etat | État & pouvoir | dieu-et-l-etat | Religion, autorité et liberté : le texte le plus célèbre de Bakounine.
+michel-bakounine-l-education-integrale | education-integrale | Individu & morale | education-integrale | Une instruction complète et égale pour toutes et tous.
+michel-bakounine-trois-conferences-faites-aux-ouvriers-du-val-de-saint-imier | trois-conferences-saint-imier | Révolution & stratégie | trois-conferences-saint-imier | Trois conférences de 1871 aux horlogers du Jura : bourgeoisie, révolution et Internationale.
+bakounine-michel-sur-le-gouvernement-representatif-et-le-suffrage-universel | gouvernement-representatif | État & pouvoir | gouvernement-representatif | Pourquoi le suffrage universel ne libère pas les travailleurs.
+elisee-reclus-a-mon-frere-le-paysan | a-mon-frere-le-paysan | Économie & propriété | a-mon-frere-le-paysan | La terre à qui la travaille, et l'union des paysans et des ouvriers.
+elisee-reclus-l-evolution-la-revolution-et-l-ideal-anarchique | evolution-revolution-ideal | Révolution & stratégie | evolution-revolution-ideal | Évolution lente et rupture révolutionnaire, deux faces d'un même mouvement.
+elisee-reclus-l-anarchie | l-anarchie-reclus | État & pouvoir | l-anarchie-reclus | Conférence de 1894 à Bruxelles : ce qu'est l'anarchie et ce qu'elle veut.
+elisee-reclus-pourquoi-sommes-nous-anarchistes | pourquoi-sommes-nous-anarchistes | État & pouvoir | pourquoi-sommes-nous-anarchistes | Un texte court et limpide sur les raisons d'être anarchiste.
+reclus-elisee-voter-c-est-abdiquer | voter-c-est-abdiquer | État & pouvoir | voter-c-est-abdiquer | La lettre de 1885 à Jean Grave contre le vote.
+elisee-reclus-du-sentiment-de-la-nature-dans-les-societes-modernes | sentiment-de-la-nature | Individu & morale | sentiment-de-la-nature | Le géographe sur le rapport des sociétés modernes à la nature, dès 1866.
+louise-michel-memoires | memoires-louise-michel | Révolution & stratégie | memoires-louise-michel | Les Mémoires de Louise Michel écrits par elle-même (tome I, 1886).
+louise-michel-prise-de-possession | prise-de-possession | Économie & propriété | prise-de-possession | Le travail reprendra le monde qu'il fait tourner.
+louise-michel-l-ere-nouvelle | l-ere-nouvelle | Révolution & stratégie | l-ere-nouvelle | Texte de 1887 : la fin du vieux monde et l'annonce d'une humanité libre.
+pierre-joseph-proudhon-qu-est-ce-que-la-propriete-fr | qu-est-ce-que-la-propriete | Économie & propriété | qu-est-ce-que-la-propriete | Le livre de 1840 où l'on se dit anarchiste pour la première fois.
+pierre-joseph-proudhon-idee-generale-de-la-revolution | idee-generale-de-la-revolution | Révolution & stratégie | idee-generale-de-la-revolution | Le programme de Proudhon : contrats libres, mutualisme et fin du gouvernement.
+emile-pouget-l-action-directe | l-action-directe-pouget | Action directe & syndicalisme | l-action-directe-pouget | La méthode du syndicalisme révolutionnaire.
+emile-pataud-emile-pouget-comment-nous-ferons-la-revolution | comment-nous-ferons-la-revolution | Action directe & syndicalisme | comment-nous-ferons-la-revolution | Le roman de la grève générale victorieuse.
+albert-libertad-le-criminel-c-est-l-electeur | criminel-electeur | État & pouvoir | criminel-electeur | L'affiche anti-électorale de 1906.
+albert-libertad-l-individualisme | l-individualisme | Individu & morale | l-individualisme | Ce que Libertad entend par individualisme : vivre pleinement, ici et maintenant.
+sebastien-faure-douze-preuves-de-l-inexistence-de-dieu | douze-preuves | Individu & morale | douze-preuves | La conférence athée la plus diffusée du mouvement anarchiste.
+sebastien-faure-electeur-ecoute | electeur-ecoute | État & pouvoir | electeur-ecoute | Une adresse directe aux électeurs, de 1919.
+jean-grave-l-anarchie | l-anarchie-grave | État & pouvoir | l-anarchie-grave | L'anarchie, son but, ses moyens : une synthèse de 1899.
+jean-grave-la-societe-future | la-societe-future | Économie & propriété | la-societe-future | À quoi ressemblerait une société anarchiste : travail, échanges, famille, éducation.
+joseph-dejacques-a-bas-les-chefs-fr | a-bas-les-chefs | État & pouvoir | a-bas-les-chefs | Le pamphlet de Déjacque contre toute autorité, y compris révolutionnaire.
+joseph-dejacque-de-l-etre-humain-male-et-femelle | etre-humain-male-et-femelle | Individu & morale | etre-humain-male-et-femelle | La lettre de 1857 à Proudhon sur l'égalité des femmes et des hommes.
+errico-malatesta-l-anarchie | l-anarchie-malatesta | État & pouvoir | l-anarchie-malatesta | La traduction de 1902 du texte d'introduction de Malatesta.

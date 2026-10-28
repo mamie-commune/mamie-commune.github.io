@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Installer Linux Mint pas &#224; pas &#183; Mamie Commune</title>
+<meta name="description" content="De la cl&#233; USB au premier d&#233;marrage : t&#233;l&#233;charger, pr&#233;parer la cl&#233;, tester en live, installer.">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/fonts.css">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../index.html">Accueil</a><a href="../experiences/index.html">Révolutions</a><a href="../antifascisme/index.html">Antifascisme</a><a href="../bibliotheque/index.html">Bibliothèque</a><a href="../carte.html">Carte</a><a href="../videos.html">Vidéos</a><a href="../guides/index.html" aria-current="page">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Outils numériques</a><span>/</span><a href="index.html#linux-mint">Linux Mint</a></p>
+  <h1>Installer Linux Mint pas &#224; pas</h1>
+  <p class="lead">De la cl&#233; USB au premier d&#233;marrage : t&#233;l&#233;charger, pr&#233;parer la cl&#233;, tester en live, installer.</p>
+  <div class="gmeta"><span>Linux Mint</span><span>Guide · 3 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<h2 id="avant">Avant de commencer</h2>
+<ul>
+<li><strong>Sauvegarde</strong> tes documents sur un disque externe. L'installation peut effacer le disque interne. Voir le guide <a href="sauvegardes.html">Faire des sauvegardes</a>.</li>
+<li>Prévois une <strong>clé USB d'au moins 8 Go</strong> (son contenu sera effacé) et une demi-journée.</li>
+<li>Branche l'ordinateur sur secteur et, si possible, sur un câble réseau.</li>
+<li>Choisis ton édition : Cinnamon à partir de 4 Go de RAM, Xfce pour les machines plus modestes. Voir <a href="distribution-gnu-linux.html">Choisir une distribution</a>.</li>
+</ul>
+
+<h2 id="iso">1. Télécharger l'image ISO</h2>
+<p>Sur le site officiel de Linux Mint, rubrique « Download », prends la dernière version (22.x) dans l'édition choisie. Le fichier fait environ 3 Go et se termine par <code>.iso</code>. Télécharge-le uniquement depuis le site officiel ou l'un de ses miroirs.</p>
+<p>Les plus prudent·es vérifient la somme de contrôle SHA256 indiquée sur la page de téléchargement. Sous Linux : <code>sha256sum linuxmint-22.iso</code>.</p>
+
+<h2 id="cle">2. Préparer la clé USB</h2>
+<p>Copier l'ISO sur la clé ne suffit pas : il faut l'« écrire » avec un outil dédié.</p>
+<ul>
+<li><strong>Depuis Windows</strong> : Rufus ou balenaEtcher. Choisis la clé, l'image ISO, puis « Démarrer ». Garde les options par défaut.</li>
+<li><strong>Depuis Linux</strong> : l'outil « Créateur de clé USB » (mintstick) ou balenaEtcher.</li>
+<li><strong>Ventoy</strong> permet de mettre plusieurs ISO sur une même clé et de choisir au démarrage.</li>
+</ul>
+
+<h2 id="live">3. Démarrer sur la clé et tester</h2>
+<ol>
+<li>Clé branchée, redémarre l'ordinateur.</li>
+<li>Pendant l'allumage, appuie sur la touche du menu de démarrage. Selon la marque : <kbd>F12</kbd> (Dell, Lenovo), <kbd>F9</kbd> (HP), <kbd>F11</kbd> ou <kbd>F8</kbd> (Asus, MSI), <kbd>Échap</kbd> ou <kbd>F2</kbd> sur d'autres.</li>
+<li>Choisis la clé USB (parfois listée comme « UEFI: nom de la clé »).</li>
+<li>Dans le menu de Mint, valide « Start Linux Mint ». Le bureau « live » s'ouvre : rien n'est modifié sur ton disque.</li>
+</ol>
+<p>Profite de ce mode pour vérifier le wifi, le son, la webcam, l'écran et l'imprimante. Si tout marche ici, tout marchera une fois installé.</p>
+<div class="note"><p>Si la clé n'apparaît pas, désactive « Secure Boot » ou « Fast Boot » dans le BIOS/UEFI (touche <kbd>F2</kbd> ou <kbd>Suppr</kbd> au démarrage). Sous Windows, désactive aussi le « démarrage rapide » dans les options d'alimentation.</p></div>
+
+<h2 id="installer">4. Installer</h2>
+<ol>
+<li>Double-clique sur « Install Linux Mint » sur le bureau live.</li>
+<li>Langue : Français. Clavier : Français (variante par défaut).</li>
+<li>Coche l'installation des <strong>codecs multimédias</strong>.</li>
+<li>Type d'installation :
+  <ul>
+  <li><strong>Installer à côté de Windows</strong> : double démarrage, tu choisis le système à chaque allumage.</li>
+  <li><strong>Effacer le disque et installer Linux Mint</strong> : remplace tout. Uniquement si ta sauvegarde est faite.</li>
+  </ul></li>
+<li>Fuseau horaire, puis nom, nom de l'ordinateur et mot de passe. Note ce mot de passe : il sert aussi pour les mises à jour.</li>
+<li>Attends la fin (15 à 30 minutes), redémarre, retire la clé quand on te le demande.</li>
+</ol>
+
+<h2 id="apres">5. Juste après</h2>
+<ul>
+<li>L'écran d'accueil s'ouvre : fais les <strong>mises à jour</strong>, choisis des miroirs rapides, installe les pilotes si un matériel ne marche pas.</li>
+<li>Crée un premier instantané <strong>Timeshift</strong> une fois tout réglé.</li>
+<li>Continue avec <a href="personnaliser-mint.html">Personnaliser Linux Mint</a>.</li>
+</ul>
+<p class="credit">Guide rédigé par Mamie Commune d'après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>
+  <nav class="gnext" aria-label="Pages voisines"><span></span><a href="distribution-gnu-linux.html"><small>Suivant →</small><b>Choisir une distribution GNU/Linux</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#avant">Avant de commencer</a></li><li><a href="#iso">1. Télécharger l'image ISO</a></li><li><a href="#cle">2. Préparer la clé USB</a></li><li><a href="#live">3. Démarrer sur la clé et tester</a></li><li><a href="#installer">4. Installer</a></li><li><a href="#apres">5. Juste après</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="../experiences/index.html">Révolutions</a>
+      <a href="../antifascisme/index.html">Antifascisme</a>
+      <a href="../bibliotheque/index.html">Bibliothèque</a>
+      <a href="../carte.html">Carte</a>
+      <a href="../videos.html">Vidéos</a>
+      <a href="../guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="../experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="../experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="../bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="../bibliotheque/au-cafe.html">Au café</a>
+      <a href="../guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="../partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js"></script>
+
+</body>
+</html>

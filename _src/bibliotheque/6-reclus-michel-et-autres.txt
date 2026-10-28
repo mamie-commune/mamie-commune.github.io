@@ -1,0 +1,315 @@
+=== l-anarchie-reclus | État & pouvoir | L'Anarchie | Élisée Reclus · 1894 | Un discours de 1894 : l'anarchie est un idéal ancien devenu mouvement conscient, et l'ordre actuel est bien plus chaotique qu'elle.
+<h2 id="contexte">Contexte</h2>
+<p>Discours prononcé le 18 juin 1894 à Bruxelles, devant une loge maçonnique où Reclus est invité sans en être membre. En pleine période des « lois scélérates » contre les anarchistes.</p>
+<h2 id="these">La thèse</h2>
+<p>L'anarchie n'est pas une chimère : c'est une aspiration ancienne, portée désormais par un mouvement conscient qui veut une société sans maîtres, fondée sur l'accord libre et l'entraide.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les anarchistes modernes ont un but clair : aucun gouvernement.</li>
+<li>Ils partagent des aspirations avec bien des courants, mais refusent la conquête du pouvoir, qui transforme qui l'exerce.</li>
+<li>L'ancienne morale reposait sur la peur ; la nouvelle naît de la responsabilité et du respect mutuel.</li>
+<li>Science, pensée libre et recul du respect pour l'État et la propriété affaiblissent l'autorité.</li>
+<li>Les périodes de liberté ont été les plus créatives ; l'entraide quotidienne prouve que le projet est réaliste.</li>
+<li>Misère, guerre et répression : l'ordre actuel est le vrai chaos.</li>
+<li>La haine engendre la haine ; les défenseurs de l'ordre, peu convaincus, finiront par céder.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Vouloir le bien commun sans vouloir le pouvoir.</li>
+<li>L'anarchie se pratique déjà dans la vie ordinaire.</li>
+<li>Une morale de choix libre, pas d'obéissance.</li>
+</ul>
+
+=== pourquoi-sommes-nous-anarchistes | État & pouvoir | Pourquoi sommes-nous anarchistes ? | Élisée Reclus · 1889 | Une profession de foi courte et limpide : refus de l'injustice, refus de l'autorité, communisme libre et révolution.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1889 dans la revue <em>La Société nouvelle</em>. Reclus répond à ceux qui jugent la révolution inutile ou dangereuse.</p>
+<h2 id="these">La thèse</h2>
+<p>Être anarchiste, c'est refuser l'injustice et l'autorité, et vouloir une société de libres associations, sans État ni maître. Ce changement passe par la révolution.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Le constat : les richesses vont à ceux qui ne travaillent pas, soutenus par la religion, l'État et une justice achetable.</li>
+<li>Si la justice est un idéal, il faut l'exiger pour tous ; si seule la force gouverne, il faut lui opposer la force.</li>
+<li>Le progrès social n'est jamais venu d'une évolution paisible seule, mais de ruptures.</li>
+<li>Pas de chef, pas de subordonné : chacun·e reste responsable de ses actes.</li>
+<li>La morale naît de la liberté, pas de l'obéissance.</li>
+<li>Communisme international : terre commune, production selon les besoins.</li>
+<li>Pas de plan figé de la société future.</li>
+<li>Tant que l'injustice dure, la lutte continue.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Deux pages pour comprendre l'essentiel.</li>
+<li>Justice et liberté vont ensemble.</li>
+<li>La société future naîtra de l'association libre.</li>
+</ul>
+
+=== voter-c-est-abdiquer | État & pouvoir | Voter c'est abdiquer | Élisée Reclus · 1885 | Une lettre de 1885 : voter, c'est se donner des maîtres, être dupe, et finir trahi. Il faut agir soi-même.
+<h2 id="contexte">Contexte</h2>
+<p>Lettre écrite à Clarens (Suisse) le 26 septembre 1885 à Jean Grave, publiée dans <em>Le Révolté</em> du 11 octobre. Des camarades avaient demandé son avis sur les élections.</p>
+<h2 id="these">La thèse</h2>
+<p>Voter, c'est renoncer à sa propre souveraineté. Rien de bon ne sort de la délégation du pouvoir ; il faut défendre soi-même ses intérêts.</p>
+<h2 id="idees">Les trois arguments</h2>
+<ol>
+<li><strong>Voter, c'est abdiquer</strong> : les élus deviennent des supérieurs qui font les lois et exigent l'obéissance.</li>
+<li><strong>Voter, c'est être dupe</strong> : aucune personne ordinaire ne devient compétente sur tout par une élection. Le pouvoir rend fou, les assemblées tendent à la médiocrité.</li>
+<li><strong>Voter, c'est être trahi</strong> : le candidat promet, puis change au contact du milieu politique et des puissants.</li>
+</ol>
+<p>La conclusion : ne confiez pas vos intérêts à d'autres, défendez-les vous-mêmes.</p>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le texte anti-électoral le plus cité de l'anarchisme français.</li>
+<li>Une page, trois arguments, une conclusion.</li>
+<li>À comparer avec <a href="criminel-electeur.html">Libertad</a> et <a href="electeur-ecoute.html">Sébastien Faure</a>.</li>
+</ul>
+
+=== sentiment-de-la-nature | Individu & morale | Du sentiment de la nature dans les sociétés modernes | Élisée Reclus · 1866 | Dès 1866, le géographe relie la santé des sociétés à celle de leur milieu, et dénonce la spéculation qui enlaidit les paysages.
+<h2 id="contexte">Contexte</h2>
+<p>Article de 1866, au moment de l'essor des chemins de fer, de l'exode rural et de l'industrialisation. Reclus est géographe ; on le considère aujourd'hui comme un précurseur de l'écologie politique.</p>
+<h2 id="these">La thèse</h2>
+<p>La société urbaine et industrielle détruit à la fois les milieux naturels et la santé physique et intellectuelle des gens. Le lien avec la nature est indispensable à l'équilibre des peuples.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Artistes, savants et voyageurs se passionnent pour la nature, les montagnes surtout.</li>
+<li>Les peuples anciens voyaient dans les sommets le séjour des dieux.</li>
+<li>Les chemins de fer vident les campagnes au profit des grandes villes.</li>
+<li>La ville abrège la vie, affaiblit les corps, produit misère et déchéance.</li>
+<li>Les citadins cherchent l'air pur, mais la spéculation morcelle et enlaidit les sites.</li>
+<li>Certaines agricultures dégradent, d'autres allient productivité et beauté.</li>
+<li>Des civilisations ont décliné après avoir saccagé leur milieu.</li>
+<li>Il faut une éducation qui forme des personnes fortes, adroites et sensibles à la nature.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La santé humaine dépend de celle du milieu.</li>
+<li>La spéculation est l'ennemie des paysages.</li>
+<li>Un texte d'écologie sociale avant l'heure.</li>
+</ul>
+
+=== memoires-louise-michel | Révolution & stratégie | Mémoires | Louise Michel · 1886 | L'enfance en Haute-Marne, l'institutrice républicaine, la Commune, la déportation et les procès, racontés par elle-même.
+<h2 id="contexte">Contexte</h2>
+<p>Premier tome paru en 1886, quelques années après le retour de Louise Michel, amnistiée en 1880 après sa déportation en Nouvelle-Calédonie pour sa participation à la Commune.</p>
+<h2 id="projet">Le projet</h2>
+<p>Des souvenirs écrits à la demande de ses proches, dans un style libre qui procède par associations d'idées, mêlant récit, réflexions, poèmes et chansons. Elle y revendique le droit des femmes à exprimer leur sensibilité.</p>
+<h2 id="parcours">Le parcours</h2>
+<ul>
+<li><strong>L'enfance à Vroncourt</strong> (Haute-Marne) : un vieux château en ruine, les bêtes, les veillées, les légendes, une famille lettrée.</li>
+<li><strong>Institutrice</strong> : diplôme, école libre à Audeloncourt en 1853, conflits avec l'administration impériale qui la soupçonne d'être républicaine.</li>
+<li><strong>Paris</strong> : sous-maîtresse, précarité des institutrices, premiers engagements.</li>
+<li><strong>Le siège de Paris et la Commune</strong>, puis <strong>la déportation</strong> en Nouvelle-Calédonie, où elle enseigne et soutient les Kanak.</li>
+<li><strong>Ses procès</strong> : conseil de guerre de 1871, manifestation pour Blanqui en 1882, manifestation des Invalides en 1883.</li>
+</ul>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Un témoignage direct sur le Second Empire et la Commune.</li>
+<li>La femme réelle derrière la « Vierge rouge » de la légende.</li>
+<li>Un livre composite, vivant, à picorer.</li>
+</ul>
+
+=== l-ere-nouvelle | Révolution & stratégie | L'Ère nouvelle | Louise Michel · 1887 | Le vieux monde s'effondre ; machines, science et terre reviendront à tous dans une société sans maîtres.
+<h2 id="contexte">Contexte</h2>
+<p>Texte de 1887 : grèves de Decazeville et du Borinage, guerres coloniales au Tonkin, mémoire de la répression de la Commune.</p>
+<h2 id="these">La thèse</h2>
+<p>Capitalisme et État appartiennent à un monde condamné. La révolution est inévitable et ouvrira une société libre, sans classes, où science et machines profiteront à tous.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Une image de printemps : la vieille société meurt, un monde nouveau germe.</li>
+<li>Les affamés finissent par se révolter, et c'est légitime.</li>
+<li>Le capital ne vaut que par le travail ; religions, États et privilèges perdent leur autorité.</li>
+<li>Les machines, outils d'exploitation aujourd'hui, libéreraient du temps si elles étaient communes.</li>
+<li>Les grèves annoncent le soulèvement ; le parlementarisme est une impasse.</li>
+<li>Des groupes libres reprendront postes, chemins de fer, mines, télégraphes.</li>
+<li>Égalité et justice deviendront réelles, y compris pour les femmes.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Une profession de foi lyrique.</li>
+<li>La confiance dans la science et l'auto-organisation.</li>
+<li>À lire avec <a href="prise-de-possession.html">Prise de possession</a>.</li>
+</ul>
+
+=== idee-generale-de-la-revolution | Révolution & stratégie | Idée générale de la Révolution au XIXe siècle | Pierre-Joseph Proudhon · 1851 | Écrit en prison après 1848 : la question sociale prime sur la question politique, et le gouvernement doit se dissoudre dans l'organisation économique.
+<h2 id="contexte">Contexte</h2>
+<p>Écrit en 1851 à la prison de la Conciergerie, où Proudhon purge une peine pour délit de presse. Juste après la répression de juin 1848 et la restriction du suffrage universel, quelques mois avant le coup d'État de Louis-Napoléon Bonaparte.</p>
+<h2 id="these">La thèse</h2>
+<p>La révolution est une nécessité historique : plus on la comprime, plus elle grandit. 1789 n'a fait que la moitié du travail : abolir le féodalisme sans bâtir l'organisation économique qui devait suivre.</p>
+<h2 id="etudes">Les sept études</h2>
+<ol>
+<li><strong>Réaction et révolution</strong> : chaque répression nourrit la révolution.</li>
+<li><strong>Pourquoi une révolution</strong> : la concurrence, le crédit et la division du travail livrés à eux-mêmes enrichissent le capital aux dépens du travail.</li>
+<li><strong>Le principe d'association</strong>, examiné et critiqué quand il devient contrainte.</li>
+<li><strong>Le principe d'autorité</strong> : monarchie, constitution, suffrage universel, même la législation directe y passent.</li>
+<li><strong>La liquidation sociale</strong> : banque du peuple, dettes, propriété immobilière et foncière.</li>
+<li><strong>L'organisation des forces économiques</strong> : crédit, propriété, valeur, échanges.</li>
+<li><strong>La dissolution du gouvernement</strong> : justice, police, armée remplacées par des contrats libres.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>L'économie avant la politique.</li>
+<li>Le contrat librement passé à la place de la loi imposée.</li>
+<li>Le livre le plus systématique de Proudhon sur une société sans gouvernement.</li>
+</ul>
+
+=== l-individualisme | Individu & morale | L'Individualisme | Albert Libertad · 1908 | L'individualisme des libéraux protège la propriété. Le vrai individualisme exige l'égalité des moyens.
+<h2 id="contexte">Contexte</h2>
+<p>Paru dans <em>L'Anarchie</em> le 23 janvier 1908. Libertad commente deux manuels universitaires, l'un sur les systèmes socialistes, l'autre sur « l'individualisme économique et social ».</p>
+<h2 id="these">La thèse</h2>
+<p>L'individualisme défendu par les libéraux sert à protéger les possédants. S'affirmer comme individu suppose une égalité réelle des moyens.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Un regard ironique sur les politiciens et la sociologie universitaire.</li>
+<li>Le premier livre caricature le socialisme.</li>
+<li>Le second, bien écrit, aboutit au libéralisme et à la défense de la propriété.</li>
+<li>Le fils de propriétaire peut s'affirmer ; le fils de pauvre, non.</li>
+<li>Ces auteurs ignorent l'anarchisme réel, celui qui essaie de vivre ses idées.</li>
+<li>Leur résignation fabrique des maîtres et des esclaves.</li>
+<li>Communisme et individualisme doivent se rejoindre dans l'anarchisme.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Pas de liberté individuelle sans égalité économique.</li>
+<li>L'anarchisme comme synthèse de l'individu et du commun.</li>
+<li>Un contrepoint à <a href="l-unique-et-sa-propriete.html">Stirner</a>.</li>
+</ul>
+
+=== douze-preuves | Individu & morale | Douze preuves de l'inexistence de Dieu | Sébastien Faure · 1908 | Créateur, gouverneur, juge : Faure examine le Dieu des religions et montre que ses attributs se contredisent.
+<h2 id="contexte">Contexte</h2>
+<p>Transcription d'une conférence que Sébastien Faure, orateur anarchiste, a donnée des centaines de fois. Publiée en 1908, trois ans après la séparation des Églises et de l'État.</p>
+<h2 id="these">La thèse</h2>
+<p>Faure ne nie pas toute « cause première ». Il vise le Dieu des religions, créateur, gouverneur et juge, parfait et infini, et montre que ces attributs sont incompatibles.</p>
+<h2 id="preuves">Les douze preuves</h2>
+<h3>Contre le Dieu créateur</h3>
+<ol>
+<li>Rien ne sort de rien.</li>
+<li>Un pur esprit ne peut produire la matière.</li>
+<li>Un être parfait ne produit pas une œuvre imparfaite.</li>
+<li>Un Dieu éternel et toujours actif n'a pas pu « commencer » à créer.</li>
+<li>Un être immuable ne peut pas décider puis agir.</li>
+<li>Dieu n'aurait eu aucune raison de créer.</li>
+</ol>
+<h3>Contre le Dieu gouverneur</h3>
+<ol start="7">
+<li>Si la création était parfaite, gouverner serait inutile.</li>
+<li>La multiplicité des religions montre un Dieu impuissant ou injuste.</li>
+<li>L'enfer contredit la bonté infinie.</li>
+<li>Le mal prouve qu'il ne peut être à la fois tout-puissant et bon.</li>
+</ol>
+<h3>Contre le Dieu juge</h3>
+<ol start="11">
+<li>L'humain n'est pas responsable de ce qu'il est : on ne peut le juger.</li>
+<li>Des peines éternelles pour des fautes limitées sont injustes.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Un raisonnement en trois séries, facile à suivre.</li>
+<li>La critique religieuse rejoint la critique sociale : l'espoir du paradis entretient la résignation.</li>
+<li>À lire avec <a href="dieu-et-l-etat.html">Dieu et l'État</a>.</li>
+</ul>
+
+=== electeur-ecoute | État & pouvoir | Électeur, écoute | Sébastien Faure · 1919 | Après la boucherie de 14-18 et l'Union sacrée, un appel à l'abstention : le Parlement fait partie de l'appareil qu'il prétend réformer.
+<h2 id="contexte">Contexte</h2>
+<p>Brochure de 1919, juste après la guerre, à la veille des législatives. Les députés de gauche ont voté les crédits de guerre et soutenu l'Union sacrée.</p>
+<h2 id="these">La thèse</h2>
+<p>Voter, c'est accepter sa propre soumission. Le Parlement incarne l'État, qu'il faut détruire et non conquérir. L'abstention est un acte de lutte.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Chaque législature déçoit, et l'on revote pourtant.</li>
+<li>Élire, c'est confier à un autre le pouvoir de faire la loi et de l'imposer.</li>
+<li>Participer légitime l'État et le système qui exploite.</li>
+<li>Les élus doivent leur siège à l'argent, aux intrigues et au clientélisme.</li>
+<li>Bilan : un parlementarisme incompétent, irresponsable, impuissant et corrompu.</li>
+<li>« Et la réaction ? » Une abstention massive affaiblirait le pouvoir ; voter le renforce.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le vote n'est pas un geste neutre.</li>
+<li>L'abstention comme action collective.</li>
+<li>Écrit dans la colère de l'après-guerre.</li>
+</ul>
+
+=== l-anarchie-grave | État & pouvoir | L'Anarchie, son but, ses moyens | Jean Grave · 1899 | Une synthèse de 1899 par l'éditeur des Temps nouveaux : l'individu libre dans l'humanité libre, et comment y parvenir.
+<h2 id="contexte">Contexte</h2>
+<p>Publié en 1899, en pleine affaire Dreyfus et sous les « lois scélérates ». Jean Grave, cordonnier devenu éditeur des <em>Temps nouveaux</em>, répond à ceux qui assimilent anarchie et crime.</p>
+<h2 id="these">La thèse</h2>
+<p>L'anarchie est une théorie rationnelle. Toute autorité, monarchique ou républicaine, sert une minorité. La liberté ne se reçoit pas d'en haut : on la conquiert soi-même.</p>
+<h2 id="but">Le but</h2>
+<ul>
+<li>Une société sans lois ni maîtres où chacun·e développe toutes ses facultés : <strong>l'individu libre dans l'humanité libre</strong>.</li>
+<li>Les capacités humaines sont fondamentalement égales.</li>
+<li>Fin de la propriété de la terre et du capital.</li>
+<li>Liberté totale de pensée et d'amour.</li>
+</ul>
+<h2 id="moyens">Les moyens</h2>
+<ul>
+<li>Se libérer d'abord des préjugés, avant les chaînes matérielles.</li>
+<li>Pas d'élections, pas de réformes partielles qui déplacent le mal.</li>
+<li>Une propagande patiente, qui fermente.</li>
+<li>Une révolution préparée par une conscience collective, pour ne pas reproduire l'ancien ordre.</li>
+</ul>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Toute autorité est nuisible.</li>
+<li>L'émancipation ne se délègue pas.</li>
+<li>Éduquer avant, pour que la révolution ait un lendemain.</li>
+</ul>
+
+=== la-societe-future | Économie & propriété | La Société future | Jean Grave · 1895 | À quoi ressemblerait une société anarchiste ? Entraide plutôt que lutte de tous contre tous, révolution continue et internationale.
+<h2 id="contexte">Contexte</h2>
+<p>Publié en 1895. Jean Grave, proche de Kropotkine, répond aux économistes qui utilisent Darwin pour justifier les inégalités.</p>
+<h2 id="these">La thèse</h2>
+<p>La révolution sociale est un long processus de luttes, qui commence dès qu'un individu affirme son indépendance. Elle doit venir de l'initiative libre et de l'entraide, pas d'un pouvoir central.</p>
+<h2 id="idees">Les grandes parties</h2>
+<ol>
+<li><strong>Le lendemain de la révolution</strong> : les révolutions politiques changent les dirigeants ; la révolution sociale doit être continue et refuser toute autorité.</li>
+<li><strong>Révolution et darwinisme</strong> : la lutte entre membres d'une même espèce est rare ; la bourgeoisie n'a rien d'un « plus apte ».</li>
+<li><strong>La lutte contre la nature</strong> : unir ses efforts (irrigation, reboisement) plutôt que se déchirer. La pénurie vient de la spéculation et du militarisme.</li>
+<li><strong>L'internationalisme</strong> : une révolution isolée serait écrasée ; les exploiteurs sont partout les mêmes.</li>
+<li>Puis, au fil de 27 chapitres : travail, échange, famille, éducation, art, criminalité dans la société libérée.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>L'entraide comme loi naturelle.</li>
+<li>Une révolution longue et sans centre.</li>
+<li>Le tableau le plus complet d'une société anarchiste à la Belle Époque.</li>
+</ul>
+
+=== a-bas-les-chefs | État & pouvoir | À bas les chefs ! | Joseph Déjacque · 1859 | Contre toute dictature, même « révolutionnaire » : la liberté ne se décrète pas et ne se délègue pas.
+<h2 id="contexte">Contexte</h2>
+<p>Écrit dans l'exil après 1848 et publié en brochure (ici dans une édition de 1912). Déjacque, ouvrier colleur de papiers peints et poète, répond aux blanquistes et à tous ceux qui rêvent d'une dictature de salut public.</p>
+<h2 id="these">La thèse</h2>
+<p>Aucune dictature, même au nom du peuple, ne sert la liberté. La seule autorité légitime est celle de l'intelligence et de l'exemple, exercée par chacun·e.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Ne pas ressusciter les vieilles autorités.</li>
+<li>Les révolutionnaires qui acceptent la dictature gardent des réflexes de soumission.</li>
+<li>Une dictature finit toujours par servir son chef et écraser les esprits libres.</li>
+<li>Des ouvriers au pouvoir deviennent aussi autoritaires que des bourgeois.</li>
+<li>Le pouvoir gouvernemental corrompt l'action révolutionnaire (l'exemple de Louis Blanc).</li>
+<li>La seule « dictature » acceptable : celle de l'intelligence et de la morale, par l'exemple de chacun.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le refus du chef révolutionnaire, bien avant 1917.</li>
+<li>La révolution commence par l'autonomie de chacun.</li>
+<li>Déjacque est aussi l'inventeur du mot « libertaire ».</li>
+</ul>
+
+=== etre-humain-male-et-femelle | Individu & morale | De l'être-humain mâle et femelle | Joseph Déjacque · 1857 | La lettre à Proudhon : on ne peut pas être anarchiste et misogyne. L'émancipation des femmes est celle de toute l'humanité.
+<h2 id="contexte">Contexte</h2>
+<p>Lettre écrite en mai 1857 à La Nouvelle-Orléans, où Déjacque est exilé. Il répond aux propos de Proudhon contre Jenny d'Héricourt, qui défendait l'émancipation des femmes.</p>
+<h2 id="these">La thèse</h2>
+<p>L'émancipation des femmes est inséparable de celle de l'être humain. Un anarchisme cohérent doit abolir la propriété, le contrat et toute autorité, y compris dans la famille.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Proudhon parle des femmes sans les connaître, en réactionnaire, lui qui est révolutionnaire en économie.</li>
+<li>Pas de droits selon le sexe : l'être humain est un.</li>
+<li>Les sexes s'influencent l'un l'autre ; la société a réduit les femmes à la décoration et à la soumission.</li>
+<li>Une anarchie communiste où chacun·e produit et consomme librement, sans contrat ni contrôle.</li>
+<li>La diversité (âge, sexe, aptitudes) ne justifie aucune hiérarchie : égalité n'est pas uniformité.</li>
+<li>Un appel à l'union libre des femmes et des hommes.</li>
+</ol>
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le premier texte anarchiste explicitement féministe.</li>
+<li>Il pointe la contradiction de Proudhon.</li>
+<li>Un anarchisme total, jusque dans le couple et la famille.</li>
+</ul>

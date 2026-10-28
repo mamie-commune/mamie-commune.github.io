@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>D&#233;pannage : les mises &#224; jour &#233;chouent &#183; Mamie Commune</title>
+<meta name="description" content="Miroir en panne, d&#233;p&#244;t tiers injoignable, avertissements sans gravit&#233; : comment s&#39;en sortir.">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/fonts.css">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../index.html">Accueil</a><a href="../experiences/index.html">Révolutions</a><a href="../antifascisme/index.html">Antifascisme</a><a href="../bibliotheque/index.html">Bibliothèque</a><a href="../carte.html">Carte</a><a href="../videos.html">Vidéos</a><a href="../guides/index.html" aria-current="page">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Outils numériques</a><span>/</span><a href="index.html#linux-mint">Linux Mint</a></p>
+  <h1>D&#233;pannage : les mises &#224; jour &#233;chouent</h1>
+  <p class="lead">Miroir en panne, d&#233;p&#244;t tiers injoignable, avertissements sans gravit&#233; : comment s&#39;en sortir.</p>
+  <div class="gmeta"><span>Linux Mint</span><span>Guide · 2 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<h2 id="pourquoi">D'où viennent les mises à jour</h2>
+<p>Mint récupère ses mises à jour sur deux dépôts : la <strong>base</strong> (héritée d'Ubuntu) et le dépôt <strong>propre à Mint</strong>. Les serveurs par défaut sont en Angleterre et aux États-Unis, et beaucoup de gens choisissent un miroir plus proche. Quand un miroir tombe, les mises à jour échouent.</p>
+
+<h2 id="reflexes">Premiers réflexes</h2>
+<ol>
+<li>Vérifie ta connexion internet.</li>
+<li>Gestionnaire de mises à jour → <strong>Actualiser</strong>.</li>
+<li>Si ça échoue encore, attends quelques jours : la panne est souvent temporaire.</li>
+</ol>
+
+<h2 id="miroir">Changer un miroir en panne</h2>
+<ol>
+<li>Menu → <strong>Sources de logiciels</strong> (mot de passe demandé).</li>
+<li>Onglet « Dépôts officiels », section « Sites miroirs » : deux lignes, le dépôt principal (Mint) et la base (Ubuntu).</li>
+<li>Clique sur celui qui ne répond pas. La liste des miroirs s'affiche, les plus rapides en haut.</li>
+<li>Choisis l'un des premiers, puis <strong>Appliquer</strong>.</li>
+<li>Ou bien : bouton de restauration pour revenir aux serveurs d'origine.</li>
+<li><strong>Valider</strong> pour rafraîchir le cache APT, puis ferme.</li>
+<li>Gestionnaire de mises à jour → Actualiser → installe.</li>
+</ol>
+
+<h2 id="ppa">Dépôts supplémentaires (PPA)</h2>
+<p>Des logiciels installés en dehors de la logithèque viennent parfois de dépôts tiers (PPA ou dépôts indépendants). Ils apparaissent dans deux autres onglets de Sources de logiciels.</p>
+<ol>
+<li>Décoche le dépôt injoignable.</li>
+<li>Valide pour rafraîchir le cache.</li>
+</ol>
+<p>Le logiciel concerné ne sera plus mis à jour : cherche sa nouvelle méthode d'installation dans sa documentation.</p>
+
+<h2 id="avertissements">Avertissements sans gravité</h2>
+<p>Certains messages n'empêchent rien. Par exemple, un avertissement sur une « méthode de gestion des clés obsolète » (vu avec Signal Desktop) est seulement informatif : ferme-le.</p>
+
+<h2 id="terminal">En ligne de commande</h2>
+<p>Pour voir le message d'erreur exact :</p>
+<pre><code>sudo apt update</code></pre>
+<p>Le nom du dépôt fautif apparaît sur les lignes « Err » ou « Échec ».</p>
+<p class="credit">Guide rédigé par Mamie Commune d'après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="personnaliser-mint.html"><small>← Précédent</small><b>Personnaliser Linux Mint</b></a><a href="mises-a-jour.html"><small>Suivant →</small><b>Les mises &#224; jour sous GNU/Linux</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#pourquoi">D'où viennent les mises à jour</a></li><li><a href="#reflexes">Premiers réflexes</a></li><li><a href="#miroir">Changer un miroir en panne</a></li><li><a href="#ppa">Dépôts supplémentaires (PPA)</a></li><li><a href="#avertissements">Avertissements sans gravité</a></li><li><a href="#terminal">En ligne de commande</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="../experiences/index.html">Révolutions</a>
+      <a href="../antifascisme/index.html">Antifascisme</a>
+      <a href="../bibliotheque/index.html">Bibliothèque</a>
+      <a href="../carte.html">Carte</a>
+      <a href="../videos.html">Vidéos</a>
+      <a href="../guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="../experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="../experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="../bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="../bibliotheque/au-cafe.html">Au café</a>
+      <a href="../guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="../partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js"></script>
+
+</body>
+</html>

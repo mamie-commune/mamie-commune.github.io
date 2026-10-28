@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Partage de donn&#233;es &#183; Mamie Commune</title>
+<meta name="description" content="Envoyer, synchroniser et &#233;crire &#224; plusieurs avec des outils libres, sans cloud des GAFAM.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/fonts.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="index.html">Accueil</a><a href="experiences/index.html">Révolutions</a><a href="antifascisme/index.html">Antifascisme</a><a href="bibliotheque/index.html">Bibliothèque</a><a href="carte.html">Carte</a><a href="videos.html">Vidéos</a><a href="guides/index.html">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="index.html">Accueil</a><span>/</span><span>Partage de données</span></p>
+  <h1>Partage de données</h1>
+  <p class="lead">Envoyer un fichier, synchroniser un dossier, écrire à plusieurs : des outils libres qui ne lisent pas et ne revendent pas ce que tu partages.</p>
+</div></header>
+
+<section class="sec" style="border-top:0">
+  <div class="wrap">
+    <div class="modes">
+      <article class="mode">
+        <p class="mode__tag">Même réseau local</p>
+        <h3>D'un appareil à l'autre, à la maison</h3>
+        <p>Les fichiers ne quittent jamais ton wifi. Le plus rapide et le plus discret.</p>
+        <ul class="tools">
+          <li><b>Warpinator</b><span>Intégré à Linux Mint. Lance-le sur les deux ordis, glisse, c'est envoyé.</span></li>
+          <li><b>LocalSend</b><span>Linux, Windows, macOS, Android, iPhone. Sans compte ni internet.</span></li>
+          <li><b>KDE Connect / GSConnect</b><span>Relie téléphone et ordi : fichiers, notifications, presse-papier.</span></li>
+        </ul>
+      </article>
+      <article class="mode">
+        <p class="mode__tag">Synchronisation</p>
+        <h3>Tes dossiers sur tous tes appareils</h3>
+        <p>Un fichier modifié sur l'ordi se met à jour sur le téléphone, sans cloud tiers.</p>
+        <ul class="tools">
+          <li><b>Syncthing</b><span>De pair à pair et chiffré. Aucun serveur central.</span></li>
+          <li><b>Nextcloud</b><span>Ton propre « drive », chez toi ou chez un hébergeur éthique.</span></li>
+          <li><b>CHATONS</b><span>Collectif d'hébergeurs alternatifs, transparents et locaux.</span></li>
+        </ul>
+      </article>
+      <article class="mode">
+        <p class="mode__tag">Envoi à distance</p>
+        <h3>Envoyer à quelqu'un, ailleurs</h3>
+        <p>Un lien qui expire, des données chiffrées avant l'envoi.</p>
+        <ul class="tools">
+          <li><b>OnionShare</b><span>Partage anonyme via Tor, directement depuis ton ordi.</span></li>
+          <li><b>Lufi</b><span>Dépôt de fichiers chiffré dans le navigateur, proposé par plusieurs CHATONS.</span></li>
+          <li><b>CryptPad</b><span>Documents et tableurs à plusieurs, chiffrés de bout en bout.</span></li>
+        </ul>
+      </article>
+    </div>
+
+    <div class="rules">
+      <h3>Avant de partager</h3>
+      <dl>
+        <div><dt>Chiffre</dt><dd>Préfère un outil qui chiffre avant l'envoi. Sinon, l'hébergeur peut lire tes fichiers.</dd></div>
+        <div><dt>Expire</dt><dd>Donne une date de fin aux liens. Un lien oublié reste ouvert à qui le retrouve.</dd></div>
+        <div><dt>Nettoie</dt><dd>Les photos contiennent souvent la position GPS. Retire les métadonnées avec mat2 (installable sur Mint).</dd></div>
+        <div><dt>Sauvegarde</dt><dd>Partager n'est pas sauvegarder. Garde une copie hors ligne de ce qui compte.</dd></div>
+      </dl>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--alt">
+  <div class="wrap">
+    <header class="sec__head">
+      <p class="eyebrow">// pas à pas</p>
+      <h2>Warpinator en 4 étapes</h2>
+      <p class="sec__intro">Envoyer des fichiers entre deux ordinateurs Linux Mint du même réseau.</p>
+    </header>
+    <ol class="steps">
+      <li class="step"><span class="step__n">01</span><h3>Ouvrir</h3><p>Menu → Warpinator, sur les deux ordinateurs connectés au même wifi ou câble.</p></li>
+      <li class="step"><span class="step__n">02</span><h3>Se trouver</h3><p>Les deux machines apparaissent l'une chez l'autre au bout de quelques secondes.</p></li>
+      <li class="step"><span class="step__n">03</span><h3>Envoyer</h3><p>Clique sur l'autre ordinateur, puis « Envoyer des fichiers » ou glisse-les dans la fenêtre.</p></li>
+      <li class="step"><span class="step__n">04</span><h3>Accepter</h3><p>L'autre accepte le transfert. Les fichiers arrivent dans le dossier Warpinator.</p></li>
+      <li class="step"><span class="step__n">!</span><h3>Pas de connexion ?</h3><p>Vérifie que les deux machines ont le même « code de groupe » dans les préférences, et que le pare-feu laisse passer Warpinator.</p></li>
+      <li class="step"><span class="step__n">+</span><h3>Avec un téléphone</h3><p>Une application Warpinator non officielle existe sur F-Droid. Sinon, LocalSend fait la même chose partout.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="sec">
+  <div class="wrap">
+    <header class="sec__head">
+      <p class="eyebrow">// guides liés</p>
+      <h2>Pour aller plus loin</h2>
+    </header>
+    <div class="cards">
+      <a class="card" href="guides/sauvegardes.html"><span class="card__tag">Logiciels</span><h3>Faire des sauvegardes</h3><p>Copie, synchronisation, incrémentale : quoi, quand, où.</p><span class="card__go">Lire le guide →</span></a>
+      <a class="card" href="guides/hebergement-email.html"><span class="card__tag">Vie privée</span><h3>Héberger ses e-mails</h3><p>Quitter Gmail et Outlook pour un fournisseur éthique.</p><span class="card__go">Lire le guide →</span></a>
+      <a class="card" href="guides/ressources-associations.html"><span class="card__tag">Logiciels</span><h3>Outils libres pour les collectifs</h3><p>Travailler à plusieurs sans GAFAM.</p><span class="card__go">Lire le guide →</span></a>
+      <a class="card" href="guides/stop-gafam.html"><span class="card__tag">Vie privée</span><h3>Éviter la pub et les GAFAM</h3><p>Sept étapes, dont trois en une demi-heure.</p><span class="card__go">Lire le guide →</span></a>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="experiences/index.html">Révolutions</a>
+      <a href="antifascisme/index.html">Antifascisme</a>
+      <a href="bibliotheque/index.html">Bibliothèque</a>
+      <a href="carte.html">Carte</a>
+      <a href="videos.html">Vidéos</a>
+      <a href="guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="bibliotheque/au-cafe.html">Au café</a>
+      <a href="guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="assets/site.js"></script>
+
+</body>
+</html>

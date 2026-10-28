@@ -1,0 +1,3 @@
+# Livres diffusés en PDF avec l'accord de leurs auteurs.
+# identifiant | thème | fiche liée | titre | auteur | année | pages | présentation | crédit
+dix-questions-antifascisme | Antifascisme | dix-questions-antifascisme | Dix questions sur l'antifascisme | La Horde | 2023 | 200 | L'antifascisme comme autodéfense, projet d'émancipation et contre-culture : histoire, pratiques et débats, en dix questions. | Texte complet de La Horde, Dix questions sur l'antifascisme, éditions Libertalia, 2023 (version 2024). Diffusé avec l'accord de La Horde.

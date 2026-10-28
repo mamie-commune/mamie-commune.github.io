@@ -1,0 +1,227 @@
+﻿# Génère le site statique Mamie Commune à partir de _src/.
+# Usage : powershell -ExecutionPolicy Bypass -File _src/build.ps1
+$ErrorActionPreference = "Stop"
+$src  = $PSScriptRoot
+$site = Split-Path $src -Parent
+$utf8 = New-Object System.Text.UTF8Encoding $false
+function Read-Utf8($p) { [IO.File]::ReadAllText($p, [Text.Encoding]::UTF8) }
+function Write-Utf8($p, $s) {
+  $d = Split-Path $p -Parent
+  if (-not (Test-Path $d)) { New-Item -ItemType Directory -Force $d | Out-Null }
+  [IO.File]::WriteAllText($p, $s, $utf8)
+}
+function Esc($s) { [Net.WebUtility]::HtmlEncode($s) }
+function JsStr($s) { '"' + ($s -replace '\\', '\\' -replace '"', '\"') + '"' }
+function Slug($s) { ($s.ToLower().Normalize([Text.NormalizationForm]::FormD) -replace '\p{Mn}', '' -replace '[^a-z0-9]+', '-').Trim('-') }
+
+$layout = Read-Utf8 (Join-Path $src "layout.html")
+$navItems = @(
+  @("accueil", "index.html", "Accueil"),
+  @("luttes", "experiences/index.html", "Révolutions"),
+  @("antifa", "antifascisme/index.html", "Antifascisme"),
+  @("bibliotheque", "bibliotheque/index.html", "Bibliothèque"),
+  @("carte", "carte.html", "Carte"),
+  @("videos", "videos.html", "Vidéos"),
+  @("outils", "guides/index.html", "Outils numériques")
+)
+
+function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
+  $navHtml = ""
+  foreach ($item in $navItems) {
+    $cur = ""; if ($item[0] -eq $nav) { $cur = ' aria-current="page"' }
+    $navHtml += "<a href=""$root$($item[1])""$cur>$($item[2])</a>"
+  }
+  $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts)
+  return $out.Replace("{{R}}", $root)
+}
+
+# Lit les fichiers « === slug | catégorie | titre | [signature |] résumé » d'un dossier.
+function Read-Collection($dir) {
+  $items = @()
+  foreach ($f in Get-ChildItem (Join-Path $src $dir) -Filter *.txt | Sort-Object Name) {
+    foreach ($p in ((Read-Utf8 $f.FullName) -split "(?m)^=== ")) {
+      if ($p.Trim() -eq "") { continue }
+      $nl = $p.IndexOf("`n")
+      $meta = $p.Substring(0, $nl).Trim() -split "\s\|\s"
+      $by = ""; $sum = $meta[3]
+      if ($meta.Count -ge 5) { $by = $meta[3].Trim(); $sum = $meta[4] }
+      $items += [pscustomobject]@{ slug = $meta[0].Trim(); cat = $meta[1].Trim(); title = $meta[2].Trim(); by = $by; sum = $sum.Trim(); html = $p.Substring($nl + 1).Trim() }
+    }
+  }
+  return $items
+}
+
+function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
+  for ($i = 0; $i -lt $items.Count; $i++) {
+    $g = $items[$i]
+    $toc = ""
+    foreach ($m in [regex]::Matches($g.html, '<h2 id="([^"]+)">(.*?)</h2>')) {
+      $toc += "<li><a href=""#$($m.Groups[1].Value)"">$([regex]::Replace($m.Groups[2].Value, '<[^>]+>', ''))</a></li>"
+    }
+    $words = ([regex]::Replace($g.html, '<[^>]+>', ' ') -split '\s+' | Where-Object { $_ }).Count
+    $mins = [Math]::Max(2, [Math]::Ceiling($words / 200))
+    $nav2 = "<span></span>"
+    if ($i -gt 0) { $pv = $items[$i-1]; $nav2 = "<a href=""$($pv.slug).html""><small>← Précédent</small><b>$(Esc $pv.title)</b></a>" }
+    if ($i -lt $items.Count - 1) { $nx = $items[$i+1]; $nav2 += "<a href=""$($nx.slug).html""><small>Suivant →</small><b>$(Esc $nx.title)</b></a>" }
+    $meta = "<span>$(Esc $g.cat)</span>"
+    if ($g.by) { $meta += "<span>$(Esc $g.by)</span>" }
+    $meta += "<span>$kind · $mins min</span>"
+    $body = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">$label</a><span>/</span><a href="index.html#$(Slug $g.cat)">$(Esc $g.cat)</a></p>
+  <h1>$(Esc $g.title)</h1>
+  <p class="lead">$(Esc $g.sum)</p>
+  <div class="gmeta">$meta</div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+$($g.html)
+$credit
+  <nav class="gnext" aria-label="Pages voisines">$nav2</nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol>$toc</ol></aside>
+</div>
+"@
+    $title = $g.title; if ($g.by) { $title += " — " + ($g.by -split ' · ')[0] }
+    Write-Utf8 (Join-Path $site "$folder\$($g.slug).html") (Render-Page "../" $nav "$title · Mamie Commune" $g.sum $body "")
+  }
+  $js = "// Généré par _src/build.ps1 — ne pas modifier à la main.`nwindow.$jsVar = [`n"
+  $js += ($items | ForEach-Object { "  { slug: $(JsStr $_.slug), cat: $(JsStr $_.cat), t: $(JsStr $_.title), by: $(JsStr $_.by), d: $(JsStr $_.sum) }" }) -join ",`n"
+  $js += "`n];`n"
+  Write-Utf8 (Join-Path $site "data\$folder.js") $js
+}
+
+$guides = Read-Collection "guides"
+Build-Collection $guides "guides" "outils" "Outils numériques" "Guide" '<p class="credit">Guide rédigé par Mamie Commune d''après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>' "GUIDES"
+
+# Titre de couverture en étiquettes noires, roses et crème.
+function Title-Tags($s) {
+  $w = $s -split '\s+'; $out = @(); $n = 0
+  for ($k = 0; $k -lt $w.Count; ) {
+    $size = 1; if ($w[$k].Length -lt 4 -and $k + 1 -lt $w.Count) { $size = 2 }
+    $chunk = ($w[$k..($k + $size - 1)] -join ' ')
+    $cls = if ($n % 3 -eq 2) { 2 } else { $n % 2 }
+    $out += "<span class=""tg tg$cls"">$(Esc $chunk)</span>"
+    $k += $size; $n++
+  }
+  return $out -join ' '
+}
+# ---------- livres complets (domaine public) ----------
+. (Join-Path $src "muse.ps1")
+$printTpl = Read-Utf8 (Join-Path $src "textes\print.html")
+$mamieUrl = "file:///" + ((Join-Path $site "assets\mamie.webp") -replace '\\', '/')
+$livres = @()
+foreach ($row in (Read-Utf8 (Join-Path $src "textes\livres.txt")) -split "`n") {
+  if ($row.Trim() -eq "" -or $row.StartsWith("#")) { continue }
+  $c = $row -split "\|" | ForEach-Object { $_.Trim() }
+  $doc = ConvertFrom-Muse (Read-Utf8 (Join-Path $src "textes\sources\$($c[0].Trim()).muse"))
+  $m = $doc.meta
+  $title = $m["title"] -replace '\s*\?$', ' ?'
+  $author = $m["author"] -replace '^Reclus Élisée$', 'Élisée Reclus'
+  $date = ($m["date"] -replace '[^\d]', ' ').Trim() -split '\s+' | Select-Object -Last 1
+  $source = ([regex]::Replace(($m["notes"] + ""), '<[^>]+>', '') -replace '\[\[[^\]]+\]\[([^\]]+)\]\]', '$1' -replace '\*', '').Trim()
+  $words = ([regex]::Replace($doc.html, '<[^>]+>', ' ') -split '\s+' | Where-Object { $_ }).Count
+  $livres += [pscustomobject]@{ id = $c[1].Trim(); cat = $c[2].Trim(); fiche = $c[3].Trim(); d = $c[4].Trim(); title = $title; author = $author; date = $date; source = $source; doc = $doc; words = $words; sub = ($m["subtitle"] + "") }
+}
+
+$ficheToLivre = @{}; foreach ($l in $livres) { if ($l.fiche) { $ficheToLivre[$l.fiche] = $l.id } }
+
+for ($i = 0; $i -lt $livres.Count; $i++) {
+  $l = $livres[$i]
+  $toc = ($l.doc.toc | Select-Object -First 60 | ForEach-Object { "<li class=""t$($_.level)""><a href=""#$($_.id)"">$(Esc $_.text)</a></li>" }) -join ""
+  if ($l.doc.html -match 'id="notes"') { $toc += '<li class="t2"><a href="#notes">Notes</a></li>' }
+  $mins = [Math]::Max(1, [Math]::Round($l.words / 230))
+  $duree = if ($mins -ge 90) { "$([Math]::Round($mins / 60)) h de lecture" } else { "$mins min de lecture" }
+  $ficheBtn = ""; if ($l.fiche) { $ficheBtn = "<a class=""btn"" href=""../bibliotheque/$($l.fiche).html"">Fiche de lecture</a>" }
+  $nav2 = "<span></span>"
+  if ($i -gt 0) { $pv = $livres[$i-1]; $nav2 = "<a href=""$($pv.id).html""><small>← Précédent</small><b>$(Esc $pv.title)</b></a>" }
+  if ($i -lt $livres.Count - 1) { $nx = $livres[$i+1]; $nav2 += "<a href=""$($nx.id).html""><small>Suivant →</small><b>$(Esc $nx.title)</b></a>" }
+  $srcLine = ""; if ($l.source) { $srcLine = " Édition : $(Esc $l.source)" }
+  $body = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../bibliotheque/index.html">Bibliothèque</a><span>/</span><a href="../bibliotheque/index.html#livres">Livres complets</a></p>
+  <h1>$(Esc $l.title)</h1>
+  <p class="lead">$(Esc $l.d)</p>
+  <div class="gmeta"><span>$(Esc $l.cat)</span><span>$(Esc $l.author) · $($l.date)</span><span>$duree</span></div>
+  <div class="cta"><a class="btn btn--main" href="../lecteur.html?livre=$($l.id)">Lire en PDF</a><a class="btn" href="pdf/$($l.id).pdf" download>Télécharger le PDF</a>$ficheBtn</div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose livre">
+$($l.doc.html)
+<p class="credit">Texte intégral, domaine public.$srcLine Mis en page par Mamie Commune d'après la Bibliothèque anarchiste.</p>
+  <nav class="gnext" aria-label="Livres voisins">$nav2</nav>
+  </article>
+  <aside class="toc"><h2>Sommaire</h2><ol>$toc</ol></aside>
+</div>
+"@
+  Write-Utf8 (Join-Path $site "livres\$($l.id).html") (Render-Page "../" "bibliotheque" "$($l.title) — $($l.author) · Mamie Commune" $l.d $body "")
+
+  # Version imprimable, convertie en PDF par _src/pdf.ps1
+  $sub = ""; if ($l.sub) { $sub = "<p class=""cover__sub"">$(Esc $l.sub)</p>" }
+  $print = $printTpl.Replace("{{TITLE}}", (Esc $l.title)).Replace("{{AUTHOR}}", (Esc $l.author)).Replace("{{DATE}}", $l.date).Replace("{{SUB}}", $sub).Replace("{{MAMIE}}", $mamieUrl).Replace("{{TITLETAGS}}", (Title-Tags $l.title)).Replace("{{SOURCE}}", (Esc $l.source)).Replace("{{BODY}}", $l.doc.html)
+  # On ne réécrit que si le contenu change, pour que pdf.ps1 ne régénère que les livres modifiés.
+  $pp = Join-Path $src "textes\print\$($l.id).html"
+  if (-not (Test-Path $pp) -or (Read-Utf8 $pp) -ne $print) { Write-Utf8 $pp $print }
+}
+# Livres diffusés tels quels en PDF, avec l'accord de leurs auteurs (pas de texte source à convertir).
+# Format : identifiant | thème | fiche liée | titre | auteur | année | pages | présentation | crédit
+$pdfList = Join-Path $src "textes\livres-pdf.txt"
+if (Test-Path $pdfList) {
+  foreach ($row in (Read-Utf8 $pdfList) -split "`n") {
+    if ($row.Trim() -eq "" -or $row.StartsWith("#")) { continue }
+    $c = $row -split "\|" | ForEach-Object { $_.Trim() }
+    $l = [pscustomobject]@{ id = $c[0]; cat = $c[1]; fiche = $c[2]; title = $c[3]; author = $c[4]; date = $c[5]; d = $c[7] }
+    $livres += $l
+    if ($l.fiche) { $ficheToLivre[$l.fiche] = $l.id }
+    $ficheBtn = ""; if ($l.fiche) { $ficheBtn = "<a class=""btn"" href=""../bibliotheque/$($l.fiche).html"">Fiche de lecture</a>" }
+    $body = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../bibliotheque/index.html">Bibliothèque</a><span>/</span><a href="../bibliotheque/index.html#livres">Livres complets</a></p>
+  <h1>$(Esc $l.title)</h1>
+  <p class="lead">$(Esc $l.d)</p>
+  <div class="gmeta"><span>$(Esc $l.cat)</span><span>$(Esc $l.author) · $($l.date)</span><span>$(Esc $c[6]) pages</span></div>
+  <div class="cta"><a class="btn btn--main" href="../lecteur.html?livre=$($l.id)">Lire en PDF</a><a class="btn" href="pdf/$($l.id).pdf" download>Télécharger le PDF</a>$ficheBtn</div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+    <p>Ce livre est diffusé ici dans sa mise en page d'origine. Ouvre-le dans le <a href="../lecteur.html?livre=$($l.id)">lecteur PDF</a> ou télécharge-le pour le lire hors ligne, l'imprimer ou le faire circuler.</p>
+    $(if ($l.fiche) { "<p>Pour aller à l'essentiel, la <a href=""../bibliotheque/$($l.fiche).html"">fiche de lecture</a> résume chaque chapitre.</p>" })
+    <p class="credit">$(Esc $c[8])</p>
+  </article>
+</div>
+"@
+    Write-Utf8 (Join-Path $site "livres\$($l.id).html") (Render-Page "../" "bibliotheque" "$($l.title) — $($l.author) · Mamie Commune" $l.d $body "")
+  }
+}
+
+$js = "// Généré par _src/build.ps1 — ne pas modifier à la main.`nwindow.LIVRES = [`n"
+$js += ($livres | ForEach-Object { "  { slug: $(JsStr $_.id), cat: $(JsStr $_.cat), t: $(JsStr $_.title), by: $(JsStr "$($_.author) · $($_.date)"), d: $(JsStr $_.d) }" }) -join ",`n"
+$js += "`n];`n"
+Write-Utf8 (Join-Path $site "data\livres.js") $js
+
+$biblio = Read-Collection "bibliotheque"
+foreach ($b in $biblio) {
+  if ($ficheToLivre.ContainsKey($b.slug)) {
+    $b.html += "`n<div class=""note""><p><strong>Le texte complet est sur Mamie Commune.</strong> <a href=""../livres/$($ficheToLivre[$b.slug]).html"">Lire en ligne</a> ou <a href=""../lecteur.html?livre=$($ficheToLivre[$b.slug])"">ouvrir le PDF</a>.</p></div>"
+  }
+}
+Build-Collection $biblio "bibliotheque" "bibliotheque" "Bibliothèque" "Fiche" '<p class="credit">Fiche de lecture rédigée par Mamie Commune d''après les textes de la Bibliothèque anarchiste francophone. Cette fiche est libre de reproduction.</p>' "BIBLIO"
+
+$exp = Read-Collection "experiences"
+Build-Collection $exp "experiences" "luttes" "Révolutions" "Dossier" '<p class="credit">Dossier rédigé par Mamie Commune à partir de travaux d''historien·nes et de textes des mouvements concernés. Libre de reproduction.</p>' "EXPERIENCES"
+
+$antifa = Read-Collection "antifascisme"
+Build-Collection $antifa "antifascisme" "antifa" "Antifascisme" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune d''après les ressources publiées par le site antifasciste La Horde. Les originaux (schéma, carte, livre) sont disponibles sur leur site.</p>' "ANTIFA"
+
+# ---------- pages ----------
+foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
+  $raw = Read-Utf8 $f.FullName
+  $m = [regex]::Match($raw, '^<!--\s*(.*?)\s*-->\s*', 'Singleline')
+  $meta = $m.Groups[1].Value -split "\s\|\s"
+  $body = $raw.Substring($m.Length)
+  $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
+  $out = $f.Name; $root = ""
+  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
+}
+Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres et $($exp.Count) pages de dossiers générés."

@@ -1,0 +1,24 @@
+<!-- Lecteur · Mamie Commune | Lire les livres de la bibliothèque Mamie Commune en PDF, directement dans le navigateur. | bibliotheque | <script src="data/livres.js"></script><script src="assets/vendor/pdf.min.js"></script><script src="assets/lecteur.js"></script> -->
+<div class="reader">
+  <div class="reader__bar">
+    <div class="reader__info">
+      <a class="reader__back" id="rBack" href="bibliotheque/index.html#livres">← Bibliothèque</a>
+      <p class="reader__title" id="rTitle">Chargement du livre…</p>
+    </div>
+    <div class="reader__tools" role="toolbar" aria-label="Commandes du lecteur">
+      <button type="button" id="rPrev" aria-label="Page précédente">‹</button>
+      <label class="reader__page" for="rPage"><input id="rPage" type="number" min="1" value="1" inputmode="numeric"> <span id="rCount">/ –</span></label>
+      <button type="button" id="rNext" aria-label="Page suivante">›</button>
+      <span class="reader__sep"></span>
+      <button type="button" id="rOut" aria-label="Réduire">−</button>
+      <span class="reader__zoom" id="rZoom">100 %</span>
+      <button type="button" id="rIn" aria-label="Agrandir">+</button>
+      <button type="button" id="rFit">Largeur</button>
+      <span class="reader__sep"></span>
+      <a class="btn btn--main" id="rDl" href="#" download>PDF</a>
+    </div>
+  </div>
+  <div class="reader__pages" id="rPages" tabindex="0" aria-label="Pages du livre">
+    <p class="reader__msg" id="rMsg">Chargement du livre…</p>
+  </div>
+</div>

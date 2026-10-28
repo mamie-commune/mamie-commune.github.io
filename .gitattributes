@@ -1,0 +1,2 @@
+# Garder les fichiers octet pour octet (les scripts PowerShell ont besoin de leur encodage UTF-8 avec BOM).
+* -text

@@ -1,0 +1,169 @@
+=== anarchie-philosophie-ideal | Révolution & stratégie | L'Anarchie, sa philosophie, son idéal | Pierre Kropotkine · 1896 | L'anarchie n'est pas une utopie destructrice mais une philosophie cohérente, en accord avec les sciences de son temps.
+<h2 id="contexte">Contexte</h2>
+<p>Conférence de 1896, publiée la même année à Paris. Après l'écrasement de la Commune et une vague d'attentats, la presse réduit l'anarchisme à la violence. Kropotkine, géographe et naturaliste, veut montrer qu'il s'agit d'une pensée solide.</p>
+
+<h2 id="these">La thèse</h2>
+<p>Dans toutes les sciences, l'ordre apparaît comme le résultat d'éléments autonomes qui s'associent, pas comme l'effet d'un centre qui commande. L'anarchie applique ce regard à la société : libre association, entraide, communisme sans État.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Un nouveau regard scientifique.</strong> De l'astronomie à la biologie, on est passé d'un monde organisé autour d'un centre à un monde d'équilibres entre forces multiples.</li>
+<li><strong>L'harmonie est un équilibre provisoire.</strong> Une force trop longtemps contrainte rompt l'équilibre, comme un volcan : c'est ce que sont les révolutions.</li>
+<li><strong>La même logique en histoire, en droit, en économie</strong> : on regarde désormais les peuples, les coutumes et les besoins réels.</li>
+<li><strong>Critique du capitalisme</strong> : le problème n'est pas qu'on produit trop, mais que les travailleur·euses ne peuvent pas acheter ce qu'ils produisent. D'où les crises et les guerres.</li>
+<li><strong>Critique du collectivisme</strong> : payer chacun selon ses heures de travail ne tient pas, et un État patron reproduirait la domination.</li>
+<li><strong>L'État est récent</strong> : il est né de la destruction des communes libres et des guildes médiévales.</li>
+<li><strong>Prisons, juges et police</strong> n'empêchent pas le crime et l'aggravent souvent. Le pouvoir corrompt même les meilleur·es.</li>
+<li><strong>Seule la pratique de l'entraide</strong> élève durablement le niveau moral d'une société.</li>
+<li><strong>Pas d'« étapes » imposées</strong> : la reconstruction après une révolution doit venir de l'initiative populaire.</li>
+</ol>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Anarchie et communisme se complètent : l'individu s'épanouit quand ses besoins sont couverts.</li>
+<li>L'argument scientifique : l'ordre naît de l'association, pas du commandement.</li>
+<li>Juger la violence des révolté·es au regard de celle des États.</li>
+</ul>
+
+=== commune-de-paris-kropotkine | Révolution & stratégie | La Commune de Paris | Pierre Kropotkine · 1881 | Dix ans après 1871, Kropotkine tire les leçons de la Commune : abolir propriété et gouvernement dès le premier jour, et rallier les campagnes.
+<h2 id="contexte">Contexte</h2>
+<p>Écrit en mars 1881, pour les dix ans de la Commune, née le 18 mars 1871 dans un Paris épuisé par le siège et écrasée dans le sang en mai. Le mouvement socialiste se reconstruit à peine.</p>
+
+<h2 id="these">La thèse</h2>
+<p>La Commune n'était pas une simple révolte municipale. Elle a fait naître une idée : la révolution sociale par des communes libres et fédérées, sans propriété privée ni État. Ses échecs viennent des hésitations de l'époque, pas d'une faiblesse du principe.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Le 18 mars</strong> : une insurrection presque sans combat ; le gouvernement s'effondre devant le peuple armé.</li>
+<li><strong>Deux socialismes</strong> : l'« État populaire » des socialistes allemands contre le refus de tout État des socialistes latins.</li>
+<li><strong>L'autonomie communale n'était qu'un moyen</strong> ; le but était la révolution sociale.</li>
+<li><strong>Deux erreurs</strong> : avoir repoussé la question de la propriété « après la victoire », et avoir créé un conseil-gouvernement qui a paralysé l'initiative populaire.</li>
+<li><strong>Ce que veulent les travailleurs en 1881</strong> : mettre en commun toutes les richesses, et se méfier de tout pouvoir central.</li>
+<li><strong>Le point aveugle</strong> : les paysans. Sans les campagnes, aucune révolution urbaine ne tiendra.</li>
+</ol>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Abolir propriété et gouvernement dès le début, pas « plus tard ».</li>
+<li>Un gouvernement révolutionnaire finit par étouffer la révolution.</li>
+<li>L'alliance avec les campagnes : voir aussi <a href="a-mon-frere-le-paysan.html">Reclus, À mon frère le paysan</a>.</li>
+</ul>
+
+=== evolution-revolution-ideal | Révolution & stratégie | L'Évolution, la révolution et l'idéal anarchique | Élisée Reclus · 1906 | Évolution et révolution ne s'opposent pas : la lente maturation prépare le basculement. Reclus défend une révolution consciente.
+<h2 id="contexte">Contexte</h2>
+<p>Publié en 1906, un an après la mort de Reclus, à partir d'une conférence donnée des années plus tôt à Genève. Ancien communard, géographe reconnu, il écrit alors que le mouvement ouvrier s'organise en syndicats et en coopératives.</p>
+
+<h2 id="these">La thèse</h2>
+<p>L'évolution (le changement lent des idées et des mœurs) et la révolution (le basculement brusque quand les résistances sont trop fortes) sont deux moments d'un même mouvement. La révolution doit être <strong>consciente et réfléchie</strong>, et mener à une société sans maîtres.</p>
+
+<h2 id="idees">Les idées, chapitre par chapitre</h2>
+<ol>
+<li><strong>Tout évolue</strong> ; les révolutions sont des épisodes de l'évolution. Reclus critique ceux qui acceptent que les idées changent mais pas les institutions.</li>
+<li><strong>Toute révolution a deux faces</strong> : progrès et régression. La Réforme ou la Révolution française ont aussi installé de nouveaux pouvoirs.</li>
+<li><strong>Des foules instinctives aux forces conscientes</strong> : les échecs de 1848 et de la Commune montrent qu'il faut des individus libres et lucides, pas des chefs.</li>
+<li><strong>Le bilan de la société</strong> : argent, État, religion, justice, armée, administration, patriotisme. Toute institution figée tend vers la réaction.</li>
+<li><strong>« Du pain pour tous »</strong> : l'idéal est d'abord matériel. Reclus réfute Malthus : l'abondance est possible, et la misère réduit l'espérance de vie des travailleur·euses.</li>
+<li><strong>Partis, vote, police, Église, école officielle</strong> passent au crible ; grèves, coopératives et communautés sont examinées comme des pistes.</li>
+</ol>
+
+<h2 id="arguments">Les images</h2>
+<p>La rivière qui emporte son barrage, la graine qui fend la terre : le changement est naturel et inévitable.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Pas d'opposition entre réforme lente et rupture : l'une prépare l'autre.</li>
+<li>Connaître la société avant de vouloir la transformer.</li>
+<li>Une révolution qui installe de nouveaux maîtres a échoué.</li>
+</ul>
+
+=== au-cafe | Révolution & stratégie | Au café | Errico Malatesta · 1920 | Un dialogue de bistrot entre un rentier, un juge, un négociant, un étudiant et un anarchiste. Toutes les objections à l'anarchie y passent.
+<h2 id="contexte">Contexte</h2>
+<p>Publié en 1920, dans une Italie secouée par les grèves et les occupations d'usines. Malatesta choisit la forme la plus accessible qui soit : une conversation au café, de soir en soir, en dix-sept chapitres.</p>
+
+<h2 id="personnages">Les personnages</h2>
+<ul>
+<li><strong>Prosper</strong>, rentier, défenseur de l'ordre au nom de la « loi de la nature ».</li>
+<li><strong>Ambroise</strong>, juge, qui parle droit, morale et religion.</li>
+<li><strong>César</strong>, négociant, partisan de quelques réformes.</li>
+<li><strong>Michel</strong>, étudiant, qui pose les questions naïves et justes.</li>
+<li><strong>Georges</strong>, l'anarchiste, porte-parole de l'auteur.</li>
+</ul>
+
+<h2 id="objections">Les objections, et les réponses</h2>
+<ol>
+<li><strong>« C'est la loi de la nature. »</strong> Des terres en friche et des ouvriers sans travail ne sont pas naturels : c'est l'organisation sociale.</li>
+<li><strong>« Il y a les gendarmes. »</strong> La force peut se retourner contre ceux qui la tiennent.</li>
+<li><strong>« Le droit et la morale. »</strong> Un droit qui consacre l'oppression n'est qu'un outil des privilégiés.</li>
+<li><strong>« C'est la faute du protectionnisme et du manque de capitaux. »</strong> Le capital existe, mais il dort tant qu'il ne rapporte pas ; logements et terres restent vides.</li>
+<li><strong>« La propriété vient du travail et de l'épargne. »</strong> L'épargne devient exploitation dès qu'elle fait travailler les autres ; à l'origine des fortunes, il y a la violence.</li>
+<li><strong>« Partageons, alors. »</strong> Non : un partage reconstituerait vite les inégalités. Il faut mettre en commun.</li>
+<li><strong>« Le communisme tuera la liberté et nourrira les paresseux. »</strong> L'adhésion est libre, on peut s'en retirer, et l'opinion commune décourage l'oisiveté.</li>
+<li><strong>« Sans gouvernement, c'est le chaos. »</strong> Une loi s'impose par la force ; une règle librement acceptée peut être révisée.</li>
+<li><strong>« L'humain est égoïste. »</strong> Il est égoïste et altruiste ; c'est l'organisation sociale qui fait pencher la balance.</li>
+<li><strong>« La police prévient les crimes. »</strong> La criminalité suit surtout les conditions économiques.</li>
+</ol>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le meilleur texte pour répondre aux objections qu'on entend tous les jours.</li>
+<li>Changer les conditions matérielles fait évoluer les volontés.</li>
+<li>Le juge finit ébranlé mais pas convaincu : Malatesta ne triche pas.</li>
+</ul>
+
+=== anarchie-et-organisation | Révolution & stratégie | Anarchie et organisation | Errico Malatesta · 1927 | S'organiser n'est pas trahir l'anarchie : c'est une nécessité. Encore faut-il que l'organisation soit elle-même libertaire.
+<h2 id="contexte">Contexte</h2>
+<p>Publié en 1927 dans <em>Il Risveglio</em> (Genève), en plein débat entre anarchistes sur la question de l'organisation, débat souvent brouillé par des querelles de mots et de personnes.</p>
+
+<h2 id="these">La thèse</h2>
+<p>L'organisation n'est pas contraire à l'anarchisme : c'est une condition de toute vie sociale. Le désaccord porte sur les formes concrètes, pas sur le principe.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Qui refuse de s'organiser librement subit l'organisation imposée par d'autres, en général ceux qui vivent du travail d'autrui.</li>
+<li>Les anarchistes doivent appliquer à leur propre mouvement le principe qu'ils défendent pour la société : <strong>l'organisation libre, sans pouvoir</strong>.</li>
+<li>Ceux qui critiquent l'organisation s'organisent dès qu'ils veulent agir.</li>
+<li>Le mouvement ouvrier et les syndicats sont la principale force de transformation : il faut y être.</li>
+<li>Mais les syndicats, centrés sur l'immédiat, tendent à s'adapter et à produire de nouveaux privilégiés. D'où le besoin d'<strong>organisations spécifiquement anarchistes</strong>.</li>
+<li>Leurs règles : autonomie des individus et des groupes, accord librement consenti, <strong>respect de la parole donnée</strong>.</li>
+<li>Les congrès ne font pas la loi : leurs décisions n'engagent que ceux qui les acceptent. Les comités n'ont aucun pouvoir de direction.</li>
+<li>Une organisation dure tant que ses membres ont plus de raisons de rester ensemble que de se séparer.</li>
+</ol>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>S'organiser sans chef, mais tenir ses engagements.</li>
+<li>Être dans les syndicats sans s'y dissoudre.</li>
+<li>Une organisation qui n'a plus de raison d'être doit pouvoir disparaître.</li>
+</ul>
+
+=== comment-nous-ferons-la-revolution | Révolution & stratégie | Comment nous ferons la Révolution | Émile Pataud et Émile Pouget · 1909 | Un roman d'anticipation syndicaliste : la grève générale, racontée au passé, comme si elle avait déjà eu lieu.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1909. La CGT syndicaliste révolutionnaire est au sommet de son influence, les grèves sont nombreuses et durement réprimées, et le parlementarisme est discrédité. Pataud, électricien, et Pouget, journaliste, sont deux militants de la CGT.</p>
+
+<h2 id="forme">La forme</h2>
+<p>Une chronique d'anticipation : le livre fait comme si la révolution était déjà accomplie et raconte comment elle s'est passée. Un mélange de reportage, de fresque et de leçon politique.</p>
+
+<h2 id="deroule">Le déroulé imaginé</h2>
+<ol>
+<li><strong>L'étincelle</strong> : une grève du bâtiment à Paris, une manifestation, des ouvriers tués par la police et l'armée.</li>
+<li><strong>La grève de solidarité</strong> s'étend à toutes les professions.</li>
+<li><strong>L'immobilisation</strong> : usines électriques et gazières, chemins de fer, postes s'arrêtent. Paris est plongé dans le noir.</li>
+<li><strong>L'État réplique</strong> avec des soldats, trop peu nombreux et de moins en moins motivés. La rafle contre les militants échoue.</li>
+<li><strong>Les funérailles</strong> des victimes rassemblent des foules immenses ; la grève devient offensive.</li>
+<li><strong>Puis</strong> (chapitres suivants) : prise des banques, grève en province, terre rendue aux paysans, fin du commerce, transports et services gérés par les syndicats, armement du peuple, éducation, abondance, art, émancipation des femmes.</li>
+</ol>
+
+<h2 id="idees">Les idées</h2>
+<ul>
+<li><strong>La grève générale</strong> est l'arme décisive : toute la société repose sur le travail ouvrier.</li>
+<li><strong>Le syndicat</strong> et la Bourse du travail deviennent la structure de la société nouvelle.</li>
+<li>Les partis, même socialistes, défendent l'ordre une fois au pouvoir.</li>
+<li>L'armée peut refuser d'obéir.</li>
+<li>Une révolution naît de façon désordonnée ; les militant·es doivent l'accompagner, pas la devancer.</li>
+</ul>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le grand récit utopique du syndicalisme révolutionnaire français.</li>
+<li>À lire avec <a href="l-action-directe-pouget.html">L'Action directe</a> de Pouget.</li>
+</ul>

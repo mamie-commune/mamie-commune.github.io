@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lecteur &#183; Mamie Commune</title>
+<meta name="description" content="Lire les livres de la biblioth&#232;que Mamie Commune en PDF, directement dans le navigateur.">
+<link rel="icon" href="assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/fonts.css">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="index.html">Accueil</a><a href="experiences/index.html">Révolutions</a><a href="antifascisme/index.html">Antifascisme</a><a href="bibliotheque/index.html" aria-current="page">Bibliothèque</a><a href="carte.html">Carte</a><a href="videos.html">Vidéos</a><a href="guides/index.html">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<div class="reader">
+  <div class="reader__bar">
+    <div class="reader__info">
+      <a class="reader__back" id="rBack" href="bibliotheque/index.html#livres">← Bibliothèque</a>
+      <p class="reader__title" id="rTitle">Chargement du livre…</p>
+    </div>
+    <div class="reader__tools" role="toolbar" aria-label="Commandes du lecteur">
+      <button type="button" id="rPrev" aria-label="Page précédente">‹</button>
+      <label class="reader__page" for="rPage"><input id="rPage" type="number" min="1" value="1" inputmode="numeric"> <span id="rCount">/ –</span></label>
+      <button type="button" id="rNext" aria-label="Page suivante">›</button>
+      <span class="reader__sep"></span>
+      <button type="button" id="rOut" aria-label="Réduire">−</button>
+      <span class="reader__zoom" id="rZoom">100 %</span>
+      <button type="button" id="rIn" aria-label="Agrandir">+</button>
+      <button type="button" id="rFit">Largeur</button>
+      <span class="reader__sep"></span>
+      <a class="btn btn--main" id="rDl" href="#" download>PDF</a>
+    </div>
+  </div>
+  <div class="reader__pages" id="rPages" tabindex="0" aria-label="Pages du livre">
+    <p class="reader__msg" id="rMsg">Chargement du livre…</p>
+  </div>
+</div>
+
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="experiences/index.html">Révolutions</a>
+      <a href="antifascisme/index.html">Antifascisme</a>
+      <a href="bibliotheque/index.html">Bibliothèque</a>
+      <a href="carte.html">Carte</a>
+      <a href="videos.html">Vidéos</a>
+      <a href="guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="bibliotheque/au-cafe.html">Au café</a>
+      <a href="guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="assets/site.js"></script>
+<script src="data/livres.js"></script><script src="assets/vendor/pdf.min.js"></script><script src="assets/lecteur.js"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Biblioth&#232;que &#183; Mamie Commune</title>
+<meta name="description" content="Livres anarchistes complets en PDF et fiches de lecture : Kropotkine, Bakounine, Proudhon, Louise Michel, Reclus, Malatesta, Pouget, Grave…">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/fonts.css">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../index.html">Accueil</a><a href="../experiences/index.html">Révolutions</a><a href="../antifascisme/index.html">Antifascisme</a><a href="../bibliotheque/index.html" aria-current="page">Bibliothèque</a><a href="../carte.html">Carte</a><a href="../videos.html">Vidéos</a><a href="../guides/index.html">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><span>Bibliothèque</span></p>
+  <h1>Bibliothèque anar</h1>
+  <p class="lead">Les grands textes de l'anarchisme : <span id="nLivres">36</span> livres complets à lire en ligne ou en PDF, et <span id="nBiblio">20</span> fiches de lecture pour aller à l'essentiel.</p>
+</div></header>
+<section class="sec" style="border-top:0" id="livres">
+  <div class="wrap">
+    <header class="sec__head">
+      <p class="eyebrow">// textes intégraux · domaine public</p>
+      <h2>Livres complets</h2>
+      <p class="sec__intro">Chaque livre se lit en version web ou dans le lecteur PDF, et se télécharge pour l'imprimer ou le lire hors ligne.</p>
+    </header>
+    <div class="chips" role="group" aria-label="Filtrer les livres par thème" data-filters="LIVRES"></div>
+    <div class="cards" data-list="LIVRES" data-base="../livres/"></div>
+  </div>
+</section>
+<section class="sec sec--alt" id="fiches">
+  <div class="wrap">
+    <header class="sec__head">
+      <p class="eyebrow">// résumés</p>
+      <h2>Fiches de lecture</h2>
+    </header>
+    <div class="chips" role="group" aria-label="Filtrer par thème" data-filters="BIBLIO"></div>
+    <div class="cards" data-list="BIBLIO" data-base=""></div>
+    <div class="callout">
+      <p><strong>Par où commencer ?</strong> Trois textes courts et accessibles : Kropotkine pour la révolte, Malatesta pour les objections, La Boétie pour l'obéissance.</p>
+      <div class="callout__links"><a href="aux-jeunes-gens.html">Aux jeunes gens</a><a href="au-cafe.html">Au café</a><a href="servitude-volontaire.html">Servitude volontaire</a></div>
+    </div>
+  </div>
+</section>
+
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="../experiences/index.html">Révolutions</a>
+      <a href="../antifascisme/index.html">Antifascisme</a>
+      <a href="../bibliotheque/index.html">Bibliothèque</a>
+      <a href="../carte.html">Carte</a>
+      <a href="../videos.html">Vidéos</a>
+      <a href="../guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="../experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="../experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="../bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="../bibliotheque/au-cafe.html">Au café</a>
+      <a href="../guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="../partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js"></script>
+<script src="../data/bibliotheque.js"></script><script src="../data/livres.js"></script><script src="../assets/accueil.js"></script>
+</body>
+</html>

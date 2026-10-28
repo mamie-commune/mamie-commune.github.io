@@ -1,0 +1,144 @@
+=== android | Mobile | Libérer un appareil Android | F-Droid, Aurora Store, applications libres par usage, réglages, et systèmes sans Google comme /e/OS.
+<h2 id="avant">Avant de commencer</h2>
+<ul>
+<li>Le plus simple : un téléphone livré <strong>sans Google</strong>, avec /e/OS (vendu par Murena).</li>
+<li>Sur certains modèles, on peut remplacer Android : Fairphone 2, 3, 4 et 5 s'y prêtent bien. C'est délicat sur la plupart des autres.</li>
+<li>Tant qu'Android est là, Google garde la main sur le téléphone.</li>
+<li>Ta version : Paramètres → À propos du téléphone.</li>
+<li>Sauvegarde contacts, agenda et photos avant de quitter ton compte Google.</li>
+<li>Pour installer hors Play Store, autorise les « sources inconnues » pour l'application concernée.</li>
+</ul>
+
+<h2 id="facile">Niveau facile (≈ 45 min)</h2>
+<ul>
+<li><strong>Firefox</strong> + uBlock Origin, DuckDuckGo comme moteur, retire les raccourcis GAFAM.</li>
+<li><strong>Signal</strong> pour les conversations.</li>
+<li><strong><a href="blokada.html">Blokada</a></strong> pour bloquer pub et traqueurs dans les autres applis.</li>
+<li>Désinstalle ou désactive <strong>Gemini</strong>.</li>
+</ul>
+
+<h2 id="intermediaire">Niveau intermédiaire (≈ 3 h)</h2>
+<ol>
+<li><strong>F-Droid</strong> : le magasin d'applications libres, sans collecte. Installe-le, mets à jour ses dépôts.</li>
+<li><strong>Aurora Store</strong> : accès anonyme au Play Store, sans compte Google. Indique pubs, traqueurs et dépendance à Google.</li>
+<li><strong>Firefox</strong> (via Aurora) ou sa version libre <strong>Fennec</strong> (via F-Droid).</li>
+<li><strong>Thunderbird mobile</strong> (ex-K-9 Mail) pour les mails.</li>
+<li><strong>Signal</strong> pour la messagerie.</li>
+<li><strong>Nextcloud</strong> pour synchroniser tes fichiers chez un hébergeur éthique.</li>
+<li><strong>Ménage</strong> : désinstalle ou désactive les applis préinstallées de Google, du fabricant et de l'opérateur.</li>
+<li><strong>Réglages</strong> : coupe la correction automatique en ligne, les services Google liés au wifi et à la localisation, et règle la synchronisation et la batterie.</li>
+</ol>
+
+<h2 id="apps">Applications libres par usage</h2>
+<div class="tbl"><table>
+<thead><tr><th>Usage</th><th>Application</th></tr></thead>
+<tbody>
+<tr><td>Navigateur</td><td>Fennec, Firefox</td></tr>
+<tr><td>Vidéos YouTube</td><td>NewPipe, LibreTube</td></tr>
+<tr><td>Podcasts</td><td>AntennaPod</td></tr>
+<tr><td>Messagerie / visio</td><td>Signal / Jitsi Meet</td></tr>
+<tr><td>PDF, documents</td><td>MuPDF, LibreOffice Viewer</td></tr>
+<tr><td>Vidéo, musique</td><td>VLC</td></tr>
+<tr><td>Cartes, GPS</td><td>OsmAnd, CoMaps</td></tr>
+<tr><td>Appareil photo</td><td>Open Camera</td></tr>
+<tr><td>Mots de passe</td><td>KeePassDX</td></tr>
+<tr><td>Antivirus</td><td>Hypatia</td></tr>
+<tr><td>Appels indésirables</td><td>Saracroche</td></tr>
+<tr><td>Clavier</td><td>AnySoftKeyboard (+ pack français)</td></tr>
+<tr><td>Contacts, agenda</td><td>DAVx5</td></tr>
+<tr><td>Fichiers vers l'ordi</td><td>LocalSend, Warpinator — voir <a href="../partage.html">Partage</a></td></tr>
+</tbody></table></div>
+
+<h2 id="systemes">Systèmes sans Google</h2>
+<p>Si ton modèle est compatible : <strong>/e/OS</strong> (le plus simple) ou <strong>GrapheneOS</strong> (le plus sécurisé, pour les Pixel). Il existe aussi LineageOS, Replicant, Sailfish OS.</p>
+
+<h2 id="limites">Limites</h2>
+<p>Même bien réglé, Android reste très lié à Google. Une libération complète demande des compétences avancées (accès root). Fais ce qui est à ta portée.</p>
+
+=== ios | Mobile | Libérer (un peu) un iPhone ou un iPad | Ce qu'on peut faire selon la version d'iOS : navigateur, bloqueur, moteur de recherche et applications libres.
+<h2 id="version">Ta version d'iOS</h2>
+<p>Réglages → Général → Informations → Version. Ce qui est possible en dépend.</p>
+
+<h2 id="selon-version">Selon la version</h2>
+<div class="tbl"><table>
+<thead><tr><th>iOS</th><th>Possible</th></tr></thead>
+<tbody>
+<tr><td>8.1 et avant</td><td>Seulement changer de moteur (DuckDuckGo).</td></tr>
+<tr><td>8.2 et +</td><td>Firefox installable, pas de blocage de pub.</td></tr>
+<tr><td>9 et + (64 bits)</td><td>Firefox Focus (bloque pub et traqueurs) ; bloqueur de contenu dans Safari.</td></tr>
+<tr><td>13 et +</td><td>Blokada pour tout l'appareil (désormais sur abonnement).</td></tr>
+</tbody></table></div>
+
+<h2 id="reglages">Réglages conseillés</h2>
+<h3>Firefox</h3>
+<ul>
+<li>Protège tes mots de passe par un mot de passe principal.</li>
+<li>Supprime les cookies à la fermeture, bloque les cookies tiers.</li>
+<li>Firefox Focus ne garde pas de marque-pages : c'est fait pour.</li>
+</ul>
+<h3>Safari</h3>
+<ul>
+<li>Moteur : Réglages → Safari → Moteur de recherche → DuckDuckGo.</li>
+<li>Bloqueur : Réglages → Safari → Extensions / Bloqueurs de contenu.</li>
+</ul>
+
+<h2 id="supprimer">À supprimer</h2>
+<ul>
+<li>Les applications Google et Gmail. Lis ton Gmail dans l'application Mail si besoin.</li>
+<li>Avant d'installer une appli, vérifie si un site web fait la même chose : moins de traqueurs, moins de batterie.</li>
+</ul>
+
+<h2 id="alternatives">Alternatives libres</h2>
+<div class="tbl"><table>
+<thead><tr><th>Au lieu de</th><th>Utilise</th></tr></thead>
+<tbody>
+<tr><td>Dropbox, iCloud</td><td>Nextcloud (chez un hébergeur comme Zaclys)</td></tr>
+<tr><td>Waze, Google Maps</td><td>OsmAnd</td></tr>
+<tr><td>WhatsApp</td><td>Signal</td></tr>
+<tr><td>Skype</td><td>Jitsi Meet, Signal</td></tr>
+<tr><td>YouTube</td><td>Yattee</td></tr>
+<tr><td>Envoyer des fichiers</td><td>LocalSend</td></tr>
+</tbody></table></div>
+
+<h2 id="limites">Limites</h2>
+<p>Les appareils Apple sont verrouillés : pas de magasin d'applications libres. Pour ton prochain téléphone, regarde plutôt un modèle sous /e/OS.</p>
+
+=== blokada | Mobile | Blokada : bloquer pub et traqueurs sur Android | Installer et régler Blokada 5 (gratuit), quelles applis exclure, et les alternatives.
+<h2 id="quoi">Ce que ça fait</h2>
+<p>Blokada filtre le trafic des autres applications et bloque une grande partie des pubs et traqueurs. Il passe par un « VPN local » : <strong>aucune donnée ne quitte ton téléphone</strong>. On parle ici de la version gratuite pour Android ; la version 6 sur abonnement existe sur tous les systèmes.</p>
+
+<h2 id="prerequis">Prérequis</h2>
+<ul>
+<li>Android 5 ou plus. Android 7 et plus : <strong>Blokada 5</strong>. Avant : Blokada 4.</li>
+<li>Télécharge-le depuis le site officiel de Blokada (il n'est plus sur F-Droid).</li>
+<li>Autorise l'installation depuis cette source si on te le demande.</li>
+<li>Désinstalle d'abord une ancienne version (Blokada 4 ou Slim).</li>
+<li>Si un « DNS privé » est activé et bloque l'installation, remets-le en automatique.</li>
+</ul>
+
+<h2 id="reglages">Régler Blokada 5</h2>
+<ol>
+<li>Active le blocage avec le gros bouton, accepte la connexion VPN.</li>
+<li>Coupe ses notifications (elles s'affichent à chaque accès internet).</li>
+<li>Dans les paramètres du téléphone : exclus Blokada de l'optimisation de batterie.</li>
+<li>Paramètres → Réseau → VPN → Blokada : active le <strong>VPN permanent</strong> pour qu'il démarre tout seul.</li>
+</ol>
+
+<h2 id="exclure">Applications à laisser passer</h2>
+<p>Certaines applis ne marchent plus une fois filtrées, par exemple AnyDesk, RustDesk, <strong>Warpinator</strong> et Aurora Store. Dans Paramètres avancés → Apps, mets-les en « contournement ». Pour trouver le coupable : coupe Blokada, réessaie l'appli.</p>
+
+<h2 id="quotidien">Au quotidien</h2>
+<ul>
+<li>Laisse-le actif en permanence : il consomme peu.</li>
+<li>L'historique montre ce qui a été bloqué ou autorisé.</li>
+<li>Le message « compte expiré » n'a aucune conséquence en version gratuite.</li>
+</ul>
+
+<h2 id="limites">Limites</h2>
+<ul>
+<li>Les wifi publics avec page de connexion peuvent ne pas marcher.</li>
+<li>Difficile d'utiliser un autre VPN en même temps.</li>
+</ul>
+
+<h2 id="alternatives">Alternatives</h2>
+<p>RethinkDNS, TrackerControl, personalDNSfilter et AdAway font des choses proches, avec d'autres compromis.</p>

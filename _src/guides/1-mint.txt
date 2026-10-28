@@ -1,0 +1,441 @@
+=== installer-linux-mint | Linux Mint | Installer Linux Mint pas à pas | De la clé USB au premier démarrage : télécharger, préparer la clé, tester en live, installer.
+<h2 id="avant">Avant de commencer</h2>
+<ul>
+<li><strong>Sauvegarde</strong> tes documents sur un disque externe. L'installation peut effacer le disque interne. Voir le guide <a href="sauvegardes.html">Faire des sauvegardes</a>.</li>
+<li>Prévois une <strong>clé USB d'au moins 8 Go</strong> (son contenu sera effacé) et une demi-journée.</li>
+<li>Branche l'ordinateur sur secteur et, si possible, sur un câble réseau.</li>
+<li>Choisis ton édition : Cinnamon à partir de 4 Go de RAM, Xfce pour les machines plus modestes. Voir <a href="distribution-gnu-linux.html">Choisir une distribution</a>.</li>
+</ul>
+
+<h2 id="iso">1. Télécharger l'image ISO</h2>
+<p>Sur le site officiel de Linux Mint, rubrique « Download », prends la dernière version (22.x) dans l'édition choisie. Le fichier fait environ 3 Go et se termine par <code>.iso</code>. Télécharge-le uniquement depuis le site officiel ou l'un de ses miroirs.</p>
+<p>Les plus prudent·es vérifient la somme de contrôle SHA256 indiquée sur la page de téléchargement. Sous Linux : <code>sha256sum linuxmint-22.iso</code>.</p>
+
+<h2 id="cle">2. Préparer la clé USB</h2>
+<p>Copier l'ISO sur la clé ne suffit pas : il faut l'« écrire » avec un outil dédié.</p>
+<ul>
+<li><strong>Depuis Windows</strong> : Rufus ou balenaEtcher. Choisis la clé, l'image ISO, puis « Démarrer ». Garde les options par défaut.</li>
+<li><strong>Depuis Linux</strong> : l'outil « Créateur de clé USB » (mintstick) ou balenaEtcher.</li>
+<li><strong>Ventoy</strong> permet de mettre plusieurs ISO sur une même clé et de choisir au démarrage.</li>
+</ul>
+
+<h2 id="live">3. Démarrer sur la clé et tester</h2>
+<ol>
+<li>Clé branchée, redémarre l'ordinateur.</li>
+<li>Pendant l'allumage, appuie sur la touche du menu de démarrage. Selon la marque : <kbd>F12</kbd> (Dell, Lenovo), <kbd>F9</kbd> (HP), <kbd>F11</kbd> ou <kbd>F8</kbd> (Asus, MSI), <kbd>Échap</kbd> ou <kbd>F2</kbd> sur d'autres.</li>
+<li>Choisis la clé USB (parfois listée comme « UEFI: nom de la clé »).</li>
+<li>Dans le menu de Mint, valide « Start Linux Mint ». Le bureau « live » s'ouvre : rien n'est modifié sur ton disque.</li>
+</ol>
+<p>Profite de ce mode pour vérifier le wifi, le son, la webcam, l'écran et l'imprimante. Si tout marche ici, tout marchera une fois installé.</p>
+<div class="note"><p>Si la clé n'apparaît pas, désactive « Secure Boot » ou « Fast Boot » dans le BIOS/UEFI (touche <kbd>F2</kbd> ou <kbd>Suppr</kbd> au démarrage). Sous Windows, désactive aussi le « démarrage rapide » dans les options d'alimentation.</p></div>
+
+<h2 id="installer">4. Installer</h2>
+<ol>
+<li>Double-clique sur « Install Linux Mint » sur le bureau live.</li>
+<li>Langue : Français. Clavier : Français (variante par défaut).</li>
+<li>Coche l'installation des <strong>codecs multimédias</strong>.</li>
+<li>Type d'installation :
+  <ul>
+  <li><strong>Installer à côté de Windows</strong> : double démarrage, tu choisis le système à chaque allumage.</li>
+  <li><strong>Effacer le disque et installer Linux Mint</strong> : remplace tout. Uniquement si ta sauvegarde est faite.</li>
+  </ul></li>
+<li>Fuseau horaire, puis nom, nom de l'ordinateur et mot de passe. Note ce mot de passe : il sert aussi pour les mises à jour.</li>
+<li>Attends la fin (15 à 30 minutes), redémarre, retire la clé quand on te le demande.</li>
+</ol>
+
+<h2 id="apres">5. Juste après</h2>
+<ul>
+<li>L'écran d'accueil s'ouvre : fais les <strong>mises à jour</strong>, choisis des miroirs rapides, installe les pilotes si un matériel ne marche pas.</li>
+<li>Crée un premier instantané <strong>Timeshift</strong> une fois tout réglé.</li>
+<li>Continue avec <a href="personnaliser-mint.html">Personnaliser Linux Mint</a>.</li>
+</ul>
+
+=== distribution-gnu-linux | Linux Mint | Choisir une distribution GNU/Linux | Les distributions grand public, les environnements de bureau, la mémoire qu'ils consomment et le matériel nécessaire.
+<h2 id="principe">Le principe</h2>
+<p>GNU/Linux est un système libre qu'on installe gratuitement sur un PC ou un Mac, à côté du système d'origine ou à sa place. Il n'y a pas un seul Linux mais des <strong>distributions</strong> : des assemblages du noyau Linux, des outils GNU, d'un environnement de bureau, d'une logithèque et d'applications courantes. Elles sont faites par des entreprises, des associations ou des bénévoles.</p>
+
+<h2 id="recommandees">Les distributions recommandées</h2>
+<ul>
+<li><strong>Linux Mint</strong> : dérivée d'Ubuntu, avec de petits outils maison qui accompagnent bien les débutant·es. Toutes ses éditions ont 5 ans de mises à jour. C'est notre premier choix.</li>
+<li><strong>Ubuntu</strong> : éditée par Canonical. Seule l'édition principale a 5 ans de support, les variantes 3 ans. Elle pousse de plus en plus son magasin Snap, qui n'est pas libre.</li>
+</ul>
+<p><strong>En pratique</strong> : à partir de 3 Go de RAM, prends Linux Mint Cinnamon. En dessous, regarde les variantes légères.</p>
+
+<h2 id="bureaux">Les environnements de bureau</h2>
+<ul>
+<li><strong>Cinnamon</strong> : proche de Windows 10/11. Recommandé.</li>
+<li><strong>Xfce</strong> : façon Windows 7, plus léger et très stable, un peu moins réglable.</li>
+<li><strong>MATE</strong> : plusieurs dispositions possibles (façon Ubuntu, Windows ou macOS).</li>
+<li><strong>LXQt</strong> et <strong>Trinity</strong> : les plus légers.</li>
+<li><strong>Gnome</strong> : original, pratique une fois pris en main.</li>
+<li><strong>Budgie</strong> : entre Gnome et Cinnamon.</li>
+<li><strong>KDE Plasma</strong> : proche de Windows, très configurable, donc parfois déroutant au début.</li>
+</ul>
+
+<h2 id="memoire">Mémoire utilisée au démarrage</h2>
+<div class="tbl"><table>
+<thead><tr><th>Bureau</th><th>RAM après démarrage</th><th>Distributions</th></tr></thead>
+<tbody>
+<tr><td>Trinity</td><td>≈ 0,7 Go</td><td>Q4OS</td></tr>
+<tr><td>LXQt</td><td>≈ 0,8 Go</td><td>Lubuntu</td></tr>
+<tr><td>Xfce / MATE</td><td>≈ 1,1 Go</td><td>Linux Mint Xfce, Xubuntu, Ubuntu MATE</td></tr>
+<tr><td>Cinnamon / Gnome / Budgie</td><td>≈ 1,2 Go</td><td>Linux Mint Cinnamon, Ubuntu, Ubuntu Budgie</td></tr>
+<tr><td>KDE Plasma</td><td>≈ 1,3 Go</td><td>Kubuntu, TuxedoOS</td></tr>
+<tr><td>Windows 11 allégé</td><td>≈ 1,9 Go</td><td>pour comparaison</td></tr>
+</tbody></table></div>
+<p>Mesure faite avec la commande <code>free --mega</code>.</p>
+
+<h2 id="materiel">Le matériel</h2>
+<ul>
+<li>Compte au moins <strong>4 Go de RAM</strong>. Pour un achat neuf, 8 Go minimum, 16 Go pour tenir une quinzaine d'années.</li>
+<li>Les PC vendus depuis 2007 environ et les Mac Intel (2006-2020) sont en 64 bits. Le 32 bits disparaît : seules quelques distributions le gardent (LMDE, AntiX, MX Linux, Emmabuntüs Debian Edition).</li>
+<li>Les Mac Apple Silicon (M1, M2, M3…) utilisent l'architecture ARM : très peu de distributions marchent dessus (Asahi Linux, Debian, Ubuntu Server).</li>
+</ul>
+
+<h2 id="versions">Quelle version ?</h2>
+<ul>
+<li>Pour Ubuntu, installe uniquement les versions <strong>LTS</strong> (tous les deux ans, 5 ans de support), et attends 2 à 3 mois après leur sortie.</li>
+<li>Linux Mint sort quelques mois après chaque LTS d'Ubuntu (juillet ou août), avec ce recul déjà pris.</li>
+</ul>
+
+<h2 id="tester">Tester avant d'installer</h2>
+<ul>
+<li>Démarre sur une clé USB en mode « live » : ton ordinateur n'est pas modifié.</li>
+<li>Ventoy permet de mettre plusieurs systèmes sur une même clé pour comparer.</li>
+<li>Des sites permettent aussi de tester une distribution dans le navigateur ou de les comparer selon tes critères.</li>
+</ul>
+
+<h2 id="vigilance">Points de vigilance</h2>
+<ul>
+<li>Debian et ses dérivés (LMDE, Q4OS, MX Linux, AntiX, Emmabuntüs) sont moins simples pour installer certains pilotes.</li>
+<li>Zorin OS a remplacé Firefox par Brave : réinstalle Firefox si tu la choisis.</li>
+<li>Si aucune distribution de la famille Debian/Ubuntu ne s'installe, essaie Manjaro Cinnamon (famille Arch).</li>
+</ul>
+
+=== manuel-mint | Linux Mint | Manuel Linux Mint Xfce et Cinnamon | Les éditions de Mint, le calendrier des versions 18 à 22, Warpinator et où trouver de l'aide.
+<h2 id="mint">Linux Mint en bref</h2>
+<p>Linux Mint est un système pour ordinateurs personnels, dérivé d'Ubuntu. Sa prise en main est très facile à facile.</p>
+
+<h2 id="editions">Les éditions</h2>
+<h3>Xfce</h3>
+<ul>
+<li>Pour les machines peu puissantes : 3 Go de RAM conseillés, peu de besoins graphiques.</li>
+<li>Utilisé par d'autres distributions, simple à configurer.</li>
+</ul>
+<h3>Cinnamon</h3>
+<ul>
+<li>Un peu plus gourmand : 4 Go de RAM conseillés.</li>
+<li>Développé par l'équipe de Mint. Plus de réglages, plus soigné visuellement.</li>
+</ul>
+<h3>MATE</h3>
+<p>Entre les deux, en ressources comme en fonctionnalités.</p>
+
+<h2 id="versions">Les versions</h2>
+<div class="tbl"><table>
+<thead><tr><th>Mint</th><th>Base Ubuntu</th><th>Sortie</th><th>Fin du support</th></tr></thead>
+<tbody>
+<tr><td>18</td><td>16.04</td><td>été 2016</td><td>printemps 2021</td></tr>
+<tr><td>19</td><td>18.04</td><td>été 2018</td><td>printemps 2023</td></tr>
+<tr><td>20</td><td>20.04</td><td>été 2020</td><td>printemps 2025</td></tr>
+<tr><td>21</td><td>22.04</td><td>été 2022</td><td>printemps 2027</td></tr>
+<tr><td>22</td><td>24.04</td><td>été 2024</td><td>printemps 2029</td></tr>
+</tbody></table></div>
+<p>Les cinq versions se ressemblent beaucoup à l'usage. Si tu es encore en 20 ou avant, passe à une version supportée : voir <a href="mises-a-jour.html">Mises à jour</a>.</p>
+
+<h2 id="nouveautes">Nouveautés utiles</h2>
+<ul>
+<li><strong>Warpinator</strong> (depuis Mint 20) : envoie des fichiers à un autre ordinateur du même réseau. Lance-le sur les deux machines, elles se trouvent toutes seules, choisis les fichiers. Une application Android non officielle existe sur F-Droid pour échanger avec un téléphone en wifi. Voir aussi <a href="../partage.html">Partage de données</a>.</li>
+<li><strong>Relevés du système</strong> (depuis Mint 21) : une icône signale ce qui manque (codecs, langues, pilotes).</li>
+</ul>
+
+<h2 id="memo">Aide-mémoire</h2>
+<ul>
+<li><strong>Installer un logiciel</strong> : Menu → Logithèque → chercher → Installer.</li>
+<li><strong>Mettre à jour</strong> : Menu → Gestionnaire de mises à jour → Installer les mises à jour.</li>
+<li><strong>Sauvegarder le système</strong> : Menu → Timeshift.</li>
+<li><strong>Réglages</strong> : Menu → Paramètres système (Cinnamon) ou Gestionnaire de paramètres (Xfce).</li>
+<li><strong>Pilotes</strong> : Menu → Gestionnaire de pilotes.</li>
+<li><strong>Envoyer des fichiers en local</strong> : Menu → Warpinator.</li>
+</ul>
+
+<h2 id="aide">Où trouver de l'aide</h2>
+<ul>
+<li>La documentation officielle de Mint (plus technique, en anglais pour une partie).</li>
+<li>Le forum officiel, qui a une section en français, et le forum francophone de Linux Mint.</li>
+<li>Les groupes d'entraide près de chez toi, sur notre <a href="../carte.html">carte</a>.</li>
+</ul>
+
+=== personnaliser-mint | Linux Mint | Personnaliser Linux Mint | Premier démarrage, écran d'accueil, réglages Xfce et Cinnamon, logiciels à ajouter et sauvegarde finale (Mint 20 à 22).
+<h2 id="premier">1. Premier démarrage</h2>
+<ul>
+<li><strong>Compte</strong> : si quelqu'un d'autre a créé ton compte, change le mot de passe (Utilisateurs et groupes sous Xfce, Détails du compte sous Cinnamon).</li>
+<li><strong>Internet</strong> : câble réseau de préférence, sinon wifi via l'icône réseau du tableau de bord.</li>
+</ul>
+
+<h2 id="accueil">2. L'écran d'accueil</h2>
+<ul>
+<li><strong>Premiers pas</strong> : couleur du thème, clair ou sombre.</li>
+<li><strong>Disposition du panneau</strong> (Mint 20-21 Cinnamon) : « traditionnelle » (titres des fenêtres) ou « moderne » (icônes seules). Mint 22 n'a que la moderne.</li>
+<li><strong>Instantanés Timeshift</strong> : à faire après la personnalisation, sur un disque externe formaté en ext4.</li>
+<li><strong>Gestionnaire de pilotes</strong> : n'installe un pilote non libre que si un matériel ne marche pas (wifi, bluetooth, affichage, pavé tactile).</li>
+<li><strong>Codecs</strong> : le paquet <code>mint-meta-codecs</code> permet de lire les formats non libres.</li>
+<li><strong>Mises à jour</strong> :
+  <ul>
+  <li>fais la première série tout de suite ;</li>
+  <li>Édition → Sources de logiciels : choisis des miroirs rapides pour le dépôt principal et la base ;</li>
+  <li>Édition → Préférences → Automatisation : coche « Retirer les noyaux obsolètes » ;</li>
+  <li>pour une personne peu à l'aise, active les mises à jour automatiques.</li>
+  </ul></li>
+<li><strong>Langue</strong> : vérifie que tout est en français (les Relevés du système le signalent depuis Mint 21).</li>
+<li><strong>Pare-feu</strong> : facultatif, Linux est déjà bien protégé.</li>
+</ul>
+
+<h2 id="xfce">3. Réglages Xfce</h2>
+<ul>
+<li><strong>Apparence</strong> : style, icônes (Mint-X si le style plat Mint-Y ne te plaît pas), polices, DPI (note la valeur d'origine avant de changer).</li>
+<li><strong>Bureau</strong> : fond d'écran, icônes affichées, périphériques amovibles.</li>
+<li><strong>Gestionnaire de fenêtres</strong> : <kbd>Ctrl</kbd>+<kbd>←</kbd> / <kbd>Ctrl</kbd>+<kbd>→</kbd> pour coller une fenêtre sur une moitié d'écran.</li>
+<li><strong>Thunar</strong> (fichiers) : vue, miniatures, unités décimales, format de date.</li>
+<li><strong>Tableau de bord</strong> : position, et greffons (charge système, météo, minuteur de pause, indicateur Verr Maj).</li>
+<li><strong>Clavier</strong> : deux dispositions françaises existent. Avec « Fr (variante) », une ligne dans <code>~/.profile</code> rend la virgule au pavé numérique.</li>
+</ul>
+
+<h2 id="cinnamon">4. Réglages Cinnamon</h2>
+<ul>
+<li><strong>Thèmes, polices, fonds d'écran</strong> : comme sous Xfce.</li>
+<li><strong>Actions</strong> (Mint 22) : ajouts au gestionnaire de fichiers, comme créer un raccourci sur le bureau ou compresser un PDF.</li>
+<li><strong>Applets</strong> : météo, moniteur graphique, mode sombre, minuteur… L'applet « Inhibition » empêche la mise en veille pendant une vidéo.</li>
+<li><strong>Panneau</strong> : clic droit → mode édition pour le déplacer ou réorganiser.</li>
+<li><strong>Fenêtres</strong> : <kbd>Super</kbd>+<kbd>←</kbd> / <kbd>Super</kbd>+<kbd>→</kbd> pour les juxtaposer.</li>
+</ul>
+
+<h2 id="logiciels">5. Logiciels à ajouter</h2>
+<div class="tbl"><table>
+<thead><tr><th>Besoin</th><th>Logiciel</th></tr></thead>
+<tbody>
+<tr><td>Presse-papier multiple</td><td>Diodon</td></tr>
+<tr><td>Vidéo et musique</td><td>VLC (+ sox, lame, normalize-audio)</td></tr>
+<tr><td>Webcam / gravure</td><td>Cheese / K3b</td></tr>
+<tr><td>Réveil et minuteur</td><td>alarm-clock-applet ou Horloges</td></tr>
+<tr><td>Lumière du soir</td><td>Redshift (saisir sa position à la main)</td></tr>
+<tr><td>Empêcher la veille</td><td>Caffeine</td></tr>
+<tr><td>Sauvegarde, comparaison</td><td>LuckyBackup, Meld</td></tr>
+<tr><td>PDF, OCR, images</td><td>PDF Arranger, OCRfeeder, Pinta, LazPaint</td></tr>
+<tr><td>Aide à distance</td><td>DWAgent</td></tr>
+<tr><td>Infos système</td><td>Relevés du système, ou <code>sudo inxi -v8</code></td></tr>
+</tbody></table></div>
+
+<h2 id="raccourcis">6. Raccourcis d'applications</h2>
+<ul>
+<li>Clic droit sur une application du menu → ajouter aux favoris ou au panneau.</li>
+<li>Agrandis le menu en tirant son coin bas-droit (Xfce, Cinnamon 22).</li>
+</ul>
+
+<h2 id="apps">7. Régler les applications</h2>
+<ul>
+<li>Firefox : bloqueur de pub et de traqueurs, autre moteur de recherche. Voir <a href="ublock-origin.html">Configurer uBlock Origin</a>.</li>
+<li>Musique et photos : laisse Rhythmbox et Pix (ou Shotwell) indexer tes dossiers.</li>
+</ul>
+
+<h2 id="final">8. Sauvegarde finale</h2>
+<p>Une fois tout réglé, lance <strong>Timeshift</strong>. Il faut une partition ext4 d'au moins 10 Go ou un disque externe en ext4.</p>
+
+=== depannage-mises-a-jour | Linux Mint | Dépannage : les mises à jour échouent | Miroir en panne, dépôt tiers injoignable, avertissements sans gravité : comment s'en sortir.
+<h2 id="pourquoi">D'où viennent les mises à jour</h2>
+<p>Mint récupère ses mises à jour sur deux dépôts : la <strong>base</strong> (héritée d'Ubuntu) et le dépôt <strong>propre à Mint</strong>. Les serveurs par défaut sont en Angleterre et aux États-Unis, et beaucoup de gens choisissent un miroir plus proche. Quand un miroir tombe, les mises à jour échouent.</p>
+
+<h2 id="reflexes">Premiers réflexes</h2>
+<ol>
+<li>Vérifie ta connexion internet.</li>
+<li>Gestionnaire de mises à jour → <strong>Actualiser</strong>.</li>
+<li>Si ça échoue encore, attends quelques jours : la panne est souvent temporaire.</li>
+</ol>
+
+<h2 id="miroir">Changer un miroir en panne</h2>
+<ol>
+<li>Menu → <strong>Sources de logiciels</strong> (mot de passe demandé).</li>
+<li>Onglet « Dépôts officiels », section « Sites miroirs » : deux lignes, le dépôt principal (Mint) et la base (Ubuntu).</li>
+<li>Clique sur celui qui ne répond pas. La liste des miroirs s'affiche, les plus rapides en haut.</li>
+<li>Choisis l'un des premiers, puis <strong>Appliquer</strong>.</li>
+<li>Ou bien : bouton de restauration pour revenir aux serveurs d'origine.</li>
+<li><strong>Valider</strong> pour rafraîchir le cache APT, puis ferme.</li>
+<li>Gestionnaire de mises à jour → Actualiser → installe.</li>
+</ol>
+
+<h2 id="ppa">Dépôts supplémentaires (PPA)</h2>
+<p>Des logiciels installés en dehors de la logithèque viennent parfois de dépôts tiers (PPA ou dépôts indépendants). Ils apparaissent dans deux autres onglets de Sources de logiciels.</p>
+<ol>
+<li>Décoche le dépôt injoignable.</li>
+<li>Valide pour rafraîchir le cache.</li>
+</ol>
+<p>Le logiciel concerné ne sera plus mis à jour : cherche sa nouvelle méthode d'installation dans sa documentation.</p>
+
+<h2 id="avertissements">Avertissements sans gravité</h2>
+<p>Certains messages n'empêchent rien. Par exemple, un avertissement sur une « méthode de gestion des clés obsolète » (vu avec Signal Desktop) est seulement informatif : ferme-le.</p>
+
+<h2 id="terminal">En ligne de commande</h2>
+<p>Pour voir le message d'erreur exact :</p>
+<pre><code>sudo apt update</code></pre>
+<p>Le nom du dépôt fautif apparaît sur les lignes « Err » ou « Échec ».</p>
+
+=== mises-a-jour | Linux Mint | Les mises à jour sous GNU/Linux | Pourquoi et quand mettre à jour, Timeshift, cas particuliers, et comment passer à une nouvelle version.
+<h2 id="pourquoi">Pourquoi mettre à jour</h2>
+<ul>
+<li>Les mises à jour corrigent les failles de sécurité et les bugs.</li>
+<li>Sous GNU/Linux, le système <strong>et</strong> les applications se mettent à jour en même temps.</li>
+<li>Elles sont moins risquées que celles de Windows, et n'ajoutent pas de fonctions qui servent surtout l'éditeur.</li>
+</ul>
+
+<h2 id="frequence">À quelle fréquence</h2>
+<ul>
+<li>La recherche est automatique ; la fréquence se règle dans les préférences du gestionnaire.</li>
+<li>C'est toi qui décides quand installer.</li>
+<li><strong>Au moins une fois par semaine.</strong></li>
+<li>L'onglet « Automatisation » permet de tout faire tout seul.</li>
+</ul>
+
+<h2 id="timeshift">Filet de sécurité : Timeshift</h2>
+<p>Depuis Mint 19, Timeshift crée des points de restauration du système. Compte environ 20 Go, idéalement sur un disque externe en ext4. En cas de souci après une mise à jour, tu reviens au point précédent sans toucher à tes documents.</p>
+
+<h2 id="cas">Cas particuliers</h2>
+<ul>
+<li><strong>Fichier de configuration modifié</strong> : si on te demande de garder l'ancienne version ou d'installer la nouvelle, <strong>garde l'ancienne</strong> (sauf lors d'une mise à niveau de version).</li>
+<li><strong>Double démarrage avec un vieux BIOS</strong> : si c'est Windows (XP, Vista, 7) qui lance Linux, une mise à jour de GRUB peut bloquer le démarrage. Mieux vaut que GRUB soit en premier, dans le MBR.</li>
+<li><strong>Vieux Mint 18</strong> : son ancien système de « niveaux » de mise à jour excluait le noyau. Une mise à jour du noyau règle parfois un wifi ou un pavé tactile capricieux.</li>
+</ul>
+
+<h2 id="problemes">Problèmes possibles</h2>
+<ul>
+<li><strong>Paquets introuvables</strong> : tu as trop attendu, clique sur Actualiser.</li>
+<li><strong>Dépôt indisponible</strong> : réessaie plus tard, ou change de miroir. Voir <a href="depannage-mises-a-jour.html">Dépannage des mises à jour</a>.</li>
+</ul>
+
+<h2 id="mise-a-niveau">Mise à niveau : changer de version</h2>
+<p>La mise à jour (update) corrige ; la mise à niveau (upgrade) passe à une version supérieure. Une version majeure sort tous les deux ans, avec des versions intermédiaires environ tous les six mois. Les LTS ont 5 ans de support ; après, le système marche encore mais devient risqué.</p>
+<div class="tbl"><table>
+<thead><tr><th>Version</th><th>Support jusqu'à</th></tr></thead>
+<tbody><tr><td>Mint 19</td><td>mi-2023</td></tr><tr><td>Mint 20</td><td>mi-2025</td></tr><tr><td>Mint 21</td><td>mi-2027</td></tr><tr><td>Mint 22</td><td>mi-2029</td></tr></tbody></table></div>
+<h3>Deux méthodes</h3>
+<ul>
+<li><strong>Depuis le système</strong> : Mint affiche une alerte quand une nouvelle version existe, avec les instructions officielles.</li>
+<li><strong>Réinstallation complète</strong> : plus propre, et solution de secours si la première échoue.</li>
+</ul>
+<p>Dans les deux cas : <strong>sauvegarde complète d'abord</strong>.</p>
+
+=== raccourcis-clavier | Linux Mint | Raccourcis clavier essentiels | Les raccourcis système et d'application à connaître sous GNU/Linux, comparés à Windows.
+<h2 id="principe">Le principe</h2>
+<ul>
+<li>Sous Windows, les raccourcis sont imposés. Sous GNU/Linux, presque tous se modifient, et on peut en créer.</li>
+<li>La touche <kbd>Super</kbd> est celle avec le logo Windows.</li>
+<li>Le clavier Linux donne accès à plus de caractères (jusqu'à 4 par touche), dont les majuscules accentuées.</li>
+</ul>
+
+<h2 id="systeme">Raccourcis système</h2>
+<div class="tbl"><table>
+<thead><tr><th>Action</th><th>Linux Mint</th><th>Conseillé</th></tr></thead>
+<tbody>
+<tr><td>Menu principal</td><td><kbd>Super</kbd></td><td><kbd>Super</kbd></td></tr>
+<tr><td>Afficher le bureau</td><td>—</td><td><kbd>Super</kbd>+<kbd>D</kbd></td></tr>
+<tr><td>Vue des fenêtres</td><td><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↓</kbd></td><td><kbd>Super</kbd>+<kbd>W</kbd></td></tr>
+<tr><td>Changer d'application</td><td><kbd>Alt</kbd>+<kbd>Tab</kbd></td><td><kbd>Alt</kbd>+<kbd>Tab</kbd></td></tr>
+<tr><td>Fermer la fenêtre</td><td><kbd>Alt</kbd>+<kbd>F4</kbd></td><td><kbd>Alt</kbd>+<kbd>F4</kbd></td></tr>
+<tr><td>Maximiser</td><td>non assigné</td><td><kbd>Super</kbd>+<kbd>↑</kbd></td></tr>
+<tr><td>Restaurer</td><td><kbd>Alt</kbd>+<kbd>F5</kbd></td><td><kbd>Super</kbd>+<kbd>Page↓</kbd></td></tr>
+<tr><td>Réduire</td><td>non assigné</td><td><kbd>Super</kbd>+<kbd>↓</kbd></td></tr>
+<tr><td>Fenêtre à gauche / droite</td><td><kbd>Super</kbd>+<kbd>←</kbd> / <kbd>→</kbd></td><td>idem</td></tr>
+<tr><td>Ouvrir les fichiers</td><td><kbd>Super</kbd>+<kbd>E</kbd></td><td><kbd>Super</kbd>+<kbd>E</kbd></td></tr>
+<tr><td>Verrouiller l'écran</td><td><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd></td><td><kbd>Super</kbd>+<kbd>L</kbd></td></tr>
+<tr><td>Terminal</td><td><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd></td><td><kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd></td></tr>
+</tbody></table></div>
+
+<h2 id="captures">Captures d'écran</h2>
+<ul>
+<li>Écran entier : <kbd>Impr</kbd></li>
+<li>Fenêtre active : <kbd>Alt</kbd>+<kbd>Impr</kbd></li>
+<li>Zone au choix : <kbd>Maj</kbd>+<kbd>Impr</kbd></li>
+</ul>
+
+<h2 id="apps">Dans toutes les applications</h2>
+<div class="tbl"><table>
+<thead><tr><th>Action</th><th>Raccourci</th></tr></thead>
+<tbody>
+<tr><td>Tout sélectionner</td><td><kbd>Ctrl</kbd>+<kbd>A</kbd></td></tr>
+<tr><td>Copier / Couper / Coller</td><td><kbd>Ctrl</kbd>+<kbd>C</kbd> / <kbd>X</kbd> / <kbd>V</kbd></td></tr>
+<tr><td>Annuler</td><td><kbd>Ctrl</kbd>+<kbd>Z</kbd></td></tr>
+<tr><td>Rechercher / suivant</td><td><kbd>Ctrl</kbd>+<kbd>F</kbd> / <kbd>Ctrl</kbd>+<kbd>G</kbd></td></tr>
+<tr><td>Rechercher et remplacer</td><td><kbd>Ctrl</kbd>+<kbd>H</kbd></td></tr>
+<tr><td>Plein écran</td><td><kbd>F11</kbd> (LibreOffice : <kbd>Maj</kbd>+<kbd>Ctrl</kbd>+<kbd>J</kbd>)</td></tr>
+<tr><td>Aide</td><td><kbd>F1</kbd></td></tr>
+</tbody></table></div>
+
+<h2 id="modifier">Modifier les raccourcis</h2>
+<p>Paramètres système → Clavier → onglet Raccourcis. Sous Mint, une même action peut avoir jusqu'à <strong>trois</strong> raccourcis. Pour la liste complète, voir <a href="raccourcis-clavier-detail.html">Raccourcis clavier en détail</a>.</p>
+
+=== raccourcis-clavier-detail | Linux Mint | Raccourcis clavier en détail | Fenêtres, bureaux, système, lanceurs, dépannage et clavier : la liste complète pour Mint Cinnamon et Ubuntu.
+<h2 id="general">Bureaux et vues</h2>
+<ul>
+<li>Vue d'ensemble des fenêtres : <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↓</kbd> (Mint), <kbd>Super</kbd>+<kbd>W</kbd> (Ubuntu, conseillé partout).</li>
+<li>Vue des espaces de travail : <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>↑</kbd> ou <kbd>Alt</kbd>+<kbd>F1</kbd> (Mint), <kbd>Super</kbd>+<kbd>S</kbd> (Ubuntu, conseillé).</li>
+<li>Passer d'une fenêtre à l'autre <em>de la même application</em> : <kbd>Alt</kbd>+<kbd>²</kbd> (absent de Windows).</li>
+<li>Lancer une commande : <kbd>Alt</kbd>+<kbd>F2</kbd> (Mint).</li>
+<li>Lecteur d'écran : <kbd>Alt</kbd>+<kbd>Super</kbd>+<kbd>S</kbd>. Désactive-le si tu le déclenches par erreur.</li>
+</ul>
+
+<h2 id="fenetres">Fenêtres</h2>
+<ul>
+<li>Basculer maximisé : <kbd>Alt</kbd>+<kbd>F10</kbd> (Mint) ; conseillé <kbd>Super</kbd>+<kbd>Page↑</kbd>.</li>
+<li>Restaurer : <kbd>Alt</kbd>+<kbd>F5</kbd>.</li>
+<li>Menu de la fenêtre : <kbd>Alt</kbd>+<kbd>Espace</kbd>.</li>
+<li>Déplacer au clavier : <kbd>Alt</kbd>+<kbd>F7</kbd>, flèches, puis <kbd>Échap</kbd>.</li>
+<li>Redimensionner au clavier : <kbd>Alt</kbd>+<kbd>F8</kbd>, flèches, puis <kbd>Échap</kbd>.</li>
+<li>Demi-écran : <kbd>Super</kbd>+flèche (conseillé partout ; Ubuntu utilise <kbd>Ctrl</kbd>+<kbd>Super</kbd>+flèche).</li>
+<li>Quart d'écran : <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+pavé numérique (Ubuntu), non assigné sous Mint.</li>
+</ul>
+
+<h2 id="systeme">Système</h2>
+<ul>
+<li>Verrouiller : <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>L</kbd> (Mint) ; conseillé aussi <kbd>Super</kbd>+<kbd>L</kbd>.</li>
+<li>Redémarrer Cinnamon (bureau figé) : <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Échap</kbd>.</li>
+<li>Menu d'extinction : <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Fin</kbd>.</li>
+<li>Changer la configuration des écrans : <kbd>Super</kbd>+<kbd>P</kbd>.</li>
+<li>Enregistrer une vidéo de l'écran : <kbd>Maj</kbd>+<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>R</kbd> (Mint).</li>
+</ul>
+
+<h2 id="lanceurs">Lanceurs</h2>
+<ul>
+<li>Terminal : <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>T</kbd>.</li>
+<li>Dossier personnel : <kbd>Super</kbd>+<kbd>E</kbd>.</li>
+<li>Moniteur système : à créer, conseillé <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>M</kbd> (Windows : <kbd>Ctrl</kbd>+<kbd>Maj</kbd>+<kbd>Échap</kbd>).</li>
+</ul>
+
+<h2 id="souris">Souris et panneau</h2>
+<ul>
+<li>Clic sur une tâche : afficher ou réduire. Clic milieu : fermer, ou ouvrir une nouvelle fenêtre depuis un lanceur.</li>
+<li><strong>Copier rapide</strong> : sélectionner du texte suffit. <strong>Coller rapide</strong> : clic milieu.</li>
+</ul>
+
+<h2 id="secours">En cas de blocage total</h2>
+<p>Maintiens <kbd>Alt</kbd>+<kbd>Impr</kbd> (touche « Syst ») et tape :</p>
+<ul>
+<li><kbd>K</kbd> : redémarrer l'interface graphique ;</li>
+<li><kbd>B</kbd> : redémarrage forcé ;</li>
+<li><kbd>O</kbd> : extinction forcée.</li>
+</ul>
+
+<h2 id="fichiers">Fichiers</h2>
+<ul>
+<li>Mettre à la corbeille : <kbd>Suppr</kbd>. Supprimer définitivement : <kbd>Maj</kbd>+<kbd>Suppr</kbd>.</li>
+</ul>
+
+<h2 id="clavier">Le clavier</h2>
+<ul>
+<li><kbd>AltGr</kbd>+touche : caractère alternatif. <kbd>Maj</kbd>+<kbd>AltGr</kbd>+touche : un quatrième caractère (absent de Windows).</li>
+<li>Verr Maj donne la ponctuation et les <strong>majuscules accentuées</strong> (É, À, Ç), pas les chiffres comme sous Windows.</li>
+</ul>
+
+<h2 id="conseils">Nos conseils</h2>
+<ul>
+<li>Désactive les raccourcis d'accessibilité si tu ne t'en sers pas.</li>
+<li>Reprends ceux de Windows quand c'est possible (<kbd>Super</kbd>+<kbd>E</kbd>, <kbd>Super</kbd>+flèches, <kbd>Super</kbd>+<kbd>L</kbd>).</li>
+<li>Profite des trois raccourcis possibles par action sous Mint.</li>
+</ul>

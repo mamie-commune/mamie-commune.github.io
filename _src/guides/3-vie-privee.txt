@@ -1,0 +1,223 @@
+=== stop-gafam | Vie privée | Éviter la pub, le traçage et les GAFAM | Sept étapes pour sortir de Google, Apple, Facebook, Amazon et Microsoft. Les trois premières prennent une demi-heure.
+<p>Les trois premières étapes prennent environ 30 minutes et changent déjà beaucoup. Les suivantes demandent un peu plus de préparation.</p>
+
+<h2 id="navigateur">1. Un navigateur libre</h2>
+<ul>
+<li>Remplace Chrome, Edge ou Safari par <strong>Firefox</strong>, téléchargé sur le site de Mozilla.</li>
+<li>Importe marque-pages et mots de passe de l'ancien navigateur.</li>
+<li>Installe-le aussi sur ton téléphone et active la synchronisation Firefox.</li>
+</ul>
+
+<h2 id="bloqueur">2. Bloquer pub et pistage</h2>
+<ul>
+<li>Installe <strong>uBlock Origin</strong> et règle-le : voir <a href="ublock-origin.html">le guide</a>.</li>
+<li>Dans Firefox, protection contre le pistage sur <strong>Stricte</strong>.</li>
+<li>Coche la suppression des cookies à la fermeture.</li>
+<li>Sur Android : <a href="blokada.html">Blokada</a>.</li>
+<li>Ne force jamais un avertissement de uBlock : les pubs servent souvent à diffuser des virus.</li>
+</ul>
+
+<h2 id="moteur">3. Un moteur de recherche neutre</h2>
+<ul>
+<li><strong>DuckDuckGo</strong> par défaut (Firefox → Paramètres → Recherche), ou le méta-moteur décentralisé Searx.</li>
+<li>Cartes et itinéraires : <strong>OpenStreetMap</strong>, et OsmAnd sur mobile.</li>
+</ul>
+
+<h2 id="mail">4. Une autre messagerie</h2>
+<ul>
+<li>Ouvre un compte chez un hébergeur éthique : voir <a href="hebergement-email.html">Héberger ses e-mails</a>.</li>
+<li>Transfère messages et contacts. Sur ordinateur, utilise Thunderbird et garde tes contacts en local.</li>
+</ul>
+
+<h2 id="visio">5. La visio</h2>
+<p><strong>Jitsi Meet</strong> ou <strong>BigBlueButton</strong>, dans le navigateur, sans installation ni compte.</p>
+
+<h2 id="fichiers">6. Le partage de fichiers</h2>
+<p>Un compte <strong>Nextcloud</strong> chez un hébergeur éthique remplace Google Drive, Dropbox, OneDrive ou iCloud. Voir aussi <a href="../partage.html">Partage de données</a>.</p>
+
+<h2 id="proches">7. Prévenir tes proches</h2>
+<p>Si tes contacts sont pistés, tu l'es à travers eux. Partager la démarche fait partie de la protection.</p>
+
+<h2 id="plus-loin">Aller plus loin</h2>
+<h3>Réseaux et messageries</h3>
+<ul>
+<li><a href="quitter-facebook.html">Quitte Facebook</a>. Mastodon (façon X) ou Diaspora (façon Facebook), Mobilizon pour les événements.</li>
+<li>À l'inscription, refuse l'accès à tes contacts.</li>
+<li>Remplace WhatsApp et Messenger par <strong>Signal</strong>.</li>
+<li>Pas d'équivalent à TikTok ou Instagram : regarder moins de vidéos reste le meilleur levier.</li>
+</ul>
+<h3>Achats et matériel</h3>
+<ul>
+<li>Évite Amazon ; achète ta musique sans DRM.</li>
+<li>Évite enceintes connectées, Kindle et matériel Apple.</li>
+<li>Téléphone : Fairphone avec /e/OS. Ordinateur : livré avec Linux Mint.</li>
+</ul>
+<h3>Système</h3>
+<p>Windows, macOS et ChromeOS sont propriétaires : <a href="installer-linux-mint.html">installe Linux</a>. Sur mobile, <a href="android.html">libère ton Android</a>.</p>
+
+=== ublock-origin | Vie privée | Configurer uBlock Origin | Installer le bloqueur de pub et de traqueurs, choisir les bonnes listes de filtres et s'en servir au quotidien.
+<h2 id="quoi">C'est quoi</h2>
+<p>uBlock Origin est une extension libre et gratuite qui bloque pubs et traqueurs. Les pages chargent plus vite, consomment moins de données et d'énergie, et ta vie privée est protégée.</p>
+
+<h2 id="avant">Avant d'installer</h2>
+<ul>
+<li>Utilise un <strong>Firefox à jour</strong>.</li>
+<li>Sur un navigateur basé sur Chrome, préfère Chromium et la version « uBlock Origin Lite ».</li>
+<li>Vérifie que le développeur est <strong>Raymond Hill (gorhill)</strong> : il existe des imitations.</li>
+</ul>
+
+<h2 id="installer">Installer</h2>
+<ol>
+<li>Ouvre Firefox → menu → Extensions et thèmes.</li>
+<li>Cherche « uBlock Origin » et ouvre sa fiche.</li>
+<li>« Ajouter à Firefox », puis confirme.</li>
+<li>Son icône rouge apparaît en haut à droite.</li>
+</ol>
+
+<h2 id="listes">Les listes de filtres</h2>
+<p>Icône → bouton des réglages (roues dentées) → onglet <strong>Listes de filtres</strong>. Sont déjà actives : filtres uBlock, EasyList (pubs), EasyPrivacy (pistage), anti-malware, Peter Lowe, et la liste française d'AdGuard.</p>
+<p>Ajoute :</p>
+<ul>
+<li><strong>EasyList – Social Widgets</strong> : moins de pistage par les boutons des réseaux sociaux.</li>
+<li><strong>EasyList/uBO – Cookie Notices</strong> : fini les bandeaux cookies.</li>
+<li><strong>uBlock filters – Annoyances</strong> : contre les sites qui exigent de désactiver le bloqueur.</li>
+</ul>
+<p>N'en ajoute pas trop : elles se recoupent et ralentissent. Clique sur <strong>Appliquer</strong>, puis <strong>Mettre à jour maintenant</strong>.</p>
+
+<h2 id="reglages">Réglages optionnels</h2>
+<ul>
+<li><strong>Fichiers média volumineux</strong> : monter de 50 à 250 Ko si des images manquent sur certains sites.</li>
+<li><strong>Polices distantes</strong> : les bloquer économise des ressources et limite le pistage, au prix d'un affichage parfois dégradé.</li>
+<li><strong>Mode avancé</strong> : pour voir précisément ce que charge chaque site.</li>
+</ul>
+
+<h2 id="quotidien">Au quotidien</h2>
+<ul>
+<li><strong>Désactiver sur un site</strong> : icône → gros bouton marche/arrêt → recharger la page.</li>
+<li><strong>Liste blanche</strong> permanente : onglet « Sites de confiance » du tableau de bord.</li>
+<li><strong>Bloquer un élément</strong> gênant : clic droit → « Bloquer l'élément » → Créer.</li>
+<li>Si un site casse, essaie de désactiver le filtrage esthétique avant de tout couper.</li>
+</ul>
+
+<h2 id="anti-bloqueur">Sites qui exigent de couper le bloqueur</h2>
+<p>Active la liste Annoyances. Si ça ne suffit pas, désactive uBlock pour ce site seulement, ou va voir ailleurs : beaucoup de médias vivent de dons ou d'abonnements sans pub.</p>
+
+=== youtube-sans-pub | Vie privée | YouTube sans pub et sans pistage | Interfaces alternatives, FreeTube, NewPipe, SponsorBlock et PeerTube, sur ordinateur et téléphone.
+<h2 id="bases">Les bases</h2>
+<ul>
+<li>YouTube appartient à Google et vit de la pub ; il cherche à te garder le plus longtemps possible.</li>
+<li>Les placements de produits passent sous les bloqueurs : <strong>SponsorBlock</strong> les repère grâce aux signalements des internautes.</li>
+<li>Ne sois pas connecté·e à ton compte Google, et évite l'application officielle.</li>
+</ul>
+
+<h2 id="ordi">Sur ordinateur</h2>
+<h3>Interfaces alternatives</h3>
+<p>Les sites <strong>Invidious</strong> ou <strong>Piped</strong> affichent les vidéos YouTube sans pub ni pistage. Une extension Firefox (LibRedirect) y renvoie automatiquement les liens. Piped intègre SponsorBlock, et les deux permettent d'écouter le son seul.</p>
+<h3>YouTube avec extensions</h3>
+<p>uBlock Origin (dans tous les cas) + SponsorBlock.</p>
+<h3>FreeTube (Linux, Windows, macOS)</h3>
+<ul>
+<li>Application libre qui passe par Invidious.</li>
+<li>Dans les réglages : active <strong>SponsorBlock</strong> et <strong>DeArrow</strong> (titres et miniatures moins racoleurs).</li>
+<li>Télécharge une vidéo, le son ou les sous-titres.</li>
+<li>Passe en mode audio pour écouter sans image.</li>
+</ul>
+
+<h2 id="android">Sur Android</h2>
+<ul>
+<li><strong>NewPipe</strong> : uniquement sur F-Droid (méfie-toi des copies sur le Play Store). Bouton « arrière-plan » pour écouter écran éteint. Gère aussi PeerTube, SoundCloud et Bandcamp.</li>
+<li><strong>LibreTube</strong> : sur F-Droid, avec SponsorBlock intégré.</li>
+</ul>
+
+<h2 id="ios">Sur iPhone et iPad</h2>
+<p><strong>Yattee</strong>, application libre pour iOS 14 et plus.</p>
+
+<h2 id="alternatives">Ailleurs que sur YouTube</h2>
+<p>Twitch et Facebook ne valent pas mieux. Vimeo et Dailymotion sont indépendants mais commerciaux. <strong>PeerTube</strong> est libre et décentralisé : idéal pour publier tes vidéos.</p>
+
+<h2 id="sobriete">Regarder moins</h2>
+<p>La vidéo est l'usage numérique le plus gourmand en énergie, surtout en 4G sur téléphone.</p>
+
+=== quitter-facebook | Vie privée | Quitter Facebook | Pourquoi partir, quoi utiliser à la place, et comment supprimer vraiment son compte.
+<h2 id="pourquoi">Pourquoi partir</h2>
+<p>Meta tire environ 95 % de ses revenus de la pub ciblée, donc de l'exploitation de tes données. Ses algorithmes mettent en avant les contenus qui divisent, pour te garder connecté·e. Meta a joué un rôle dans la surveillance de masse et la manipulation politique, et a relâché sa modération depuis 2025.</p>
+
+<h2 id="avant">Avant de supprimer</h2>
+<ul>
+<li><strong>Préviens tes contacts</strong> et donne-leur un autre moyen de te joindre.</li>
+<li><strong>Discussions</strong> : Signal (ou Matrix, XMPP) à la place de Messenger et WhatsApp.</li>
+<li><strong>Événements</strong> : Mobilizon.</li>
+<li><strong>Réseau social</strong> : Mastodon ou Diaspora, si tes proches y sont.</li>
+<li><strong>Diffuser des infos</strong> : un site, une liste de diffusion, une messagerie libre.</li>
+<li>Télécharge une copie de tes données depuis les paramètres.</li>
+</ul>
+
+<h2 id="supprimer">Supprimer le compte (pas le désactiver)</h2>
+<ol>
+<li>Menu en haut à droite → Aide.</li>
+<li>« Gérer votre compte » → désactivation et suppression.</li>
+<li>Choisis la <strong>suppression définitive</strong>.</li>
+<li>Confirme avec ton mot de passe.</li>
+</ol>
+<p>Le lien direct : <code>facebook.com/help/delete_account</code>. Depuis l'application mobile, la démarche passe par Paramètres → Espace comptes → Informations personnelles → Propriété et contrôle du compte.</p>
+
+<h2 id="lucide">Rester lucide</h2>
+<ul>
+<li>Facebook garde ce qu'il a déjà collecté sur toi et tes contacts.</li>
+<li>Le mieux reste de ne jamais créer de compte.</li>
+<li>Un bloqueur de pistage limite son suivi ailleurs sur le web.</li>
+</ul>
+
+<h2 id="meta">Et le reste de Meta</h2>
+<p>Ferme aussi Messenger, WhatsApp, Instagram et Threads. Évite les casques Meta Quest.</p>
+
+<h2 id="pas-pret">Pas encore prêt·e ?</h2>
+<p>L'extension Firefox <strong>Facebook Container</strong> isole Facebook du reste de ta navigation.</p>
+
+=== hebergement-email | Vie privée | Héberger ses e-mails | Pourquoi quitter Gmail et Outlook, quels fournisseurs choisir et à quel prix.
+<h2 id="pourquoi">Pourquoi quitter Gmail, Outlook, Yahoo</h2>
+<ul>
+<li>Ils analysent tes messages pour te profiler et cibler la pub.</li>
+<li>Gmail et Yahoo posent aussi des soucis avec d'autres fournisseurs et les listes de diffusion. Yahoo a subi plusieurs piratages massifs.</li>
+<li>L'adresse de ton fournisseur d'accès internet : seulement en secours, tu la perds si tu changes d'abonnement.</li>
+</ul>
+
+<h2 id="criteres">Bien choisir</h2>
+<ul>
+<li>Un fournisseur éthique, sans pub.</li>
+<li>Plutôt payant : une boîte mail coûte cher à faire tourner (spams).</li>
+<li>Compatible Thunderbird ou K-9 Mail si tu as plusieurs comptes.</li>
+<li>Synchronisation contacts / agenda si tu utilises un smartphone.</li>
+<li>Chiffrement de bout en bout si tu échanges des infos sensibles.</li>
+</ul>
+
+<h2 id="usage-courant">Pour un usage courant</h2>
+<ul>
+<li><strong>Deux adresses</strong> : une pour tes proches, une pour les inscriptions (qui recevra le spam).</li>
+<li><strong>Murena</strong> : mail + cloud, 1 Go gratuit ou 20 Go dès 20 €/an. S'intègre à /e/OS.</li>
+<li><strong>Posteo</strong> (Allemagne) : environ 12 €/an pour 2 Go, contacts et agenda inclus.</li>
+<li><strong>Hébergeurs CHATONS</strong> : francophones, parfois locaux, tarifs variables.</li>
+<li><strong>Alias jetables</strong> (Firefox Relay) pour les sites douteux.</li>
+</ul>
+
+<h2 id="chiffre">Messageries chiffrées</h2>
+<div class="tbl"><table>
+<thead><tr><th>Service</th><th>Gratuit</th><th>Payant</th><th>Remarque</th></tr></thead>
+<tbody>
+<tr><td>Tuta</td><td>1 Go</td><td>≈ 36 €/an, 20 Go</td><td>Application pour ordinateur</td></tr>
+<tr><td>Proton Mail</td><td>1 Go</td><td>≈ 48 €/an, 15 Go</td><td>Compatible OpenPGP ; Thunderbird via Bridge (payant)</td></tr>
+</tbody></table></div>
+<p>Le chiffrement complet ne marche qu'entre utilisateur·ices du même service.</p>
+
+<h2 id="avance">Besoins avancés</h2>
+<ul>
+<li><strong>Ton propre nom de domaine</strong> : environ 18 à 24 €/an, plus la boîte mail.</li>
+<li><strong>Listes de diffusion</strong> : un hébergeur comme Ouvaton (≈ 42 €/an avec mail, cloud et site) ou phpList. Les simples boîtes mail bloquent les envois en masse.</li>
+</ul>
+
+<h2 id="migrer">Migrer</h2>
+<ul>
+<li>Transfère tes anciens messages et contacts (Thunderbird permet de glisser les dossiers d'un compte à l'autre).</li>
+<li>Si l'application ne trouve pas les réglages, saisis les serveurs IMAP et SMTP à la main.</li>
+<li>Préviens tes contacts et migre progressivement.</li>
+</ul>

@@ -1,0 +1,127 @@
+=== servitude-volontaire | État & pouvoir | Discours de la servitude volontaire | Étienne de La Boétie · vers 1550 | Pourquoi des peuples entiers obéissent-ils à un seul ? Parce qu'ils y consentent. Il suffit de cesser de servir pour que le tyran tombe.
+<h2 id="contexte">Contexte</h2>
+<p>Écrit par un tout jeune homme entre 1546 et 1555, publié en partie en 1574 puis en entier en 1576, le texte est aussi appelé <em>Le Contr'Un</em>. La Boétie ne cherche pas le meilleur régime politique : il veut comprendre comment un million de personnes peuvent se laisser dominer par une seule.</p>
+
+<h2 id="these">La thèse</h2>
+<p>Le tyran n'a de pouvoir que celui qu'on lui donne. La servitude repose sur le consentement, pas sur une force irrésistible. Que les peuples cessent de le soutenir, et il s'effondre de lui-même, comme un colosse dont on retire le socle.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>L'étonnement.</strong> La faiblesse ne suffit pas à expliquer qu'une foule obéisse à un seul.</li>
+<li><strong>La nature.</strong> Les humains naissent égaux et libres. La soumission est une dégradation, pas un état naturel.</li>
+<li><strong>Trois sortes de tyrans.</strong> Élus, conquérants ou héritiers : tous finissent par gouverner de la même façon.</li>
+<li><strong>L'habitude.</strong> Celles et ceux qui naissent sous le joug prennent la servitude pour normale. L'éducation l'enracine.</li>
+<li><strong>Les divertissements.</strong> Jeux, fêtes, distributions et mise en scène religieuse endorment le peuple.</li>
+<li><strong>La chaîne des complices.</strong> Le tyran tient par quelques favoris, qui tiennent d'autres favoris, jusqu'à former tout un réseau qui a intérêt au pouvoir.</li>
+<li><strong>Les courtisans.</strong> Ils perdent eux aussi leur liberté et vivent dans la peur. Aucune amitié n'est possible avec un tyran.</li>
+</ol>
+
+<h2 id="arguments">Comment il le montre</h2>
+<p>La Boétie accumule les exemples antiques (Spartiates face aux Perses, Cyrus qui pacifie Sardes en y ouvrant des maisons de jeu, Néron) et des images frappantes : la branche qui sèche quand la sève ne monte plus, le feu qui s'éteint faute de bois.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le pouvoir vient d'en bas : l'obéissance de chacun le fait exister.</li>
+<li>Se libérer ne demande pas d'abord de frapper, mais de <strong>refuser de servir</strong>.</li>
+<li>Un texte du XVIe siècle qui est devenu une référence de la désobéissance civile et de l'anarchisme.</li>
+</ul>
+
+=== dieu-et-l-etat | État & pouvoir | Dieu et l'État | Mikhaïl Bakounine · 1882 | Si Dieu existe, l'humain est esclave. Bakounine attaque ensemble la religion, l'autorité et le gouvernement des savants.
+<h2 id="contexte">Contexte</h2>
+<p>Publié à Genève en 1882, après la mort de Bakounine, ce texte inachevé vient d'une Europe dominée par les Églises, les empires et la guerre franco-prussienne. Il s'adresse aux idéalistes, libéraux et républicains, que l'auteur juge complices de l'oppression.</p>
+
+<h2 id="these">La thèse</h2>
+<p>L'idée de Dieu et l'idée d'autorité sont incompatibles avec la liberté. Si Dieu est le maître absolu, l'humain est esclave ; or l'humain doit être libre ; donc il faut rejeter Dieu. Le matérialisme, qui part de la nature, mène à l'émancipation ; l'idéalisme, qui part du divin, mène à l'asservissement.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Trois forces humaines</strong> : l'animalité (l'économie), la pensée (la science) et la révolte (la liberté).</li>
+<li><strong>Relecture de la Genèse</strong> : manger le fruit de la connaissance est un acte d'émancipation, et Dieu y paraît en tyran jaloux.</li>
+<li><strong>Pourquoi la religion tient</strong> : par l'ignorance, l'épuisement et la misère. Seule une révolution sociale la fera vraiment reculer.</li>
+<li><strong>Tout ce qu'on donne à Dieu, on le retire à l'humanité.</strong></li>
+<li><strong>L'idéalisme en haut produit la brutalité en bas</strong> : la domination des puissants et l'exploitation des masses.</li>
+<li><strong>Contre une nouvelle Église savante</strong> : une école dirigée par l'État ou une élite recréerait un troupeau.</li>
+</ol>
+
+<h2 id="autorite">L'autorité du cordonnier</h2>
+<p>Bakounine distingue deux autorités. Pour les bottes, il consulte le cordonnier ; pour un pont, l'ingénieur. Cette autorité-là est <strong>librement choisie, discutée et révocable</strong>. Il refuse en revanche toute autorité imposée ou prétendue infaillible, y compris celle de la science : elle doit éclairer, jamais gouverner.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Religion, État et privilèges forment un même système de domination.</li>
+<li>Accepter un conseil n'est pas obéir : l'autorité légitime est volontaire et révocable.</li>
+<li>La liberté de chacun·e n'existe qu'avec l'égalité économique et la liberté des autres.</li>
+</ul>
+
+=== l-anarchie-malatesta | État & pouvoir | L'Anarchie | Errico Malatesta · 1902 | Une société sans gouvernement est possible et souhaitable. Malatesta répond, une à une, aux objections.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1902, ce texte de l'anarchiste italien s'adresse à un public populaire. Il répond à la fois aux socialistes qui veulent conquérir l'État et aux libéraux qui défendent la liberté sans toucher à la propriété. Il veut aussi réhabiliter le mot « anarchie », synonyme de désordre dans la langue courante.</p>
+
+<h2 id="these">La thèse</h2>
+<p>L'anarchie, c'est-à-dire la société sans gouvernement, est possible, souhaitable et prévisible. Elle suppose la fin de la propriété privée et de toute domination. La <strong>solidarité</strong> est la loi naturelle de l'humanité ; le gouvernement n'en est qu'un obstacle.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Les mots.</strong> Le sens péjoratif d'« anarchie » vient d'un préjugé : la croyance qu'un gouvernement est indispensable. Malatesta préfère parler d'« abolition du gouvernement », plus clair qu'« abolition de l'État ».</li>
+<li><strong>Le gouvernement</strong>, c'est un groupe de personnes qui font les lois et disposent de la force de tous. Il sert d'abord à protéger les propriétaires. Le suffrage universel n'y change rien.</li>
+<li><strong>L'image de l'homme aux jambes liées</strong> : à force d'avoir marché entravé, il croit que ses liens le tiennent debout.</li>
+<li><strong>La coopération</strong>, plus que la lutte, a fait progresser l'humanité. Sociétés savantes, secours mutuel, organisations ouvrières montrent que l'association volontaire marche déjà.</li>
+<li><strong>Et la défense, la justice, les services ?</strong> Le peuple se défend lui-même, les conflits se règlent par arbitrage, la coutume pèse plus que les codes. On remplace la punition par le soin et la protection.</li>
+<li><strong>Pas de plan tout fait.</strong> L'anarchie est une méthode : libre initiative, libre accord, expérience. Administrer les choses, oui ; gouverner les personnes, non.</li>
+</ol>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le gouvernement n'est pas la condition de l'ordre social : il en vit.</li>
+<li>Les obstacles (habitudes, misère, ignorance) sont réels, mais ne justifient pas de garder des maîtres.</li>
+<li>Un des textes d'introduction les plus clairs à l'anarchisme. À lire avec <a href="au-cafe.html">Au café</a>.</li>
+</ul>
+
+=== criminel-electeur | État & pouvoir | Le criminel, c'est l'électeur ! | Albert Libertad · 1906 | Un pamphlet anti-électoral : en votant, le peuple choisit lui-même ses maîtres et consacre sa propre servitude.
+<h2 id="contexte">Contexte</h2>
+<p>Affiche publiée le 1er mars 1906 dans le journal <em>L'Anarchie</em>, en pleine campagne électorale. Libertad, figure de l'anarchisme individualiste parisien, y attaque l'idée que le bulletin de vote ferait de chacun un citoyen libre.</p>
+
+<h2 id="these">La thèse</h2>
+<p>On présente le peuple comme souverain. Mais c'est lui qui, élection après élection, nomme ceux qui l'oppriment. Le vrai responsable de la servitude, le « criminel », c'est donc l'électeur.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Une adresse directe et accusatrice au peuple, à la fois souverain et victime de lui-même.</li>
+<li>Les élus, d'hier comme d'aujourd'hui, défendent d'abord leur caste. Le peuple le sait, s'en plaint, et les réélit.</li>
+<li>Le travailleur produit toutes les richesses et ne possède rien. Police, justice, impôts, loyers, chômage : il garde pourtant le système qui l'écrase.</li>
+<li>Le bulletin de vote est l'acte par lequel il accepte tout cela.</li>
+<li>Les candidats flattent pour mieux duper. Si le peuple se laisse séduire, c'est qu'il n'a pas encore pris conscience de lui-même.</li>
+<li>La sortie : cesser de se plaindre, rejeter l'autorité, agir par soi-même.</li>
+</ol>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La délégation du pouvoir est au cœur de la critique.</li>
+<li>Un style volontairement brutal, typique des affiches anarchistes de la Belle Époque.</li>
+<li>Comparer avec Malatesta, qui critique lui aussi le suffrage mais avec une approche collective : <a href="l-anarchie-malatesta.html">L'Anarchie</a>.</li>
+</ul>
+
+=== ce-que-je-crois | État & pouvoir | Ce que je crois | Emma Goldman · 1908 | Propriété, gouvernement, armée, presse, Église, mariage : Emma Goldman expose sa vision de l'anarchisme point par point.
+<h2 id="contexte">Contexte</h2>
+<p>Publié dans le <em>New York World</em> le 19 juillet 1908. La presse américaine présente alors Goldman comme une menace quasi diabolique. Peu avant, un soldat, William Buwalda, avait été condamné pour lui avoir serré la main après une conférence. Elle répond en exposant calmement ses idées.</p>
+
+<h2 id="these">La thèse</h2>
+<p>L'anarchisme, absence de gouvernement et refus de l'autorité imposée, est la doctrine la plus favorable à la liberté, à la paix et à l'épanouissement. Ce n'est pas un système figé mais un processus vivant, fondé sur l'adhésion volontaire.</p>
+
+<h2 id="idees">Point par point</h2>
+<ul>
+<li><strong>La propriété</strong> : la production est devenue si abondante que la propriété privée n'a plus de raison d'être. Elle place chacun sous un maître. À la place : coopération volontaire, vers un communisme libre.</li>
+<li><strong>Le gouvernement</strong> protège la propriété et les monopoles. Les grandes œuvres et la solidarité naissent des individus, pas des lois. Le crime vient des inégalités.</li>
+<li><strong>Le militarisme</strong> dresse à l'obéissance aveugle et sert l'impérialisme. Les peuples doivent refuser de se battre pour ceux qui les exploitent.</li>
+<li><strong>La liberté d'expression</strong> est vidée par la censure policière et postale. Le remède aux abus de parole, c'est plus de parole.</li>
+<li><strong>L'Église</strong> freine la pensée libre. La foi doit rester privée.</li>
+<li><strong>Le mariage</strong> est une institution économique qui enferme les femmes. Goldman défend l'amour libre, l'indépendance des femmes et une maternité choisie.</li>
+<li><strong>La violence</strong> : l'anarchisme est une philosophie de paix. Les attentats sont des réactions à l'injustice, pas des conséquences de la doctrine, et leur efficacité est douteuse. L'éducation, l'exemple et la grève générale sont les vrais moyens.</li>
+</ul>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>L'anarchisme de Goldman englobe la vie intime : amour, couple, maternité.</li>
+<li>Elle relie militarisme, censure et propriété dans une même critique.</li>
+<li>Un bon texte d'entrée, court et concret.</li>
+</ul>

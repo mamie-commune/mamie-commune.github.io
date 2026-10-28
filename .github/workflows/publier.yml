@@ -1,0 +1,53 @@
+# Publie le site sur GitHub Pages à chaque envoi sur la branche main.
+# 1) Windows : régénère les pages avec _src/build.ps1 (PowerShell 5.1).
+# 2) Linux : met en ligne le résultat, sans les sources.
+name: Publier le site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  generer:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Générer les pages
+        shell: powershell
+        run: powershell -NoProfile -ExecutionPolicy Bypass -File _src/build.ps1
+      - name: Garder seulement le site
+        shell: powershell
+        run: |
+          robocopy . _site /E /XD _src .github .claude .git _site /XF CLAUDE.md README.md .gitignore .gitattributes /NFL /NDL /NJH /NJS /NP
+          if ($LASTEXITCODE -ge 8) { exit 1 } else { exit 0 }
+      - uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+
+  publier:
+    needs: generer
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - id: deploiement
+        uses: actions/deploy-pages@v4

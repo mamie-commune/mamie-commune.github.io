@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Choisir une distribution GNU/Linux &#183; Mamie Commune</title>
+<meta name="description" content="Les distributions grand public, les environnements de bureau, la m&#233;moire qu&#39;ils consomment et le mat&#233;riel n&#233;cessaire.">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/fonts.css">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../index.html">Accueil</a><a href="../experiences/index.html">Révolutions</a><a href="../antifascisme/index.html">Antifascisme</a><a href="../bibliotheque/index.html">Bibliothèque</a><a href="../carte.html">Carte</a><a href="../videos.html">Vidéos</a><a href="../guides/index.html" aria-current="page">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Outils numériques</a><span>/</span><a href="index.html#linux-mint">Linux Mint</a></p>
+  <h1>Choisir une distribution GNU/Linux</h1>
+  <p class="lead">Les distributions grand public, les environnements de bureau, la m&#233;moire qu&#39;ils consomment et le mat&#233;riel n&#233;cessaire.</p>
+  <div class="gmeta"><span>Linux Mint</span><span>Guide · 3 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<h2 id="principe">Le principe</h2>
+<p>GNU/Linux est un système libre qu'on installe gratuitement sur un PC ou un Mac, à côté du système d'origine ou à sa place. Il n'y a pas un seul Linux mais des <strong>distributions</strong> : des assemblages du noyau Linux, des outils GNU, d'un environnement de bureau, d'une logithèque et d'applications courantes. Elles sont faites par des entreprises, des associations ou des bénévoles.</p>
+
+<h2 id="recommandees">Les distributions recommandées</h2>
+<ul>
+<li><strong>Linux Mint</strong> : dérivée d'Ubuntu, avec de petits outils maison qui accompagnent bien les débutant·es. Toutes ses éditions ont 5 ans de mises à jour. C'est notre premier choix.</li>
+<li><strong>Ubuntu</strong> : éditée par Canonical. Seule l'édition principale a 5 ans de support, les variantes 3 ans. Elle pousse de plus en plus son magasin Snap, qui n'est pas libre.</li>
+</ul>
+<p><strong>En pratique</strong> : à partir de 3 Go de RAM, prends Linux Mint Cinnamon. En dessous, regarde les variantes légères.</p>
+
+<h2 id="bureaux">Les environnements de bureau</h2>
+<ul>
+<li><strong>Cinnamon</strong> : proche de Windows 10/11. Recommandé.</li>
+<li><strong>Xfce</strong> : façon Windows 7, plus léger et très stable, un peu moins réglable.</li>
+<li><strong>MATE</strong> : plusieurs dispositions possibles (façon Ubuntu, Windows ou macOS).</li>
+<li><strong>LXQt</strong> et <strong>Trinity</strong> : les plus légers.</li>
+<li><strong>Gnome</strong> : original, pratique une fois pris en main.</li>
+<li><strong>Budgie</strong> : entre Gnome et Cinnamon.</li>
+<li><strong>KDE Plasma</strong> : proche de Windows, très configurable, donc parfois déroutant au début.</li>
+</ul>
+
+<h2 id="memoire">Mémoire utilisée au démarrage</h2>
+<div class="tbl"><table>
+<thead><tr><th>Bureau</th><th>RAM après démarrage</th><th>Distributions</th></tr></thead>
+<tbody>
+<tr><td>Trinity</td><td>≈ 0,7 Go</td><td>Q4OS</td></tr>
+<tr><td>LXQt</td><td>≈ 0,8 Go</td><td>Lubuntu</td></tr>
+<tr><td>Xfce / MATE</td><td>≈ 1,1 Go</td><td>Linux Mint Xfce, Xubuntu, Ubuntu MATE</td></tr>
+<tr><td>Cinnamon / Gnome / Budgie</td><td>≈ 1,2 Go</td><td>Linux Mint Cinnamon, Ubuntu, Ubuntu Budgie</td></tr>
+<tr><td>KDE Plasma</td><td>≈ 1,3 Go</td><td>Kubuntu, TuxedoOS</td></tr>
+<tr><td>Windows 11 allégé</td><td>≈ 1,9 Go</td><td>pour comparaison</td></tr>
+</tbody></table></div>
+<p>Mesure faite avec la commande <code>free --mega</code>.</p>
+
+<h2 id="materiel">Le matériel</h2>
+<ul>
+<li>Compte au moins <strong>4 Go de RAM</strong>. Pour un achat neuf, 8 Go minimum, 16 Go pour tenir une quinzaine d'années.</li>
+<li>Les PC vendus depuis 2007 environ et les Mac Intel (2006-2020) sont en 64 bits. Le 32 bits disparaît : seules quelques distributions le gardent (LMDE, AntiX, MX Linux, Emmabuntüs Debian Edition).</li>
+<li>Les Mac Apple Silicon (M1, M2, M3…) utilisent l'architecture ARM : très peu de distributions marchent dessus (Asahi Linux, Debian, Ubuntu Server).</li>
+</ul>
+
+<h2 id="versions">Quelle version ?</h2>
+<ul>
+<li>Pour Ubuntu, installe uniquement les versions <strong>LTS</strong> (tous les deux ans, 5 ans de support), et attends 2 à 3 mois après leur sortie.</li>
+<li>Linux Mint sort quelques mois après chaque LTS d'Ubuntu (juillet ou août), avec ce recul déjà pris.</li>
+</ul>
+
+<h2 id="tester">Tester avant d'installer</h2>
+<ul>
+<li>Démarre sur une clé USB en mode « live » : ton ordinateur n'est pas modifié.</li>
+<li>Ventoy permet de mettre plusieurs systèmes sur une même clé pour comparer.</li>
+<li>Des sites permettent aussi de tester une distribution dans le navigateur ou de les comparer selon tes critères.</li>
+</ul>
+
+<h2 id="vigilance">Points de vigilance</h2>
+<ul>
+<li>Debian et ses dérivés (LMDE, Q4OS, MX Linux, AntiX, Emmabuntüs) sont moins simples pour installer certains pilotes.</li>
+<li>Zorin OS a remplacé Firefox par Brave : réinstalle Firefox si tu la choisis.</li>
+<li>Si aucune distribution de la famille Debian/Ubuntu ne s'installe, essaie Manjaro Cinnamon (famille Arch).</li>
+</ul>
+<p class="credit">Guide rédigé par Mamie Commune d'après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="installer-linux-mint.html"><small>← Précédent</small><b>Installer Linux Mint pas &#224; pas</b></a><a href="manuel-mint.html"><small>Suivant →</small><b>Manuel Linux Mint Xfce et Cinnamon</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#principe">Le principe</a></li><li><a href="#recommandees">Les distributions recommandées</a></li><li><a href="#bureaux">Les environnements de bureau</a></li><li><a href="#memoire">Mémoire utilisée au démarrage</a></li><li><a href="#materiel">Le matériel</a></li><li><a href="#versions">Quelle version ?</a></li><li><a href="#tester">Tester avant d'installer</a></li><li><a href="#vigilance">Points de vigilance</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="../experiences/index.html">Révolutions</a>
+      <a href="../antifascisme/index.html">Antifascisme</a>
+      <a href="../bibliotheque/index.html">Bibliothèque</a>
+      <a href="../carte.html">Carte</a>
+      <a href="../videos.html">Vidéos</a>
+      <a href="../guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="../experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="../experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="../bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="../bibliotheque/au-cafe.html">Au café</a>
+      <a href="../guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="../partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js"></script>
+
+</body>
+</html>

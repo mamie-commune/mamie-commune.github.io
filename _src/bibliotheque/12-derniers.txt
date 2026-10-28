@@ -1,0 +1,154 @@
+=== zone-autonome-temporaire | Révolution & stratégie | TAZ, Zone autonome temporaire | Hakim Bey · 1991 | Plutôt qu'attendre une révolution qui recrée un pouvoir, ouvrir des espaces de liberté qui surgissent, vivent intensément et se dissolvent avant d'être écrasés.
+<h2 id="contexte">Contexte</h2>
+<p>Essai de 1991, nourri de l'histoire des pirates du XVIIIe siècle, des communautés marronnes, de la république de Fiume, et des débats de l'époque sur le cyberpunk et les premiers réseaux informatiques. Il a beaucoup inspiré les free parties et la culture des squats.</p>
+<h2 id="these">La thèse</h2>
+<p>Les révolutions finissent par recréer un pouvoir plus fort. Mais l'État ne peut pas tout cartographier : dans ses failles naissent des zones autonomes, discrètes, qui se dissolvent avant d'être récupérées et renaissent ailleurs.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Le soulèvement, contrairement à la révolution, sort du temps de l'histoire.</li>
+<li>La carte du monde est occupée, mais pas le territoire.</li>
+<li>La bande d'affinités contre la famille nucléaire.</li>
+<li>La fête comme brèche dans le calendrier.</li>
+<li>Les réseaux informatiques comme mémoire et soutien, sans remplacer la présence physique.</li>
+<li>Utopies pirates et enclaves libres ont déjà existé.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Le retrait et la discrétion plutôt que l'affrontement et le martyre.</li><li>Une suggestion poétique, pas un dogme.</li><li>Texte contesté, notamment pour les écrits ultérieurs de son auteur : à lire avec esprit critique.</li></ul>
+
+=== anarchisme-et-ses-aspirations | Individu & morale | L'Anarchisme et ses aspirations | Cindy Milstein · 2010 | Une introduction contemporaine : l'anarchisme comme éthique de la liberté, contre l'État, le capital et toutes les hiérarchies.
+<h2 id="contexte">Contexte</h2>
+<p>Livre paru aux États-Unis en 2010, traduit en français en 2018. L'autrice constate que les vieilles brochures d'introduction ne parlent plus aux gens du XXIe siècle.</p>
+<h2 id="these">La thèse</h2>
+<p>L'anarchisme se définit d'abord par ses aspirations : une société libre de personnes libres. Il refuse l'État, le capitalisme et toutes les hiérarchies, et tient ensemble liberté individuelle et liberté collective.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Le meilleur du libéralisme (la liberté) et du communisme (l'égalité), réunis dans le A cerclé.</li>
+<li>Une naissance au XIXe siècle, contre l'État et le capital.</li>
+<li>Des réformes, mais orientées vers la révolution.</li>
+<li>Une critique de toutes les dominations : genre, race, écologie.</li>
+<li>Des expérimentations quotidiennes : la qualité de vie avant la quantité.</li>
+<li>Le juste avant le possible.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Une éthique toujours en question.</li><li>Se libérer et s'autodéterminer vont ensemble.</li><li>Cantines, collectifs : des projets qui préfigurent.</li></ul>
+
+=== action-anarchiste-dans-la-revolution | Révolution & stratégie | L'Action anarchiste dans la révolution | Pierre Kropotkine · 1914 | Une révolution doit créer en même temps qu'elle détruit, sinon de nouveaux chefs reprendront les rênes.
+<h2 id="contexte">Contexte</h2>
+<p>Articles des <em>Temps nouveaux</em> réunis en mai 1914. Kropotkine s'appuie sur la Terreur jacobine, la Commune et les grandes révolutions pour comprendre pourquoi le pouvoir retombe toujours entre les mains d'une minorité.</p>
+<h2 id="these">La thèse</h2>
+<p>Tant que le peuple garde le cadre de l'État et de la loi, la bourgeoisie récupère la révolution. Il faut détruire l'État, la propriété et le gouvernement des élus, et bâtir tout de suite la libre entente et le partage.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>La Terreur sert les chefs qui veulent le pouvoir et étouffe l'initiative populaire.</li>
+<li>L'État hérité de Rome est le socle de la puissance bourgeoise.</li>
+<li>Dès le premier jour, un pacte de solidarité pour partager vivres, outils et savoirs.</li>
+<li>Abolir le salariat et organiser la production pour le bien-être.</li>
+<li>Neutraliser un pouvoir naissant en multipliant des initiatives qui font mieux, comme les sections de 1789-1794.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Détruire et créer en même temps.</li><li>Les idées doivent circuler avant la crise.</li><li>Prolonge <a href="la-grande-revolution.html">La Grande Révolution</a>.</li></ul>
+
+=== le-principe-anarchiste | État & pouvoir | Le Principe anarchiste | Pierre Kropotkine · 1913 | Né comme refus, l'anarchisme est devenu une vision du monde : la lutte de la liberté contre la contrainte.
+<h2 id="contexte">Contexte</h2>
+<p>Court texte publié en 1913 par les Temps nouveaux, qui revient sur l'histoire du mouvement.</p>
+<h2 id="these">La thèse</h2>
+<p>L'anarchie n'est pas qu'un rejet de l'État : c'est une lecture globale de l'histoire, des sciences et des rapports humains. Le conflit central oppose liberté et coercition.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Godwin, Proudhon, Bakounine et Stirner ont dépassé la critique pour imaginer une société libre.</li>
+<li>La philosophie a une portée révolutionnaire à retrouver.</li>
+<li>Les partis reproduisent la contrainte sous d'autres formes : salaire, faim, police.</li>
+<li>Le progrès se fait toujours contre la coercition.</li>
+<li>Le socialisme modéré risque de glisser vers l'autoritarisme.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Critique et projet à la fois.</li><li>Liberté contre coercition.</li><li>Une idée sans action quotidienne s'éteint.</li></ul>
+
+=== l-ordre | État & pouvoir | L'Ordre | Pierre Kropotkine · 1881 | Famines, guerres, répression : voilà l'« ordre ». Le « désordre », ce sont les révoltes qui ont aboli l'esclavage et le servage.
+<h2 id="contexte">Contexte</h2>
+<p>Article de 1881 dans <em>Le Révolté</em>, en réponse à ceux qui reprochent aux anarchistes leur nom.</p>
+<h2 id="these">La thèse</h2>
+<p>L'ordre bourgeois repose sur la misère, l'exploitation et la violence d'État. Le désordre, c'est la révolte des opprimés, moteur de tous les progrès.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les noms de partis naissent souvent comme insultes, puis sont repris avec fierté.</li>
+<li>« Anarchie » : d'abord absence de pouvoir, puis refus de toute autorité.</li>
+<li>L'ordre existant : famines, travail forcé, guerres, massacres.</li>
+<li>Le désordre : les révoltes qui ont aboli l'esclavage, le servage, la royauté.</li>
+<li>Le nom d'anarchie est donc juste.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Le sens des mots se joue dans la lutte.</li><li>La paix sociale cache une violence réelle.</li><li>Le désordre fait avancer l'histoire.</li></ul>
+
+=== evolution-et-revolution | Révolution & stratégie | Évolution et révolution | Élisée Reclus · 1891 | La première version du texte qui deviendra « L'Évolution, la révolution et l'idéal anarchique ».
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1891 dans <em>La Révolte</em>, version courte d'une conférence que Reclus développera en livre en 1902.</p>
+<h2 id="these">La thèse</h2>
+<p>La révolution suit l'évolution comme l'acte suit la volonté. Elle doit viser toute la société, et ne réussit vraiment que si les opprimés la dirigent eux-mêmes.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les conservateurs acceptent le mot « évolution », pas les progrès qui touchent leurs privilèges.</li>
+<li>Chaque transformation a deux visages : recul pour certains, avancée pour d'autres.</li>
+<li>Le pouvoir, même républicain, se corrompt.</li>
+<li>Science et expérience rendent le peuple capable de s'organiser.</li>
+<li>La misère vient de l'organisation sociale, pas de la nature.</li>
+<li>La solidarité internationale prépare la grève générale.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Deux temps d'un même phénomène.</li><li>Une révolution consciente.</li><li>Version longue : <a href="evolution-revolution-ideal.html">L'Évolution, la révolution et l'idéal anarchique</a>.</li></ul>
+
+=== organisation-du-travail-dejacque | Économie & propriété | L'Organisation du travail | Joseph Déjacque · 1860 | Le travail reste organisé sur le modèle de l'esclavage : changer de patron ne suffit pas, il faut le libérer.
+<h2 id="contexte">Contexte</h2>
+<p>Texte de 1860, publié dans <em>Le Libertaire</em> que Déjacque édite à New York. Il discute Fourier et Proudhon.</p>
+<h2 id="these">La thèse</h2>
+<p>Le travail a été imposé comme une peine par les autorités religieuses, politiques et familiales. Il deviendra attrayant et choisi par une révolution sociale complète, qui abolisse toute autorité.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Le travail vécu comme châtiment.</li>
+<li>Une organisation fondée sur la soumission du faible au fort.</li>
+<li>L'idée moderne : une activité épanouissante, répartie librement.</li>
+<li>Fourier et Proudhon : des pistes utiles, des restes autoritaires.</li>
+<li>Renverser le patron ne suffit pas sans transformation collective.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Le problème n'est pas le travail mais son organisation.</li><li>Une révolution inachevée recrée des hiérarchies.</li><li>Le premier journal à s'appeler <em>Le Libertaire</em>.</li></ul>
+
+=== betail-electoral | État & pouvoir | Le Bétail électoral | Albert Libertad · 1906 | Affiches, réunions publiques, contradicteurs hués : la campagne électorale vue comme un troupeau mené vers l'abîme.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en avril 1906 dans <em>L'Anarchie</em>, en pleine campagne législative. Libertad et ses camarades allaient porter la contradiction dans les réunions électorales.</p>
+<h2 id="these">La thèse</h2>
+<p>Voter, c'est choisir volontairement un maître. Les candidats vendent du rêve ; la réponse cohérente est de combattre le vote, les lois et les élus.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les affiches transforment des politiciens douteux en modèles de vertu.</li>
+<li>Le public préfère les mensonges agréables.</li>
+<li>Le contradicteur est hué, frappé, expulsé.</li>
+<li>Les comités chauffent la salle et protègent l'orateur.</li>
+<li>Ni dieux ni maîtres.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Voter, c'est se donner un maître.</li><li>Un témoignage vivant des réunions électorales de 1906.</li><li>Série « bétail » : voir aussi <a href="betail-patriotique.html">Le Bétail patriotique</a>.</li></ul>
+
+=== revolution-et-darwinisme | Révolution & stratégie | La Révolution et le darwinisme | Jean Grave · 1895 | Retourner Darwin contre les darwinistes sociaux : si la victoire revient aux plus aptes, elle revient à ceux qui produisent.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1895 dans <em>La Plume</em>. Des savants et économistes transposent la « lutte pour l'existence » à la société pour justifier la misère.</p>
+<h2 id="these">La thèse</h2>
+<p>La compétition n'explique qu'une petite part de l'évolution ; l'entraide est la règle. La bourgeoisie, devenue parasite, n'a aucun titre à dominer ; les travailleurs peuvent revendiquer la victoire.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>On présente la pauvreté comme naturelle et les pauvres comme des « éliminés ».</li>
+<li>Malthus et Haeckel au service de l'ordre établi.</li>
+<li>Chez les animaux, la lutte au sein d'une espèce est rare.</li>
+<li>Les plus forts ont détourné la solidarité humaine à leur profit.</li>
+<li>La bourgeoisie vit en parasite ; la misère dégrade les travailleurs.</li>
+<li>Si la victoire revient aux plus forts, elle revient aux producteurs.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Le darwinisme social détourne Darwin.</li><li>L'entraide comme loi naturelle.</li><li>À lire avec <a href="entraide.html">L'Entraide</a>.</li></ul>
+
+=== le-principe-de-l-etat | État & pouvoir | Le Principe de l'État | Mikhaïl Bakounine · 1871 | La conquête est l'origine et le but de tout État ; la morale d'État s'oppose à la morale humaine de solidarité.
+<h2 id="contexte">Contexte</h2>
+<p>Manuscrit inachevé de 1871, écrit après la guerre franco-allemande et la Commune.</p>
+<h2 id="these">La thèse</h2>
+<p>L'État est un appareil de puissance qui cherche toujours à s'étendre et ne reconnaît d'autre vertu que son intérêt. Une morale humaine ne peut naître que de la solidarité.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>La conquête est à l'origine de tout État, grand ou petit.</li>
+<li>La paix entre États n'est qu'une pause.</li>
+<li>La morale d'État se réduit à ce qui sert l'État.</li>
+<li>Il existe une morale humaine fondée sur la solidarité naturelle.</li>
+<li>Le christianisme l'a affaiblie en valorisant le salut individuel et la soumission.</li>
+<li>Dieu, projection de l'esprit humain vidé de son contenu.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>L'État contre l'humanité.</li><li>Critique politique et religieuse liées.</li><li>À lire avec <a href="etats-guerre-permanente.html">Les États, c'est la guerre permanente</a>.</li></ul>

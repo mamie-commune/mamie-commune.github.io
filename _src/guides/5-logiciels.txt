@@ -1,0 +1,223 @@
+=== libreoffice | Logiciels | Installer et régler LibreOffice | La suite bureautique libre : installation par système, réglages conseillés, formats, polices et extensions.
+<h2 id="quoi">LibreOffice en bref</h2>
+<p>Suite bureautique libre et gratuite : <strong>Writer</strong> (texte), <strong>Calc</strong> (tableur), <strong>Impress</strong> (présentations), <strong>Draw</strong> (dessin), <strong>Math</strong> (formules) et <strong>Base</strong> (bases de données). Elle tourne sous Linux, Windows et macOS et exporte en PDF. Elle remplace OpenOffice, qui n'est plus maintenu : désinstalle-le.</p>
+
+<h2 id="installer">Installer</h2>
+<h3>Linux</h3>
+<p>Déjà installé dans Linux Mint. Sinon : Logithèque → LibreOffice.</p>
+<h3>Windows et macOS</h3>
+<ol>
+<li>Désinstalle toute ancienne version (LibreOffice ou OpenOffice).</li>
+<li>Télécharge la version pour ton système sur le site officiel francophone, et si tu veux l'aide hors ligne.</li>
+<li>Lance l'installation en administrateur : français, anglais et espagnol sont inclus.</li>
+<li>Sous macOS, si l'interface reste en anglais, installe le pack de langue française.</li>
+</ol>
+
+<h2 id="windows">Ouvrir les fichiers Office avec LibreOffice (Windows)</h2>
+<ul>
+<li>Désinstalle l'Office d'essai préinstallé.</li>
+<li>Paramètres → Applications par défaut → LibreOffice : associe doc, docx, xls, xlsx, ppt, pptx et les formats OpenDocument (odt, ods, odp).</li>
+<li>Attention : « définir par défaut pour tout » associe aussi images et pages web. Rends-les à ta visionneuse et à ton navigateur.</li>
+</ul>
+
+<h2 id="reglages">Réglages conseillés</h2>
+<ul>
+<li><strong>Format par défaut</strong> : Outils → Options → Chargement/enregistrement → OpenDocument.</li>
+<li><strong>Autocorrection</strong> (Writer) : décoche tout sauf la reconnaissance des URL.</li>
+<li><strong>Règle verticale</strong> : Affichage → Règles.</li>
+<li><strong>Icônes</strong> : Options → Affichage, choisis un style et affiche les icônes dans les menus.</li>
+<li><strong>Dictionnaire perso</strong> pour tes noms propres, dans les options linguistiques.</li>
+<li><strong>Modèle par défaut</strong> : règle un document, enregistre-le comme modèle et coche « modèle par défaut ».</li>
+</ul>
+
+<h2 id="formats">Formats et polices</h2>
+<ul>
+<li>Préfère <strong>OpenDocument</strong> (odt, ods, odp), lisible par Office récent.</li>
+<li>Pour convertir de vieux fichiers en masse : Fichier → Assistants → Convertisseur de documents.</li>
+<li>Polices libres compatibles : <strong>Liberation Serif</strong> (= Times), <strong>Liberation Sans</strong> (= Arial), <strong>Liberation Mono</strong> (= Courier).</li>
+<li>Sous Linux, un double-clic sur un fichier <code>.ttf</code> installe une police.</li>
+</ul>
+
+<h2 id="profil">Sauvegarder ta configuration</h2>
+<p>Réglages et dictionnaires sont dans le profil utilisateur : <code>~/.config/libreoffice</code> sous Linux, dans AppData sous Windows. Copie-le pour retrouver ta config ailleurs.</p>
+
+<h2 id="extensions">Extensions</h2>
+<p>Outils → Gestionnaire des extensions. Indispensable en français : <strong>Grammalecte</strong>, correcteur grammatical et typographique.</p>
+
+<h2 id="astuces">Astuces</h2>
+<ul>
+<li>Retour à la ligne dans une cellule Calc : <kbd>Ctrl</kbd>+<kbd>Entrée</kbd>.</li>
+<li>Palette « Couleurs du document » pour garder des couleurs cohérentes.</li>
+<li>Apprends les <strong>styles</strong> : c'est le plus gros gain de temps dans Writer.</li>
+</ul>
+
+=== sauvegardes | Logiciels | Faire des sauvegardes | Pourquoi, quoi, quand, sur quel support et avec quels logiciels libres sauvegarder ses données.
+<h2 id="pourquoi">Pourquoi</h2>
+<p>Tes données peuvent disparaître à tout moment : fausse manip, disque en panne, vol, perte, virus, compte en ligne piraté ou fermé.</p>
+
+<h2 id="types">Trois façons de sauvegarder</h2>
+<ul>
+<li><strong>Copie simple</strong> : tu recopies tes fichiers. Nomme le dossier avec le contenu et la date.</li>
+<li><strong>Synchronisation</strong> : la destination est le miroir exact de la source. Pas d'anciennes versions.</li>
+<li><strong>Incrémentale</strong> : seuls les fichiers modifiés sont copiés à chaque fois ; tu peux revenir à l'état d'une date donnée.</li>
+</ul>
+
+<h2 id="quoi">Quoi sauvegarder</h2>
+<ul>
+<li>Ton <strong>dossier personnel</strong> (et ta partition de données s'il y en a une).</li>
+<li>Le profil de ton navigateur (favoris, mots de passe), celui de Thunderbird si tes mails sont en local, ta base KeePass.</li>
+<li>Les contacts du téléphone.</li>
+</ul>
+
+<h2 id="quand">Quand</h2>
+<ul>
+<li>Selon ce que tu produis : après une grosse séance de travail, sauvegarde tout de suite.</li>
+<li>Combine des sauvegardes complètes espacées et des partielles fréquentes.</li>
+<li>Une sauvegarde programmée ne marche que si l'ordi est allumé et le disque branché.</li>
+</ul>
+
+<h2 id="support">Sur quoi</h2>
+<ul>
+<li><strong>Calcule le volume</strong> : clic droit sur le dossier → Propriétés. Une heure de vidéo Full HD ≈ 4,5 Go ; un texte, presque rien.</li>
+<li><strong>Disque externe</strong> USB 3.0 : un disque interne dans un boîtier USB coûte moins cher qu'un disque externe tout fait.</li>
+<li><strong>En ligne</strong> : évite Dropbox et les GAFAM. Un Nextcloud chez un hébergeur éthique (Murena, Zaclys, un CHATON).</li>
+<li><strong>Règle d'or</strong> : une copie <strong>hors de chez toi</strong> (incendie, cambriolage), et chiffre les données sensibles.</li>
+</ul>
+
+<h2 id="logiciels">Avec quoi</h2>
+<div class="tbl"><table>
+<thead><tr><th>Type</th><th>Linux</th><th>Windows</th></tr></thead>
+<tbody>
+<tr><td>Copie simple</td><td>Outil de sauvegarde de Mint (mintbackup)</td><td>Copier-coller</td></tr>
+<tr><td>Synchronisation</td><td>luckyBackup, Syncthing</td><td>Create Synchronicity</td></tr>
+<tr><td>Incrémentale</td><td>Déjà Dup, BorgBackup</td><td>—</td></tr>
+<tr><td>Comparer des dossiers</td><td>Meld</td><td>Meld, WinMerge</td></tr>
+<tr><td>Système</td><td>Timeshift</td><td>Points de restauration</td></tr>
+</tbody></table></div>
+<p>Les logiciels livrés sur les disques externes ne sont pas libres : ignore-les.</p>
+<div class="note"><p>Si ton ordinateur essaie de démarrer sur le disque de sauvegarde, débranche-le avant l'allumage ou mets le disque interne en premier dans le BIOS.</p></div>
+
+=== choisir-un-service | Logiciels | Choisir une application ou un service | Les critères pour trier les outils numériques : à fuir, à éviter, à privilégier.
+<p>Choisir un service n'est jamais neutre : les pratiques des entreprises qui le fabriquent pèsent sur toi, ton entourage et la société.</p>
+
+<h2 id="fuir">1. À fuir : les GAFAM</h2>
+<p>Google, Amazon, Facebook/Meta, Apple, Microsoft, et d'autres comme Yahoo ou Dropbox. Une poignée d'oligopoles qui exploitent et revendent les données, surveillent les usages, diffusent de la pub ciblée et orientent ce qu'on voit.</p>
+
+<h2 id="eviter">2. À éviter : le « gratuit » financé par la pub</h2>
+<p>Si c'est gratuit grâce à la pub ciblée, tes données paient. Ce modèle pousse aussi à consommer plus. Il existe presque toujours une alternative libre, gratuite grâce aux dons, peu chère ou à prix libre.</p>
+
+<h2 id="privilegier">3. À privilégier</h2>
+<ul>
+<li><strong>Logiciel libre</strong> : code ouvert, vérifiable, modifiable, partageable.</li>
+<li><strong>Décentralisé</strong> : fédéré entre serveurs indépendants, ou de pair à pair.</li>
+<li><strong>Protection des données</strong> : transfert et stockage sécurisés, chiffrement.</li>
+<li><strong>Éthique et solidaire</strong> : fonctionnement transparent, projet social.</li>
+</ul>
+
+<h2 id="equivalences">Équivalences courantes</h2>
+<div class="tbl"><table>
+<thead><tr><th>Au lieu de</th><th>Utilise</th></tr></thead>
+<tbody>
+<tr><td>Chrome, Edge</td><td>Firefox</td></tr>
+<tr><td>Google Search</td><td>DuckDuckGo, Qwant, Searx</td></tr>
+<tr><td>Gmail, Outlook</td><td>Hébergeur éthique — voir <a href="hebergement-email.html">le guide</a></td></tr>
+<tr><td>WhatsApp, Messenger</td><td>Signal</td></tr>
+<tr><td>Google Drive, Dropbox</td><td>Nextcloud, Syncthing</td></tr>
+<tr><td>Google Docs</td><td>CryptPad, LibreOffice</td></tr>
+<tr><td>Zoom, Teams</td><td>Jitsi Meet, BigBlueButton</td></tr>
+<tr><td>Google Maps</td><td>OpenStreetMap, OsmAnd</td></tr>
+<tr><td>YouTube</td><td>PeerTube, FreeTube, NewPipe</td></tr>
+<tr><td>Facebook, X</td><td>Mastodon, Mobilizon</td></tr>
+<tr><td>Windows, macOS</td><td>Linux Mint</td></tr>
+</tbody></table></div>
+
+<h2 id="soutenir">4. Soutenir</h2>
+<p>Quand tu utilises un service libre, gratuit et sans pub, fais un don : c'est ce qui le fait vivre.</p>
+
+=== ressources-associations | Logiciels | Outils libres pour les associations | Gestion, compta, dons, travail collaboratif, communication et hébergement pour les assos, collectifs et petites structures.
+<p>Objectif : garder la main sur tes données et ne dépendre d'aucun éditeur. L'idéal est l'auto-hébergement, si quelqu'un dans le collectif peut l'administrer.</p>
+
+<h2 id="accompagnement">Se faire accompagner</h2>
+<ul>
+<li>Le guide de l'April pour les associations, le projet <strong>Emancip'Asso</strong> et ses webinaires, les fiches des <strong>CHATONS</strong>.</li>
+<li>Les prestataires d'Emancip'Asso, les CEMÉA, La Mouette (bureautique libre).</li>
+<li>À éviter : les programmes Solidatech et TechSoup, liés aux géants américains.</li>
+</ul>
+
+<h2 id="gestion">Adhérent·es et comptabilité</h2>
+<div class="tbl"><table>
+<thead><tr><th>Besoin</th><th>Outil</th></tr></thead>
+<tbody>
+<tr><td>Compta simple, en local</td><td>Grisbi ; GnuCash pour la partie double</td></tr>
+<tr><td>Gestion complète en ligne</td><td>Paheko (membres, cotisations, compta, bénévolat)</td></tr>
+<tr><td>Facturation, stocks</td><td>Diacamma</td></tr>
+<tr><td>Fichier d'adhérent·es</td><td>Galette (auto-hébergé)</td></tr>
+<tr><td>Suivi du bénévolat</td><td>Bénévalibre</td></tr>
+<tr><td>AMAP / SEL / monnaie locale</td><td>AmapJ / Hamlets / Lokavaluto</td></tr>
+<tr><td>Grosse structure</td><td>Dolibarr, Odoo</td></tr>
+</tbody></table></div>
+
+<h2 id="dons">Dons et paiements</h2>
+<ul>
+<li>Liberapay et Open Collective (frais Stripe ≈ 1,5 % + 0,25 € par paiement).</li>
+<li>Paiement via la banque de l'asso, avec reçus fiscaux.</li>
+<li>HelloAsso : commissions « suggérées » aux donateur·ices et données chez Microsoft ; si tu l'utilises, explique qu'on peut mettre la contribution à zéro.</li>
+</ul>
+
+<h2 id="collaboratif">Travailler ensemble</h2>
+<ul>
+<li><strong>Rendez-vous</strong> : Framadate. <strong>Décisions</strong> : Loomio. <strong>Tâches</strong> : un kanban type Kanboard.</li>
+<li><strong>Textes et tableurs à plusieurs</strong>, sans compte : Etherpad, Ethercalc, CryptPad (chiffré).</li>
+<li><strong>Fichiers</strong> : Nextcloud, avec Collabora ou OnlyOffice pour éditer en ligne.</li>
+<li><strong>Discussion d'équipe</strong> : Mattermost, Rocket.Chat, Matrix, ou un groupe Signal.</li>
+<li><strong>Listes de diffusion</strong> : Sympa.</li>
+<li><strong>Visio</strong> : Jitsi Meet, BigBlueButton.</li>
+</ul>
+
+<h2 id="communication">Communiquer dehors</h2>
+<ul>
+<li><strong>Mail</strong> avec ton nom de domaine, chez un hébergeur éthique.</li>
+<li><strong>Site web</strong> chez un hébergeur associatif ; <strong>vidéos</strong> sur PeerTube.</li>
+<li><strong>Événements</strong> : Mobilizon. <strong>Boutique</strong> : WooCommerce ou PrestaShop.</li>
+</ul>
+
+<h2 id="hebergement">Offres clés en main</h2>
+<div class="tbl"><table>
+<thead><tr><th>Offre</th><th>Prix indicatif</th></tr></thead>
+<tbody>
+<tr><td>Framaspace</td><td>Gratuit, réservé aux collectifs militants (40 Go, 50 membres)</td></tr>
+<tr><td>Ouvaton</td><td>dès ≈ 42 €/an, 10 Go</td></tr>
+<tr><td>Liiibre (IndieHosters)</td><td>dès ≈ 96 €/an</td></tr>
+<tr><td>Zourit</td><td>dès ≈ 130 €/an, 50 Go</td></tr>
+</tbody></table></div>
+
+=== flux-rss | Logiciels | Suivre des sites par flux RSS | S'abonner à des sites et recevoir les nouveaux articles sans réseau social ni algorithme.
+<h2 id="principe">Le principe</h2>
+<p>Un flux (RSS, Atom) permet de <strong>s'abonner à un site</strong> : chaque nouvel article arrive tout seul dans ton lecteur, sans retourner sur le site et sans algorithme qui trie à ta place. Pour l'audio et la vidéo, on parle de podcast.</p>
+<p>Il faut deux choses : le <strong>lien du flux</strong>, fourni par le site, et un <strong>lecteur de flux</strong> (agrégateur).</p>
+
+<h2 id="trouver">Trouver le lien</h2>
+<ul>
+<li>Cherche une icône orange ou un bouton « S'abonner », « RSS », « Flux ».</li>
+<li>Le lien se termine souvent par <code>/feed</code>, <code>rss</code>, <code>atom</code> ou <code>.xml</code>.</li>
+<li>Un site sans flux ? L'extension Firefox <strong>Update Scanner</strong> surveille une page et te prévient quand elle change.</li>
+</ul>
+
+<h2 id="etapes">S'abonner</h2>
+<ol>
+<li>Copie le lien du flux.</li>
+<li>Colle-le dans ton lecteur (« Ajouter un flux »).</li>
+<li>Les nouveaux articles apparaissent comme des messages ou des notifications.</li>
+</ol>
+
+<h2 id="lecteurs">Quel lecteur</h2>
+<div class="tbl"><table>
+<thead><tr><th>Où</th><th>Lecteur</th><th>Pour qui</th></tr></thead>
+<tbody>
+<tr><td>Ordinateur</td><td><strong>Thunderbird</strong> (dossier « Blogs et nouvelles »)</td><td>Le plus simple si tu l'utilises déjà pour tes mails</td></tr>
+<tr><td>Ordinateur (Linux)</td><td>Liferea, Akregator</td><td>Lecteur dédié</td></tr>
+<tr><td>Android</td><td>Applications libres sur F-Droid (Feeder, Read You…)</td><td>Sur le téléphone</td></tr>
+<tr><td>Navigateur</td><td>Extension Firefox</td><td>Vérifie où sont stockés tes abonnements</td></tr>
+<tr><td>Partout</td><td>Nextcloud News</td><td>Si tu as un compte Nextcloud</td></tr>
+</tbody></table></div>
+<p>Les agrégateurs en ligne sont pratiques, mais l'hébergeur connaît alors tous tes abonnements.</p>

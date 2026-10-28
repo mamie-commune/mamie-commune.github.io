@@ -1,0 +1,13 @@
+# Le film est trop lourd pour GitHub (limite de 100 Mo par fichier) : il va sur PeerTube.
+videos/*.mp4
+
+# Pages intermédiaires régénérées à chaque build, utiles seulement pour fabriquer les PDF.
+_src/textes/print/
+
+# Dossier de sortie de la publication automatique.
+_site/
+
+# Fichiers système
+Thumbs.db
+desktop.ini
+.DS_Store

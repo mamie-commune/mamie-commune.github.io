@@ -1,0 +1,135 @@
+=== aux-resignes | Individu & morale | Aux résignés | Albert Libertad · 1905 | La résignation soutient l'ordre établi mieux que la police : un cri pour vivre pleinement, ici et maintenant.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en avril 1905 dans le premier numéro de <em>L'Anarchie</em>, le journal que Libertad vient de fonder.</p>
+<h2 id="these">La thèse</h2>
+<p>Libertad hait la résignation plus que la servitude : c'est elle qui maintient l'État, les Églises, le capital et la famille. La révolte est la vie ; la passivité, la mort.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Ceux qui se soumettent par peur ou par habitude font tenir le système.</li>
+<li>Ne pas sacrifier le présent au paradis ou à la retraite.</li>
+<li>Une vie complète : plaisirs du corps, amour libre, art et culture.</li>
+<li>Un travail joyeux et utile, et le droit de profiter de ce qu'on produit.</li>
+<li>Religions, patrie, drapeaux et argent n'ont de force que par l'obéissance.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Résignation = mort, révolte = vie.</li><li>Le présent avant les promesses.</li><li>Un texte-manifeste, plus cri que programme.</li></ul>
+
+=== betail-patriotique | État & pouvoir | Le Bétail patriotique | Albert Libertad · 1905 | La caserne ne défend pas la nation : elle broie la volonté pour fabriquer des sujets dociles, puis des électeurs obéissants.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1905 dans <em>L'Anarchie</em>, en pleine campagne antimilitariste, quand le service militaire touche presque toute la jeunesse masculine.</p>
+<h2 id="these">La thèse</h2>
+<p>L'armée se retourne contre chaque individu et sa capacité de vouloir. Elle canalise les forces humaines au profit d'une minorité et prépare à l'obéissance électorale.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Un monologue adressé au conscrit, ajusté de force à un moule.</li>
+<li>L'obéissance aux galons remplace la réflexion ; la patrie devient une idole.</li>
+<li>Tenue, horaires, lectures, fréquentations, sexualité : tout est réglé.</li>
+<li>Au moment où la révolte pourrait naître, la caserne l'étouffe.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Soumettre plutôt que défendre.</li><li>La discipline tue l'autonomie.</li><li>Pendant de <a href="criminel-electeur.html">Le criminel, c'est l'électeur</a>.</li></ul>
+
+=== la-joie-de-vivre | Individu & morale | La Joie de vivre | Albert Libertad · 1907 | À des camarades épuisés et tentés par la mort : la vie se suffit à elle-même, il faut combattre ce qui l'étouffe, pas la quitter.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en avril 1907 dans <em>L'Anarchie</em>, en réponse à des militants épuisés par les luttes, dont certains envisagent le suicide.</p>
+<h2 id="these">La thèse</h2>
+<p>La vie n'a besoin ni de but ni de justification. Renoncer, totalement ou peu à peu, c'est avouer son impuissance face au milieu. Il faut transformer les conditions qui oppriment.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>On se suicide un peu chaque jour : travail épuisant, logement insalubre, obéissance.</li>
+<li>Les discours moraux et religieux sur le devoir ne valent rien ici.</li>
+<li>Choisir de mourir, c'est accepter sa défaite d'avance.</li>
+<li>La vie est plaisir : les sens, l'amour, la pensée.</li>
+<li>Désirer vivre davantage, et unir les volontés.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Refuser le renoncement quotidien.</li><li>La vie a une valeur propre.</li><li>L'action collective plutôt que la fuite.</li></ul>
+
+=== la-douleur-universelle | Individu & morale | La Douleur universelle | Sébastien Faure · 1895 | Ouvriers, employés, paysans, et même les riches : tout le monde souffre d'un manque de liberté autant que de richesse.
+<h2 id="contexte">Contexte</h2>
+<p>Publié en 1895, en pleine répression des anarchistes. Faure veut toucher un large public à partir de ce qu'il a vu de la misère dans tous les milieux.</p>
+<h2 id="these">La thèse</h2>
+<p>Le mal social ne vient pas seulement de la répartition des richesses, mais de celle de la liberté. Une société juste permet à chacun·e de satisfaire librement ses besoins physiques, intellectuels et moraux.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Méfiance envers les grands mots (justice, république, égalité) qui masquent les inégalités.</li>
+<li>Le problème : un milieu qui assure à chacun le bonheur.</li>
+<li>La souffrance des ouvriers, employés, petits commerçants, paysans endettés.</li>
+<li>Les privilégiés eux-mêmes ne sont pas heureux.</li>
+<li>Critique de la propriété, de la concentration du capital et de l'autorité.</li>
+<li>Égoïsme et altruisme se rejoignent.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Le bonheur se mesure à la liberté réelle.</li><li>Misère matérielle et morale liées.</li><li>Le grand livre de Faure.</li></ul>
+
+=== les-anarchistes-faure | État & pouvoir | Les Anarchistes : ce qu'ils sont, ce qu'ils ne sont pas | Sébastien Faure · 1920 | Ni rêveurs inoffensifs ni brutes : les anarchistes combattent ensemble l'État, la propriété et la religion.
+<h2 id="contexte">Contexte</h2>
+<p>Brochure de 1920, en réponse aux caricatures de la presse qui fait des anarchistes des bandits ou des illuminés.</p>
+<h2 id="these">La thèse</h2>
+<p>L'anarchisme, c'est le refus de toute autorité. Elle a trois visages qui se soutiennent : l'État (sur les personnes), la propriété (sur les biens), la religion (sur les consciences). Il faut les abattre ensemble.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Ni rêveurs inoffensifs, ni brutes violentes.</li>
+<li>Des gens avides d'apprendre ; leur violence répond à celle de la société.</li>
+<li>Leurs haines naissent de leur amour de la liberté, de la justice et de la paix.</li>
+<li>Trois autorités liées.</li>
+<li>Refuser d'obéir en voulant commander est une contradiction.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Ni commander ni être commandé.</li><li>État, propriété, religion : une même critique.</li><li>Une bonne brochure d'introduction.</li></ul>
+
+=== la-colonisation | Histoire & luttes | La Colonisation | Jean Grave · 1912 | Un vol puni chez un particulier devient honorable quand un État le commet : la colonisation comme pillage organisé.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1912 dans <em>Les Temps nouveaux</em>, au moment où l'Italie envahit la Tripolitaine (Libye) et où la France s'installe au Maroc.</p>
+<h2 id="these">La thèse</h2>
+<p>La colonisation est un vol à grande échelle, maquillé en mission civilisatrice. Elle sert à écouler des marchandises, placer des capitaux et caser des fonctionnaires. Les peuples colonisés ne sont pas « arriérés » : ils sont détruits.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Un double standard moral entre individu et État.</li>
+<li>Les vrais motifs : débouchés, capitaux, main-d'œuvre, postes.</li>
+<li>La brutalité ordinaire de l'armée et de l'administration coloniales.</li>
+<li>La discipline militaire rend les travailleurs complices de leur propre domination.</li>
+<li>Bilan : dépopulation, maladies, alcool, misère.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Un pillage habillé de morale.</li><li>La finance au cœur de l'entreprise coloniale.</li><li>À lire avec <a href="barbarie-francaise.html">Barbarie française</a>.</li></ul>
+
+=== fetichisme-de-la-loi | État & pouvoir | Le Fétichisme de la loi | Jean Grave · 1895 | La loi exprime les intérêts de ceux qui ont le pouvoir ; dès qu'on la discute, elle ne tient plus que par la force.
+<h2 id="contexte">Contexte</h2>
+<p>Paru en 1895 dans <em>Les Temps nouveaux</em>, en réponse au <em>Figaro</em>, qui admettait l'existence de lois injustes tout en refusant la révolte.</p>
+<h2 id="these">La thèse</h2>
+<p>La loi est arbitraire. Exiger qu'on s'y soumette sans discuter est un acte de foi ; la moindre critique menace son autorité.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Les légalistes jugent les lois selon qu'elles gênent leurs amis ou leurs adversaires.</li>
+<li>Chaque parti dénonce les lois qui l'oppriment, puis les applique au pouvoir.</li>
+<li>L'autorité divine a été remplacée par une « volonté nationale » au service de la bourgeoisie.</li>
+<li>La discussion a sapé le respect ; ne reste que la force.</li>
+<li>Pour un légaliste, contester une loi, c'est déjà se révolter.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>La loi se dit neutre, elle sert des privilèges.</li><li>Discuter, c'est déjà fissurer.</li><li>À lire avec <a href="la-loi-et-l-autorite.html">Kropotkine</a>.</li></ul>
+
+=== legislation-directe | État & pouvoir | La Législation directe et universelle | Joseph Déjacque · 1857 | Que le peuple vote lui-même ses lois, révisables à tout moment, comme étape vers une liberté sans gouvernement.
+<h2 id="contexte">Contexte</h2>
+<p>Texte de 1857, écrit en exil après 1848 et le coup d'État de 1851. Déjacque cherche comment agir avec une population encore habituée à obéir.</p>
+<h2 id="these">La thèse</h2>
+<p>Toute délégation est une abdication. Le peuple doit voter directement les lois, à titre provisoire, sur le chemin de l'anarchie.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Voter soi-même les lois éduque à se gouverner.</li>
+<li>Toute loi peut être annulée le lendemain.</li>
+<li>Les fonctions publiques confiées à des associations révocables.</li>
+<li>Justice gratuite par arbitres choisis ; ni police ni armée, mais le peuple armé.</li>
+<li>Enseignement libre, fin des prisons et de la peine de mort.</li>
+<li>Exemple : une expropriation progressive de la propriété privée.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Pas de représentation.</li><li>Un projet transitoire vers l'abolition du gouvernement.</li><li>Comparer avec la critique de <a href="gouvernement-representatif.html">Bakounine</a>.</li></ul>
+
+=== la-democratie-proudhon | État & pouvoir | La Démocratie | Pierre-Joseph Proudhon · 1848 | En 1848, Proudhon examine le suffrage universel : il ne fait pas parler le peuple, il en fabrique un symbole.
+<h2 id="contexte">Contexte</h2>
+<p>Extrait de <em>Solution du problème social</em>, publié en 1848, juste après la révolution de février, quand le gouvernement provisoire convoque une Assemblée élue au suffrage universel (masculin).</p>
+<h2 id="these">La thèse</h2>
+<p>La démocratie ne fait pas parler le peuple ; elle reproduit des privilèges, impose la loi d'une majorité et ne résout pas la question sociale. La vraie République passe par l'organisation du travail.</p>
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li>Le peuple, être collectif, n'a pas de voix : nul ne peut le représenter sans contestation.</li>
+<li>Le suffrage produit une aristocratie de notables, et exclut femmes, domestiques et bien des ouvriers.</li>
+<li>Une majorité d'une voix fait la loi pour tous.</li>
+<li>Sans mandat impératif, l'élu appartient au pouvoir, pas à ses électeurs.</li>
+<li>L'État démocratique coûterait plus cher sans résoudre la question sociale.</li>
+</ol>
+<h2 id="retenir">À retenir</h2><ul><li>Le vote ne suffit pas à fonder la légitimité.</li><li>La question sociale avant la question politique.</li><li>Prolongé dans <a href="idee-generale-de-la-revolution.html">Idée générale de la Révolution</a>.</li></ul>

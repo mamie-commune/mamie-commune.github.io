@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Lib&#233;rer (un peu) un ordinateur Windows &#183; Mamie Commune</title>
+<meta name="description" content="Sauvegarder, r&#233;initialiser, refuser la collecte, d&#233;sinstaller les logiciels inutiles et installer des logiciels libres.">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/fonts.css">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../index.html">Accueil</a><a href="../experiences/index.html">Révolutions</a><a href="../antifascisme/index.html">Antifascisme</a><a href="../bibliotheque/index.html">Bibliothèque</a><a href="../carte.html">Carte</a><a href="../videos.html">Vidéos</a><a href="../guides/index.html" aria-current="page">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Outils numériques</a><span>/</span><a href="index.html#migration">Migration</a></p>
+  <h1>Lib&#233;rer (un peu) un ordinateur Windows</h1>
+  <p class="lead">Sauvegarder, r&#233;initialiser, refuser la collecte, d&#233;sinstaller les logiciels inutiles et installer des logiciels libres.</p>
+  <div class="gmeta"><span>Migration</span><span>Guide · 2 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<div class="note"><p>Windows finit toujours par se dégrader. Ce guide limite les dégâts en attendant, mais la vraie solution reste <a href="installer-linux-mint.html">d'installer Linux</a>.</p></div>
+
+<h2 id="sauvegarde">1. Sauvegarder</h2>
+<ul>
+<li>Copie tes données sur un disque externe ou une grosse clé USB.</li>
+<li>Elles sont souvent éparpillées : passe par « Ce PC », regarde chaque partition, puis tout ton dossier utilisateur (Documents, Bureau, Téléchargements…).</li>
+<li>Supprime d'abord les fichiers d'installation <code>.exe</code> : lourds et inutiles.</li>
+<li>Vérifie <strong>OneDrive</strong> : des fichiers y ont peut-être été copiés sans que tu le saches.</li>
+<li>Installe Firefox et importe-y favoris et mots de passe.</li>
+<li>Messagerie : sauvegarde le profil Thunderbird, ou les contacts Outlook.</li>
+<li>Note ton code wifi.</li>
+</ul>
+
+<h2 id="reinitialiser">2. Réinitialiser (facultatif)</h2>
+<p>Tout effacer et réinstaller Windows depuis la partition de récupération. Sous Windows 10 : Paramètres → Mise à jour et sécurité → Récupération → Réinitialiser, en choisissant de tout supprimer. Compte 2 à 3 heures.</p>
+
+<h2 id="config">3. Premier démarrage</h2>
+<ul>
+<li><strong>Reste hors ligne</strong> pendant la configuration (câble débranché, wifi coupé). Sous Windows 11, il faut en plus une commande (<kbd>Maj</kbd>+<kbd>F10</kbd>) pour éviter le compte Microsoft obligatoire.</li>
+<li>Crée un <strong>compte local</strong>. Aux questions de sécurité, donne des réponses impossibles à deviner et note-les.</li>
+<li><strong>Refuse tout</strong> : historique d'activité, assistant, reconnaissance vocale en ligne, localisation, personnalisation, identifiant publicitaire. Diagnostics au minimum.</li>
+<li>Puis fais les mises à jour.</li>
+</ul>
+<p>Même ainsi, Windows continue d'envoyer des données à Microsoft.</p>
+
+<h2 id="menage">4. Faire le ménage</h2>
+<ul>
+<li><strong>Ne touche pas</strong> aux pilotes et logiciels du fabricant ou des composants (AMD, Intel, Realtek…).</li>
+<li><strong>Désinstalle</strong> : Cortana, Bing, Jeux, Office d'essai, OneDrive, OneNote, Skype, Teams, Xbox, et l'antivirus d'essai (Windows Defender suffit).</li>
+<li>Démarrer → Paramètres → Applications. Dans le menu Démarrer, clic droit sur chaque tuile inutile.</li>
+<li>Les mises à jour de Windows annulent parfois ces réglages : refais un tour de temps en temps.</li>
+</ul>
+
+<h2 id="explorateur">5. Régler l'explorateur</h2>
+<ul>
+<li>Vide « Accès rapide » : tout est accessible depuis « Ce PC ».</li>
+<li>Onglet Affichage : coche « Extensions de noms de fichiers ».</li>
+</ul>
+
+<h2 id="logiciels">6. Installer des logiciels libres</h2>
+<p>Télécharge-les toujours depuis leur site officiel.</p>
+<div class="tbl"><table>
+<thead><tr><th>Besoin</th><th>Logiciel libre</th></tr></thead>
+<tbody>
+<tr><td>Navigateur</td><td>Firefox</td></tr>
+<tr><td>Bureautique</td><td>LibreOffice — voir <a href="libreoffice.html">le guide</a></td></tr>
+<tr><td>PDF</td><td>SumatraPDF</td></tr>
+<tr><td>Vidéo et musique</td><td>VLC</td></tr>
+<tr><td>Mails (plusieurs comptes)</td><td>Thunderbird</td></tr>
+<tr><td>Sauvegarde synchronisée</td><td>Create Synchronicity</td></tr>
+<tr><td>Dépannage à distance</td><td>DWAgent</td></tr>
+</tbody></table></div>
+<p>Les versions « S » de Windows n'acceptent que le Microsoft Store : il faut d'abord les débrider.</p>
+<p class="credit">Guide rédigé par Mamie Commune d'après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="pourquoi-changer.html"><small>← Précédent</small><b>Pourquoi changer ses habitudes ?</b></a><a href="acheter-un-ordinateur.html"><small>Suivant →</small><b>Acheter un ordinateur avec Linux</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#sauvegarde">1. Sauvegarder</a></li><li><a href="#reinitialiser">2. Réinitialiser (facultatif)</a></li><li><a href="#config">3. Premier démarrage</a></li><li><a href="#menage">4. Faire le ménage</a></li><li><a href="#explorateur">5. Régler l'explorateur</a></li><li><a href="#logiciels">6. Installer des logiciels libres</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="../experiences/index.html">Révolutions</a>
+      <a href="../antifascisme/index.html">Antifascisme</a>
+      <a href="../bibliotheque/index.html">Bibliothèque</a>
+      <a href="../carte.html">Carte</a>
+      <a href="../videos.html">Vidéos</a>
+      <a href="../guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="../experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="../experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="../bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="../bibliotheque/au-cafe.html">Au café</a>
+      <a href="../guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="../partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js"></script>
+
+</body>
+</html>

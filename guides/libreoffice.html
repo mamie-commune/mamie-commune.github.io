@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Installer et r&#233;gler LibreOffice &#183; Mamie Commune</title>
+<meta name="description" content="La suite bureautique libre : installation par syst&#232;me, r&#233;glages conseill&#233;s, formats, polices et extensions.">
+<link rel="icon" href="../assets/logo.svg" type="image/svg+xml">
+<link rel="stylesheet" href="../assets/fonts.css">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../index.html" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../index.html">Accueil</a><a href="../experiences/index.html">Révolutions</a><a href="../antifascisme/index.html">Antifascisme</a><a href="../bibliotheque/index.html">Bibliothèque</a><a href="../carte.html">Carte</a><a href="../videos.html">Vidéos</a><a href="../guides/index.html" aria-current="page">Outils numériques</a></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Outils numériques</a><span>/</span><a href="index.html#logiciels">Logiciels</a></p>
+  <h1>Installer et r&#233;gler LibreOffice</h1>
+  <p class="lead">La suite bureautique libre : installation par syst&#232;me, r&#233;glages conseill&#233;s, formats, polices et extensions.</p>
+  <div class="gmeta"><span>Logiciels</span><span>Guide · 2 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<h2 id="quoi">LibreOffice en bref</h2>
+<p>Suite bureautique libre et gratuite : <strong>Writer</strong> (texte), <strong>Calc</strong> (tableur), <strong>Impress</strong> (présentations), <strong>Draw</strong> (dessin), <strong>Math</strong> (formules) et <strong>Base</strong> (bases de données). Elle tourne sous Linux, Windows et macOS et exporte en PDF. Elle remplace OpenOffice, qui n'est plus maintenu : désinstalle-le.</p>
+
+<h2 id="installer">Installer</h2>
+<h3>Linux</h3>
+<p>Déjà installé dans Linux Mint. Sinon : Logithèque → LibreOffice.</p>
+<h3>Windows et macOS</h3>
+<ol>
+<li>Désinstalle toute ancienne version (LibreOffice ou OpenOffice).</li>
+<li>Télécharge la version pour ton système sur le site officiel francophone, et si tu veux l'aide hors ligne.</li>
+<li>Lance l'installation en administrateur : français, anglais et espagnol sont inclus.</li>
+<li>Sous macOS, si l'interface reste en anglais, installe le pack de langue française.</li>
+</ol>
+
+<h2 id="windows">Ouvrir les fichiers Office avec LibreOffice (Windows)</h2>
+<ul>
+<li>Désinstalle l'Office d'essai préinstallé.</li>
+<li>Paramètres → Applications par défaut → LibreOffice : associe doc, docx, xls, xlsx, ppt, pptx et les formats OpenDocument (odt, ods, odp).</li>
+<li>Attention : « définir par défaut pour tout » associe aussi images et pages web. Rends-les à ta visionneuse et à ton navigateur.</li>
+</ul>
+
+<h2 id="reglages">Réglages conseillés</h2>
+<ul>
+<li><strong>Format par défaut</strong> : Outils → Options → Chargement/enregistrement → OpenDocument.</li>
+<li><strong>Autocorrection</strong> (Writer) : décoche tout sauf la reconnaissance des URL.</li>
+<li><strong>Règle verticale</strong> : Affichage → Règles.</li>
+<li><strong>Icônes</strong> : Options → Affichage, choisis un style et affiche les icônes dans les menus.</li>
+<li><strong>Dictionnaire perso</strong> pour tes noms propres, dans les options linguistiques.</li>
+<li><strong>Modèle par défaut</strong> : règle un document, enregistre-le comme modèle et coche « modèle par défaut ».</li>
+</ul>
+
+<h2 id="formats">Formats et polices</h2>
+<ul>
+<li>Préfère <strong>OpenDocument</strong> (odt, ods, odp), lisible par Office récent.</li>
+<li>Pour convertir de vieux fichiers en masse : Fichier → Assistants → Convertisseur de documents.</li>
+<li>Polices libres compatibles : <strong>Liberation Serif</strong> (= Times), <strong>Liberation Sans</strong> (= Arial), <strong>Liberation Mono</strong> (= Courier).</li>
+<li>Sous Linux, un double-clic sur un fichier <code>.ttf</code> installe une police.</li>
+</ul>
+
+<h2 id="profil">Sauvegarder ta configuration</h2>
+<p>Réglages et dictionnaires sont dans le profil utilisateur : <code>~/.config/libreoffice</code> sous Linux, dans AppData sous Windows. Copie-le pour retrouver ta config ailleurs.</p>
+
+<h2 id="extensions">Extensions</h2>
+<p>Outils → Gestionnaire des extensions. Indispensable en français : <strong>Grammalecte</strong>, correcteur grammatical et typographique.</p>
+
+<h2 id="astuces">Astuces</h2>
+<ul>
+<li>Retour à la ligne dans une cellule Calc : <kbd>Ctrl</kbd>+<kbd>Entrée</kbd>.</li>
+<li>Palette « Couleurs du document » pour garder des couleurs cohérentes.</li>
+<li>Apprends les <strong>styles</strong> : c'est le plus gros gain de temps dans Writer.</li>
+</ul>
+<p class="credit">Guide rédigé par Mamie Commune d'après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="blokada.html"><small>← Précédent</small><b>Blokada : bloquer pub et traqueurs sur Android</b></a><a href="sauvegardes.html"><small>Suivant →</small><b>Faire des sauvegardes</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#quoi">LibreOffice en bref</a></li><li><a href="#installer">Installer</a></li><li><a href="#windows">Ouvrir les fichiers Office avec LibreOffice (Windows)</a></li><li><a href="#reglages">Réglages conseillés</a></li><li><a href="#formats">Formats et polices</a></li><li><a href="#profil">Sauvegarder ta configuration</a></li><li><a href="#extensions">Extensions</a></li><li><a href="#astuces">Astuces</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître, ni GAFAM.</p>
+    </div>
+    <nav aria-label="Rubriques">
+      <h4>Rubriques</h4>
+      <a href="../experiences/index.html">Révolutions</a>
+      <a href="../antifascisme/index.html">Antifascisme</a>
+      <a href="../bibliotheque/index.html">Bibliothèque</a>
+      <a href="../carte.html">Carte</a>
+      <a href="../videos.html">Vidéos</a>
+      <a href="../guides/index.html">Outils numériques</a>
+    </nav>
+    <nav aria-label="Révolutions">
+      <h4>Révolutions</h4>
+      <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>
+      <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>
+      <a href="../experiences/zapatistes-histoire.html">Zapatistes</a>
+      <a href="../experiences/rojava-histoire.html">Rojava</a>
+    </nav>
+    <nav aria-label="Pour commencer">
+      <h4>Pour commencer</h4>
+      <a href="../bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
+      <a href="../bibliotheque/au-cafe.html">Au café</a>
+      <a href="../guides/installer-linux-mint.html">Passer à Linux Mint</a>
+      <a href="../partage.html">Partager ses données</a>
+    </nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales.html">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js"></script>
+
+</body>
+</html>

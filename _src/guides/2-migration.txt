@@ -1,0 +1,318 @@
+=== pourquoi-le-libre | Migration | Pourquoi passer au libre ? | Sécurité, économies, durée de vie des machines, vie privée et pouvoir collectif : les raisons de changer.
+<p>Changer d'outils demande un effort. Autant savoir pourquoi on le fait : de meilleurs outils, et moins d'ennuis au quotidien.</p>
+
+<h2 id="securite">Sécurité des machines et des données</h2>
+<ul>
+<li>GNU/Linux est bien moins visé par les virus que Windows ou macOS.</li>
+<li>Les logiciels s'installent depuis des dépôts officiels vérifiés, et les correctifs arrivent vite.</li>
+<li>Un logiciel libre n'a pas de code caché : pas de pub, pas d'espionnage, rien dans ton dos.</li>
+<li>Les formats ouverts (OpenDocument) restent lisibles dans des années, même si l'éditeur disparaît.</li>
+<li>Les DRM limitent ce que tu peux faire de tes musiques, films et livres. Préfère les fichiers sans DRM.</li>
+</ul>
+
+<h2 id="economies">Économies et écologie</h2>
+<ul>
+<li>Windows et macOS ne sont pas gratuits : leur prix est caché dans celui de la machine.</li>
+<li>Les logiciels propriétaires poussent à racheter des versions. Les logiciels libres sont presque toujours gratuits ; on les soutient par des dons.</li>
+<li>GNU/Linux fait tourner des ordinateurs anciens : moins de déchets électroniques.</li>
+</ul>
+
+<h2 id="usage">Ergonomie et fiabilité</h2>
+<ul>
+<li>Un logiciel libre est fait pour celles et ceux qui l'utilisent, et chacun·e peut participer.</li>
+<li>Interfaces claires et réglables. La logithèque installe tout en un clic, mises à jour comprises.</li>
+<li>Le système reste stable dans le temps, sans réinstallation régulière.</li>
+<li>Une communauté accueillante aide les débutant·es ; des entreprises proposent aussi un accompagnement payant.</li>
+<li>Peu gourmand : bureautique, vidéo, mail et web ne demandent pas de changer de matériel.</li>
+</ul>
+
+<h2 id="vie-privee">Vie privée et neutralité</h2>
+<p>Les services non libres récoltent ton historique, tes contacts, parfois tes mots de passe, pour la pub, l'argent ou la politique. Les moteurs de recherche et réseaux sociaux trient ce que tu vois et t'enferment dans une bulle. Les logiciels libres et les services éthiques ne fonctionnent pas comme ça.</p>
+
+<h2 id="collectif">Une démarche collective</h2>
+<p>Quelques géants, américains et chinois, concentrent aujourd'hui l'informatique et le pouvoir qui va avec. Le libre propose un modèle ouvert, divers et égalitaire. La liberté de chacun·e dépend de celle des autres : passer au libre, c'est aussi entraîner son entourage.</p>
+
+<h2 id="commencer">Par où commencer</h2>
+<ul>
+<li><a href="stop-gafam.html">Éviter la pub, le traçage et les GAFAM</a></li>
+<li><a href="choisir-un-service.html">Choisir une application ou un service</a></li>
+<li><a href="installer-linux-mint.html">Installer Linux Mint</a></li>
+</ul>
+
+=== linux-pour-debutants | Migration | Linux est adapté aux débutants | Données rangées au même endroit, pas de distraction, une logithèque, un système qui dure : pourquoi Linux est simple.
+<p>GNU/Linux a longtemps été réservé aux informaticien·nes. Ce n'est plus le cas : c'est aujourd'hui l'un des systèmes les plus simples. Pour commencer, on conseille <strong>Linux Mint Cinnamon</strong>, dont l'interface ressemble à Windows en plus épuré.</p>
+
+<h2 id="donnees">Tes données au même endroit</h2>
+<p>Sous Windows, tes fichiers sont éparpillés (plusieurs disques, OneDrive, bibliothèques…). Sous Linux, tout est dans ton <strong>dossier personnel</strong> : la sauvegarde devient simple.</p>
+
+<h2 id="calme">Une interface sans distraction</h2>
+<p>Pas de fenêtres surgissantes, pas de suggestions publicitaires. Tous les réglages sont dans un seul centre de contrôle, rien n'est caché.</p>
+
+<h2 id="logitheque">Installer des applications</h2>
+<p>La plupart des logiciels sont dans un magasin unique, la <strong>Logithèque</strong>. Plus besoin de télécharger des programmes sur des sites douteux. Le gestionnaire de mises à jour s'occupe aussi des applications.</p>
+
+<h2 id="duree">Rapide et durable</h2>
+<ul>
+<li>Moins gourmand que Windows, donc plus rapide, surtout sur les machines modestes.</li>
+<li>Mis à jour quasiment sans limite de durée : un ordinateur peut servir 15 à 20 ans.</li>
+<li>Le système ne se dégrade pas avec le temps, et les mises à jour ne bloquent pas le démarrage.</li>
+</ul>
+
+<h2 id="securite">Sûr et respectueux</h2>
+<ul>
+<li>Bien plus sûr que Windows, pas besoin d'antivirus pour un usage courant.</li>
+<li>Il ne collecte pas tes données. Tu choisis toi-même tes services en ligne.</li>
+</ul>
+
+<h2 id="comparaison">Et les autres ?</h2>
+<ul>
+<li><strong>ChromeOS</strong> : surtout une porte d'entrée vers les services Google, avec des mises à jour limitées dans le temps.</li>
+<li><strong>Windows</strong> : impose un compte Microsoft à l'activation.</li>
+<li><strong>macOS</strong> : bien fait, mais cher, fermé et critiqué pour l'obsolescence.</li>
+</ul>
+
+<h2 id="pour-qui">Pour qui ?</h2>
+<ul>
+<li><strong>Usage courant</strong> : GNU/Linux est le meilleur choix.</li>
+<li><strong>Jeux</strong> : Linux pour le quotidien, Windows à côté uniquement pour les jeux qui ne tournent pas sous Linux.</li>
+<li><strong>Pro</strong> : Linux pour les données, l'autre système seulement pour un logiciel métier précis.</li>
+</ul>
+<p>Linux progresse : il équiperait entre 4 et 6 % des ordinateurs en 2026.</p>
+
+=== deja-linux | Migration | Tu utilises déjà Linux sans le savoir | Box, téléphones, serveurs : Linux est partout. Pourquoi ça ne suffit pas, et pourquoi il reste minoritaire sur les PC.
+<h2 id="quoi">Linux, c'est quoi ?</h2>
+<p>Linux est le <strong>noyau</strong>, le cœur d'un système d'exploitation, c'est-à-dire l'ensemble des logiciels qui font tourner un appareil. Contrairement aux systèmes de Microsoft, Google ou Apple, il est libre. Les pros de l'informatique le préfèrent : plus sûr, plus stable, plus performant.</p>
+
+<h2 id="partout">Il est déjà partout</h2>
+<ul>
+<li>Une grande partie des serveurs d'internet.</li>
+<li>La plupart des smartphones et tablettes <strong>Android</strong> (mais Google y ajoute des couches non libres).</li>
+<li>Les Chromebook (même réserve).</li>
+<li>La plupart des <strong>box internet</strong>.</li>
+<li>Souvent les GPS, décodeurs TNT, téléviseurs.</li>
+</ul>
+
+<h2 id="pas-assez">Pourquoi ça ne suffit pas</h2>
+<p>Ces usages invisibles ne te rendent ni plus libre ni plus efficace. Les avantages arrivent quand tu utilises un système libre <strong>toi-même</strong>, sur ton ordinateur ou ton téléphone.</p>
+
+<h2 id="minoritaire">Pourquoi si peu de gens l'utilisent sur PC</h2>
+<ul>
+<li>Environ 4 à 5 % des internautes en France en 2025.</li>
+<li><strong>Vente liée</strong> : Windows est préinstallé et son prix inclus dans celui de la machine.</li>
+<li>Le grand public connaît mal Linux, ou en a une image fausse.</li>
+<li>Certains fabricants ne livrent des pilotes que pour Windows.</li>
+</ul>
+
+<h2 id="solutions">Des solutions existent</h2>
+<ul>
+<li>Des ordinateurs neufs livrés avec Linux : voir <a href="acheter-un-ordinateur.html">Acheter un ordinateur avec Linux</a>.</li>
+<li>Des téléphones sans Google, avec /e/OS : voir <a href="android.html">Libérer un Android</a>.</li>
+</ul>
+
+=== pourquoi-changer | Migration | Pourquoi changer ses habitudes ? | La collecte de données, ce qu'en font les entreprises, et comment avancer étape par étape.
+<h2 id="effort">Un effort qui freine</h2>
+<p>Changer d'outils prend du temps et de l'énergie. Beaucoup veulent juste que ça marche dès l'achat, sans imaginer qu'on peut remplacer ce qui est préinstallé, ni que des applications très populaires sont faites pour exploiter leurs utilisateur·ices plus que pour les servir.</p>
+
+<h2 id="partout">Le numérique est partout</h2>
+<p>Il transforme nos relations, nos comportements et la société. Difficile de le traiter comme un détail, ou de rester passif quand des alternatives existent.</p>
+
+<h2 id="invisible">Des effets invisibles mais réels</h2>
+<p>La collecte de données est discrète, et ses effets à long terme difficiles à mesurer. Comme pour la malbouffe ou le climat, on se dit que ce n'est pas si grave. Pourtant, plus on récolte d'informations, mieux on manipule les comportements.</p>
+
+<h2 id="usages">Ce que font les entreprises de tes données</h2>
+<ul>
+<li><strong>Pub ciblée</strong> selon tes centres d'intérêt.</li>
+<li><strong>Prix personnalisés</strong> selon ton historique.</li>
+<li><strong>Promotions calculées</strong> pour te faire acheter ce que tu n'avais pas prévu.</li>
+<li><strong>Résultats de recherche</strong> différents d'une personne à l'autre.</li>
+<li><strong>Notations</strong> par des banques, recruteurs ou assureurs à partir de tes traces.</li>
+</ul>
+
+<h2 id="subi">Un changement subi</h2>
+<p>Se savoir observé·e pousse à s'autocensurer. Nos opinions évoluent aussi sous l'influence de ce que les plateformes choisissent de nous montrer. Autant changer volontairement, pour garder son libre arbitre.</p>
+
+<h2 id="quoi-changer">Ce qu'on peut changer</h2>
+<ul>
+<li>Un navigateur et un moteur de recherche respectueux.</li>
+<li>Un bloqueur de pub et de pistage.</li>
+<li>Des logiciels libres à la place des applications préinstallées.</li>
+<li>Des messageries qui protègent les échanges.</li>
+<li>Un autre système d'exploitation.</li>
+<li>Convaincre ses proches, payer des services respectueux, soutenir des associations.</li>
+</ul>
+
+<h2 id="etapes">Avancer par étapes</h2>
+<p>Pas besoin de tout changer d'un coup. Commence par <a href="stop-gafam.html">Éviter la pub, le traçage et les GAFAM</a>, et trouve de l'entraide près de chez toi sur la <a href="../carte.html">carte</a>.</p>
+
+=== liberer-windows | Migration | Libérer (un peu) un ordinateur Windows | Sauvegarder, réinitialiser, refuser la collecte, désinstaller les logiciels inutiles et installer des logiciels libres.
+<div class="note"><p>Windows finit toujours par se dégrader. Ce guide limite les dégâts en attendant, mais la vraie solution reste <a href="installer-linux-mint.html">d'installer Linux</a>.</p></div>
+
+<h2 id="sauvegarde">1. Sauvegarder</h2>
+<ul>
+<li>Copie tes données sur un disque externe ou une grosse clé USB.</li>
+<li>Elles sont souvent éparpillées : passe par « Ce PC », regarde chaque partition, puis tout ton dossier utilisateur (Documents, Bureau, Téléchargements…).</li>
+<li>Supprime d'abord les fichiers d'installation <code>.exe</code> : lourds et inutiles.</li>
+<li>Vérifie <strong>OneDrive</strong> : des fichiers y ont peut-être été copiés sans que tu le saches.</li>
+<li>Installe Firefox et importe-y favoris et mots de passe.</li>
+<li>Messagerie : sauvegarde le profil Thunderbird, ou les contacts Outlook.</li>
+<li>Note ton code wifi.</li>
+</ul>
+
+<h2 id="reinitialiser">2. Réinitialiser (facultatif)</h2>
+<p>Tout effacer et réinstaller Windows depuis la partition de récupération. Sous Windows 10 : Paramètres → Mise à jour et sécurité → Récupération → Réinitialiser, en choisissant de tout supprimer. Compte 2 à 3 heures.</p>
+
+<h2 id="config">3. Premier démarrage</h2>
+<ul>
+<li><strong>Reste hors ligne</strong> pendant la configuration (câble débranché, wifi coupé). Sous Windows 11, il faut en plus une commande (<kbd>Maj</kbd>+<kbd>F10</kbd>) pour éviter le compte Microsoft obligatoire.</li>
+<li>Crée un <strong>compte local</strong>. Aux questions de sécurité, donne des réponses impossibles à deviner et note-les.</li>
+<li><strong>Refuse tout</strong> : historique d'activité, assistant, reconnaissance vocale en ligne, localisation, personnalisation, identifiant publicitaire. Diagnostics au minimum.</li>
+<li>Puis fais les mises à jour.</li>
+</ul>
+<p>Même ainsi, Windows continue d'envoyer des données à Microsoft.</p>
+
+<h2 id="menage">4. Faire le ménage</h2>
+<ul>
+<li><strong>Ne touche pas</strong> aux pilotes et logiciels du fabricant ou des composants (AMD, Intel, Realtek…).</li>
+<li><strong>Désinstalle</strong> : Cortana, Bing, Jeux, Office d'essai, OneDrive, OneNote, Skype, Teams, Xbox, et l'antivirus d'essai (Windows Defender suffit).</li>
+<li>Démarrer → Paramètres → Applications. Dans le menu Démarrer, clic droit sur chaque tuile inutile.</li>
+<li>Les mises à jour de Windows annulent parfois ces réglages : refais un tour de temps en temps.</li>
+</ul>
+
+<h2 id="explorateur">5. Régler l'explorateur</h2>
+<ul>
+<li>Vide « Accès rapide » : tout est accessible depuis « Ce PC ».</li>
+<li>Onglet Affichage : coche « Extensions de noms de fichiers ».</li>
+</ul>
+
+<h2 id="logiciels">6. Installer des logiciels libres</h2>
+<p>Télécharge-les toujours depuis leur site officiel.</p>
+<div class="tbl"><table>
+<thead><tr><th>Besoin</th><th>Logiciel libre</th></tr></thead>
+<tbody>
+<tr><td>Navigateur</td><td>Firefox</td></tr>
+<tr><td>Bureautique</td><td>LibreOffice — voir <a href="libreoffice.html">le guide</a></td></tr>
+<tr><td>PDF</td><td>SumatraPDF</td></tr>
+<tr><td>Vidéo et musique</td><td>VLC</td></tr>
+<tr><td>Mails (plusieurs comptes)</td><td>Thunderbird</td></tr>
+<tr><td>Sauvegarde synchronisée</td><td>Create Synchronicity</td></tr>
+<tr><td>Dépannage à distance</td><td>DWAgent</td></tr>
+</tbody></table></div>
+<p>Les versions « S » de Windows n'acceptent que le Microsoft Store : il faut d'abord les débrider.</p>
+
+=== acheter-un-ordinateur | Migration | Acheter un ordinateur avec Linux | Où acheter un PC livré avec Linux, et comment choisir écran, processeur, mémoire et stockage.
+<h2 id="principe">Le principe</h2>
+<p>On ne trouve pas d'ordinateurs sous Linux en grande surface. De petites entreprises les assemblent sur mesure, avec des composants compatibles, et livrent un système prêt à l'emploi. Le surcoût par rapport à un PC équivalent tourne autour de 50 €, vite compensé par l'absence de dépannages. Vérifie toujours prix et dispo au moment d'acheter. En ligne, tu as <strong>14 jours</strong> pour te rétracter après réception.</p>
+
+<h2 id="france">Vendeurs en France</h2>
+<ul>
+<li><strong>Keynux</strong> (Alpes-Maritimes) : sur mesure, gammes moyenne à haute, garantie 2 ans. Fixes, mini-PC, portables de 14 à 18 pouces.</li>
+<li><strong>Linux Shop</strong> (Ardennes) : toutes gammes, grandes marques (Lenovo, Asus, Dell, HP, Acer, MSI), garantie 2 ans, paiement en plusieurs fois possible.</li>
+<li><strong>LDLC</strong> : peu de portables sous Linux, mais on peut y acheter une machine <strong>sans système</strong> et installer Linux soi-même, sans payer de licence Windows.</li>
+</ul>
+
+<h2 id="europe">En Europe</h2>
+<ul>
+<li><strong>Tuxedo Computers</strong> (Allemagne) : portables, mini-PC, fixes configurables, livraison gratuite.</li>
+<li><strong>Nova Custom</strong> (Pays-Bas) : neuf et reconditionné, livraison gratuite.</li>
+<li><strong>SKIKK</strong> et <strong>Laptop with Linux</strong> (Pays-Bas), <strong>Ubuntushop</strong> (Belgique), <strong>Slimbook</strong> (Espagne).</li>
+</ul>
+
+<h2 id="puristes">Pour les puristes</h2>
+<p>Pour un système 100 % libre jusqu'au BIOS : Purism, Minifree, Tehnoetic. Les portables Framework se montent et se réparent facilement. Plus cher, et sans codecs propriétaires.</p>
+
+<h2 id="criteres">Bien choisir</h2>
+<div class="tbl"><table>
+<thead><tr><th>Élément</th><th>Conseil</th></tr></thead>
+<tbody>
+<tr><td>Poids, taille</td><td>Plus léger = plus cher. À la maison, un écran externe complète un petit portable.</td></tr>
+<tr><td>Écran</td><td>Mat pour l'extérieur. Full HD (1920×1080) plutôt que 1366×768.</td></tr>
+<tr><td>Processeur</td><td>AMD Ryzen, très bien supporté. Évite les Intel bas de gamme Bay Trail / Cherry Trail (2013-2016).</td></tr>
+<tr><td>Carte graphique</td><td>Utile seulement pour jeux 3D ou montage. AMD (pilotes libres) plutôt que Nvidia.</td></tr>
+<tr><td>Mémoire vive</td><td>4 Go minimum, <strong>8 Go conseillés</strong>, plus pour le multimédia.</td></tr>
+<tr><td>Stockage</td><td>SSD, bien plus rapide. Prends un peu plus grand que ton besoin. Évite l'eMMC.</td></tr>
+<tr><td>Prises</td><td>Port Ethernet, lecteur DVD, clavier rétroéclairé : à vérifier. Un adaptateur USB-Ethernet coûte une dizaine d'euros.</td></tr>
+</tbody></table></div>
+
+<h2 id="systeme">Quel système demander</h2>
+<p><strong>Linux Mint Cinnamon</strong> en priorité. Ubuntu convient aussi. Pour une petite machine : Lubuntu ou Q4OS. Pour la création multimédia : Ubuntu Studio.</p>
+
+=== obtenir-de-l-aide | Migration | Obtenir de l'aide pour GNU/Linux | Documentation, tutoriels, forums, bénévoles près de chez toi et aide à distance.
+<h2 id="bien-demander">Bien poser sa question</h2>
+<p>Décris le problème précisément : ce que tu faisais, ce qui s'affiche, ta distribution et sa version. Si c'est un souci de matériel, joins les infos système (Menu → Relevés du système, ou <code>inxi -Fxz</code> dans un terminal).</p>
+
+<h2 id="docs">Documentation</h2>
+<ul>
+<li><strong>L'aide intégrée</strong> de ta distribution, pour les bases.</li>
+<li>Notre <a href="manuel-mint.html">manuel Linux Mint</a>, valable en grande partie pour Ubuntu.</li>
+<li><strong>Les Cahiers du débutant</strong> : une doc complète, écrite pour Debian mais valable pour Ubuntu et Mint. Les chapitres 2 et 3 suffisent pour démarrer.</li>
+<li>Le <strong>wiki francophone d'Ubuntu</strong> : une mine de réponses, aussi pour Mint.</li>
+</ul>
+
+<h2 id="tutos">Tutoriels</h2>
+<ul>
+<li>Nos <a href="index.html">guides</a>.</li>
+<li>Les mini-vidéos de l'association Nâga, et les tutoriels de Numetopia.</li>
+</ul>
+
+<h2 id="forums">Forums d'entraide</h2>
+<ul>
+<li>Le forum de la communauté Ubuntu francophone.</li>
+<li>La section française du forum officiel de Linux Mint.</li>
+<li>Le forum francophone de Linux Mint.</li>
+</ul>
+<p>Précise ton niveau. Il faut en général créer un compte.</p>
+
+<h2 id="local">Des humains près de chez toi</h2>
+<ul>
+<li><strong>Groupes d'utilisateurs</strong> (GUL / GULL) et associations du libre : permanences, install parties. Ils sont sur notre <a href="../carte.html">carte</a>, catégorie « Entraide numérique ».</li>
+<li><strong>Un parrain ou une marraine</strong> : une personne expérimentée près de chez toi. Mint, Ubuntu, Zorin et Debian se ressemblent, son aide sera utile.</li>
+</ul>
+
+<h2 id="distance">Aide à distance</h2>
+<p>Une personne de confiance peut prendre la main sur ton ordinateur à distance avec <strong>DWAgent</strong>. Ne le fais qu'avec quelqu'un que tu connais.</p>
+
+=== fin-de-windows-10 | Migration | Fin de Windows 10 : et maintenant ? | Ce que change la fin du support, les dérives des géants du numérique, les lois à surveiller et les alternatives.
+<h2 id="fin">Windows 10 n'est plus mis à jour</h2>
+<ul>
+<li>Depuis le <strong>14 octobre 2025</strong>, Windows 10 ne reçoit plus de correctifs de sécurité. Microsoft pousse vers Windows 11.</li>
+<li>Windows 11 refuse beaucoup d'ordinateurs pourtant en bon état, affiche de la pub et impose un compte Microsoft.</li>
+<li>Linux est l'alternative : libre, simple, sûr, rapide et gratuit, sur les machines récentes comme anciennes. Il équiperait 4 à 6 % des ordinateurs. <a href="installer-linux-mint.html">Installer Linux Mint</a>.</li>
+</ul>
+
+<h2 id="gafam">Côté géants du numérique</h2>
+<ul>
+<li><strong>Android</strong> : Google prévoit de restreindre progressivement, à partir de 2027, l'installation d'applications en dehors de son magasin.</li>
+<li><strong>Chrome</strong> télécharge sans demander un modèle d'IA de 4 Go, qui revient si on l'efface. Passe à Firefox puis désinstalle Chrome.</li>
+<li><strong>Gemini</strong> lit les conversations sur Android et s'entraîne sur Gmail. Désactive-le, ou quitte ces services.</li>
+<li>Amendes et condamnations s'enchaînent (Google, Meta, YouTube, TikTok) pour pratiques trompeuses ou protection des mineurs.</li>
+<li>À quitter : Facebook, X, Skype (remplacé par Jitsi Meet ou Signal), Publisher (convertis tes fichiers en PDF avant octobre 2026).</li>
+</ul>
+
+<h2 id="lois">Lois et surveillance</h2>
+<ul>
+<li><strong>Chat Control</strong> : le scan des messages privés non chiffrés est prolongé, et une version « 2.0 » pourrait le rendre obligatoire. Les messageries chiffrées restent la protection.</li>
+<li><strong>Loi narcotrafic</strong> : elle pourrait viser des militant·es et menacer le chiffrement des communications.</li>
+<li><strong>Facturation électronique</strong> : obligatoire pour recevoir des factures à partir de septembre 2026, et pour en émettre en 2027. Des solutions libres existent.</li>
+</ul>
+
+<h2 id="alternatives">Alternatives</h2>
+<ul>
+<li><strong>/e/OS</strong> : Android sans Google, environ 102 000 utilisateur·ices fin août 2026.</li>
+<li>Mise en page : Scribus, LibreOffice Draw. Transcription audio : Scribe.</li>
+<li>Firefox, DuckDuckGo, Qwant, et TeleCoop pour la téléphonie.</li>
+</ul>
+
+<h2 id="dates">Dates à retenir</h2>
+<ul>
+<li>28 janvier : Privacy Day. 1er février : Global Switch Day.</li>
+<li>Mars : Digital Cleanup Day.</li>
+</ul>
+
+<h2 id="chiffres">Le libre en chiffres (France, 2025)</h2>
+<div class="tbl"><table>
+<thead><tr><th>Outil</th><th>Part</th><th>Tendance</th></tr></thead>
+<tbody>
+<tr><td>GNU/Linux (ordinateurs)</td><td>4 %</td><td>en hausse</td></tr>
+<tr><td>Firefox</td><td>12 %</td><td>en baisse</td></tr>
+<tr><td>DuckDuckGo + Qwant</td><td>2,6 %</td><td>en hausse</td></tr>
+</tbody></table></div>

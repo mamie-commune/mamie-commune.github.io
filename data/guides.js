@@ -28,5 +28,6 @@ window.GUIDES = [
   { slug: "sauvegardes", cat: "Logiciels", t: "Faire des sauvegardes", by: "", d: "Pourquoi, quoi, quand, sur quel support et avec quels logiciels libres sauvegarder ses données." },
   { slug: "choisir-un-service", cat: "Logiciels", t: "Choisir une application ou un service", by: "", d: "Les critères pour trier les outils numériques : à fuir, à éviter, à privilégier." },
   { slug: "ressources-associations", cat: "Logiciels", t: "Outils libres pour les associations", by: "", d: "Gestion, compta, dons, travail collaboratif, communication et hébergement pour les assos, collectifs et petites structures." },
-  { slug: "flux-rss", cat: "Logiciels", t: "Suivre des sites par flux RSS", by: "", d: "S'abonner à des sites et recevoir les nouveaux articles sans réseau social ni algorithme." }
+  { slug: "flux-rss", cat: "Logiciels", t: "Suivre des sites par flux RSS", by: "", d: "S'abonner à des sites et recevoir les nouveaux articles sans réseau social ni algorithme." },
+  { slug: "signal", cat: "Messagerie", t: "S'organiser sur Signal", by: "", d: "Installer Signal, cacher son numéro, régler les messages éphémères, tenir des groupes de lutte, et savoir ce que Signal ne protège pas." }
 ];

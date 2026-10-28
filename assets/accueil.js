@@ -27,7 +27,7 @@
       }).join("");
       const list = (active === "Tout" ? items : items.filter((g) => g.cat === active)).slice(0, limit);
       grid.innerHTML = list.map((g) => `
-        <a class="card" href="${base}${esc(g.slug)}.html">
+        <a class="card" href="${base}${esc(g.slug)}">
           <span class="card__tag">${esc(g.by || g.cat)}</span>
           <h3>${esc(g.t)}</h3>
           <p>${esc(g.d)}</p>

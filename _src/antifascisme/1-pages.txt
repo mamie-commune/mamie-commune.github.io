@@ -142,7 +142,7 @@
 
 <h2 id="proteger">Se protéger</h2>
 <ul>
-<li><strong>Sécurité numérique</strong> : messageries chiffrées, pas de données personnelles en clair, attention aux photos de manifestations. Voir <a href="../guides/stop-gafam.html">sortir des GAFAM</a> et <a href="../partage.html">partager sans risque</a>.</li>
+<li><strong>Sécurité numérique</strong> : messageries chiffrées, pas de données personnelles en clair, attention aux photos de manifestations. Voir <a href="../guides/stop-gafam.html">sortir des GAFAM</a> et <a href="../guides/signal.html">s'organiser sur Signal</a>.</li>
 <li><strong>Ne jamais rester seul·e</strong> : rentrer à plusieurs, prévenir quelqu'un.</li>
 <li><strong>Solidarité</strong> : soutenir les personnes agressées et les militant·es poursuivi·es, caisses de soutien, présence aux procès.</li>
 </ul>

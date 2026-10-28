@@ -33,7 +33,7 @@
     docs = (window.RECHERCHE || []).map((r) => ({ ...r, nt: norm(r.t), nd: norm(r.d), nx: norm(r.x) }));
     for (const p of window.LIEUX || []) {
       const cat = (window.CATEGORIES_LIEUX && window.CATEGORIES_LIEUX[p.c] || {}).label || "";
-      docs.push({ u: "carte.html?q=" + encodeURIComponent(p.n), k: "Carte", t: p.n, d: `${p.v} · ${cat}`, nt: norm(p.n), nd: norm(`${p.v} ${cat}`), nx: norm(p.d) });
+      docs.push({ u: "carte?q=" + encodeURIComponent(p.n), k: "Carte", t: p.n, d: `${p.v} · ${cat}`, nt: norm(p.n), nd: norm(`${p.v} ${cat}`), nx: norm(p.d) });
     }
   }
 
@@ -66,7 +66,7 @@
     current = -1;
     if (!q.trim()) { close(); return; }
     box.innerHTML = res.length
-      ? res.slice(0, 7).map(item).join("") + `<a class="search__all" href="${root}recherche.html?q=${encodeURIComponent(q)}">Voir les ${res.length} résultat${res.length > 1 ? "s" : ""} →</a>`
+      ? res.slice(0, 7).map(item).join("") + `<a class="search__all" href="${root}recherche?q=${encodeURIComponent(q)}">Voir les ${res.length} résultat${res.length > 1 ? "s" : ""} →</a>`
       : `<p class="search__none">Rien trouvé pour « ${esc(q)} ». Essaie un autre mot, ou une ville.</p>`;
     box.hidden = false; input.setAttribute("aria-expanded", "true");
   }

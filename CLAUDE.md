@@ -36,7 +36,7 @@ Le script affiche par exemple `OK : 29 guides, 103 fiches, 37 livres et 12 pages
 | Je veux changer… | Fichier source | Régénérer ? |
 |---|---|---|
 | L'en-tête, le menu, le pied de page | `_src/layout.html` (menu : liste `$navItems` dans `_src/build.ps1`) | oui |
-| L'accueil et les pages d'index | `_src/pages/*.html` (`index.html`, `carte.html`, `videos.html`, `partage.html`, `mentions-legales.html`, `lecteur.html`, et `guides.html` / `bibliotheque.html` / `experiences.html` / `antifascisme.html` qui deviennent les `index.html` des dossiers) | oui |
+| L'accueil et les pages d'index | `_src/pages/*.html` (`index.html`, `carte.html`, `videos.html`, `mentions-legales.html`, `recherche.html`, `404.html` (page introuvable), `lecteur.html`, et `guides.html` / `bibliotheque.html` / `experiences.html` / `antifascisme.html` qui deviennent les `index.html` des dossiers) | oui |
 | Un dossier Révolutions (Commune, Espagne 1936, zapatistes, Rojava) | `_src/experiences/*.txt` | oui |
 | Une page Antifascisme | `_src/antifascisme/*.txt` | oui |
 | Une fiche de lecture | `_src/bibliotheque/*.txt` | oui |
@@ -49,7 +49,11 @@ Le script affiche par exemple `OK : 29 guides, 103 fiches, 37 livres et 12 pages
 | Les lettres de rançon, le menu mobile | `assets/site.js` | non |
 | La barre de recherche (en haut) et la page `recherche.html` | `assets/recherche.js` ; l'index `data/recherche.js` est refait à chaque régénération (titres, résumés, intertitres, début des textes) et les lieux viennent de `data/lieux.js` | oui pour l'index |
 
-Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `partage.html`, `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `experiences/`, `antifascisme/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
+Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `recherche.html`, `404.html`, `partage.html` (renvoi vers le guide Signal), `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `experiences/`, `antifascisme/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
+
+## Adresses propres
+
+Dans les sources, on écrit les liens normalement (`page.html`, `dossier/index.html`). À la génération, `_src/build.ps1` (`Clean-Links`) les transforme en `page` et `dossier/` : les adresses publiques n'ont ni `.html` ni `index.html`. Sur IONOS, `.htaccess` sert `page.html` pour `/page` et redirige les anciennes adresses en `.html`. Dans le JavaScript (`assets/*.js`, `data/videos.js`), écrire directement les liens sans `.html`. Une page supprimée garde un renvoi : règle dans `.htaccess` + petite page de renvoi générée dans `build.ps1` (exemple : `partage` → `guides/signal`).
 
 ## Format des pages (`_src/experiences`, `_src/antifascisme`, `_src/bibliotheque`, `_src/guides`)
 

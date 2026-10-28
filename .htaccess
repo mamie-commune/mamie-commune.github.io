@@ -10,7 +10,23 @@ DirectoryIndex index.html
   RewriteCond %{HTTP_HOST} !^mamiecommune\.org$ [NC]
   RewriteCond %{HTTP_HOST} mamiecommune\.org$ [NC]
   RewriteRule ^ https://mamiecommune.org%{REQUEST_URI} [L,R=301]
+
+  # Anciennes adresses : l'ancienne page « Partage de données » est remplacée par le guide Signal.
+  RewriteRule ^partage(\.html)?$ /guides/signal [L,R=301]
+
+  # Adresses propres : /page.html → /page et /dossier/index.html → /dossier/ (redirection permanente)…
+  RewriteCond %{THE_REQUEST} \s/+((?:[^\s?]*/)?)index\.html[\s?] [NC]
+  RewriteRule ^ /%1 [L,R=301,NE]
+  RewriteCond %{THE_REQUEST} \s/+([^\s?]+?)\.html[\s?] [NC]
+  RewriteRule ^ /%1 [L,R=301,NE]
+  # … et /page sert le fichier page.html.
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteCond %{REQUEST_FILENAME}.html -f
+  RewriteRule ^(.+)$ $1.html [L]
 </IfModule>
+
+ErrorDocument 404 /404.html
 
 # Types de fichiers
 AddType font/woff2 .woff2

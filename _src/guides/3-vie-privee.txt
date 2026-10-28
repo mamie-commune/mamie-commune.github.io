@@ -33,7 +33,7 @@
 <p><strong>Jitsi Meet</strong> ou <strong>BigBlueButton</strong>, dans le navigateur, sans installation ni compte.</p>
 
 <h2 id="fichiers">6. Le partage de fichiers</h2>
-<p>Un compte <strong>Nextcloud</strong> chez un hébergeur éthique remplace Google Drive, Dropbox, OneDrive ou iCloud. Voir aussi <a href="../partage.html">Partage de données</a>.</p>
+<p>Un compte <strong>Nextcloud</strong> chez un hébergeur éthique remplace Google Drive, Dropbox, OneDrive ou iCloud. Pour s'écrire entre camarades, voir le <a href="signal.html">guide Signal</a>.</p>
 
 <h2 id="proches">7. Prévenir tes proches</h2>
 <p>Si tes contacts sont pistés, tu l'es à travers eux. Partager la démarche fait partie de la protection.</p>

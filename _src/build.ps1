@@ -32,7 +32,21 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
     $navHtml += "<a href=""$root$($item[1])""$cur>$($item[2])</a>"
   }
   $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts)
-  return $out.Replace("{{R}}", $root)
+  return Clean-Links ($out.Replace("{{R}}", $root))
+}
+
+# Adresses propres : les sources gardent « page.html » et « dossier/index.html » (pratique à écrire),
+# et les pages publiées pointent vers « page » et « dossier/ ». Le serveur sert page.html pour /page (.htaccess).
+function Clean-Url($u) {
+  if ($u -match '^(https?:|mailto:|tel:|data:|#|//)') { return $u }
+  $m = [regex]::Match($u, '^([^?#]*?)\.html([?#].*)?$')
+  if (-not $m.Success) { return $u }
+  $p = $m.Groups[1].Value; $rest = $m.Groups[2].Value
+  if ($p -eq "index") { $p = "./" } elseif ($p.EndsWith("/index")) { $p = $p.Substring(0, $p.Length - 5) }
+  return $p + $rest
+}
+function Clean-Links($html) {
+  return [regex]::Replace($html, '\b(href|action)="([^"]*)"', { param($m) "$($m.Groups[1].Value)=""$(Clean-Url $m.Groups[2].Value)""" })
 }
 
 # Lit les fichiers « === slug | catégorie | titre | [signature |] résumé » d'un dossier.
@@ -76,7 +90,7 @@ function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar)
 <div class="wrap glayout">
   <article class="prose">
 $($g.html)
-$credit
+$(if ($g.html -match 'class="credit"') { "" } else { $credit })
   <nav class="gnext" aria-label="Pages voisines">$nav2</nav>
   </article>
   <aside class="toc"><h2>Dans cette page</h2><ol>$toc</ol></aside>
@@ -241,11 +255,17 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
   if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
-  if ($f.BaseName -notin @("lecteur", "recherche")) {
+  if ($f.BaseName -notin @("lecteur", "recherche", "404")) {
     $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
   }
 }
+# Anciennes adresses remplacées : petite page qui renvoie vers la nouvelle (IONOS redirige déjà via .htaccess).
+foreach ($old in @(,@("partage.html", "guides/signal"))) {
+  Write-Utf8 (Join-Path $site $old[0]) "<!doctype html><html lang=""fr""><head><meta charset=""utf-8""><title>Page déplacée · Mamie Commune</title><meta http-equiv=""refresh"" content=""0; url=$($old[1])""><link rel=""canonical"" href=""$($old[1])""><meta name=""robots"" content=""noindex""></head><body><p>Cette page a déménagé : <a href=""$($old[1])"">suivre Mamie</a>.</p></body></html>"
+}
+
 # ---------- miniatures YouTube (assets/yt/<id>.jpg) ----------
 # Chaque vidéo YouTube citée dans _src (data-yt="…" ou youtube-nocookie.com/embed/…) reçoit sa miniature, hébergée ici
 # pour que rien ne soit chargé depuis YouTube avant le clic. Sans connexion, on passe : la carte garde sa couverture dessinée.
@@ -270,7 +290,7 @@ foreach ($id in $ytIds) {
 }
 
 $js = "// Généré par _src/build.ps1 — ne pas modifier à la main. Utilisé par assets/recherche.js.`nwindow.RECHERCHE = [`n"
-$js += ($index | ForEach-Object { "  { u: $(JsStr $_.u), k: $(JsStr $_.k), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
+$js += ($index | ForEach-Object { "  { u: $(JsStr (Clean-Url $_.u)), k: $(JsStr $_.k), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
 $js += "`n];`n"
 Write-Utf8 (Join-Path $site "data\recherche.js") $js
 Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres et $($exp.Count) pages de dossiers générés."

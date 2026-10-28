@@ -8,14 +8,14 @@
 
   if (!book) {
     $("rTitle").textContent = "Livre introuvable";
-    msg.innerHTML = 'Ce livre n\'existe pas. <a href="bibliotheque/index.html#livres">Voir tous les livres</a>.';
+    msg.innerHTML = 'Ce livre n\'existe pas. <a href="bibliotheque/#livres">Voir tous les livres</a>.';
     return;
   }
   const url = `livres/pdf/${book.slug}.pdf`;
   document.title = `${book.t} · Lecteur · Mamie Commune`;
   $("rTitle").innerHTML = `<b>${book.t}</b> <span>${book.by}</span>`;
   $("rDl").href = url;
-  $("rBack").href = `livres/${book.slug}.html`;
+  $("rBack").href = `livres/${book.slug}`;
   $("rBack").textContent = "← Version web";
 
   if (!window.pdfjsLib) { msg.textContent = "Le lecteur n'a pas pu se charger. Télécharge le PDF avec le bouton en haut."; return; }
@@ -91,7 +91,7 @@
     let saved = 1; try { saved = Number(localStorage.getItem(KEY)) || 1; } catch {}
     if (saved > 1) go(saved);
   }).catch(() => {
-    msg.innerHTML = `Le PDF n'a pas pu s'ouvrir. <a href="${url}" download>Télécharge-le</a> ou lis la <a href="livres/${book.slug}.html">version web</a>.`;
+    msg.innerHTML = `Le PDF n'a pas pu s'ouvrir. <a href="${url}" download>Télécharge-le</a> ou lis la <a href="livres/${book.slug}">version web</a>.`;
   });
 
   $("rPrev").onclick = () => pdf && go(current - 1);

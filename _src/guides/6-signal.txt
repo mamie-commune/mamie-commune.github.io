@@ -1,0 +1,86 @@
+=== signal | Messagerie | S'organiser sur Signal | Installer Signal, cacher son numéro, régler les messages éphémères, tenir des groupes de lutte, et savoir ce que Signal ne protège pas.
+<p>Pour s'organiser entre camarades, <strong>Signal</strong> est l'outil le plus simple et le plus sûr aujourd'hui. Les messages, les appels, les photos et les fichiers sont <strong>chiffrés de bout en bout</strong> : seules les personnes de la conversation peuvent les lire, ni Signal, ni ton opérateur, ni la police en interceptant le réseau. L'application est gratuite, son code est public, et elle est tenue par une fondation à but non lucratif, sans pub ni revente de données.</p>
+<p>Mais Signal n'est qu'un outil. Bien réglé, il protège tes échanges ; mal réglé, il peut afficher ton numéro à des inconnu·es ou garder des années de messages dans un téléphone saisi. Ce guide prend les réglages un par un.</p>
+
+<h2 id="installer">1. Installer Signal</h2>
+<ul>
+<li><strong>Téléphone</strong> : Google Play Store, App Store, ou, sur un Android sans Google, l'APK officiel depuis <strong>signal.org/android/apk</strong>. Méfie-toi des copies : l'éditeur doit être « Signal Foundation » ou « Signal Messenger ».</li>
+<li><strong>Ordinateur</strong> : <strong>Signal Desktop</strong> (Linux, Windows, Mac) depuis signal.org. Il se relie à ton téléphone par un QR code. Sous Linux Mint, suis les instructions du site (dépôt officiel).</li>
+<li>Il faut un <strong>numéro de téléphone</strong> pour créer le compte. Il sert à t'envoyer le code d'activation ; on va ensuite le cacher.</li>
+</ul>
+
+<h2 id="numero">2. Cacher ton numéro : le nom d'utilisateur</h2>
+<p>Par défaut, tes contacts te trouvent par ton numéro. Pour t'organiser avec des gens que tu ne connais pas encore (un collectif, une assemblée, une manif), donne plutôt un <strong>nom d'utilisateur</strong> : il ne révèle rien de toi et se change quand tu veux.</p>
+<ol class="principes">
+<li><b>Créer</b>Touche ta photo de profil → <em>Nom d'utilisateur</em>. Choisis un pseudo, Signal ajoute deux chiffres (par exemple <em>mamie.71</em>).</li>
+<li><b>Cacher</b><em>Paramètres → Confidentialité → Numéro de téléphone</em> : « Qui peut voir mon numéro » sur <strong>Personne</strong>.</li>
+<li><b>Ne pas être trouvé·e</b>Au même endroit, « Qui peut me trouver par mon numéro » sur <strong>Personne</strong> si tu ne veux pas que quelqu'un qui a ton numéro sache que tu es sur Signal.</li>
+<li><b>Partager</b>Sur la page du nom d'utilisateur, un <em>lien</em> et un <em>QR code</em> à donner au lieu de ton numéro. Tu peux les réinitialiser s'ils ont trop circulé.</li>
+</ol>
+<div class="note"><p><strong>Ton nom de profil se voit</strong> dans tous les groupes où tu es. Mets un prénom d'usage ou un pseudo, et une photo qui ne te reconnaît pas.</p></div>
+
+<h2 id="compte">3. Protéger ton compte</h2>
+<ul>
+<li><strong>Code PIN Signal</strong> : <em>Paramètres → Compte → Code PIN Signal</em>. Choisis-en un long. Il protège ton profil et tes contacts si tu changes de téléphone.</li>
+<li><strong>Verrouillage de l'inscription</strong> : <em>Paramètres → Compte → Verrouillage de l'inscription</em>, activé. Sans ton PIN, personne ne peut réinscrire ton numéro sur un autre téléphone, même en récupérant ta carte SIM.</li>
+<li><strong>Appareils liés</strong> : <em>Paramètres → Appareils liés</em>. Regarde la liste de temps en temps, et supprime tout appareil que tu ne reconnais pas : il lit tous tes nouveaux messages.</li>
+</ul>
+<div class="note"><p><strong>Arnaque au QR code.</strong> Un QR code « pour rejoindre un groupe » envoyé par un·e inconnu·e peut en réalité <em>relier son ordinateur à ton compte</em>. Ne scanne un QR code de liaison que pour <strong>ton propre</strong> ordinateur, depuis <em>Appareils liés</em>.</p></div>
+
+<h2 id="ephemeres">4. Les messages éphémères</h2>
+<p>Ce qui n'existe plus ne peut pas être lu, ni par une personne qui récupère un téléphone, ni dans une procédure. Les messages éphémères s'effacent tout seuls chez tout le monde après le délai choisi.</p>
+<ul>
+<li><strong>Pour toutes les nouvelles conversations</strong> : <em>Paramètres → Confidentialité → Minuterie par défaut des nouvelles conversations</em>. Une semaine est un bon réglage de départ ; un jour pour l'organisation d'une action.</li>
+<li><strong>Pour une conversation ou un groupe</strong> : touche le nom en haut → <em>Messages éphémères</em>. Dans un groupe, c'est valable pour tout le monde.</li>
+</ul>
+<p>Rien n'empêche quelqu'un de faire une capture d'écran ou de recopier un message. Les messages éphémères limitent les traces, ils ne remplacent pas la confiance.</p>
+
+<h2 id="telephone">5. Protéger le téléphone lui-même</h2>
+<p>Signal chiffre le trajet des messages. Une fois arrivés, ils sont lisibles par quiconque <strong>déverrouille ton téléphone</strong>. C'est souvent là que tout se joue.</p>
+<div class="tbl"><table>
+<thead><tr><th>Réglage</th><th>Où</th><th>Pourquoi</th></tr></thead>
+<tbody>
+<tr><td>Code de déverrouillage long</td><td>Réglages du téléphone</td><td>6 chiffres minimum, mieux : une phrase de passe. Un schéma se devine aux traces de doigts.</td></tr>
+<tr><td>Pas d'empreinte ni de visage en action</td><td>Réglages du téléphone</td><td>On peut te forcer à poser ton doigt ou à regarder l'écran. Désactive-les avant une manif, ou éteins le téléphone.</td></tr>
+<tr><td>Verrouillage de Signal</td><td><em>Confidentialité → Verrouillage de l'écran</em></td><td>Signal redemande ton code après quelques minutes.</td></tr>
+<tr><td>Sécurité de l'écran</td><td><em>Confidentialité</em> (Android) ou « Masquer l'écran dans le sélecteur d'apps » (iPhone)</td><td>Pas d'aperçu des conversations dans les applis récentes, pas de capture sur Android.</td></tr>
+<tr><td>Notifications discrètes</td><td><em>Paramètres → Notifications → Afficher</em> : « Aucun nom ni contenu »</td><td>Rien ne s'affiche sur l'écran verrouillé.</td></tr>
+<tr><td>Appels relayés</td><td><em>Confidentialité → Avancé → Toujours relayer les appels</em></td><td>Ton adresse IP n'est pas visible par la personne que tu appelles.</td></tr>
+</tbody>
+</table></div>
+<div class="note"><p><strong>En garde à vue</strong>, la police peut te demander le code de ton téléphone. En France, refuser de donner le code d'un téléphone chiffré peut être poursuivi. Avant une action, renseigne-toi auprès de la <em>legal team</em> ou d'un·e avocat·e, et pose-toi la question : ai-je besoin d'emporter ce téléphone ?</p></div>
+
+<h2 id="groupes">6. Tenir un groupe de lutte</h2>
+<ul>
+<li><strong>Un groupe par besoin</strong> : un pour l'info large, un petit pour l'organisation, un tout petit pour ce qui est sensible. Plus un groupe est grand, plus il est probable qu'il y ait une personne indiscrète, ou infiltrée.</li>
+<li><strong>Lien d'invitation avec validation</strong> : touche le nom du groupe → <em>Lien du groupe</em>, active <em>Approuver les nouveaux membres</em>. Réinitialise le lien s'il a circulé trop loin.</li>
+<li><strong>Droits</strong> : dans les réglages du groupe, réserve aux admins la modification des infos et l'ajout de membres. Plusieurs admins de confiance, pas un·e seul·e.</li>
+<li><strong>Messages éphémères activés</strong> pour tout le groupe, dès la création.</li>
+<li><strong>Faire le ménage</strong> : retire les personnes qui ne participent plus, et ferme les groupes devenus inutiles.</li>
+<li><strong>Le bon outil pour la bonne info</strong> : une adresse de rendez-vous ou un nom ne s'écrivent pas dans un groupe de 300 personnes. Ce qui est vraiment sensible se dit de vive voix, téléphones loin.</li>
+</ul>
+
+<h2 id="verifier">7. Vérifier qu'on parle à la bonne personne</h2>
+<p>Chaque conversation a un <strong>numéro de sécurité</strong>. Si vous le comparez en vrai, tu es sûr·e que personne ne s'est glissé entre vous.</p>
+<ol>
+<li>Ouvre la conversation, touche le nom en haut → <em>Afficher le numéro de sécurité</em>.</li>
+<li>Quand vous êtes ensemble, scannez le QR code l'un·e de l'autre : la personne est marquée <em>vérifiée</em>.</li>
+<li>Si Signal annonce que le numéro de sécurité a changé, c'est souvent un nouveau téléphone. Demande-le à la personne par un autre moyen avant d'écrire quoi que ce soit de sensible.</li>
+</ol>
+
+<h2 id="limites">8. Ce que Signal ne protège pas</h2>
+<ul>
+<li><strong>Un téléphone déverrouillé</strong> ou infecté par un logiciel espion : tout ce qui s'affiche à l'écran peut être lu.</li>
+<li><strong>Les personnes</strong> : une capture d'écran, un message transféré, une personne infiltrée dans le groupe.</li>
+<li><strong>Le fait d'être sur Signal</strong> et le fait d'avoir ton téléphone sur toi : ton opérateur sait où est ton téléphone, même si Signal ne dit rien de tes messages.</li>
+<li><strong>Les sauvegardes</strong> : une photo enregistrée dans la galerie peut partir dans un cloud (Google Photos, iCloud). Dans les réglages de Signal, évite d'enregistrer automatiquement les médias.</li>
+</ul>
+<div class="note"><p><strong>À retenir.</strong> Nom d'utilisateur à la place du numéro, PIN et verrouillage de l'inscription, messages éphémères par défaut, téléphone bien verrouillé, petits groupes. Et ce qui est vraiment sensible ne s'écrit pas.</p></div>
+
+<h2 id="aller-plus-loin">Pour aller plus loin</h2>
+<ul>
+<li><a href="stop-gafam.html">Éviter la pub, le traçage et les GAFAM</a> : les autres outils du quotidien.</li>
+<li><a href="android.html">Libérer un appareil Android</a> : un téléphone plus propre, sans Google.</li>
+<li><a href="../antifascisme/agir-antifasciste.html">Comment agir contre l'extrême droite</a> : la sécurité dans l'action.</li>
+</ul>
+<p class="credit">Guide rédigé par Mamie Commune. Les noms des menus peuvent changer légèrement d'une version de Signal à l'autre. Libre de reproduction en citant Mamie Commune.</p>

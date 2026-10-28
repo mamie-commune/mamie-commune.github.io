@@ -12,8 +12,11 @@ while ($l.IsListening) {
   $res = $ctx.Response
   try {
     $path = [Uri]::UnescapeDataString($ctx.Request.Url.AbsolutePath.TrimStart('/'))
-    if ($path -eq "") { $path = "index.html" }
+    # Adresses propres, comme en ligne : /guides/ → guides/index.html, /videos → videos.html
+    if ($path -eq "" -or $path.EndsWith("/")) { $path += "index.html" }
     $file = Join-Path $root $path
+    if (-not (Test-Path $file -PathType Leaf) -and (Test-Path "$file.html" -PathType Leaf)) { $file = "$file.html" }
+    elseif (Test-Path $file -PathType Container) { $res.Redirect("/$path/"); continue }
     if (-not ((Test-Path $file -PathType Leaf) -and ((Resolve-Path $file).Path.StartsWith($root)))) { $res.StatusCode = 404; continue }
     $ext = [IO.Path]::GetExtension($file).ToLower()
     $res.ContentType = $(if ($types[$ext]) { $types[$ext] } else { "application/octet-stream" })

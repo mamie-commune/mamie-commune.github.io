@@ -46,7 +46,7 @@
 <tr><td>Appels indésirables</td><td>Saracroche</td></tr>
 <tr><td>Clavier</td><td>AnySoftKeyboard (+ pack français)</td></tr>
 <tr><td>Contacts, agenda</td><td>DAVx5</td></tr>
-<tr><td>Fichiers vers l'ordi</td><td>LocalSend, Warpinator — voir <a href="../partage.html">Partage</a></td></tr>
+<tr><td>Fichiers vers l'ordi</td><td>LocalSend, Warpinator</td></tr>
 </tbody></table></div>
 
 <h2 id="systemes">Systèmes sans Google</h2>

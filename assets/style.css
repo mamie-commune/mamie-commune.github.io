@@ -519,6 +519,17 @@ html.has-player { overflow: hidden; }
 .foot__in > div:first-child { position: relative; padding-right: 116px; min-height: 210px; }
 .foot__mamie { position: absolute; right: 0; bottom: 0; width: 100px; height: auto; transform: rotate(4deg); filter: drop-shadow(5px 5px 0 var(--red)); }
 
+/* documents à télécharger (modèles de lettres…) : feuilles de papier collées */
+.dl { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 18px; margin: 1.4em 0; }
+.prose .dl__item, .dl__item { position: relative; display: grid; gap: 6px; align-content: start; padding: 16px 16px 14px 16px; background: var(--paper-2); color: var(--ink); text-decoration: none;
+  box-shadow: 4px 4px 0 var(--ink), 0 12px 20px -10px rgba(23,20,20,.5); transform: rotate(-.6deg); transition: transform .15s; }
+.dl__item:nth-child(even) { transform: rotate(.6deg); }
+.dl__item::before { content: "PDF ↓"; justify-self: start; font: 400 12px/1 var(--display); background: var(--red-hi); color: var(--paper-2); padding: 5px 7px; }
+.dl__item b { font: 400 18px/1.15 var(--display); }
+.dl__item span { font-size: 15px; line-height: 1.4; }
+.dl__item small { font: 400 13px/1 var(--mono); color: var(--muted); }
+.prose .dl__item:hover, .dl__item:hover { background: var(--yellow); color: var(--ink); transform: rotate(0) translate(-2px, -2px); }
+
 /* page introuvable (404) */
 .lost__in { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: clamp(28px, 6vw, 72px); align-items: center; min-height: 52vh; }
 .lost__mamie { position: relative; width: 180px; margin: 30px 30px 30px 80px; }

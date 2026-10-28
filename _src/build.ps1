@@ -267,7 +267,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   }
 }
 # Anciennes adresses remplacées : petite page qui renvoie vers la nouvelle (IONOS redirige déjà via .htaccess).
-foreach ($old in @(,@("partage.html", "guides/signal"))) {
+foreach ($old in @(@("partage.html", "guides/signal"), @("manif\legal-team-belgique.html", "legal-team"))) {
   Write-Utf8 (Join-Path $site $old[0]) "<!doctype html><html lang=""fr""><head><meta charset=""utf-8""><title>Page déplacée · Mamie Commune</title><meta http-equiv=""refresh"" content=""0; url=$($old[1])""><link rel=""canonical"" href=""$($old[1])""><meta name=""robots"" content=""noindex""></head><body><p>Cette page a déménagé : <a href=""$($old[1])"">suivre Mamie</a>.</p></body></html>"
 }
 

@@ -13,6 +13,7 @@ DirectoryIndex index.html
 
   # Anciennes adresses : l'ancienne page « Partage de données » est remplacée par le guide Signal.
   RewriteRule ^partage(\.html)?$ /guides/signal [L,R=301]
+  RewriteRule ^manif/legal-team-belgique(\.html)?$ /manif/legal-team [L,R=301]
 
   # Adresses propres : /page.html → /page et /dossier/index.html → /dossier/ (redirection permanente)…
   RewriteCond %{THE_REQUEST} \s/+((?:[^\s?]*/)?)index\.html[\s?] [NC]

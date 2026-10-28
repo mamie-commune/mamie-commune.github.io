@@ -1,88 +1,87 @@
-=== legal-team-belgique | Legal Team | (Il)légal ? Tes droits en action et en arrestation (Belgique) | Legal Team Collective · octobre 2026 | Contrôle d'identité, arrestation administrative ou judiciaire, audition, résistance ou rébellion, sanctions, filmer la police, violences policières : l'essentiel du flyer de la Legal Team, pour la Belgique.
-<div class="note"><p><strong>Attention, droit belge.</strong> Cette fiche reprend le flyer « (Il)légal ? » de la <strong>Legal Team Collective</strong>, valable <strong>en Belgique</strong>. En France, les règles sont différentes (garde à vue, durées, sanctions, recours) : ne t'en sers pas tel quel pour une manif en France.</p></div>
-<p>Le flyer original, à imprimer et à faire tourner : <a href="https://legalteamcollective.org/wp-content/uploads/2026/10/flyer_manif_fr_web.pdf" target="_blank" rel="noopener">flyer_manif_fr_web.pdf</a> (PDF, 2 pages). Ce qui suit le résume avec nos mots, point par point.</p>
+=== legal-team | Legal Team | Sortez couvert·es : tes droits en manif et en garde à vue | Legal team de la Coordination contre la répression · septembre 2024 | Avant de partir, contrôle d'identité, garde à vue, téléphone et fichage, face à la justice, mineur·es, défense collective, et des lettres toutes prêtes pour contester un PV de manif.
+<p>Cette fiche reprend avec nos mots la brochure <strong>« Sortez couvert·es »</strong> de la legal team de la <strong>Coordination contre la répression et les violences policières (Paris, Île-de-France)</strong>, version 7 de septembre 2024. Elle vaut pour la <strong>France</strong>. Imprime l'original et fais-le tourner : <a href="https://rajcollective.noblogs.org/files/2024/09/SORTEZ-COUVERTES-V7-sept-2024-DEF.pdf" target="_blank" rel="noopener">la brochure en PDF</a> (2 pages).</p>
+<div class="note"><p><strong>Urgence à Paris et en Île-de-France</strong> : tu as vu une interpellation ou des violences policières, ou tu es sans nouvelles d'une personne interpellée ? Appelle la legal team au <strong>07 52 95 71 11</strong>, de préférence <strong>sur Signal</strong>. Pour ce qui est moins urgent : <strong>stoprepression@riseup.net</strong>. Dans d'autres villes, cherche ta legal team locale sur le site du <strong>RAJCOL</strong>, Réseau d'autodéfense juridique collective : rajcollective.noblogs.org.</p></div>
 
-<h2 id="controle">1. Le contrôle d'identité</h2>
+<h2 id="avant">Avant de partir</h2>
 <ul>
-<li>La police peut contrôler ton identité dans certains cas, par exemple si elle pense qu'une infraction a été commise, s'il y a un risque de trouble à l'ordre public, ou lors d'une arrestation. Elle peut aussi prendre tes documents.</li>
-<li>Si tu n'as pas de papiers sur toi ou si tu refuses de dire qui tu es, tu risques une <strong>arrestation administrative</strong> (12 heures au plus) et/ou une <strong>amende</strong> (de 26 à 500 €).</li>
+<li><strong>Retiens le nom d'un·e avocat·e et son barreau</strong> (le département où iel exerce). Plusieurs personnes peuvent choisir le ou la même.</li>
+<li><strong>Choisis un·e proche</strong> qui sera prévenu·e si tu es en garde à vue, et <strong>apprends son numéro par cœur</strong> : iel pourra faire passer l'info. Ce « proche » peut désormais être n'importe quelle personne de ton choix, pas seulement ta famille, ton ou ta conjoint·e ou ton coloc.</li>
+<li><strong>Prépare tes « garanties de représentation »</strong> (voir plus bas, <a href="#justice">face à la justice</a>).</li>
+<li><strong>Évite d'aller en manif avec ton téléphone.</strong> Si tu le prends, voir le <a href="../guides/signal.html">guide Signal</a> pour bien le verrouiller.</li>
 </ul>
 
-<h2 id="arrestation">2. L'arrestation</h2>
+<h2 id="controle">Le contrôle d'identité</h2>
 <ul>
-<li>Elle commence <strong>dès que tu ne peux plus partir librement</strong>. <strong>Note l'heure</strong> : c'est elle qui compte.</li>
-<li>La police doit te libérer au plus tard <strong>12 heures</strong> (arrestation administrative) ou <strong>48 heures</strong> (arrestation judiciaire) après ce moment.</li>
-<li>Elle ne peut te fouiller que si elle a des raisons de penser que c'est nécessaire, et c'est encore plus encadré pour une fouille à nu.</li>
+<li>Pour vérifier ton identité, la police peut te retenir (barrage, nasse, commissariat) <strong>4 heures au maximum</strong>. Au-delà, elle doit te libérer ou te placer en garde à vue.</li>
+<li><strong>Avoir ses papiers sur soi n'est pas obligatoire.</strong> Tu dois seulement donner ton identité : nom, prénom, date et lieu de naissance.</li>
+<li>Si tu as ton téléphone, <strong>rien n'autorise la police à regarder dedans</strong> pendant un contrôle.</li>
+<li>Dans une zone où les manifestations ont été interdites, tu risques une amende de <strong>135 €</strong>. Tu veux la contester ? <strong>Surtout, ne la paie pas</strong> : payer, c'est reconnaître l'infraction. Les lettres sont <a href="#contester">en bas de cette page</a>.</li>
 </ul>
+
+<h2 id="gav">Se préparer à la garde à vue</h2>
+<h3>Si un·e ami·e est en garde à vue</h3>
+<p>Essaie de savoir dans quel commissariat iel a été emmené·e, puis contacte la legal team. Si tu connais son avocat·e, sache qu'iel est tenu·e au secret pendant toute la garde à vue.</p>
+<h3>Si c'est toi</h3>
+<ul>
+<li>La garde à vue dure d'abord <strong>24 heures</strong>. La police doit te notifier tes droits : être assisté·e d'un·e <strong>avocat·e</strong>, voir un·e <strong>médecin</strong>, avoir un·e <strong>interprète</strong>, et faire <strong>prévenir un·e proche</strong>. La legal team ne compte pas comme « proche ». Quand on prévient ta personne, fais en sorte qu'elle sache où tu es.</li>
+<li>L'avocat·e doit être présent·e pendant les auditions. S'iel ne vient pas, la police peut appeler un·e avocat·e commis·e d'office, que tu peux refuser.</li>
+<li>Pas besoin du numéro de ton avocat·e : <strong>son nom et son barreau suffisent</strong>. Tu peux demander un·e avocat·e d'un autre barreau que celui du commissariat.</li>
+<li>Tu as le droit de voir ton avocat·e <strong>seul·e pendant 30 minutes</strong> avant d'être auditionné·e.</li>
+<li><strong>Garder le silence est un droit</strong> : « Je n'ai rien à déclarer. » Parler, même de choses qui semblent anodines, c'est te mettre en danger, toi ou d'autres. Devant les juges aussi, tu peux garder le silence.</li>
+</ul>
+<h3>Pendant la garde à vue</h3>
+<ul>
+<li><strong>Identité</strong> : tu peux te limiter à ton prénom, ton nom, ta date et ton lieu de naissance.</li>
+<li><strong>Photos mises en scène</strong> (avec masque, capuche…) : tu peux refuser.</li>
+<li><strong>Procès-verbaux</strong> : lis ceux qu'on te montre, mais rien ne t'oblige à les signer. <strong>Ne signe que ce que tu as bien lu.</strong></li>
+<li><strong>Garde à vue prolongée de 24 heures</strong> ? Tes droits sont renouvelés aussi.</li>
+<li><strong>Téléphone</strong> : la police va te demander ton code pour fouiller dedans, en menaçant de le confisquer. Dans certains cas, refuser est un délit, mais seulement dans des conditions complexes et impossibles à vérifier sur le moment. <strong>Garde le silence et ne donne pas ton code.</strong> Tu pourras contester une saisie après coup.</li>
+<li><strong>Fichage</strong> : on va te demander la <em>signalétique</em> (photos, empreintes) et un <em>prélèvement ADN</em>. Tu peux refuser l'un et l'autre. C'est un délit, mais les peines sont souvent légères, et refuser le fichage de masse se défend politiquement. Attention : dans certains cas (par exemple un doute sur ton identité), la police peut prendre empreintes et photos de force. <strong>Parles-en avec ton avocat·e avant de décider.</strong></li>
+</ul>
+
+<h2 id="justice">Face à la justice</h2>
+<p>À la fin de la garde à vue, c'est le procureur qui décide de la suite. Les cas les plus fréquents :</p>
+<ol class="timeline">
+<li><b>1</b><span>Tu sors libre, <strong>sans poursuites</strong>.</span></li>
+<li><b>2</b><span>Tu passes devant un·e <strong>délégué·e du procureur</strong> (un simple agent administratif) qui te donne un avertissement. Tu sors forcément libre ensuite. Prends le papier (tu peux ne pas le signer), puis demande conseil autour de toi ou à la legal team.</span></li>
+<li><b>3</b><span>Tu es <strong>convoqué·e à un procès plus tard</strong> : contacte aussi la legal team.</span></li>
+<li><b>4</b><span>Tu es conduit·e au tribunal (« déféré·e ») et le procureur te propose une <strong>CRPC</strong> (« plaider-coupable ») ou une <strong>composition pénale</strong> : demande le délai de <strong>10 jours</strong> pour réfléchir.</span></li>
+<li><b>5</b><span>Le procureur t'envoie en <strong>comparution immédiate</strong>. Tu as toujours droit à un·e avocat·e.</span></li>
+</ol>
+<ul>
+<li>Avant la comparution immédiate, on te pose des questions sur ta vie (« enquête sociale »). <strong>Dis-en le minimum</strong> : les juges peuvent s'en servir.</li>
+<li>La comparution immédiate est un <strong>procès expéditif</strong>. Il vaut parfois mieux être jugé·e plus tard, en demandant un délai : parles-en avec ton avocat·e.</li>
+<li>Les juges doivent accepter le report, mais exigent des <strong>garanties de représentation</strong> : preuves de logement, de travail, d'études, pour être sûr·es que tu viendras à l'audience. Sans elles, tu risques la <strong>détention provisoire</strong> (la prison avant le procès).</li>
+<li><strong>Prépare ces garanties à l'avance</strong> et confie-les à des proches, qui pourront les transmettre vite à ton avocat·e ou à la legal team.</li>
+<li>Juger selon la situation sociale des gens, c'est la marque d'une <strong>justice de classe</strong>. Pendant le procès, tu peux aussi écarter les « questions de personnalité » au nom du respect de ta vie privée.</li>
+</ul>
+
+<h2 id="mineurs">Si tu es mineur·e</h2>
+<ul>
+<li>On est mineur·e jusqu'au jour de ses 18 ans, mais la procédure change selon l'âge.</li>
+<li>En garde à vue, la police <strong>doit prévenir tes parents</strong> et leur rappeler leurs droits.</li>
+<li>La garde à vue dure en général 24 heures entre 13 et 18 ans. Entre 10 et 13 ans, c'est une « retenue » de 12 heures.</li>
+<li>Sont <strong>obligatoires</strong> : la présence d'un·e avocat·e, la visite d'un·e médecin et l'enregistrement vidéo des auditions.</li>
+<li>L'avocat·e peut être choisi·e par toi ou tes parents, sinon iel est commis·e d'office. La legal team peut en conseiller un·e si tes parents ou tes proches la contactent vite.</li>
+<li>Un·e mineur·e <strong>ne peut pas être jugé·e en comparution immédiate</strong>. S'il y a des poursuites, c'est un·e juge des enfants qui s'en occupe.</li>
+<li>Le procureur ou le juge des enfants peuvent décider d'une <strong>réparation pénale</strong>, par exemple un stage de citoyenneté à tes frais.</li>
+</ul>
+
+<h2 id="collectif">Défendre ensemble</h2>
 <ol class="principes">
-<li><b>Savoir</b>Pourquoi tu es arrêté·e, et sur quelle base légale.</li>
-<li><b>Prévenir</b>Faire avertir une personne de confiance.</li>
-<li><b>Se soigner</b>Avoir accès à une assistance médicale.</li>
-<li><b>Boire, manger</b>De l'eau, et des repas aux heures habituelles.</li>
-<li><b>Sanitaires</b>Avoir accès aux toilettes.</li>
+<li><b>S'auto-organiser</b>Face à une justice de classe qui cherche à briser les solidarités, la défense se réinvente par tout le monde, sans la laisser aux seul·es spécialistes.</li>
+<li><b>Ne pas se dissocier</b>Pas de « bon·nes » et de « mauvais·es » manifestant·es. Se défendre ne doit jamais mettre d'autres personnes en danger.</li>
+<li><b>Décider soi-même</b>La défense se prépare à trois (prévenu·e, avocat·e, legal team), mais c'est la personne poursuivie qui a le dernier mot.</li>
+<li><b>Partager les frais</b>Une caisse collective aide chacun·e à payer ses frais de justice selon ses besoins, pas selon ses moyens.</li>
 </ol>
+<p>La legal team n'est pas un service d'« avocats gratos » : elle construit, avec les personnes réprimées, une défense politique. À Paris, la Coordination contre la répression se réunit publiquement tous les mardis à 18 h 30 à la Bourse du travail (détails sur paris-luttes.info et agenda-militant.org). Caisse de soutien : kutt.it/stoprep.</p>
 
-<h2 id="types">Administrative ou judiciaire : quelle différence ?</h2>
-<div class="tbl"><table>
-<thead><tr><th></th><th>Arrestation administrative</th><th>Arrestation judiciaire</th></tr></thead>
-<tbody>
-<tr><td>On te reproche</td><td>De menacer l'ordre public ou de vouloir commettre une infraction. Tu n'es pas accusé·e d'un délit.</td><td>D'avoir commis un délit ou un crime (flagrant délit, ou décision du procureur du Roi ou d'un·e juge d'instruction).</td></tr>
-<tr><td>Durée maximale</td><td>12 heures (24 heures en cas de séjour irrégulier).</td><td>48 heures, prolongeable si un·e juge d'instruction délivre un mandat d'arrêt.</td></tr>
-<tr><td>Avocat·e</td><td>—</td><td>Droit à un·e avocat·e et à un·e interprète, avant et pendant l'audition.</td></tr>
-<tr><td>Papiers</td><td>Ton identité est notée dans le registre des arrestations. Ne le signe que si tu l'as lu et qu'il est complet, juste et compréhensible.</td><td>Peut mener à un procès pénal.</td></tr>
-<tr><td>Casier judiciaire</td><td>Rien au casier.</td><td>Oui, en cas de condamnation.</td></tr>
-</tbody>
-</table></div>
-
-<h2 id="audition">3. L'audition</h2>
-<ul>
-<li>Tu as le <strong>droit au silence</strong>. Tout ce que tu dis peut être retenu contre toi. Tu peux dire « je n'ai rien à déclarer », « je fais usage de mon droit au silence », ou simplement te taire.</li>
-<li><strong>Reste calme, mais ferme.</strong></li>
-<li>Après l'audition, tu peux demander une <strong>copie du procès-verbal</strong>, et tu as le droit de <strong>ne pas le signer</strong>, sans sanction.</li>
-</ul>
-<div class="note"><p><strong>Règle d'or de la Legal Team</strong> : ne signe aucun document si tu n'es pas d'accord avec <strong>100 %</strong> de ce qui est écrit.</p></div>
-
-<h2 id="resistance">4. Résistance, oui ! Rébellion, non !</h2>
-<p>Refuser d'obéir à un ordre de la police <strong>n'est pas, en soi, une infraction</strong> : te coucher par terre et te laisser porter, t'enfermer quelque part, t'enfuir pour échapper à l'arrestation… Ce n'est pas punissable en soi, même si ça n'empêche pas la police de continuer son intervention.</p>
-<p>La <strong>rébellion</strong>, elle, est un délit, et la police s'en sert volontiers. C'est résister <strong>avec violence</strong>, même légère (cracher, par exemple), ou avec des <strong>menaces</strong> qui font craindre un danger réel et immédiat. C'est plus grave si vous êtes à plusieurs (deux ou plus) ou si tu es armé·e : une pancarte rigide peut suffire.</p>
-
-<h2 id="sanctions">5. Poursuites et sanctions</h2>
-<p>Pour un même comportement, c'est <strong>soit</strong> une sanction administrative, <strong>soit</strong> des poursuites pénales, jamais les deux. Lors des actions publiques, c'est souvent la SAC.</p>
-<div class="tbl"><table>
-<thead><tr><th>Les SAC (sanctions administratives communales)</th><th>Les poursuites pénales</th></tr></thead>
-<tbody>
-<tr><td>
-<ul>
-<li>Imposées par la commune pour beaucoup de faits : affichage non autorisé, visage dissimulé, blocage de la circulation, escalade de bâtiments ou de clôtures, action non autorisée, non-respect d'un ordre de la police…</li>
-<li><strong>350 € au maximum.</strong> Certain·es militant·es organisent une caisse de solidarité à l'avance.</li>
-<li>Contestable <strong>dans les 15 jours</strong> après réception du courrier de la commune (tu peux aussi demander une prestation citoyenne ou une médiation), puis recours devant le tribunal de police.</li>
-<li><strong>Rien au casier judiciaire.</strong></li>
-</ul>
-</td><td>
-<ul>
-<li>Pour rébellion, outrage, dégradations, blocage « méchant » de la circulation, violation de domicile ou de lieu privé, refus de montrer sa carte d'identité, diffamation selon les messages des banderoles…</li>
-<li>Une condamnation est <strong>inscrite au casier judiciaire</strong>.</li>
-<li>S'il y a un dommage à réparer, une condamnation civile peut s'ajouter.</li>
-</ul>
-</td></tr>
-</tbody>
-</table></div>
-
-<h2 id="filmer">6. Filmer ou photographier la police</h2>
-<p>Sauf exception, <strong>tu peux filmer, photographier ou enregistrer</strong> une intervention policière, avec ton téléphone par exemple. C'est au moment de <strong>diffuser</strong> (internet, presse) qu'il faut parfois respecter le droit à l'image des policier·es, en floutant les visages par exemple, même si ce droit s'efface parfois devant la liberté d'information.</p>
-
-<h2 id="violences">7. Tes droits n'ont pas été respectés ? Violences policières ?</h2>
-<p>Moqueries, harcèlement, coups, force abusive, droits refusés pendant la détention… Tu peux :</p>
-<ol>
-<li><strong>Témoigner auprès d'une organisation indépendante</strong> : Police Watch (policewatch.be) ou l'Observatoire des violences policières (obspol.be).</li>
-<li><strong>Porter plainte</strong> : auprès du Comité P (contrôle des services de police, comitep.be), de l'Inspection générale (aigpol.be), ou du parquet ou d'un·e juge d'instruction, avec l'aide d'un·e avocat·e.</li>
-</ol>
-<ul>
-<li><strong>Garde un maximum de preuves</strong> : témoignages, certificat médical de ton médecin, photos, vidéos.</li>
-<li><strong>Écris tout de suite ce qui s'est passé</strong>, en détail, pendant que c'est frais.</li>
-<li><strong>Parle à un·e avocat·e avant de porter plainte.</strong></li>
-</ul>
-
-<h2 id="retenir">À retenir</h2>
-<div class="note"><p>Note l'heure de ton arrestation. Garde le silence en audition. Ne signe rien dont tu n'es pas sûr·e à 100 %. Résister sans violence n'est pas un délit, la rébellion si. Garde des preuves et écris ton récit tout de suite.</p></div>
-<p class="credit">Fiche rédigée par Mamie Commune d'après le flyer « (Il)légal ? Informations pour les activistes lors d'une action ou d'une arrestation » de la Legal Team Collective et de FIAN Belgium (octobre 2026), qui invite à le partager. Plus d'informations et le flyer original : legalteamcollective.org. Cette fiche ne remplace pas l'avis d'un·e avocat·e.</p>
+<h2 id="contester">Contester un PV de manif</h2>
+<p>Tu as reçu un avis de contravention (souvent 135 €) pour avoir manifesté ? <strong>Ne le paie pas</strong> si tu veux le contester. Envoie une lettre en <strong>recommandé avec accusé de réception</strong>, dans les <strong>45 jours</strong>, à l'officier du ministère public dont l'adresse figure sur l'avis, avec <strong>l'original de l'avis</strong> (rempli, daté et signé au verso) et une copie pour toi. Choisis le modèle qui correspond à ta situation :</p>
+<div class="dl">
+<a class="dl__item" href="modeles/1-sans-base-legale.pdf" download><b>Modèle 1</b><span>Pas d'arrêté d'interdiction sur le PV, ou lieu et heure hors de l'interdiction</span><small>PDF · 2 pages</small></a>
+<a class="dl__item" href="modeles/2-pas-manifestant.pdf" download><b>Modèle 2</b><span>Tu as reçu un PV alors que tu ne manifestais pas</span><small>PDF · 2 pages</small></a>
+<a class="dl__item" href="modeles/3-manif-non-declaree.pdf" download><b>Modèle 3</b><span>Participation à une manifestation non déclarée : ce n'est pas une infraction</span><small>PDF · 2 pages</small></a>
+</div>
+<p>Remplace les passages surlignés en jaune, reformule avec tes mots, et joins ce qui prouve ce que tu dis (attestations sur l'honneur, photos, tickets de caisse…). Garde une copie de tout.</p>
+<p class="credit">Fiche rédigée par Mamie Commune d'après la brochure « Sortez couvert·es » (V7, septembre 2024) de la legal team de la Coordination contre la répression et les violences policières Paris IDF, membre du RAJCOL (rajcollective.noblogs.org). Modèles de lettres d'après les trames de la Legal Team Antiraciste. Ces documents ne remplacent pas l'avis d'un·e avocat·e.</p>

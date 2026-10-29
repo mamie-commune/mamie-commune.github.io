@@ -29,7 +29,7 @@ La publication sur GitHub (`.github/workflows/publier.yml`) **régénère toutes
 powershell -NoProfile -ExecutionPolicy Bypass -File _src/build.ps1
 ```
 
-Le script affiche par exemple `OK : 29 guides, 103 fiches, 37 livres et 12 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
+Le script affiche par exemple `OK : 9 guides, 103 fiches, 37 livres et 15 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
 
 ## Où se trouve quoi
 

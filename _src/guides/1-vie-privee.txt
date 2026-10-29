@@ -13,7 +13,7 @@
 <li>Installe <strong>uBlock Origin</strong> et règle-le : voir <a href="ublock-origin.html">le guide</a>.</li>
 <li>Dans Firefox, protection contre le pistage sur <strong>Stricte</strong>.</li>
 <li>Coche la suppression des cookies à la fermeture.</li>
-<li>Sur Android : <a href="blokada.html">Blokada</a>.</li>
+<li>Sur Android : Blokada, voir <a href="android.html">le guide Android</a>.</li>
 <li>Ne force jamais un avertissement de uBlock : les pubs servent souvent à diffuser des virus.</li>
 </ul>
 
@@ -41,7 +41,7 @@
 <h2 id="plus-loin">Aller plus loin</h2>
 <h3>Réseaux et messageries</h3>
 <ul>
-<li><a href="quitter-facebook.html">Quitte Facebook</a>. Mastodon (façon X) ou Diaspora (façon Facebook), Mobilizon pour les événements.</li>
+<li>Quitte Facebook. Mastodon (façon X) ou Diaspora (façon Facebook), Mobilizon pour les événements.</li>
 <li>À l'inscription, refuse l'accès à tes contacts.</li>
 <li>Remplace WhatsApp et Messenger par <strong>Signal</strong>.</li>
 <li>Pas d'équivalent à TikTok ou Instagram : regarder moins de vidéos reste le meilleur levier.</li>
@@ -121,102 +121,6 @@
 <section><h3>Sites officiels</h3><ul>
 <li><a href="https://ublockorigin.com" rel="noopener">uBlock Origin</a><span>Le site officiel du bloqueur.</span></li>
 <li><a href="https://github.com/gorhill/uBlock/wiki" rel="noopener">Le wiki d'uBlock Origin</a><span>La documentation complète, pour aller plus loin dans les réglages.</span></li>
-</ul></section>
-<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
-</div>
-
-=== youtube-sans-pub | Vie privée | YouTube sans pub et sans pistage | Interfaces alternatives, FreeTube, NewPipe, SponsorBlock et PeerTube, sur ordinateur et téléphone.
-<h2 id="bases">Les bases</h2>
-<ul>
-<li>YouTube appartient à Google et vit de la pub ; il cherche à te garder le plus longtemps possible.</li>
-<li>Les placements de produits passent sous les bloqueurs : <strong>SponsorBlock</strong> les repère grâce aux signalements des internautes.</li>
-<li>Déconnecte-toi de ton compte Google, et évite l'application officielle.</li>
-</ul>
-
-<h2 id="ordi">Sur ordinateur</h2>
-<h3>Interfaces alternatives</h3>
-<p>Les sites <strong>Invidious</strong> ou <strong>Piped</strong> affichent les vidéos YouTube sans pub ni pistage. Une extension Firefox (LibRedirect) y renvoie automatiquement les liens. Piped intègre SponsorBlock, et les deux permettent d'écouter le son seul.</p>
-<h3>YouTube avec extensions</h3>
-<p>uBlock Origin (dans tous les cas) + SponsorBlock.</p>
-<h3>FreeTube (Linux, Windows, macOS)</h3>
-<ul>
-<li>Application libre qui passe par Invidious.</li>
-<li>Dans les réglages : active <strong>SponsorBlock</strong> et <strong>DeArrow</strong> (titres et miniatures moins racoleurs).</li>
-<li>Télécharge une vidéo, le son ou les sous-titres.</li>
-<li>Passe en mode audio pour écouter sans image.</li>
-</ul>
-
-<h2 id="android">Sur Android</h2>
-<ul>
-<li><strong>NewPipe</strong> : uniquement sur F-Droid (méfie-toi des copies sur le Play Store). Bouton « arrière-plan » pour écouter écran éteint. Gère aussi PeerTube, SoundCloud et Bandcamp.</li>
-<li><strong>LibreTube</strong> : sur F-Droid, avec SponsorBlock intégré.</li>
-</ul>
-
-<h2 id="ios">Sur iPhone et iPad</h2>
-<p><strong>Yattee</strong>, application libre pour iOS 14 et plus.</p>
-
-<h2 id="alternatives">Ailleurs que sur YouTube</h2>
-<p>Twitch et Facebook ne valent pas mieux. Vimeo et Dailymotion sont indépendants mais commerciaux. <strong>PeerTube</strong> est libre et décentralisé : idéal pour publier tes vidéos.</p>
-
-<h2 id="sobriete">Regarder moins</h2>
-<p>La vidéo est l'usage numérique le plus gourmand en énergie, surtout en 4G sur téléphone.</p>
-
-<h2 id="sources">Liens utiles et pour aller plus loin</h2>
-<div class="ressources">
-<section><h3>Sites officiels</h3><ul>
-<li><a href="https://freetubeapp.io" rel="noopener">FreeTube</a><span>Regarder YouTube sur ordinateur sans pub ni pistage.</span></li>
-<li><a href="https://newpipe.net" rel="noopener">NewPipe</a><span>L'équivalent sur Android, à installer depuis F-Droid.</span></li>
-<li><a href="https://sponsor.ajay.app" rel="noopener">SponsorBlock</a><span>Sauter les passages sponsorisés.</span></li>
-<li><a href="https://joinpeertube.org" rel="noopener">PeerTube</a><span>L'alternative libre et décentralisée à YouTube.</span></li>
-</ul></section>
-<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
-</div>
-
-=== quitter-facebook | Vie privée | Quitter Facebook | Pourquoi partir, quoi utiliser à la place, et comment supprimer vraiment son compte.
-<h2 id="pourquoi">Pourquoi partir</h2>
-<p>Meta tire environ 95 % de ses revenus de la pub ciblée, donc de l'exploitation de tes données. Ses algorithmes mettent en avant les contenus qui divisent, pour te garder sur l'application. Meta a joué un rôle dans la surveillance de masse et la manipulation politique, et a relâché sa modération depuis 2025.</p>
-
-<h2 id="avant">Avant de supprimer</h2>
-<ul>
-<li><strong>Préviens tes contacts</strong> et donne-leur un autre moyen de te joindre.</li>
-<li><strong>Discussions</strong> : Signal (ou Matrix, XMPP) à la place de Messenger et WhatsApp.</li>
-<li><strong>Événements</strong> : Mobilizon.</li>
-<li><strong>Réseau social</strong> : Mastodon ou Diaspora, si tes proches y sont.</li>
-<li><strong>Diffuser des infos</strong> : un site, une liste de diffusion, une messagerie libre.</li>
-<li>Télécharge une copie de tes données depuis les paramètres.</li>
-</ul>
-
-<h2 id="supprimer">Supprimer le compte (pas le désactiver)</h2>
-<ol>
-<li>Menu en haut à droite → Aide.</li>
-<li>« Gérer votre compte » → désactivation et suppression.</li>
-<li>Choisis la <strong>suppression définitive</strong>.</li>
-<li>Confirme avec ton mot de passe.</li>
-</ol>
-<p>Le lien direct : <code>facebook.com/help/delete_account</code>. Depuis l'application mobile, la démarche passe par Paramètres → Espace comptes → Informations personnelles → Propriété et contrôle du compte.</p>
-
-<h2 id="lucide">Rester lucide</h2>
-<ul>
-<li>Facebook garde ce qu'il a déjà collecté sur toi et tes contacts.</li>
-<li>Le mieux reste de ne jamais créer de compte.</li>
-<li>Un bloqueur de pistage limite son suivi ailleurs sur le web.</li>
-</ul>
-
-<h2 id="meta">Et le reste de Meta</h2>
-<p>Ferme aussi Messenger, WhatsApp, Instagram et Threads. Évite les casques Meta Quest.</p>
-
-<h2 id="pas-pret">Tu hésites encore ?</h2>
-<p>L'extension Firefox <strong>Facebook Container</strong> isole Facebook du reste de ta navigation.</p>
-
-<h2 id="sources">Liens utiles et pour aller plus loin</h2>
-<div class="ressources">
-<section><h3>Sites officiels</h3><ul>
-<li><a href="https://joinmastodon.org" rel="noopener">Mastodon</a><span>Un réseau social libre et décentralisé, sans publicité.</span></li>
-<li><a href="https://mobilizon.org" rel="noopener">Mobilizon</a><span>Organiser des événements sans Facebook.</span></li>
-<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Trouver un hébergeur alternatif.</span></li>
-</ul></section>
-<section><h3>Tes droits</h3><ul>
-<li><a href="https://www.cnil.fr" rel="noopener">CNIL</a><span>Récupérer ses données et faire supprimer son compte : tes droits.</span></li>
 </ul></section>
 <section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
 </div>

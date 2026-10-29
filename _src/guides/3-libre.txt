@@ -1,0 +1,53 @@
+=== pourquoi-le-libre | Ordinateur | Pourquoi passer au libre ? | Sécurité, économies, durée de vie des machines, vie privée et pouvoir collectif : les raisons de changer.
+<p>Changer d'outils demande un effort. Autant savoir pourquoi on le fait : de meilleurs outils, et moins d'ennuis au quotidien.</p>
+
+<h2 id="securite">Sécurité des machines et des données</h2>
+<ul>
+<li>GNU/Linux est bien moins visé par les virus que Windows ou macOS.</li>
+<li>Les logiciels s'installent depuis des dépôts officiels vérifiés, et les correctifs arrivent vite.</li>
+<li>Un logiciel libre n'a pas de code caché : pas de pub, pas d'espionnage, rien dans ton dos.</li>
+<li>Les formats ouverts (OpenDocument) restent lisibles dans des années, même si l'éditeur disparaît.</li>
+<li>Les DRM limitent ce que tu peux faire de tes musiques, films et livres. Préfère les fichiers sans DRM.</li>
+</ul>
+
+<h2 id="economies">Économies et écologie</h2>
+<ul>
+<li>Windows et macOS ne sont pas gratuits : leur prix est caché dans celui de la machine.</li>
+<li>Les logiciels propriétaires poussent à racheter des versions. Les logiciels libres sont presque toujours gratuits ; on les soutient par des dons.</li>
+<li>GNU/Linux fait tourner des ordinateurs anciens : moins de déchets électroniques.</li>
+</ul>
+
+<h2 id="usage">Ergonomie et fiabilité</h2>
+<ul>
+<li>Un logiciel libre est fait pour celles et ceux qui l'utilisent, et tout le monde peut participer.</li>
+<li>Interfaces claires et réglables. La logithèque installe tout en un clic, mises à jour comprises.</li>
+<li>Le système reste stable dans le temps, sans réinstallation régulière.</li>
+<li>Une communauté accueillante aide les personnes qui débutent ; des entreprises proposent aussi un accompagnement payant.</li>
+<li>Peu gourmand : bureautique, vidéo, mail et web ne demandent pas de changer de matériel.</li>
+</ul>
+
+<h2 id="vie-privee">Vie privée et neutralité</h2>
+<p>Les services non libres récoltent ton historique, tes contacts, parfois tes mots de passe, pour la pub, l'argent ou la politique. Les moteurs de recherche et réseaux sociaux trient ce que tu vois et t'enferment dans une bulle. Les logiciels libres et les services éthiques ne fonctionnent pas comme ça.</p>
+
+<h2 id="collectif">Une démarche collective</h2>
+<p>Quelques géants, américains et chinois, concentrent aujourd'hui l'informatique et le pouvoir qui va avec. Le libre propose un modèle ouvert, divers et égalitaire. La liberté de chaque personne dépend de celle des autres : passer au libre, c'est aussi entraîner son entourage.</p>
+
+<h2 id="commencer">Par où commencer</h2>
+<ul>
+<li><a href="stop-gafam.html">Éviter la pub, le traçage et les GAFAM</a></li>
+<li><a href="installer-linux-mint.html">Installer Linux Mint</a></li>
+</ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.april.org" rel="noopener">April</a><span>L'association française de promotion et de défense du logiciel libre.</span></li>
+<li><a href="https://www.gnu.org/philosophy/free-sw.fr.html" rel="noopener">Qu'est-ce que le logiciel libre ?</a><span>La définition des quatre libertés, par la Free Software Foundation.</span></li>
+<li><a href="https://framasoft.org" rel="noopener">Framasoft</a><span>L'association qui propose des services libres et éthiques à toutes et à tous.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>L'annuaire des logiciels libres, en français.</span></li>
+<li><a href="https://www.halteobsolescence.org" rel="noopener">HOP</a><span>Halte à l'obsolescence programmée : faire durer ses appareils.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

@@ -1,0 +1,63 @@
+=== installer-linux-mint | Ordinateur | Installer Linux Mint pas à pas | De la clé USB au premier démarrage : télécharger, préparer la clé, tester en live, installer.
+<h2 id="avant">Avant de commencer</h2>
+<ul>
+<li><strong>Sauvegarde</strong> tes documents sur un disque externe. L'installation peut effacer le disque interne. Voir le guide <a href="sauvegardes.html">Faire des sauvegardes</a>.</li>
+<li>Prévois une <strong>clé USB d'au moins 8 Go</strong> (son contenu sera effacé) et une demi-journée.</li>
+<li>Branche l'ordinateur sur secteur et, si possible, sur un câble réseau.</li>
+<li>Choisis ton édition : Cinnamon à partir de 4 Go de RAM, Xfce pour les machines plus modestes.</li>
+</ul>
+
+<h2 id="iso">1. Télécharger l'image ISO</h2>
+<p>Sur le site officiel de Linux Mint, rubrique « Download », prends la dernière version (22.x) dans l'édition choisie. Le fichier fait environ 3 Go et se termine par <code>.iso</code>. Télécharge-le uniquement depuis le site officiel ou l'un de ses miroirs.</p>
+<p>Par prudence, tu peux aussi vérifier la somme de contrôle SHA256 indiquée sur la page de téléchargement. Sous Linux : <code>sha256sum linuxmint-22.iso</code>.</p>
+
+<h2 id="cle">2. Préparer la clé USB</h2>
+<p>Copier l'ISO sur la clé ne suffit pas : il faut l'« écrire » avec un outil dédié.</p>
+<ul>
+<li><strong>Depuis Windows</strong> : Rufus ou balenaEtcher. Choisis la clé, l'image ISO, puis « Démarrer ». Garde les options par défaut.</li>
+<li><strong>Depuis Linux</strong> : l'outil « Créateur de clé USB » (mintstick) ou balenaEtcher.</li>
+<li><strong>Ventoy</strong> permet de mettre plusieurs ISO sur une même clé et de choisir au démarrage.</li>
+</ul>
+
+<h2 id="live">3. Démarrer sur la clé et tester</h2>
+<ol>
+<li>Clé branchée, redémarre l'ordinateur.</li>
+<li>Pendant l'allumage, appuie sur la touche du menu de démarrage. Selon la marque : <kbd>F12</kbd> (Dell, Lenovo), <kbd>F9</kbd> (HP), <kbd>F11</kbd> ou <kbd>F8</kbd> (Asus, MSI), <kbd>Échap</kbd> ou <kbd>F2</kbd> sur d'autres.</li>
+<li>Choisis la clé USB (parfois listée comme « UEFI: nom de la clé »).</li>
+<li>Dans le menu de Mint, valide « Start Linux Mint ». Le bureau « live » s'ouvre : rien n'est modifié sur ton disque.</li>
+</ol>
+<p>Profite de ce mode pour vérifier le wifi, le son, la webcam, l'écran et l'imprimante. Si tout marche ici, tout marchera une fois installé.</p>
+<div class="note"><p>Si la clé n'apparaît pas, désactive « Secure Boot » ou « Fast Boot » dans le BIOS/UEFI (touche <kbd>F2</kbd> ou <kbd>Suppr</kbd> au démarrage). Sous Windows, désactive aussi le « démarrage rapide » dans les options d'alimentation.</p></div>
+
+<h2 id="installer">4. Installer</h2>
+<ol>
+<li>Double-clique sur « Install Linux Mint » sur le bureau live.</li>
+<li>Langue : Français. Clavier : Français (variante par défaut).</li>
+<li>Coche l'installation des <strong>codecs multimédias</strong>.</li>
+<li>Type d'installation :
+  <ul>
+  <li><strong>Installer à côté de Windows</strong> : double démarrage, tu choisis le système à chaque allumage.</li>
+  <li><strong>Effacer le disque et installer Linux Mint</strong> : remplace tout. Uniquement si ta sauvegarde est faite.</li>
+  </ul></li>
+<li>Fuseau horaire, puis nom, nom de l'ordinateur et mot de passe. Note ce mot de passe : il sert aussi pour les mises à jour.</li>
+<li>Attends la fin (15 à 30 minutes), redémarre, retire la clé quand on te le demande.</li>
+</ol>
+
+<h2 id="apres">5. Juste après</h2>
+<ul>
+<li>L'écran d'accueil s'ouvre : fais les <strong>mises à jour</strong>, choisis des miroirs rapides, installe les pilotes si un matériel ne marche pas.</li>
+<li>Crée un premier instantané <strong>Timeshift</strong> une fois tout réglé.</li>
+</ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>Le site officiel : téléchargement et notes de version.</span></li>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>La communauté francophone, avec son forum d'entraide.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>Une immense documentation en français, valable aussi pour Mint, qui est basée sur Ubuntu.</span></li>
+<li><a href="https://emmabuntus.org" rel="noopener">Emmabuntus</a><span>Un collectif qui reconditionne de vieux ordinateurs sous Linux pour des associations.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

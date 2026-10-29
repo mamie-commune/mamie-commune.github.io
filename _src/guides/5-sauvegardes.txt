@@ -1,0 +1,59 @@
+=== sauvegardes | Ordinateur | Faire des sauvegardes | Pourquoi, quoi, quand, sur quel support et avec quels logiciels libres sauvegarder ses données.
+<h2 id="pourquoi">Pourquoi</h2>
+<p>Tes données peuvent disparaître à tout moment : fausse manip, disque en panne, vol, perte, virus, compte en ligne piraté ou fermé.</p>
+
+<h2 id="types">Trois façons de sauvegarder</h2>
+<ul>
+<li><strong>Copie simple</strong> : tu recopies tes fichiers. Nomme le dossier avec le contenu et la date.</li>
+<li><strong>Synchronisation</strong> : la destination est le miroir exact de la source. Pas d'anciennes versions.</li>
+<li><strong>Incrémentale</strong> : seuls les fichiers modifiés sont copiés à chaque fois ; tu peux revenir à l'état d'une date donnée.</li>
+</ul>
+
+<h2 id="quoi">Quoi sauvegarder</h2>
+<ul>
+<li>Ton <strong>dossier personnel</strong> (et ta partition de données s'il y en a une).</li>
+<li>Le profil de ton navigateur (favoris, mots de passe), celui de Thunderbird si tes mails sont en local, ta base KeePass.</li>
+<li>Les contacts du téléphone.</li>
+</ul>
+
+<h2 id="quand">Quand</h2>
+<ul>
+<li>Selon ce que tu produis : après une grosse séance de travail, sauvegarde tout de suite.</li>
+<li>Combine des sauvegardes complètes espacées et des partielles fréquentes.</li>
+<li>Une sauvegarde programmée ne marche que si l'ordi est allumé et le disque branché.</li>
+</ul>
+
+<h2 id="support">Sur quoi</h2>
+<ul>
+<li><strong>Calcule le volume</strong> : clic droit sur le dossier → Propriétés. Une heure de vidéo Full HD ≈ 4,5 Go ; un texte, presque rien.</li>
+<li><strong>Disque externe</strong> USB 3.0 : un disque interne dans un boîtier USB coûte moins cher qu'un disque externe tout fait.</li>
+<li><strong>En ligne</strong> : évite Dropbox et les GAFAM. Un Nextcloud chez un hébergeur éthique (Murena, Zaclys, un CHATON).</li>
+<li><strong>Règle d'or</strong> : une copie <strong>hors de chez toi</strong> (incendie, cambriolage), et chiffre les données sensibles.</li>
+</ul>
+
+<h2 id="logiciels">Avec quoi</h2>
+<div class="tbl"><table>
+<thead><tr><th>Type</th><th>Linux</th><th>Windows</th></tr></thead>
+<tbody>
+<tr><td>Copie simple</td><td>Outil de sauvegarde de Mint (mintbackup)</td><td>Copier-coller</td></tr>
+<tr><td>Synchronisation</td><td>luckyBackup, Syncthing</td><td>Create Synchronicity</td></tr>
+<tr><td>Incrémentale</td><td>Déjà Dup, BorgBackup</td><td>—</td></tr>
+<tr><td>Comparer des dossiers</td><td>Meld</td><td>Meld, WinMerge</td></tr>
+<tr><td>Système</td><td>Timeshift</td><td>Points de restauration</td></tr>
+</tbody></table></div>
+<p>Les logiciels livrés sur les disques externes ne sont pas libres : ignore-les.</p>
+<div class="note"><p>Si ton ordinateur essaie de démarrer sur le disque de sauvegarde, débranche-le avant l'allumage ou mets le disque interne en premier dans le BIOS.</p></div>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://github.com/linuxmint/timeshift" rel="noopener">Timeshift</a><span>Sauvegarder le système sous Linux.</span></li>
+<li><a href="https://apps.gnome.org/fr/DejaDup/" rel="noopener">Déjà Dup</a><span>Sauvegarder ses fichiers personnels, simplement.</span></li>
+<li><a href="https://www.veracrypt.fr" rel="noopener">VeraCrypt</a><span>Chiffrer un disque de sauvegarde, pour qu'il soit illisible s'il est perdu ou saisi.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://nextcloud.com" rel="noopener">Nextcloud</a><span>Un nuage libre, à héberger soi-même ou chez un CHATON.</span></li>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Des hébergeurs de confiance.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

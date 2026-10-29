@@ -1,4 +1,4 @@
-=== android | Mobile | Libérer un appareil Android | F-Droid, Aurora Store, applications libres par usage, réglages, et systèmes sans Google comme /e/OS.
+=== android | Téléphone | Libérer un appareil Android | F-Droid, Aurora Store, applications libres par usage, réglages, et systèmes sans Google comme /e/OS.
 <h2 id="avant">Avant de commencer</h2>
 <ul>
 <li>Le plus simple : un téléphone livré <strong>sans Google</strong>, avec /e/OS (vendu par Murena).</li>
@@ -13,7 +13,7 @@
 <ul>
 <li><strong>Firefox</strong> + uBlock Origin, DuckDuckGo comme moteur, retire les raccourcis GAFAM.</li>
 <li><strong>Signal</strong> pour les conversations.</li>
-<li><strong><a href="blokada.html">Blokada</a></strong> pour bloquer pub et traqueurs dans les autres applis.</li>
+<li><strong>Blokada</strong> pour bloquer pub et traqueurs dans les autres applis.</li>
 <li>Désinstalle ou désactive <strong>Gemini</strong>.</li>
 </ul>
 
@@ -71,7 +71,7 @@
 <section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
 </div>
 
-=== ios | Mobile | Libérer (un peu) un iPhone ou un iPad | Ce qu'on peut faire selon la version d'iOS : navigateur, bloqueur, moteur de recherche et applications libres.
+=== ios | Téléphone | Libérer (un peu) un iPhone ou un iPad | Ce qu'on peut faire selon la version d'iOS : navigateur, bloqueur, moteur de recherche et applications libres.
 <h2 id="version">Ta version d'iOS</h2>
 <p>Réglages → Général → Informations → Version. Ce qui est possible en dépend.</p>
 
@@ -128,55 +128,6 @@
 </ul></section>
 <section><h3>Pour aller plus loin</h3><ul>
 <li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Les réglages de confidentialité de l'iPhone expliqués.</span></li>
-</ul></section>
-<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
-</div>
-
-=== blokada | Mobile | Blokada : bloquer pub et traqueurs sur Android | Installer et régler Blokada 5 (gratuit), quelles applis exclure, et les alternatives.
-<h2 id="quoi">Ce que ça fait</h2>
-<p>Blokada filtre le trafic des autres applications et bloque une grande partie des pubs et traqueurs. Il passe par un « VPN local » : <strong>aucune donnée ne quitte ton téléphone</strong>. On parle ici de la version gratuite pour Android ; la version 6 sur abonnement existe sur tous les systèmes.</p>
-
-<h2 id="prerequis">Prérequis</h2>
-<ul>
-<li>Android 5 ou plus. Android 7 et plus : <strong>Blokada 5</strong>. Avant : Blokada 4.</li>
-<li>Télécharge-le depuis le site officiel de Blokada (il n'est plus sur F-Droid).</li>
-<li>Autorise l'installation depuis cette source si on te le demande.</li>
-<li>Désinstalle d'abord une ancienne version (Blokada 4 ou Slim).</li>
-<li>Si un « DNS privé » est activé et bloque l'installation, remets-le en automatique.</li>
-</ul>
-
-<h2 id="reglages">Régler Blokada 5</h2>
-<ol>
-<li>Active le blocage avec le gros bouton, accepte la connexion VPN.</li>
-<li>Coupe ses notifications (elles s'affichent à chaque accès internet).</li>
-<li>Dans les paramètres du téléphone : exclus Blokada de l'optimisation de batterie.</li>
-<li>Paramètres → Réseau → VPN → Blokada : active le <strong>VPN permanent</strong> pour qu'il démarre tout seul.</li>
-</ol>
-
-<h2 id="exclure">Applications à laisser passer</h2>
-<p>Certaines applis ne marchent plus une fois filtrées, par exemple AnyDesk, RustDesk, <strong>Warpinator</strong> et Aurora Store. Dans Paramètres avancés → Apps, mets-les en « contournement ». Pour trouver le coupable : coupe Blokada, réessaie l'appli.</p>
-
-<h2 id="quotidien">Au quotidien</h2>
-<ul>
-<li>Laisse-le actif en permanence : il consomme peu.</li>
-<li>L'historique montre ce qui a été bloqué ou autorisé.</li>
-<li>Le message « compte expiré » n'a aucune conséquence en version gratuite.</li>
-</ul>
-
-<h2 id="limites">Limites</h2>
-<ul>
-<li>Les wifi publics avec page de connexion peuvent ne pas marcher.</li>
-<li>Difficile d'utiliser un autre VPN en même temps.</li>
-</ul>
-
-<h2 id="alternatives">Alternatives</h2>
-<p>RethinkDNS, TrackerControl, personalDNSfilter et AdAway font des choses proches, avec d'autres compromis.</p>
-
-<h2 id="sources">Liens utiles et pour aller plus loin</h2>
-<div class="ressources">
-<section><h3>Sites officiels</h3><ul>
-<li><a href="https://blokada.org" rel="noopener">Blokada</a><span>Le site officiel : télécharger la version gratuite.</span></li>
-<li><a href="https://f-droid.org" rel="noopener">F-Droid</a><span>D'autres applis libres pour protéger son téléphone.</span></li>
 </ul></section>
 <section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
 </div>

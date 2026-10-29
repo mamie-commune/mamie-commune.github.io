@@ -100,3 +100,5 @@ qui-suis-je=michel-bakounine-qui-suis-je
 anarchie-louise-michel=louise-michel-anarchie
 l-individualisme=albert-libertad-l-individualisme
 l-anarchie-grave=jean-grave-l-anarchie
+aux-vagabonds=lucy-parsons-aux-vagabonds
+principes-anarchisme-parsons=parsons-lucy-les-principes-de-l-anarchisme

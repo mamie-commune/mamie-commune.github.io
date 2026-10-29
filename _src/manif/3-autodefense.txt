@@ -1,0 +1,55 @@
+=== autodefense-feministe | Autodéfense | L'autodéfense féministe | D'après Irene Zeilinger, Elsa Dorlin et l'association Garance · 2026 | Ce n'est pas un sport de combat : poser ses limites, désamorcer, crier, fuir, et seulement en dernier recours frapper. Ce qu'on apprend en stage, pour qui, et où les trouver.
+<p>Mamie n'a jamais fait de karaté. Mais elle sait dire « non » d'une voix qui arrête un homme à trois mètres, et elle a appris ça avec d'autres femmes, dans une salle des fêtes, un samedi. <strong>L'autodéfense féministe, ce n'est pas devenir plus forte que l'agresseur : c'est reprendre la main.</strong></p>
+
+<h2 id="quoi">Ce que c'est</h2>
+<p>Née dans les mouvements féministes des années 1970, l'autodéfense féministe est un ensemble d'outils pour faire face aux violences sexistes, dans la rue, au travail, à la maison, et aussi chez les camarades. Elle part d'un constat : on apprend aux filles à avoir peur et à se taire, et aux garçons à prendre de la place. Pour la sociologue <strong>Irene Zeilinger</strong>, ignorer une agression, c'est laisser l'agresseur décider de tout. La philosophe <strong>Elsa Dorlin</strong>, dans <em>Se défendre</em>, montre comment le droit de se défendre a toujours été réservé à certains corps, et refusé aux autres.</p>
+
+<h2 id="niveaux">Quatre niveaux de défense</h2>
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 250" role="img" aria-label="Les quatre niveaux de l'autodéfense féministe, du mental au physique">
+<rect class="bx-r" x="20" y="20" width="680" height="44"/><text class="t" x="360" y="48" text-anchor="middle">Mental : sentir le danger, se faire confiance, décider</text>
+<rect class="bx" x="70" y="76" width="580" height="44"/><text class="t" x="360" y="104" text-anchor="middle">Émotionnel : transformer la peur en énergie</text>
+<rect class="bx" x="120" y="132" width="480" height="44"/><text class="t" x="360" y="160" text-anchor="middle">Verbal : dire non, nommer, crier, alerter</text>
+<rect class="bx-d" x="170" y="188" width="380" height="44"/><text class="t" x="360" y="216" text-anchor="middle">Physique : se dégager, frapper, fuir</text>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> La plupart des situations se règlent dans les trois premiers niveaux. Le physique est un dernier recours, mais on l'apprend aussi.</figcaption>
+</figure>
+
+<h2 id="stage">Ce qu'on apprend en stage</h2>
+<ul>
+<li><strong>Repérer</strong> les situations qui dérapent, souvent avec des gens qu'on connaît, et se faire confiance quand « quelque chose cloche ».</li>
+<li><strong>Poser ses limites</strong> d'une voix ferme, avec des phrases courtes : « Non. Recule. » Sans se justifier ni s'excuser.</li>
+<li><strong>Nommer</strong> ce qui se passe à voix haute pour rendre les témoins acteurs : « Monsieur, enlevez votre main de ma cuisse. »</li>
+<li><strong>Crier</strong> pour de vrai, ce qu'on n'a souvent jamais fait.</li>
+<li><strong>Se dégager</strong> d'une prise et frapper des zones sensibles, quelle que soit sa force ou sa condition physique, pour <strong>s'enfuir</strong>.</li>
+<li><strong>Aider les autres</strong> : intervenir quand on est témoin, soutenir après.</li>
+</ul>
+<p>Un stage dure en général un week-end. On n'a besoin d'aucune condition physique, et les formatrices adaptent les gestes aux corps de chacune.</p>
+
+<h2 id="pourqui">Pour qui ?</h2>
+<p>La plupart des stages sont <strong>en non-mixité</strong> : femmes, cis et trans, et souvent aussi personnes non binaires et minorités de genre. Certains sont pensés pour des publics précis : jeunes filles, femmes âgées, lesbiennes, femmes racisées, travailleuses du sexe, personnes en situation de handicap. La non-mixité permet de parler librement de ce qu'on a vécu.</p>
+
+<h2 id="ou">Où trouver un stage</h2>
+<ul>
+<li>En France, il existe une quinzaine d'associations d'autodéfense féministe, surtout dans les villes. Les méthodes s'appellent <strong>Riposte</strong> (venue du Québec), <strong>Seito Boei</strong>, <strong>Fem Do Chi</strong>, ou s'inspirent de l'association belge <strong>Garance</strong>.</li>
+<li>Demande aux <strong>plannings familiaux</strong>, aux centres LGBTI, aux librairies et lieux féministes, ou aux collectifs de la <a href="../carte.html">carte</a>.</li>
+<li>Beaucoup de stages sont à <strong>prix libre</strong> ou adaptés aux revenus : n'hésite pas à demander.</li>
+</ul>
+
+<h2 id="manif">Et en manif ?</h2>
+<p>L'autodéfense féministe sert aussi dans les cortèges : se tenir en groupe, ne laisser personne seule, réagir ensemble face à un harceleur ou un groupe d'extrême droite. Pour la suite, voir <a href="legal-team.html">Legal Team</a> et <a href="../antifascisme/agir-antifasciste.html">Agir contre l'extrême droite</a>. Et pour les violences chez les camarades : <a href="../agir/violences-dans-nos-collectifs.html">Réagir aux violences dans nos collectifs</a>.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="https://www.editions-zones.fr/livres/non-cest-non/" rel="noopener"><cite>Non, c'est non. Petit manuel d'autodéfense à l'usage de toutes les femmes qui en ont marre de se faire emmerder sans rien dire</cite>, Irene Zeilinger, Zones, 2008</a><span>Le manuel de référence, concret et drôle.</span></li>
+<li><a href="https://www.editions-zones.fr/livres/se-defendre/" rel="noopener"><cite>Se défendre. Une philosophie de la violence</cite>, Elsa Dorlin, Zones, 2017</a><span>Qui a le droit de se défendre, et pourquoi.</span></li>
+</ul></section>
+<section><h3>Se former</h3><ul>
+<li><a href="https://www.garance.be" rel="noopener">Garance</a><span>Association bruxelloise d'autodéfense féministe : stages, ressources, analyses.</span></li>
+<li><a href="https://arretonslesviolences.gouv.fr" rel="noopener">Arrêtons les violences</a><span>Numéros d'écoute et associations près de chez toi.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Elle donne envie, elle ne remplace pas un stage.</p>

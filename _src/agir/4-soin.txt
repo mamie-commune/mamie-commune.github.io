@@ -1,0 +1,76 @@
+=== violences-dans-nos-collectifs | Prendre soin du collectif | Réagir aux violences sexistes et sexuelles dans nos collectifs | D'après Elsa Deck Marsault, des collectifs de justice transformatrice et les associations d'aide · 2026 | Écouter et croire, protéger la personne, se donner un protocole avant que ça arrive, et sortir de la seule logique de punition : ce que nos milieux peuvent faire face aux violences en leur sein.
+<p>Mamie aimerait dire que nos collectifs sont des îlots de pureté. Ce n'est pas vrai. Les violences sexistes et sexuelles existent aussi chez les camarades, dans les squats, les syndicats, les AG, les soirées de soutien. Et trop souvent, on a protégé le « bon militant » plutôt que la personne qu'il avait agressée. <strong>Un collectif qui veut changer le monde doit d'abord savoir protéger les siens.</strong></p>
+
+<div class="note"><p><strong>En cas d'urgence ou de danger immédiat</strong> : le 17 (police) ou le 112. Pour être écoutée et conseillée, gratuitement et anonymement : le <strong>3919</strong> (Violences Femmes Info, 24 heures sur 24) et le <strong>0 800 05 95 95</strong> (Viols Femmes Informations, du lundi au vendredi). Ces lignes écoutent aussi les personnes qui ne sont pas des femmes. Personne n'est obligé de porter plainte, et personne ne doit être forcé à ne pas le faire.</p></div>
+
+<h2 id="ecouter">Quand quelqu'un te parle</h2>
+<ol class="principes">
+<li><b>Croire</b>ne pas mettre en doute, ne pas enquêter à la place</li>
+<li><b>Écouter</b>laisser parler, sans questions intrusives</li>
+<li><b>Respecter ses choix</b>c'est la personne qui décide de la suite</li>
+<li><b>Ne pas rester seul</b>proposer du soutien, et en chercher pour soi</li>
+</ol>
+<ul>
+<li>Dis-lui que <strong>ce n'est pas de sa faute</strong>, et que tu es là.</li>
+<li>Ne lui demande pas de « prouver », ne la confronte pas à l'autre personne.</li>
+<li><strong>Ne répands pas l'histoire</strong> sans son accord, même pour « bien faire ».</li>
+<li>Demande-lui <strong>ce dont elle a besoin maintenant</strong> : ne plus croiser cette personne, être accompagnée chez un médecin, parler à une association, rien du tout pour l'instant.</li>
+</ul>
+
+<h2 id="proteger">Protéger, tout de suite</h2>
+<p>Avant de juger quoi que ce soit, le collectif doit s'assurer que la personne qui a parlé <strong>peut continuer à venir</strong> sans peur. Concrètement, ça veut souvent dire demander à la personne mise en cause de <strong>se mettre en retrait</strong> des réunions, des soirées et des groupes de discussion, le temps qu'une démarche soit décidée. Ce retrait n'est pas une condamnation : c'est une mesure de protection.</p>
+
+<h2 id="protocole">Se donner un protocole avant que ça arrive</h2>
+<p>Le pire moment pour inventer une méthode, c'est en pleine crise, quand tout le monde a un avis et un ami dans l'histoire. Beaucoup de collectifs écrivent à l'avance un <strong>protocole</strong>, discuté et adopté en AG :</p>
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 220" role="img" aria-label="Les étapes d'un protocole contre les violences dans un collectif">
+<defs><marker id="vs1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
+<rect class="bx-r" x="10" y="30" width="160" height="70"/><text class="t" x="90" y="60" text-anchor="middle">1. Recevoir</text><text class="s" x="90" y="82" text-anchor="middle">des personnes relais</text>
+<rect class="bx" x="190" y="30" width="160" height="70"/><text class="t" x="270" y="60" text-anchor="middle">2. Protéger</text><text class="s" x="270" y="82" text-anchor="middle">mise en retrait</text>
+<rect class="bx" x="370" y="30" width="160" height="70"/><text class="t" x="450" y="60" text-anchor="middle">3. Accompagner</text><text class="s" x="450" y="82" text-anchor="middle">deux groupes séparés</text>
+<rect class="bx" x="550" y="30" width="160" height="70"/><text class="t" x="630" y="60" text-anchor="middle">4. Décider</text><text class="s" x="630" y="82" text-anchor="middle">avec la personne</text>
+<path class="ar" d="M172 65H188" marker-end="url(#vs1)"/><path class="ar" d="M352 65H368" marker-end="url(#vs1)"/><path class="ar" d="M532 65H548" marker-end="url(#vs1)"/>
+<rect class="bx-d" x="110" y="140" width="500" height="56"/><text class="t" x="360" y="164" text-anchor="middle">Confidentialité à chaque étape</text><text class="s" x="360" y="184" text-anchor="middle">on ne raconte rien sans l'accord de la personne qui a subi</text>
+<path class="ld" d="M90 100V140M270 100V140M450 100V140M630 100V140"/>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> Les grandes étapes que l'on retrouve dans la plupart des protocoles. Chaque collectif les adapte à sa taille et à son fonctionnement.</figcaption>
+</figure>
+<ul>
+<li><strong>Des personnes relais</strong>, deux ou trois, connues de tout le monde, à qui l'on peut s'adresser. Pas forcément les plus anciennes ni les plus influentes. Idéalement formées, et qui tournent.</li>
+<li><strong>Deux groupes séparés</strong> : l'un soutient la personne qui a subi, l'autre parle avec la personne mise en cause. Les mêmes gens ne peuvent pas tenir les deux rôles.</li>
+<li><strong>Des règles claires</strong> sur la confidentialité, la mise en retrait, et qui décide de quoi.</li>
+<li><strong>Une porte de sortie vers l'extérieur</strong> : associations d'aide, juristes, soignants. Un collectif militant n'est pas un tribunal, ni un service de soin.</li>
+</ul>
+
+<h2 id="punir">Au-delà de la punition</h2>
+<p>Beaucoup de nos milieux refusent la police et la prison, et c'est cohérent. Mais faute d'autre chose, ils recréent souvent un petit tribunal : rumeur, exclusion publique, dénonciation sur les réseaux, et l'affaire est close. Dans <em>Faire justice</em> (La Fabrique, 2023), la militante <strong>Elsa Deck Marsault</strong>, du collectif Fracas, critique ce « moralisme punitif » : il soulage le groupe, mais protège rarement les victimes sur la durée, et ne change rien aux causes.</p>
+<p>La <strong>justice transformatrice</strong>, née dans les communautés noires, autochtones et queer d'Amérique du Nord, propose autre chose :</p>
+<ul>
+<li>répondre <strong>aux besoins de la personne qui a subi</strong> : sécurité, reconnaissance, réparation ;</li>
+<li>demander à la personne qui a fait du mal de <strong>reconnaître les faits et de changer</strong>, avec un accompagnement et des engagements concrets, sur la durée ;</li>
+<li>transformer <strong>le collectif lui-même</strong> : qu'est-ce qui, chez nous, a permis ces violences et les a couvertes ?</li>
+</ul>
+<p>Ce n'est pas une méthode miracle, ni une obligation : c'est long, difficile, et ça demande des gens formés. Et quand la personne mise en cause refuse toute remise en question, <strong>l'exclusion reste une protection légitime</strong>.</p>
+
+<h2 id="pods">Préparer son entourage</h2>
+<p>Le Bay Area Transformative Justice Collective propose un outil simple : le <strong>« pod »</strong>. Chacune et chacun note les quelques personnes vers qui se tourner si l'on subit une violence, ou si l'on en commet une. Faire cette carte à l'avance, c'est savoir qui appeler le jour où ça arrive.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Se faire aider</h3><ul>
+<li><a href="https://arretonslesviolences.gouv.fr" rel="noopener">Arrêtons les violences</a><span>Le site public : numéros d'écoute, associations près de chez toi, tchat.</span></li>
+<li><a href="https://www.dilcrah.gouv.fr/ressources/trouver-un-centre-lgbt" rel="noopener">Trouver un centre LGBTI</a><span>Lieux d'accueil et d'écoute pour les personnes LGBTI victimes de violences.</span></li>
+</ul></section>
+<section><h3>Lire</h3><ul>
+<li><a href="https://lafabrique.fr/faire-justice/" rel="noopener"><cite>Faire justice</cite>, Elsa Deck Marsault, La Fabrique, 2023</a><span>Contre les pratiques punitives dans nos milieux, pour une justice transformatrice.</span></li>
+<li><a href="https://batjc.wordpress.com/resources/pods-and-pod-mapping-worksheet/" rel="noopener">Pods and pod mapping</a><span>Bay Area Transformative Justice Collective : préparer son entourage. En anglais.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Justice_transformatrice" rel="noopener">La justice transformatrice sur Wikipédia</a><span>D'où elle vient et ce qu'elle propose.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="monter-un-collectif.html">Monter un collectif qui tient</a><span>Écrire les règles du groupe avant les crises.</span></li>
+<li><a href="../manif/autodefense-feministe.html">L'autodéfense féministe</a><span>Poser ses limites et se défendre, dans la rue comme chez les camarades.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace ni l'écoute d'une association spécialisée, ni l'avis d'une avocate ou d'un avocat. Libre de reproduction.</p>

@@ -86,6 +86,29 @@
 <li><strong>Les syndicats et les autres collectifs</strong> : beaucoup ont une caisse et peuvent abonder la tienne.</li>
 </ul>
 
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 300" role="img" aria-label="Le chemin de l'argent dans une caisse de solidarité">
+<defs><marker id="ca1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
+<text class="sr" x="105" y="20" text-anchor="middle">Ce qui rentre</text><text class="sr" x="615" y="20" text-anchor="middle">Ce qui sort</text>
+<rect class="bx" x="10" y="32" width="190" height="40"/><text class="t" x="105" y="57" text-anchor="middle">Cotisations</text>
+<rect class="bx" x="10" y="82" width="190" height="40"/><text class="t" x="105" y="107" text-anchor="middle">Soirées prix libre</text>
+<rect class="bx" x="10" y="132" width="190" height="40"/><text class="t" x="105" y="157" text-anchor="middle">Seaux et boîtes</text>
+<rect class="bx" x="10" y="182" width="190" height="40"/><text class="t" x="105" y="207" text-anchor="middle">Dons, cagnottes</text>
+<rect class="bx-r" x="270" y="82" width="180" height="90"/><text class="tb" x="360" y="122" text-anchor="middle">La caisse</text><text class="s" x="360" y="148" text-anchor="middle">comptes tenus à deux</text>
+<rect class="bx" x="520" y="32" width="190" height="40"/><text class="t" x="615" y="57" text-anchor="middle">Frais d'avocat</text>
+<rect class="bx" x="520" y="82" width="190" height="40"/><text class="t" x="615" y="107" text-anchor="middle">Amendes</text>
+<rect class="bx" x="520" y="132" width="190" height="40"/><text class="t" x="615" y="157" text-anchor="middle">Jours de grève</text>
+<rect class="bx" x="520" y="182" width="190" height="40"/><text class="t" x="615" y="207" text-anchor="middle">Mandats en prison</text>
+<path class="ar" d="M202 52L268 108" marker-end="url(#ca1)"/><path class="ar" d="M202 102L268 118" marker-end="url(#ca1)"/><path class="ar" d="M202 152L268 136" marker-end="url(#ca1)"/><path class="ar" d="M202 202L268 146" marker-end="url(#ca1)"/>
+<path class="ar" d="M452 108L518 52" marker-end="url(#ca1)"/><path class="ar" d="M452 118L518 102" marker-end="url(#ca1)"/><path class="ar" d="M452 136L518 152" marker-end="url(#ca1)"/><path class="ar" d="M452 146L518 202" marker-end="url(#ca1)"/>
+<rect class="bx-d" x="170" y="244" width="380" height="48"/><text class="t" x="360" y="266" text-anchor="middle">Bilan régulier en AG</text><text class="s" x="360" y="284" text-anchor="middle">sans les noms des personnes aidées</text>
+<path class="ld" d="M360 174V244"/>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> Le chemin de l'argent. Les règles d'attribution sont écrites avant la première demande, et l'AG voit passer les comptes.</figcaption>
+</figure>
+
 <h2 id="comptes">Tenir des comptes clairs</h2>
 <ul>
 <li>Un <strong>cahier des comptes</strong> (papier ou tableur) : chaque entrée, chaque sortie, la date, le justificatif. Deux personnes au moins y ont accès.</li>

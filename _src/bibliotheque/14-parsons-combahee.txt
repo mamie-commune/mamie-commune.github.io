@@ -1,0 +1,148 @@
+=== aux-vagabonds | Révolution & stratégie | Aux vagabonds | Lucy Parsons · 1884 | Un appel brûlant aux chômeurs et aux sans-abri de Chicago : la misère n'est pas une faute personnelle, c'est le système, et ceux qu'il jette à la rue n'ont pas à mourir en silence.
+<h2 id="contexte">Contexte</h2>
+<p>Lucy Parsons naît vers 1853 au Texas, probablement dans l'esclavage. Femme d'ascendance africaine, mexicaine et amérindienne, elle épouse Albert Parsons, un militant blanc, à une époque où ces unions sont interdites dans beaucoup d'États. Le couple doit fuir le Texas et s'installe à Chicago, où ils deviennent des figures du mouvement ouvrier anarchiste.</p>
+<p>Dans les années 1880, Chicago est une ville d'usines où l'on travaille dix à quatorze heures par jour. Pendant l'hiver 1883-1884, une crise économique jette des milliers d'ouvriers à la rue. C'est à eux que Lucy Parsons s'adresse, le 4 octobre 1884, dans <em>The Alarm</em>, le journal anarchiste de langue anglaise de Chicago. Le texte est ensuite imprimé en tract et distribué dans les rues.</p>
+
+<h2 id="these">La thèse</h2>
+<p>Les vagabonds ne sont pas des paresseux ni des ivrognes : ce sont des travailleuses et des travailleurs qui ont produit toute leur vie des richesses dont d'autres ont profité, puis qu'on a jetés quand on n'avait plus besoin d'eux. Plutôt que de se laisser mourir de froid et de faim, ils doivent se retourner contre les riches qui les ont dépouillés.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Tu as travaillé toute ta vie</strong>, de longues journées pour un salaire de misère, en produisant des richesses que tu n'as jamais possédées.</li>
+<li><strong>Le patron ferme l'usine</strong> quand il juge qu'il y a trop de marchandises, et tu te retrouves à la rue sans rien.</li>
+<li><strong>Bon ou mauvais patron, c'est pareil</strong> : le problème n'est pas tel ou tel employeur, c'est le système industriel lui-même.</li>
+<li><strong>Refuse les sermons</strong> des pasteurs et des bien-pensants qui expliquent la pauvreté par la paresse, l'alcool ou la volonté divine.</li>
+<li><strong>Ne meurs pas en silence</strong> : l'hiver approche, et beaucoup de sans-emploi désespérés se suicident. Parsons leur demande de tourner cette colère contre ceux qui les ont réduits à la misère.</li>
+<li><strong>Pas besoin d'attendre une organisation</strong> : chacune et chacun peut agir seul.</li>
+<li>Et la conclusion, qui a fait la réputation du texte : <strong>apprendre à utiliser les explosifs</strong>.</li>
+</ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>L'appel à la violence</strong> est sans détour. Il faut le lire dans son contexte : la répression des grèves était alors meurtrière, la police et les milices patronales tiraient sur les ouvriers. Mais la « propagande par le fait » des années 1880-1890 a surtout fourni aux États le prétexte pour écraser le mouvement.</li>
+<li><strong>Le refus de l'organisation</strong>, dans ce texte, contraste avec le reste de la vie de Parsons, militante syndicale infatigable qui participera à la fondation des Industrial Workers of the World (IWW) en 1905.</li>
+<li><strong>Le prix payé</strong> : deux ans plus tard, après l'attentat de Haymarket en mai 1886, Albert Parsons est arrêté et pendu en novembre 1887 avec trois camarades, à l'issue d'un procès truqué. Lucy Parsons militera toute sa vie pour leur réhabilitation.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le discours qui accuse les pauvres de leur pauvreté n'a pas disparu : « assistés », « fainéants », « il suffit de traverser la rue ». Le texte de Parsons rappelle que la misère est produite par un système, et que celles et ceux qui la subissent ont le droit de se révolter. Sur les moyens, on peut aujourd'hui préférer l'organisation collective : grève, caisse de solidarité, occupation (voir <a href="../agir/index.html">Agir ensemble</a>).</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La pauvreté n'est pas une faute personnelle.</li>
+<li>Un texte de colère, écrit pour être distribué dans la rue.</li>
+<li>À lire avec <a href="principes-anarchisme-parsons.html">Les Principes de l'anarchisme</a>, plus posé, vingt ans plus tard.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Lucy_Parsons" rel="noopener">Lucy Parsons sur Wikipédia</a><span>Sa vie, de l'esclavage aux IWW.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Massacre_de_Haymarket_Square" rel="noopener">Haymarket Square</a><span>Le 1er mai 1886, la bombe, le procès, les pendaisons : l'origine du 1er Mai.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="le-1er-mai.html">Le 1er Mai</a><span>Notre fiche sur la journée née de Chicago.</span></li>
+</ul></section>
+</div>
+
+=== principes-anarchisme-parsons | Révolution & stratégie | Les Principes de l'anarchisme | Lucy Parsons · 1905 | Liberté, possession par l'usage, associations libres de travailleurs et refus du vote : Lucy Parsons expose son anarchisme communiste, vingt ans après Haymarket.
+<h2 id="contexte">Contexte</h2>
+<p>En 1905, Lucy Parsons (vers 1853-1942) est l'une des anarchistes les plus connues des États-Unis. Veuve d'Albert Parsons, pendu en 1887 après l'affaire de Haymarket, elle parcourt le pays pour donner des conférences, souvent interrompues par la police. La même année, elle participe à Chicago au congrès fondateur des Industrial Workers of the World (IWW), le syndicat révolutionnaire qui veut réunir tous les travailleurs, quels que soient leur métier, leur sexe ou leur couleur.</p>
+<p><em>Les Principes de l'anarchisme</em> est une conférence, qu'elle commence par « Camarades et amis ». Elle y explique simplement ce qu'est l'anarchisme à un public qui n'en connaît souvent que les caricatures.</p>
+
+<h2 id="these">La thèse</h2>
+<p>L'anarchisme, c'est le principe de liberté appliqué à toute la vie sociale. Le gouvernement, quel qu'il soit, sert une minorité. La société future sera faite d'associations libres de producteurs qui se gèrent elles-mêmes, sans État, sans police et sans propriété absolue.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Son chemin</strong> : après la grande grève des chemins de fer de 1877, écrasée dans le sang, elle cesse de croire qu'un pouvoir central puisse servir les opprimés, et passe du socialisme politique à l'anarchisme.</li>
+<li><strong>La liberté</strong> est le principe de tout progrès. L'anarchisme n'est pas un dogme figé, mais une recherche ouverte.</li>
+<li><strong>L'État</strong> sert toujours quelques intérêts contre le plus grand nombre. Les partis, une fois au pouvoir, font comme ceux qu'ils ont remplacés.</li>
+<li><strong>La propriété</strong> : à la propriété absolue, elle oppose la possession par l'usage. La terre, l'eau et la lumière appartenaient à toutes et à tous.</li>
+<li><strong>Le communisme libertaire</strong> : impossible de payer chacun exactement selon son travail, donc il faut partager selon les besoins.</li>
+<li><strong>L'organisation future</strong> : des associations libres, à partir des syndicats de métier. Chaque branche se gère elle-même, avec des délégués qui redeviennent de simples membres à la fin de leur mandat. Ni autorité centrale, ni police, ni tribunaux.</li>
+<li><strong>Pas de bulletin de vote</strong> : on ne supprime pas l'oppression en suppliant les urnes. Il faut éduquer, puis agir, car les possédants ne lâcheront rien pacifiquement.</li>
+</ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Le silence sur les femmes et sur le racisme</strong> : dans ce texte, Parsons parle peu de la condition des femmes et pas du racisme, alors qu'elle les a vécus de plein fouet. Elle pensait que la question de classe englobait les autres, ce que d'autres féministes, noires notamment, contesteront (voir le <a href="combahee-river-collective.html">Combahee River Collective</a>).</li>
+<li><strong>Un optimisme sur l'abondance</strong> : elle imagine qu'une fois libéré, le travail deviendra agréable et produira de quoi satisfaire tout le monde. C'est une promesse plus qu'une démonstration.</li>
+<li><strong>La violence</strong> est ici beaucoup plus mesurée que dans <a href="aux-vagabonds.html">Aux vagabonds</a> : l'éducation passe d'abord, la révolution vient ensuite.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Des délégués qui redeviennent de simples membres, des syndicats qui gèrent la production, la possession par l'usage plutôt que la propriété : ces idées irriguent encore le syndicalisme révolutionnaire, les coopératives et les occupations comme la <a href="../experiences/zad-histoire.html">ZAD de Notre-Dame-des-Landes</a>.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>L'anarchisme comme principe de liberté, pas comme dogme.</li>
+<li>Des associations libres et des mandats tournants.</li>
+<li>Une femme noire, ouvrière et anarchiste, au cœur du mouvement ouvrier américain.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Lucy_Parsons" rel="noopener">Lucy Parsons sur Wikipédia</a><span>Sa vie et son action syndicale.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="aux-vagabonds.html">Aux vagabonds</a><span>Son texte le plus célèbre, vingt ans plus tôt.</span></li>
+<li><a href="../agir/decider-sans-chef.html">Décider sans chef</a><span>Les mandats révocables aujourd'hui.</span></li>
+</ul></section>
+</div>
+
+=== combahee-river-collective | Féminisme & société | Déclaration du Combahee River Collective | Combahee River Collective · 1977 | Des féministes noires, lesbiennes et socialistes de Boston expliquent pourquoi le racisme, le sexisme, l'homophobie et le capitalisme sont liés, et pourquoi elles s'organisent par elles-mêmes.
+<h2 id="contexte">Contexte</h2>
+<p>Le Combahee River Collective se forme à Boston en 1974 et existe jusqu'en 1980. Ce sont des femmes noires, beaucoup lesbiennes, socialistes, déçues à la fois par le mouvement féministe, dominé par des femmes blanches de classe moyenne, et par les mouvements de libération noire, souvent très machistes. Leur nom rend hommage à Harriet Tubman, qui mena en juin 1863 un raid armé sur la rivière Combahee, en Caroline du Sud, et libéra plus de 750 personnes réduites en esclavage.</p>
+<p>Leur déclaration, rédigée notamment par Barbara Smith, Beverly Smith et Demita Frazier, date d'avril 1977. Le collectif n'était pas anarchiste, mais ses idées ont profondément marqué les mouvements libertaires, féministes et queer.</p>
+
+<h2 id="these">La thèse</h2>
+<p>Les oppressions de race, de sexe, de sexualité et de classe ne s'additionnent pas : elles s'imbriquent et agissent en même temps dans la vie des femmes noires. Pour s'en libérer, il faut partir de sa propre expérience, s'organiser par soi-même, et lutter contre tous ces systèmes à la fois.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Une histoire longue</strong> : les femmes noires ont toujours résisté, de l'esclavage aux luttes pour les droits civiques, même quand l'histoire officielle les oubliait.</li>
+<li><strong>Les oppressions sont imbriquées</strong> : on ne peut pas demander à une femme noire de choisir entre la lutte contre le racisme et celle contre le sexisme. Cette idée sera plus tard appelée « intersectionnalité ».</li>
+<li><strong>Partir de soi</strong> : la politique la plus radicale naît de sa propre oppression. C'est le sens premier de l'expression « politique de l'identité », qu'elles ont été parmi les premières à employer, pour s'organiser, pas pour se replier.</li>
+<li><strong>Socialistes et antiracistes</strong> : la libération exige la fin du capitalisme et de l'impérialisme. Mais elles critiquent un marxisme qui ignore la race et le sexe.</li>
+<li><strong>Contre le séparatisme lesbien</strong> : elles refusent de rejeter les hommes noirs en bloc, avec qui elles partagent la lutte contre le racisme.</li>
+<li><strong>Les difficultés d'organisation</strong> : peu nombreuses, sans moyens, en butte au mépris de toutes parts, elles racontent honnêtement leurs difficultés.</li>
+<li><strong>La pratique</strong> : soutien aux grèves, aux luttes pour l'avortement et contre les stérilisations forcées, contre les violences.</li>
+</ol>
+
+<h2 id="pratique">Dans la rue</h2>
+<p>En 1979, douze femmes noires sont assassinées en quelques mois à Boston, dans l'indifférence de la police et des médias. Le collectif publie une brochure, <em>Six femmes noires : pourquoi sont-elles mortes ?</em>, qui relie ces meurtres au racisme et au sexisme, et organise l'autodéfense et la solidarité dans les quartiers. Une autre forme d'<a href="../manif/autodefense-feministe.html">autodéfense féministe</a>.</p>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>« Politique de l'identité »</strong> : l'expression a été reprise, déformée, et parfois retournée contre son sens d'origine. Pour le collectif, il s'agissait de s'organiser à partir de son oppression pour lutter contre toutes les oppressions, pas de s'enfermer dans une identité.</li>
+<li><strong>Un petit groupe</strong> : le collectif est resté très restreint et n'a pas duré. Son influence est passée surtout par les textes, les maisons d'édition et les militantes qui l'ont traversé.</li>
+<li><strong>Socialiste, pas anarchiste</strong> : le texte ne pose pas la question de l'État. Les anarchistes y trouvent pourtant de quoi penser une organisation autonome, par en bas, sans avant-garde.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'intersectionnalité est devenue un mot du quotidien militant, et une cible de l'extrême droite. Revenir à ce texte, c'est retrouver une idée simple et exigeante : <strong>personne n'est libre tant que les plus opprimées ne le sont pas</strong>. Elle prolonge l'histoire des <a href="../experiences/black-panthers-histoire.html">Black Panthers</a>, et en critique les angles morts.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Les oppressions s'imbriquent : on les combat ensemble.</li>
+<li>S'organiser à partir de sa propre expérience.</li>
+<li>Un texte court, à lire en entier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Le texte original</h3><ul>
+<li><a href="https://theanarchistlibrary.org/library/combahee-river-collective-the-combahee-river-collective-statement" rel="noopener">The Combahee River Collective Statement</a><span>Le texte intégral sur The Anarchist Library. En anglais.</span></li>
+<li><b><cite>Black feminism. Anthologie du féminisme africain-américain, 1975-2000</cite></b>, Elsa Dorlin (dir.), L'Harmattan, 2008.<span>Contient une traduction française de la déclaration.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Combahee_River_Collective" rel="noopener">Le Combahee River Collective sur Wikipédia</a><span>Son histoire et son influence.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a><span>Emma Goldman, quatre-vingts ans plus tôt.</span></li>
+<li><a href="../experiences/black-panthers-debats.html">Black Panthers : autodéfense et héritage</a><span>Le sexisme dans les mouvements noirs, vu de l'intérieur.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche de lecture rédigée par la bande à Mamie d'après le texte original en anglais. Libre de reproduction.</p>

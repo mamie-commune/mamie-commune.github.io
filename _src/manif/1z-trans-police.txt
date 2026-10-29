@@ -1,0 +1,61 @@
+=== personnes-trans-police | Legal Team | Personnes trans face à la police | D'après la Défenseure des droits (décision-cadre 2025-112) et la LDH · 2026 | Contrôle avec des papiers qui ne te ressemblent pas, palpation et fouille, garde à vue, traitement hormonal, plainte refusée : tes droits en France, et ce que tu peux faire.
+<p>La bande à Mamie compte des camarades trans depuis toujours, bien avant qu'on ait les mots. Et elles et ils ont souvent payé plus cher que les autres chaque contrôle, chaque nuit au poste. Cette fiche complète la <a href="legal-team.html">fiche Legal Team</a> : <strong>tout ce qui y est dit vaut aussi pour toi</strong>, droit au silence compris. Ici, on ajoute ce qui est propre aux personnes trans et non binaires. C'est du droit <strong>français</strong>.</p>
+
+<div class="note"><p><strong>Avant la manif</strong> : note le numéro de la legal team, et dis-lui, si tu veux, que tu es trans, pour qu'elle puisse prévenir une avocate ou un avocat informé. Si tu prends un traitement hormonal, garde sur toi une copie de ton ordonnance : elle aidera le médecin en garde à vue.</p></div>
+
+<h2 id="controle">Le contrôle d'identité</h2>
+<ul>
+<li>Tu dois seulement <strong>donner ton identité</strong> : nom, prénom, date et lieu de naissance. Rien ne t'oblige à expliquer ton parcours, ton apparence ou ta transition.</li>
+<li>Si tes papiers ne sont pas à jour, tu peux simplement dire que <strong>ton prénom d'usage est différent</strong>. C'est une situation que la Défenseure des droits reconnaît : les personnes trans présentent souvent des papiers qui ne correspondent pas à leur apparence.</li>
+<li>Rien dans la loi n'oblige à choisir les pronoms (« il », « elle ») d'après la mention du sexe à l'état civil. Tu peux demander qu'on te parle au genre qui est le tien. Si on refuse, ne t'épuise pas à argumenter sur place : note tout pour plus tard.</li>
+</ul>
+
+<h2 id="fouille">Palpation et fouille</h2>
+<p>En principe, une palpation ou une fouille doit être faite par une personne <strong>du même sexe</strong> que toi. Pour les personnes trans, les textes ne disent pas clairement s'il s'agit du sexe inscrit à l'état civil ou du genre vécu, et la justice a souvent retenu l'état civil. La Défenseure des droits, elle, recommande que les fouilles soient faites par des agents <strong>du même genre</strong>, formés à ces questions.</p>
+<ul>
+<li>Tu peux <strong>demander, calmement et clairement</strong>, à être palpée ou palpé par une personne de ton genre. Fais-le noter.</li>
+<li>Si la fouille se passe mal (commentaires, gestes humiliants, déshabillage injustifié), <strong>retiens l'heure, le lieu, les numéros RIO</strong> des agents (le matricule sur leur uniforme) et les témoins.</li>
+<li>Un binder, une prothèse, une perruque ne sont pas des objets suspects. On ne peut pas t'obliger à te dévêtir pour « vérifier » ton sexe.</li>
+</ul>
+
+<h2 id="gav">En garde à vue</h2>
+<ul>
+<li><strong>Demande un médecin.</strong> C'est un droit. Dis-lui que tu prends un traitement hormonal et qu'il ne doit pas être interrompu. Tu n'as pas à donner d'autres détails médicaux.</li>
+<li><strong>Demande une avocate ou un avocat</strong>, de préférence celui ou celle que la legal team conseille.</li>
+<li><strong>Ne signe rien</strong> que tu n'as pas lu, surtout si ton identité est mal écrite ou si des remarques transphobes y figurent.</li>
+<li>Être trans ne justifie pas, à soi seul, d'être mis à l'écart des autres personnes : la Défenseure des droits l'a rappelé à propos des prisons. Si tu te sens en danger dans une cellule, <strong>dis-le</strong> et fais-le noter.</li>
+</ul>
+
+<h2 id="plainte">Porter plainte, contester</h2>
+<ul>
+<li>La police et la gendarmerie <strong>doivent prendre ta plainte</strong> : elles n'ont pas le droit de la refuser. Si on te renvoie vers une « main courante », insiste, ou écris directement au procureur de la République.</li>
+<li>Une violence commise en raison de l'<strong>identité de genre</strong> est plus lourdement punie : c'est une circonstance aggravante. Demande qu'elle soit écrite dans la plainte.</li>
+<li>Pour un mauvais traitement par la police ou la gendarmerie : saisis la <strong>Défenseure des droits</strong> (gratuit, par courrier sans timbre ou sur son site), et parles-en à la legal team.</li>
+</ul>
+
+<h2 id="papiers">Mettre ses papiers à jour</h2>
+<p>Des papiers à jour, ce sont des contrôles moins dangereux. En France :</p>
+<div class="tbl"><table>
+<thead><tr><th></th><th>Changer de prénom</th><th>Changer la mention du sexe</th></tr></thead>
+<tbody>
+<tr><td><b>Où</b></td><td>À la mairie (état civil)</td><td>Au tribunal judiciaire, sans avocat obligatoire</td></tr>
+<tr><td><b>Coût</b></td><td>Gratuit</td><td>Environ 50 € de frais, aide juridictionnelle possible</td></tr>
+<tr><td><b>Ce qu'on prouve</b></td><td>Un « intérêt légitime » : la transition en est un</td><td>Que tu te présentes et es connu sous ton genre (témoignages, courriers…)</td></tr>
+<tr><td><b>Ce qu'on ne peut pas t'exiger</b></td><td colspan="2">Aucun certificat médical, aucune opération, aucun traitement, aucune photo</td></tr>
+</tbody></table></div>
+<p>La LDH conseille de demander d'abord le prénom, puis la mention du sexe. Les centres LGBTI et les associations trans peuvent t'accompagner.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://juridique.defenseurdesdroits.fr/index.php?lvl=notice_display&amp;id=55224" rel="noopener">Décision-cadre 2025-112</a><span>Défenseure des droits, juin 2025 : respect de l'identité de genre des personnes trans, y compris face aux forces de sécurité et en détention.</span></li>
+<li><a href="https://www.ldh-france.org" rel="noopener">Ligue des droits de l'Homme</a><span>Sa fiche « Nos droits, identités de genre » (2026) : changer de prénom et de mention du sexe.</span></li>
+</ul></section>
+<section><h3>Se faire aider</h3><ul>
+<li><a href="https://acceptess-t.com" rel="noopener">Acceptess-T</a><span>Association par et pour les personnes trans, notamment migrantes et travailleuses du sexe.</span></li>
+<li><a href="https://outrans.org" rel="noopener">OUTrans</a><span>Association d'autosupport trans : permanences, accompagnement.</span></li>
+<li><a href="https://www.dilcrah.gouv.fr/ressources/trouver-un-centre-lgbt" rel="noopener">Trouver un centre LGBTI</a><span>Permanences juridiques et sociales près de chez toi.</span></li>
+<li><a href="https://www.defenseurdesdroits.fr" rel="noopener">La Défenseure des droits</a><span>Gratuit, pour toute discrimination ou violence policière.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace pas l'avis d'une avocate ou d'un avocat, ni celui des associations trans.</p>

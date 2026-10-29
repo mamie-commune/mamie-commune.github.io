@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Aux vagabonds — Lucy Parsons &#183; Mamie Commune</title>
+<meta name="description" content="Un appel br&#251;lant aux ch&#244;meurs et aux sans-abri de Chicago : la mis&#232;re n&#39;est pas une faute personnelle, c&#39;est le syst&#232;me, et ceux qu&#39;il jette &#224; la rue n&#39;ont pas &#224; mourir en silence.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=ddf6f5c1">
+<link rel="stylesheet" href="../assets/style.css?v=ddf6f5c1">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre" data-ici>Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, Panthers, Mai 68, ZAD…</span></a><a href="../bibliotheque/" aria-current="page"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser">S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Bibliothèque</a><span>/</span><a href="./#revolution-strategie">R&#233;volution &amp; strat&#233;gie</a></p>
+  <p class="eyebrow">Mamie a lu pour toi</p>
+  <h1>Aux vagabonds</h1>
+  <p class="lead">Un appel br&#251;lant aux ch&#244;meurs et aux sans-abri de Chicago : la mis&#232;re n&#39;est pas une faute personnelle, c&#39;est le syst&#232;me, et ceux qu&#39;il jette &#224; la rue n&#39;ont pas &#224; mourir en silence.</p>
+  <div class="gmeta"><span>R&#233;volution &amp; strat&#233;gie</span><span>Lucy Parsons &#183; 1884</span><span>Fiche · 4 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<h2 id="contexte">Contexte</h2>
+<p>Lucy Parsons naît vers 1853 au Texas, probablement dans l'esclavage. Femme d'ascendance africaine, mexicaine et amérindienne, elle épouse Albert Parsons, un militant blanc, à une époque où ces unions sont interdites dans beaucoup d'États. Le couple doit fuir le Texas et s'installe à Chicago, où ils deviennent des figures du mouvement ouvrier anarchiste.</p>
+<p>Dans les années 1880, Chicago est une ville d'usines où l'on travaille dix à quatorze heures par jour. Pendant l'hiver 1883-1884, une crise économique jette des milliers d'ouvriers à la rue. C'est à eux que Lucy Parsons s'adresse, le 4 octobre 1884, dans <em>The Alarm</em>, le journal anarchiste de langue anglaise de Chicago. Le texte est ensuite imprimé en tract et distribué dans les rues.</p>
+
+<h2 id="these">La thèse</h2>
+<p>Les vagabonds ne sont pas des paresseux ni des ivrognes : ce sont des travailleuses et des travailleurs qui ont produit toute leur vie des richesses dont d'autres ont profité, puis qu'on a jetés quand on n'avait plus besoin d'eux. Plutôt que de se laisser mourir de froid et de faim, ils doivent se retourner contre les riches qui les ont dépouillés.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Tu as travaillé toute ta vie</strong>, de longues journées pour un salaire de misère, en produisant des richesses que tu n'as jamais possédées.</li>
+<li><strong>Le patron ferme l'usine</strong> quand il juge qu'il y a trop de marchandises, et tu te retrouves à la rue sans rien.</li>
+<li><strong>Bon ou mauvais patron, c'est pareil</strong> : le problème n'est pas tel ou tel employeur, c'est le système industriel lui-même.</li>
+<li><strong>Refuse les sermons</strong> des pasteurs et des bien-pensants qui expliquent la pauvreté par la paresse, l'alcool ou la volonté divine.</li>
+<li><strong>Ne meurs pas en silence</strong> : l'hiver approche, et beaucoup de sans-emploi désespérés se suicident. Parsons leur demande de tourner cette colère contre ceux qui les ont réduits à la misère.</li>
+<li><strong>Pas besoin d'attendre une organisation</strong> : chacune et chacun peut agir seul.</li>
+<li>Et la conclusion, qui a fait la réputation du texte : <strong>apprendre à utiliser les explosifs</strong>.</li>
+</ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>L'appel à la violence</strong> est sans détour. Il faut le lire dans son contexte : la répression des grèves était alors meurtrière, la police et les milices patronales tiraient sur les ouvriers. Mais la « propagande par le fait » des années 1880-1890 a surtout fourni aux États le prétexte pour écraser le mouvement.</li>
+<li><strong>Le refus de l'organisation</strong>, dans ce texte, contraste avec le reste de la vie de Parsons, militante syndicale infatigable qui participera à la fondation des Industrial Workers of the World (IWW) en 1905.</li>
+<li><strong>Le prix payé</strong> : deux ans plus tard, après l'attentat de Haymarket en mai 1886, Albert Parsons est arrêté et pendu en novembre 1887 avec trois camarades, à l'issue d'un procès truqué. Lucy Parsons militera toute sa vie pour leur réhabilitation.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le discours qui accuse les pauvres de leur pauvreté n'a pas disparu : « assistés », « fainéants », « il suffit de traverser la rue ». Le texte de Parsons rappelle que la misère est produite par un système, et que celles et ceux qui la subissent ont le droit de se révolter. Sur les moyens, on peut aujourd'hui préférer l'organisation collective : grève, caisse de solidarité, occupation (voir <a href="../agir/">Agir ensemble</a>).</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La pauvreté n'est pas une faute personnelle.</li>
+<li>Un texte de colère, écrit pour être distribué dans la rue.</li>
+<li>À lire avec <a href="principes-anarchisme-parsons">Les Principes de l'anarchisme</a>, plus posé, vingt ans plus tard.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources"><section><h3>Le texte original</h3><ul><li><a href="https://fr.anarchistlibraries.net/library/lucy-parsons-aux-vagabonds" rel="noopener">« Aux vagabonds » sur la Bibliothèque anarchiste</a> : le texte intégral, aussi en PDF et en livre numérique (EPUB).</li></ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Lucy_Parsons" rel="noopener">Lucy Parsons sur Wikipédia</a><span>Sa vie, de l'esclavage aux IWW.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Massacre_de_Haymarket_Square" rel="noopener">Haymarket Square</a><span>Le 1er mai 1886, la bombe, le procès, les pendaisons : l'origine du 1er Mai.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="le-1er-mai">Le 1er Mai</a><span>Notre fiche sur la journée née de Chicago.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche de lecture rédigée par la bande à Mamie d'après les textes de la Bibliothèque anarchiste francophone. Cette fiche est libre de reproduction.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="dix-questions-antifascisme"><small>← Précédent</small><b>Dix questions sur l&#39;antifascisme</b></a><a href="principes-anarchisme-parsons"><small>Suivant →</small><b>Les Principes de l&#39;anarchisme</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#contexte">Contexte</a></li><li><a href="#these">La thèse</a></li><li><a href="#idees">Les idées, dans l'ordre</a></li><li><a href="#limites">Débats et limites</a></li><li><a href="#aujourdhui">Et aujourd'hui ?</a></li><li><a href="#retenir">À retenir</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=ddf6f5c1"></script>
+<script src="../assets/recherche.js?v=ddf6f5c1"></script>
+
+</body>
+</html>

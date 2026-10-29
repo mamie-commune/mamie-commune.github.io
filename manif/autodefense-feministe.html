@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>L&#39;autod&#233;fense f&#233;ministe — D&#39;apr&#232;s Irene Zeilinger, Elsa Dorlin et l&#39;association Garance &#183; Mamie Commune</title>
+<meta name="description" content="Ce n&#39;est pas un sport de combat : poser ses limites, d&#233;samorcer, crier, fuir, et seulement en dernier recours frapper. Ce qu&#39;on apprend en stage, pour qui, et o&#249; les trouver.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=ddf6f5c1">
+<link rel="stylesheet" href="../assets/style.css?v=ddf6f5c1">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre">Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, Panthers, Mai 68, ZAD…</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser">S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre" data-ici>Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/" aria-current="page"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Guide de manif</a><span>/</span><a href="./#autodefense">Autod&#233;fense</a></p>
+  <p class="eyebrow">Dans le cabas de Mamie</p>
+  <h1>L&#39;autod&#233;fense f&#233;ministe</h1>
+  <p class="lead">Ce n&#39;est pas un sport de combat : poser ses limites, d&#233;samorcer, crier, fuir, et seulement en dernier recours frapper. Ce qu&#39;on apprend en stage, pour qui, et o&#249; les trouver.</p>
+  <div class="gmeta"><span>Autod&#233;fense</span><span>D&#39;apr&#232;s Irene Zeilinger, Elsa Dorlin et l&#39;association Garance &#183; 2026</span><span>Fiche · 4 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>Mamie n'a jamais fait de karaté. Mais elle sait dire « non » d'une voix qui arrête un homme à trois mètres, et elle a appris ça avec d'autres femmes, dans une salle des fêtes, un samedi. <strong>L'autodéfense féministe, ce n'est pas devenir plus forte que l'agresseur : c'est reprendre la main.</strong></p>
+
+<h2 id="quoi">Ce que c'est</h2>
+<p>Née dans les mouvements féministes des années 1970, l'autodéfense féministe est un ensemble d'outils pour faire face aux violences sexistes, dans la rue, au travail, à la maison, et aussi chez les camarades. Elle part d'un constat : on apprend aux filles à avoir peur et à se taire, et aux garçons à prendre de la place. Pour la sociologue <strong>Irene Zeilinger</strong>, ignorer une agression, c'est laisser l'agresseur décider de tout. La philosophe <strong>Elsa Dorlin</strong>, dans <em>Se défendre</em>, montre comment le droit de se défendre a toujours été réservé à certains corps, et refusé aux autres.</p>
+
+<h2 id="niveaux">Quatre niveaux de défense</h2>
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 250" role="img" aria-label="Les quatre niveaux de l'autodéfense féministe, du mental au physique">
+<rect class="bx-r" x="20" y="20" width="680" height="44"/><text class="t" x="360" y="48" text-anchor="middle">Mental : sentir le danger, se faire confiance, décider</text>
+<rect class="bx" x="70" y="76" width="580" height="44"/><text class="t" x="360" y="104" text-anchor="middle">Émotionnel : transformer la peur en énergie</text>
+<rect class="bx" x="120" y="132" width="480" height="44"/><text class="t" x="360" y="160" text-anchor="middle">Verbal : dire non, nommer, crier, alerter</text>
+<rect class="bx-d" x="170" y="188" width="380" height="44"/><text class="t" x="360" y="216" text-anchor="middle">Physique : se dégager, frapper, fuir</text>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> La plupart des situations se règlent dans les trois premiers niveaux. Le physique est un dernier recours, mais on l'apprend aussi.</figcaption>
+</figure>
+
+<h2 id="stage">Ce qu'on apprend en stage</h2>
+<ul>
+<li><strong>Repérer</strong> les situations qui dérapent, souvent avec des gens qu'on connaît, et se faire confiance quand « quelque chose cloche ».</li>
+<li><strong>Poser ses limites</strong> d'une voix ferme, avec des phrases courtes : « Non. Recule. » Sans se justifier ni s'excuser.</li>
+<li><strong>Nommer</strong> ce qui se passe à voix haute pour rendre les témoins acteurs : « Monsieur, enlevez votre main de ma cuisse. »</li>
+<li><strong>Crier</strong> pour de vrai, ce qu'on n'a souvent jamais fait.</li>
+<li><strong>Se dégager</strong> d'une prise et frapper des zones sensibles, quelle que soit sa force ou sa condition physique, pour <strong>s'enfuir</strong>.</li>
+<li><strong>Aider les autres</strong> : intervenir quand on est témoin, soutenir après.</li>
+</ul>
+<p>Un stage dure en général un week-end. On n'a besoin d'aucune condition physique, et les formatrices adaptent les gestes aux corps de chacune.</p>
+
+<h2 id="pourqui">Pour qui ?</h2>
+<p>La plupart des stages sont <strong>en non-mixité</strong> : femmes, cis et trans, et souvent aussi personnes non binaires et minorités de genre. Certains sont pensés pour des publics précis : jeunes filles, femmes âgées, lesbiennes, femmes racisées, travailleuses du sexe, personnes en situation de handicap. La non-mixité permet de parler librement de ce qu'on a vécu.</p>
+
+<h2 id="ou">Où trouver un stage</h2>
+<ul>
+<li>En France, il existe une quinzaine d'associations d'autodéfense féministe, surtout dans les villes. Les méthodes s'appellent <strong>Riposte</strong> (venue du Québec), <strong>Seito Boei</strong>, <strong>Fem Do Chi</strong>, ou s'inspirent de l'association belge <strong>Garance</strong>.</li>
+<li>Demande aux <strong>plannings familiaux</strong>, aux centres LGBTI, aux librairies et lieux féministes, ou aux collectifs de la <a href="../carte">carte</a>.</li>
+<li>Beaucoup de stages sont à <strong>prix libre</strong> ou adaptés aux revenus : n'hésite pas à demander.</li>
+</ul>
+
+<h2 id="manif">Et en manif ?</h2>
+<p>L'autodéfense féministe sert aussi dans les cortèges : se tenir en groupe, ne laisser personne seule, réagir ensemble face à un harceleur ou un groupe d'extrême droite. Pour la suite, voir <a href="legal-team">Legal Team</a> et <a href="../antifascisme/agir-antifasciste">Agir contre l'extrême droite</a>. Et pour les violences chez les camarades : <a href="../agir/violences-dans-nos-collectifs">Réagir aux violences dans nos collectifs</a>.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="https://www.editions-zones.fr/livres/non-cest-non/" rel="noopener"><cite>Non, c'est non. Petit manuel d'autodéfense à l'usage de toutes les femmes qui en ont marre de se faire emmerder sans rien dire</cite>, Irene Zeilinger, Zones, 2008</a><span>Le manuel de référence, concret et drôle.</span></li>
+<li><a href="https://www.editions-zones.fr/livres/se-defendre/" rel="noopener"><cite>Se défendre. Une philosophie de la violence</cite>, Elsa Dorlin, Zones, 2017</a><span>Qui a le droit de se défendre, et pourquoi.</span></li>
+</ul></section>
+<section><h3>Se former</h3><ul>
+<li><a href="https://www.garance.be" rel="noopener">Garance</a><span>Association bruxelloise d'autodéfense féministe : stages, ressources, analyses.</span></li>
+<li><a href="https://arretonslesviolences.gouv.fr" rel="noopener">Arrêtons les violences</a><span>Numéros d'écoute et associations près de chez toi.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Elle donne envie, elle ne remplace pas un stage.</p>
+
+  <nav class="gnext" aria-label="Pages voisines"><a href="apres-la-manif"><small>← Précédent</small><b>Apr&#232;s la manif : soins, preuves et repos</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#quoi">Ce que c'est</a></li><li><a href="#niveaux">Quatre niveaux de défense</a></li><li><a href="#stage">Ce qu'on apprend en stage</a></li><li><a href="#pourqui">Pour qui ?</a></li><li><a href="#ou">Où trouver un stage</a></li><li><a href="#manif">Et en manif ?</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=ddf6f5c1"></script>
+<script src="../assets/recherche.js?v=ddf6f5c1"></script>
+
+</body>
+</html>

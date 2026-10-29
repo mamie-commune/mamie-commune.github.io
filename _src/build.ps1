@@ -317,7 +317,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
-  if ($f.BaseName -notin @("lecteur", "recherche", "404", "tiktok-retour")) {   # pages techniques : hors recherche
+  if ($f.BaseName -notin @("lecteur", "recherche", "404")) {
     $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
   }
 }

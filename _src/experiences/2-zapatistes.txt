@@ -44,6 +44,19 @@
 <li><a href="zapatistes-femmes-commun.html">Les femmes, le commun et les menaces</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Rébellion zapatiste</cite></b>, Jérôme Baschet, Flammarion, collection Champs.<span>Par un historien qui enseigne au Chiapas depuis des décennies : la meilleure introduction en français.</span></li>
+<li><b><cite>EZLN : 20 et 10, le feu et la parole</cite></b>, Gloria Muñoz Ramírez.<span>L'histoire du mouvement racontée par une journaliste qui a vécu dans les communautés.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://enlacezapatista.ezln.org.mx" rel="noopener">Enlace Zapatista</a><span>Le site officiel des zapatistes : tous leurs communiqués, souvent traduits en français.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Arm%C3%A9e_zapatiste_de_lib%C3%A9ration_nationale" rel="noopener">L'EZLN sur Wikipédia</a><span>L'histoire du mouvement.</span></li>
+<li><a href="https://cspcl.ouvaton.org" rel="noopener">CSPCL</a><span>Le Comité de solidarité avec les peuples du Chiapas en lutte, à Paris : informations et soutien.</span></li>
+</ul></section>
+</div>
+
 === zapatistes-organisation | Zapatistes | Commander en obéissant : l'autogouvernement zapatiste | Chiapas · depuis 1994 | Des charges tournantes et non payées, des assemblées de communauté, et depuis 2023 une structure encore plus décentralisée : l'organisation zapatiste en schémas.
 <h2 id="principe">« Mandar obedeciendo »</h2>
 <figure class="photo"><img src="../assets/img/revolutions/zapatistes-mural.jpg" alt="Peinture murale zapatiste au Chiapas, en 2006, racontant une histoire en espagnol et en langue maya." width="1200" height="764" loading="lazy"><figcaption>Peinture murale zapatiste au Chiapas, en 2006, racontant une histoire en espagnol et en langue maya. <small>Matthew T. Rader · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:An_EZLN_mural_in_Chiapas,_Mexico.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -134,6 +147,18 @@
 <li>Une organisation qui s'évalue et se corrige elle-même, jusqu'à se démonter quand elle s'éloigne de la base.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Adieux au capitalisme. Autonomie, société du bien vivre et multiplicité des mondes</cite></b>, Jérôme Baschet, La Découverte, 2014.<span>Ce que l'autonomie zapatiste apprend à celles et ceux qui veulent sortir du capitalisme.</span></li>
+<li><b><cite>La Rébellion zapatiste</cite></b>, Jérôme Baschet, Flammarion.<span>Les municipalités autonomes et les Conseils de bon gouvernement expliqués.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://enlacezapatista.ezln.org.mx" rel="noopener">Enlace Zapatista</a><span>Les communiqués sur la réorganisation de 2023.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Municipalisme_libertaire" rel="noopener">Le municipalisme libertaire</a><span>Une idée voisine, née ailleurs.</span></li>
+</ul></section>
+</div>
+
 === zapatistes-femmes-commun | Zapatistes | Femmes, commun et menaces : les zapatistes aujourd'hui | Chiapas · depuis 1994 | La Loi révolutionnaire des femmes, la terre mise en commun, et les dangers qui pèsent sur l'autonomie.
 <h2 id="loi-femmes">La Loi révolutionnaire des femmes</h2>
 <figure class="photo"><img src="../assets/img/revolutions/zapatistes-murales-femmes.jpg" alt="« À bas pour toujours la triple exploitation de la femme ! » : peintures murales zapatistes au Chiapas, en 2018." width="1200" height="900" loading="lazy"><figcaption>« À bas pour toujours la triple exploitation de la femme ! » : peintures murales zapatistes au Chiapas, en 2018. <small>Nicolescribe · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Murales_zapatistas_feministas_en_Chiapas,_2018.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -168,3 +193,15 @@
 <li><strong>La solidarité internationale</strong> : achats de café zapatiste, rencontres, caravanes ; elle reste une ressource vitale.</li>
 </ul>
 <p>Retour au début : <a href="zapatistes-histoire.html">histoire de la rébellion</a>. Voir aussi le dossier <a href="rojava-histoire.html">Rojava</a>, autre expérience d'autonomie.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Rébellion zapatiste</cite></b>, Jérôme Baschet, Flammarion.<span>Le chapitre sur la Loi révolutionnaire des femmes.</span></li>
+<li><a href="../bibliotheque/anarchisme-et-ses-aspirations.html">L'Anarchisme et ses aspirations</a><span>Notre fiche : ce que les anarchistes d'aujourd'hui retiennent d'expériences comme celle-ci.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://enlacezapatista.ezln.org.mx" rel="noopener">Enlace Zapatista</a><span>Les rencontres internationales des « femmes qui luttent ».</span></li>
+<li><a href="https://cspcl.ouvaton.org" rel="noopener">CSPCL</a><span>Suivre les menaces contre les communautés et la solidarité depuis la France.</span></li>
+</ul></section>
+</div>

@@ -1,18 +1,31 @@
 === l-anarchie-reclus | État & pouvoir | L'Anarchie | Élisée Reclus · 1894 | Un discours de 1894 : l'anarchie est un idéal ancien devenu mouvement conscient, et l'ordre actuel est bien plus chaotique qu'elle.
 <h2 id="contexte">Contexte</h2>
-<p>Discours prononcé le 18 juin 1894 à Bruxelles, devant une loge maçonnique où Reclus est invité sans en être membre. En pleine période des « lois scélérates » contre les anarchistes.</p>
+<p>Élisée Reclus (1830-1905), géographe célèbre dans toute l'Europe et ancien communard, prononce ce discours le 18 juin 1894 à Bruxelles, devant une loge maçonnique qui l'a invité sans qu'il en soit membre. Il vient d'être nommé professeur à l'Université nouvelle de Bruxelles.</p>
+<p>Le moment est tendu. En France, une vague d'attentats anarchistes (Ravachol, Vaillant à la Chambre des députés, Henry au café Terminus) a conduit au vote des « lois scélérates », qui permettent de poursuivre toute propagande anarchiste. Une semaine plus tard, le président Sadi Carnot sera poignardé à Lyon. Reclus, homme doux et pacifique, n'en défend pas moins l'idée anarchiste devant un public bourgeois.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'anarchie n'est pas une chimère : c'est une aspiration ancienne, portée désormais par un mouvement conscient qui veut une société sans maîtres, fondée sur l'accord libre et l'entraide.</p>
+<p>L'anarchie n'est pas une chimère ni un synonyme de violence : c'est une aspiration ancienne de l'humanité, portée désormais par un mouvement conscient qui veut une société sans maîtres, fondée sur l'accord libre et l'entraide.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Les anarchistes modernes ont un but clair : aucun gouvernement.</li>
-<li>Ils partagent des aspirations avec bien des courants, mais refusent la conquête du pouvoir, qui transforme qui l'exerce.</li>
-<li>L'ancienne morale reposait sur la peur ; la nouvelle naît de la responsabilité et du respect mutuel.</li>
-<li>Science, pensée libre et recul du respect pour l'État et la propriété affaiblissent l'autorité.</li>
-<li>Les périodes de liberté ont été les plus créatives ; l'entraide quotidienne prouve que le projet est réaliste.</li>
-<li>Misère, guerre et répression : l'ordre actuel est le vrai chaos.</li>
-<li>La haine engendre la haine ; les défenseurs de l'ordre, peu convaincus, finiront par céder.</li>
+<li><strong>Un but clair.</strong> Les anarchistes modernes savent ce qu'ils veulent : aucun gouvernement, ni monarchique ni républicain.</li>
+<li><strong>Des cousins, mais pas de pouvoir.</strong> Ils partagent des aspirations avec bien des courants (socialistes, libres penseurs, coopérateurs), mais refusent la conquête du pouvoir, qui transforme celles et ceux qui l'exercent.</li>
+<li><strong>Une nouvelle morale.</strong> L'ancienne morale reposait sur la peur du gendarme et de l'enfer ; la nouvelle naît de la responsabilité et du respect mutuel.</li>
+<li><strong>L'autorité s'affaiblit</strong> : la science, la pensée libre et le recul du respect pour l'État et la propriété la minent chaque jour.</li>
+<li><strong>La liberté est féconde.</strong> Les périodes de liberté ont été les plus créatives de l'histoire ; l'entraide quotidienne (familles, voisinages, sociétés savantes) prouve que le projet est réaliste.</li>
+<li><strong>Le vrai chaos</strong>, c'est l'ordre actuel : misère au milieu de l'abondance, guerres, répression.</li>
+<li><strong>La haine engendre la haine.</strong> Les défenseurs de l'ordre, au fond peu convaincus, finiront par céder devant une idée juste.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un discours très optimiste</strong>, qui parie sur la victoire inévitable des idées justes.</li>
+<li><strong>Le silence sur les attentats.</strong> Reclus ne les condamne pas ouvertement, par solidarité avec des camarades traqués. D'autres anarchistes, à la même époque, prennent clairement leurs distances.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le mot « anarchie » sert encore, dans les médias, à dire « désordre ». Le discours de Reclus reste une excellente façon de retourner l'accusation : quel ordre peut se dire ordonné quand il laisse des gens mourir de faim ou de froid à côté de logements vides ?</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Vouloir le bien commun sans vouloir le pouvoir.</li>
@@ -20,22 +33,46 @@
 <li>Une morale de choix libre, pas d'obéissance.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les Anarchistes contre la République</cite></b>, Vivien Bouhey, Presses universitaires de Rennes, 2008.<span>L'histoire du mouvement anarchiste français dans les années des attentats.</span></li>
+<li><a href="lois-scelerates.html">Les Lois scélérates</a><span>Notre fiche sur la répression de ces années-là.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Sa vie et son œuvre.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Lois_sc%C3%A9l%C3%A9rates" rel="noopener">Les lois scélérates</a><span>Le contexte de 1893-1894.</span></li>
+</ul></section>
+</div>
+
 === pourquoi-sommes-nous-anarchistes | État & pouvoir | Pourquoi sommes-nous anarchistes ? | Élisée Reclus · 1889 | Une profession de foi courte et limpide : refus de l'injustice, refus de l'autorité, communisme libre et révolution.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1889 dans la revue <em>La Société nouvelle</em>. Reclus répond à ceux qui jugent la révolution inutile ou dangereuse.</p>
+<p>Ce texte paraît en 1889 dans <em>La Société nouvelle</em>, une revue belge qui accueille socialistes et anarchistes. C'est l'année du centenaire de la Révolution française et de la fondation de la Deuxième Internationale, socialiste et parlementaire. Reclus répond en quelques pages à celles et ceux qui jugent la révolution inutile ou dangereuse, et explique simplement pourquoi il est anarchiste.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Être anarchiste, c'est refuser l'injustice et l'autorité, et vouloir une société de libres associations, sans État ni maître. Ce changement passe par la révolution.</p>
+<p>Être anarchiste, c'est refuser l'injustice et l'autorité, et vouloir une société de libres associations, sans État ni maître, où les biens sont communs. Ce changement passe par une révolution, car les privilégiés ne céderont pas d'eux-mêmes.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Le constat : les richesses vont à ceux qui ne travaillent pas, soutenus par la religion, l'État et une justice achetable.</li>
-<li>Si la justice est un idéal, il faut l'exiger pour tous ; si seule la force gouverne, il faut lui opposer la force.</li>
-<li>Le progrès social n'est jamais venu d'une évolution paisible seule, mais de ruptures.</li>
-<li>Pas de chef, pas de subordonné : chacune et chacun reste responsable de ses actes.</li>
-<li>La morale naît de la liberté, pas de l'obéissance.</li>
-<li>Communisme international : terre commune, production selon les besoins.</li>
-<li>Pas de plan figé de la société future.</li>
-<li>Tant que l'injustice dure, la lutte continue.</li>
+<li><strong>Le constat</strong> : les richesses vont à celles et ceux qui ne travaillent pas, soutenus par la religion, l'État et une justice qui s'achète.</li>
+<li><strong>La justice ou la force.</strong> Si la justice est un idéal, il faut l'exiger pour tout le monde ; si seule la force gouverne, il faut lui opposer la force du nombre.</li>
+<li><strong>Pas de progrès sans rupture.</strong> Le progrès social n'est jamais venu d'une évolution paisible seule, mais de ruptures.</li>
+<li><strong>Ni chef ni subordonné</strong> : chacune et chacun reste responsable de ses actes.</li>
+<li><strong>La morale naît de la liberté</strong>, pas de l'obéissance.</li>
+<li><strong>Un communisme international</strong> : la terre commune, la production selon les besoins, sans frontières.</li>
+<li><strong>Pas de plan figé</strong> de la société future : elle naîtra de l'expérience et de l'association libre.</li>
+<li><strong>Tant que l'injustice dure</strong>, la lutte continue.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte de principes</strong>, qui dit le « pourquoi » mais très peu le « comment ».</li>
+<li><strong>La force contre la force</strong> : Reclus l'admet sans en préciser les formes. Chacune et chacun devra en débattre.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Deux pages suffisent à Reclus pour dire l'essentiel : c'est un texte parfait à lire à voix haute dans un atelier, une réunion ou un cours, pour lancer la discussion sur ce que veut dire « anarchiste » aujourd'hui.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Deux pages pour comprendre l'essentiel.</li>
@@ -43,18 +80,41 @@
 <li>La société future naîtra de l'association libre.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="l-anarchie-malatesta.html">L'Anarchie</a> de Malatesta<span>Notre fiche : une autre introduction claire.</span></li>
+<li><b><cite>L'Ordre moins le pouvoir. Histoire et actualité de l'anarchisme</cite></b>, Normand Baillargeon, Agone.<span>Une introduction moderne, courte et pédagogique.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme" rel="noopener">L'anarchisme sur Wikipédia</a><span>Un panorama des idées et des courants.</span></li>
+</ul></section>
+</div>
+
 === voter-c-est-abdiquer | État & pouvoir | Voter c'est abdiquer | Élisée Reclus · 1885 | Une lettre de 1885 : voter, c'est se donner des maîtres, être dupe, et finir trahi. Il faut agir soi-même.
 <h2 id="contexte">Contexte</h2>
-<p>Lettre écrite à Clarens (Suisse) le 26 septembre 1885 à Jean Grave, publiée dans <em>Le Révolté</em> du 11 octobre. Des camarades avaient demandé son avis sur les élections.</p>
+<p>En 1885, des élections législatives approchent. Des camarades demandent à Élisée Reclus son avis sur le vote. Il répond par une lettre écrite à Clarens, en Suisse, le 26 septembre 1885, adressée à Jean Grave, qui la publie dans <em>Le Révolté</em> du 11 octobre. Elle deviendra le texte anti-électoral le plus diffusé de l'anarchisme français, réimprimé à chaque élection depuis plus d'un siècle.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Voter, c'est renoncer à sa propre souveraineté. Rien de bon ne sort de la délégation du pouvoir ; il faut défendre soi-même ses intérêts.</p>
+<p>Voter, c'est renoncer à sa propre souveraineté. Rien de bon ne sort de la délégation du pouvoir ; il faut défendre soi-même ses intérêts, avec d'autres.</p>
+
 <h2 id="idees">Les trois arguments</h2>
 <ol>
-<li><strong>Voter, c'est abdiquer</strong> : les élus deviennent des supérieurs qui font les lois et exigent l'obéissance.</li>
-<li><strong>Voter, c'est être dupe</strong> : aucune personne ordinaire ne devient compétente sur tout par une élection. Le pouvoir rend fou, les assemblées tendent à la médiocrité.</li>
-<li><strong>Voter, c'est être trahi</strong> : le candidat promet, puis change au contact du milieu politique et des puissants.</li>
+<li><strong>Voter, c'est abdiquer.</strong> On se donne des maîtres : les élus deviennent des supérieurs qui font les lois et exigent l'obéissance, au nom même de celles et ceux qui les ont choisis.</li>
+<li><strong>Voter, c'est être dupe.</strong> Aucune personne ordinaire ne devient compétente sur tout (guerre, finances, santé, agriculture) par la grâce d'une élection. Le pouvoir rend fou, et les assemblées tendent à la médiocrité.</li>
+<li><strong>Voter, c'est être trahi.</strong> Le candidat le plus sincère promet, puis change au contact du milieu politique, des honneurs et des puissants.</li>
 </ol>
-<p>La conclusion : ne confiez pas vos intérêts à d'autres, défendez-les vous-mêmes.</p>
+<blockquote><p>La conclusion de Reclus : « Ne confiez donc pas vos destinées à des hommes forcément incapables et à des traîtres futurs. Ne votez pas ! Au lieu de confier vos intérêts à d'autres, défendez-les vous-mêmes. »</p></blockquote>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une critique sans nuance</strong> : tous les élus ne se valent pas, et certains votes ont des conséquences concrètes sur la vie des plus fragiles. Le débat sur le « vote barrage » face à l'extrême droite divise aujourd'hui encore les libertaires.</li>
+<li><strong>Le texte ne dit pas comment s'organiser</strong> pour défendre ses intérêts soi-même. Il faut le lire avec des textes plus pratiques, comme <a href="l-action-directe-pouget.html">L'Action directe</a>.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Les trois arguments de Reclus (on abdique, on est dupe, on est trahi) résonnent avec ce que beaucoup ressentent face aux promesses électorales non tenues. Sa proposition reste valable même pour celles et ceux qui votent : ne jamais s'en remettre seulement aux élus, et garder la force collective qui seule fait respecter ses intérêts.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Le texte anti-électoral le plus cité de l'anarchisme français.</li>
@@ -62,22 +122,48 @@
 <li>À comparer avec <a href="criminel-electeur.html">Libertad</a> et <a href="electeur-ecoute.html">Sébastien Faure</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="gouvernement-representatif.html">Sur le gouvernement représentatif</a><span>Notre fiche : Bakounine sur le même sujet, plus argumenté.</span></li>
+<li><a href="anarchistes-electoralistes.html">Anarchistes électoralistes</a><span>Notre fiche : Malatesta face aux anarchistes tentés par le vote.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Le_R%C3%A9volt%C3%A9" rel="noopener">Le Révolté</a><span>Le journal où la lettre a paru.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Jean_Grave" rel="noopener">Jean Grave</a><span>Le destinataire de la lettre.</span></li>
+</ul></section>
+</div>
+
 === sentiment-de-la-nature | Individu & morale | Du sentiment de la nature dans les sociétés modernes | Élisée Reclus · 1866 | Dès 1866, le géographe relie la santé des sociétés à celle de leur milieu, et dénonce la spéculation qui enlaidit les paysages.
 <h2 id="contexte">Contexte</h2>
-<p>Article de 1866, au moment de l'essor des chemins de fer, de l'exode rural et de l'industrialisation. Reclus est géographe ; on le considère aujourd'hui comme un précurseur de l'écologie politique.</p>
+<p>Élisée Reclus a 36 ans. Il a voyagé en Irlande, aux États-Unis, en Colombie, et vit de ses guides de voyage et de ses articles de géographie. Ce texte paraît en 1866 dans la <em>Revue des Deux Mondes</em>, une grande revue intellectuelle. C'est le moment de l'essor des chemins de fer, de l'exode rural, des grands travaux d'Haussmann à Paris et de l'industrialisation à marche forcée.</p>
+<p>Reclus n'est pas encore anarchiste déclaré, mais déjà très engagé à gauche. On le considère aujourd'hui comme l'un des précurseurs de l'écologie politique.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La société urbaine et industrielle détruit à la fois les milieux naturels et la santé physique et intellectuelle des gens. Le lien avec la nature est indispensable à l'équilibre des peuples.</p>
+<p>La société urbaine et industrielle détruit à la fois les milieux naturels et la santé physique et intellectuelle des gens. Le lien avec la nature est indispensable à l'équilibre des peuples, et la beauté des paysages est un bien commun.</p>
+<blockquote><p>Reclus résumera plus tard cette pensée d'une phrase, en tête de son dernier livre : « L'homme est la nature prenant conscience d'elle-même. »</p></blockquote>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Artistes, savants et voyageurs se passionnent pour la nature, les montagnes surtout.</li>
-<li>Les peuples anciens voyaient dans les sommets le séjour des dieux.</li>
-<li>Les chemins de fer vident les campagnes au profit des grandes villes.</li>
-<li>La ville abrège la vie, affaiblit les corps, produit misère et déchéance.</li>
-<li>Les citadins cherchent l'air pur, mais la spéculation morcelle et enlaidit les sites.</li>
-<li>Certaines agricultures dégradent, d'autres allient productivité et beauté.</li>
-<li>Des civilisations ont décliné après avoir saccagé leur milieu.</li>
-<li>Il faut une éducation qui forme des personnes fortes, adroites et sensibles à la nature.</li>
+<li><strong>Un nouvel amour de la nature.</strong> Artistes, savants et voyageurs se passionnent pour elle, les montagnes surtout, longtemps jugées effrayantes.</li>
+<li><strong>Les montagnes sacrées.</strong> Les peuples anciens voyaient dans les sommets le séjour des dieux.</li>
+<li><strong>L'exode.</strong> Les chemins de fer vident les campagnes au profit des grandes villes.</li>
+<li><strong>La ville malade.</strong> Elle abrège la vie, affaiblit les corps, produit misère et déchéance.</li>
+<li><strong>La spéculation.</strong> Les citadins cherchent l'air pur, mais la spéculation morcelle et enlaidit les plus beaux sites : villas, clôtures, panneaux.</li>
+<li><strong>Deux agricultures.</strong> Certaines dégradent les sols et les paysages ; d'autres allient productivité et beauté.</li>
+<li><strong>Des civilisations disparues</strong> ont décliné après avoir saccagé leur milieu : forêts rasées, sols épuisés.</li>
+<li><strong>Une éducation</strong> qui forme des personnes fortes, adroites et sensibles à la nature.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une vision un peu esthétique</strong> de la nature, celle d'un voyageur cultivé. Reclus approfondira plus tard le lien entre exploitation des humains et exploitation de la terre.</li>
+<li><strong>La ville n'est pas que malsaine</strong> : c'est aussi le lieu des luttes, des rencontres et de l'émancipation. Reclus le dira lui-même ailleurs.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Bétonisation, stations de ski sans neige, littoral privatisé, maladies liées à la pollution : 160 ans plus tard, le texte se lit comme un article d'actualité. L'écologie sociale, développée au XXe siècle par Murray Bookchin, reprend l'intuition de Reclus : la domination de la nature et la domination entre humains ont la même racine.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>La santé humaine dépend de celle du milieu.</li>
@@ -85,19 +171,45 @@
 <li>Un texte d'écologie sociale avant l'heure.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Élisée Reclus. Pour une géographie nouvelle</cite></b>, Federico Ferretti, CTHS, 2014.<span>Le géographe et l'écologiste.</span></li>
+<li><a href="vegetarisme.html">À propos du végétarisme</a><span>Notre fiche : Reclus et les animaux.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Le géographe, l'écologiste, l'anarchiste.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Murray_Bookchin" rel="noopener">Murray Bookchin</a><span>Le fondateur de l'écologie sociale, héritier de Reclus et Kropotkine.</span></li>
+</ul></section>
+</div>
+
 === memoires-louise-michel | Révolution & stratégie | Mémoires | Louise Michel · 1886 | L'enfance en Haute-Marne, l'institutrice républicaine, la Commune, la déportation et les procès, racontés par elle-même.
 <h2 id="contexte">Contexte</h2>
-<p>Premier tome paru en 1886, quelques années après le retour de Louise Michel, amnistiée en 1880 après sa déportation en Nouvelle-Calédonie pour sa participation à la Commune.</p>
+<p>Louise Michel (1830-1905) a été condamnée en 1883 à six ans de prison pour avoir mené, drapeau noir en tête, une manifestation de chômeuses et chômeurs à Paris. Graciée début 1886, elle publie la même année le premier tome de ses <em>Mémoires</em>. Elle a alors 56 ans, une célébrité immense, et une vie déjà extraordinaire derrière elle : la Commune, sept ans de déportation en Nouvelle-Calédonie, l'amnistie de 1880 et le retour triomphal.</p>
+
 <h2 id="projet">Le projet</h2>
-<p>Des souvenirs écrits à la demande de ses proches, dans un style libre qui procède par associations d'idées, mêlant récit, réflexions, poèmes et chansons. Elle y revendique le droit des femmes à exprimer leur sensibilité.</p>
+<p>Ce sont des souvenirs écrits à la demande de ses proches, dans un style libre qui procède par associations d'idées, mêlant récit, réflexions, poèmes et chansons. Elle y revendique le droit des femmes à exprimer leur sensibilité, et refuse d'écrire un récit lisse de « grande figure ».</p>
+
 <h2 id="parcours">Le parcours</h2>
 <ul>
-<li><strong>L'enfance à Vroncourt</strong> (Haute-Marne) : un vieux château en ruine, les bêtes, les veillées, les légendes, une famille lettrée.</li>
-<li><strong>Institutrice</strong> : diplôme, école libre à Audeloncourt en 1853, conflits avec l'administration impériale qui la soupçonne d'être républicaine.</li>
-<li><strong>Paris</strong> : sous-maîtresse, précarité des institutrices, premiers engagements.</li>
-<li><strong>Le siège de Paris et la Commune</strong>, puis <strong>la déportation</strong> en Nouvelle-Calédonie, où elle enseigne et soutient les Kanak.</li>
-<li><strong>Ses procès</strong> : conseil de guerre de 1871, manifestation pour Blanqui en 1882, manifestation des Invalides en 1883.</li>
+<li><strong>L'enfance à Vroncourt</strong> (Haute-Marne) : enfant illégitime d'une servante et sans doute du fils du châtelain, elle grandit dans un vieux château en ruine, au milieu des bêtes, des veillées et des légendes, dans une famille lettrée qui l'instruit.</li>
+<li><strong>Institutrice</strong> : diplômée, elle ouvre une école libre à Audeloncourt en 1853, en conflit permanent avec l'administration impériale qui la soupçonne d'être républicaine (elle refuse de prêter serment à Napoléon III).</li>
+<li><strong>Paris</strong> : sous-maîtresse, précarité des institutrices, cours du soir, premiers engagements, rencontre des milieux révolutionnaires.</li>
+<li><strong>Le siège de Paris et la Commune</strong> : ambulancière, combattante, membre du comité de vigilance de Montmartre.</li>
+<li><strong>La déportation</strong> en Nouvelle-Calédonie, où elle enseigne aux Kanak, recueille leurs contes et prend leur parti lors de la révolte de 1878.</li>
+<li><strong>Ses procès</strong> : le conseil de guerre de 1871, où elle réclame la mort ; les manifestations de 1882 et de 1883.</li>
 </ul>
+<blockquote><p>Devant le conseil de guerre, en décembre 1871 : « Puisqu'il semble que tout cœur qui bat pour la liberté n'a droit qu'à un peu de plomb, j'en réclame une part, moi ! »</p></blockquote>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un livre décousu</strong>, qui saute d'une époque à l'autre. Il se lit mieux en picorant qu'en continu.</li>
+<li><strong>Une mémoire militante</strong> : Louise Michel raconte sa vie en révolutionnaire, et laisse dans l'ombre des pans de sa vie privée.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Louise Michel est devenue un symbole consensuel, au point que des responsables politiques de tous bords la citent. Lire ses <em>Mémoires</em>, c'est retrouver la révolutionnaire sans compromis, anticolonialiste, anarchiste et féministe, que la légende de la « Vierge rouge » a parfois effacée.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Un témoignage direct sur le Second Empire et la Commune.</li>
@@ -105,21 +217,49 @@
 <li>Un livre composite, vivant, à picorer.</li>
 </ul>
 
-=== l-ere-nouvelle | Révolution & stratégie | L'Ère nouvelle | Louise Michel · 1887 | Le vieux monde s'effondre ; machines, science et terre reviendront à tous dans une société sans maîtres.
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Vierge rouge. Biographie de Louise Michel</cite></b>, Xavière Gauthier, Éditions de Paris.<span>La biographie de référence.</span></li>
+<li><b><cite>Vive Louise Michel !</cite></b>, Sidonie Verhaeghe, Éditions du Croquant, 2021.<span>Comment on a fabriqué, et parfois trahi, sa légende.</span></li>
+<li><b><cite>La Vierge rouge</cite></b>, Mary M. Talbot et Bryan Talbot, Sarbacane, 2016.<span>Une bande dessinée sur sa vie et sa déportation.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><b><cite>Louise Michel, la rebelle</cite></b>, Sólveig Anspach, 2010.<span>Ses années en Nouvelle-Calédonie, avec Sylvie Testud.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Une biographie complète.</span></li>
+<li><a href="../experiences/commune-de-paris-decrets-femmes.html">Les femmes de la Commune</a><span>Notre dossier.</span></li>
+</ul></section>
+</div>
+
+=== l-ere-nouvelle | Révolution & stratégie | L'Ère nouvelle | Louise Michel · 1887 | Le vieux monde s'effondre ; machines, science et terre reviendront à tout le monde dans une société sans maîtres.
 <h2 id="contexte">Contexte</h2>
-<p>Texte de 1887 : grèves de Decazeville et du Borinage, guerres coloniales au Tonkin, mémoire de la répression de la Commune.</p>
+<p>Louise Michel publie cette brochure en 1887, peu après sa libération de prison. L'actualité est brûlante : la grande grève des mineurs de Decazeville en 1886, où un ingénieur est jeté par la fenêtre par des grévistes, les grèves et la répression sanglante en Belgique (le Borinage), les guerres coloniales au Tonkin, et toujours la mémoire de la Commune écrasée.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Capitalisme et État appartiennent à un monde condamné. La révolution est inévitable et ouvrira une société libre, sans classes, où science et machines profiteront à tous.</p>
+<p>Capitalisme et État appartiennent à un monde condamné. La révolution est inévitable et ouvrira une société libre, sans classes, où la science et les machines profiteront à tout le monde au lieu d'enrichir quelques-uns.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Une image de printemps : la vieille société meurt, un monde nouveau germe.</li>
-<li>Les affamés finissent par se révolter, et c'est légitime.</li>
-<li>Le capital ne vaut que par le travail ; religions, États et privilèges perdent leur autorité.</li>
-<li>Les machines, outils d'exploitation aujourd'hui, libéreraient du temps si elles étaient communes.</li>
-<li>Les grèves annoncent le soulèvement ; le parlementarisme est une impasse.</li>
-<li>Des groupes libres reprendront postes, chemins de fer, mines, télégraphes.</li>
-<li>Égalité et justice deviendront réelles, y compris pour les femmes.</li>
+<li><strong>Le printemps.</strong> La vieille société meurt, un monde nouveau germe sous elle.</li>
+<li><strong>La faim pousse à la révolte</strong>, et cette révolte est légitime.</li>
+<li><strong>Le capital ne vaut que par le travail</strong> ; religions, États et privilèges perdent leur autorité.</li>
+<li><strong>Les machines</strong>, outils d'exploitation aujourd'hui, libéreraient du temps pour toutes et tous si elles étaient communes.</li>
+<li><strong>Les grèves annoncent le soulèvement</strong> ; le parlementarisme est une impasse.</li>
+<li><strong>L'auto-organisation.</strong> Des groupes libres reprendront les postes, les chemins de fer, les mines, les télégraphes.</li>
+<li><strong>L'égalité réelle</strong>, y compris pour les femmes, qui ne seront plus ni servantes ni marchandises.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une confiance totale dans la science et le progrès technique</strong>, que l'expérience du XXe siècle (guerres industrielles, bombe atomique, pollution) invite à nuancer.</li>
+<li><strong>Un texte lyrique</strong>, plus fait pour enthousiasmer que pour démontrer.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le débat sur les machines est revenu avec l'automatisation et l'intelligence artificielle : vont-elles libérer du temps pour tout le monde, ou mettre des millions de gens au chômage pendant que quelques-uns s'enrichissent ? Louise Michel avait déjà la réponse : tout dépend de qui possède les machines.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Une profession de foi lyrique.</li>
@@ -127,21 +267,45 @@
 <li>À lire avec <a href="prise-de-possession.html">Prise de possession</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="memoires-louise-michel.html">Les Mémoires de Louise Michel</a><span>Notre fiche : sa vie racontée par elle-même.</span></li>
+<li><a href="les-rapaces.html">Les Rapaces</a><span>Notre fiche sur son roman contre la finance.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Sa vie et ses écrits.</span></li>
+</ul></section>
+</div>
+
 === idee-generale-de-la-revolution | Révolution & stratégie | Idée générale de la Révolution au XIXe siècle | Pierre-Joseph Proudhon · 1851 | Écrit en prison après 1848 : la question sociale prime sur la question politique, et le gouvernement doit se dissoudre dans l'organisation économique.
 <h2 id="contexte">Contexte</h2>
-<p>Écrit en 1851 à la prison de la Conciergerie, où Proudhon purge une peine pour délit de presse. Juste après la répression de juin 1848 et la restriction du suffrage universel, quelques mois avant le coup d'État de Louis-Napoléon Bonaparte.</p>
+<p>En 1848, Proudhon est élu député de la Seine. Il assiste à l'écrasement de l'insurrection ouvrière de juin 1848, puis tente de fonder une « Banque du peuple » de crédit gratuit, qui échoue. En 1849, il est condamné à trois ans de prison pour ses articles contre le président Louis-Napoléon Bonaparte. C'est en prison qu'il écrit ce livre, publié en 1851, quelques mois avant le coup d'État du 2 décembre qui mettra fin à la République.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La révolution est une nécessité historique : plus on la comprime, plus elle grandit. 1789 n'a fait que la moitié du travail : abolir le féodalisme sans bâtir l'organisation économique qui devait suivre.</p>
+<p>La révolution est une nécessité historique : plus on la comprime, plus elle grandit. 1789 n'a fait que la moitié du travail : abolir le féodalisme sans bâtir l'organisation économique qui devait suivre. La question sociale prime sur la question politique ; le gouvernement doit se dissoudre dans l'organisation économique.</p>
+
 <h2 id="etudes">Les sept études</h2>
 <ol>
 <li><strong>Réaction et révolution</strong> : chaque répression nourrit la révolution.</li>
-<li><strong>Pourquoi une révolution</strong> : la concurrence, le crédit et la division du travail livrés à eux-mêmes enrichissent le capital aux dépens du travail.</li>
-<li><strong>Le principe d'association</strong>, examiné et critiqué quand il devient contrainte.</li>
-<li><strong>Le principe d'autorité</strong> : monarchie, constitution, suffrage universel, même la législation directe y passent.</li>
-<li><strong>La liquidation sociale</strong> : banque du peuple, dettes, propriété immobilière et foncière.</li>
-<li><strong>L'organisation des forces économiques</strong> : crédit, propriété, valeur, échanges.</li>
-<li><strong>La dissolution du gouvernement</strong> : justice, police, armée remplacées par des contrats libres.</li>
+<li><strong>Pourquoi une révolution</strong> : la concurrence, le crédit et la division du travail, livrés à eux-mêmes, enrichissent le capital aux dépens du travail.</li>
+<li><strong>Le principe d'association</strong>, examiné et critiqué quand il devient contrainte : Proudhon se méfie des communautés où l'individu disparaît.</li>
+<li><strong>Le principe d'autorité</strong> : monarchie, constitution, suffrage universel, et même la législation directe par le peuple passent au crible. Toutes sont des formes de gouvernement.</li>
+<li><strong>La liquidation sociale</strong> : une banque du peuple, la réduction des dettes, le rachat progressif de la propriété immobilière et foncière.</li>
+<li><strong>L'organisation des forces économiques</strong> : crédit, propriété, valeur, échanges, compagnies ouvrières.</li>
+<li><strong>La dissolution du gouvernement</strong> : justice, police, armée, administration remplacées par des contrats librement passés entre individus, communes et associations.</li>
 </ol>
+<blockquote><p>Le passage le plus célèbre du livre commence ainsi : « Être gouverné, c'est être gardé à vue, inspecté, espionné, dirigé, légiféré, réglementé, parqué, endoctriné, prêché, contrôlé, estimé, apprécié, censuré, commandé… »</p></blockquote>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Le contrat, une solution miracle ?</strong> Entre deux personnes inégales, un contrat « libre » peut cacher une domination. Les anarchistes communistes reprocheront à Proudhon de garder le marché et l'échange.</li>
+<li><strong>L'homme Proudhon</strong> reste marqué par sa misogynie et ses préjugés (voir <a href="qu-est-ce-que-la-propriete.html">notre fiche sur la propriété</a>).</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La tirade « Être gouverné, c'est… » se lit comme une description de la société de surveillance : fichiers, caméras, contrôles, algorithmes. L'idée de remplacer l'administration par des accords entre associations et communes inspire coopératives, monnaies locales et mutuelles.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>L'économie avant la politique.</li>
@@ -149,21 +313,44 @@
 <li>Le livre le plus systématique de Proudhon sur une société sans gouvernement.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Anarchisme</cite></b>, Édouard Jourdain, La Découverte, Repères, 2013.<span>Une introduction claire, avec une large place pour Proudhon.</span></li>
+<li><a href="la-democratie-proudhon.html">La Démocratie</a><span>Notre fiche : Proudhon en 1848.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Pierre-Joseph_Proudhon" rel="noopener">Pierre-Joseph Proudhon sur Wikipédia</a><span>1848, la Banque du peuple, la prison.</span></li>
+</ul></section>
+</div>
+
 === l-individualisme | Individu & morale | L'Individualisme | Albert Libertad · 1908 | L'individualisme des libéraux protège la propriété. Le vrai individualisme exige l'égalité des moyens.
 <h2 id="contexte">Contexte</h2>
-<p>Paru dans <em>L'Anarchie</em> le 23 janvier 1908. Libertad commente deux manuels universitaires, l'un sur les systèmes socialistes, l'autre sur « l'individualisme économique et social ».</p>
+<p>Albert Libertad (1875-1908), fondateur du journal <em>l'anarchie</em>, publie ce texte le 23 janvier 1908, quelques mois avant sa mort. Il y commente deux manuels universitaires parus récemment, l'un sur les systèmes socialistes, l'autre sur « l'individualisme économique et social ». À l'époque, le mot « individualisme » est revendiqué à la fois par les économistes libéraux, défenseurs du marché, et par les anarchistes individualistes de son journal. Libertad veut lever la confusion.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'individualisme défendu par les libéraux sert à protéger les possédants. S'affirmer comme individu suppose une égalité réelle des moyens.</p>
+<p>L'individualisme défendu par les libéraux sert à protéger les possédants. S'affirmer vraiment comme individu suppose une égalité réelle des moyens d'existence. L'anarchisme réconcilie l'individu et le commun.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Un regard ironique sur les politiciens et la sociologie universitaire.</li>
-<li>Le premier livre caricature le socialisme.</li>
-<li>Le second, bien écrit, aboutit au libéralisme et à la défense de la propriété.</li>
-<li>Le fils de propriétaire peut s'affirmer ; le fils de pauvre, non.</li>
-<li>Ces auteurs ignorent l'anarchisme réel, celui qui essaie de vivre ses idées.</li>
-<li>Leur résignation fabrique des maîtres et des esclaves.</li>
-<li>Communisme et individualisme doivent se rejoindre dans l'anarchisme.</li>
+<li><strong>Un regard ironique</strong> sur les politiciens et la sociologie universitaire.</li>
+<li><strong>Le premier livre caricature le socialisme</strong> sans le comprendre.</li>
+<li><strong>Le second</strong>, mieux écrit, aboutit au libéralisme et à la défense de la propriété.</li>
+<li><strong>L'argument central</strong> : le fils de propriétaire peut s'affirmer, développer ses goûts, choisir sa vie ; le fils de pauvre, non. L'individualisme des riches est un privilège.</li>
+<li><strong>L'anarchisme réel</strong>, celui qui essaie de vivre ses idées au quotidien (dans les colonies libertaires, les causeries, l'entraide), est ignoré par ces auteurs.</li>
+<li><strong>La résignation</strong> fabrique des maîtres et des esclaves.</li>
+<li><strong>Communisme et individualisme</strong> doivent se rejoindre dans l'anarchisme : chacune et chacun a besoin des autres pour être pleinement soi.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un article de circonstance</strong>, qui demande de connaître un peu les débats de l'époque.</li>
+<li><strong>Les individualistes après Libertad</strong> ont parfois dérivé vers l'« illégalisme » (vivre de vols, comme la bande à Bonnot en 1911-1912), une voie qui a mené beaucoup d'entre eux au bagne ou à la guillotine.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le mot « liberté » est aujourd'hui revendiqué par des courants qui veulent surtout moins d'impôts et moins de droits pour les salariés, parfois sous le nom de « libertariens ». Libertad donnait déjà la réponse : sans égalité des moyens, la liberté n'est que celle des plus riches.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Pas de liberté individuelle sans égalité économique.</li>
@@ -171,20 +358,34 @@
 <li>Un contrepoint à <a href="l-unique-et-sa-propriete.html">Stirner</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les En-dehors</cite></b>, Anne Steiner, L'Échappée, 2008.<span>Les individualistes de la Belle Époque, de Libertad à la bande à Bonnot.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste" rel="noopener">L'anarchisme individualiste</a><span>Le courant et ses débats.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Bande_%C3%A0_Bonnot" rel="noopener">La bande à Bonnot</a><span>L'illégalisme et sa fin tragique.</span></li>
+</ul></section>
+</div>
+
 === douze-preuves | Individu & morale | Douze preuves de l'inexistence de Dieu | Sébastien Faure · 1908 | Créateur, gouverneur, juge : Faure examine le Dieu des religions et montre que ses attributs se contredisent.
 <h2 id="contexte">Contexte</h2>
-<p>Transcription d'une conférence que Sébastien Faure, orateur anarchiste, a donnée des centaines de fois. Publiée en 1908, trois ans après la séparation des Églises et de l'État.</p>
+<p>Sébastien Faure (1858-1942) a été élevé chez les jésuites et a commencé un noviciat avant de perdre la foi. Devenu anarchiste, il est l'un des plus grands orateurs de son temps : il parcourt la France pendant des décennies pour des conférences payantes qui financent ses journaux et ses projets. Il fonde avec Louise Michel <em>Le Libertaire</em> en 1895, l'école libertaire La Ruche en 1904, puis dirigera l'<em>Encyclopédie anarchiste</em>.</p>
+<p>Ce texte est la transcription d'une conférence qu'il a donnée des centaines de fois. Elle est publiée en 1908, trois ans après la loi de séparation des Églises et de l'État, dans un pays où le combat entre cléricaux et anticléricaux reste très vif.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Faure ne nie pas toute « cause première ». Il vise le Dieu des religions, créateur, gouverneur et juge, parfait et infini, et montre que ces attributs sont incompatibles.</p>
+<p>Faure ne nie pas toute « cause première » de l'univers, question qu'il laisse ouverte. Il vise le Dieu des religions, créateur, gouverneur et juge, parfait et infini, et montre que ces attributs sont incompatibles entre eux.</p>
+
 <h2 id="preuves">Les douze preuves</h2>
 <h3>Contre le Dieu créateur</h3>
 <ol>
 <li>Rien ne sort de rien.</li>
-<li>Un pur esprit ne peut produire la matière.</li>
+<li>Un pur esprit ne peut pas produire la matière.</li>
 <li>Un être parfait ne produit pas une œuvre imparfaite.</li>
 <li>Un Dieu éternel et toujours actif n'a pas pu « commencer » à créer.</li>
 <li>Un être immuable ne peut pas décider puis agir.</li>
-<li>Dieu n'aurait eu aucune raison de créer.</li>
+<li>Dieu n'aurait eu aucune raison de créer, puisqu'il ne manquait de rien.</li>
 </ol>
 <h3>Contre le Dieu gouverneur</h3>
 <ol start="7">
@@ -195,9 +396,19 @@
 </ol>
 <h3>Contre le Dieu juge</h3>
 <ol start="11">
-<li>L'humain n'est pas responsable de ce qu'il est : on ne peut le juger.</li>
+<li>L'humain n'est pas responsable de ce qu'il est : on ne peut pas le juger.</li>
 <li>Des peines éternelles pour des fautes limitées sont injustes.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Des arguments anciens</strong> : la plupart viennent de la philosophie (Épicure pour le problème du mal, les penseurs des Lumières), et les théologiens y ont répondu depuis longtemps. La force du texte est de les rendre accessibles à toutes et à tous.</li>
+<li><strong>La religion n'est pas qu'une croyance</strong> : c'est aussi une communauté, une culture, un refuge. Les anarchistes d'aujourd'hui distinguent la critique des institutions religieuses du mépris des croyantes et croyants, et refusent que l'athéisme serve de prétexte au racisme.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La laïcité est devenue un enjeu de débats parfois très durs, et souvent instrumentalisée contre une religion en particulier. Relire Faure rappelle que l'anticléricalisme anarchiste visait toutes les Églises et leurs alliances avec le pouvoir, et allait avec la défense de la liberté de conscience de chacune et chacun.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Un raisonnement en trois séries, facile à suivre.</li>
@@ -205,20 +416,45 @@
 <li>À lire avec <a href="dieu-et-l-etat.html">Dieu et l'État</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="anarchie-et-eglise.html">L'Anarchie et l'Église</a><span>Notre fiche : Reclus sur le même sujet.</span></li>
+<li><a href="la-douleur-universelle.html">La Douleur universelle</a><span>Notre fiche sur le grand livre de Faure.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/S%C3%A9bastien_Faure" rel="noopener">Sébastien Faure sur Wikipédia</a><span>L'orateur, l'éducateur, l'encyclopédiste.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Encyclop%C3%A9die_anarchiste" rel="noopener">L'Encyclopédie anarchiste</a><span>L'œuvre collective qu'il a dirigée.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Libre-pens%C3%A9e" rel="noopener">La libre-pensée</a><span>Le mouvement où ces conférences circulaient.</span></li>
+</ul></section>
+</div>
+
 === electeur-ecoute | État & pouvoir | Électeur, écoute | Sébastien Faure · 1919 | Après la boucherie de 14-18 et l'Union sacrée, un appel à l'abstention : le Parlement fait partie de l'appareil qu'il prétend réformer.
 <h2 id="contexte">Contexte</h2>
-<p>Brochure de 1919, juste après la guerre, à la veille des législatives. Les députés de gauche ont voté les crédits de guerre et soutenu l'Union sacrée.</p>
+<p>Novembre 1919 : un an après l'armistice, la France compte 1,4 million de morts et des millions de blessés. En 1914, les députés socialistes ont voté les crédits de guerre et soutenu l'« Union sacrée » ; certains sont même entrés au gouvernement. Les élections législatives approchent. Sébastien Faure, qui s'était opposé à la guerre, publie cette brochure pour appeler à l'abstention.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Voter, c'est accepter sa propre soumission. Le Parlement incarne l'État, qu'il faut détruire et non conquérir. L'abstention est un acte de lutte.</p>
+<p>Voter, c'est accepter sa propre soumission. Le Parlement fait partie de l'État, qu'il faut détruire et non conquérir. L'abstention, si elle est massive et consciente, est un acte de lutte.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Chaque législature déçoit, et l'on revote pourtant.</li>
-<li>Élire, c'est confier à un autre le pouvoir de faire la loi et de l'imposer.</li>
-<li>Participer légitime l'État et le système qui exploite.</li>
-<li>Les élus doivent leur siège à l'argent, aux intrigues et au clientélisme.</li>
-<li>Bilan : un parlementarisme incompétent, irresponsable, impuissant et corrompu.</li>
-<li>« Et la réaction ? » Une abstention massive affaiblirait le pouvoir ; voter le renforce.</li>
+<li><strong>L'éternel retour.</strong> Chaque législature déçoit, et l'on revote pourtant, en espérant que la prochaine sera la bonne.</li>
+<li><strong>Élire, c'est confier</strong> à un autre le pouvoir de faire la loi et de l'imposer, y compris celle qui envoie à la guerre.</li>
+<li><strong>Participer légitime</strong> l'État et le système qui exploite.</li>
+<li><strong>Les élus doivent leur siège</strong> à l'argent, aux intrigues et au clientélisme.</li>
+<li><strong>Le bilan</strong> : un parlementarisme incompétent, irresponsable, impuissant et corrompu.</li>
+<li><strong>« Et la réaction ? »</strong> À celles et ceux qui craignent la victoire de la droite, Faure répond qu'une abstention massive affaiblirait le pouvoir, alors que voter le renforce.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Les élections de 1919</strong> ont donné une « Chambre bleu horizon », très à droite. Les partisans du vote y voient la preuve que l'abstention fait le jeu de la réaction ; les anarchistes répondent que la gauche élue en 1914 n'avait pas empêché la guerre.</li>
+<li><strong>L'abstention, et après ?</strong> Faure la conçoit comme un début, pas une fin : elle doit s'accompagner d'organisation et d'action directe.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La question « et l'extrême droite ? » revient à chaque élection, avec une intensité nouvelle. Le texte de Faure ne la tranche pas pour nous, mais il oblige à se demander ce qui protège vraiment : un bulletin tous les cinq ans, ou des collectifs, des syndicats et des solidarités capables de résister quel que soit le gouvernement.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Le vote n'est pas un geste neutre.</li>
@@ -226,25 +462,51 @@
 <li>Écrit dans la colère de l'après-guerre.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="voter-c-est-abdiquer.html">Voter c'est abdiquer</a><span>Notre fiche : la lettre de Reclus, l'ancêtre de ce texte.</span></li>
+<li><a href="la-guerre-kropotkine.html">La Guerre</a><span>Notre fiche : Kropotkine sur la guerre, avant 1914.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/S%C3%A9bastien_Faure" rel="noopener">Sébastien Faure sur Wikipédia</a><span>Son pacifisme pendant la guerre.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Manifeste_des_Seize" rel="noopener">Le Manifeste des Seize</a><span>Les anarchistes qui, eux, ont soutenu la guerre.</span></li>
+</ul></section>
+</div>
+
 === l-anarchie-grave | État & pouvoir | L'Anarchie, son but, ses moyens | Jean Grave · 1899 | Une synthèse de 1899 par l'éditeur des Temps nouveaux : l'individu libre dans l'humanité libre, et comment y parvenir.
 <h2 id="contexte">Contexte</h2>
-<p>Publié en 1899, en pleine affaire Dreyfus et sous les « lois scélérates ». Jean Grave, cordonnier devenu éditeur des <em>Temps nouveaux</em>, répond à ceux qui assimilent anarchie et crime.</p>
+<p>Jean Grave (1854-1939) est cordonnier, autodidacte, devenu l'éditeur des grands journaux anarchistes français : <em>Le Révolté</em>, puis <em>La Révolte</em>, puis <em>Les Temps nouveaux</em> (1895-1914), auxquels collaborent Kropotkine, Reclus et de nombreux artistes. Il a été condamné à deux ans de prison en 1894 pour son livre <em>La Société mourante et l'anarchie</em>, et jugé lors du « procès des Trente ».</p>
+<p>Ce livre paraît en 1899, en pleine affaire Dreyfus, alors que les « lois scélérates » pèsent encore sur les anarchistes. Grave répond à celles et ceux qui assimilent anarchie et crime, en exposant posément le but et les moyens du mouvement.</p>
+
 <h2 id="these">La thèse</h2>
 <p>L'anarchie est une théorie rationnelle. Toute autorité, monarchique ou républicaine, sert une minorité. La liberté ne se reçoit pas d'en haut : on la conquiert soi-même.</p>
+
 <h2 id="but">Le but</h2>
 <ul>
 <li>Une société sans lois ni maîtres où chacune et chacun développe toutes ses facultés : <strong>l'individu libre dans l'humanité libre</strong>.</li>
-<li>Les capacités humaines sont fondamentalement égales.</li>
-<li>Fin de la propriété de la terre et du capital.</li>
-<li>Liberté totale de pensée et d'amour.</li>
+<li>Les capacités humaines sont fondamentalement égales ; les différences viennent du milieu.</li>
+<li>La fin de la propriété de la terre et du capital.</li>
+<li>La liberté totale de pensée et d'amour.</li>
 </ul>
+
 <h2 id="moyens">Les moyens</h2>
 <ul>
 <li>Se libérer d'abord des préjugés, avant les chaînes matérielles.</li>
-<li>Pas d'élections, pas de réformes partielles qui déplacent le mal.</li>
-<li>Une propagande patiente, qui fermente.</li>
+<li>Pas d'élections, pas de réformes partielles qui ne font que déplacer le mal.</li>
+<li>Une propagande patiente, qui fermente dans les esprits.</li>
 <li>Une révolution préparée par une conscience collective, pour ne pas reproduire l'ancien ordre.</li>
 </ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un anarchisme de propagande</strong>, très confiant dans l'éducation. Les syndicalistes lui reprochaient de rester dans les idées, loin des luttes concrètes.</li>
+<li><strong>Grave en 1916</strong> signera, avec Kropotkine, le <em>Manifeste des Seize</em> en faveur de la guerre contre l'Allemagne, ce qui le coupera de la majorité du mouvement.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La formule « l'individu libre dans l'humanité libre » reste une très bonne définition de l'anarchisme, qui dépasse le faux choix entre individu et collectif. L'idée qu'il faut se libérer des préjugés (racistes, sexistes, nationalistes) pour que la révolution ne reproduise pas l'ancien ordre est au cœur des débats militants actuels.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Toute autorité est nuisible.</li>
@@ -252,19 +514,44 @@
 <li>Éduquer avant, pour que la révolution ait un lendemain.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le Mouvement anarchiste en France</cite></b>, Jean Maitron, Gallimard, collection Tel.<span>La grande histoire de référence, en deux tomes.</span></li>
+<li><a href="la-societe-future.html">La Société future</a><span>Notre fiche sur un autre livre de Grave.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Jean_Grave" rel="noopener">Jean Grave sur Wikipédia</a><span>Le cordonnier éditeur.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Les_Temps_nouveaux" rel="noopener">Les Temps nouveaux</a><span>Son journal, et ses artistes.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_Trente" rel="noopener">Le procès des Trente</a><span>Quand l'État a jugé intellectuels et cambrioleurs ensemble.</span></li>
+</ul></section>
+</div>
+
 === la-societe-future | Économie & propriété | La Société future | Jean Grave · 1895 | À quoi ressemblerait une société anarchiste ? Entraide plutôt que lutte de tous contre tous, révolution continue et internationale.
 <h2 id="contexte">Contexte</h2>
-<p>Publié en 1895. Jean Grave, proche de Kropotkine, répond aux économistes qui utilisent Darwin pour justifier les inégalités.</p>
+<p>Jean Grave publie ce gros livre en 1895, à sa sortie de prison. Proche de Kropotkine, il veut répondre à deux adversaires : les économistes et sociologues qui utilisent Darwin pour justifier les inégalités (les riches seraient les « plus aptes »), et celles et ceux qui demandent aux anarchistes de décrire concrètement la société qu'ils veulent.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La révolution sociale est un long processus de luttes, qui commence dès qu'un individu affirme son indépendance. Elle doit venir de l'initiative libre et de l'entraide, pas d'un pouvoir central.</p>
+<p>La révolution sociale est un long processus de luttes, qui commence dès qu'un individu affirme son indépendance. Elle doit venir de l'initiative libre et de l'entraide, pas d'un pouvoir central, et ne peut réussir qu'à l'échelle internationale.</p>
+
 <h2 id="idees">Les grandes parties</h2>
 <ol>
-<li><strong>Le lendemain de la révolution</strong> : les révolutions politiques changent les dirigeants ; la révolution sociale doit être continue et refuser toute autorité.</li>
-<li><strong>Révolution et darwinisme</strong> : la lutte entre membres d'une même espèce est rare ; la bourgeoisie n'a rien d'un « plus apte ».</li>
-<li><strong>La lutte contre la nature</strong> : unir ses efforts (irrigation, reboisement) plutôt que se déchirer. La pénurie vient de la spéculation et du militarisme.</li>
-<li><strong>L'internationalisme</strong> : une révolution isolée serait écrasée ; les exploiteurs sont partout les mêmes.</li>
-<li>Puis, au fil de 27 chapitres : travail, échange, famille, éducation, art, criminalité dans la société libérée.</li>
+<li><strong>Le lendemain de la révolution.</strong> Les révolutions politiques changent les dirigeants ; la révolution sociale doit être continue et refuser toute autorité, même provisoire.</li>
+<li><strong>Révolution et darwinisme.</strong> La lutte entre membres d'une même espèce est rare dans la nature ; la bourgeoisie n'a rien d'un « plus apte », elle a seulement hérité.</li>
+<li><strong>La lutte contre la nature.</strong> Unir ses efforts (irrigation, reboisement, défrichement) plutôt que se déchirer. La pénurie vient de la spéculation et du militarisme, pas d'un manque de ressources.</li>
+<li><strong>L'internationalisme.</strong> Une révolution isolée serait écrasée ; les exploiteurs sont partout les mêmes.</li>
+<li><strong>Le reste</strong>, au fil de 27 chapitres : le travail, l'échange, la famille, l'éducation, l'art, la criminalité dans la société libérée.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Décrire l'avenir, un piège ?</strong> Beaucoup d'anarchistes se méfient des plans détaillés de la société future, qui risquent de devenir des dogmes. Grave le sait et prévient que ce ne sont que des pistes.</li>
+<li><strong>« Lutter contre la nature »</strong> : une expression qui fait aujourd'hui sursauter. Grave pense surtout à l'aménagement du territoire, mais sa confiance dans les grands travaux a vieilli.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le « darwinisme social », l'idée que la compétition sélectionne les meilleurs, revient sous d'autres noms : « premiers de cordée », « méritocratie », « gagnants et perdants de la mondialisation ». Les arguments de Grave, et ceux de la biologie actuelle sur la coopération, restent des réponses solides.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>L'entraide comme loi naturelle.</li>
@@ -272,44 +559,105 @@
 <li>Le tableau le plus complet d'une société anarchiste à la Belle Époque.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="revolution-et-darwinisme.html">La Révolution et le darwinisme</a><span>Notre fiche sur le chapitre le plus célèbre.</span></li>
+<li><a href="entraide.html">L'Entraide</a><span>Notre fiche : Kropotkine, la référence scientifique de Grave.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Jean_Grave" rel="noopener">Jean Grave sur Wikipédia</a><span>Sa vie et ses livres.</span></li>
+</ul></section>
+</div>
+
 === a-bas-les-chefs | État & pouvoir | À bas les chefs ! | Joseph Déjacque · 1859 | Contre toute dictature, même « révolutionnaire » : la liberté ne se décrète pas et ne se délègue pas.
 <h2 id="contexte">Contexte</h2>
-<p>Écrit dans l'exil après 1848 et publié en brochure (ici dans une édition de 1912). Déjacque, ouvrier colleur de papiers peints et poète, répond aux blanquistes et à tous ceux qui rêvent d'une dictature de salut public.</p>
+<p>Joseph Déjacque (1821-1865) est ouvrier colleur de papiers peints et poète. Il se bat sur les barricades de juin 1848, est emprisonné, puis s'exile après le coup d'État de 1851 : Londres, Jersey, La Nouvelle-Orléans, New York. Là, il publie de 1858 à 1861 <em>Le Libertaire, journal du mouvement social</em>, l'un des premiers journaux anarchistes au monde. Il rentre à Paris en 1861 et y meurt dans la misère.</p>
+<p>« À bas les chefs ! » paraît dans son journal en 1859. Déjacque y répond aux blanquistes et à toutes celles et ceux qui, parmi les révolutionnaires, rêvent d'une dictature de salut public pour imposer la révolution.</p>
+
 <h2 id="these">La thèse</h2>
 <p>Aucune dictature, même au nom du peuple, ne sert la liberté. La seule autorité légitime est celle de l'intelligence et de l'exemple, exercée par chacune et chacun.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Ne pas ressusciter les vieilles autorités.</li>
-<li>Les révolutionnaires qui acceptent la dictature gardent des réflexes de soumission.</li>
-<li>Une dictature finit toujours par servir son chef et écraser les esprits libres.</li>
-<li>Des ouvriers au pouvoir deviennent aussi autoritaires que des bourgeois.</li>
-<li>Le pouvoir gouvernemental corrompt l'action révolutionnaire (l'exemple de Louis Blanc).</li>
-<li>La seule « dictature » acceptable : celle de l'intelligence et de la morale, par l'exemple de chacun.</li>
+<li><strong>Ne pas ressusciter</strong> les vieilles autorités sous de nouveaux noms.</li>
+<li><strong>Des réflexes de soumission.</strong> Les révolutionnaires qui acceptent la dictature gardent en eux l'esprit d'obéissance qu'ils prétendent combattre.</li>
+<li><strong>Une dictature finit toujours</strong> par servir son chef et écraser les esprits libres.</li>
+<li><strong>Des ouvriers au pouvoir</strong> deviennent aussi autoritaires que des bourgeois.</li>
+<li><strong>L'exemple de 1848.</strong> Le pouvoir gouvernemental corrompt l'action révolutionnaire : Louis Blanc, socialiste entré au gouvernement provisoire, n'a rien pu changer.</li>
+<li><strong>La seule « dictature » acceptable</strong> : celle de l'intelligence et de la morale, par l'exemple de chacune et chacun.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une écriture flamboyante</strong>, pleine d'images et d'invectives, qui demande un peu d'effort.</li>
+<li><strong>Comment se défendre</strong> contre une contre-révolution armée sans aucune coordination ? La question, que Déjacque n'aborde pas, se posera en Russie et en Espagne.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le refus du chef révolutionnaire, écrit soixante ans avant 1917, annonce ce qui se passera en Russie, où la « dictature du prolétariat » deviendra celle d'un parti puis d'un homme. Dans les mouvements actuels qui refusent les porte-parole et les leaders (assemblées, mouvements « horizontaux »), on retrouve l'esprit de Déjacque.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Le refus du chef révolutionnaire, bien avant 1917.</li>
-<li>La révolution commence par l'autonomie de chacun.</li>
+<li>La révolution commence par l'autonomie de chacune et de chacun.</li>
 <li>Déjacque est aussi l'inventeur du mot « libertaire ».</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="etre-humain-male-et-femelle.html">De l'être-humain mâle et femelle</a><span>Notre fiche : sa lettre à Proudhon, où naît le mot « libertaire ».</span></li>
+<li><a href="bolchevisme-et-anarchisme.html">Bolchevisme et anarchisme</a><span>Notre fiche : Malatesta, en 1923, sur la dictature réalisée.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Joseph_D%C3%A9jacque" rel="noopener">Joseph Déjacque sur Wikipédia</a><span>Une vie d'exil et de poésie.</span></li>
+</ul></section>
+</div>
+
 === etre-humain-male-et-femelle | Individu & morale | De l'être-humain mâle et femelle | Joseph Déjacque · 1857 | La lettre à Proudhon : on ne peut pas être anarchiste et misogyne. L'émancipation des femmes est celle de toute l'humanité.
 <h2 id="contexte">Contexte</h2>
-<p>Lettre écrite en mai 1857 à La Nouvelle-Orléans, où Déjacque est exilé. Il répond aux propos de Proudhon contre Jenny d'Héricourt, qui défendait l'émancipation des femmes.</p>
+<p>En mai 1857, Joseph Déjacque, exilé à La Nouvelle-Orléans, lit les propos de Proudhon contre Jenny d'Héricourt. Cette philosophe et sage-femme défendait l'égalité des femmes ; Proudhon lui avait répondu que la femme n'a le choix qu'entre être « ménagère ou courtisane ». Déjacque, qui admire Proudhon pour sa critique de la propriété, prend la plume pour lui répondre publiquement, sous forme de lettre.</p>
+<p>C'est dans ce texte qu'apparaît pour la première fois le mot « libertaire », que Déjacque invente pour désigner un anarchisme complet, qui ne s'arrête pas à la porte du foyer.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'émancipation des femmes est inséparable de celle de l'être humain. Un anarchisme cohérent doit abolir la propriété, le contrat et toute autorité, y compris dans la famille.</p>
+<p>L'émancipation des femmes est inséparable de celle de l'être humain. Un anarchisme cohérent doit abolir la propriété, le contrat et toute autorité, y compris dans la famille et dans le couple.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Proudhon parle des femmes sans les connaître, en réactionnaire, lui qui est révolutionnaire en économie.</li>
-<li>Pas de droits selon le sexe : l'être humain est un.</li>
-<li>Les sexes s'influencent l'un l'autre ; la société a réduit les femmes à la décoration et à la soumission.</li>
-<li>Une anarchie communiste où chacune et chacun produit et consomme librement, sans contrat ni contrôle.</li>
-<li>La diversité (âge, sexe, aptitudes) ne justifie aucune hiérarchie : égalité n'est pas uniformité.</li>
-<li>Un appel à l'union libre des femmes et des hommes.</li>
+<li><strong>La contradiction de Proudhon.</strong> Révolutionnaire en économie, il parle des femmes en réactionnaire, sans les connaître. Déjacque lui lance : soyez franchement anarchiste, ou cessez de vous dire tel.</li>
+<li><strong>L'être humain est un.</strong> Pas de droits selon le sexe.</li>
+<li><strong>L'influence mutuelle des sexes.</strong> La société a réduit les femmes à la décoration et à la soumission ; ce n'est pas leur nature, c'est leur condition.</li>
+<li><strong>Une anarchie communiste</strong> où chacune et chacun produit et consomme librement, sans contrat ni contrôle. Déjacque va plus loin que Proudhon sur la propriété aussi.</li>
+<li><strong>Égalité n'est pas uniformité.</strong> La diversité (âge, sexe, aptitudes) ne justifie aucune hiérarchie.</li>
+<li><strong>L'union libre</strong> des femmes et des hommes, sans mariage imposé.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un féminisme écrit par un homme</strong>, avec le vocabulaire et certaines images de son temps. Le texte n'en est pas moins en avance de plusieurs décennies.</li>
+<li><strong>La bataille n'était pas gagnée</strong> : la misogynie de Proudhon a longtemps pesé sur une partie du mouvement ouvrier français, qui refusait le travail des femmes.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La question posée par Déjacque, peut-on être révolutionnaire dans la rue et dominant à la maison, reste au cœur des débats dans les milieux militants : répartition des tâches, violences dans les organisations, prise de parole en réunion. L'anarcha-féminisme est l'héritier direct de cette lettre.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Le premier texte anarchiste explicitement féministe.</li>
 <li>Il pointe la contradiction de Proudhon.</li>
 <li>Un anarchisme total, jusque dans le couple et la famille.</li>
+<li>La naissance du mot « libertaire ».</li>
 </ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a> et <a href="le-mariage-mauvaise-action.html">Le Mariage est une mauvaise action</a><span>Nos fiches : Goldman et de Cleyre, qui prolongent Déjacque.</span></li>
+<li><b><cite>La Femme affranchie</cite></b>, Jenny d'Héricourt, 1860.<span>La réponse de la philosophe elle-même à Proudhon et aux autres.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Anarcha-f%C3%A9minisme" rel="noopener">L'anarcha-féminisme</a><span>Le courant né de ces débats.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Joseph_D%C3%A9jacque" rel="noopener">Joseph Déjacque sur Wikipédia</a><span>L'inventeur du mot « libertaire ».</span></li>
+</ul></section>
+</div>

@@ -1,77 +1,156 @@
 === qu-est-ce-que-la-propriete | Économie & propriété | Qu'est-ce que la propriété ? | Pierre-Joseph Proudhon · 1840 | Ni l'occupation, ni le travail, ni la loi ne peuvent fonder la propriété. Le livre qui a lancé la formule « la propriété, c'est le vol ».
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1840, sous la monarchie de Juillet. Proudhon examine ce que 1789 et 1830 ont laissé intact : la souveraineté, l'inégalité des fortunes et la propriété. C'est dans ce livre qu'il se dit pour la première fois « anarchiste ».</p>
+<p>Pierre-Joseph Proudhon (1809-1865) est un enfant du peuple de Besançon : fils d'un tonnelier et d'une cuisinière, il garde les vaches, puis devient ouvrier typographe. Il apprend seul le latin, le grec et l'hébreu en composant des livres. Une bourse de l'académie de Besançon lui permet d'étudier à Paris.</p>
+<p>Son premier grand livre paraît en 1840, sous la monarchie de Juillet, quand la bourgeoisie des banquiers règne et que les ouvriers des villes vivent dans une misère noire. Proudhon examine ce que les révolutions de 1789 et de 1830 ont laissé intact : la souveraineté, l'inégalité des fortunes et la propriété. C'est dans ce livre qu'il écrit, pour la première fois dans l'histoire, « je suis anarchiste ».</p>
 
 <h2 id="these">La thèse</h2>
-<p>La propriété (le droit d'user et d'abuser d'une chose, et d'en tirer un revenu sans travailler) n'a aucun fondement solide. La justice exige l'égalité des droits ; la propriété, qui la contredit, doit disparaître. La célèbre formule « la propriété, c'est le vol » est le point d'arrivée d'une démonstration, pas un slogan.</p>
+<p>La propriété, au sens du droit romain (le droit d'user et d'abuser d'une chose, et d'en tirer un revenu sans travailler), n'a aucun fondement solide. La justice exige l'égalité des droits ; la propriété, qui la contredit, doit disparaître. La célèbre formule « la propriété, c'est le vol » est le point d'arrivée d'une démonstration, pas un slogan lancé au hasard.</p>
 
 <h2 id="idees">Le plan du livre</h2>
 <ol>
-<li><strong>Méthode.</strong> Proudhon veut examiner les principes au lieu de les accepter par tradition. Il distingue le progrès (qui aménage) de la révolution (qui change les idées de fond) : 1789 et 1830 ont été des progrès, pas des révolutions.</li>
-<li><strong>La propriété comme « droit naturel ».</strong> Il sépare la <strong>possession</strong> (l'usage de ce dont on a besoin) de la <strong>propriété</strong> (le droit d'exclure et de tirer rente). L'occupation, si chacun ne peut occuper qu'une place, conduit à l'égalité des possessions.</li>
-<li><strong>Le travail</strong> ne fonde pas la propriété : il conduit lui aussi à l'égalité.</li>
-<li><strong>La propriété est impossible</strong> : Proudhon le montre par une série de raisonnements, y compris arithmétiques, sur la rente et l'intérêt.</li>
-<li><strong>Vers une « troisième forme » de société</strong>, ni communauté forcée ni propriété : la liberté avec l'égalité.</li>
+<li><strong>La méthode.</strong> Proudhon veut examiner les principes au lieu de les accepter par tradition. Il distingue le progrès, qui aménage, de la révolution, qui change les idées de fond. 1789 et 1830 ont été des progrès, pas des révolutions.</li>
+<li><strong>Possession et propriété.</strong> C'est la distinction clé du livre. La <strong>possession</strong>, c'est l'usage de ce dont on a besoin pour vivre et travailler : la maison qu'on habite, le champ qu'on cultive. La <strong>propriété</strong>, c'est le droit d'exclure les autres et de tirer une rente de ce qu'on n'utilise pas soi-même.</li>
+<li><strong>L'occupation</strong> ne fonde pas la propriété : si chacun ne peut occuper qu'une place, et si les nouvelles et nouveaux venus ont droit à la leur, l'occupation conduit à l'égalité des possessions.</li>
+<li><strong>Le travail</strong> ne la fonde pas non plus. Le travail crée un droit sur le produit, pas sur la terre. Et comme tout travail est collectif, il conduit lui aussi à l'égalité.</li>
+<li><strong>La force collective.</strong> Deux cents grenadiers dressent un obélisque en quelques heures ; un seul n'y arriverait jamais en deux cents jours. Le patron paie deux cents salaires individuels et empoche gratuitement la force qui naît de leur coopération. C'est l'idée la plus profonde du livre.</li>
+<li><strong>La propriété est impossible.</strong> Par une série de raisonnements, y compris des calculs sur la rente et l'intérêt, Proudhon montre que le revenu sans travail ronge peu à peu la société qui le paie.</li>
+<li><strong>Une troisième forme de société</strong>, ni communauté forcée ni propriété : la liberté avec l'égalité. Il l'appelle anarchie, c'est-à-dire absence de maître.</li>
 </ol>
 
-<h2 id="arguments">Quelques arguments</h2>
+<h2 id="arguments">Quelques images</h2>
 <ul>
-<li>Les droits de liberté, d'égalité et de sûreté ne se négocient pas. La propriété, elle, est sans cesse rognée par l'impôt : preuve qu'elle n'est pas un droit du même ordre.</li>
-<li>L'image du naufragé repoussé de la barque par celui qui s'y trouve déjà : c'est le propriétaire face au prolétaire.</li>
+<li>Les droits de liberté, d'égalité et de sûreté ne se négocient pas. La propriété, elle, est sans cesse rognée par l'impôt et les expropriations : preuve qu'elle n'est pas un droit du même ordre.</li>
+<li>Le naufragé repoussé de la barque par celui qui s'y trouve déjà : c'est le propriétaire face au prolétaire.</li>
 </ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Proudhon n'est pas communiste.</strong> Il défend la petite possession, l'échange et le crédit gratuit, ce qu'on appellera le mutuellisme. Les anarchistes suivants, comme Kropotkine, iront plus loin vers la mise en commun.</li>
+<li><strong>Marx</strong> salue le livre en 1845, puis rompt violemment avec Proudhon en 1847 dans <em>Misère de la philosophie</em>. Leur querelle annonce la grande séparation entre socialistes autoritaires et libertaires.</li>
+<li><strong>Le côté sombre.</strong> Proudhon a écrit des pages franchement misogynes (la femme serait faite pour le foyer) et, dans ses carnets privés, des lignes antisémites. Dès 1857, l'anarchiste Joseph Déjacque le lui reproche publiquement : voir <a href="etre-humain-male-et-femelle.html">De l'être-humain mâle et femelle</a>. On peut lire Proudhon sans rien lui pardonner de cela.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La différence entre possession et propriété éclaire beaucoup de luttes actuelles : logements vides pendant que des gens dorment dehors, terres agricoles achetées pour spéculer, plateformes qui encaissent la valeur du travail de milliers de personnes. L'idée de « force collective » non payée aide aussi à comprendre les profits tirés des communs, du logiciel libre aux données que nous produisons chaque jour.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
-<li>Possession (l'usage) ≠ propriété (le droit de rente et d'exclusion).</li>
+<li>Possession (l'usage) n'est pas propriété (le droit de rente et d'exclusion).</li>
+<li>Le patron s'approprie gratuitement la force qui naît du travail en commun.</li>
 <li>Le premier livre où quelqu'un se revendique anarchiste.</li>
 <li>Un texte long et argumentatif : commence par les deux premiers chapitres.</li>
 </ul>
 
-=== prise-de-possession | Économie & propriété | Prise de possession | Louise Michel · 1890 | Le capital vit du travail d'autrui. Le monde appartiendra à ceux qui le font tourner, par une prise de possession collective.
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Anarchisme</cite></b>, Édouard Jourdain, La Découverte, collection Repères, 2013.<span>Une introduction courte et claire, avec une large place pour Proudhon.</span></li>
+<li><b><cite>Ni Dieu ni maître. Anthologie de l'anarchisme</cite></b>, Daniel Guérin, La Découverte.<span>Les meilleures pages de Proudhon, avec une présentation.</span></li>
+<li><a href="idee-generale-de-la-revolution.html">Idée générale de la Révolution</a> et <a href="la-democratie-proudhon.html">La Démocratie</a><span>Nos fiches sur deux autres livres de Proudhon.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Qu%27est-ce_que_la_propri%C3%A9t%C3%A9_%3F" rel="noopener">Le livre sur Wikipédia</a><span>Plan, réception, la querelle avec Marx.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Pierre-Joseph_Proudhon" rel="noopener">Pierre-Joseph Proudhon sur Wikipédia</a><span>Sa vie, ses prisons, son mutuellisme, ses zones d'ombre.</span></li>
+</ul></section>
+</div>
+
+=== prise-de-possession | Économie & propriété | Prise de possession | Louise Michel · 1890 | Le capital vit du travail d'autrui. Le monde appartiendra à celles et ceux qui le font tourner, par une prise de possession collective.
 <h2 id="contexte">Contexte</h2>
-<p>Texte de 1890, écrit par l'ancienne communarde au retour de déportation. Il réagit à l'Exposition universelle de 1889, au centenaire de la Révolution, aux guerres coloniales en Indochine, aux grèves européennes et à la misère des villes. Pour Louise Michel, la République n'est que l'Empire « habillé autrement ».</p>
+<p>Louise Michel (1830-1905) est institutrice quand éclate la Commune de Paris en 1871. Elle y est ambulancière, combattante, animatrice de clubs. Condamnée à la déportation, elle passe sept ans en Nouvelle-Calédonie, où elle devient anarchiste, enseigne aux Kanak et prend leur parti lors de leur grande révolte de 1878. Amnistiée en 1880, elle rentre en héroïne et ne cesse plus de parcourir la France pour des conférences, entre deux séjours en prison.</p>
+<p>Elle écrit ce texte en 1890. Il réagit à l'Exposition universelle de 1889 et au centenaire de la Révolution, célébrés en grande pompe, aux guerres coloniales en Indochine, aux grèves qui se multiplient en Europe et à la misère des villes. Pour Louise Michel, la République n'est que l'Empire « habillé autrement ».</p>
 
 <h2 id="these">La thèse</h2>
-<p>Pouvoir, capital et suffrage universel sont condamnés. Le travail et la science reprendront ce qui les fait vivre, la terre, les machines et les forces de la nature, dans une société sans propriété privée ni autorité. Grève générale, crise ou guerre : la transformation viendra.</p>
+<p>Pouvoir, capital et suffrage universel sont condamnés par l'histoire. Le travail et la science reprendront ce qui les fait vivre (la terre, les machines, les forces de la nature) dans une société sans propriété privée ni autorité. Grève générale, crise ou guerre : la transformation viendra, et il faut s'y préparer.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>La vérité vient d'en bas.</strong> Les puissants mentent ; le vote ne permettra jamais de faire la révolution.</li>
-<li><strong>Le capital est une fiction</strong> qui vit du travail des autres. L'Exposition de 1889 prouve qu'on sait produire assez pour tout le monde.</li>
-<li><strong>La prise de possession</strong> est collective : la grève générale rend le pouvoir impuissant ; ouvriers, petits commerçants ruinés et employés sans travail forment une masse qui n'a plus rien à perdre.</li>
-<li><strong>La révolution se propage</strong> comme une secousse sismique, d'un pays à l'autre.</li>
-<li><strong>Appel aux paysans et aux ouvriers</strong> à refuser l'impôt, la guerre et la résignation. Elle évoque les révoltes paysannes, la répression coloniale et le sort des enfants pauvres.</li>
+<li><strong>La vérité vient d'en bas.</strong> Les puissants mentent ; le vote ne permettra jamais de faire la révolution, car il ne touche pas aux bases du pouvoir.</li>
+<li><strong>Le capital est une fiction</strong> qui vit du travail des autres. L'Exposition de 1889, vitrine des techniques modernes, prouve qu'on sait déjà produire assez pour tout le monde.</li>
+<li><strong>La prise de possession est collective.</strong> La grève générale rend le pouvoir impuissant. Ouvrières et ouvriers, petits commerçants ruinés, employés sans travail forment une masse qui n'a plus rien à perdre.</li>
+<li><strong>La révolution se propage</strong> comme une secousse sismique, d'un pays à l'autre, sans respecter les frontières.</li>
+<li><strong>Un appel aux paysans et aux ouvriers</strong> à refuser l'impôt, la guerre et la résignation. Elle évoque les révoltes paysannes, la répression coloniale et le sort des enfants pauvres.</li>
 <li><strong>La « raison d'État »</strong> broie les vies depuis l'Antiquité, de Prométhée enchaîné aux exécutions de son temps.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Plus poétique que démonstratif.</strong> Louise Michel écrit en visionnaire, par images et par élans. Pour une démonstration économique serrée, lire plutôt <a href="la-conquete-du-pain.html">La Conquête du pain</a>.</li>
+<li><strong>Une révolution jugée inévitable.</strong> Comme beaucoup à son époque, elle croit l'effondrement du capitalisme imminent. L'histoire a été plus lente et plus cruelle.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Louise Michel relie dès 1890 la lutte sociale et l'anticolonialisme, ce que peu de gens faisaient alors. Son nom est devenu un symbole : écoles, rues, squats, bateaux de sauvetage en Méditerranée le portent. Relire ses textes, c'est retrouver la femme de combat derrière l'image de la « Vierge rouge ».</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Le travail est la seule source réelle de richesse ; le capital n'a pas de légitimité propre.</li>
+<li>La grève générale comme moyen de la prise de possession.</li>
 <li>Une prose militante et lyrique, plus visionnaire que démonstrative.</li>
-<li>Louise Michel relie lutte sociale et anticolonialisme dès 1890.</li>
+<li>La lutte sociale et l'anticolonialisme vont ensemble.</li>
 </ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Vierge rouge. Biographie de Louise Michel</cite></b>, Xavière Gauthier, Éditions de Paris.<span>Une biographie vivante, qui s'appuie sur ses lettres.</span></li>
+<li><b><cite>Vive Louise Michel ! Célébrité et postérité d'une figure anarchiste</cite></b>, Sidonie Verhaeghe, Éditions du Croquant, 2021.<span>Comment une révolutionnaire est devenue un symbole, et ce qu'on en a fait.</span></li>
+<li><a href="memoires-louise-michel.html">Les Mémoires de Louise Michel</a><span>Notre fiche : sa vie racontée par elle-même.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><b><cite>Louise Michel, la rebelle</cite></b>, Sólveig Anspach, 2010.<span>Un film sur ses années de déportation en Nouvelle-Calédonie, avec Sylvie Testud.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Une biographie complète et sourcée.</span></li>
+<li><a href="../experiences/commune-de-paris-histoire.html">Notre dossier sur la Commune de Paris</a><span>Le moment qui a fait d'elle une révolutionnaire.</span></li>
+</ul></section>
+</div>
 
 === a-mon-frere-le-paysan | Économie & propriété | À mon frère le paysan | Élisée Reclus · 1899 | La terre est à celui qui la travaille. Mais seul, le paysan ne la gardera pas : il lui faut l'union des communes et des ouvriers.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1899 dans <em>Les Temps nouveaux</em>, réédité en brochure en 1925. Le géographe anarchiste s'adresse au petit paysan, à un moment où la mécanisation, la spéculation foncière et l'impôt transforment les campagnes.</p>
+<p>Élisée Reclus (1830-1905) est l'un des plus grands géographes de son temps, auteur d'une <em>Nouvelle Géographie universelle</em> en dix-neuf volumes. Il est aussi anarchiste : combattant de la Commune de Paris, fait prisonnier, condamné, puis banni de France grâce à une pétition de savants du monde entier. Il connaît intimement le monde rural, qu'il a parcouru à pied sur plusieurs continents.</p>
+<p>Ce texte paraît en 1899 dans <em>Les Temps nouveaux</em>, le journal de Jean Grave, puis en brochure, rééditée pendant des décennies. Reclus s'adresse au petit paysan, à un moment où la mécanisation, la spéculation foncière, les dettes et l'impôt transforment les campagnes françaises et poussent des millions de gens vers les villes.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Celui qui cultive la terre en est le légitime possesseur. Mais isolé, il ne pourra pas la défendre contre les grands propriétaires, l'État et l'agriculture industrielle. Seule l'union des petits cultivateurs, des communes et des ouvriers des villes le peut.</p>
+<p>Celle ou celui qui cultive la terre en est le légitime possesseur. Mais isolé, le paysan ne pourra pas la défendre contre les grands propriétaires, l'État et l'agriculture industrielle naissante. Seule l'union des petits cultivateurs, des communes et des ouvriers des villes peut garantir la terre à celles et ceux qui la travaillent.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Rassurer</strong> : personne ne prendra au paysan la terre qu'il travaille.</li>
-<li><strong>Exproprier les grands domaines</strong> que d'autres cultivent pour des héritiers ou des enrichis. Chacun garde ce qu'il peut travailler lui-même.</li>
-<li><strong>La fragilité de l'isolé</strong> : météo, impôts, marchands, compagnies de chemin de fer le dépouillent, et la méfiance entre voisins l'affaiblit encore.</li>
-<li><strong>La commune ancienne</strong>, avec ses terres communes, son entraide et ses décisions collectives, montre qu'autre chose est possible.</li>
-<li><strong>Mais une commune seule</strong> finit toujours par céder face aux seigneurs, aux juges et à l'armée.</li>
-<li><strong>La menace industrielle</strong> : Reclus décrit les immenses fermes de l'Ouest américain, où hommes, bêtes et machines sont de simples rouages du profit.</li>
-<li><strong>L'appel</strong> : fédérer les communes, puis les pays, et s'allier aux ouvriers des villes.</li>
+<li><strong>Rassurer.</strong> Les adversaires des anarchistes disent aux paysans qu'on veut leur prendre leur champ. Reclus répond : personne ne prendra la terre que tu travailles toi-même.</li>
+<li><strong>Exproprier les grands domaines</strong>, que d'autres cultivent pour des héritiers ou des enrichis qui ne les voient jamais. Chacune et chacun garde ce qu'il peut travailler.</li>
+<li><strong>La fragilité de l'isolé.</strong> Météo, impôts, usuriers, marchands de grain, compagnies de chemin de fer : tout le monde dépouille le petit paysan, et la méfiance entre voisins l'affaiblit encore.</li>
+<li><strong>La commune ancienne</strong>, avec ses terres communes, ses pâturages partagés, son entraide pour les moissons et ses décisions prises ensemble, montre qu'autre chose est possible.</li>
+<li><strong>Mais une commune seule</strong> finit toujours par céder face aux seigneurs, aux juges et à l'armée. L'histoire des communaux confisqués le prouve.</li>
+<li><strong>La menace industrielle.</strong> Reclus décrit les immenses fermes de l'Ouest américain, où humains, bêtes et machines ne sont que des rouages du profit. C'est l'avenir qui attend la campagne si rien ne change.</li>
+<li><strong>L'appel</strong> : fédérer les communes, puis les pays, et s'allier aux ouvriers des villes, qui ont le même ennemi.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une vision un peu idéalisée</strong> de la commune rurale d'autrefois, qui connaissait aussi ses hiérarchies, ses notables et ses exclusions, notamment envers les femmes.</li>
+<li><strong>La petite propriété paysanne</strong> reste au centre : Reclus ménage un public attaché à son lopin. D'autres anarchistes défendront plus nettement la mise en commun du travail agricole, comme les collectivités d'Espagne en 1936.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La prophétie de Reclus s'est réalisée : les fermes géantes, la dépendance aux banques et aux semenciers, la disparition massive des petites exploitations. Les luttes paysannes actuelles (contre l'accaparement des terres, pour l'installation de jeunes paysannes et paysans, les zones à défendre, les coopératives et les circuits courts) reprennent exactement sa question : comment garder la terre à celles et ceux qui la travaillent ?</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Le droit d'usage fondé sur le travail, comme chez <a href="qu-est-ce-que-la-propriete.html">Proudhon</a>.</li>
+<li>L'isolement est la faiblesse du paysan ; la fédération est sa force.</li>
 <li>L'alliance ville-campagne, condition de toute révolution (voir aussi <a href="commune-de-paris-kropotkine.html">Kropotkine sur la Commune</a>).</li>
 <li>Un texte court et très lisible.</li>
 </ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Élisée Reclus ou la passion du monde</cite></b>, Hélène Sarrazin, La Découverte, 1985.<span>Une biographie accessible du géographe anarchiste.</span></li>
+<li><b><cite>Élisée Reclus. Pour une géographie nouvelle</cite></b>, Federico Ferretti, Éditions du CTHS, 2014.<span>Le savant et le militant, par un spécialiste.</span></li>
+<li><a href="sentiment-de-la-nature.html">Du sentiment de la nature</a><span>Notre fiche : Reclus, pionnier de l'écologie.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Sa vie, sa géographie, son anarchisme.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Les_Temps_nouveaux" rel="noopener">Les Temps nouveaux</a><span>Le journal où le texte a paru.</span></li>
+<li><a href="../experiences/espagne-1936-organisation.html">Les collectivités agricoles d'Espagne</a><span>Notre dossier : quand des paysannes et paysans ont mis la terre en commun.</span></li>
+</ul></section>
+</div>

@@ -89,6 +89,28 @@ Chaque page commence par une ligne d'en-tête, puis du HTML :
 - `<ol class="principes"><li><b>Servir</b>et non se servir</li></ol>` : principes en cartes.
 - `<figure class="schema"><div class="schema__scroll"><svg viewBox="0 0 720 …">…</svg></div><figcaption><b>Schéma 1.</b> …</figcaption></figure>` : schéma. Classes SVG : `bx` (boîte), `bx-r` (boîte rose), `bx-d` (pointillés), `t` (texte), `tb` (gros titre), `s` (petit texte), `sr` (étiquette rouge), `ar` (flèche rouge, avec un `<marker>` dont l'id est unique dans la page), `ln` (ligne), `ld` (ligne pointillée).
 - `<figure class="horde"><a href="…jpg"><img …></a><figcaption>…</figcaption></figure>` : grande image cliquable (schémas de La Horde).
+- `<blockquote><p>« … »</p></blockquote>` : courte citation en bande noire (textes du domaine public, mot pour mot, ou bien on reformule sans guillemets).
+
+### Sources (obligatoire en fin de page)
+
+Toutes les fiches, pages de dossiers, pages Antifascisme, fiches manif et guides se terminent par :
+
+```html
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Titre du livre</cite></b>, Autrice ou Auteur, Éditeur, année.<span>Pourquoi le lire, en une phrase.</span></li>
+<li><a href="autre-fiche.html">Une fiche du site</a><span>…</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>…</ul></section>
+<section><h3>Sur le web</h3><ul><li><a href="https://…" rel="noopener">Nom du site</a><span>…</span></li></ul></section>
+</div>
+```
+
+- Chaque carte (`section`) a un titre court (`Lire`, `Regarder`, `Sur le web`, `Sites officiels`, `Se faire aider`…). Les guides numériques utilisent le titre « Liens utiles et pour aller plus loin » et une carte « Source » vers Libérons nos ordis.
+- **Vérifier chaque lien externe** avant de le mettre (il répond et c'est la bonne page). Wikipédia : vérifier le titre exact de l'article. Ne citer un livre (éditeur, année) que si l'on en est sûr ; jamais de référence inventée.
+- Fiches de lecture : la carte **« Le texte original »** est ajoutée toute seule par `_src/build.ps1` en tête du bloc (notre livre complet s'il existe, et l'adresse du texte sur la Bibliothèque anarchiste lue dans `_src/textes/originaux.txt`, une ligne `identifiant-de-fiche=adresse` vérifiée). Pour une nouvelle fiche, ajouter sa ligne.
+- Plan des fiches de lecture : Contexte, La thèse, Les idées, Débats et limites (y compris les zones d'ombre des auteurs), Et aujourd'hui ?, À retenir, Sources.
 
 ## Données de la carte (`data/lieux.js`)
 

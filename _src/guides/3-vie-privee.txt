@@ -55,6 +55,20 @@
 <h3>Système</h3>
 <p>Windows, macOS et ChromeOS sont propriétaires : <a href="installer-linux-mint.html">installe Linux</a>. Sur mobile, <a href="android.html">libère ton Android</a>.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://degooglisons-internet.org" rel="noopener">Dégooglisons Internet</a><span>Les alternatives libres proposées par Framasoft.</span></li>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Le collectif d'hébergeurs alternatifs, transparents et solidaires.</span></li>
+<li><a href="https://www.mozilla.org/fr/firefox/" rel="noopener">Firefox</a><span>Le navigateur libre.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://www.laquadrature.net" rel="noopener">La Quadrature du Net</a><span>Le combat contre la surveillance et les géants du numérique.</span></li>
+<li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Le guide de l'EFF en français.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === ublock-origin | Vie privée | Configurer uBlock Origin | Installer le bloqueur de pub et de traqueurs, choisir les bonnes listes de filtres et s'en servir au quotidien.
 <h2 id="quoi">C'est quoi</h2>
 <p>uBlock Origin est une extension libre et gratuite qui bloque pubs et traqueurs. Les pages chargent plus vite, consomment moins de données et d'énergie, et ta vie privée est protégée.</p>
@@ -102,6 +116,15 @@
 <h2 id="anti-bloqueur">Sites qui exigent de couper le bloqueur</h2>
 <p>Active la liste Annoyances. Si ça ne suffit pas, désactive uBlock pour ce site seulement, ou va voir ailleurs : beaucoup de médias vivent de dons ou d'abonnements sans pub.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://ublockorigin.com" rel="noopener">uBlock Origin</a><span>Le site officiel du bloqueur.</span></li>
+<li><a href="https://github.com/gorhill/uBlock/wiki" rel="noopener">Le wiki d'uBlock Origin</a><span>La documentation complète, pour aller plus loin dans les réglages.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === youtube-sans-pub | Vie privée | YouTube sans pub et sans pistage | Interfaces alternatives, FreeTube, NewPipe, SponsorBlock et PeerTube, sur ordinateur et téléphone.
 <h2 id="bases">Les bases</h2>
 <ul>
@@ -138,6 +161,17 @@
 <h2 id="sobriete">Regarder moins</h2>
 <p>La vidéo est l'usage numérique le plus gourmand en énergie, surtout en 4G sur téléphone.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://freetubeapp.io" rel="noopener">FreeTube</a><span>Regarder YouTube sur ordinateur sans pub ni pistage.</span></li>
+<li><a href="https://newpipe.net" rel="noopener">NewPipe</a><span>L'équivalent sur Android, à installer depuis F-Droid.</span></li>
+<li><a href="https://sponsor.ajay.app" rel="noopener">SponsorBlock</a><span>Sauter les passages sponsorisés.</span></li>
+<li><a href="https://joinpeertube.org" rel="noopener">PeerTube</a><span>L'alternative libre et décentralisée à YouTube.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === quitter-facebook | Vie privée | Quitter Facebook | Pourquoi partir, quoi utiliser à la place, et comment supprimer vraiment son compte.
 <h2 id="pourquoi">Pourquoi partir</h2>
 <p>Meta tire environ 95 % de ses revenus de la pub ciblée, donc de l'exploitation de tes données. Ses algorithmes mettent en avant les contenus qui divisent, pour te garder sur l'application. Meta a joué un rôle dans la surveillance de masse et la manipulation politique, et a relâché sa modération depuis 2025.</p>
@@ -173,6 +207,19 @@
 
 <h2 id="pas-pret">Tu hésites encore ?</h2>
 <p>L'extension Firefox <strong>Facebook Container</strong> isole Facebook du reste de ta navigation.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://joinmastodon.org" rel="noopener">Mastodon</a><span>Un réseau social libre et décentralisé, sans publicité.</span></li>
+<li><a href="https://mobilizon.org" rel="noopener">Mobilizon</a><span>Organiser des événements sans Facebook.</span></li>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Trouver un hébergeur alternatif.</span></li>
+</ul></section>
+<section><h3>Tes droits</h3><ul>
+<li><a href="https://www.cnil.fr" rel="noopener">CNIL</a><span>Récupérer ses données et faire supprimer son compte : tes droits.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === hebergement-email | Vie privée | Héberger ses e-mails | Pourquoi quitter Gmail et Outlook, quels fournisseurs choisir et à quel prix.
 <h2 id="pourquoi">Pourquoi quitter Gmail, Outlook, Yahoo</h2>
@@ -221,3 +268,18 @@
 <li>Si l'application ne trouve pas les réglages, saisis les serveurs IMAP et SMTP à la main.</li>
 <li>Préviens tes contacts et migre progressivement.</li>
 </ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://disroot.org" rel="noopener">Disroot</a><span>Un service collectif et militant, gratuit, financé par les dons.</span></li>
+<li><a href="https://posteo.de/fr" rel="noopener">Posteo</a><span>Un fournisseur payant, sans pub, alimenté en énergie renouvelable.</span></li>
+<li><a href="https://www.mailo.com" rel="noopener">Mailo</a><span>Un fournisseur français, avec une offre gratuite.</span></li>
+<li><a href="https://proton.me" rel="noopener">Proton Mail</a><span>Un service chiffré, basé en Suisse.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>D'autres hébergeurs associatifs, souvent près de chez toi.</span></li>
+<li><a href="https://www.thunderbird.net/fr/" rel="noopener">Thunderbird</a><span>Lire tes courriels sur ton ordinateur, quel que soit ton fournisseur.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

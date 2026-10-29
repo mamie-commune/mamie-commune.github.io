@@ -61,6 +61,21 @@
 <li>Dans la bibliothèque : <a href="../bibliotheque/la-federation.html">La Fédération comme moyen d'union</a> de Kropotkine, écrit en pleine révolution russe.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Nestor Makhno, le cosaque libertaire (1888-1934)</cite></b>, Alexandre Skirda, Éditions de Paris, 1999.<span>La biographie de référence en français, très documentée.</span></li>
+<li><b><cite>Histoire du mouvement makhnoviste</cite></b>, Piotr Archinov, 1921.<span>Le récit d'un compagnon de Makhno, témoin direct de la Makhnovtchina.</span></li>
+<li><b><cite>La Révolution inconnue</cite></b>, Voline, 1947.<span>La révolution russe vue par un anarchiste qui a dirigé la section culturelle de l'armée makhnoviste.</span></li>
+<li><b><cite>La Révolution russe en Ukraine</cite></b>, Nestor Makhno.<span>Les mémoires de Makhno lui-même, écrits en exil à Paris.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Nestor_Makhno" rel="noopener">Nestor Makhno sur Wikipédia</a><span>Sa vie, de Houliaïpole au Père-Lachaise.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Makhnovchtchina" rel="noopener">La Makhnovtchina</a><span>Le mouvement et son territoire.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/search?query=Makhno" rel="noopener">Les textes de et sur Makhno</a><span>Sur la Bibliothèque anarchiste.</span></li>
+</ul></section>
+</div>
+
 === makhno-organisation | Makhnovtchina | Soviets libres, congrès et armée insurrectionnelle | Ukraine · 1917-1921 | Des villages qui décident en assemblée, des congrès régionaux souverains, une armée de volontaires qui élit ses commandants : l'organisation makhnoviste en schémas.
 <p>Les makhnovistes ne voulaient pas remplacer un gouvernement par un autre. Leur principe : <strong>les travailleuses et travailleurs s'organisent eux-mêmes</strong>, village par village, usine par usine, et se fédèrent librement. Ils parlaient de <strong>« soviets libres »</strong> : des conseils de travailleurs, sans parti qui les dirige d'en haut.</p>
 
@@ -147,6 +162,19 @@
 <li>Suite : <a href="makhno-critique-bolcheviks.html">la critique libertaire des bolcheviks</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Nestor Makhno, le cosaque libertaire</cite></b>, Alexandre Skirda, Éditions de Paris, 1999.<span>Les congrès, les communes et l'armée insurrectionnelle en détail.</span></li>
+<li><b><cite>Histoire du mouvement makhnoviste</cite></b>, Piotr Archinov.<span>Les résolutions des congrès et la vie dans la région libre.</span></li>
+<li><a href="../bibliotheque/anarchie-et-organisation.html">Anarchie et organisation</a><span>Notre fiche : le débat sur la Plateforme écrite par Makhno et Archinov en exil.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.anarchistlibraries.net/library/archinov-nestor-makhno-ida-mett-valesvsky-linsky-plate-forme-d-organisation-des-communistes-lib" rel="noopener">La Plateforme d'organisation (1926)</a><span>Ce que Makhno et ses camarades ont tiré de leur expérience (Bibliothèque anarchiste).</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Voline" rel="noopener">Voline</a><span>L'anarchiste chargé de la culture et de l'éducation dans le mouvement.</span></li>
+</ul></section>
+</div>
+
 === makhno-critique-bolcheviks | Makhnovtchina | La critique libertaire des bolcheviks | Ukraine · 1917-1921 | Soviets vidés par le parti, Tcheka, réquisitions, alliés trahis, Cronstadt écrasé : pourquoi les anarchistes ont combattu la « dictature du prolétariat ».
 <p>En 1917, anarchistes et bolcheviks se battent souvent côte à côte : contre le tsar, puis contre le gouvernement provisoire. Le mot d'ordre « <strong>Tout le pouvoir aux soviets</strong> » plaît aux libertaires. Très vite pourtant, ils voient le pouvoir passer des soviets au parti, puis du parti à sa direction. L'histoire de la Makhnovtchina est l'exemple le plus parlant de ce que les anarchistes reprochent aux bolcheviks.</p>
 
@@ -205,3 +233,17 @@
 <li>Les makhnovistes ont montré qu'une autre voie existait : la terre aux paysans, les congrès libres, la défense par les premiers concernés.</li>
 </ul>
 <p>Retour au début du dossier : <a href="makhno-histoire.html">Makhno et la Makhnovtchina</a>.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Commune de Cronstadt</cite></b>, Ida Mett, 1938.<span>Le récit classique de la révolte de 1921.</span></li>
+<li><b><cite>Le Mythe bolchevik</cite></b>, Alexander Berkman, 1925.<span>Le journal des deux années russes de Berkman, de l'enthousiasme à la rupture.</span></li>
+<li><a href="../bibliotheque/bolchevisme-et-anarchisme.html">Bolchevisme et anarchisme</a>, Malatesta, et <a href="../bibliotheque/le-communisme-n-existe-pas-en-urss.html">Le communisme n'existe pas en URSS</a>, Goldman<span>Nos fiches sur deux critiques libertaires majeures.</span></li>
+<li><b><cite>Les Bolcheviks et le contrôle ouvrier, 1917-1921</cite></b>, Maurice Brinton, 1970.<span>Comment les comités d'usine ont été dépossédés au profit de l'État.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/R%C3%A9volte_de_Kronstadt" rel="noopener">La révolte de Kronstadt</a><span>Le déroulé et le débat historique.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/library/nestor-makhno-l-idee-d-egalite-et-les-bolcheviks" rel="noopener">L'Idée d'égalité et les bolcheviks</a><span>Un texte de Makhno (Bibliothèque anarchiste).</span></li>
+</ul></section>
+</div>

@@ -1,168 +1,400 @@
 === idealisme-et-materialisme | Révolution & stratégie | « Idéalisme » et « matérialisme » | Errico Malatesta · 1924 | L'idée et les conditions matérielles doivent avancer ensemble : une liberté sans moyens reste théorique.
 <h2 id="contexte">Contexte</h2>
-<p>Article de janvier 1924 dans la revue <em>Pensiero e volontà</em>. Hier on expliquait tout par l'économie ; désormais tout le monde se dit idéaliste et méprise les besoins du corps. Malatesta s'adresse aux militantes et militants lassés des luttes économiques.</p>
+<p>En 1924, Mussolini est au pouvoir depuis deux ans. Malatesta, 70 ans, vit à Rome sous surveillance et publie une revue, <em>Pensiero e volontà</em> (« Pensée et volonté »), que la censure fasciste finira par interdire en 1926. Cet article paraît en janvier 1924.</p>
+<p>Le climat intellectuel a changé. Avant la guerre, on expliquait tout par l'économie, à la manière d'un marxisme simplifié. Désormais, le fascisme et bien d'autres se disent « idéalistes » et méprisent les « ventres » et les revendications matérielles. Certains militants, lassés des luttes pour les salaires, suivent la mode. Malatesta les met en garde.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'idée guide la volonté, mais elle ne naît et n'agit qu'avec des conditions matérielles minimales. Émancipations morale, politique et économique sont inséparables.</p>
+<p>L'idée guide la volonté, mais elle ne naît et n'agit qu'avec des conditions matérielles minimales. Émancipations morale, politique et économique sont inséparables : on ne libère pas les esprits de gens affamés, et on ne nourrit pas tout le monde sans idéal de liberté.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Rejet du vieux matérialisme qui réduisait l'histoire à l'économie.</li>
-<li>Dénonciation de l'« idéalisme » de façade des patrons, patriotes et militaires.</li>
-<li>Exigence de liberté, sans mépris des revendications économiques.</li>
-<li>La pauvreté entretient la dépendance.</li>
-<li>Les plus actifs ne viennent souvent pas des plus misérables.</li>
-<li>Arracher des réformes sans reconnaître l'ordre existant, et prêcher par l'exemple.</li>
+<li><strong>Contre le vieux matérialisme</strong> qui réduisait l'histoire à l'économie et faisait des humains les jouets de forces aveugles.</li>
+<li><strong>Contre le faux idéalisme</strong> des patrons, des patriotes et des militaires, qui parlent de sacrifice et d'honneur pour mieux faire travailler et mourir les autres.</li>
+<li><strong>Exiger la liberté</strong> sans mépriser les revendications économiques.</li>
+<li><strong>La pauvreté entretient la dépendance.</strong> Qui a faim n'est pas libre de penser ni d'agir.</li>
+<li><strong>Un constat d'expérience</strong> : les plus actifs ne viennent souvent pas des plus misérables, mais de celles et ceux qui ont un peu de sécurité et de temps.</li>
+<li><strong>Arracher des réformes</strong> sans reconnaître l'ordre existant, et prêcher par l'exemple.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte de circonstance</strong>, qui répond à un débat italien des années 1920. Il faut un peu de contexte pour en saisir toute la portée.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le débat revient sous d'autres formes : faut-il parler « fin du mois » ou « fin du monde », salaires ou valeurs, luttes sociales ou luttes culturelles ? Malatesta répond qu'on n'a pas à choisir. Une lutte pour les salaires sans idéal s'éteint dans le corporatisme ; un idéal sans prise sur la vie concrète reste une affaire de gens aisés.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Idéal et besoins matériels se complètent.</li><li>Des réformes, oui, mais comme marchepieds.</li><li>L'exemple personnel, meilleure propagande.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Articles politiques</cite></b>, Errico Malatesta, 10/18, 1979.<span>Beaucoup d'articles de <em>Pensiero e volontà</em> y sont traduits.</span></li>
+<li><a href="concevoir-la-revolution.html">Comment concevoir la révolution</a><span>Notre fiche : le Malatesta des dernières années.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Errico_Malatesta" rel="noopener">Errico Malatesta sur Wikipédia</a><span>Ses dernières années sous le fascisme.</span></li>
+</ul></section>
+</div>
+
 === anarchistes-electoralistes | État & pouvoir | Anarchistes électoralistes | Errico Malatesta · 1924 | Quand des anarchistes appellent à voter « pour l'amnistie », Malatesta rappelle où mène toujours ce chemin.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1924 dans <em>Pensiero e volontà</em>, au moment des législatives françaises : des militants se disant anarchistes appellent à voter pour le Cartel des gauches, au nom de l'amnistie promise aux prisonniers politiques.</p>
+<p>Au printemps 1924, la France prépare des élections législatives. Le Cartel des gauches, alliance des radicaux et des socialistes, promet une amnistie pour les prisonniers politiques et les condamnés de la guerre. Des militants qui se disent anarchistes appellent alors à voter pour lui, au nom de cette amnistie. Malatesta leur répond dans sa revue romaine <em>Pensiero e volontà</em>.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le vote ne transforme pas la société ; il reflète l'opinion. Les petits gains électoraux ne justifient pas d'abandonner la lutte, et ceux qui se convertissent au parlementarisme finissent presque toujours par servir le pouvoir.</p>
+<p>Le vote ne transforme pas la société ; il reflète l'opinion. Les petits gains électoraux ne justifient pas d'abandonner la propagande et la lutte, et celles et ceux qui se convertissent au parlementarisme finissent presque toujours par servir le pouvoir.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Chacun peut changer d'avis, mais doit l'annoncer franchement.</li>
-<li>Ces revirements glissent souvent vers la vanité et l'air du milieu.</li>
-<li>Le socialisme français a vu des dénonciateurs du suffrage devenir ministres.</li>
-<li>Les arguments pour le vote (libertés, conditions de travail, école laïque) existent mais ne suffisent pas.</li>
-<li>Poussé au bout, ce pragmatisme ferait soutenir le parti au pouvoir : la preuve de son absurdité.</li>
+<li><strong>La franchise.</strong> Chacun peut changer d'avis, mais doit l'annoncer clairement, et cesser de se dire anarchiste s'il ne l'est plus.</li>
+<li><strong>La pente.</strong> Ces revirements commencent de bonne foi, puis glissent vers la vanité et l'air du milieu politique.</li>
+<li><strong>Le précédent français.</strong> Le socialisme français a vu de farouches dénonciateurs du suffrage devenir députés, puis ministres, puis briseurs de grèves.</li>
+<li><strong>Des arguments réels</strong> pour le vote (défendre des libertés, améliorer les conditions de travail, protéger l'école laïque) existent, mais ne suffisent pas à justifier l'abandon de la lutte directe.</li>
+<li><strong>L'absurde.</strong> Poussé au bout, ce pragmatisme ferait soutenir le parti au pouvoir pour obtenir quelques faveurs : la preuve qu'il ne mène nulle part.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Le cas espagnol</strong> : en 1936, une partie des anarchistes espagnols ont laissé leurs membres voter pour le Front populaire, qui promettait de libérer 30 000 prisonniers politiques. La victoire a été suivie de la révolution… mais aussi de l'entrée de ministres anarchistes au gouvernement, que beaucoup ont regrettée.</li>
+<li><strong>L'urgence</strong> : face à un danger immédiat (fascisme, guerre), le débat sur le vote tactique ne se tranche pas par un principe seul.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>À chaque élection importante, la tentation du « vote utile » ou du « vote barrage » revient dans les milieux libertaires. Le texte de Malatesta n'interdit rien, mais il donne un critère : quoi qu'on fasse le jour du vote, ne jamais abandonner l'organisation et la lutte qui, seules, font respecter nos intérêts.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Le vote détourne de la propagande et de la lutte.</li><li>Bonne foi, logique, vanité : le chemin type de la conversion.</li><li>À lire avec <a href="voter-c-est-abdiquer.html">Voter c'est abdiquer</a>.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="electeur-ecoute.html">Électeur, écoute</a><span>Notre fiche : Sébastien Faure en 1919.</span></li>
+<li><a href="../experiences/espagne-1936-milices-debats.html">Notre dossier Espagne 1936 : les débats</a><span>Ministres anarchistes et militarisation, le grand déchirement.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Errico_Malatesta" rel="noopener">Errico Malatesta sur Wikipédia</a><span>Sa vie et ses positions.</span></li>
+</ul></section>
+</div>
+
 === sentiment-moral | Individu & morale | Les anarchistes et le sentiment moral | Errico Malatesta · 1904 | Refuser les règles imposées n'est pas renoncer à toute morale : il faut opposer une morale plus haute, celle de la solidarité.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1904 dans <em>Le Réveil</em> (Genève), traduit en 1906 dans <em>Les Temps nouveaux</em>. Le mot « anarchie » recouvre alors des doctrines si différentes que le public s'y perd.</p>
+<p>Malatesta publie ce texte en 1904 dans <em>Le Réveil</em>, journal anarchiste de Genève ; il est traduit en 1906 dans <em>Les Temps nouveaux</em>. À l'époque, le mot « anarchie » recouvre des doctrines si différentes que le public s'y perd : à côté des communistes et des syndicalistes, certains individualistes affirment que tout est permis, que la morale n'est qu'un préjugé bourgeois, et justifient le vol entre camarades ou le mépris des autres.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Un anarchiste ne peut pas rejeter la morale en bloc. Toute société a une morale ; il s'agit de remplacer la morale bourgeoise par celle de l'entraide. Et l'excuse « c'est le milieu » ne tient pas : sans révolte individuelle, le milieu ne change jamais.</p>
+<p>Un anarchiste ne peut pas rejeter la morale en bloc. Toute société a une morale ; il s'agit de remplacer la morale bourgeoise, fondée sur l'intérêt et l'obéissance, par celle de l'entraide et de la solidarité. Et l'excuse « c'est la faute du milieu » ne tient pas : sans révolte individuelle, le milieu ne change jamais.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Se distinguer par des idées claires plutôt que par une étiquette.</li>
-<li>Nier la morale « par formule » mène à n'avoir plus aucun repère.</li>
-<li>Morale individualiste bourgeoise contre morale de solidarité.</li>
-<li>Juger les actes, pas l'étiquette de qui les commet.</li>
-<li>L'impuissance face au milieu sert souvent d'alibi.</li>
-<li>L'écart entre idées et vie est inévitable ; s'y résigner, c'est s'embourgeoiser.</li>
+<li><strong>Des idées claires</strong> plutôt qu'une étiquette : se dire anarchiste ne suffit pas.</li>
+<li><strong>Nier la morale « par formule »</strong>, pour faire radical, mène à n'avoir plus aucun repère, et à reproduire en pire la loi du plus fort.</li>
+<li><strong>Deux morales</strong> : la morale individualiste bourgeoise (chacun pour soi) contre la morale de solidarité (le bien de chacun passe par celui de toutes et tous).</li>
+<li><strong>Juger les actes</strong>, pas l'étiquette de celles et ceux qui les commettent.</li>
+<li><strong>L'alibi du milieu.</strong> L'impuissance face au milieu sert souvent d'excuse pour ne rien changer à sa propre vie.</li>
+<li><strong>L'écart inévitable.</strong> Il y aura toujours un écart entre nos idées et notre vie ; s'y résigner, c'est s'embourgeoiser.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Le risque du moralisme</strong> : juger la vie des autres au nom de l'idéal peut devenir une nouvelle autorité. Malatesta parle surtout d'exigence envers soi-même.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La cohérence entre idées et pratiques est une question brûlante dans les milieux militants : comment on traite les gens, comment on gère l'argent, comment on réagit aux violences internes. Malatesta donne une boussole simple : ce qui compte, ce ne sont pas les grands mots, mais ce qu'on fait aux autres.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Anarchisme et morale ne s'excluent pas.</li><li>La cohérence est le vrai critère.</li><li>Voir aussi <a href="la-morale-anarchiste.html">La Morale anarchiste</a>.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="la-morale-anarchiste.html">La Morale anarchiste</a><span>Notre fiche : Kropotkine, qui fonde la morale sur la nature, là où Malatesta y voit un choix.</span></li>
+<li><a href="l-individualisme.html">L'Individualisme</a><span>Notre fiche : Libertad sur l'individualisme bien compris.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste" rel="noopener">L'anarchisme individualiste</a><span>Les courants que Malatesta critique ici.</span></li>
+</ul></section>
+</div>
+
 === bolchevisme-et-anarchisme | Révolution & stratégie | Bolchevisme et anarchisme | Errico Malatesta · 1923 | La « dictature du prolétariat » est la dictature d'un parti. Une révolution qui tue la liberté tue son propre but.
 <h2 id="contexte">Contexte</h2>
-<p>Préface de 1923 à l'édition espagnole du livre de Luigi Fabbri sur la révolution russe. Malatesta décrit le cycle des révolutions : élan populaire, puis réaction du nouveau pouvoir qui se consolide.</p>
+<p>En 1917, la révolution russe enthousiasme les révolutionnaires du monde entier, anarchistes compris. Mais très vite arrivent les nouvelles de la répression des anarchistes, de l'écrasement de Kronstadt et de l'Ukraine makhnoviste, de la police politique. Luigi Fabbri, ami de Malatesta, écrit un livre, <em>Dictature et révolution</em>, pour en tirer les leçons. Malatesta en rédige la préface pour l'édition espagnole de 1923.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La dictature, même « prolétarienne », est le pouvoir d'un parti sur toute la société. Elle est incompatible avec une révolution dont le but est la liberté et l'égalité. Les révolutionnaires européens ne doivent pas imiter les bolcheviks.</p>
+<p>La dictature, même « prolétarienne », est le pouvoir d'un parti sur toute la société, prolétariat compris. Elle est incompatible avec une révolution dont le but est la liberté et l'égalité. Les révolutionnaires d'Europe ne doivent pas imiter les bolcheviks.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Le conflit liberté-autorité traverse toute l'histoire.</li>
-<li>Les soviets, nés d'en bas, ont été vidés par le pouvoir central, sa police, son armée, sa bureaucratie.</li>
-<li>Dispersés, les anarchistes n'ont pas su l'empêcher.</li>
-<li>Défendre la révolution, c'est abolir les classes, pas instaurer une terreur d'État qui frappe surtout des innocents.</li>
-<li>La défense extérieure doit reposer sur des milices volontaires.</li>
-<li>Une révolution arrêtée à mi-chemin ne se sauve qu'en allant plus loin.</li>
+<li><strong>Un conflit permanent.</strong> L'opposition entre liberté et autorité traverse toute l'histoire des révolutions : un élan populaire, puis un nouveau pouvoir qui se consolide.</li>
+<li><strong>Les soviets confisqués.</strong> Les conseils ouvriers, nés d'en bas en 1917, ont été vidés de leur substance par le pouvoir central, sa police, son armée, sa bureaucratie.</li>
+<li><strong>Une autocritique.</strong> Dispersés et mal organisés, les anarchistes n'ont pas su l'empêcher.</li>
+<li><strong>Défendre la révolution</strong>, c'est abolir les classes et donner les moyens de vivre à tout le monde, pas instaurer une terreur d'État qui frappe surtout des innocents.</li>
+<li><strong>La défense extérieure</strong> doit reposer sur des milices volontaires, pas sur une armée permanente.</li>
+<li><strong>Aller plus loin.</strong> Une révolution arrêtée à mi-chemin ne se sauve qu'en approfondissant la liberté, pas en la restreignant.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>La défense armée</strong> : les partisans des bolcheviks répondent qu'une révolution entourée d'armées ennemies ne pouvait survivre sans centralisation. L'expérience de Makhno et de l'Espagne nourrit ce débat jusqu'à aujourd'hui.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Ce texte de 1923 est l'une des premières critiques libertaires du bolchevisme, bien avant que les crimes du stalinisme soient connus de tous. Il reste une leçon pour tout mouvement révolutionnaire : les moyens façonnent le résultat. On ne fabrique pas la liberté avec une police politique.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Dictature et révolution se contredisent.</li><li>Une des premières critiques libertaires du bolchevisme.</li><li>À lire avec <a href="le-communisme-n-existe-pas-en-urss.html">Emma Goldman</a>.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Révolution inconnue</cite></b>, Voline.<span>La révolution russe racontée par un anarchiste qui l'a vécue, de 1917 à l'Ukraine.</span></li>
+<li><a href="../experiences/makhno-critique-bolcheviks.html">Notre dossier : Makhno et la critique des bolcheviks</a><span>Comment le pouvoir bolchevik a écrasé les anarchistes.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.anarchistlibraries.net/library/luigi-fabbri-dictature-et-revolution-1" rel="noopener">Dictature et révolution, de Luigi Fabbri</a><span>Le livre que préface ce texte (Bibliothèque anarchiste).</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/R%C3%A9volte_de_Kronstadt" rel="noopener">La révolte de Kronstadt</a><span>Le tournant de 1921.</span></li>
+</ul></section>
+</div>
+
 === concevoir-la-revolution | Révolution & stratégie | Comment concevoir la révolution | Errico Malatesta · années 1920 | Pas de grand soir miraculeux : l'anarchie se construit pas à pas, par des conquêtes qui affaiblissent l'autorité dès aujourd'hui.
 <h2 id="contexte">Contexte</h2>
-<p>Texte de la fin de vie de Malatesta, sous le fascisme. Il vise deux dérives opposées : un dogmatisme coupé du réel, et un opportunisme qui oublie le but.</p>
+<p>Ce texte appartient aux dernières années de Malatesta, sous le fascisme. Il a vu l'occupation des usines en 1920 s'éteindre faute d'aller plus loin, puis le fascisme écraser le mouvement ouvrier. Il a vu la révolution russe accoucher d'une dictature. Il en tire une réflexion sur la façon de concevoir le changement, en visant deux dérives opposées : un dogmatisme coupé du réel, qui attend le grand soir, et un opportunisme qui oublie le but.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'anarchie avance avec la conscience, l'organisation et la solidarité. Chaque recul de l'autorité, chaque bien soustrait à la propriété privée en rapproche. La violence reste légitime tant que le pouvoir impose sa loi par la force.</p>
+<p>L'anarchie avance avec la conscience, l'organisation et la solidarité. Chaque recul de l'autorité, chaque bien soustrait à la propriété privée en rapproche. La violence reste légitime tant que le pouvoir impose sa loi par la force, mais elle ne construit rien par elle-même.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Pas de grand soir : le changement durable est graduel.</li>
-<li>Distinguer les vrais progrès des réformes qui démobilisent.</li>
-<li>Réduire les pouvoirs de l'État plutôt que changer ses dirigeants.</li>
-<li>Chaque gain arraché aux patrons est une victoire, pas une faveur.</li>
-<li>Garder les services existants tant qu'on ne sait pas faire mieux.</li>
-<li>Confier la vie sociale aux travailleuses et travailleurs organisés par branche.</li>
+<li><strong>Pas de grand soir</strong> qui réglerait tout d'un coup : le changement durable est graduel, même s'il passe par des moments de rupture.</li>
+<li><strong>Trier les réformes.</strong> Distinguer les vrais progrès, qui donnent plus de force aux gens, des réformes qui démobilisent et intègrent.</li>
+<li><strong>Réduire les pouvoirs de l'État</strong> plutôt que changer ses dirigeants.</li>
+<li><strong>Chaque gain arraché aux patrons</strong> est une victoire, pas une faveur à remercier.</li>
+<li><strong>Le pragmatisme</strong> : garder les services existants (transports, hôpitaux…) tant qu'on ne sait pas faire mieux, plutôt que tout casser.</li>
+<li><strong>Confier la vie sociale</strong> aux travailleuses et travailleurs organisés par branche d'activité.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Le gradualisme</strong> peut être lu comme un renoncement. Malatesta répond qu'il ne s'agit pas de réformer l'État, mais de construire à côté et contre lui.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>C'est la pensée qui inspire beaucoup de libertaires actuels : construire dès maintenant des contre-pouvoirs (syndicats de base, coopératives, réseaux d'entraide, lieux autogérés) qui grignotent la place de l'État et du marché. On parle parfois de « double pouvoir » ou de « préfiguration ».</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>L'anarchie se construit au présent.</li><li>Seules comptent les conquêtes qui donnent des moyens d'agir.</li><li>Prolonge <a href="anarchie-et-organisation.html">Anarchie et organisation</a>.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="evolution-revolution-ideal.html">L'Évolution, la révolution et l'idéal anarchique</a><span>Notre fiche : Reclus sur la même question.</span></li>
+<li><b><cite>Utopies réelles</cite></b>, Erik Olin Wright, La Découverte, 2017.<span>Un sociologue étudie les alternatives qui existent déjà et comment elles peuvent grandir.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Errico_Malatesta" rel="noopener">Errico Malatesta sur Wikipédia</a><span>Sa vie et sa pensée.</span></li>
+</ul></section>
+</div>
+
 === catechisme-revolutionnaire | État & pouvoir | Catéchisme révolutionnaire | Mikhaïl Bakounine · 1866 | Un programme : remplacer l'État centralisé par une fédération qui part d'en bas, des communes aux nations.
 <h2 id="contexte">Contexte</h2>
-<p>Rédigé en 1865-1866 en Italie, pour la société secrète de la Fraternité internationale. Plus programme d'action que traité. Bakounine y garde parfois le mot « État » pour désigner une unité fédérative, ambiguïté qu'il abandonnera ensuite.</p>
+<p>Bakounine rédige ce texte en 1865-1866 en Italie, où il vit alors, pour une société secrète qu'il a fondée, la Fraternité internationale. C'est un programme d'action plus qu'un traité. Bakounine n'est pas encore tout à fait anarchiste : il garde parfois le mot « État » pour désigner une unité fédérative, ambiguïté qu'il abandonnera dans les années suivantes.</p>
+<div class="note"><p><strong>À ne pas confondre</strong> avec le <em>Catéchisme du révolutionnaire</em> écrit en 1869 par Serguéi Netchaïev, un texte de conspirateur sans scrupules (« le révolutionnaire est un homme perdu d'avance »), longtemps attribué à tort à Bakounine, qui a rompu avec Netchaïev en le découvrant.</p></div>
+
 <h2 id="these">La thèse</h2>
-<p>La liberté ne survit pas sous une autorité centralisée, religieuse ou politique. L'ordre social doit se construire de bas en haut : commune autonome, province, nation, reliées par des pactes librement consentis.</p>
+<p>La liberté ne survit pas sous une autorité centralisée, religieuse ou politique. L'ordre social doit se construire de bas en haut : commune autonome, province, nation, reliées par des pactes librement consentis et révocables.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Ni Dieu ni autorité révélée : raison et conscience pour seuls guides.</li>
-<li>Séparation totale de l'Église et de la vie publique.</li>
-<li>Fédéralisme à trois niveaux, chacun autonome.</li>
-<li>Droits étendus : éducation par la société, libertés d'association et de parole, fin des peines cruelles.</li>
-<li>Abolition de l'héritage, travail associé.</li>
-<li>Fédération internationale des peuples, sans frontières ni armées permanentes.</li>
+<li><strong>Ni Dieu ni autorité révélée</strong> : la raison et la conscience pour seuls guides.</li>
+<li><strong>Séparation totale</strong> de l'Église et de la vie publique.</li>
+<li><strong>Un fédéralisme à trois niveaux</strong> (commune, province, nation), chacun autonome, chacun libre de quitter la fédération.</li>
+<li><strong>Des droits étendus</strong> : éducation assurée par la société, libertés d'association et de parole, fin des peines cruelles.</li>
+<li><strong>L'abolition de l'héritage</strong>, pour que chacune et chacun parte avec les mêmes chances, et le travail associé.</li>
+<li><strong>Une fédération internationale des peuples</strong>, sans frontières fermées ni armées permanentes.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte de transition</strong> : on y trouve encore des tribunaux, des parlements fédéraux, des impôts. Bakounine ira plus loin ensuite.</li>
+<li><strong>La société secrète</strong> : écrire un programme de liberté pour une organisation clandestine hiérarchisée est une contradiction que ses critiques n'ont pas manqué de relever.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'idée d'une fédération qui part d'en bas, avec droit de sortie, a inspiré le municipalisme libertaire et le confédéralisme démocratique du Rojava. L'abolition de l'héritage, elle, revient dans le débat public quand on parle des inégalités de patrimoine, qui se transmettent de génération en génération.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Le fédéralisme ascendant comme voie de la liberté.</li><li>L'abolition de l'héritage pour l'égalité de départ.</li><li>Une révolution forcément internationale.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Bakounine</cite></b>, Madeleine Grawitz, Plon, 1990.<span>Les années italiennes et l'affaire Netchaïev racontées en détail.</span></li>
+<li><a href="la-federation.html">La Fédération comme moyen d'union</a><span>Notre fiche : Kropotkine, cinquante ans plus tard.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine" rel="noopener">Mikhaïl Bakounine sur Wikipédia</a><span>Sa vie, ses sociétés secrètes.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Municipalisme_libertaire" rel="noopener">Le municipalisme libertaire</a><span>Le fédéralisme d'en bas aujourd'hui.</span></li>
+</ul></section>
+</div>
+
 === etats-guerre-permanente | État & pouvoir | Les États, c'est la guerre permanente ! | Mikhaïl Bakounine · 1870 | La logique même de l'État rend la paix impossible : les traités ne sont que des trêves entre rivaux.
 <h2 id="contexte">Contexte</h2>
-<p>Extrait de « Les Ours de Berne et l'Ours de Saint-Pétersbourg », mai 1870, quelques semaines avant la guerre franco-prussienne.</p>
+<p>Ce passage vient d'une brochure de Bakounine, <em>Les Ours de Berne et l'Ours de Saint-Pétersbourg</em>, écrite en mai 1870. La Suisse vient d'accepter d'expulser un révolutionnaire russe à la demande du tsar : Bakounine dénonce la complicité de la république suisse (dont l'emblème est l'ours de Berne) avec l'empire russe. Quelques semaines plus tard, en juillet 1870, la France déclare la guerre à la Prusse.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'État cherche d'abord à se conserver et à s'étendre, contre ses propres habitants comme contre les autres peuples. Ce n'est pas une question de dirigeants corrompus : c'est l'institution elle-même.</p>
+<p>L'État cherche d'abord à se conserver et à s'étendre, contre ses propres habitantes et habitants comme contre les autres peuples. Ce n'est pas une question de dirigeants corrompus : c'est la nature de l'institution. Tant qu'il y aura des États, il y aura des guerres.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>La loi suprême de l'État est sa survie.</li>
-<li>Pour s'étendre, il met la puissance au-dessus de la justice.</li>
-<li>C'est inscrit dans l'institution.</li>
-<li>L'idée d'humanité progresse et menace les États.</li>
-<li>D'où l'hypocrisie, surtout dans les déclarations de guerre.</li>
-<li>Les traités ne sont que des équilibres de force provisoires.</li>
+<li><strong>La loi suprême de l'État</strong>, c'est sa survie : la « raison d'État » passe avant tout.</li>
+<li><strong>Puissance contre justice.</strong> Pour s'étendre, l'État met la puissance au-dessus de la justice et de la morale humaine.</li>
+<li><strong>Ce n'est pas une affaire de personnes</strong> : un bon chef d'État doit agir ainsi, sinon son État disparaît.</li>
+<li><strong>L'idée d'humanité progresse</strong> et menace les États, qui divisent l'humanité en blocs rivaux.</li>
+<li><strong>D'où l'hypocrisie</strong>, surtout dans les déclarations de guerre, toujours présentées comme défensives et morales.</li>
+<li><strong>Les traités</strong> ne sont que des équilibres de force provisoires, rompus dès que le rapport change.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Toutes les guerres se valent-elles ?</strong> Bakounine lui-même soutiendra la défense de la France contre la Prusse en 1870, en appelant à une guerre révolutionnaire du peuple, pas de l'État. La nuance est importante.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Guerres en Ukraine, au Proche-Orient, au Soudan, course aux armements : le diagnostic de Bakounine n'a pas pris une ride. Les théoriciens des relations internationales dits « réalistes » disent à peu près la même chose que lui, mais pour l'accepter. Bakounine en tire la conclusion inverse : c'est le système des États qu'il faut dépasser.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>La puissance de l'État avant la liberté et la justice.</li><li>La diplomatie masque des rapports de force.</li><li>Tant qu'il y aura des États, la paix restera illusoire.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="la-guerre-kropotkine.html">La Guerre</a><span>Notre fiche : Kropotkine sur les causes économiques des guerres.</span></li>
+<li><a href="betail-patriotique.html">Le Bétail patriotique</a><span>Notre fiche : Libertad contre le patriotisme.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine" rel="noopener">Mikhaïl Bakounine sur Wikipédia</a><span>La guerre de 1870 et l'insurrection de Lyon.</span></li>
+</ul></section>
+</div>
+
 === eglise-et-etat | État & pouvoir | La Théorie identique de l'Église et de l'État | Mikhaïl Bakounine · 1869 | L'État est une Église laïcisée : il exige le sacrifice de l'individu au nom d'une abstraction qui masque une domination bien réelle.
 <h2 id="contexte">Contexte</h2>
-<p>Lettres parues en 1869 dans <em>Le Progrès</em>, adressées aux internationaux du Locle et de La Chaux-de-Fonds. Bakounine y suit la bourgeoisie, révolutionnaire au XVIIIe siècle, devenue conservatrice.</p>
+<p>En 1869, Bakounine écrit une série de lettres « aux compagnons de l'Association internationale des travailleurs du Locle et de La Chaux-de-Fonds », deux villes horlogères du Jura suisse. Elles paraissent dans <em>Le Progrès</em>, journal du Locle. Il veut donner aux ouvrières et ouvriers de l'Internationale une compréhension historique de la bourgeoisie, de la religion et de l'État.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Église et État reposent sur la même logique : sacrifier l'individu à une abstraction supérieure. Ce sacrifice cache une domination née de la conquête, que la religion puis le droit ont rendue légitime.</p>
+<p>L'Église et l'État reposent sur la même logique : sacrifier l'individu à une abstraction supérieure (Dieu pour l'une, la Nation ou l'intérêt général pour l'autre). Ce sacrifice cache une domination bien réelle, née de la conquête, que la religion puis le droit ont rendue légitime.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>La bourgeoisie, révolutionnaire tant qu'elle était dominée, devient conservatrice au pouvoir.</li>
-<li>La franc-maçonnerie a été l'organisation de cette bourgeoisie montante, puis a décliné.</li>
-<li>L'idéalisme méprise la matière tout en exploitant le monde réel.</li>
-<li>L'histoire est une suite de dominations, de l'esclavage au salariat.</li>
-<li>La religion a transformé la force en droit.</li>
-<li>L'État reprend le schéma : soumettre tout intérêt local au « tout ».</li>
+<li><strong>La bourgeoisie</strong>, révolutionnaire tant qu'elle était dominée par la noblesse, devient conservatrice une fois au pouvoir.</li>
+<li><strong>La franc-maçonnerie</strong> a été l'organisation de cette bourgeoisie montante au XVIIIe siècle, puis s'est endormie avec elle.</li>
+<li><strong>L'idéalisme</strong> méprise la matière tout en exploitant le monde réel.</li>
+<li><strong>L'histoire</strong> est une suite de dominations : de l'esclavage au servage, du servage au salariat.</li>
+<li><strong>La religion a transformé la force en droit</strong> : le conquérant devient roi « par la grâce de Dieu ».</li>
+<li><strong>L'État reprend le schéma</strong> : il soumet tout intérêt local et personnel au « tout » abstrait qu'il prétend incarner.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte long et touffu</strong>, plein de digressions philosophiques. Il est plus facile d'aborder Bakounine par <a href="trois-conferences-saint-imier.html">les Trois conférences</a>.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'idée que l'État fonctionne comme une religion, avec ses rites (hymnes, drapeaux, commémorations), ses textes sacrés et ses sacrifices exigés « pour la Nation », reste un outil précieux pour comprendre les nationalismes. Des sociologues parlent de « religion civile ».</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Même logique de sacrifice et de soumission.</li><li>Le droit sert souvent à justifier la force.</li><li>À lire avec <a href="dieu-et-l-etat.html">Dieu et l'État</a>.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="dieu-et-l-etat.html">Dieu et l'État</a><span>Notre fiche : la version la plus célèbre de cette idée.</span></li>
+<li><b><cite>Ni Dieu ni maître. Anthologie de l'anarchisme</cite></b>, Daniel Guérin, La Découverte.<span>Des extraits choisis de Bakounine.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Premi%C3%A8re_Internationale" rel="noopener">La Première Internationale</a><span>Le cadre de ces lettres.</span></li>
+</ul></section>
+</div>
+
 === qui-suis-je | État & pouvoir | Qui suis-je ? | Mikhaïl Bakounine · vers 1870 | Un autoportrait politique : partisan de la liberté réelle, de l'égalité, et ennemi de l'État même « socialiste ».
 <h2 id="contexte">Contexte</h2>
-<p>Court texte où Bakounine clarifie sa position face aux libéraux et aux socialistes autoritaires, au moment de la rupture avec Marx dans l'Internationale.</p>
+<p>Ce court texte reprend le début d'un écrit de Bakounine rédigé juste après l'écrasement de la Commune de Paris, en 1871, <em>La Commune de Paris et la notion de l'État</em>. Au même moment, la rupture avec Marx dans l'Internationale devient définitive. Bakounine y clarifie sa position face aux libéraux d'un côté, et aux socialistes autoritaires de l'autre.</p>
+
 <h2 id="these">La thèse</h2>
 <p>L'égalité sociale doit naître d'un travail organisé librement par des associations fédérées. Conquérir l'État pour faire le socialisme, c'est reconduire la domination : il faut le détruire.</p>
+<blockquote><p>« Je suis un amant fanatique de la liberté, la considérant comme l'unique milieu au sein duquel puissent se développer et grandir l'intelligence, la dignité et le bonheur des hommes. »</p></blockquote>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Un chercheur de vérité, ennemi des mensonges religieux, politiques et économiques.</li>
-<li>La liberté réelle, ni celle que l'État octroie, ni l'individualisme bourgeois.</li>
-<li>Ses seules limites : les lois de notre nature. La liberté des autres l'agrandit au lieu de la restreindre.</li>
-<li>Pas de justice sans égalité économique et sociale.</li>
-<li>Communistes autoritaires contre socialistes révolutionnaires.</li>
-<li>Aucun plan imposé par une élite : association libre de bas en haut.</li>
+<li><strong>Un chercheur de vérité</strong>, ennemi des mensonges religieux, politiques et économiques.</li>
+<li><strong>La liberté réelle</strong> : ni celle que l'État octroie et surveille, ni l'individualisme bourgeois qui fait de la liberté des autres une limite à la sienne.</li>
+<li><strong>Ses seules limites</strong> sont les lois de notre nature. La liberté des autres agrandit la mienne au lieu de la restreindre : je ne suis vraiment libre qu'entouré de personnes libres.</li>
+<li><strong>Pas de justice sans égalité</strong> économique et sociale.</li>
+<li><strong>Deux socialismes</strong> : les communistes autoritaires, qui veulent organiser la société par l'État, contre les socialistes révolutionnaires, qui veulent qu'elle s'organise elle-même.</li>
+<li><strong>Aucun plan imposé par une élite</strong> : l'association libre, de bas en haut.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une présentation à charge</strong> de Marx et de ses partisans, qui force parfois le trait. Mais l'histoire du XXe siècle a donné un poids terrible à ses mises en garde.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La définition de la liberté comme quelque chose qui grandit avec celle des autres, au lieu de s'arrêter là où commence celle d'autrui, est l'une des idées les plus belles et les plus utiles de l'anarchisme. Elle répond directement à la conception libérale qui fait de chacun un concurrent.</p>
+
 <h2 id="retenir">À retenir</h2>
-<ul><li>Liberté et égalité indissociables.</li><li>La fédération à la place de toute autorité centrale.</li><li>Éclaire la rupture anarchistes-marxistes.</li></ul>
+<ul><li>Liberté et égalité indissociables.</li><li>La fédération à la place de toute autorité centrale.</li><li>Éclaire la rupture entre anarchistes et marxistes.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="congres-de-saint-imier.html">Les résolutions du Congrès de Saint-Imier</a><span>Notre fiche : la rupture avec Marx devenue organisation.</span></li>
+<li><a href="commune-de-paris-kropotkine.html">La Commune de Paris</a><span>Notre fiche : Kropotkine sur la Commune, dix ans plus tard.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Premi%C3%A8re_Internationale" rel="noopener">La Première Internationale</a><span>Le conflit entre Marx et Bakounine.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine" rel="noopener">Mikhaïl Bakounine sur Wikipédia</a><span>Sa vie et son œuvre.</span></li>
+</ul></section>
+</div>
 
 === congres-de-saint-imier | Histoire & luttes | Résolutions du Congrès de Saint-Imier | Congrès de l'Internationale anti-autoritaire · 1872 | L'acte de naissance du mouvement anarchiste organisé : autonomie des fédérations, pacte de solidarité, destruction de tout pouvoir politique.
 <h2 id="contexte">Contexte</h2>
-<p>Septembre 1872. Après l'exclusion de Bakounine et James Guillaume au congrès de La Haye, quinze délégués d'Italie, d'Espagne, de France, du Jura et d'Amérique se réunissent à Saint-Imier, dans le Jura suisse.</p>
+<p>Depuis 1864, l'Association internationale des travailleurs (la « Première Internationale ») réunit des ouvrières et ouvriers de toute l'Europe. Deux conceptions s'y opposent : celle de Marx et du Conseil général de Londres, qui veulent des partis ouvriers luttant pour conquérir le pouvoir politique ; celle des fédérations du Jura, d'Espagne et d'Italie, autour de Bakounine, qui refusent toute conquête du pouvoir.</p>
+<p>Au congrès de La Haye, début septembre 1872, la majorité marxiste exclut Bakounine et James Guillaume. Quelques jours plus tard, les 15 et 16 septembre, une quinzaine de délégués d'Italie, d'Espagne, de France, du Jura et d'Amérique se réunissent à Saint-Imier, dans le Jura suisse, et refondent une Internationale sans centre.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'autonomie des fédérations ouvrières est la condition de l'émancipation. Les congrès ne font pas la loi, le Conseil général est rejeté, et les fédérations se lient par un pacte d'entraide.</p>
-<h2 id="idees">Les quatre résolutions</h2>
+<p>L'autonomie des fédérations ouvrières est la condition de l'émancipation. Les congrès ne font pas la loi, le Conseil général est rejeté, et les fédérations se lient par un pacte d'entraide. Le premier devoir du prolétariat est de détruire tout pouvoir politique.</p>
+
+<h2 id="idees">Les résolutions</h2>
 <ol>
-<li>Les congrès servent à confronter les aspirations, pas à légiférer.</li>
-<li>Rejet des décisions de La Haye et de la dérive autoritaire du Conseil général.</li>
-<li>Pacte : une fédération attaquée dans sa liberté reçoit le soutien de toutes les autres.</li>
-<li>Pas de ligne politique unique imposée au prolétariat.</li>
-<li>Le premier devoir est de détruire tout pouvoir politique, même « provisoire » et « révolutionnaire ».</li>
-<li>Résistance par la grève et l'action économique, vers une libre fédération des producteurs.</li>
+<li><strong>Les congrès</strong> servent à confronter les aspirations, pas à légiférer pour toutes les sections.</li>
+<li><strong>Rejet des décisions de La Haye</strong> et de la dérive autoritaire du Conseil général.</li>
+<li><strong>Un pacte d'amitié, de solidarité et de défense mutuelle</strong> : une fédération attaquée dans sa liberté reçoit le soutien de toutes les autres.</li>
+<li><strong>Pas de ligne politique unique</strong> imposée au prolétariat de tous les pays.</li>
+<li><strong>Détruire tout pouvoir politique</strong>, même « provisoire » et « révolutionnaire » : un tel pouvoir ne serait qu'une tromperie de plus.</li>
+<li><strong>La résistance</strong> par la grève et l'organisation économique, vers une libre fédération des producteurs.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une Internationale qui s'éteint vite</strong> : l'Internationale anti-autoritaire tient ses derniers congrès à la fin des années 1870, minée par la répression et les divergences entre syndicalistes et partisans de l'action insurrectionnelle.</li>
+<li><strong>Le mot « anarchiste »</strong> n'apparaît pas encore dans ces résolutions : on parle de « socialistes révolutionnaires » ou de « fédéralistes ».</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Saint-Imier est devenu un lieu de mémoire : la ville accueille l'Espace Noir, une coopérative libertaire (librairie, café, salle de spectacle), et deux grandes rencontres internationales anarchistes s'y sont tenues, en 2012 et en 2023, pour les 140 et 150 ans du congrès. Le principe de fédérations autonomes liées par un pacte de solidarité reste celui de nombreuses organisations libertaires dans le monde.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Le texte fondateur de l'anarchisme comme mouvement.</li><li>Une solidarité sans centre de commandement.</li><li>Voir l'Espace Noir de Saint-Imier sur notre <a href="../carte.html">carte</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="trois-conferences-saint-imier.html">Trois conférences aux ouvriers du Val de Saint-Imier</a><span>Notre fiche : Bakounine devant les mêmes horlogers, un an plus tôt.</span></li>
+<li><b><cite>Une toute petite histoire de l'anarchisme</cite></b>, Marianne Enckell.<span>Par l'ancienne responsable du CIRA, en quelques pages.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Congr%C3%A8s_de_Saint-Imier" rel="noopener">Le congrès de Saint-Imier sur Wikipédia</a><span>Délégués, résolutions, suites.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Premi%C3%A8re_Internationale" rel="noopener">La Première Internationale</a><span>L'histoire de la scission.</span></li>
+<li><a href="https://www.cira.ch" rel="noopener">CIRA de Lausanne</a><span>Les archives de l'anarchisme, tout près du Jura.</span></li>
+</ul></section>
+</div>

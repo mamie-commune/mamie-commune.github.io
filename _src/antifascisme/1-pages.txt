@@ -76,6 +76,20 @@
 <li>Suite : <a href="extreme-droite-implantation.html">la carte des groupes locaux</a> et <a href="agir-antifasciste.html">comment agir</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les Droites extrêmes en Europe</cite></b>, Jean-Yves Camus et Nicolas Lebourg, Seuil, 2015.<span>Le panorama de référence, par deux spécialistes reconnus.</span></li>
+<li><b><cite>La Possibilité du fascisme</cite></b>, Ugo Palheta, La Découverte, 2018.<span>Pourquoi un fascisme est redevenu possible en France.</span></li>
+<li><a href="../bibliotheque/dix-questions-antifascisme.html">Dix questions sur l'antifascisme</a><span>Notre fiche, et le livre complet de La Horde à lire en ligne.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://lahorde.info" rel="noopener">La Horde</a><span>Le schéma original, mis à jour, et l'actualité de l'extrême droite.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Extr%C3%AAme_droite_en_France" rel="noopener">L'extrême droite en France sur Wikipédia</a><span>Son histoire, de l'Action française à aujourd'hui.</span></li>
+<li><a href="https://www.streetpress.com" rel="noopener">StreetPress</a><span>Un média qui enquête régulièrement sur les groupes d'extrême droite.</span></li>
+</ul></section>
+</div>
+
 === extreme-droite-implantation | Connaître l'adversaire | Combattre l'extrême droite partout où elle s'implante | La Horde · 2e édition, septembre 2023 | La carte de La Horde des groupes locaux d'extrême droite, mairies, lieux, librairies et groupes de hooligans, ville par ville.
 <p>Le nationalisme de droite en France a deux particularités, explique La Horde : son <strong>instabilité</strong> (beaucoup de groupes disparaissent en moins d'un an) et le <strong>recul des réseaux nationaux</strong> au profit de structures strictement locales. D'où cette carte, réalisée avec les collectifs antifascistes de chaque région, en complément du <a href="extreme-droite-familles.html">schéma de l'extrême droite</a>. Elle est reproduite ici avec l'accord de La Horde.</p>
 
@@ -117,6 +131,19 @@
 <li>Faire attention près des lieux signalés, et toujours y aller à plusieurs.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Antifascisme. Son passé, son présent et son avenir</cite></b>, Mark Bray, Lux, 2018.<span>Un siècle d'antifascisme, et comment les groupes locaux s'y prennent.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://lahorde.info" rel="noopener">La Horde</a><span>La carte originale et ses mises à jour.</span></li>
+<li><a href="https://reflexes.samizdat.net" rel="noopener">REFLEXes</a><span>Les archives d'une revue antifasciste d'enquête, très documentée.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Cl%C3%A9ment_M%C3%A9ric" rel="noopener">Clément Méric</a><span>Le jeune antifasciste tué par des militants d'extrême droite à Paris en 2013.</span></li>
+<li><a href="../carte.html">Notre carte des collectifs</a><span>Les groupes antifascistes près de chez toi.</span></li>
+</ul></section>
+</div>
+
 === agir-antifasciste | Agir | Comment agir contre l'extrême droite | Antifascisme au quotidien | Alerter, occuper le terrain, former, se protéger : les pratiques de l'antifascisme, et comment commencer près de chez soi.
 <p>D'après les pratiques décrites dans <a href="../livres/dix-questions-antifascisme.html">Dix questions sur l'antifascisme</a> (La Horde, 2023), et l'expérience des collectifs locaux.</p>
 
@@ -153,3 +180,20 @@
 <li>Lire <a href="../livres/dix-questions-antifascisme.html">Dix questions sur l'antifascisme</a>, en entier et gratuitement.</li>
 <li>Connaître <a href="extreme-droite-familles.html">les familles de l'extrême droite</a>.</li>
 </ol>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="../bibliotheque/dix-questions-antifascisme.html">Dix questions sur l'antifascisme</a><span>Le livre de La Horde, dont cette page reprend la question « Comment être antifasciste ? ».</span></li>
+<li><b><cite>L'Antifascisme. Son passé, son présent et son avenir</cite></b>, Mark Bray, Lux, 2018.<span>Avec des entretiens de militantes et militants du monde entier.</span></li>
+</ul></section>
+<section><h3>Se protéger</h3><ul>
+<li><a href="../guides/signal.html">Notre guide Signal</a><span>Communiquer sans être surveillé.</span></li>
+<li><a href="../manif/legal-team.html">Tes droits en manif et en garde à vue</a><span>Ce qu'il faut savoir face à la police.</span></li>
+<li><a href="https://guide.boum.org" rel="noopener">Guide d'autodéfense numérique</a><span>Un guide complet et libre pour protéger ses données.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://lahorde.info" rel="noopener">La Horde</a><span>Agenda, actualité et ressources antifascistes.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Antifascisme" rel="noopener">L'antifascisme sur Wikipédia</a><span>L'histoire du mouvement depuis les années 1920.</span></li>
+</ul></section>
+</div>

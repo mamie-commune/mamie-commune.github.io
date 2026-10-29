@@ -1,9 +1,9 @@
 === dix-questions-antifascisme | Antifascisme | Dix questions sur l'antifascisme | La Horde · 2023 | Qu'est-ce que l'extrême droite, d'où vient l'antifascisme, comment agir, faut-il parler de violence : le livre collectif de La Horde répond en dix questions.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 2023 aux éditions Libertalia, dans la collection « Dix questions », ce livre est le fruit d'une écriture collective du site antifasciste <strong>La Horde</strong>, qui documente l'extrême droite française depuis des années. Il est téléchargeable gratuitement sur le site de l'éditeur, en PDF et en ePub.</p>
+<p>Paru en 2023 aux éditions Libertalia, dans la collection « Dix questions », ce livre est le fruit d'une écriture collective du site antifasciste <strong>La Horde</strong>, qui documente l'extrême droite française depuis des années (cartes, schémas, fiches sur les groupes). Il est téléchargeable gratuitement sur le site de l'éditeur, en PDF et en ePub. Il arrive à un moment où l'extrême droite progresse dans les urnes et dans la rue, et où des militantes et militants antifascistes sont régulièrement poursuivis, voire visés par des dissolutions.</p>
 
 <h2 id="these">Le propos</h2>
-<p>L'antifascisme n'est pas qu'une indignation morale : c'est une lutte spécifique, solidaire et égalitaire, liée aux autres combats contre les dominations. Le livre veut la rendre compréhensible à toutes et tous, en partant de questions simples.</p>
+<p>L'antifascisme n'est pas qu'une indignation morale : c'est une lutte spécifique, solidaire et égalitaire, liée aux autres combats contre les dominations. Le livre veut la rendre compréhensible à toutes et à tous, en partant de questions simples.</p>
 
 <h2 id="questions">Les dix questions</h2>
 <ol>
@@ -19,9 +19,35 @@
 <li><strong>Qui veut la peau de l'antifascisme ?</strong> Les accusations (« nouveaux fascistes », « islamo-gauchistes »), la liberté d'expression, l'extrême droite qui se dit « résistante ».</li>
 </ol>
 
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un livre militant</strong>, écrit depuis l'intérieur du mouvement : il assume ses choix, notamment sur l'autodéfense.</li>
+<li><strong>Un format court</strong> : chaque question ouvre des pistes plus qu'elle ne les épuise. Les ressources ci-dessous permettent d'aller plus loin.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le livre donne des outils immédiatement utiles : reconnaître les groupes et les symboles d'extrême droite, savoir comment réagir à une agression, organiser une veille dans sa ville, se protéger. Il se lit vite et se prête bien à un cercle de lecture ou à une formation collective.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Un livre court et accessible, pour se former ou former les autres.</li>
 <li>Le livre complet se lit sur Mamie Commune, dans le <a href="../livres/dix-questions-antifascisme.html">lecteur PDF</a>.</li>
 <li>À prolonger avec la rubrique <a href="../antifascisme/index.html">Antifascisme</a> et la <a href="../carte.html">carte des collectifs</a>.</li>
 </ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Antifascisme. Son passé, son présent et son avenir</cite></b>, Mark Bray, Lux, 2018.<span>Un historien américain retrace un siècle d'antifascisme, avec des entretiens de militantes et militants.</span></li>
+<li><b><cite>La Possibilité du fascisme</cite></b>, Ugo Palheta, La Découverte, 2018.<span>Comment un fascisme peut advenir en France aujourd'hui.</span></li>
+<li><b><cite>Les Droites extrêmes en Europe</cite></b>, Jean-Yves Camus et Nicolas Lebourg, Seuil, 2015.<span>Le panorama de référence, par deux spécialistes.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><a href="../videos.html">ANTIFA, chasseurs de skins</a><span>Le documentaire sur les antifascistes parisiens des années 1980, sur notre page Vidéos.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://lahorde.info" rel="noopener">La Horde</a><span>Le site du collectif : actualité, cartographie et schéma de l'extrême droite.</span></li>
+<li><a href="https://reflexes.samizdat.net" rel="noopener">REFLEXes</a><span>Les archives d'une revue antifasciste de recherche et d'enquête.</span></li>
+<li><a href="../antifascisme/extreme-droite-familles.html">Notre fiche : les familles de l'extrême droite</a><span>Pour s'y retrouver.</span></li>
+</ul></section>
+</div>

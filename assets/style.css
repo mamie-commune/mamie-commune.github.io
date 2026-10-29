@@ -327,6 +327,19 @@ h3 { font-size: 21px; line-height: 1.2; }
 .livre blockquote { margin: 1.2em 0; padding: 6px 0 6px 18px; border-left: 4px solid var(--ink); }
 .livre h4, .livre h5 { font-size: 18px; margin-top: 1.4em; }
 .fnref a { color: var(--red-hi); text-decoration: none; font: 700 .7em var(--body); padding: 0 2px; }
+/* Citation dans une fiche : bande noire, texte à la machine à écrire */
+.prose blockquote { margin: 1.4em 0; padding: 14px 18px; background: var(--ink); color: var(--paper-2); border-left: 8px solid var(--red-hi); font-family: var(--mono); font-size: 17px; line-height: 1.55; }
+.prose blockquote p { margin: 0; }
+/* Sources et pour aller plus loin : une carte par type de ressource (texte original, livres, films, sur le web) */
+.ressources { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: 18px; margin-block: 1.2em 0; }
+.ressources section { background: var(--paper-2); border: 2px solid var(--ink); box-shadow: 4px 4px 0 var(--ink); padding: 0 16px 12px; }
+.prose .ressources h3 { display: inline-block; margin: -2px 0 10px -18px; padding: 5px 12px; background: var(--ink); color: var(--paper-2); font-size: 15px; letter-spacing: .02em; }
+.prose .ressources h3::before { display: none; }
+.ressources ul { list-style: none; padding: 0; margin: 0; }
+.ressources li { font-size: 15px; line-height: 1.5; padding: 8px 0; border-top: 1px dashed rgba(23,20,20,.35); }
+.ressources li:first-child { border-top: 0; padding-top: 0; }
+.ressources li a { font-weight: 700; }
+.ressources li span { display: block; color: var(--muted); font-size: 14px; }
 .notes { margin-top: 3em; font-size: 15px; }
 .notes ol { padding-left: 1.6em; }
 .fnback { text-decoration: none; }

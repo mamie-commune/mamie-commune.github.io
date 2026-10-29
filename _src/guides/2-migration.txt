@@ -39,6 +39,20 @@
 <li><a href="installer-linux-mint.html">Installer Linux Mint</a></li>
 </ul>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.april.org" rel="noopener">April</a><span>L'association française de promotion et de défense du logiciel libre.</span></li>
+<li><a href="https://www.gnu.org/philosophy/free-sw.fr.html" rel="noopener">Qu'est-ce que le logiciel libre ?</a><span>La définition des quatre libertés, par la Free Software Foundation.</span></li>
+<li><a href="https://framasoft.org" rel="noopener">Framasoft</a><span>L'association qui propose des services libres et éthiques à toutes et à tous.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>L'annuaire des logiciels libres, en français.</span></li>
+<li><a href="https://www.halteobsolescence.org" rel="noopener">HOP</a><span>Halte à l'obsolescence programmée : faire durer ses appareils.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === linux-pour-debutants | Migration | Linux est adapté aux débutants | Données rangées au même endroit, pas de distraction, une logithèque, un système qui dure : pourquoi Linux est simple.
 <p>GNU/Linux a longtemps été réservé aux spécialistes de l'informatique. Ce n'est plus le cas : c'est aujourd'hui l'un des systèmes les plus simples. Pour commencer, on conseille <strong>Linux Mint Cinnamon</strong>, dont l'interface ressemble à Windows en plus épuré.</p>
 
@@ -79,6 +93,18 @@
 </ul>
 <p>Linux progresse : il équiperait entre 4 et 6 % des ordinateurs en 2026.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>La distribution que nous conseillons pour débuter.</span></li>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>Un forum francophone bienveillant pour les débutantes et débutants.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>Trouver un logiciel libre par usage.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === deja-linux | Migration | Tu utilises déjà Linux sans le savoir | Box, téléphones, serveurs : Linux est partout. Pourquoi ça ne suffit pas, et pourquoi il reste minoritaire sur les PC.
 <h2 id="quoi">Linux, c'est quoi ?</h2>
 <p>Linux est le <strong>noyau</strong>, le cœur d'un système d'exploitation, c'est-à-dire l'ensemble des logiciels qui font tourner un appareil. Contrairement aux systèmes de Microsoft, Google ou Apple, il est libre. Les pros de l'informatique le préfèrent : plus sûr, plus stable, plus performant.</p>
@@ -108,6 +134,15 @@
 <li>Des ordinateurs neufs livrés avec Linux : voir <a href="acheter-un-ordinateur.html">Acheter un ordinateur avec Linux</a>.</li>
 <li>Des téléphones sans Google, avec /e/OS : voir <a href="android.html">Libérer un Android</a>.</li>
 </ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.april.org" rel="noopener">April</a><span>Pour comprendre les enjeux du logiciel libre.</span></li>
+<li><a href="https://www.gnu.org/philosophy/free-sw.fr.html" rel="noopener">Qu'est-ce que le logiciel libre ?</a><span>La définition de référence.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === pourquoi-changer | Migration | Pourquoi changer ses habitudes ? | La collecte de données, ce qu'en font les entreprises, et comment avancer étape par étape.
 <h2 id="effort">Un effort qui freine</h2>
@@ -143,6 +178,19 @@
 
 <h2 id="etapes">Avancer par étapes</h2>
 <p>Pas besoin de tout changer d'un coup. Commence par <a href="stop-gafam.html">Éviter la pub, le traçage et les GAFAM</a>, et trouve de l'entraide près de chez toi sur la <a href="../carte.html">carte</a>.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.cnil.fr" rel="noopener">CNIL</a><span>L'autorité française de protection des données : tes droits et des fiches pratiques.</span></li>
+<li><a href="https://www.laquadrature.net" rel="noopener">La Quadrature du Net</a><span>L'association qui défend les libertés numériques et lutte contre la surveillance.</span></li>
+<li><a href="https://degooglisons-internet.org" rel="noopener">Dégooglisons Internet</a><span>La campagne de Framasoft pour des alternatives libres.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Le guide de l'Electronic Frontier Foundation, en français.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === liberer-windows | Migration | Libérer (un peu) un ordinateur Windows | Sauvegarder, réinitialiser, refuser la collecte, désinstaller les logiciels inutiles et installer des logiciels libres.
 <div class="note"><p>Windows finit toujours par se dégrader. Ce guide limite les dégâts en attendant, mais la vraie solution reste <a href="installer-linux-mint.html">d'installer Linux</a>.</p></div>
@@ -199,6 +247,20 @@
 </tbody></table></div>
 <p>Les versions « S » de Windows n'acceptent que le Microsoft Store : il faut d'abord les débrider.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.mozilla.org/fr/firefox/" rel="noopener">Firefox</a><span>Remplacer Edge par un navigateur libre.</span></li>
+<li><a href="https://ublockorigin.com" rel="noopener">uBlock Origin</a><span>Bloquer les publicités et les traqueurs.</span></li>
+<li><a href="https://www.libreoffice.org" rel="noopener">LibreOffice</a><span>Remplacer Microsoft Office.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>Des logiciels libres pour Windows aussi.</span></li>
+<li><a href="https://www.cnil.fr" rel="noopener">CNIL</a><span>Tes droits face à la collecte de données.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === acheter-un-ordinateur | Migration | Acheter un ordinateur avec Linux | Où acheter un PC livré avec Linux, et comment choisir écran, processeur, mémoire et stockage.
 <h2 id="principe">Le principe</h2>
 <p>On ne trouve pas d'ordinateurs sous Linux en grande surface. De petites entreprises les assemblent sur mesure, avec des composants compatibles, et livrent un système prêt à l'emploi. Le surcoût par rapport à un PC équivalent tourne autour de 50 €, vite compensé par l'absence de dépannages. Vérifie toujours prix et dispo au moment d'acheter. En ligne, tu as <strong>14 jours</strong> pour te rétracter après réception.</p>
@@ -236,6 +298,19 @@
 <h2 id="systeme">Quel système demander</h2>
 <p><strong>Linux Mint Cinnamon</strong> en priorité. Ubuntu convient aussi. Pour une petite machine : Lubuntu ou Q4OS. Pour la création multimédia : Ubuntu Studio.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.halteobsolescence.org" rel="noopener">HOP</a><span>Faire durer ses appareils, choisir des produits réparables.</span></li>
+<li><a href="https://www.emmaus-connect.org" rel="noopener">Emmaüs Connect</a><span>Des ordinateurs reconditionnés à petit prix pour les personnes à faibles revenus.</span></li>
+<li><a href="https://emmabuntus.org" rel="noopener">Emmabuntus</a><span>Le réemploi de vieux ordinateurs sous Linux.</span></li>
+</ul></section>
+<section><h3>Réparer</h3><ul>
+<li><a href="https://www.repaircafe.org/fr/" rel="noopener">Repair Café</a><span>Des ateliers gratuits pour réparer ses objets avec des bénévoles.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === obtenir-de-l-aide | Migration | Obtenir de l'aide pour GNU/Linux | Documentation, tutoriels, forums, bénévoles près de chez toi et aide à distance.
 <h2 id="bien-demander">Bien poser sa question</h2>
 <p>Décris le problème précisément : ce que tu faisais, ce qui s'affiche, ta distribution et sa version. Si c'est un souci de matériel, joins les infos système (Menu → Relevés du système, ou <code>inxi -Fxz</code> dans un terminal).</p>
@@ -270,6 +345,19 @@
 
 <h2 id="distance">Aide à distance</h2>
 <p>Une personne de confiance peut prendre la main sur ton ordinateur à distance avec <strong>DWAgent</strong>. Ne le fais qu'avec quelqu'un que tu connais.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>Le forum francophone de Linux Mint.</span></li>
+<li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>La plus grande documentation Linux en français.</span></li>
+<li><a href="https://www.april.org" rel="noopener">April</a><span>L'association peut t'orienter vers un groupe d'utilisatrices et d'utilisateurs près de chez toi.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://www.repaircafe.org/fr/" rel="noopener">Repair Café</a><span>Certains ateliers aident aussi à installer Linux.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === fin-de-windows-10 | Migration | Fin de Windows 10 : et maintenant ? | Ce que change la fin du support, les dérives des géants du numérique, les lois à surveiller et les alternatives.
 <h2 id="fin">Windows 10 n'est plus mis à jour</h2>
@@ -316,3 +404,17 @@
 <tr><td>Firefox</td><td>12 %</td><td>en baisse</td></tr>
 <tr><td>DuckDuckGo + Qwant</td><td>2,6 %</td><td>en hausse</td></tr>
 </tbody></table></div>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://endoflife.date/windows" rel="noopener">endoflife.date</a><span>Les dates de fin de support de chaque version de Windows.</span></li>
+<li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>La solution que nous proposons pour garder ton ordinateur.</span></li>
+<li><a href="https://www.halteobsolescence.org" rel="noopener">HOP</a><span>Halte à l'obsolescence programmée.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://emmabuntus.org" rel="noopener">Emmabuntus</a><span>Donner une seconde vie aux vieux ordinateurs.</span></li>
+<li><a href="https://www.april.org" rel="noopener">April</a><span>Les enjeux politiques du logiciel libre.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

@@ -57,6 +57,23 @@
 <li>Dans la bibliothèque : <a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a> d'Emma Goldman.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Hommage à la Catalogne</cite></b>, George Orwell, 1938.<span>Un volontaire anglais dans les milices de Barcelone et d'Aragon : le témoignage le plus lu.</span></li>
+<li><b><cite>Le Bref Été de l'anarchie</cite></b>, Hans Magnus Enzensberger, Gallimard, 1975.<span>La vie et la mort de Durruti, racontées par un collage de témoignages.</span></li>
+<li><b><cite>La Guerre d'Espagne. Révolution et contre-révolution (1934-1939)</cite></b>, Burnett Bolloten, Agone, 2014.<span>La grande histoire de la révolution et de son étouffement par le camp républicain lui-même.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><b><cite>Land and Freedom</cite></b>, Ken Loach, 1995.<span>Le film sur les milices et la révolution, avec la célèbre assemblée sur la collectivisation.</span></li>
+<li><b><cite>Vivir la utopía</cite></b>, Juan Gamero, 1997.<span>Un documentaire de la télévision espagnole, fait de témoignages d'anarchistes qui ont vécu la révolution.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/R%C3%A9volution_sociale_espagnole_de_1936" rel="noopener">La révolution sociale espagnole de 1936</a><span>Un article détaillé sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Buenaventura_Durruti" rel="noopener">Buenaventura Durruti</a><span>Le milicien légendaire.</span></li>
+</ul></section>
+</div>
+
 === espagne-1936-organisation | Espagne 1936 | CNT, FAI et collectivités : comment c'était organisé | Espagne · 1936-1939 | Des syndicats sans chefs, des villages qui décident en assemblée, des fédérations qui relient le tout : l'organisation libertaire en schémas.
 <p>L'organisation anarchiste espagnole repose sur un principe simple : <strong>la décision part d'en bas</strong>. Les comités exécutent ce que décident les assemblées et les congrès ; leurs membres sont mandatés et révocables.</p>
 
@@ -141,6 +158,19 @@
 <li>Suite : <a href="espagne-1936-milices-debats.html">milices, Mujeres Libres et débats</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Espagne libertaire 1936-1939</cite></b>, Gaston Leval.<span>Un anarchiste qui a parcouru les collectivités pendant la révolution raconte leur fonctionnement, village par village.</span></li>
+<li><b><cite>L'Autogestion dans l'Espagne révolutionnaire</cite></b>, Frank Mintz.<span>L'étude de référence sur les collectivités agricoles et industrielles.</span></li>
+<li><a href="../bibliotheque/la-conquete-du-pain.html">La Conquête du pain</a><span>Notre fiche : le livre qui a inspiré des générations d'anarchistes espagnols.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Conf%C3%A9d%C3%A9ration_nationale_du_travail_(Espagne)" rel="noopener">La CNT espagnole</a><span>Le grand syndicat anarchiste, plus d'un million de membres en 1936.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/R%C3%A9volution_sociale_espagnole_de_1936" rel="noopener">La révolution sociale de 1936</a><span>Les collectivisations en détail.</span></li>
+</ul></section>
+</div>
+
 === espagne-1936-milices-debats | Espagne 1936 | Milices, Mujeres Libres et dilemmes de la révolution | Espagne · 1936-1939 | Des milices sans grades, un mouvement de femmes libertaires, et les choix déchirants de 1936-1937 : participer au gouvernement ou perdre la guerre ?
 <h2 id="milices">Les milices : une armée sans officiers</h2>
 <figure class="photo"><img src="../assets/img/revolutions/espagne-miliciennes-1936.jpg" alt="Miliciennes de la CNT-FAI à Barcelone, en juillet 1936." width="565" height="364" loading="lazy"><figcaption>Miliciennes de la CNT-FAI à Barcelone, en juillet 1936. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Milicianas_CNT-FAI.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -200,3 +230,17 @@
 <li>L'émancipation des femmes ne peut pas attendre.</li>
 </ul>
 <p>Retour au début du dossier : <a href="espagne-1936-histoire.html">la révolution espagnole</a>.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Hommage à la Catalogne</cite></b>, George Orwell, 1938.<span>Orwell était à Barcelone pendant les journées de mai 1937.</span></li>
+<li><a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a><span>Notre fiche : l'hommage d'Emma Goldman.</span></li>
+<li><a href="../bibliotheque/anarchistes-electoralistes.html">Anarchistes électoralistes</a><span>Notre fiche : Malatesta sur la tentation du pouvoir, dix ans avant.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mujeres_Libres" rel="noopener">Mujeres Libres</a><span>Vingt mille femmes anarchistes organisées.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Colonne_Durruti" rel="noopener">La colonne Durruti</a><span>La plus célèbre des milices.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Journ%C3%A9es_de_mai_1937_%C3%A0_Barcelone" rel="noopener">Les journées de mai 1937 à Barcelone</a><span>Quand la révolution a été attaquée par son propre camp.</span></li>
+</ul></section>
+</div>

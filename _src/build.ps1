@@ -256,10 +256,24 @@ $js += "`n];`n"
 Write-Utf8 (Join-Path $site "data\livres.js") $js
 
 $biblio = Read-Collection "bibliotheque"
+# Texte original de chaque fiche : notre livre complet s'il existe, et l'adresse vérifiée sur la Bibliothèque anarchiste
+# (_src/textes/originaux.txt). Il ouvre le bloc « Sources et pour aller plus loin » écrit dans la fiche (<div class="ressources">).
+$originaux = @{}
+foreach ($l in (Read-Utf8 (Join-Path $src "textes\originaux.txt")) -split "`n") { if ($l -match '^([a-z0-9-]+)=(\S+)') { $originaux[$Matches[1]] = $Matches[2] } }
 foreach ($b in $biblio) {
+  $note = ""; $orig = @()
   if ($ficheToLivre.ContainsKey($b.slug)) {
-    $b.html += "`n<div class=""note""><p><strong>Le texte complet est sur Mamie Commune.</strong> <a href=""../livres/$($ficheToLivre[$b.slug]).html"">Lire en ligne</a> ou <a href=""../lecteur.html?livre=$($ficheToLivre[$b.slug])"">ouvrir le PDF</a>.</p></div>"
+    $id = $ficheToLivre[$b.slug]
+    $note = "<div class=""note""><p><strong>Le texte complet est sur Mamie Commune.</strong> <a href=""../livres/$id.html"">Lire en ligne</a> ou <a href=""../lecteur.html?livre=$id"">ouvrir le PDF</a>.</p></div>"
+    $orig += "<li><a href=""../livres/$id.html"">Le texte complet sur Mamie Commune</a>, à lire en ligne ou en PDF.</li>"
   }
+  if ($originaux.ContainsKey($b.slug)) {
+    $orig += "<li><a href=""https://fr.anarchistlibraries.net/library/$($originaux[$b.slug])"" rel=""noopener"">« $(Esc $b.title) » sur la Bibliothèque anarchiste</a> : le texte intégral, aussi en PDF et en livre numérique (EPUB).</li>"
+  }
+  $bloc = ""; if ($orig.Count) { $bloc = "<section><h3>Le texte original</h3><ul>$($orig -join '')</ul></section>" }
+  if ($b.html.Contains('<div class="ressources">')) { $b.html = $b.html.Replace('<div class="ressources">', "<div class=""ressources"">$bloc") }
+  elseif ($bloc) { $b.html += "`n<h2 id=""sources"">Sources et pour aller plus loin</h2>`n<div class=""ressources"">$bloc</div>" }
+  if ($note) { $b.html = $b.html.Replace('<h2 id="sources">', "$note`n<h2 id=""sources"">") }
 }
 Build-Collection $biblio "bibliotheque" "bibliotheque" "Bibliothèque" "Fiche" '<p class="credit">Fiche de lecture rédigée par Mamie Commune d''après les textes de la Bibliothèque anarchiste francophone. Cette fiche est libre de reproduction.</p>' "BIBLIO"
 

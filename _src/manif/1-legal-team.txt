@@ -85,3 +85,22 @@
 </div>
 <p>Remplace les passages surlignés en jaune, reformule avec tes mots, et joins ce qui prouve ce que tu dis (attestations sur l'honneur, photos, tickets de caisse…). Garde une copie de tout.</p>
 <p class="credit">Fiche rédigée par Mamie Commune d'après la brochure « Sortez couvert·es » (V7, septembre 2024) de la legal team de la Coordination contre la répression et les violences policières Paris IDF, membre du RAJCOL (rajcollective.noblogs.org). Modèles de lettres d'après les trames de la Legal Team Antiraciste. Ces documents ne remplacent pas l'avis d'une avocate ou d'un avocat.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les textes de référence</h3><ul>
+<li><a href="https://rajcollective.noblogs.org/files/2024/09/SORTEZ-COUVERTES-V7-sept-2024-DEF.pdf" rel="noopener">« Sortez couvert·es », brochure du RAJ (PDF)</a><span>La source de cette fiche : le guide juridique complet, mis à jour en septembre 2024.</span></li>
+<li><a href="https://www.service-public.fr/particuliers/vosdroits/F14837" rel="noopener">La garde à vue sur Service-public</a><span>La fiche officielle : durée, droits, avocat, médecin.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Contr%C3%B4le_d%27identit%C3%A9_en_France" rel="noopener">Le contrôle d'identité en France</a> et <a href="https://fr.wikipedia.org/wiki/Garde-%C3%A0-vue_en_France" rel="noopener">la garde à vue en France</a><span>Les règles et les articles de loi, expliqués sur Wikipédia.</span></li>
+</ul></section>
+<section><h3>Se faire aider</h3><ul>
+<li><a href="https://www.defenseurdesdroits.fr" rel="noopener">Le Défenseur des droits</a><span>Une autorité indépendante, gratuite, à saisir en cas de contrôle abusif ou de violence policière.</span></li>
+<li><a href="https://www.ldh-france.org" rel="noopener">La Ligue des droits de l'Homme</a><span>Observatoires des pratiques policières en manif dans plusieurs villes.</span></li>
+<li><a href="https://www.antai.gouv.fr" rel="noopener">ANTAI</a><span>Le site officiel où l'on conteste en ligne une amende forfaitaire.</span></li>
+</ul></section>
+<section><h3>Protéger ses données</h3><ul>
+<li><a href="../guides/signal.html">Notre guide Signal</a><span>Messagerie chiffrée, messages éphémères, téléphone verrouillé.</span></li>
+<li><a href="https://guide.boum.org" rel="noopener">Guide d'autodéfense numérique</a><span>Pour aller plus loin sur la protection de son téléphone et de son ordinateur.</span></li>
+<li><a href="https://www.laquadrature.net" rel="noopener">La Quadrature du Net</a><span>L'association qui suit la surveillance policière : drones, caméras « intelligentes », fichiers.</span></li>
+</ul></section>
+</div>

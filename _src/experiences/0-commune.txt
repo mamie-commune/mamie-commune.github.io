@@ -47,6 +47,25 @@
 <li>Dans la bibliothèque : <a href="../bibliotheque/commune-de-paris-kropotkine.html">Kropotkine sur la Commune</a> et les <a href="../bibliotheque/memoires-louise-michel.html">Mémoires de Louise Michel</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Histoire de la Commune de 1871</cite></b>, Prosper-Olivier Lissagaray, La Découverte.<span>Écrit en 1876 par un combattant de la Semaine sanglante : le récit classique, vivant et précis.</span></li>
+<li><b><cite>Commune(s), 1870-1871. Une traversée des mondes au XIXe siècle</cite></b>, Quentin Deluermoz, Seuil, 2020.<span>La synthèse historique la plus récente, qui replace Paris parmi les autres communes de France et du monde.</span></li>
+<li><b><cite>La Semaine sanglante. Mai 1871, légendes et comptes</cite></b>, Michèle Audin, Libertalia, 2021.<span>Combien de morts ? Une enquête rigoureuse, cimetière par cimetière.</span></li>
+<li><b><cite>Paris libre 1871</cite></b>, Jacques Rougerie, Seuil, 1971.<span>Par le grand historien de la Commune.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><a href="../videos.html">Les Damnés de la Commune</a><span>Le documentaire de Raphaël Meyssan, à voir en entier sur notre page Vidéos.</span></li>
+<li><b><cite>La Commune (Paris, 1871)</cite></b>, Peter Watkins, 2000.<span>Un film-fleuve tourné comme un reportage en direct, avec des habitantes et habitants d'aujourd'hui.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Commune_de_Paris" rel="noopener">La Commune de Paris sur Wikipédia</a><span>Un article très complet et sourcé.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Semaine_sanglante" rel="noopener">La Semaine sanglante</a><span>Le déroulé de la répression, du 21 au 28 mai 1871.</span></li>
+<li><a href="https://www.commune1871.org" rel="noopener">Les Amies et Amis de la Commune de Paris 1871</a><span>L'association fondée par des communards : histoire, balades, montée au mur des Fédérés.</span></li>
+</ul></section>
+</div>
+
 === commune-de-paris-organisation | Commune de Paris | Comment la Commune s'organisait | Paris · 1871 | Des citoyens en armes qui élisent leurs chefs, des élus révocables payés comme des ouvriers, des commissions, des clubs et des ateliers coopératifs.
 <h2 id="pouvoirs">Deux pouvoirs nés d'en bas</h2>
 <figure class="photo"><img src="../assets/img/revolutions/commune-barricade-vendome.jpg" alt="Gardes nationaux fédérés devant la barricade de la place Vendôme, en mai 1871." width="1200" height="927" loading="lazy"><figcaption>Gardes nationaux fédérés devant la barricade de la place Vendôme, en mai 1871. <small>Bruno Braquehais · CC0, musée Carnavalet · <a href="https://commons.wikimedia.org/wiki/File:Communards_et_barricade_place_Vend%C3%B4me._Mai_1871._Commune_de_Paris,_guerre_civile,_r%C3%A9volution._1er_arrondissement,_Paris._PH32369.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -123,6 +142,20 @@
 <li>Suite : <a href="commune-de-paris-decrets-femmes.html">les décrets, les femmes et l'héritage</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Imaginaire de la Commune</cite></b>, Kristin Ross, La Fabrique, 2015.<span>Ce que la Commune a inventé : le « luxe communal », l'éducation, la fédération.</span></li>
+<li><a href="../bibliotheque/commune-de-paris-kropotkine.html">La Commune de Paris</a>, Kropotkine<span>Notre fiche : les leçons tirées par les anarchistes dix ans plus tard.</span></li>
+<li><a href="../bibliotheque/qui-suis-je.html">La Commune et la notion de l'État</a>, Bakounine<span>Notre fiche : ce que Bakounine écrit juste après la Semaine sanglante.</span></li>
+<li><b><cite>La Guerre civile en France</cite></b>, Karl Marx, 1871.<span>La lecture marxiste de la Commune, à comparer avec celle des anarchistes.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Eug%C3%A8ne_Varlin" rel="noopener">Eugène Varlin</a><span>L'ouvrier relieur, coopérateur et internationaliste, fusillé le 28 mai 1871.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Premi%C3%A8re_Internationale" rel="noopener">La Première Internationale</a><span>L'organisation dont beaucoup de communards étaient membres.</span></li>
+</ul></section>
+</div>
+
 === commune-de-paris-decrets-femmes | Commune de Paris | Les décrets, les femmes et l'héritage de la Commune | Paris · 1871 | Loyers, laïcité, travail de nuit, guillotine brûlée : ce que la Commune a décidé en deux mois, le rôle des femmes, et ce qu'en ont tiré les anarchistes.
 <h2 id="decrets">Ce que la Commune a décidé</h2>
 <figure class="photo"><img src="../assets/img/revolutions/commune-colonne-vendome.jpg" alt="La colonne Vendôme, symbole des guerres de Napoléon, abattue le 16 mai 1871 sur décision de la Commune." width="1200" height="792" loading="lazy"><figcaption>La colonne Vendôme, symbole des guerres de Napoléon, abattue le 16 mai 1871 sur décision de la Commune. <small>photographe inconnu · CC0, musée Carnavalet · <a href="https://commons.wikimedia.org/wiki/File:Destruction_de_la_colonne_Vend%C3%B4me,_1871,_PH3076.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -169,3 +202,17 @@
 </ul>
 <p>Chaque année, fin mai, une montée au <strong>mur des Fédérés</strong> rend hommage aux communardes et communards.</p>
 <p>Retour au début : <a href="commune-de-paris-histoire.html">la Commune en 72 jours</a>. Autres dossiers : <a href="espagne-1936-histoire.html">Espagne 1936</a>, <a href="zapatistes-histoire.html">zapatistes</a>, <a href="rojava-histoire.html">Rojava</a>.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les Pétroleuses</cite></b>, Édith Thomas, Gallimard, 1963.<span>Le premier grand livre d'histoire sur les femmes de la Commune.</span></li>
+<li><b><cite>Eugène Varlin, ouvrier relieur 1839-1871</cite></b>, Michèle Audin, Libertalia, 2019.<span>Les écrits et la vie d'un communard qui défendait l'égalité des femmes au travail.</span></li>
+<li><a href="../bibliotheque/memoires-louise-michel.html">Les Mémoires de Louise Michel</a><span>Notre fiche : la Commune racontée par l'une de ses combattantes.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Union_des_femmes_pour_la_d%C3%A9fense_de_Paris_et_les_soins_aux_bless%C3%A9s" rel="noopener">L'Union des femmes</a><span>La grande organisation féminine de la Commune.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lisabeth_Dmitrieff" rel="noopener">Élisabeth Dmitrieff</a> et <a href="https://fr.wikipedia.org/wiki/Nathalie_Le_Mel" rel="noopener">Nathalie Le Mel</a><span>Deux de ses fondatrices.</span></li>
+<li><a href="https://www.commune1871.org" rel="noopener">Les Amies et Amis de la Commune de Paris 1871</a><span>Pour continuer à faire vivre cette mémoire.</span></li>
+</ul></section>
+</div>

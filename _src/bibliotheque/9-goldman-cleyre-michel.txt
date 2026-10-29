@@ -1,155 +1,402 @@
 === le-communisme-n-existe-pas-en-urss | État & pouvoir | Le communisme n'existe pas en URSS | Emma Goldman · 1935 | Nationaliser n'est pas socialiser : le régime soviétique est un capitalisme d'État autoritaire.
 <h2 id="contexte">Contexte</h2>
-<p>Article de 1935 dans une revue américaine. Goldman a vécu en Russie soviétique en 1920-1921 et suit depuis l'exil l'évolution du régime stalinien.</p>
+<p>Expulsée des États-Unis en 1919 avec son compagnon Alexander Berkman, Emma Goldman arrive en Russie soviétique pleine d'espoir. Elle y vit deux ans, voit la faim, la police politique, la répression des anarchistes et de Kronstadt, et repart désespérée fin 1921. Elle publie dès 1923 <em>Mon désillusionnement en Russie</em>, qui lui vaut d'être traitée de traîtresse par une grande partie de la gauche.</p>
+<p>Cet article paraît en 1935 dans une revue américaine, <em>The American Mercury</em>. Staline est au pouvoir, la collectivisation forcée des campagnes a provoqué une famine meurtrière, et beaucoup d'intellectuels occidentaux continuent pourtant de célébrer l'URSS comme la patrie du socialisme.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le communisme suppose que les communautés gèrent librement les moyens de production. L'URSS nationalise tout et concentre le pouvoir dans le Parti : c'est un capitalisme d'État, fondé sur la contrainte et les privilèges.</p>
+<p>Le communisme suppose que les communautés gèrent librement et en commun les moyens de production. L'URSS nationalise tout et concentre le pouvoir dans le Parti : ce n'est pas du communisme, c'est un capitalisme d'État, fondé sur la contrainte et les privilèges.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Nationaliser</strong> (l'État contrôle) n'est pas <strong>socialiser</strong> (tout le monde a accès).</li>
-<li>La planification centrale ignore les besoins locaux ; on exporte du blé pendant la famine de 1932-1933.</li>
-<li>Rations différenciées et privilèges du Parti recréent des classes.</li>
-<li>La collectivisation transforme les paysans en salariés sans terre.</li>
-<li>Au sommet : bureaucratie et police politique.</li>
-<li>Répression croissante, jusqu'aux otages pris parmi les familles des « traîtres ».</li>
+<li><strong>Nationaliser n'est pas socialiser.</strong> Quand l'État contrôle les usines, les travailleuses et travailleurs restent des salariés sans pouvoir ; socialiser, c'est donner à tout le monde accès et décision.</li>
+<li><strong>Une planification aveugle.</strong> La planification centrale ignore les besoins locaux : on exporte du blé pendant la famine de 1932-1933.</li>
+<li><strong>De nouvelles classes.</strong> Rations différenciées, magasins réservés, privilèges du Parti recréent une hiérarchie sociale.</li>
+<li><strong>La collectivisation</strong> forcée transforme les paysannes et paysans en salariés sans terre de l'État.</li>
+<li><strong>Au sommet</strong> : une bureaucratie toute-puissante et une police politique.</li>
+<li><strong>Une répression croissante</strong>, jusqu'aux otages pris parmi les familles des « traîtres ».</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte d'avant les grands procès</strong> de Moscou (1936-1938) et la Grande Terreur : la réalité sera encore plus terrible que ce qu'elle décrit.</li>
+<li><strong>« Capitalisme d'État »</strong> : l'expression est discutée par les historiens, mais elle a été reprise par de nombreux courants critiques du stalinisme, libertaires comme marxistes.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Goldman a eu raison trop tôt, et l'a payé de son isolement. Son texte reste une leçon sur les fins et les moyens, et sur le courage de dire la vérité à son propre camp. La distinction entre nationaliser et socialiser éclaire encore les débats sur les services publics : appartenir à l'État ne veut pas dire appartenir à toutes et tous.</p>
+
 <h2 id="retenir">À retenir</h2>
 <ul><li>Un communisme ne peut pas être imposé par un État.</li><li>L'URSS hérite des méthodes tsaristes.</li><li>Une réflexion toujours actuelle sur les fins et les moyens.</li></ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Vivre ma vie</cite></b>, Emma Goldman, L'Échappée, 2018.<span>Ses deux années en Russie, racontées en détail.</span></li>
+<li><b><cite>La Révolution inconnue</cite></b>, Voline.<span>La révolution russe vue par un anarchiste qui l'a vécue.</span></li>
+<li><a href="orage-a-petrograd.html">1921, l'orage éclate à Petrograd</a><span>Notre fiche : le moment de la rupture.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="../experiences/makhno-critique-bolcheviks.html">Notre dossier : la critique des bolcheviks</a><span>Ce que les anarchistes ont vécu en Russie et en Ukraine.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Emma_Goldman" rel="noopener">Emma Goldman sur Wikipédia</a><span>Son expulsion et ses années russes.</span></li>
+</ul></section>
+</div>
+
 === anarchisme-et-question-sexuelle | Féminisme & société | L'Anarchisme et la question sexuelle | Emma Goldman · 1896 | Mariage sans amour et prostitution viennent du même système : il faut l'abolir, pas punir ses victimes.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1896 dans le journal américain <em>The Alarm</em>. En pleine industrialisation, les réformateurs moraux s'en prennent à la prostitution sans jamais interroger ses causes.</p>
+<p>Emma Goldman a 27 ans. Elle a travaillé dans des ateliers de confection, sort d'un an de prison pour un discours aux chômeurs, et s'est formée comme infirmière et sage-femme dans les quartiers pauvres de New York, où elle voit de près les grossesses non désirées, les avortements clandestins et la prostitution. Ce texte paraît en 1896 dans le journal anarchiste américain <em>The Alarm</em>. Au même moment, des ligues de vertu partent en croisade contre la prostitution, en pourchassant les femmes sans jamais interroger les causes.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le mariage contraint et la prostitution sont deux faces d'un même mal, imposé par l'argent, la religion et l'État. Tant que la propriété privée existera, des femmes devront vendre leur corps ou leur liberté.</p>
+<p>Le mariage contraint et la prostitution sont deux faces d'un même mal, imposé par l'argent, la religion et l'État. Tant que la propriété privée et la dépendance économique des femmes existeront, des femmes devront vendre leur corps ou leur liberté.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Chez les ouvriers, le couple s'use sous l'épuisement du travail et des tâches domestiques.</li>
-<li>Chez les bourgeois, le regard social enferme la femme « respectable » dans une union humiliante.</li>
-<li>Toute union sans amour est une forme de prostitution, légale ou non.</li>
-<li>La faute revient au système, pas aux femmes.</li>
-<li>Les moralistes s'acharnent sur les victimes au lieu des causes.</li>
-<li>L'idéal : union choisie, enfants élevés avec la communauté, séparation possible sans humiliation.</li>
+<li><strong>Chez les ouvriers</strong>, le couple s'use sous l'épuisement du travail, la pauvreté et les tâches domestiques qui retombent sur les femmes.</li>
+<li><strong>Chez les bourgeois</strong>, le regard social enferme la femme « respectable » dans une union souvent humiliante, choisie pour l'argent ou le rang.</li>
+<li><strong>Toute union sans amour</strong> est une forme de prostitution, légale ou non.</li>
+<li><strong>La faute revient au système</strong>, pas aux femmes.</li>
+<li><strong>Les moralistes</strong> s'acharnent sur les victimes au lieu de s'attaquer aux causes : bas salaires, absence d'éducation sexuelle, dépendance économique.</li>
+<li><strong>L'idéal</strong> : une union librement choisie, des enfants élevés avec le soutien de la communauté, la séparation possible sans humiliation.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Sexualité, pauvreté et économie dans une même analyse.</li><li>Ne jamais juger les femmes, viser les structures.</li><li>Abolir plutôt que moraliser.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>La prostitution</strong> fait toujours débat entre féministes, et entre anarchistes : faut-il chercher à l'abolir, ou défendre les droits des personnes qui exercent le travail du sexe ? Goldman refuse en tout cas toute répression des femmes elles-mêmes, un point sur lequel tout le monde s'accorde aujourd'hui dans ces milieux.</li>
+<li><strong>Une vision centrée sur le couple homme-femme</strong>. Goldman a pourtant été l'une des premières, aux États-Unis, à défendre publiquement l'homosexualité dans ses conférences.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Dépendance économique dans le couple, inégalités de salaires et de retraites, charge des tâches domestiques, violences conjugales qui empêchent de partir faute d'argent : l'analyse de Goldman reste d'une actualité frappante. Elle a été l'une des pionnières du droit à la contraception, pour lequel elle a été arrêtée en 1916.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Sexualité, pauvreté et économie dans une même analyse.</li><li>Ne jamais juger les femmes, viser les structures.</li><li>Abolir plutôt que moraliser.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="le-mariage-mauvaise-action.html">Le Mariage est une mauvaise action</a><span>Notre fiche : Voltairine de Cleyre sur le même sujet.</span></li>
+<li><a href="etre-humain-male-et-femelle.html">De l'être-humain mâle et femelle</a><span>Notre fiche : Déjacque, 40 ans plus tôt.</span></li>
+<li><b><cite>Vivre ma vie</cite></b>, Emma Goldman, L'Échappée, 2018.<span>Ses années d'infirmière et de sage-femme dans les quartiers pauvres.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Anarcha-f%C3%A9minisme" rel="noopener">L'anarcha-féminisme</a><span>Le courant et ses débats.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/N%C3%A9o-malthusianisme" rel="noopener">Le néo-malthusianisme</a><span>Le combat pour la contraception, où les anarchistes étaient en première ligne.</span></li>
+</ul></section>
+</div>
 
 === durruti-n-est-pas-mort | Histoire & luttes | Durruti n'est pas mort ! | Emma Goldman · 1936 | L'hommage d'Emma Goldman au milicien anarchiste tombé à Madrid, qui commandait sans contraindre.
 <h2 id="contexte">Contexte</h2>
-<p>Novembre 1936, guerre d'Espagne. Buenaventura Durruti, à la tête de la colonne anarchiste qui porte son nom, est tué à Madrid. Goldman l'avait rencontré sur le front d'Aragon.</p>
-<h2 id="these">La thèse</h2>
-<p>Durruti vit dans celles et ceux qui poursuivent son combat. Il a prouvé qu'on peut obtenir l'engagement sans discipline militaire, par la responsabilité et l'exemple.</p>
-<h2 id="idees">Les idées, dans l'ordre</h2>
-<ol>
-<li>Une autodiscipline librement consentie, à la place de la discipline de caserne.</li>
-<li>Il vit comme ses miliciens et partage leurs dangers.</li>
-<li>La guerre antifasciste défend une révolution sociale.</li>
-<li>À ceux qui veulent partir, il en appelle à leur responsabilité plutôt qu'à la sanction.</li>
-<li>Ses funérailles réunissent des centaines de milliers de personnes à Barcelone.</li>
-</ol>
-<h2 id="retenir">À retenir</h2><ul><li>Liberté et discipline ne s'opposent pas.</li><li>L'autorité de l'exemple, pas de la contrainte.</li><li>Un texte d'hommage, à lire comme tel.</li></ul>
+<p>Juillet 1936 : un coup d'État militaire mené par Franco se heurte en Espagne à une résistance populaire. À Barcelone, les ouvrières et ouvriers de la CNT, la grande confédération anarcho-syndicaliste, battent les militaires et lancent une révolution sociale : usines et terres collectivisées, milices volontaires. Buenaventura Durruti, ouvrier mécanicien et militant légendaire, prend la tête d'une colonne de milliers de volontaires qui part libérer l'Aragon.</p>
+<p>Emma Goldman, 67 ans, rejoint l'Espagne en septembre 1936 pour soutenir la révolution ; elle rencontre Durruti sur le front d'Aragon. En novembre, la colonne part défendre Madrid assiégée. Durruti y est tué le 20 novembre 1936, dans des circonstances jamais complètement éclaircies. Goldman écrit cet hommage.</p>
 
-=== orage-a-petrograd | Histoire & luttes | 1921, l'orage éclate à Petrograd | Emma Goldman · 1921 | Grèves ouvrières affamées, marins de Cronstadt solidaires, puis l'écrasement : le témoignage qui a rompu Goldman avec les bolcheviks.
-<h2 id="contexte">Contexte</h2>
-<p>Hiver 1920-1921. Expulsés des États-Unis, Emma Goldman et Alexandre Berkman sont à Petrograd. La faim et les fermetures d'usines provoquent des grèves ; les marins de Cronstadt, pourtant héros de 1917, les soutiennent.</p>
 <h2 id="these">La thèse</h2>
-<p>Réprimer les ouvriers et Cronstadt, c'est trahir la révolution. La contestation populaire n'était pas une contre-révolution, et le dialogue devait primer.</p>
+<p>Durruti vit dans celles et ceux qui poursuivent son combat. Il a prouvé qu'on peut obtenir l'engagement de milliers de personnes sans discipline militaire, par la responsabilité et l'exemple.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Les grévistes réclament du pain, du chauffage, des chaussures.</li>
-<li>Le pouvoir répond par la loi martiale et les arrestations.</li>
-<li>Cronstadt réclame la liberté de réunion et la libération des prisonniers politiques.</li>
-<li>Les dirigeants crient au complot tsariste sans examiner les faits.</li>
-<li>Goldman et Berkman proposent une commission de médiation ; Trotski exige une reddition sans condition.</li>
+<li><strong>L'autodiscipline</strong> librement consentie, à la place de la discipline de caserne : pas de grades, pas de saluts, des délégués élus.</li>
+<li><strong>Vivre comme les autres.</strong> Durruti mange, dort et combat avec ses miliciennes et miliciens, et partage leurs dangers.</li>
+<li><strong>Une guerre pour une révolution.</strong> La guerre antifasciste défend une révolution sociale, pas seulement une république.</li>
+<li><strong>La responsabilité plutôt que la sanction.</strong> À celles et ceux qui veulent quitter le front, il en appelle à leur conscience, pas à la menace.</li>
+<li><strong>Les funérailles</strong> réunissent des centaines de milliers de personnes à Barcelone.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Cronstadt, symbole de l'autonomie ouvrière écrasée.</li><li>Critiquer le pouvoir y devient une trahison.</li><li>À lire avec <a href="bolchevisme-et-anarchisme.html">Malatesta</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte d'hommage</strong>, écrit dans l'émotion, qui ne se veut pas une analyse. Durruti, comme tout chef aimé, a aussi sa part de légende.</li>
+<li><strong>La militarisation</strong> : quelques semaines plus tard, les milices sont transformées en armée régulière, avec l'accord des dirigeants de la CNT. Un débat déchirant, que notre dossier détaille.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La phrase qu'on prête à Durruti, « nous portons un monde nouveau dans nos cœurs », est devenue un slogan dans le monde entier. Son exemple pose une question à toute organisation : peut-on être efficace sans hiérarchie ? La colonne Durruti prouve qu'on peut, au moins un temps, et à condition d'une très grande confiance mutuelle.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Liberté et discipline ne s'opposent pas.</li><li>L'autorité de l'exemple, pas de la contrainte.</li><li>Un texte d'hommage, à lire comme tel.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le Bref Été de l'anarchie. La vie et la mort de Buenaventura Durruti</cite></b>, Hans Magnus Enzensberger, Gallimard, 1975.<span>Un roman-collage fait de témoignages : passionnant.</span></li>
+<li><b><cite>Hommage à la Catalogne</cite></b>, George Orwell, 1938.<span>Un volontaire anglais dans les milices de Barcelone.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><b><cite>Land and Freedom</cite></b>, Ken Loach, 1995.<span>Le film sur les milices et la révolution espagnole, avec la célèbre scène de l'assemblée sur la collectivisation.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="../experiences/espagne-1936-histoire.html">Notre dossier Espagne 1936</a><span>La révolution, les milices, les débats.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Buenaventura_Durruti" rel="noopener">Buenaventura Durruti sur Wikipédia</a><span>Sa vie et sa mort.</span></li>
+</ul></section>
+</div>
+
+=== orage-a-petrograd | Histoire & luttes | 1921, l'orage éclate à Petrograd | Emma Goldman · 1921 | Grèves ouvrières affamées, marins de Kronstadt solidaires, puis l'écrasement : le témoignage qui a rompu Goldman avec les bolcheviks.
+<h2 id="contexte">Contexte</h2>
+<p>Hiver 1920-1921. La guerre civile est presque gagnée par les bolcheviks, mais le pays est exsangue. Expulsés des États-Unis, Emma Goldman et Alexander Berkman vivent à Petrograd. La faim, le froid et les fermetures d'usines provoquent des grèves ouvrières en février 1921. Les marins de Kronstadt, la forteresse navale face à la ville, héros de la révolution de 1917, se solidarisent avec les grévistes et adoptent une résolution réclamant des soviets librement élus.</p>
+<p>Ce texte est un chapitre du témoignage de Goldman sur ces semaines décisives.</p>
+
+<h2 id="these">La thèse</h2>
+<p>Réprimer les ouvriers de Petrograd et les marins de Kronstadt, c'est trahir la révolution. Leur contestation n'était pas une contre-révolution, et le dialogue devait primer sur les canons.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Des revendications de survie.</strong> Les grévistes réclament du pain, du chauffage, des chaussures, et la fin des barrages qui empêchent d'aller chercher de la nourriture à la campagne.</li>
+<li><strong>La réponse du pouvoir</strong> : la loi martiale et les arrestations.</li>
+<li><strong>Kronstadt</strong> réclame la liberté de réunion et de parole pour les ouvriers, les paysans et les partis socialistes, des élections libres aux soviets, et la libération des prisonniers politiques socialistes.</li>
+<li><strong>Le mensonge du complot.</strong> Les dirigeants crient à une conspiration tsariste et étrangère sans examiner les faits.</li>
+<li><strong>La médiation refusée.</strong> Goldman et Berkman proposent une commission de médiation ; Trotski exige une reddition sans condition. La forteresse est prise d'assaut en mars 1921, et des centaines de marins sont fusillés dans les semaines qui suivent.</li>
+</ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un débat qui dure depuis un siècle.</strong> Les défenseurs des bolcheviks affirment que la révolte menaçait le régime face à ses ennemis. Les historiennes et historiens qui ont eu accès aux archives soviétiques ont largement confirmé qu'il n'y avait pas de complot tsariste derrière Kronstadt.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Kronstadt est devenu le symbole de l'autonomie ouvrière écrasée par un pouvoir qui se disait ouvrier. Dans de nombreux débats à gauche, « Kronstadt » sert encore de ligne de partage entre celles et ceux qui justifient l'autorité au nom de la révolution, et celles et ceux qui refusent.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Kronstadt, symbole de l'autonomie ouvrière écrasée.</li><li>Critiquer le pouvoir y devient une trahison.</li><li>À lire avec <a href="bolchevisme-et-anarchisme.html">Malatesta</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Commune de Cronstadt</cite></b>, Ida Mett, 1938.<span>Le récit classique de la révolte, par une anarchiste qui l'a connue.</span></li>
+<li><b><cite>La Rébellion de Kronstadt</cite></b>, Alexander Berkman, 1922.<span>Le témoignage du compagnon de Goldman.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/R%C3%A9volte_de_Kronstadt" rel="noopener">La révolte de Kronstadt sur Wikipédia</a><span>Le déroulement et le débat historique.</span></li>
+<li><a href="../experiences/makhno-critique-bolcheviks.html">Notre dossier : la critique des bolcheviks</a><span>Kronstadt et l'Ukraine, la même année.</span></li>
+</ul></section>
+</div>
 
 === le-mariage-mauvaise-action | Féminisme & société | Le Mariage est une mauvaise action | Voltairine de Cleyre · 1907 | Le mariage, c'est la dépendance durable, sexuelle et économique, qui use l'amour et freine chacune et chacun.
 <h2 id="contexte">Contexte</h2>
-<p>Conférence d'avril 1907 à Philadelphie, en réponse à un plaidoyer pour le mariage prononcé juste avant elle.</p>
+<p>Voltairine de Cleyre (1866-1912), anarchiste américaine, donne cette conférence en avril 1907 à Philadelphie, en réponse à un plaidoyer pour le mariage prononcé juste avant elle par un autre orateur. Elle-même a vécu plusieurs relations sans jamais se marier, a eu un fils, élevé par le père de l'enfant, et a toujours tenu à vivre seule.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le mariage n'est pas la cérémonie mais la relation permanente de dépendance entre deux personnes. Elle entrave le développement de chacune et de chacun et finit par détruire le désir et la tendresse.</p>
+<p>Le mariage, ce n'est pas la cérémonie ni le papier : c'est la relation permanente de dépendance entre deux personnes qui partagent tout, maison, argent, corps. Cette relation entrave le développement de chacune et de chacun et finit par détruire le désir et la tendresse.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>La morale d'un acte évolue avec les besoins sociaux.</li>
-<li>Les besoins humains (savoir, art, création) dépassent le couple.</li>
-<li>La dépendance économique, surtout des femmes, empêche de vivre en indépendance.</li>
-<li>La vie quotidienne use le désir ; les chemins divergent.</li>
-<li>Élever des enfants ne rend pas le mariage nécessaire.</li>
+<li><strong>La morale change</strong> : ce qui était bon dans une société peut devenir nuisible quand les besoins évoluent.</li>
+<li><strong>Nos besoins dépassent le couple</strong> : savoir, art, création, amitiés, engagements. Les enfermer dans un foyer, c'est s'appauvrir.</li>
+<li><strong>La dépendance économique</strong>, surtout celle des femmes, empêche de vivre en personne indépendante.</li>
+<li><strong>Le quotidien use le désir</strong> ; deux personnes évoluent, et leurs chemins divergent.</li>
+<li><strong>Les enfants</strong> ne rendent pas le mariage nécessaire : on peut les élever sans s'enfermer.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>La liberté individuelle comme critère.</li><li>Garder de la distance protège l'amour.</li><li>À lire avec <a href="anarchisme-et-question-sexuelle.html">Goldman</a>.</li></ul>
+<p>Sa proposition : des relations libres, où chacune et chacun garde son logement, son argent et sa liberté, et où l'on se retrouve par choix.</p>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un idéal qui suppose des moyens</strong> : avoir chacun son logement coûte cher. De Cleyre, elle-même très pauvre, le savait.</li>
+<li><strong>La question des enfants</strong> reste peu développée.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Couples qui vivent chacun chez soi, relations non exclusives, refus du mariage : ce que de Cleyre proposait en 1907 est devenu une réalité pour beaucoup de gens. Sa question de fond, la dépendance économique au sein du couple, reste centrale dans les luttes contre les violences conjugales.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>La liberté individuelle comme critère.</li><li>Garder de la distance protège l'amour.</li><li>À lire avec <a href="anarchisme-et-question-sexuelle.html">Goldman</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>D'espoir et de raison</cite></b>, Voltairine de Cleyre, Lux, 2008.<span>Ses textes en français.</span></li>
+<li><a href="fabrication-d-une-anarchiste.html">La Fabrication d'une anarchiste</a><span>Notre fiche : son parcours.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Voltairine_de_Cleyre" rel="noopener">Voltairine de Cleyre sur Wikipédia</a><span>Sa vie et ses textes.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarcha-f%C3%A9minisme" rel="noopener">L'anarcha-féminisme</a><span>Le courant dont elle est une pionnière.</span></li>
+</ul></section>
+</div>
 
 === fabrication-d-une-anarchiste | Individu & morale | La Fabrication d'une anarchiste | Voltairine de Cleyre · 1914 | Du couvent à l'anarchisme : le chemin intime d'une révoltée, et ce qu'elle a appris des ouvriers immigrés et des militants.
 <h2 id="contexte">Contexte</h2>
-<p>Texte publié en 1914, deux ans après sa mort, dans un recueil édité par Alexandre Berkman. Elle raconte sa jeunesse dans un pensionnat catholique, ses débuts de conférencière libre-penseuse, puis l'anarchisme.</p>
+<p>Voltairine de Cleyre écrit ce texte autobiographique au début des années 1900. Il est repris en 1914, deux ans après sa mort, dans le recueil de ses œuvres choisies édité par Alexander Berkman. Elle y raconte sa jeunesse dans un pensionnat catholique du Canada où son père l'avait placée, ses débuts de conférencière libre-penseuse, puis son chemin vers l'anarchisme.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'anarchisme ne s'apprend pas d'un coup : il prolonge un tempérament rebelle et une quête de liberté. La liberté fonde l'ordre, pas l'inverse.</p>
+<p>L'anarchisme ne s'apprend pas d'un coup : il prolonge un tempérament rebelle et une longue quête de liberté. Et l'idée centrale qu'elle en tire : la liberté fonde l'ordre, et non l'inverse.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Une révolte précoce contre une éducation religieuse stricte.</li>
-<li>La pendaison des anarchistes de Chicago en 1887 ruine sa confiance dans la justice.</li>
-<li>La liberté comme fondement de l'ordre social.</li>
-<li>Individualistes et communistes : laisser l'expérience trancher.</li>
-<li>Admiration pour les jeunes ouvriers juifs immigrés de Philadelphie.</li>
-<li>Résister sans se soumettre.</li>
+<li><strong>Une révolte précoce</strong> contre une éducation religieuse stricte : elle tente de s'enfuir du couvent à pied.</li>
+<li><strong>Le choc de Chicago.</strong> La pendaison de quatre anarchistes en 1887, après un procès truqué, ruine sa confiance dans la justice. Elle les avait d'abord crus coupables.</li>
+<li><strong>La liberté comme fondement de l'ordre social</strong>, et non comme une menace pour lui.</li>
+<li><strong>Un « anarchisme sans adjectif ».</strong> Entre individualistes et communistes, elle refuse de trancher : laissons l'expérience décider quelle forme économique convient.</li>
+<li><strong>Les ouvriers juifs immigrés</strong> de Philadelphie, à qui elle enseigne l'anglais, l'impressionnent par leur soif de savoir et leur dévouement.</li>
+<li><strong>Résister</strong>, toute sa vie, sans jamais se soumettre.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Un engagement d'abord intime.</li><li>Un « anarchisme sans adjectif ».</li><li>Voir aussi <a href="de-l-action-directe.html">De l'action directe</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte court</strong>, qui laisse de côté bien des épisodes de sa vie : la pauvreté, la maladie, l'attentat dont elle a été victime.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'« anarchisme sans adjectif » qu'elle défendait reste une attitude précieuse : plutôt que de se déchirer sur des étiquettes, juger les formes d'organisation à l'usage. Son récit montre aussi comment un engagement naît : d'une injustice vécue de près, et de rencontres.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Un engagement d'abord intime.</li><li>Un « anarchisme sans adjectif ».</li><li>Voir aussi <a href="de-l-action-directe.html">De l'action directe</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>D'espoir et de raison</cite></b>, Voltairine de Cleyre, Lux, 2008.<span>L'anthologie en français.</span></li>
+<li><a href="le-1er-mai.html">Le 1er Mai</a><span>Notre fiche : l'histoire des martyrs de Chicago, qui l'ont fait basculer.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Voltairine_de_Cleyre" rel="noopener">Voltairine de Cleyre sur Wikipédia</a><span>Sa vie complète.</span></li>
+</ul></section>
+</div>
 
 === l-idee-dominante | Individu & morale | L'Idée dominante | Voltairine de Cleyre · 1910 | Contre le déterminisme : l'esprit n'est pas un miroir, la volonté peut refaçonner les circonstances.
 <h2 id="contexte">Contexte</h2>
-<p>Texte de 1910. Elle critique l'idée, répandue chez les socialistes comme chez bien des anarchistes, que les idées ne seraient qu'un reflet des conditions matérielles.</p>
+<p>Voltairine de Cleyre publie ce texte en 1910 dans <em>Mother Earth</em>. Malade, pauvre, elle a passé sa vie à militer malgré tout. Elle s'en prend à une idée répandue chez les socialistes comme chez bien des anarchistes de son temps : les idées et la volonté ne seraient qu'un reflet des conditions matérielles. Il suffirait d'attendre que l'économie change pour que les gens changent.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Les conditions extérieures sont elles-mêmes le produit de l'action humaine. Une volonté tenue avec fermeté peut l'emporter sur les circonstances.</p>
+<p>Les conditions extérieures sont elles-mêmes le produit de l'action humaine passée. Une idée tenue avec fermeté, une « idée dominante » qui oriente toute une vie, peut l'emporter sur les circonstances.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Critique du déterminisme qui fait de l'individu un simple produit du milieu.</li>
-<li>Le fanatique religieux et l'opportuniste déterministe se ressemblent.</li>
-<li>Une société épuisée à accumuler des objets inutiles.</li>
-<li>Les réformateurs absorbés par le système invoquent les circonstances pour renoncer.</li>
-<li>Choisir un but élevé et s'y tenir toute sa vie.</li>
+<li><strong>Contre le déterminisme</strong> qui fait de l'individu un simple produit du milieu, un miroir qui ne fait que refléter.</li>
+<li><strong>Deux pareils.</strong> Le fanatique religieux qui s'en remet à Dieu et l'opportuniste qui s'en remet aux « lois de l'histoire » se ressemblent : ils renoncent à agir.</li>
+<li><strong>L'idée dominante de son époque</strong> : accumuler des objets inutiles. Une société s'épuise à produire et posséder.</li>
+<li><strong>Les réformateurs fatigués</strong>, absorbés par le système, invoquent les circonstances pour justifier leurs renoncements.</li>
+<li><strong>Choisir un but élevé</strong> et s'y tenir toute sa vie, quoi qu'il en coûte.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Les idées ont un poids réel.</li><li>La dignité se joue dans la durée.</li><li>« Les circonstances » sont souvent une excuse.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Le risque de culpabiliser</strong> celles et ceux que les circonstances écrasent vraiment : la misère, la maladie, la violence ne se surmontent pas par la seule volonté. De Cleyre parle surtout aux militantes et militants qui ont le choix.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Face au découragement et au « de toute façon, on ne peut rien y faire », ce texte reste un remède. Sa critique d'une société obsédée par l'accumulation d'objets rejoint, cent ans avant, les critiques actuelles de la surconsommation.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Les idées ont un poids réel.</li><li>La dignité se joue dans la durée.</li><li>« Les circonstances » sont souvent une excuse.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="idealisme-et-materialisme.html">« Idéalisme » et « matérialisme »</a><span>Notre fiche : Malatesta sur une question voisine.</span></li>
+<li><b><cite>D'espoir et de raison</cite></b>, Voltairine de Cleyre, Lux, 2008.<span>Ses textes en français.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Voltairine_de_Cleyre" rel="noopener">Voltairine de Cleyre sur Wikipédia</a><span>Sa vie et ses écrits.</span></li>
+</ul></section>
+</div>
 
 === la-revanche-c-est-la-revolution | Révolution & stratégie | La Revanche, c'est la révolution | Louise Michel · 1886 | Plus on réprime, plus les rangs grossissent : un appel à la jeunesse sous les drapeaux rouge et noir.
 <h2 id="contexte">Contexte</h2>
-<p>Passage des <em>Mémoires</em> (1886), écrit après l'enterrement de Jules Vallès, suivi par une foule portant des drapeaux rouges et noirs.</p>
+<p>Ce passage vient des <em>Mémoires</em> de Louise Michel, publiées en 1886. Il est écrit après l'enterrement de Jules Vallès, ancien communard et écrivain, en février 1885 : une foule immense suit le cercueil à travers Paris, avec des drapeaux rouges et noirs, et des bagarres éclatent avec la police. À l'époque, toute la France officielle parle de « revanche » contre l'Allemagne, qui a pris l'Alsace et la Moselle en 1871.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La révolution est la seule issue. La répression, loin d'éteindre la contestation, la renforce. Chacun doit choisir son camp.</p>
+<p>La seule vraie revanche, c'est la révolution. La répression, loin d'éteindre la contestation, la renforce. Chacune et chacun doit choisir son camp.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Une méditation sur la mort, sans au-delà.</li>
-<li>Sortir de sa classe et choisir son camp.</li>
-<li>Le cortège de Vallès n'est qu'un début.</li>
-<li>La cruauté des gouvernements précipite le soulèvement.</li>
-<li>La vraie revanche n'est pas contre la Prusse mais contre les despotes.</li>
-<li>Rouge de la liberté, noir des travailleurs en lutte.</li>
+<li><strong>Une méditation sur la mort</strong>, sans au-delà : ce qui reste de nous, c'est ce que nous avons fait pour les autres.</li>
+<li><strong>Sortir de sa classe</strong> et choisir son camp.</li>
+<li><strong>Le cortège de Vallès</strong> n'est qu'un début : une jeunesse nouvelle se lève.</li>
+<li><strong>La cruauté des gouvernements</strong> précipite le soulèvement.</li>
+<li><strong>La vraie revanche</strong> n'est pas contre la Prusse, mais contre les despotes de tous les pays.</li>
+<li><strong>Les couleurs</strong> : le rouge de la liberté, le noir des travailleurs en lutte et en deuil.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>La répression nourrit la révolte.</li><li>Intime et collectif mêlés.</li><li>Lire les <a href="memoires-louise-michel.html">Mémoires</a> en entier.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un extrait</strong> de mémoires, qui gagne à être lu dans son ensemble.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le drapeau rouge et noir, qui flotte encore dans les cortèges, a une longue histoire, et Louise Michel en est l'une des sources. Le refus de la « revanche » nationaliste au profit de la solidarité internationale garde toute sa force face aux discours guerriers.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>La répression nourrit la révolte.</li><li>Intime et collectif mêlés.</li><li>Lire les <a href="memoires-louise-michel.html">Mémoires</a> en entier.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="memoires-louise-michel.html">Les Mémoires de Louise Michel</a><span>Notre fiche sur le livre complet.</span></li>
+<li><a href="betail-patriotique.html">Le Bétail patriotique</a><span>Notre fiche : Libertad contre le patriotisme.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Sa vie.</span></li>
+</ul></section>
+</div>
 
 === anarchie-louise-michel | État & pouvoir | Anarchie | Louise Michel · 1883 | Un court poème en prose : l'anarchie comme espérance, une lampe dans la nuit qui annonce le droit à la place de la force.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en mars 1883 dans <em>La Vengeance anarchiste</em>. Une méditation brève et lyrique plutôt qu'un exposé.</p>
+<p>Ce texte paraît en mars 1883, le mois où Louise Michel mène, drapeau noir en tête, une manifestation de chômeuses et chômeurs à Paris, qui lui vaudra six ans de prison. C'est une méditation brève et lyrique plutôt qu'un exposé : Louise Michel est aussi poétesse, elle a correspondu avec Victor Hugo et écrit des centaines de poèmes.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le mot « anarchie » n'est pas une menace mais une promesse : un temps où la domination ne gouvernera plus les esprits.</p>
+<p>Le mot « anarchie » n'est pas une menace mais une promesse : un temps où la domination ne gouvernera plus les esprits, où le droit remplacera la force.</p>
+
 <h2 id="idees">Les images, dans l'ordre</h2>
 <ol>
-<li>Un mot dur aujourd'hui, doux pour demain.</li>
-<li>L'appétit de pouvoir, instinct qui perdra son emprise.</li>
-<li>La vanité personnelle devenue fierté commune de l'humanité.</li>
-<li>L'étonnement futur d'avoir si longtemps défendu des illusions.</li>
-<li>Une lampe lointaine dans la nuit, une aube qui grandit.</li>
+<li><strong>Un mot dur aujourd'hui</strong>, doux pour demain.</li>
+<li><strong>L'appétit de pouvoir</strong>, instinct ancien qui perdra son emprise.</li>
+<li><strong>La vanité personnelle</strong> devenue fierté commune de l'humanité.</li>
+<li><strong>L'étonnement futur</strong> d'avoir si longtemps défendu des illusions.</li>
+<li><strong>Une lampe lointaine dans la nuit</strong>, une aube qui grandit.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>L'anarchie comme espérance avant d'être un programme.</li><li>Le droit contre la force.</li><li>Une page de poésie militante.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>De la poésie, pas un programme</strong> : à lire pour l'élan, pas pour les arguments.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Ce petit texte rappelle que l'anarchisme est aussi une sensibilité, une espérance qui aide à tenir. Il se prête parfaitement à une lecture à voix haute, en ouverture d'une réunion ou d'une soirée.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>L'anarchie comme espérance avant d'être un programme.</li><li>Le droit contre la force.</li><li>Une page de poésie militante.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="l-anarchie-reclus.html">L'Anarchie</a> de Reclus<span>Notre fiche : la même idée, en discours.</span></li>
+<li><b><cite>Vive Louise Michel !</cite></b>, Sidonie Verhaeghe, Éditions du Croquant, 2021.<span>La poétesse et la militante.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Ses écrits et ses combats.</span></li>
+</ul></section>
+</div>
 
 === les-rapaces | Féminisme & société | Les Rapaces | Louise Michel · 1887 | Un roman inachevé : sous couvert de charité, une marquise dévote livre de jeunes Bretonnes à un réseau de prostitution.
 <h2 id="contexte">Contexte</h2>
-<p>Roman-feuilleton publié en 1887 dans <em>La Révolution cosmopolite</em>, interrompu par l'interdiction du journal. Les « rapaces », ce sont les capitalistes.</p>
+<p>Louise Michel a écrit de nombreux romans, souvent oubliés. <em>Les Rapaces</em> paraît en feuilleton en 1887 dans <em>La Révolution cosmopolite</em>, un journal anarchiste, et s'interrompt quand le journal est interdit. À l'époque, des milliers de jeunes femmes de province, notamment bretonnes, montent à Paris pour être domestiques ; beaucoup finissent dans la misère ou la prostitution. Les « rapaces » du titre, ce sont les capitalistes et leurs complices.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Louise Michel dénonce le commerce des corps et l'hypocrisie d'une bourgeoisie pieuse, couverte par la presse catholique.</p>
+<p>Louise Michel dénonce le commerce des corps et l'hypocrisie d'une bourgeoisie pieuse qui en profite, couverte par la presse catholique. La charité est souvent le masque de l'exploitation.</p>
+
 <h2 id="idees">L'intrigue</h2>
 <ol>
-<li>Une annonce dans un journal religieux attire deux sœurs bretonnes à Paris.</li>
-<li>Une marquise les endort à coups de liqueurs dans ses soirées mondaines.</li>
-<li>Le journal sert de relais au réseau.</li>
-<li>Satire : quatre anarchistes condamnés lourdement pour des œufs pourris.</li>
-<li>Les sœurs s'enfuient ; on les calomnie.</li>
-<li>Elles rentrent brisées ; la fin se tourne vers un petit vacher, image d'une nature libre.</li>
+<li><strong>Le piège</strong> : une annonce dans un journal religieux attire deux sœurs bretonnes à Paris pour une place « honnête ».</li>
+<li><strong>La marquise</strong> les endort à coups de liqueurs dans ses soirées mondaines.</li>
+<li><strong>Le journal</strong> sert de relais au réseau.</li>
+<li><strong>Une satire judiciaire</strong> : quatre anarchistes sont condamnés lourdement pour avoir lancé des œufs pourris, pendant que les vrais criminels dînent en ville.</li>
+<li><strong>La fuite</strong> : les sœurs s'enfuient ; on les calomnie.</li>
+<li><strong>Le retour</strong> : elles rentrent brisées ; la fin se tourne vers un petit vacher, image d'une nature libre.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>La charité comme masque de l'exploitation.</li><li>Presse et Église complices.</li><li>Un roman social inachevé.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un roman inachevé</strong>, écrit vite pour un feuilleton, avec ses facilités : personnages tout bons ou tout mauvais, rebondissements.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La traite des êtres humains, les fausses offres d'emploi qui piègent des femmes migrantes, la respectabilité qui protège les puissants : le roman décrit des mécanismes toujours à l'œuvre. Il montre aussi une Louise Michel romancière, qui voulait toucher un public populaire par le récit.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>La charité comme masque de l'exploitation.</li><li>Presse et Église complices.</li><li>Un roman social inachevé.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a><span>Notre fiche : Goldman sur la prostitution.</span></li>
+<li><b><cite>La Vierge rouge</cite></b>, Xavière Gauthier, Éditions de Paris.<span>La biographie, qui parle aussi de la romancière.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Ses romans et ses écrits.</span></li>
+</ul></section>
+</div>

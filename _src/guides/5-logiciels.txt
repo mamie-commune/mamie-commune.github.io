@@ -51,6 +51,18 @@
 <li>Apprends les <strong>styles</strong> : c'est le plus gros gain de temps dans Writer.</li>
 </ul>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://fr.libreoffice.org" rel="noopener">LibreOffice en français</a><span>Téléchargement, aide et documentation en français.</span></li>
+<li><a href="https://www.libreoffice.org" rel="noopener">LibreOffice</a><span>Le site international de The Document Foundation.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>D'autres logiciels libres de bureautique.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === sauvegardes | Logiciels | Faire des sauvegardes | Pourquoi, quoi, quand, sur quel support et avec quels logiciels libres sauvegarder ses données.
 <h2 id="pourquoi">Pourquoi</h2>
 <p>Tes données peuvent disparaître à tout moment : fausse manip, disque en panne, vol, perte, virus, compte en ligne piraté ou fermé.</p>
@@ -97,6 +109,20 @@
 <p>Les logiciels livrés sur les disques externes ne sont pas libres : ignore-les.</p>
 <div class="note"><p>Si ton ordinateur essaie de démarrer sur le disque de sauvegarde, débranche-le avant l'allumage ou mets le disque interne en premier dans le BIOS.</p></div>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://github.com/linuxmint/timeshift" rel="noopener">Timeshift</a><span>Sauvegarder le système sous Linux.</span></li>
+<li><a href="https://apps.gnome.org/fr/DejaDup/" rel="noopener">Déjà Dup</a><span>Sauvegarder ses fichiers personnels, simplement.</span></li>
+<li><a href="https://www.veracrypt.fr" rel="noopener">VeraCrypt</a><span>Chiffrer un disque de sauvegarde, pour qu'il soit illisible s'il est perdu ou saisi.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://nextcloud.com" rel="noopener">Nextcloud</a><span>Un nuage libre, à héberger soi-même ou chez un CHATON.</span></li>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Des hébergeurs de confiance.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === choisir-un-service | Logiciels | Choisir une application ou un service | Les critères pour trier les outils numériques : à fuir, à éviter, à privilégier.
 <p>Choisir un service n'est jamais neutre : les pratiques des entreprises qui le fabriquent pèsent sur toi, ton entourage et la société.</p>
 
@@ -133,6 +159,16 @@
 
 <h2 id="soutenir">4. Soutenir</h2>
 <p>Quand tu utilises un service libre, gratuit et sans pub, fais un don : c'est ce qui le fait vivre.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>L'annuaire des logiciels libres.</span></li>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Des hébergeurs alternatifs qui respectent une charte éthique.</span></li>
+<li><a href="https://degooglisons-internet.org" rel="noopener">Dégooglisons Internet</a><span>Les alternatives aux services des géants du numérique.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === ressources-associations | Logiciels | Outils libres pour les associations | Gestion, compta, dons, travail collaboratif, communication et hébergement pour les assos, collectifs et petites structures.
 <p>Objectif : garder la main sur tes données et ne dépendre d'aucun éditeur. L'idéal est l'auto-hébergement, si quelqu'un dans le collectif peut l'administrer.</p>
@@ -191,6 +227,22 @@
 <tr><td>Zourit</td><td>dès ≈ 130 €/an, 50 Go</td></tr>
 </tbody></table></div>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://paheko.cloud" rel="noopener">Paheko</a><span>Gestion des membres et comptabilité pour associations, logiciel libre français.</span></li>
+<li><a href="https://www.dolibarr.fr" rel="noopener">Dolibarr</a><span>Un logiciel libre de gestion plus complet.</span></li>
+<li><a href="https://framaforms.org" rel="noopener">Framaforms</a><span>Créer des formulaires sans Google.</span></li>
+<li><a href="https://nextcloud.com" rel="noopener">Nextcloud</a><span>Partager fichiers et agendas.</span></li>
+<li><a href="https://meet.jit.si" rel="noopener">Jitsi Meet</a><span>Des visioconférences sans compte ni installation.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Faire héberger les outils de ton association par un collectif de confiance.</span></li>
+<li><a href="https://mobilizon.org" rel="noopener">Mobilizon</a><span>Annoncer ses événements sans Facebook.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === flux-rss | Logiciels | Suivre des sites par flux RSS | S'abonner à des sites et recevoir les nouveaux articles sans réseau social ni algorithme.
 <h2 id="principe">Le principe</h2>
 <p>Un flux (RSS, Atom) permet de <strong>s'abonner à un site</strong> : chaque nouvel article arrive tout seul dans ton lecteur, sans retourner sur le site et sans algorithme qui trie à ta place. Pour l'audio et la vidéo, on parle de podcast.</p>
@@ -221,3 +273,13 @@
 <tr><td>Partout</td><td>Nextcloud News</td><td>Si tu as un compte Nextcloud</td></tr>
 </tbody></table></div>
 <p>Les agrégateurs en ligne sont pratiques, mais l'hébergeur connaît alors tous tes abonnements.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://freshrss.org" rel="noopener">FreshRSS</a><span>Un lecteur de flux libre, à héberger soi-même ou à utiliser chez un CHATON.</span></li>
+<li><a href="https://www.thunderbird.net/fr/" rel="noopener">Thunderbird</a><span>Il sait aussi lire les flux RSS.</span></li>
+<li><a href="https://f-droid.org" rel="noopener">F-Droid</a><span>Des lecteurs de flux libres pour Android.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

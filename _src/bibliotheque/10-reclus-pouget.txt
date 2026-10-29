@@ -1,154 +1,395 @@
 === anarchie-et-eglise | Individu & morale | L'Anarchie et l'Église | Élisée Reclus · vers 1900 | Combattre sans relâche le pouvoir des Églises, sans haine pour les croyantes et les croyants, et protéger les enfants de toute fabrique d'obéissance.
 <h2 id="contexte">Contexte</h2>
-<p>Paru dans <em>Les Temps nouveaux</em>, dans une France déchirée entre congrégations et bloc républicain, peu avant la séparation des Églises et de l'État.</p>
+<p>Élisée Reclus (1830-1905) est fils de pasteur protestant ; il a lui-même étudié la théologie avant de perdre la foi. Ce texte paraît dans <em>Les Temps nouveaux</em> autour de 1900, dans une France déchirée entre l'Église catholique, encore très puissante (écoles, congrégations, presse), et le bloc républicain anticlérical. L'affaire Dreyfus vient de montrer l'alliance entre l'armée, l'Église et l'antisémitisme. La loi de séparation des Églises et de l'État sera votée en 1905.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La religion asservit par la peur ; l'école, religieuse ou laïque, fabrique des sujets obéissants. Il faut résister par la science et la protection des enfants, sans vengeance ni passivité.</p>
+<p>La religion asservit par la peur ; l'école, qu'elle soit religieuse ou laïque, fabrique des sujets obéissants. Il faut résister par la science et la protection des enfants, sans vengeance ni passivité, et sans haine pour les personnes croyantes.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Détruire la domination de l'institution, respecter la personne.</li>
-<li>Remplacer les croyances par la connaissance.</li>
-<li>Défendre l'enfant contre tous ceux qui le dressent à l'obéissance.</li>
-<li>Pouvoirs religieux et politiques s'entendent pour soumettre.</li>
-<li>Reprendre collectivement les richesses du clergé.</li>
-<li>Opposer au salut individuel un bonheur partagé.</li>
+<li><strong>Distinguer l'institution et la personne</strong> : détruire la domination de l'Église, respecter le croyant ou la croyante.</li>
+<li><strong>Remplacer les croyances par la connaissance</strong>, patiemment, par l'instruction et l'exemple.</li>
+<li><strong>Défendre l'enfant</strong> contre tous ceux qui le dressent à l'obéissance, prêtres comme instituteurs d'État.</li>
+<li><strong>Une alliance des pouvoirs.</strong> Les pouvoirs religieux et politiques s'entendent pour soumettre, même quand ils se disputent en public.</li>
+<li><strong>Reprendre collectivement</strong> les richesses accumulées par le clergé.</li>
+<li><strong>Un bonheur partagé</strong>, ici-bas, contre la promesse d'un salut individuel dans l'au-delà.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Résister sans haine.</li><li>L'éducation, enjeu central.</li><li>À lire avec <a href="douze-preuves.html">Douze preuves</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>L'école laïque aussi ?</strong> Reclus refuse de choisir entre l'école du curé et celle de l'État. Beaucoup de républicains y voyaient une injustice envers l'école publique, qui a pourtant émancipé des millions d'enfants.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>« Résister sans haine » : la formule de Reclus est précieuse à l'heure où la laïcité est souvent brandie contre une partie de la population. Elle rappelle que la critique anarchiste vise le pouvoir des institutions religieuses, et pas les gens qui croient.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Résister sans haine.</li><li>L'éducation, enjeu central.</li><li>À lire avec <a href="douze-preuves.html">Douze preuves</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="dieu-et-l-etat.html">Dieu et l'État</a><span>Notre fiche : Bakounine sur la religion et le pouvoir.</span></li>
+<li><a href="education-integrale.html">L'éducation intégrale</a><span>Notre fiche : l'éducation libertaire.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Libre-pens%C3%A9e" rel="noopener">La libre-pensée</a><span>Le mouvement anticlérical de l'époque.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Francisco_Ferrer" rel="noopener">Francisco Ferrer</a><span>Le pédagogue libertaire fusillé en 1909 à l'instigation de l'Église espagnole.</span></li>
+</ul></section>
+</div>
 
 === vegetarisme | Individu & morale | À propos du végétarisme | Élisée Reclus · 1901 | Tuer pour manger endurcit : le végétarisme comme choix moral de solidarité avec les animaux, sans dogme.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en mars 1901 dans <em>La Réforme alimentaire</em>. Reclus part de souvenirs d'enfance à la campagne, où il a vu abattre des animaux.</p>
+<p>Élisée Reclus est végétarien depuis des décennies, comme plusieurs anarchistes de son temps. Ce texte paraît en mars 1901 dans <em>La Réforme alimentaire</em>, revue de la Société végétarienne de France. Reclus part de souvenirs d'enfance dans la campagne du Sud-Ouest, où il a vu tuer un cochon et en a été bouleversé.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Manger de la viande dégrade animaux et humains : l'habitude de tuer endurcit et prépare à la violence. Il faut reconnaître la parenté entre humains et bêtes, sans faire du végétarisme une religion.</p>
+<p>Manger de la viande dégrade les animaux comme les humains : l'habitude de tuer et de voir tuer endurcit et prépare à la violence. Il faut reconnaître la parenté entre humains et bêtes, sans faire du végétarisme une religion ni un sujet de mépris.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Une révolte d'enfance devant l'abattage.</li>
-<li>L'élevage déforme les animaux en masses de chair.</li>
-<li>La brutalité envers les bêtes rejoint celle des guerres coloniales.</li>
-<li>Les végétariens ne sont ni faibles ni fanatiques.</li>
-<li>Rendre la vie plus belle, chacun à sa mesure.</li>
+<li><strong>Une révolte d'enfance</strong> devant l'abattage, que les adultes ont tenté d'étouffer.</li>
+<li><strong>Des animaux déformés.</strong> L'élevage transforme les animaux en masses de chair, sélectionnés pour engraisser.</li>
+<li><strong>Une même brutalité.</strong> La cruauté envers les bêtes rejoint celle des guerres coloniales : on s'habitue à tuer.</li>
+<li><strong>Ni faibles ni fanatiques.</strong> Reclus répond aux moqueries : les végétariennes et végétariens ne sont pas des malades, et ne veulent rien imposer.</li>
+<li><strong>Rendre la vie plus belle</strong>, chacune et chacun à sa mesure, par des choix cohérents.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Un choix moral et esthétique.</li><li>Violence envers les animaux et entre humains liées.</li><li>Un précurseur de l'antispécisme.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un argument surtout moral et esthétique.</strong> Les questions écologiques et sanitaires de l'élevage industriel, centrales aujourd'hui, n'existaient pas encore sous cette forme.</li>
+<li><strong>Le végétarisme n'a jamais fait l'unanimité</strong> chez les anarchistes, qui y voient parfois une affaire de choix personnel plutôt qu'un combat collectif.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Élevage industriel, abattoirs filmés en caméra cachée, crise climatique : la question animale est devenue un grand débat de société. Reclus est souvent cité comme un précurseur de l'antispécisme et de l'écologie sociale. Son refus du dogmatisme reste une bonne boussole dans des débats parfois très tendus.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Un choix moral et esthétique.</li><li>La violence envers les animaux et entre humains sont liées.</li><li>Un précurseur de l'antispécisme.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="la-grande-famille.html">La Grande Famille</a><span>Notre fiche : Reclus sur les humains et les animaux.</span></li>
+<li><a href="sentiment-de-la-nature.html">Du sentiment de la nature</a><span>Notre fiche : Reclus écologiste.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Le géographe végétarien.</span></li>
+</ul></section>
+</div>
 
 === esclavage-aux-etats-unis | Histoire & luttes | De l'esclavage aux États-Unis | Élisée Reclus · 1860 | Le jeune Reclus, de retour de Louisiane, démonte le système esclavagiste : lois, Églises et violence au service de la domination.
 <h2 id="contexte">Contexte</h2>
-<p>Écrit autour de l'élection de Lincoln en 1860. Reclus a vécu en Louisiane quelques années plus tôt ; il s'appuie sur les codes noirs, les décrets et des témoignages.</p>
+<p>Après le coup d'État de 1851, le jeune Reclus quitte la France. Il vit plusieurs années en Louisiane, où il est précepteur dans une plantation : il voit l'esclavage de ses propres yeux, et en garde une horreur définitive. Il écrit cette étude pour la <em>Revue des Deux Mondes</em> en 1860, l'année de l'élection d'Abraham Lincoln, qui précipite la sécession des États du Sud et la guerre civile. Il s'appuie sur les « codes noirs » des États du Sud, les décrets et des témoignages.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'esclavage nie l'humanité des esclaves et abîme aussi les maîtres. Le droit du Sud n'est qu'un habillage de l'arbitraire ; l'émancipation est une condition du progrès commun.</p>
+<p>L'esclavage nie l'humanité des personnes esclavisées et abîme aussi les maîtres. Le droit du Sud n'est qu'un habillage juridique de l'arbitraire et de la violence ; l'émancipation est une condition du progrès commun.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Les codes noirs font de l'esclave un bien meuble sans aucun droit.</li>
-<li>Les Noirs libres subissent une répression croissante.</li>
-<li>Les châtiments dépendent du coût pour le maître ; ce sont des propriétaires qui jugent.</li>
-<li>Le discours paternaliste masque l'avilissement.</li>
-<li>Familles brisées par les ventes ; Églises qui prêchent la soumission.</li>
-<li>Le système corrompt les maîtres ; une insurrection pourrait y mettre fin.</li>
+<li><strong>Un bien meuble.</strong> Les codes noirs font de l'esclave une chose qu'on vend, qu'on loue, qu'on lègue, sans aucun droit.</li>
+<li><strong>Les Noirs libres</strong> subissent une répression croissante : interdictions de circuler, d'apprendre à lire, menaces d'être réduits en esclavage.</li>
+<li><strong>Une justice de propriétaires.</strong> Les châtiments dépendent de ce qu'ils coûtent au maître ; ce sont des propriétaires qui jugent.</li>
+<li><strong>Le mensonge paternaliste.</strong> Le discours sur les « bons maîtres » masque l'avilissement.</li>
+<li><strong>Familles brisées</strong> par les ventes, Églises qui prêchent la soumission au nom de la Bible.</li>
+<li><strong>Un système qui corrompt</strong> tout le monde ; seule une insurrection ou une rupture pourrait y mettre fin.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>L'esclavage déshumanise les deux côtés.</li><li>La loi comme vernis de l'arbitraire.</li><li>Voir aussi <a href="john-brown.html">John Brown</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un regard extérieur.</strong> Reclus parle des personnes esclavisées avec indignation, mais peu avec leurs propres mots. Les récits d'anciens esclaves, comme celui de Frederick Douglass, sont indispensables pour compléter.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'esclavage colonial et ses héritages (racisme, inégalités, mémoire) sont au cœur de grands débats, des États-Unis aux Antilles françaises. La France a reconnu en 2001 l'esclavage comme crime contre l'humanité. Le texte de Reclus montre qu'un jeune Français pouvait, dès 1860, le dénoncer sans détour.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>L'esclavage déshumanise les deux côtés.</li><li>La loi comme vernis de l'arbitraire.</li><li>Voir aussi <a href="john-brown.html">John Brown</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Mémoires d'un esclave</cite></b>, Frederick Douglass, 1845.<span>Le récit d'un homme qui s'est libéré lui-même, devenu grand abolitionniste.</span></li>
+<li><a href="john-brown.html">John Brown</a><span>Notre fiche : l'hommage de Reclus à l'abolitionniste.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Ses années en Louisiane.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/John_Brown" rel="noopener">John Brown</a><span>L'abolitionniste pendu en 1859.</span></li>
+</ul></section>
+</div>
 
 === la-grande-famille | Individu & morale | La Grande Famille | Élisée Reclus · 1897 | Le progrès a coûté notre alliance avec les animaux : retrouver avec eux une relation de compagnie plutôt que de domination.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en janvier 1897 dans <em>Le Magazine international</em>. Reclus interroge la foi moderne dans le progrès.</p>
+<p>Reclus publie ce texte en janvier 1897 dans <em>Le Magazine international</em>. À la fin du XIXe siècle, la foi dans le progrès est immense : chemins de fer, électricité, médecine, conquêtes coloniales. Reclus, savant enthousiaste du progrès, veut pourtant montrer ce qu'il a coûté, en particulier dans notre relation aux animaux.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'humain s'est éloigné de la nature et de ses compagnons animaux. Une société solidaire pourrait faire des bêtes des compagnes et compagnons, et non des instruments.</p>
+<p>L'humain s'est éloigné de la nature et de ses compagnons animaux. Une société solidaire pourrait faire des bêtes des compagnes et compagnons de vie, et non de simples instruments ou de la viande.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Chaque progrès s'accompagne d'une perte.</li>
-<li>Les peuples anciens voyaient les animaux comme des associés.</li>
-<li>L'élevage moderne, tourné vers la viande et la soumission, fragilise les bêtes.</li>
-<li>La chasse et la destruction des espèces sauvages sont une barbarie.</li>
-<li>Chiens et chats montrent des sensibilités proches des nôtres.</li>
-<li>L'entraide peut devenir une amitié entre espèces.</li>
+<li><strong>Chaque progrès s'accompagne d'une perte.</strong> Il faut savoir les compter.</li>
+<li><strong>Des associés.</strong> Les peuples anciens voyaient les animaux comme des associés, parfois des parents.</li>
+<li><strong>L'élevage moderne</strong>, tourné vers la viande et la soumission, fragilise les bêtes et les rend dépendantes.</li>
+<li><strong>La chasse</strong> et la destruction des espèces sauvages sont une barbarie.</li>
+<li><strong>Des sensibilités proches.</strong> Chiens, chats, chevaux montrent des émotions et une intelligence proches des nôtres.</li>
+<li><strong>L'entraide entre espèces</strong> peut devenir une véritable amitié.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Progrès matériel n'est pas progrès moral.</li><li>L'entraide s'étend aux autres espèces.</li><li>À lire avec <a href="vegetarisme.html">À propos du végétarisme</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une vision parfois idyllique</strong> des relations entre humains et animaux chez les « peuples anciens », qui n'étaient pas tous tendres avec eux.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Effondrement de la biodiversité, sixième extinction des espèces, recherches sur la sensibilité et l'intelligence animales : le texte de Reclus semble écrit pour notre époque. Il rejoint les réflexions actuelles sur nos liens avec le vivant.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Progrès matériel n'est pas progrès moral.</li><li>L'entraide s'étend aux autres espèces.</li><li>À lire avec <a href="vegetarisme.html">À propos du végétarisme</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="entraide.html">L'Entraide, un facteur de l'évolution</a><span>Notre fiche : Kropotkine sur la coopération entre animaux.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Sa pensée écologique.</span></li>
+</ul></section>
+</div>
 
 === l-ideal-et-la-jeunesse | Individu & morale | L'Idéal et la jeunesse | Élisée Reclus · 1894 | Aux étudiantes et aux étudiants : refusez le découragement et l'esprit de carrière, mettez votre énergie au service d'une société libre.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en juin 1894 dans <em>La Société nouvelle</em>. Reclus constate que l'engagement des étudiants a faibli depuis les générations romantiques et républicaines.</p>
+<p>Reclus publie ce texte en juin 1894 dans <em>La Société nouvelle</em>, la revue belge où il écrit souvent. Il vient de s'installer à Bruxelles pour enseigner dans une université libre. Il constate que l'engagement des étudiantes et étudiants a faibli depuis les générations romantiques et républicaines de sa jeunesse : la carrière, le scepticisme et l'ironie ont remplacé l'enthousiasme.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Il n'y a que deux horizons : l'obéissance à une autorité, ou la libération complète. La jeunesse doit choisir la seconde, contre le scepticisme, la carrière et une école qui affaiblit corps et volontés.</p>
+<p>Il n'y a que deux horizons : l'obéissance à une autorité, ou la libération complète. La jeunesse doit choisir la seconde, contre le scepticisme, l'esprit de carrière et une école qui affaiblit les corps et les volontés.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Les réformes intermédiaires ne sont que des expédients.</li>
-<li>Le pessimisme des jeunes est une mort morale.</li>
-<li>La terre peut nourrir tout le monde.</li>
-<li>L'école transforme le savoir en récitation et abîme la santé.</li>
-<li>L'argent et les carrières corrompent.</li>
-<li>L'enthousiasme orienté vers la solidarité peut tout entreprendre.</li>
+<li><strong>Pas de demi-mesures.</strong> Les réformes intermédiaires ne sont que des expédients.</li>
+<li><strong>Le pessimisme</strong> des jeunes est une mort morale avant l'heure.</li>
+<li><strong>L'abondance est possible</strong> : la terre peut nourrir tout le monde.</li>
+<li><strong>L'école</strong> transforme le savoir en récitation, épuise et abîme la santé.</li>
+<li><strong>L'argent et la carrière</strong> corrompent les meilleures intentions.</li>
+<li><strong>L'enthousiasme</strong>, orienté vers la solidarité, peut tout entreprendre.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>L'idéal contre le compromis.</li><li>Agir par dévouement plutôt que par intérêt.</li><li>Le pendant de <a href="aux-jeunes-gens.html">Aux jeunes gens</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Tout ou rien ?</strong> Le refus des réformes intermédiaires est discuté : Reclus lui-même soutenait des coopératives et des universités populaires.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Éco-anxiété, découragement, pression de la réussite scolaire : la jeunesse actuelle connaît bien les maux que décrit Reclus. Les mobilisations de jeunes pour le climat, ou les diplômées et diplômés qui refusent les carrières destructrices, montrent que son appel trouve encore un écho.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>L'idéal contre le compromis.</li><li>Agir par dévouement plutôt que par intérêt.</li><li>Le pendant de <a href="aux-jeunes-gens.html">Aux jeunes gens</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="aux-jeunes-gens.html">Aux jeunes gens</a><span>Notre fiche : l'appel de Kropotkine, quatorze ans plus tôt.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>L'Université nouvelle de Bruxelles.</span></li>
+</ul></section>
+</div>
 
 === john-brown | Histoire & luttes | John Brown | Élisée Reclus · vers 1860 | Le portrait de l'abolitionniste qui passa de la conviction à l'action armée contre l'esclavage, jusqu'à Harpers Ferry.
 <h2 id="contexte">Contexte</h2>
-<p>Reclus rend hommage à John Brown, fermier du Nord des États-Unis, pendu en 1859 après le raid de Harpers Ferry. Il appelle aussi à soutenir sa veuve et ses proches.</p>
+<p>En octobre 1859, John Brown, fermier blanc du Nord des États-Unis, mène avec une vingtaine d'hommes, Noirs et Blancs, une attaque contre l'arsenal fédéral de Harpers Ferry, en Virginie, pour armer les esclaves et déclencher un soulèvement. Le raid échoue ; Brown est pendu le 2 décembre 1859. En Europe, sa mort émeut : Victor Hugo écrit une lettre célèbre pour demander sa grâce. Le jeune Reclus, qui revient d'Amérique, lui rend hommage et appelle à soutenir sa veuve et ses proches.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Brown fut le protecteur des faibles ; son exemple a nourri la lutte abolitionniste jusqu'à la guerre de Sécession.</p>
+<p>John Brown fut le protecteur des faibles. Il a refusé d'attendre que les lois changent pour combattre la servitude, et son exemple a nourri la lutte abolitionniste jusqu'à la guerre de Sécession.</p>
+
 <h2 id="idees">Le parcours</h2>
 <ol>
-<li>Une vie de travail guidée par un sens aigu de la justice.</li>
-<li>La découverte de l'esclavage comme négation de l'humanité.</li>
-<li>Le réseau de fuite vers le Canada.</li>
-<li>Les combats du Kansas.</li>
-<li>Le projet de soulèvement à partir de l'arsenal de Harpers Ferry.</li>
+<li><strong>Une vie de travail</strong>, modeste, guidée par un sens aigu de la justice et une foi religieuse intense.</li>
+<li><strong>L'esclavage</strong> découvert comme la négation même de l'humanité.</li>
+<li><strong>Le chemin de fer souterrain</strong> : il aide des esclaves en fuite à gagner le Canada.</li>
+<li><strong>Les combats du Kansas</strong>, où partisans et adversaires de l'esclavage s'affrontent les armes à la main.</li>
+<li><strong>Harpers Ferry</strong> : le projet de soulèvement à partir de l'arsenal, l'échec, le procès où il reste digne, la pendaison.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>De la conviction morale à l'action.</li><li>Ne pas attendre pour combattre la servitude.</li><li>Évoqué aussi par <a href="de-l-action-directe.html">Voltairine de Cleyre</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>La violence de Brown</strong>, notamment les exécutions de colons esclavagistes au Kansas en 1856, divise encore les historiens : héros, fanatique, ou les deux ?</li>
+<li><strong>Un hommage</strong>, pas une biographie critique.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>John Brown reste une figure discutée aux États-Unis, et une référence pour les mouvements antiracistes qui rappellent que l'abolition a été obtenue par la lutte, et pas seulement par des lois. Son cas pose une question toujours actuelle : que faire quand la loi elle-même protège l'injustice ?</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>De la conviction morale à l'action.</li><li>Ne pas attendre pour combattre la servitude.</li><li>Évoqué aussi par <a href="de-l-action-directe.html">Voltairine de Cleyre</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="esclavage-aux-etats-unis.html">De l'esclavage aux États-Unis</a><span>Notre fiche : Reclus sur le système esclavagiste.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/John_Brown" rel="noopener">John Brown sur Wikipédia</a><span>Sa vie et le raid de Harpers Ferry.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/D%C3%A9sob%C3%A9issance_civile" rel="noopener">La désobéissance civile</a><span>Thoreau a défendu Brown dans un plaidoyer célèbre.</span></li>
+</ul></section>
+</div>
 
 === le-1er-mai | Action directe & syndicalisme | Le 1er Mai | Émile Pouget · 1891 | Pas de pétitions ni de bals : faire du 1er Mai une journée de lutte dans la rue, sans politiciens.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en avril 1891 dans <em>Le Père Peinard</em>, aux premières années du 1er Mai international, quelques jours avant la fusillade de Fourmies. Pouget écrit dans la langue populaire et argotique qui fait le succès de son journal.</p>
+<p>Le 1er Mai a une origine anarchiste. Le 1er mai 1886, à Chicago, une grève pour la journée de huit heures dégénère : le 4 mai, une bombe explose lors d'un rassemblement à Haymarket Square. Sans preuve, huit anarchistes sont condamnés ; quatre sont pendus en 1887. En 1889, les socialistes réunis à Paris décident de faire du 1er Mai une journée internationale de lutte pour les huit heures.</p>
+<p>Pouget publie ce texte en avril 1891 dans <em>Le Père Peinard</em>, dans la langue argotique qui fait le succès de son journal. Quelques jours plus tard, le 1er mai 1891, à Fourmies dans le Nord, la troupe tire sur des manifestants : neuf morts, dont deux enfants et des jeunes femmes.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le 1er Mai ne doit pas devenir une cérémonie encadrée par des élus. Le peuple doit se faire entendre directement, dans la rue, et les soldats, fils d'ouvriers, peuvent refuser de tirer.</p>
+<p>Le 1er Mai ne doit pas devenir une cérémonie encadrée par des élus, avec pétitions et bals. Le peuple doit se faire entendre directement, dans la rue. Et les soldats, fils d'ouvriers, peuvent refuser de tirer.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Une date reconnue par tous les exploités, en ville comme à la campagne.</li>
-<li>Salles, pétitions et bals ne changent rien.</li>
-<li>La rue, seul lieu de la décision collective.</li>
-<li>Les soldats peuvent rejoindre le mouvement.</li>
-<li>La misère des familles rend l'action urgente.</li>
-<li>Ne pas rentrer chez soi après le premier jour.</li>
+<li><strong>Une date commune</strong> à tous les exploités, en ville comme à la campagne, dans tous les pays.</li>
+<li><strong>Ni salles ni pétitions</strong> : les meetings polis et les bals ne changent rien.</li>
+<li><strong>La rue</strong>, seul lieu de la décision collective.</li>
+<li><strong>Les soldats</strong> peuvent rejoindre le mouvement, s'ils se souviennent d'où ils viennent.</li>
+<li><strong>L'urgence</strong> : la misère des familles rend l'action nécessaire tout de suite.</li>
+<li><strong>Ne pas rentrer chez soi</strong> après le premier jour : faire durer.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Une journée de lutte autonome.</li><li>La rue comme lieu de décision.</li><li>Le style du <em>Père Peinard</em>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>L'appel à rester dans la rue</strong> sans organisation solide peut exposer les manifestants à une répression sanglante, comme à Fourmies quelques jours plus tard.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le 1er Mai est devenu « fête du Travail », jour férié, souvent ritualisé. Le texte de Pouget rappelle d'où il vient : une journée de lutte pour réduire le temps de travail, née de la mort d'anarchistes à Chicago. La revendication de réduire le temps de travail, elle, n'a jamais cessé.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Une journée de lutte autonome.</li><li>La rue comme lieu de décision.</li><li>Le style du <em>Père Peinard</em>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="l-action-directe-pouget.html">L'Action directe</a><span>Notre fiche : la doctrine de Pouget.</span></li>
+<li><a href="fabrication-d-une-anarchiste.html">La Fabrication d'une anarchiste</a><span>Notre fiche : comment les martyrs de Chicago ont fait basculer Voltairine de Cleyre.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/F%C3%AAte_des_travailleurs" rel="noopener">Le 1er Mai sur Wikipédia</a><span>L'histoire de la journée, de Chicago à aujourd'hui.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Fusillade_de_Fourmies" rel="noopener">La fusillade de Fourmies</a><span>Le 1er mai 1891.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Le_P%C3%A8re_Peinard" rel="noopener">Le Père Peinard</a><span>Le journal de Pouget.</span></li>
+</ul></section>
+</div>
 
 === lois-scelerates | État & pouvoir | Les Lois scélérates de 1893-1894 | Francis de Pressensé, Émile Pouget et un juriste · 1899 | Trois lois d'exception votées contre les anarchistes punissent des opinions et des conversations : un précédent contre toute opposition.
 <h2 id="contexte">Contexte</h2>
-<p>Après les attentats de 1893-1894 et l'assassinat du président Carnot, trois lois sont votées en quelques jours. Ce recueil réunit trois articles parus en 1898-1899 dans <em>La Revue blanche</em> : une analyse politique, un examen juridique, et le recensement des procès.</p>
+<p>De 1892 à 1894, une série d'attentats anarchistes secoue la France : Ravachol, puis Auguste Vaillant qui jette une bombe dans la Chambre des députés en décembre 1893 (sans tuer personne), Émile Henry au café Terminus, et enfin l'assassinat du président Sadi Carnot à Lyon en juin 1894. Les députés votent trois lois en quelques jours : en décembre 1893, puis en juillet 1894.</p>
+<p>Ce recueil réunit trois articles parus en 1898-1899 dans <em>La Revue blanche</em>, en pleine affaire Dreyfus : une analyse politique de Francis de Pressensé, futur président de la Ligue des droits de l'homme ; un examen juridique signé « un juriste », qui était en fait le jeune Léon Blum ; et le recensement des procès par Émile Pouget.</p>
+
 <h2 id="these">La thèse</h2>
 <p>Ces lois renversent les principes du droit : elles punissent des opinions et des personnes plutôt que des actes, et ouvrent la voie à l'arbitraire. Elles doivent être abrogées.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Un vote dans la précipitation, sous la pression du gouvernement.</li>
-<li>La notion floue d'« entente » permet de condamner une conversation ou l'hébergement d'un inconnu.</li>
-<li>Visant les anarchistes, elles peuvent frapper socialistes et républicains.</li>
-<li>Dans les procès, chansons et fêtes de famille servent de preuves.</li>
-<li>La police ruine les suspects en les dénonçant à leurs employeurs.</li>
+<li><strong>Un vote précipité</strong>, sous la pression du gouvernement et dans l'émotion.</li>
+<li><strong>Le délit d'« entente ».</strong> La notion floue d'« association de malfaiteurs » permet de condamner une conversation, une lettre, ou l'hébergement d'un inconnu.</li>
+<li><strong>La provocation</strong> et même l'« apologie » deviennent des délits : un article, une chanson suffisent.</li>
+<li><strong>Un précédent.</strong> Visant les anarchistes, elles peuvent frapper socialistes, syndicalistes et républicains.</li>
+<li><strong>Des procès absurdes</strong> : chansons et fêtes de famille servent de preuves. Lors du « procès des Trente », on juge ensemble des intellectuels et des cambrioleurs pour fabriquer une « association ».</li>
+<li><strong>La ruine des suspects</strong> : la police les dénonce à leurs employeurs et à leurs logeurs.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Une loi d'exception crée toujours un précédent.</li><li>L'arbitraire se nourrit de notions vagues.</li><li>Une partie de ces lois est restée en vigueur jusqu'en 1992.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte engagé</strong>, qui ne discute pas la question des attentats eux-mêmes, et des victimes qu'ils ont faites.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Les dernières dispositions des lois scélérates n'ont été abrogées qu'en 1992. Mais leur logique a survécu : le délit d'« association de malfaiteurs », les lois antiterroristes qui sanctionnent des intentions, les interdictions de manifester, les dissolutions d'associations. Des militantes et militants écologistes ou anarchistes ont été poursuivis ces dernières années sur ces bases. Le texte de 1899 donne les clés pour reconnaître une loi d'exception.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Une loi d'exception crée toujours un précédent.</li><li>L'arbitraire se nourrit de notions vagues.</li><li>Une partie de ces lois est restée en vigueur jusqu'en 1992.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les Anarchistes contre la République</cite></b>, Vivien Bouhey, Presses universitaires de Rennes, 2008.<span>Les années des attentats et de la répression.</span></li>
+<li><a href="../manif/legal-team.html">Notre guide : tes droits en manif</a><span>Ce qu'il faut savoir face à la police et à la justice aujourd'hui.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Lois_sc%C3%A9l%C3%A9rates" rel="noopener">Les lois scélérates sur Wikipédia</a><span>Leur contenu et leur histoire.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_Trente" rel="noopener">Le procès des Trente</a><span>L'application la plus célèbre.</span></li>
+<li><a href="https://www.ldh-france.org" rel="noopener">Ligue des droits de l'Homme</a><span>Fondée pendant l'affaire Dreyfus, elle suit toujours les lois d'exception.</span></li>
+</ul></section>
+</div>
 
 === patron-assassin | Féminisme & société | Patron assassin | Émile Pouget · 1893 | Deux ouvrières de 17 ans se noient pour échapper à un patron harceleur : Pouget désigne le vrai meurtrier.
 <h2 id="contexte">Contexte</h2>
-<p>Paru le 4 juin 1893 dans <em>Le Père Peinard</em>, après le suicide de deux jeunes ouvrières de bonneterie près de Troyes.</p>
+<p>Le 4 juin 1893, <em>Le Père Peinard</em> raconte un drame survenu près de Troyes, capitale de la bonneterie : deux jeunes ouvrières de 17 ans se sont noyées ensemble. L'une était enceinte de son patron, l'autre avait été renvoyée pour l'avoir repoussé. À l'époque, le « droit de cuissage » des contremaîtres et des patrons sur les ouvrières est une réalité courante, dont on parle peu.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le patron qui impose sa domination sexuelle à ses ouvrières est un meurtrier, et c'est tout un système qui lui garantit l'impunité. Pouget regrette que la révolte n'ait pas visé l'agresseur.</p>
+<p>Le patron qui impose sa domination sexuelle à ses ouvrières est un meurtrier, et c'est tout un système qui lui garantit l'impunité : la dépendance économique, la honte, la justice de classe. Pouget regrette que la révolte des deux jeunes femmes se soit retournée contre elles, et non contre l'agresseur.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Le récit du drame : une jeune femme enceinte, son amie renvoyée pour avoir repoussé le patron.</li>
-<li>Le patron exerce un « droit » sexuel par la force et le chantage.</li>
-<li>La spirale du désespoir.</li>
-<li>Il aurait fallu se retourner contre l'oppresseur.</li>
-<li>La résignation tue ; la colère vise l'ennemi.</li>
+<li><strong>Le récit du drame</strong> : une jeune femme enceinte, son amie renvoyée pour avoir dit non.</li>
+<li><strong>Un « droit » de patron</strong> : il exerce sa domination sexuelle par la force et le chantage à l'emploi.</li>
+<li><strong>La spirale du désespoir</strong> : honte, misère, isolement.</li>
+<li><strong>Désigner le coupable.</strong> Il aurait fallu se retourner contre l'oppresseur.</li>
+<li><strong>La résignation tue</strong> ; la colère doit viser l'ennemi.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Le harcèlement sexuel comme exploitation de classe.</li><li>Ne pas accuser les victimes.</li><li>Un sujet que le mouvement ouvrier abordait peu en 1893.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un ton brutal</strong>, typique du <em>Père Peinard</em>, qui appelle à la vengeance. On peut préférer d'autres réponses, collectives.</li>
+<li><strong>Une voix d'homme</strong> parle pour des femmes mortes. Les ouvrières elles-mêmes mèneront plus tard des grèves contre le harcèlement, comme celle des porcelainières de Limoges en 1905.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Depuis #MeToo, le harcèlement sexuel au travail est enfin un sujet public. Ce texte de 1893 montre qu'il a toujours été aussi une affaire de pouvoir économique : le chantage à l'emploi rend la parole impossible. Les syndicats et collectifs féministes en font aujourd'hui un terrain de lutte à part entière.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Le harcèlement sexuel comme exploitation de classe.</li><li>Ne pas accuser les victimes.</li><li>Un sujet que le mouvement ouvrier abordait peu en 1893.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a><span>Notre fiche : Goldman sur le corps des femmes et l'argent.</span></li>
+<li><a href="les-rapaces.html">Les Rapaces</a><span>Notre fiche : le roman de Louise Michel sur le même thème.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Le_P%C3%A8re_Peinard" rel="noopener">Le Père Peinard</a><span>Le journal de Pouget.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarcha-f%C3%A9minisme" rel="noopener">L'anarcha-féminisme</a><span>Le combat contre les dominations, au travail comme ailleurs.</span></li>
+</ul></section>
+</div>
 
 === barbarie-francaise | Histoire & luttes | Barbarie française | Émile Pouget · 1890 | Un chef rebelle tonkinois promené en cage puis décapité : la « mission civilisatrice » vue par Le Père Peinard.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1890 dans <em>Le Père Peinard</em>, l'année qui suit les fêtes du centenaire de 1789. L'exécution publique du chef rebelle Doi Van à Hanoï sert de point de départ.</p>
+<p>En 1890, la France achève la conquête de l'Indochine. Au Tonkin (le nord du Viêt Nam actuel), la résistance armée continue. L'exécution publique d'un chef rebelle, Doi Van, à Hanoï, mise en scène pour terroriser la population, sert de point de départ à cet article du <em>Père Peinard</em>. L'année précédente, la République a célébré en grande pompe le centenaire de 1789 et inauguré la tour Eiffel pendant l'Exposition universelle, avec ses « villages indigènes » où l'on exhibait des personnes colonisées.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La République qui prétend civiliser ne répand que la barbarie : pillages, viols, exécutions-spectacles. C'est la même férocité que contre les communards en 1871.</p>
+<p>La République qui prétend « civiliser » ne répand que la barbarie : pillages, viols, exécutions-spectacles. C'est la même férocité que celle exercée contre les communards en 1871.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>La « mission civilisatrice » enrichit la finance.</li>
-<li>L'exécution de Doi Van, mise en scène pour terroriser.</li>
-<li>Les insurgés défendent leur pays contre un envahisseur.</li>
-<li>Ironie sur le centenaire : la tête aurait dû être exposée à la tour Eiffel.</li>
-<li>La République reprend les méthodes de Versailles.</li>
+<li><strong>La « mission civilisatrice »</strong> sert surtout à enrichir la finance et les compagnies coloniales.</li>
+<li><strong>L'exécution de Doi Van</strong>, mise en scène pour terroriser.</li>
+<li><strong>Des patriotes</strong> : les insurgés défendent leur pays contre un envahisseur, comme les Français l'auraient fait.</li>
+<li><strong>Ironie sur le centenaire</strong> : la tête du supplicié aurait dû être exposée en haut de la tour Eiffel, pour compléter l'Exposition.</li>
+<li><strong>Versailles continue</strong> : la République reprend contre les colonisés les méthodes employées contre la Commune.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Un anticolonialisme précoce.</li><li>La violence d'État ne change pas de nature.</li><li>À lire avec <a href="prise-de-possession.html">Louise Michel</a>, qui évoque la même exécution.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un article de colère</strong>, en argot, qui demande parfois un peu d'effort de lecture.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'histoire coloniale française et ses violences restent un sujet de débats brûlants (Algérie, Indochine, Madagascar, Kanaky). Ce texte rappelle qu'à l'époque même, des voix françaises dénonçaient ces crimes : les anarchistes ont été parmi les tout premiers anticolonialistes.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Un anticolonialisme précoce.</li><li>La violence d'État ne change pas de nature.</li><li>À lire avec <a href="prise-de-possession.html">Louise Michel</a>, qui évoque la même exécution.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="la-colonisation.html">La Colonisation</a><span>Notre fiche : Jean Grave contre le colonialisme.</span></li>
+<li><b><cite>Le Mouvement anarchiste en France</cite></b>, Jean Maitron, Gallimard, collection Tel.<span>La grande histoire du mouvement, antimilitarisme et anticolonialisme compris.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Le_P%C3%A8re_Peinard" rel="noopener">Le Père Peinard</a><span>Le journal de Pouget.</span></li>
+</ul></section>
+</div>

@@ -1,47 +1,81 @@
-=== l-action-directe-pouget | Action directe & syndicalisme | L'Action directe | Émile Pouget · 1904 | L'émancipation des travailleurs sera l'œuvre des travailleurs eux-mêmes, organisés dans leurs syndicats, sans intermédiaire.
+=== l-action-directe-pouget | Action directe & syndicalisme | L'Action directe | Émile Pouget · 1904 | L'émancipation des travailleuses et travailleurs sera leur œuvre à eux-mêmes, organisés dans leurs syndicats, sans intermédiaire.
 <h2 id="contexte">Contexte</h2>
-<p>Brochure de 1904, dans la « Bibliothèque de documentation syndicale ». Pouget est l'une des têtes du syndicalisme révolutionnaire de la CGT naissante. Le débat du moment : faut-il passer par les partis et le Parlement, ou agir directement ?</p>
+<p>Émile Pouget (1860-1931) est employé de magasin à Paris quand il fonde, à 19 ans, le premier syndicat des employés. Anarchiste, il lance en 1889 <em>Le Père Peinard</em>, un journal écrit en argot des faubourgs, drôle et féroce, qui connaît un grand succès. Poursuivi lors du « procès des Trente » en 1894, il s'exile à Londres puis revient en France.</p>
+<p>Il pousse alors les anarchistes à entrer dans les syndicats, plutôt que de rester entre eux. Il devient l'un des dirigeants de la CGT et le rédacteur de son journal, <em>La Voix du peuple</em>. Cette brochure est l'un des textes de doctrine du syndicalisme révolutionnaire, à un moment où le débat fait rage : faut-il passer par les partis et le Parlement, ou agir directement ?</p>
 
 <h2 id="these">La thèse</h2>
-<p>L'action directe, c'est l'action des travailleuses et travailleurs par eux-mêmes, contre le patronat, sans représentant ni État. Son horizon : la disparition du patron dans l'atelier.</p>
+<p>L'action directe, c'est l'action des travailleuses et travailleurs par eux-mêmes, contre le patronat, sans représentant ni État. Elle n'est pas forcément violente : elle se définit par l'absence d'intermédiaire. Son horizon : la disparition du patron dans l'atelier.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Définition</strong> : l'action directe est l'expression même du syndicalisme de combat.</li>
-<li><strong>Contre la délégation</strong> : la démocratie représentative endort l'initiative ; l'action économique la réveille.</li>
-<li><strong>Le syndicat éduque</strong> : il donne confiance, esprit d'initiative et sens collectif.</li>
-<li><strong>L'expropriation progressive</strong> : chaque lutte arrache un peu au capital, jusqu'à ce que les syndicats prennent en main la production.</li>
-<li><strong>Le présent compte</strong> : la révolution se prépare dans les luttes quotidiennes, sans sacrifier aujourd'hui à demain.</li>
-<li><strong>Contre le fatalisme</strong> : ni l'effondrement automatique du capitalisme, ni la « loi d'airain des salaires ». La volonté ouvrière fait bouger les salaires, et la misère seule ne pousse pas à la révolte.</li>
-<li><strong>La violence</strong> vient d'abord des classes dirigeantes.</li>
+<li><strong>Définition.</strong> L'action directe est l'expression même du syndicalisme de combat : la classe ouvrière agit en son nom propre.</li>
+<li><strong>Contre la délégation.</strong> La démocratie représentative endort l'initiative : on attend tout de l'élu. L'action économique, au contraire, la réveille.</li>
+<li><strong>Le syndicat éduque.</strong> Il donne confiance en soi, esprit d'initiative et sens du collectif. On y apprend à décider ensemble.</li>
+<li><strong>L'expropriation progressive.</strong> Chaque lutte arrache un peu au capital (salaire, horaires, dignité), jusqu'au jour où les syndicats prennent en main la production.</li>
+<li><strong>Le présent compte.</strong> La révolution se prépare dans les luttes quotidiennes, sans sacrifier aujourd'hui à un demain lointain.</li>
+<li><strong>Contre le fatalisme.</strong> Ni l'effondrement automatique du capitalisme, ni la « loi d'airain » qui condamnerait les salaires au minimum vital. La volonté ouvrière fait bouger les salaires, et la misère seule ne pousse pas à la révolte : il faut l'organisation.</li>
+<li><strong>La violence</strong> vient d'abord des classes dirigeantes : l'exploitation, la troupe envoyée contre les grévistes.</li>
 </ol>
 
 <h2 id="formes">Les formes</h2>
-<p>La <strong>grève</strong>, qui profite même aux non-grévistes, et son aboutissement, la <strong>grève générale</strong>. Pouget se moque de ceux qui réduisent l'action directe à de la casse.</p>
+<p>La <strong>grève</strong>, qui profite même aux non-grévistes, et son aboutissement, la <strong>grève générale</strong>. Mais aussi le <strong>boycott</strong>, le <strong>label syndical</strong> (une étiquette pour les produits fabriqués dans de bonnes conditions) et le <strong>sabotage</strong>, auquel Pouget consacrera une brochure : travailler lentement, ou mal, quand on est mal payé. Il se moque de celles et ceux qui réduisent l'action directe à de la casse.</p>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Les minorités agissantes.</strong> Pouget assume que ce sont des minorités conscientes qui entraînent la masse. Des critiques y ont vu un risque d'avant-garde qui décide pour les autres.</li>
+<li><strong>Le syndicat suffit-il ?</strong> Malatesta répondait que non : un syndicat qui grandit devient prudent et gestionnaire. Voir <a href="anarchie-et-organisation.html">Anarchie et organisation</a>.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Grèves reconductibles décidées en assemblée générale, caisses de grève, blocages, coordinations de base : les mouvements sociaux actuels réinventent sans cesse l'action directe. Quand des salariées et salariés de plateformes, des agentes d'entretien ou des livreurs s'organisent eux-mêmes sans attendre une loi, ils sont dans la lignée de Pouget.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>Agir sans intermédiaire, c'est à la fois une méthode et une école.</li>
 <li>Chaque victoire partielle est une petite expropriation.</li>
+<li>L'action directe n'est pas synonyme de violence.</li>
 <li>La suite romancée : <a href="comment-nous-ferons-la-revolution.html">Comment nous ferons la Révolution</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Action directe et autres écrits syndicalistes</cite></b>, Émile Pouget, Agone.<span>Ses textes syndicalistes réunis et présentés.</span></li>
+<li><a href="le-1er-mai.html">Le 1er Mai</a> et <a href="patron-assassin.html">Patron assassin</a><span>Nos fiches sur deux autres textes de Pouget.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89mile_Pouget" rel="noopener">Émile Pouget sur Wikipédia</a><span>Du <em>Père Peinard</em> à la CGT.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Le_P%C3%A8re_Peinard" rel="noopener">Le Père Peinard</a><span>Son journal en argot, une perle de la presse anarchiste.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarcho-syndicalisme" rel="noopener">L'anarcho-syndicalisme</a><span>Le courant qui prolonge ces idées dans le monde entier.</span></li>
+</ul></section>
+</div>
+
 === de-l-action-directe | Action directe & syndicalisme | De l'action directe | Voltairine de Cleyre · 1912 | L'action directe n'est ni la violence ni la non-violence : c'est agir soi-même au lieu de déléguer. Et l'histoire est faite de ça.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1912 dans la revue <em>Mother Earth</em>. Après un attentat à Los Angeles, la presse américaine réduit l'« action directe » aux bombes. Voltairine de Cleyre veut rendre au mot son vrai sens, et répond aux socialistes électoralistes.</p>
+<p>Voltairine de Cleyre (1866-1912) grandit dans une famille pauvre du Michigan ; son père, admirateur de Voltaire, lui donne son prénom. Placée dans un couvent, elle en sort libre-penseuse. La pendaison des anarchistes de Chicago en 1887 fait d'elle une anarchiste. Elle vit ensuite à Philadelphie, où elle enseigne l'anglais aux immigrées et immigrés juifs. En 1902, un ancien élève lui tire dessus ; elle survit et refuse de porter plainte contre lui.</p>
+<p>Ce texte, d'abord une conférence, paraît en 1912 dans la revue <em>Mother Earth</em> d'Emma Goldman, quelques mois avant sa mort. Après l'attentat contre le journal <em>Los Angeles Times</em> en 1910, la presse américaine réduit l'« action directe » aux bombes. De Cleyre veut rendre au mot son vrai sens, et répond aussi aux socialistes qui ne jurent que par les élections.</p>
 
 <h2 id="these">La thèse</h2>
 <p>Toute personne qui agit elle-même pour défendre ses droits, sans s'en remettre à une autorité, pratique l'action directe. Ce n'est en soi ni violent ni pacifique. C'est le moteur réel des changements sociaux ; l'action politique, elle, s'appuie sur la contrainte de l'État et mène les travailleuses et travailleurs dans une impasse.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Tout le monde l'a déjà pratiquée</strong> : réclamer un droit, faire grève, boycotter.</li>
-<li><strong>Chacun mêle les deux</strong> ; seuls les vrais non-violents peuvent ne croire qu'à l'action directe, car le pouvoir politique repose toujours sur la force.</li>
-<li><strong>L'histoire américaine</strong> : quakers persécutés, révolte de Bacon, boycotts qui ont préparé l'indépendance. Les manuels célèbrent ce qu'ils condamneraient aujourd'hui.</li>
-<li><strong>L'abolitionnisme</strong> : le « chemin de fer souterrain » pour les esclaves en fuite, la désobéissance aux lois, John Brown. Les politiciens tergiversaient, d'autres agissaient.</li>
-<li><strong>Les luttes paysannes et ouvrières</strong> : les organisations paysannes ont échoué en se lançant dans la conquête du pouvoir ; la grève reste l'arme naturelle des travailleuses et travailleurs.</li>
-<li><strong>Contre l'électoralisme</strong> : les lois sociales se retournent souvent contre les ouvriers, et le vote entretient la passivité. Elle propose la grève générale et l'expropriation.</li>
+<li><strong>Tout le monde l'a déjà pratiquée</strong> : réclamer un droit en face, faire grève, boycotter un commerçant, s'organiser entre voisines et voisins.</li>
+<li><strong>Chacun mêle les deux.</strong> La plupart des gens pratiquent à la fois l'action directe et l'action politique. Seuls les vrais non-violents, comme les tolstoïens, peuvent ne croire qu'à la première, car le pouvoir politique repose toujours sur la force.</li>
+<li><strong>L'histoire américaine</strong> : les quakers persécutés qui désobéissent, la révolte de Bacon en 1676, les boycotts qui ont préparé l'indépendance. Les manuels scolaires célèbrent ce qu'ils condamneraient aujourd'hui.</li>
+<li><strong>L'abolitionnisme</strong> : le « chemin de fer souterrain » qui aidait les esclaves à fuir, la désobéissance aux lois sur les esclaves fugitifs, le raid de John Brown. Les politiciens tergiversaient, d'autres agissaient.</li>
+<li><strong>Les luttes paysannes et ouvrières.</strong> Les organisations de fermiers ont échoué en se lançant dans la conquête du pouvoir. La grève reste l'arme naturelle des travailleuses et travailleurs.</li>
+<li><strong>Contre l'électoralisme.</strong> Les lois sociales se retournent souvent contre les ouvriers, et le vote entretient la passivité. Elle propose la grève générale et l'expropriation.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>La question de la violence</strong> reste ouverte. De Cleyre refuse de condamner celles et ceux qui ripostent, sans en faire une stratégie. Chaque lectrice et lecteur doit trancher.</li>
+<li><strong>Un texte très américain</strong> : les exemples demandent parfois de chercher un peu. Ça vaut le coup.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le texte est l'une des meilleures réponses à celles et ceux qui assimilent l'action directe au « casseur ». Désobéissance civile pour le climat, réquisitions de logements vides, faucheuses et faucheurs d'OGM, aides aux personnes exilées en montagne : toutes ces actions sont « directes » au sens de Voltairine de Cleyre. Et beaucoup seront peut-être célébrées demain dans les manuels.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -50,12 +84,27 @@
 <li>Le pendant américain de <a href="l-action-directe-pouget.html">Pouget</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>D'espoir et de raison. Écrits d'une insoumise</cite></b>, Voltairine de Cleyre, Lux, 2008.<span>Une anthologie de ses textes en français.</span></li>
+<li><a href="fabrication-d-une-anarchiste.html">La Fabrication d'une anarchiste</a><span>Notre fiche : son parcours, raconté par elle-même.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Voltairine_de_Cleyre" rel="noopener">Voltairine de Cleyre sur Wikipédia</a><span>Sa vie et ses écrits.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/D%C3%A9sob%C3%A9issance_civile" rel="noopener">La désobéissance civile</a><span>Une cousine de l'action directe.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/John_Brown" rel="noopener">John Brown</a><span>L'abolitionniste dont elle parle (voir aussi <a href="john-brown.html">notre fiche Reclus</a>).</span></li>
+</ul></section>
+</div>
+
 === l-unique-et-sa-propriete | Individu & morale | L'Unique et sa propriété | Max Stirner · 1844 | Dieu, la Patrie, l'Humanité, la Morale : autant d'idoles qui exigent qu'on se sacrifie. Stirner ne fonde sa cause que sur lui-même.
 <h2 id="contexte">Contexte</h2>
-<p>Publié à Leipzig en octobre 1844, interdit puis autorisé par la censure, vite oublié puis redécouvert à la fin du siècle. Stirner vient du cercle des jeunes hégéliens, aux côtés de Bauer, Feuerbach et du jeune Marx. Le livre est souvent lu dans la traduction française de 1899.</p>
+<p>Max Stirner est le pseudonyme de Johann Caspar Schmidt (1806-1856), professeur dans une école de jeunes filles à Berlin. Il fréquente le cercle des « Affranchis », des jeunes philosophes disciples de Hegel devenus très critiques : Bruno Bauer, Ludwig Feuerbach, le jeune Engels, et parfois Marx. Feuerbach vient de montrer que Dieu n'est qu'une projection de l'Homme ; Stirner va plus loin : l'Homme lui-même est une nouvelle idole.</p>
+<p>Le livre paraît à Leipzig fin 1844. Il est interdit, puis autorisé par la censure, qui le juge trop absurde pour être dangereux. Marx et Engels lui consacrent des centaines de pages furieuses (« Saint Max ») dans <em>L'Idéologie allemande</em>. Puis il est oublié, et redécouvert à la fin du siècle. Stirner meurt dans la misère. Le livre est traduit en français en 1899 et 1900.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Toutes les grandes causes présentées comme supérieures (Dieu, la Vérité, la Patrie, l'Humanité, la Société) sont des idoles qui réclament le dévouement des individus. Stirner refuse d'en servir aucune. Le libéralisme, le socialisme et l'humanisme ne sont pour lui que de nouvelles religions déguisées.</p>
+<p>Toutes les grandes causes présentées comme supérieures (Dieu, la Vérité, la Patrie, l'Humanité, la Société) sont des idoles qui réclament le dévouement des individus. Stirner refuse d'en servir aucune. Le libéralisme, le socialisme et l'humanisme ne sont pour lui que de nouvelles religions déguisées, qui ont remplacé Dieu par l'État, la Société ou l'Homme.</p>
+<blockquote><p>Le livre s'ouvre et se ferme sur la même idée : « Je n'ai basé ma cause sur rien. »</p></blockquote>
 
 <h2 id="structure">La structure</h2>
 <ol>
@@ -66,37 +115,71 @@
 
 <h2 id="notions">Les notions clés</h2>
 <ul>
-<li><strong>L'Unique</strong> : le moi concret, qu'aucun concept ne résume. On ne le définit pas, on le désigne.</li>
-<li><strong>La propriété</strong> : tout ce que mon pouvoir peut atteindre. Le droit n'est plus une permission venue d'en haut.</li>
-<li><strong>Les idées fixes</strong> : des pensées devenues sacrées qui possèdent l'individu comme des fantômes.</li>
-<li><strong>L'association d'égoïstes</strong> : des liens librement choisis, pour l'usage de chacun, à la place de la société hiérarchique.</li>
+<li><strong>L'Unique</strong> : le moi concret, en chair et en os, qu'aucun concept ne résume. On ne le définit pas, on le désigne.</li>
+<li><strong>La propriété</strong> : tout ce que mon pouvoir peut atteindre et faire mien. Le droit n'est plus une permission venue d'en haut.</li>
+<li><strong>Les idées fixes</strong> : des pensées devenues sacrées, qui possèdent l'individu comme des fantômes.</li>
+<li><strong>L'association d'égoïstes</strong> : des liens librement choisis, pour l'usage de chacune et de chacun, à la place de la société hiérarchique qui exige des sacrifices.</li>
+<li><strong>L'insurrection plutôt que la révolution</strong> : ne pas attendre de renverser l'ordre établi, mais s'élever soi-même au-dessus de lui, ici et maintenant.</li>
 </ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un livre qui ne dit pas comment vivre ensemble.</strong> Stirner détruit beaucoup et construit peu. L'« association d'égoïstes » reste une esquisse.</li>
+<li><strong>Des lectures opposées.</strong> On l'a lu comme un anarchiste, un précurseur de Nietzsche ou de l'existentialisme, et parfois comme un apôtre de la loi du plus fort. La plupart des anarchistes ont retenu sa critique des idoles, en refusant d'en faire une morale de l'écrasement des autres.</li>
+<li><strong>Lecture exigeante</strong>, pleine de jeux de mots et de références à la philosophie allemande.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La critique des « idées fixes » reste un outil puissant face aux grandes causes au nom desquelles on demande des sacrifices : la Nation, la Croissance, la Compétitivité, l'Entreprise. Stirner invite à se demander, à chaque fois : qui profite de mon dévouement ?</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>La source de l'anarchisme individualiste.</li>
 <li>Une critique radicale de toute autorité, y compris morale.</li>
-<li>Un livre surtout destructeur : il ne dit pas comment organiser une société. Lecture exigeante.</li>
+<li>Un livre surtout destructeur : il ne dit pas comment organiser une société.</li>
 </ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Aux sources de l'existentialisme : Max Stirner</cite></b>, Henri Arvon, PUF, 1954.<span>L'étude classique en français.</span></li>
+<li><a href="l-individualisme.html">L'Individualisme</a> de Libertad<span>Notre fiche : ce que les anarchistes français ont fait de Stirner.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/L%27Unique_et_sa_propri%C3%A9t%C3%A9" rel="noopener">Le livre sur Wikipédia</a><span>Structure, réception, la querelle avec Marx.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Max_Stirner" rel="noopener">Max Stirner sur Wikipédia</a><span>Une vie presque inconnue.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste" rel="noopener">L'anarchisme individualiste</a><span>Le courant qu'il a inspiré.</span></li>
+</ul></section>
+</div>
 
 === aux-jeunes-gens | Individu & morale | Aux jeunes gens | Pierre Kropotkine · 1880 | Médecin, savant, juriste, ingénieur, enseignant, artiste : à quoi sert ton métier ? Kropotkine demande aux jeunes de choisir leur camp.
 <h2 id="contexte">Contexte</h2>
-<p>Ce texte, publié d'abord en 1880 et souvent réédité (ici dans <em>Les Temps nouveaux</em>, 1904), est l'un des plus diffusés de l'anarchisme. Il s'adresse aux jeunes de 18-20 ans qui finissent leurs études et entrent dans la vie active, en pleine industrialisation et misère ouvrière.</p>
+<p>Kropotkine publie ce texte en 1880 dans <em>Le Révolté</em>, son journal de Genève. Il sera repris dans <em>Paroles d'un révolté</em>, puis réédité en brochure des dizaines de fois, traduit dans presque toutes les langues : c'est l'un des textes les plus diffusés de toute l'histoire de l'anarchisme. Il a fait basculer des milliers de jeunes gens vers le mouvement.</p>
+<p>Il s'adresse aux jeunes de 18-20 ans qui finissent leurs études et entrent dans la vie active, en pleine industrialisation. Kropotkine sait de quoi il parle : jeune prince promis à une brillante carrière, il a lui-même tout abandonné pour le mouvement.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Tant que la société reste divisée entre le salariat et les possédants, la science, le droit, la technique et l'art servent les puissants. Chaque jeune doit choisir : servir les privilégiés, ou rejoindre le mouvement d'émancipation.</p>
+<p>Tant que la société reste divisée entre salariés et possédants, la science, le droit, la technique et l'art servent les puissants. Chaque jeune doit choisir : servir les privilégiés, ou rejoindre le mouvement d'émancipation.</p>
 
 <h2 id="metiers">Métier par métier</h2>
 <ul>
-<li><strong>Le médecin</strong> découvre que les maladies des quartiers pauvres viennent de la faim, du manque d'air et du surmenage. Soigner ne suffit pas : il faut changer les conditions de vie.</li>
+<li><strong>Le médecin</strong> découvre que les maladies des quartiers pauvres viennent de la faim, du manque d'air et du surmenage. Prescrire de la viande et du repos à une ouvrière qui n'a pas de quoi manger, c'est absurde. Soigner ne suffit pas : il faut changer les conditions de vie.</li>
 <li><strong>Le savant</strong> qui cherche pour son seul plaisir pratique un égoïsme. Il faut d'abord rendre le savoir accessible à tout le monde.</li>
 <li><strong>Le juriste</strong> s'aperçoit que la loi protège surtout la propriété et des contrats entre inégaux. Il doit choisir entre la légalité et la justice.</li>
 <li><strong>L'ingénieur</strong> voit ses inventions enrichir quelques patrons et aggraver le sort des ouvrières et ouvriers : chômage, cadences, accidents.</li>
 <li><strong>L'instituteur</strong>, coincé entre familles et administration, peut porter une instruction libre auprès des travailleuses et travailleurs.</li>
-<li><strong>L'artiste</strong> doit retrouver une inspiration et dénoncer la laideur de l'ordre social.</li>
-<li><strong>Les intellectuels</strong> doivent venir comme camarades, pas comme maîtres : les travailleuses et travailleurs s'organisent déjà.</li>
-<li><strong>Ouvrières et ouvriers, paysannes et paysans</strong> : leur nombre est leur force.</li>
+<li><strong>L'artiste</strong> doit retrouver l'inspiration dans la vie du peuple et dénoncer la laideur de l'ordre social.</li>
+<li><strong>Les intellectuels</strong> doivent venir comme camarades, pas comme maîtres : les travailleuses et travailleurs s'organisent déjà très bien.</li>
+<li><strong>Ouvrières et ouvriers, paysannes et paysans</strong> : leur nombre est leur force, s'ils s'unissent.</li>
 </ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un texte de son temps</strong> : il s'adresse surtout aux jeunes hommes des classes aisées qui font des études. Les jeunes ouvrières et ouvriers, et les jeunes femmes, n'apparaissent qu'à la fin.</li>
+<li><strong>Le choix n'est pas si simple</strong> : il faut bien gagner sa vie. Kropotkine ne demande pas de tout quitter, mais de mettre son métier au service des autres.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>La question revient avec force : ingénieures et ingénieurs qui refusent de travailler pour l'industrie pétrolière, étudiantes et étudiants d'écoles prestigieuses qui « bifurquent » à leur remise de diplôme, soignantes et soignants qui dénoncent les conditions de l'hôpital, développeuses et développeurs qui refusent la surveillance. Ce texte de 1880 pourrait être leur manifeste.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -105,21 +188,44 @@
 <li>Le texte idéal pour une première lecture, à offrir.</li>
 </ul>
 
-=== education-integrale | Individu & morale | L'éducation intégrale | Mikhaïl Bakounine · 1869 | Tant que le savoir sera inégal, une minorité dominera. Il faut une instruction complète et égale pour tous, manuelle et intellectuelle.
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="paroles-d-un-revolte.html">Paroles d'un révolté</a><span>Notre fiche sur le recueil qui contient ce texte.</span></li>
+<li><a href="memoires-d-un-revolutionnaire.html">Mémoires d'un révolutionnaire</a><span>Comment un prince est devenu anarchiste.</span></li>
+<li><a href="travail-intellectuel-et-manuel.html">Travail intellectuel et travail manuel</a><span>La suite logique : en finir avec la séparation entre ceux qui pensent et ceux qui font.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Pierre_Kropotkine" rel="noopener">Pierre Kropotkine sur Wikipédia</a><span>Sa vie et son œuvre.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Le_R%C3%A9volt%C3%A9" rel="noopener">Le Révolté</a><span>Le journal où le texte a paru.</span></li>
+</ul></section>
+</div>
+
+=== education-integrale | Individu & morale | L'éducation intégrale | Mikhaïl Bakounine · 1869 | Tant que le savoir sera inégal, une minorité dominera. Il faut une instruction complète et égale pour tout le monde, manuelle et intellectuelle.
 <h2 id="contexte">Contexte</h2>
-<p>Quatre articles parus en juillet-août 1869 dans <em>L'Égalité</em>, journal de l'Internationale en Suisse romande. Bakounine répond aux « socialistes bourgeois » qui veulent seulement un peu plus d'instruction pour le peuple, sans toucher aux classes.</p>
+<p>En 1869, Bakounine vit en Suisse et milite dans l'Association internationale des travailleurs, la Première Internationale. Il publie quatre articles en juillet-août dans <em>L'Égalité</em>, journal des sections de Suisse romande. L'Internationale débat alors de l'instruction : faut-il seulement demander un peu plus d'écoles pour le peuple, comme le veulent les républicains, ou changer la nature même de l'éducation ?</p>
+<p>L'idée d'« éducation intégrale » est portée à la même époque par Paul Robin, un pédagogue français membre de l'Internationale, qui l'appliquera plus tard à l'orphelinat de Cempuis.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Le savoir inégal crée mécaniquement une classe dominante. L'instruction doit donc être égale et complète pour tout le monde. Mais elle ne suffit pas seule : il faut aussi l'égalité économique et un milieu social juste.</p>
+<p>Le savoir inégal crée mécaniquement une classe dominante. L'instruction doit donc être égale et complète pour tout le monde, unissant la tête et la main. Mais elle ne suffit pas seule : il faut aussi l'égalité économique et un milieu social juste.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Le savoir, c'est le pouvoir.</strong> Les progrès techniques et scientifiques ont creusé l'écart entre bourgeoisie et prolétariat. La science sert surtout l'État : administration, finances, armée.</li>
-<li><strong>Une même instruction pour tous</strong>, unissant travail manuel et travail intellectuel. Les capacités sont à peu près équivalentes chez la grande majorité.</li>
-<li><strong>Le contenu</strong> : une base scientifique générale, puis une spécialité librement choisie, plus un enseignement pratique. Une morale humaine qui respecte le travail, à la place d'une morale religieuse qui le méprise.</li>
-<li><strong>Lois naturelles et lois arbitraires</strong> : on obéit aux premières, on combat les secondes. La liberté, c'est développer ses facultés et ne dépendre de la volonté de personne.</li>
+<li><strong>Une même instruction pour tout le monde</strong>, unissant travail manuel et travail intellectuel. Les capacités sont à peu près équivalentes chez la grande majorité ; les différences viennent surtout du milieu.</li>
+<li><strong>Le contenu.</strong> Une base scientifique générale, puis une spécialité librement choisie, et toujours un enseignement pratique, un métier. Une morale humaine qui respecte le travail, à la place d'une morale religieuse qui le méprise.</li>
+<li><strong>Lois naturelles et lois arbitraires.</strong> On obéit aux premières (on ne discute pas avec la gravité), on combat les secondes. La liberté, c'est développer ses facultés et ne dépendre de la volonté de personne.</li>
 <li><strong>Le milieu fait l'individu.</strong> Pour rendre les gens meilleurs, il faut rendre la société plus juste. Trois conditions : naître en bonne santé, recevoir une instruction intégrale, vivre dans un milieu égalitaire.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une confiance forte dans la science</strong>, typique du XIXe siècle.</li>
+<li><strong>Peu de pédagogie concrète.</strong> Bakounine dit quoi enseigner, guère comment. Ce sont d'autres (Robin, Ferrer, Faure) qui inventeront les écoles libertaires.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Les inégalités scolaires restent l'une des grandes fabriques d'inégalités sociales : les enquêtes le montrent année après année. La séparation entre filières « nobles » et filières professionnelles, entre travail de bureau et travail manuel, est exactement ce que Bakounine voulait abolir. Écoles alternatives, éducation populaire, universités populaires reprennent ce combat.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -128,24 +234,46 @@
 <li>Un texte fondateur de la pédagogie libertaire.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Éducation et liberté. Anthologie</cite></b>, textes réunis par Normand Baillargeon et Chantal Santerre, Lux, 2005.<span>Les grands textes de la pédagogie libertaire.</span></li>
+<li><a href="travail-intellectuel-et-manuel.html">Travail intellectuel et travail manuel</a><span>Notre fiche : Kropotkine sur le même sujet.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Paul_Robin" rel="noopener">Paul Robin</a><span>Le pédagogue de l'éducation intégrale et de l'orphelinat de Cempuis.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Francisco_Ferrer" rel="noopener">Francisco Ferrer</a><span>Fondateur de l'École moderne à Barcelone, fusillé en 1909.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/La_Ruche_(%C3%A9cole)" rel="noopener">La Ruche</a><span>L'école libertaire de Sébastien Faure, de 1904 à 1917.</span></li>
+</ul></section>
+</div>
+
 === le-culte-de-la-charogne | Individu & morale | Le culte de la charogne | Albert Libertad · 1907 | Nos sociétés vénèrent les morts au détriment des vivants. Libertad appelle à tourner le dos au passé pour vivre le présent.
 <h2 id="contexte">Contexte</h2>
-<p>Paru dans <em>L'Anarchie</em> le 31 octobre 1907, à la veille de la Toussaint. Libertad, militant individualiste et antireligieux, s'en prend à la vénération des morts sous toutes ses formes.</p>
+<p>Albert Libertad (1875-1908), figure de l'anarchisme individualiste parisien, publie ce texte dans son journal <em>l'anarchie</em> le 31 octobre 1907, à la veille de la Toussaint, quand la France entière se presse dans les cimetières. Militant antireligieux, infirme se déplaçant avec des béquilles, il meurt l'année suivante à 32 ans.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Le culte des morts pèse sur la vie. Guidées par le passé, les sociétés figent leurs idées et bloquent le progrès. Il faut remettre les vivants au centre.</p>
+<p>Le culte des morts pèse sur la vie. Guidées par le passé, les sociétés figent leurs idées et bloquent le progrès. Il faut remettre les vivants au centre, et consacrer aux vivants l'énergie et l'argent qu'on dépense pour les morts.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Depuis la préhistoire, on a bâti des tombeaux avant de construire des abris dignes pour les vivants.</li>
-<li>Les religions promettent un au-delà qui pousse à la résignation ici-bas.</li>
-<li>La famille transmet les croyances et les erreurs anciennes.</li>
-<li>L'école enseigne les rois et les batailles plutôt que l'hygiène et le présent.</li>
-<li>Les villes sont couvertes de statues et de noms de rues à la gloire de morts.</li>
-<li>Tout ce travail et cette matière pourraient servir la santé des vivants ; toute une industrie funéraire en profite.</li>
-<li>La mort n'est qu'un passage de la matière vers d'autres formes : traitons les corps de façon hygiénique, par exemple par la crémation.</li>
-<li>Cortèges et habits de deuil sont hypocrites ; la vraie compassion serait de lutter contre la misère et les morts évitables.</li>
+<li><strong>Des tombeaux avant les maisons.</strong> Depuis la préhistoire, on a bâti des monuments aux morts avant de construire des abris dignes pour les vivants.</li>
+<li><strong>Les religions</strong> promettent un au-delà qui pousse à la résignation ici-bas.</li>
+<li><strong>La famille</strong> transmet les croyances et les erreurs anciennes comme un héritage sacré.</li>
+<li><strong>L'école</strong> enseigne les rois et les batailles plutôt que l'hygiène, la santé et le monde présent.</li>
+<li><strong>Les villes</strong> sont couvertes de statues et de noms de rues à la gloire de morts, souvent de généraux.</li>
+<li><strong>Tout ce travail et cette matière</strong> pourraient servir la santé des vivants ; toute une industrie funéraire en profite.</li>
+<li><strong>La mort</strong> n'est qu'un passage de la matière vers d'autres formes. Traitons les corps de façon hygiénique, par exemple par la crémation, alors très combattue par l'Église.</li>
+<li><strong>Cortèges et habits de deuil</strong> sont souvent hypocrites ; la vraie compassion serait de lutter contre la misère et les morts évitables.</li>
 </ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Le deuil n'est pas que de l'hypocrisie.</strong> Le texte balaie un peu vite le besoin humain de se souvenir et de pleurer ses proches.</li>
+<li><strong>La mémoire peut aussi être une arme.</strong> Les anarchistes eux-mêmes honorent leurs morts : le mur des Fédérés pour la Commune, les martyrs de Chicago pour le 1er Mai. Toute mémoire n'est pas soumission.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Les débats sur les statues et les noms de rues (faut-il garder celles de colonisateurs ou d'esclavagistes ?), sur le coût des obsèques ou sur l'usage politique des commémorations montrent que la question de Libertad n'a rien perdu de son actualité : à qui sert le culte du passé ?</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -153,3 +281,15 @@
 <li>Un ton volontairement provocateur.</li>
 <li>Un plaidoyer pour agir sur le monde réel, maintenant.</li>
 </ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les En-dehors</cite></b>, Anne Steiner, L'Échappée, 2008.<span>Le milieu de Libertad, son journal et ses compagnes et compagnons.</span></li>
+<li><b><cite>Le Culte de la charogne</cite></b>, Albert Libertad, Agone.<span>L'anthologie qui porte le nom de ce texte.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Albert_Libertad" rel="noopener">Albert Libertad sur Wikipédia</a><span>Sa vie, le journal <em>l'anarchie</em>.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Libre-pens%C3%A9e" rel="noopener">La libre-pensée</a><span>Le combat pour la crémation et les obsèques civiles.</span></li>
+</ul></section>
+</div>

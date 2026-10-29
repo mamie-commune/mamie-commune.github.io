@@ -84,3 +84,16 @@
 <li><a href="../antifascisme/agir-antifasciste.html">Comment agir contre l'extrême droite</a> : la sécurité dans l'action.</li>
 </ul>
 <p class="credit">Guide rédigé par Mamie Commune. Les noms des menus peuvent changer légèrement d'une version de Signal à l'autre. Libre de reproduction en citant Mamie Commune.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://signal.org/fr" rel="noopener">Signal</a><span>Le site officiel : télécharger l'application.</span></li>
+<li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Le guide de l'EFF, avec une fiche détaillée sur Signal.</span></li>
+<li><a href="https://guide.boum.org" rel="noopener">Guide d'autodéfense numérique</a><span>Pour comprendre les menaces et protéger aussi ton ordinateur.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://www.laquadrature.net" rel="noopener">La Quadrature du Net</a><span>Suivre la surveillance des militantes et militants en France.</span></li>
+<li><a href="../manif/legal-team.html">Tes droits en manif</a><span>Notre guide : téléphone et garde à vue.</span></li>
+</ul></section>
+</div>

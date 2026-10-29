@@ -47,6 +47,19 @@
 <li><a href="rojava-femmes-debats.html">Révolution des femmes, écologie et critiques</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Un autre futur pour le Kurdistan ? Municipalisme libertaire et confédéralisme démocratique</cite></b>, Pierre Bance, Noir et Rouge, 2017.<span>Une étude libertaire détaillée et critique.</span></li>
+<li><b><cite>Kobane Calling</cite></b>, Zerocalcare, Cambourakis, 2016.<span>Une bande dessinée drôle et bouleversante : un dessinateur italien au Rojava pendant la guerre.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Rojava" rel="noopener">Le Rojava sur Wikipédia</a><span>Histoire et situation.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Bataille_de_Koban%C3%A9" rel="noopener">La bataille de Kobanê</a><span>Le tournant de 2014-2015.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Administration_autonome_du_Nord_et_de_l%27Est_de_la_Syrie" rel="noopener">L'Administration autonome</a><span>Ses institutions aujourd'hui.</span></li>
+</ul></section>
+</div>
+
 === rojava-organisation | Kurdistan · Rojava | Communes, conseils et co-présidence : le confédéralisme démocratique | Nord et est de la Syrie · depuis 2012 | La commune de rue ou de village, les conseils fédérés, une structure de femmes autonome à chaque niveau : l'organisation du Rojava en schémas.
 <h2 id="principes">Les principes</h2>
 <ul>
@@ -129,6 +142,19 @@
 <li>Suite : <a href="rojava-femmes-debats.html">révolution des femmes, écologie et critiques</a>.</li>
 </ul>
 
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Un autre futur pour le Kurdistan ?</cite></b>, Pierre Bance, Noir et Rouge, 2017.<span>Communes, conseils et Contrat social examinés en détail.</span></li>
+<li><b><cite>Pour un municipalisme libertaire</cite></b>, Murray Bookchin, Atelier de création libertaire.<span>Le penseur américain qui a inspiré Öcalan.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Conf%C3%A9d%C3%A9ralisme_d%C3%A9mocratique" rel="noopener">Le confédéralisme démocratique</a><span>L'idée et ses sources.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Murray_Bookchin" rel="noopener">Murray Bookchin</a><span>L'écologie sociale et le municipalisme libertaire.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Abdullah_%C3%96calan" rel="noopener">Abdullah Öcalan</a><span>Le fondateur du PKK, emprisonné depuis 1999, et son évolution.</span></li>
+</ul></section>
+</div>
+
 === rojava-femmes-debats | Kurdistan · Rojava | Révolution des femmes, écologie et critiques | Nord et est de la Syrie · depuis 2012 | « Jin, jiyan, azadî » : la place centrale des femmes, le projet écologique, et les critiques que les libertaires adressent au Rojava.
 <h2 id="femmes">« Jin, jiyan, azadî »</h2>
 <p>« Femme, vie, liberté » : ce slogan kurde, repris dans le monde entier lors du soulèvement iranien de 2022, résume la place centrale des femmes dans le projet. Pour le mouvement, aucune société ne sera libre tant que les femmes ne le seront pas.</p>
@@ -172,3 +198,15 @@
 <li>Une expérience réelle, à soutenir sans l'idéaliser.</li>
 <li>Pour aller plus loin : <a href="espagne-1936-histoire.html">Espagne 1936</a> et <a href="zapatistes-histoire.html">zapatistes</a>.</li>
 </ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Kobane Calling</cite></b>, Zerocalcare, Cambourakis, 2016.<span>Les combattantes des YPJ vues de près, en bande dessinée.</span></li>
+<li><b><cite>Un autre futur pour le Kurdistan ?</cite></b>, Pierre Bance, Noir et Rouge, 2017.<span>Une lecture libertaire qui n'élude pas les critiques.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Jin%C3%A9ologie" rel="noopener">La jinéologie</a><span>La « science des femmes » développée par le mouvement kurde.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Administration_autonome_du_Nord_et_de_l%27Est_de_la_Syrie" rel="noopener">L'Administration autonome</a><span>Suivre la situation actuelle, très menacée.</span></li>
+</ul></section>
+</div>

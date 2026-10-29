@@ -17,6 +17,8 @@ argument-hint: <sujet de la page>
    - ligne d'en-tête `=== identifiant | Catégorie | Titre | Signature · année | Résumé.` (sans signature pour les guides) ;
    - HTML ensuite, chaque `<h2>` avec un `id` ;
    - encadrés, frises, schémas SVG : classes listées dans `CLAUDE.md`.
+   - pour une fiche de lecture, suivre le plan : Contexte (qui écrit, quand, pourquoi), La thèse, Les idées dans l'ordre, Débats et limites, Et aujourd'hui ?, À retenir ;
+   - finir **toute** page par `<h2 id="sources">Sources et pour aller plus loin</h2>` et un `<div class="ressources">` de cartes `<section><h3>Lire</h3><ul><li>…</li></ul></section>` (voir « Sources » dans `CLAUDE.md`). Chaque lien externe doit être **vérifié** (il répond, et c'est la bonne page) ; un livre sans lien : titre, auteur, éditeur, année, uniquement si on en est sûr. Pour une nouvelle fiche de lecture, ajouter l'adresse du texte original sur la Bibliothèque anarchiste dans `_src/textes/originaux.txt`.
 4. Écrire avec nos mots : ton simple et direct, tutoiement, écriture inclusive **sans point médian** (mots neutres, doublets « militantes et militants », phrases tournées autrement ; voir « Ton des textes » dans `CLAUDE.md`). Jamais de copie d'un texte protégé. Vérifier les dates et les noms.
 5. Régénérer : `powershell -NoProfile -ExecutionPolicy Bypass -File _src/build.ps1` (la sortie doit commencer par `OK :`).
 6. Ouvrir la page dans l'aperçu, en largeur normale puis mobile (375 px), et la montrer.

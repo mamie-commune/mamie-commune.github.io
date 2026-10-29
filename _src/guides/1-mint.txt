@@ -50,6 +50,19 @@
 <li>Continue avec <a href="personnaliser-mint.html">Personnaliser Linux Mint</a>.</li>
 </ul>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>Le site officiel : téléchargement et notes de version.</span></li>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>La communauté francophone, avec son forum d'entraide.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>Une immense documentation en français, valable aussi pour Mint, qui est basée sur Ubuntu.</span></li>
+<li><a href="https://emmabuntus.org" rel="noopener">Emmabuntus</a><span>Un collectif qui reconditionne de vieux ordinateurs sous Linux pour des associations.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === distribution-gnu-linux | Linux Mint | Choisir une distribution GNU/Linux | Les distributions grand public, les environnements de bureau, la mémoire qu'ils consomment et le matériel nécessaire.
 <h2 id="principe">Le principe</h2>
 <p>GNU/Linux est un système libre qu'on installe gratuitement sur un PC ou un Mac, à côté du système d'origine ou à sa place. Il n'y a pas un seul Linux mais des <strong>distributions</strong> : des assemblages du noyau Linux, des outils GNU, d'un environnement de bureau, d'une logithèque et d'applications courantes. Elles sont faites par des entreprises, des associations ou des bénévoles.</p>
@@ -112,6 +125,19 @@
 <li>Si aucune distribution de la famille Debian/Ubuntu ne s'installe, essaie Manjaro Cinnamon (famille Arch).</li>
 </ul>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>Notre choix pour débuter.</span></li>
+<li><a href="https://wiki.debian.org/fr/FrontPage" rel="noopener">Debian</a><span>La distribution communautaire sur laquelle reposent Ubuntu et Mint.</span></li>
+<li><a href="https://emmabuntus.org" rel="noopener">Emmabuntus</a><span>Une distribution pensée pour les vieux ordinateurs et le réemploi.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>Comparer les environnements de bureau, en français.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === manuel-mint | Linux Mint | Manuel Linux Mint Xfce et Cinnamon | Les éditions de Mint, le calendrier des versions 18 à 22, Warpinator et où trouver de l'aide.
 <h2 id="mint">Linux Mint en bref</h2>
 <p>Linux Mint est un système pour ordinateurs personnels, dérivé d'Ubuntu. Sa prise en main est très facile à facile.</p>
@@ -164,6 +190,16 @@
 <li>Le forum officiel, qui a une section en français, et le forum francophone de Linux Mint.</li>
 <li>Les groupes d'entraide près de chez toi, sur notre <a href="../carte.html">carte</a>.</li>
 </ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>Les notes de version et le calendrier de chaque édition.</span></li>
+<li><a href="https://forums.linuxmint.com" rel="noopener">Forums officiels</a><span>Les forums internationaux de Linux Mint.</span></li>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>Le forum francophone.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === personnaliser-mint | Linux Mint | Personnaliser Linux Mint | Premier démarrage, écran d'accueil, réglages Xfce et Cinnamon, logiciels à ajouter et sauvegarde finale (Mint 20 à 22).
 <h2 id="premier">1. Premier démarrage</h2>
@@ -240,6 +276,20 @@
 <h2 id="final">8. Sauvegarde finale</h2>
 <p>Une fois tout réglé, lance <strong>Timeshift</strong>. Il faut une partition ext4 d'au moins 10 Go ou un disque externe en ext4.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>Des tutoriels de personnalisation en français.</span></li>
+<li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>Une fiche pour presque chaque logiciel.</span></li>
+</ul></section>
+<section><h3>Logiciels cités</h3><ul>
+<li><a href="https://www.mozilla.org/fr/firefox/" rel="noopener">Firefox</a><span>Le navigateur libre.</span></li>
+<li><a href="https://www.thunderbird.net/fr/" rel="noopener">Thunderbird</a><span>Le logiciel de courriel libre.</span></li>
+<li><a href="https://www.libreoffice.org" rel="noopener">LibreOffice</a><span>La suite bureautique libre.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === depannage-mises-a-jour | Linux Mint | Dépannage : les mises à jour échouent | Miroir en panne, dépôt tiers injoignable, avertissements sans gravité : comment s'en sortir.
 <h2 id="pourquoi">D'où viennent les mises à jour</h2>
 <p>Mint récupère ses mises à jour sur deux dépôts : la <strong>base</strong> (héritée d'Ubuntu) et le dépôt <strong>propre à Mint</strong>. Les serveurs par défaut sont en Angleterre et aux États-Unis, et beaucoup de gens choisissent un miroir plus proche. Quand un miroir tombe, les mises à jour échouent.</p>
@@ -277,6 +327,18 @@
 <p>Pour voir le message d'erreur exact :</p>
 <pre><code>sudo apt update</code></pre>
 <p>Le nom du dépôt fautif apparaît sur les lignes « Err » ou « Échec ».</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://forums.linuxmint.com" rel="noopener">Forums officiels de Linux Mint</a><span>Chercher le message d'erreur exact : quelqu'un l'a souvent déjà eu.</span></li>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>Poser sa question en français.</span></li>
+</ul></section>
+<section><h3>Sauvegarder avant</h3><ul>
+<li><a href="https://github.com/linuxmint/timeshift" rel="noopener">Timeshift</a><span>L'outil de restauration du système, à utiliser avant toute grosse manipulation.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === mises-a-jour | Linux Mint | Les mises à jour sous GNU/Linux | Pourquoi et quand mettre à jour, Timeshift, cas particuliers, et comment passer à une nouvelle version.
 <h2 id="pourquoi">Pourquoi mettre à jour</h2>
@@ -321,6 +383,18 @@
 <li><strong>Réinstallation complète</strong> : plus propre, et solution de secours si la première échoue.</li>
 </ul>
 <p>Dans les deux cas : <strong>sauvegarde complète d'abord</strong>.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>Les annonces de nouvelles versions et leur durée de support.</span></li>
+<li><a href="https://github.com/linuxmint/timeshift" rel="noopener">Timeshift</a><span>Créer un instantané du système avant de mettre à jour.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://endoflife.date/windows" rel="noopener">endoflife.date</a><span>Les dates de fin de support des systèmes et logiciels, pour savoir quand changer.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === raccourcis-clavier | Linux Mint | Raccourcis clavier essentiels | Les raccourcis système et d'application à connaître sous GNU/Linux, comparés à Windows.
 <h2 id="principe">Le principe</h2>
@@ -370,6 +444,15 @@
 
 <h2 id="modifier">Modifier les raccourcis</h2>
 <p>Paramètres système → Clavier → onglet Raccourcis. Sous Mint, une même action peut avoir jusqu'à <strong>trois</strong> raccourcis. Pour la liste complète, voir <a href="raccourcis-clavier-detail.html">Raccourcis clavier en détail</a>.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>Pour des questions sur les raccourcis de Mint.</span></li>
+<li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>Les raccourcis des différents environnements de bureau.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
 
 === raccourcis-clavier-detail | Linux Mint | Raccourcis clavier en détail | Fenêtres, bureaux, système, lanceurs, dépannage et clavier : la liste complète pour Mint Cinnamon et Ubuntu.
 <h2 id="general">Bureaux et vues</h2>
@@ -439,3 +522,12 @@
 <li>Reprends ceux de Windows quand c'est possible (<kbd>Super</kbd>+<kbd>E</kbd>, <kbd>Super</kbd>+flèches, <kbd>Super</kbd>+<kbd>L</kbd>).</li>
 <li>Profite des trois raccourcis possibles par action sous Mint.</li>
 </ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>Créer ses propres raccourcis, environnement par environnement.</span></li>
+<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>Le forum francophone.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

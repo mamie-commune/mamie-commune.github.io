@@ -55,6 +55,22 @@
 <h2 id="limites">Limites</h2>
 <p>Même bien réglé, Android reste très lié à Google. Une libération complète demande des compétences avancées (accès root). Fais ce qui est à ta portée.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://f-droid.org" rel="noopener">F-Droid</a><span>Le magasin d'applications libres.</span></li>
+<li><a href="https://auroraoss.com" rel="noopener">Aurora Store</a><span>Installer les applis du Play Store sans compte Google.</span></li>
+<li><a href="https://lineageos.org" rel="noopener">LineageOS</a><span>Un système Android sans Google.</span></li>
+<li><a href="https://e.foundation" rel="noopener">/e/OS</a><span>Un Android sans Google, prêt à l'emploi.</span></li>
+<li><a href="https://grapheneos.org" rel="noopener">GrapheneOS</a><span>Le système le plus sécurisé, pour les téléphones Pixel.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://www.fairphone.com/fr" rel="noopener">Fairphone</a><span>Un téléphone réparable, vendu aussi avec /e/OS.</span></li>
+<li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Protéger son téléphone.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === ios | Mobile | Libérer (un peu) un iPhone ou un iPad | Ce qu'on peut faire selon la version d'iOS : navigateur, bloqueur, moteur de recherche et applications libres.
 <h2 id="version">Ta version d'iOS</h2>
 <p>Réglages → Général → Informations → Version. Ce qui est possible en dépend.</p>
@@ -103,6 +119,19 @@
 <h2 id="limites">Limites</h2>
 <p>Les appareils Apple sont verrouillés : pas de magasin d'applications libres. Pour ton prochain téléphone, regarde plutôt un modèle sous /e/OS.</p>
 
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://www.mozilla.org/fr/firefox/" rel="noopener">Firefox</a><span>Le navigateur de Mozilla existe aussi sur iPhone.</span></li>
+<li><a href="https://duckduckgo.com" rel="noopener">DuckDuckGo</a><span>Un moteur de recherche qui ne te suit pas.</span></li>
+<li><a href="https://signal.org/fr" rel="noopener">Signal</a><span>La messagerie chiffrée.</span></li>
+</ul></section>
+<section><h3>Pour aller plus loin</h3><ul>
+<li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Les réglages de confidentialité de l'iPhone expliqués.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>
+
 === blokada | Mobile | Blokada : bloquer pub et traqueurs sur Android | Installer et régler Blokada 5 (gratuit), quelles applis exclure, et les alternatives.
 <h2 id="quoi">Ce que ça fait</h2>
 <p>Blokada filtre le trafic des autres applications et bloque une grande partie des pubs et traqueurs. Il passe par un « VPN local » : <strong>aucune donnée ne quitte ton téléphone</strong>. On parle ici de la version gratuite pour Android ; la version 6 sur abonnement existe sur tous les systèmes.</p>
@@ -142,3 +171,12 @@
 
 <h2 id="alternatives">Alternatives</h2>
 <p>RethinkDNS, TrackerControl, personalDNSfilter et AdAway font des choses proches, avec d'autres compromis.</p>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sites officiels</h3><ul>
+<li><a href="https://blokada.org" rel="noopener">Blokada</a><span>Le site officiel : télécharger la version gratuite.</span></li>
+<li><a href="https://f-droid.org" rel="noopener">F-Droid</a><span>D'autres applis libres pour protéger son téléphone.</span></li>
+</ul></section>
+<section><h3>Source</h3><ul><li><a href="https://liberonsnosordis.org" rel="noopener">Libérons nos ordis</a><span>Le guide d'origine, sous licence libre CC BY-SA, que nous avons adapté.</span></li></ul></section>
+</div>

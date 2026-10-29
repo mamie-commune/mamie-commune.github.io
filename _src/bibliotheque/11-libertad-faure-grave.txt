@@ -1,135 +1,352 @@
 === aux-resignes | Individu & morale | Aux résignés | Albert Libertad · 1905 | La résignation soutient l'ordre établi mieux que la police : un cri pour vivre pleinement, ici et maintenant.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en avril 1905 dans le premier numéro de <em>L'Anarchie</em>, le journal que Libertad vient de fonder.</p>
+<p>Le 13 avril 1905 paraît le premier numéro de <em>l'anarchie</em>, l'hebdomadaire qu'Albert Libertad vient de fonder à Montmartre avec ses compagnes et compagnons, dont Anna Mahé. Ce texte ouvre le journal comme un manifeste. Libertad, infirme depuis l'enfance, arrivé à Paris sans un sou, a connu la rue, la faim et la prison. Il ne croit pas aux lendemains qui chantent : il veut vivre libre tout de suite.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Libertad hait la résignation plus que la servitude : c'est elle qui maintient l'État, les Églises, le capital et la famille. La révolte est la vie ; la passivité, la mort.</p>
+<p>Libertad hait la résignation plus encore que la servitude : c'est elle qui maintient l'État, les Églises, le capital et la famille autoritaire. La révolte, c'est la vie ; la passivité, c'est la mort.</p>
+<blockquote><p>Le texte s'ouvre ainsi : « Je hais les résignés ! »</p></blockquote>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Ceux qui se soumettent par peur ou par habitude font tenir le système.</li>
-<li>Ne pas sacrifier le présent au paradis ou à la retraite.</li>
-<li>Une vie complète : plaisirs du corps, amour libre, art et culture.</li>
-<li>Un travail joyeux et utile, et le droit de profiter de ce qu'on produit.</li>
-<li>Religions, patrie, drapeaux et argent n'ont de force que par l'obéissance.</li>
+<li><strong>Les résignés font tenir le système.</strong> Celles et ceux qui se soumettent par peur ou par habitude sont plus utiles au pouvoir que ses policiers.</li>
+<li><strong>Ne pas sacrifier le présent</strong> au paradis promis par les prêtres, ni à la retraite promise par les patrons.</li>
+<li><strong>Une vie complète</strong> : plaisirs du corps, amour libre, art, savoir et culture.</li>
+<li><strong>Un travail joyeux et utile</strong>, et le droit de profiter de ce qu'on produit.</li>
+<li><strong>Des idoles sans force propre.</strong> Religions, patrie, drapeaux et argent n'ont de pouvoir que par l'obéissance qu'on leur accorde.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Résignation = mort, révolte = vie.</li><li>Le présent avant les promesses.</li><li>Un texte-manifeste, plus cri que programme.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Accuser les résignés</strong>, c'est parfois accuser les plus écrasés. Libertad vise surtout l'attitude, mais le ton peut blesser.</li>
+<li><strong>Un cri plus qu'un programme</strong> : le texte dit quoi refuser, pas comment s'organiser.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le « à quoi bon » face aux crises est peut-être le grand ennemi des mouvements actuels. Libertad rappelle que la résignation est une force politique, au service de l'ordre établi, et que la joie de vivre et la révolte vont ensemble.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>La résignation, c'est la mort ; la révolte, c'est la vie.</li><li>Le présent avant les promesses.</li><li>Un texte-manifeste, plus cri que programme.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les En-dehors</cite></b>, Anne Steiner, L'Échappée, 2008.<span>Le journal <em>l'anarchie</em>, ses rédactrices et rédacteurs, ses causeries.</span></li>
+<li><a href="la-joie-de-vivre.html">La Joie de vivre</a><span>Notre fiche : l'autre face du même texte.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Albert_Libertad" rel="noopener">Albert Libertad sur Wikipédia</a><span>Sa vie et son journal.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/L%27Anarchie,_journal_de_l%27ordre" rel="noopener">Le journal l'anarchie</a><span>Son histoire, de 1905 à 1914.</span></li>
+</ul></section>
+</div>
 
 === betail-patriotique | État & pouvoir | Le Bétail patriotique | Albert Libertad · 1905 | La caserne ne défend pas la nation : elle broie la volonté pour fabriquer des sujets dociles, puis des électeurs obéissants.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1905 dans <em>L'Anarchie</em>, en pleine campagne antimilitariste, quand le service militaire touche presque toute la jeunesse masculine.</p>
+<p>En 1905, une loi fixe le service militaire à deux ans pour tous les jeunes hommes. L'antimilitarisme est alors très fort chez les anarchistes et les syndicalistes : une affiche appelant les conscrits à retourner leurs armes contre leurs officiers en cas de guerre vaut de lourdes peines de prison à ses signataires. La même année, la crise du Maroc fait craindre une guerre avec l'Allemagne. Libertad publie ce texte dans <em>l'anarchie</em>.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'armée se retourne contre chaque individu et sa capacité de vouloir. Elle canalise les forces humaines au profit d'une minorité et prépare à l'obéissance électorale.</p>
+<p>L'armée ne défend pas les gens : elle se retourne contre chaque individu et sa capacité de vouloir. Elle canalise les forces humaines au profit d'une minorité, et prépare à l'obéissance électorale.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Un monologue adressé au conscrit, ajusté de force à un moule.</li>
-<li>L'obéissance aux galons remplace la réflexion ; la patrie devient une idole.</li>
-<li>Tenue, horaires, lectures, fréquentations, sexualité : tout est réglé.</li>
-<li>Au moment où la révolte pourrait naître, la caserne l'étouffe.</li>
+<li><strong>Un monologue adressé au conscrit</strong>, ajusté de force à un moule.</li>
+<li><strong>L'obéissance aux galons</strong> remplace la réflexion ; la patrie devient une idole.</li>
+<li><strong>Tout est réglé</strong> : tenue, horaires, lectures, fréquentations, sexualité.</li>
+<li><strong>La caserne étouffe la révolte</strong> au moment même de la vie, la jeunesse, où elle pourrait naître.</li>
+<li><strong>De la caserne à l'urne</strong> : celui qui a appris à obéir à l'officier obéira au candidat.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Soumettre plutôt que défendre.</li><li>La discipline tue l'autonomie.</li><li>Pendant de <a href="criminel-electeur.html">Le criminel, c'est l'électeur</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Et la défense ?</strong> Le texte ne dit rien de la façon de se défendre face à une invasion. D'autres anarchistes ont défendu l'idée de milices populaires volontaires, comme en Espagne en 1936.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Le service militaire obligatoire a été suspendu en France en 1997, mais le débat revient : service national universel, appels à « réarmer » la jeunesse, retour de la conscription dans plusieurs pays européens. Le texte de Libertad reste une critique précieuse de ce que la caserne fait aux individus.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Soumettre plutôt que défendre.</li><li>La discipline tue l'autonomie.</li><li>Le pendant de <a href="criminel-electeur.html">Le criminel, c'est l'électeur</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="etats-guerre-permanente.html">Les États, c'est la guerre permanente !</a><span>Notre fiche : Bakounine sur l'État et la guerre.</span></li>
+<li><a href="la-guerre-kropotkine.html">La Guerre</a><span>Notre fiche : Kropotkine sur les causes des guerres.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Albert_Libertad" rel="noopener">Albert Libertad sur Wikipédia</a><span>Sa vie et son combat.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Manifeste_des_Seize" rel="noopener">Le Manifeste des Seize</a><span>Le moment où une partie des anarchistes a renoncé à l'antimilitarisme.</span></li>
+</ul></section>
+</div>
 
 === la-joie-de-vivre | Individu & morale | La Joie de vivre | Albert Libertad · 1907 | À des camarades épuisés et tentés par la mort : la vie se suffit à elle-même, il faut combattre ce qui l'étouffe, pas la quitter.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en avril 1907 dans <em>L'Anarchie</em>, en réponse à des militants épuisés par les luttes, dont certains envisagent le suicide.</p>
+<p>Libertad publie ce texte en avril 1907 dans <em>l'anarchie</em>. Plusieurs militantes et militants de son entourage, épuisés par la misère, la répression et les luttes, ont mis fin à leurs jours ou y songent ; certains anarchistes défendent même le suicide comme un acte libre. Libertad leur répond avec chaleur et fermeté.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La vie n'a besoin ni de but ni de justification. Renoncer, totalement ou peu à peu, c'est avouer son impuissance face au milieu. Il faut transformer les conditions qui oppriment.</p>
+<p>La vie n'a besoin ni de but ni de justification : elle se suffit à elle-même. Renoncer, totalement ou peu à peu, c'est avouer son impuissance face au milieu. Il faut transformer les conditions qui oppriment, pas les fuir.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>On se suicide un peu chaque jour : travail épuisant, logement insalubre, obéissance.</li>
-<li>Les discours moraux et religieux sur le devoir ne valent rien ici.</li>
-<li>Choisir de mourir, c'est accepter sa défaite d'avance.</li>
-<li>La vie est plaisir : les sens, l'amour, la pensée.</li>
-<li>Désirer vivre davantage, et unir les volontés.</li>
+<li><strong>On se suicide un peu chaque jour</strong> : travail épuisant, logement insalubre, alcool, obéissance.</li>
+<li><strong>Les sermons ne valent rien ici</strong> : ce ne sont pas les discours sur le devoir qui donnent envie de vivre.</li>
+<li><strong>Choisir de mourir</strong>, c'est accepter sa défaite d'avance face à ceux qui nous écrasent.</li>
+<li><strong>La vie est plaisir</strong> : les sens, l'amour, l'amitié, la pensée.</li>
+<li><strong>Désirer vivre davantage</strong>, et unir les volontés pour rendre la vie vivable pour tout le monde.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Refuser le renoncement quotidien.</li><li>La vie a une valeur propre.</li><li>L'action collective plutôt que la fuite.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>La souffrance psychique</strong> n'est pas qu'une affaire de volonté ou de conditions sociales. Le texte ne remplace ni le soin ni l'écoute.</li>
+</ul>
+
+<div class="note"><p><strong>Si tu vas mal</strong> ou si tu as des idées suicidaires, tu n'es pas seul ou seule. En France, le <strong>3114</strong> (numéro national de prévention du suicide) répond jour et nuit, gratuitement.</p></div>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'épuisement militant, le « burn-out » dans les collectifs, la détresse face aux crises sont des réalités. Le texte de Libertad rappelle que prendre soin les uns des autres, garder de la joie et du plaisir, fait partie de la lutte, et n'est pas un luxe.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Refuser le renoncement quotidien.</li><li>La vie a une valeur propre.</li><li>L'action collective plutôt que la fuite.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="aux-resignes.html">Aux résignés</a><span>Notre fiche : le manifeste de Libertad.</span></li>
+<li><b><cite>Les En-dehors</cite></b>, Anne Steiner, L'Échappée, 2008.<span>La vie quotidienne du milieu individualiste.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Albert_Libertad" rel="noopener">Albert Libertad sur Wikipédia</a><span>Sa vie.</span></li>
+</ul></section>
+</div>
 
 === la-douleur-universelle | Individu & morale | La Douleur universelle | Sébastien Faure · 1895 | Ouvriers, employés, paysans, et même les riches : tout le monde souffre d'un manque de liberté autant que de richesse.
 <h2 id="contexte">Contexte</h2>
-<p>Publié en 1895, en pleine répression des anarchistes. Faure veut toucher un large public à partir de ce qu'il a vu de la misère dans tous les milieux.</p>
+<p>Sébastien Faure (1858-1942) publie ce gros livre en 1895, peu après avoir été acquitté au « procès des Trente ». C'est le moment de la plus forte répression contre les anarchistes. Orateur qui a parcouru toute la France, Faure veut toucher un large public à partir de ce qu'il a vu de la souffrance dans tous les milieux, et proposer une philosophie complète de l'anarchisme.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Le mal social ne vient pas seulement de la répartition des richesses, mais de celle de la liberté. Une société juste permet à chacune et à chacun de satisfaire librement ses besoins physiques, intellectuels et moraux.</p>
+<p>Le mal social ne vient pas seulement de la mauvaise répartition des richesses, mais aussi de celle de la liberté. Une société juste permet à chacune et à chacun de satisfaire librement ses besoins physiques, intellectuels et moraux.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Méfiance envers les grands mots (justice, république, égalité) qui masquent les inégalités.</li>
-<li>Le problème : un milieu qui assure à chacun le bonheur.</li>
-<li>La souffrance des ouvriers, employés, petits commerçants, paysans endettés.</li>
-<li>Les privilégiés eux-mêmes ne sont pas heureux.</li>
-<li>Critique de la propriété, de la concentration du capital et de l'autorité.</li>
-<li>Égoïsme et altruisme se rejoignent.</li>
+<li><strong>Méfiance envers les grands mots</strong> (justice, république, égalité) qui masquent les inégalités réelles.</li>
+<li><strong>Le vrai problème</strong> : construire un milieu social qui permette à chacun d'être heureux.</li>
+<li><strong>Un tour des souffrances</strong> : ouvrières et ouvriers, employés, petits commerçants, paysans endettés.</li>
+<li><strong>Les privilégiés eux-mêmes</strong> ne sont pas heureux : angoisse de perdre, ennui, rivalités.</li>
+<li><strong>La critique de la propriété</strong>, de la concentration du capital et de l'autorité.</li>
+<li><strong>Égoïsme et altruisme se rejoignent</strong> : je ne peux être heureux au milieu du malheur.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Le bonheur se mesure à la liberté réelle.</li><li>Misère matérielle et morale liées.</li><li>Le grand livre de Faure.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un livre long</strong>, souvent répétitif, écrit comme une suite de conférences.</li>
+<li><strong>Les riches souffrent aussi ?</strong> L'argument peut sembler déplacé ; il sert à montrer que le système ne rend personne vraiment libre.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Burn-out, solitude, perte de sens au travail : les souffrances qui ne sont pas d'abord matérielles occupent une grande place dans nos sociétés riches. Faure avait vu que la question sociale ne se réduit pas au porte-monnaie, sans jamais oublier celui-ci.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Le bonheur se mesure à la liberté réelle.</li><li>Misère matérielle et misère morale sont liées.</li><li>Le grand livre de Faure.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="douze-preuves.html">Douze preuves de l'inexistence de Dieu</a><span>Notre fiche sur sa conférence la plus célèbre.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/S%C3%A9bastien_Faure" rel="noopener">Sébastien Faure sur Wikipédia</a><span>Sa vie et ses œuvres.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Proc%C3%A8s_des_Trente" rel="noopener">Le procès des Trente</a><span>Où il a été acquitté en 1894.</span></li>
+</ul></section>
+</div>
 
 === les-anarchistes-faure | État & pouvoir | Les Anarchistes : ce qu'ils sont, ce qu'ils ne sont pas | Sébastien Faure · 1920 | Ni rêveurs inoffensifs ni brutes : les anarchistes combattent ensemble l'État, la propriété et la religion.
 <h2 id="contexte">Contexte</h2>
-<p>Brochure de 1920, en réponse aux caricatures de la presse qui fait des anarchistes des bandits ou des illuminés.</p>
+<p>Sébastien Faure publie cette brochure en 1920. La guerre a décimé le mouvement, la révolution russe attire une partie des anarchistes vers le communisme, et la presse continue de présenter les anarchistes comme des bandits, des poseurs de bombes ou des illuminés. Faure veut reconstruire, avec une présentation claire et accessible.</p>
+
 <h2 id="these">La thèse</h2>
-<p>L'anarchisme, c'est le refus de toute autorité. Elle a trois visages qui se soutiennent : l'État (sur les personnes), la propriété (sur les biens), la religion (sur les consciences). Il faut les abattre ensemble.</p>
+<p>L'anarchisme, c'est le refus de toute autorité. Celle-ci a trois visages qui se soutiennent : l'État, autorité sur les personnes ; la propriété, autorité sur les biens ; la religion, autorité sur les consciences. Il faut les abattre ensemble.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Ni rêveurs inoffensifs, ni brutes violentes.</li>
-<li>Des gens avides d'apprendre ; leur violence répond à celle de la société.</li>
-<li>Leurs haines naissent de leur amour de la liberté, de la justice et de la paix.</li>
-<li>Trois autorités liées.</li>
-<li>Refuser d'obéir en voulant commander est une contradiction.</li>
+<li><strong>Ni rêveurs inoffensifs, ni brutes violentes.</strong></li>
+<li><strong>Des gens avides d'apprendre</strong> ; leur violence, quand elle existe, répond à celle de la société.</li>
+<li><strong>Des haines nées de l'amour</strong> : de la liberté, de la justice et de la paix.</li>
+<li><strong>Trois autorités liées</strong> : supprimer l'une sans les autres ne sert à rien.</li>
+<li><strong>Une cohérence</strong> : refuser d'obéir tout en voulant commander est une contradiction.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Ni commander ni être commandé.</li><li>État, propriété, religion : une même critique.</li><li>Une bonne brochure d'introduction.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Trois autorités</strong>, mais aucune mention du patriarcat ou du racisme comme dominations à part entière, que les anarchistes d'aujourd'hui ajoutent à la liste.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Les clichés sur les anarchistes n'ont guère changé : « casseurs », « utopistes ». Cette brochure de 1920 reste une bonne réponse courte, à faire circuler. La formule « ni commander, ni être commandé » résume tout l'anarchisme en quatre mots.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Ni commander ni être commandé.</li><li>État, propriété, religion : une même critique.</li><li>Une bonne brochure d'introduction.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="l-anarchie-malatesta.html">L'Anarchie</a> de Malatesta<span>Notre fiche : une autre introduction claire.</span></li>
+<li><b><cite>L'Ordre moins le pouvoir</cite></b>, Normand Baillargeon, Agone.<span>Une introduction moderne et pédagogique.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.anarchistlibraries.net/search?query=S%C3%A9bastien+Faure" rel="noopener">Les textes de Sébastien Faure</a><span>Sur la Bibliothèque anarchiste.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/S%C3%A9bastien_Faure" rel="noopener">Sébastien Faure sur Wikipédia</a><span>Sa vie.</span></li>
+</ul></section>
+</div>
 
 === la-colonisation | Histoire & luttes | La Colonisation | Jean Grave · 1912 | Un vol puni chez un particulier devient honorable quand un État le commet : la colonisation comme pillage organisé.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1912 dans <em>Les Temps nouveaux</em>, au moment où l'Italie envahit la Tripolitaine (Libye) et où la France s'installe au Maroc.</p>
-<h2 id="these">La thèse</h2>
-<p>La colonisation est un vol à grande échelle, maquillé en mission civilisatrice. Elle sert à écouler des marchandises, placer des capitaux et caser des fonctionnaires. Les peuples colonisés ne sont pas « arriérés » : ils sont détruits.</p>
-<h2 id="idees">Les idées, dans l'ordre</h2>
-<ol>
-<li>Un double standard moral entre individu et État.</li>
-<li>Les vrais motifs : débouchés, capitaux, main-d'œuvre, postes.</li>
-<li>La brutalité ordinaire de l'armée et de l'administration coloniales.</li>
-<li>La discipline militaire rend les travailleurs complices de leur propre domination.</li>
-<li>Bilan : dépopulation, maladies, alcool, misère.</li>
-</ol>
-<h2 id="retenir">À retenir</h2><ul><li>Un pillage habillé de morale.</li><li>La finance au cœur de l'entreprise coloniale.</li><li>À lire avec <a href="barbarie-francaise.html">Barbarie française</a>.</li></ul>
+<p>Jean Grave publie ce texte en 1912 dans <em>Les Temps nouveaux</em>, puis en brochure. L'Italie vient d'envahir la Tripolitaine (la Libye), la France s'installe au Maroc, et les grandes puissances se partagent l'Afrique et l'Asie. En France, presque toute la classe politique, gauche comprise, défend alors la colonisation comme une « mission civilisatrice ».</p>
 
-=== fetichisme-de-la-loi | État & pouvoir | Le Fétichisme de la loi | Jean Grave · 1895 | La loi exprime les intérêts de ceux qui ont le pouvoir ; dès qu'on la discute, elle ne tient plus que par la force.
-<h2 id="contexte">Contexte</h2>
-<p>Paru en 1895 dans <em>Les Temps nouveaux</em>, en réponse au <em>Figaro</em>, qui admettait l'existence de lois injustes tout en refusant la révolte.</p>
 <h2 id="these">La thèse</h2>
-<p>La loi est arbitraire. Exiger qu'on s'y soumette sans discuter est un acte de foi ; la moindre critique menace son autorité.</p>
+<p>La colonisation est un vol à grande échelle, maquillé en mission civilisatrice. Elle sert à écouler des marchandises, placer des capitaux, exploiter une main-d'œuvre et caser des fonctionnaires. Les peuples colonisés ne sont pas « arriérés » : ils sont détruits.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Les légalistes jugent les lois selon qu'elles gênent leurs amis ou leurs adversaires.</li>
-<li>Chaque parti dénonce les lois qui l'oppriment, puis les applique au pouvoir.</li>
-<li>L'autorité divine a été remplacée par une « volonté nationale » au service de la bourgeoisie.</li>
-<li>La discussion a sapé le respect ; ne reste que la force.</li>
-<li>Pour un légaliste, contester une loi, c'est déjà se révolter.</li>
+<li><strong>Deux poids, deux mesures.</strong> Un vol puni chez un particulier devient honorable quand un État le commet.</li>
+<li><strong>Les vrais motifs</strong> : débouchés, capitaux, main-d'œuvre, postes pour les fonctionnaires et militaires.</li>
+<li><strong>La brutalité ordinaire</strong> de l'armée et de l'administration coloniales : travail forcé, impôts écrasants, massacres.</li>
+<li><strong>Des complices malgré eux</strong> : la discipline militaire rend les travailleurs français complices de la domination, alors que les mêmes intérêts les exploitent chez eux.</li>
+<li><strong>Le bilan</strong> : dépopulation, maladies, alcool, misère.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>La loi se dit neutre, elle sert des privilèges.</li><li>Discuter, c'est déjà fissurer.</li><li>À lire avec <a href="la-loi-et-l-autorite.html">Kropotkine</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Un regard extérieur</strong> sur les colonisés, qui parle d'eux plus qu'avec eux. Les anticolonialistes des peuples concernés, eux, ont dû se battre longtemps pour se faire entendre.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'histoire coloniale française, ses massacres et ses héritages (racisme, inégalités, « Françafrique », territoires d'outre-mer) restent un sujet brûlant, de l'Algérie à la Kanaky-Nouvelle-Calédonie. Ce texte montre que l'anticolonialisme n'est pas une idée tardive : les anarchistes le défendaient dès le début du XXe siècle, quand c'était très minoritaire.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Un pillage habillé de morale.</li><li>La finance au cœur de l'entreprise coloniale.</li><li>À lire avec <a href="barbarie-francaise.html">Barbarie française</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Discours sur le colonialisme</cite></b>, Aimé Césaire, 1950.<span>Le grand texte anticolonial, écrit par un colonisé.</span></li>
+<li><a href="barbarie-francaise.html">Barbarie française</a><span>Notre fiche : Pouget sur l'Indochine.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Jean_Grave" rel="noopener">Jean Grave sur Wikipédia</a><span>Sa vie et ses combats.</span></li>
+</ul></section>
+</div>
+
+=== fetichisme-de-la-loi | État & pouvoir | Le Fétichisme de la loi | Jean Grave · 1895 | La loi exprime les intérêts de celles et ceux qui ont le pouvoir ; dès qu'on la discute, elle ne tient plus que par la force.
+<h2 id="contexte">Contexte</h2>
+<p>Jean Grave publie ce texte en 1895 dans <em>Les Temps nouveaux</em>, le journal qu'il vient de fonder. Il répond au <em>Figaro</em>, grand quotidien conservateur, qui admettait l'existence de lois injustes tout en affirmant qu'il fallait les respecter tant qu'elles n'étaient pas abrogées. C'est l'époque des « lois scélérates », dont Grave lui-même a été victime.</p>
+
+<h2 id="these">La thèse</h2>
+<p>La loi est arbitraire : elle exprime les intérêts de celles et ceux qui la font. Exiger qu'on s'y soumette sans discuter est un acte de foi, comme on adore un fétiche. Dès qu'on la critique, son autorité vacille, et il ne lui reste que la force.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Le légalisme à géométrie variable.</strong> Les légalistes jugent les lois selon qu'elles gênent leurs amis ou leurs adversaires.</li>
+<li><strong>Chaque parti</strong> dénonce les lois qui l'oppriment dans l'opposition, puis les applique une fois au pouvoir.</li>
+<li><strong>Une nouvelle divinité.</strong> L'autorité divine des rois a été remplacée par une « volonté nationale » au service de la bourgeoisie.</li>
+<li><strong>La discussion a sapé le respect</strong> ; il ne reste que la force pour faire obéir.</li>
+<li><strong>Pour un légaliste</strong>, contester une loi, c'est déjà se révolter.</li>
+</ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Toutes les lois ne se valent pas</strong> : certaines protègent. Grave répondrait que leur valeur vient de leur contenu, pas de leur statut de loi.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>« C'est la loi » : l'argument revient sans cesse pour clore un débat, qu'il s'agisse d'expulser des sans-papiers, d'interdire une manifestation ou d'évacuer un squat. La désobéissance civile part du même constat que Grave : une loi injuste n'oblige pas en conscience. Et beaucoup de droits actuels ont été conquis en désobéissant à des lois de l'époque.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>La loi se dit neutre, elle sert des privilèges.</li><li>Discuter, c'est déjà fissurer.</li><li>À lire avec <a href="la-loi-et-l-autorite.html">Kropotkine</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="la-loi-et-l-autorite.html">La Loi et l'autorité</a><span>Notre fiche : Kropotkine sur le même sujet.</span></li>
+<li><a href="de-l-action-directe.html">De l'action directe</a><span>Notre fiche : ce qu'on célèbre était souvent illégal.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/D%C3%A9sob%C3%A9issance_civile" rel="noopener">La désobéissance civile</a><span>Désobéir à une loi injuste, une longue tradition.</span></li>
+</ul></section>
+</div>
 
 === legislation-directe | État & pouvoir | La Législation directe et universelle | Joseph Déjacque · 1857 | Que le peuple vote lui-même ses lois, révisables à tout moment, comme étape vers une liberté sans gouvernement.
 <h2 id="contexte">Contexte</h2>
-<p>Texte de 1857, écrit en exil après 1848 et le coup d'État de 1851. Déjacque cherche comment agir avec une population encore habituée à obéir.</p>
+<p>Joseph Déjacque (1821-1865), ouvrier et poète, insurgé de juin 1848, écrit ce texte en exil en 1857, après le coup d'État de Louis-Napoléon Bonaparte. Dans les milieux républicains et socialistes en exil, on débat de la « législation directe » : plutôt que d'élire des représentants, le peuple voterait lui-même les lois. Déjacque, déjà anarchiste, cherche comment avancer avec une population encore habituée à obéir.</p>
+
 <h2 id="these">La thèse</h2>
-<p>Toute délégation est une abdication. Le peuple doit voter directement les lois, à titre provisoire, sur le chemin de l'anarchie.</p>
+<p>Toute délégation est une abdication. Le peuple doit voter directement ses lois, toujours révisables, à titre provisoire, comme une étape sur le chemin de l'anarchie, c'est-à-dire de la disparition de toute loi imposée.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Voter soi-même les lois éduque à se gouverner.</li>
-<li>Toute loi peut être annulée le lendemain.</li>
-<li>Les fonctions publiques confiées à des associations révocables.</li>
-<li>Justice gratuite par arbitres choisis ; ni police ni armée, mais le peuple armé.</li>
-<li>Enseignement libre, fin des prisons et de la peine de mort.</li>
-<li>Exemple : une expropriation progressive de la propriété privée.</li>
+<li><strong>Une école de liberté.</strong> Voter soi-même les lois apprend à se gouverner.</li>
+<li><strong>Tout est révisable</strong> : une loi peut être annulée le lendemain.</li>
+<li><strong>Des fonctions publiques</strong> confiées à des associations, révocables à tout moment.</li>
+<li><strong>Justice et défense</strong> : une justice gratuite par des arbitres choisis ; ni police ni armée permanente, mais le peuple armé.</li>
+<li><strong>L'enseignement libre</strong>, la fin des prisons et de la peine de mort.</li>
+<li><strong>Un exemple</strong> : une expropriation progressive de la propriété privée.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Pas de représentation.</li><li>Un projet transitoire vers l'abolition du gouvernement.</li><li>Comparer avec la critique de <a href="gouvernement-representatif.html">Bakounine</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>La loi de la majorité</strong> reste une contrainte pour la minorité, ce que Proudhon et Bakounine reprochaient à la démocratie directe. Déjacque le sait, d'où le caractère transitoire de sa proposition.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Référendum d'initiative citoyenne, assemblées, budgets participatifs, mandats révocables : les idées de Déjacque reviennent dans les mouvements qui réclament plus de démocratie directe. Son texte invite à se demander si ces outils sont une fin en soi, ou une école pour apprendre à se passer de gouvernement.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Pas de représentation.</li><li>Un projet transitoire vers l'abolition du gouvernement.</li><li>Comparer avec la critique de <a href="gouvernement-representatif.html">Bakounine</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="a-bas-les-chefs.html">À bas les chefs !</a><span>Notre fiche : Déjacque contre toute dictature.</span></li>
+<li><a href="la-democratie-proudhon.html">La Démocratie</a><span>Notre fiche : la critique de Proudhon en 1848.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Joseph_D%C3%A9jacque" rel="noopener">Joseph Déjacque sur Wikipédia</a><span>Sa vie et ses écrits.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Municipalisme_libertaire" rel="noopener">Le municipalisme libertaire</a><span>La démocratie directe locale aujourd'hui.</span></li>
+</ul></section>
+</div>
 
 === la-democratie-proudhon | État & pouvoir | La Démocratie | Pierre-Joseph Proudhon · 1848 | En 1848, Proudhon examine le suffrage universel : il ne fait pas parler le peuple, il en fabrique un symbole.
 <h2 id="contexte">Contexte</h2>
-<p>Extrait de <em>Solution du problème social</em>, publié en 1848, juste après la révolution de février, quand le gouvernement provisoire convoque une Assemblée élue au suffrage universel (masculin).</p>
+<p>Février 1848 : une révolution renverse le roi Louis-Philippe. Le gouvernement provisoire proclame la République et convoque une Assemblée élue au suffrage universel masculin, une première. L'enthousiasme est immense. Proudhon, lui, reste sceptique. Ce texte est un extrait de <em>Solution du problème social</em>, qu'il publie au printemps 1848, avant les élections d'avril. Celles-ci donneront une assemblée conservatrice, qui écrasera en juin l'insurrection ouvrière.</p>
+
 <h2 id="these">La thèse</h2>
-<p>La démocratie ne fait pas parler le peuple ; elle reproduit des privilèges, impose la loi d'une majorité et ne résout pas la question sociale. La vraie République passe par l'organisation du travail.</p>
+<p>La démocratie représentative ne fait pas parler le peuple ; elle reproduit des privilèges, impose la loi d'une majorité et ne résout pas la question sociale. La vraie République passe par l'organisation économique du travail.</p>
+
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li>Le peuple, être collectif, n'a pas de voix : nul ne peut le représenter sans contestation.</li>
-<li>Le suffrage produit une aristocratie de notables, et exclut femmes, domestiques et bien des ouvriers.</li>
-<li>Une majorité d'une voix fait la loi pour tous.</li>
-<li>Sans mandat impératif, l'élu appartient au pouvoir, pas à ses électeurs.</li>
-<li>L'État démocratique coûterait plus cher sans résoudre la question sociale.</li>
+<li><strong>Le peuple, être collectif, n'a pas de voix</strong> : nul ne peut le représenter sans être contesté.</li>
+<li><strong>Une aristocratie de notables.</strong> Le suffrage produit des élus issus des classes aisées, et exclut les femmes, les domestiques et bien des ouvriers.</li>
+<li><strong>La tyrannie de la majorité</strong> : une majorité d'une voix fait la loi pour tout le monde.</li>
+<li><strong>Sans mandat impératif</strong>, l'élu appartient au pouvoir, pas à celles et ceux qui l'ont élu.</li>
+<li><strong>Un État démocratique</strong> coûterait plus cher sans résoudre la misère.</li>
 </ol>
-<h2 id="retenir">À retenir</h2><ul><li>Le vote ne suffit pas à fonder la légitimité.</li><li>La question sociale avant la question politique.</li><li>Prolongé dans <a href="idee-generale-de-la-revolution.html">Idée générale de la Révolution</a>.</li></ul>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Proudhon et les femmes</strong> : il relève leur exclusion du vote, mais il s'est lui-même opposé à leur participation à la vie politique. Une contradiction que <a href="etre-humain-male-et-femelle.html">Déjacque lui reprochera</a>.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>L'avertissement de Proudhon s'est vérifié dès 1848 : le suffrage universel a d'abord élu une assemblée conservatrice, puis Louis-Napoléon Bonaparte, qui a fait un coup d'État. Ses critiques (les élus issus des classes aisées, l'absence de contrôle une fois élus) restent au cœur des débats sur la crise de la représentation.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul><li>Le vote ne suffit pas à fonder la légitimité.</li><li>La question sociale avant la question politique.</li><li>Prolongé dans <a href="idee-generale-de-la-revolution.html">Idée générale de la Révolution</a>.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="gouvernement-representatif.html">Sur le gouvernement représentatif</a><span>Notre fiche : Bakounine, vingt ans plus tard.</span></li>
+<li><b><cite>L'Anarchisme</cite></b>, Édouard Jourdain, La Découverte, Repères, 2013.<span>Une introduction qui situe Proudhon.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Pierre-Joseph_Proudhon" rel="noopener">Pierre-Joseph Proudhon sur Wikipédia</a><span>1848 et ses combats.</span></li>
+</ul></section>
+</div>

@@ -11,7 +11,7 @@
 <link rel="apple-touch-icon" href="{{R}}assets/icone-180.png">
 <link rel="stylesheet" href="{{R}}assets/fonts.css">
 <link rel="stylesheet" href="{{R}}assets/style.css">
-<script>/* lecture facile : appliquée avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); } catch (e) {}</script>
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
@@ -38,6 +38,7 @@
     </select>
     <button class="search__go" type="submit">Chercher</button>
     <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
     <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
   </form>
 </div>

@@ -1,0 +1,266 @@
+=== street-medic | Street medic | Street medics : le soin entre camarades | D'après Médic'Action, Désarmons-les et des collectifs autonomes · 2026 | Qui sont les street medics, d'où vient cette pratique, pourquoi le soin en manif est politique, et comment se former auprès des collectifs autonomes, anarchistes et queer.
+<p>En manif, quand la police gaze, tire ou charge, les secours officiels arrivent tard, ou pas du tout. Depuis plus de cinquante ans, des camarades s'organisent pour <strong>soigner les leurs</strong> : ce sont les <strong>street medics</strong>. Cette rubrique rassemble, avec nos mots, les conseils de plusieurs collectifs autonomes. Les fiches suivantes donnent les gestes concrets.</p>
+<div class="note"><p><strong>Ces fiches ne remplacent pas une formation.</strong> Les premiers secours s'apprennent avec les mains, sur un mannequin et avec d'autres personnes. Lis-les pour te préparer, puis va te former : c'est gratuit ou presque auprès des collectifs, et ça peut sauver une vie.</p></div>
+
+<h2 id="origines">D'où ça vient</h2>
+<p>La pratique naît aux <strong>États-Unis dans les années 1960</strong>, pendant le mouvement pour les droits civiques. Elle est reprise par le <strong>Black Panther Party</strong> et l'<strong>American Indian Movement</strong>, qui ouvrent des cliniques gratuites et autogérées pour les populations que le système de santé laissait de côté. Le soin en manif n'en est qu'une partie : au départ, il s'agit d'<strong>arracher l'accès aux soins</strong> pour les personnes noires et autochtones.</p>
+<p>En France, des équipes existent depuis longtemps dans les luttes (ZAD, contre-sommets). Elles se multiplient avec la loi Travail en 2016, puis avec les Gilets jaunes en 2018 et 2019, quand les tirs de LBD et de grenades blessent et mutilent des centaines de personnes.</p>
+
+<h2 id="politique">Le soin est politique</h2>
+<p>Un street medic n'est pas un secouriste « neutre » qui serait là pour tout le monde. Les collectifs autonomes le disent clairement : le soin en manif est <strong>une pratique de lutte</strong>, au même titre que la legal team ou le soutien psychologique. Une coordination de quatorze collectifs a posé ces principes pendant le mouvement des Gilets jaunes :</p>
+<ol class="principes">
+<li><b>Ne jamais balancer</b>Aucune collaboration avec la police, quelles que soient les pratiques des camarades. Un « secouriste » qui livre des manifestantes ou des manifestants n'a rien d'un street medic.</li>
+<li><b>Pas de héros</b>Pas de tenue militaire, de gilet tactique ni de posture de sauveur. On reste des manifestantes et des manifestants comme les autres, avec un brassard blanc.</li>
+<li><b>Le consentement d'abord</b>On se présente, on demande, on respecte un refus. On respecte aussi le genre et les choix de chaque personne.</li>
+<li><b>Le savoir à tout le monde</b>Pas besoin de diplôme pour aider : chaque personne agit selon ce qu'elle sait faire. Le savoir se partage, il ne se garde pas.</li>
+<li><b>Contre toutes les oppressions</b>Pas de place pour le racisme, le sexisme, la transphobie ni l'extrême droite. Les quartiers populaires subissent la répression en premier.</li>
+</ol>
+<p>Le collectif lyonnais Médic'Action insiste sur un point : le soin ne représente qu'<strong>une petite partie</strong> du travail. Le plus important, c'est de <strong>connaître la manif</strong> (les armes et les tactiques de la police, les mouvements de foule), puis de <strong>savoir faire avec les humains</strong> : rester calme, connaître ses limites, rassurer quelqu'un au milieu du chaos. Les gestes eux-mêmes sont souvent ceux de n'importe quelle formation de base.</p>
+
+<h2 id="collectifs">Des collectifs autonomes</h2>
+<p>Voici quelques collectifs qui partagent leurs conseils et forment. Avant une manif, cherche celui de ta ville : beaucoup donnent des initiations ouvertes à toutes et à tous.</p>
+<ul>
+<li><strong>Médic'Action (Lyon)</strong> : collectif <strong>queer et libertaire</strong>, né en 2017 après la loi Travail. Il agit en manif et auprès des personnes précaires, et forme pour que chacune et chacun devienne autonome. Il publie la brochure <em>Touxtes street-médics</em>, des fiches d'une page et un wiki.</li>
+<li><strong>Pink Medics (Toulouse)</strong> : collectif <strong>horizontal, autonome, radical et inclusif</strong>, basé à La BASE. Il forme aux premiers secours, aux premiers secours en santé mentale et à la médiation contre les oppressions (violences sexistes et sexuelles, racisme, validisme).</li>
+<li><strong>Street Medic Nantes</strong> : militantes et militants autonomes, contre l'armement de la police et contre le fascisme. Le collectif recense les personnes blessées en manif et informe sur les armes policières.</li>
+<li><strong>Street Medic Genève</strong> : collectif né en 2025, issu des milieux antifascistes et des luttes contre les oppressions. On peut y aider sans formation médicale, par exemple pour la sécurité des équipes ou la coordination.</li>
+<li><strong>Désarmons-les !</strong> : ce n'est pas une équipe de soin, mais un collectif qui documente les blessures causées par les armes de la police. Sa brochure sur ces blessures reprend les conseils de Street Medics Paris.</li>
+</ul>
+
+<h2 id="formation">Se former</h2>
+<ul>
+<li><strong>Auprès des collectifs</strong> : initiations au soin en manif, aux déplacements en groupe, à la gestion de la panique. Elles sont annoncées sur leurs sites et réseaux, ou dans les lieux autogérés.</li>
+<li><strong>Une formation de base classique</strong> : le <strong>PSC1</strong> (« prévention et secours civiques ») dure environ une journée et coûte souvent entre 50 et 70 €. La Croix-Rouge, la Protection civile et les pompiers en organisent. Les collectifs eux-mêmes disent que les gestes de base sont les mêmes qu'en manif. Des aides existent pour les personnes au RSA, au chômage ou boursières.</li>
+<li><strong>Lire</strong> : la brochure <em>Touxtes street-médics</em> pour commencer, puis <em>Riot Medicine</em> (en anglais, libre de droits) pour aller loin.</li>
+</ul>
+<p>Pas envie de soigner ? Il y a d'autres rôles : faire un cordon autour d'une personne blessée, éloigner les photographes, appeler les secours, porter de l'eau. Et <strong>apprendre à te soigner toi-même</strong> : c'est le but des fiches suivantes.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les collectifs</h3><ul>
+<li><a href="https://medicaction.org/" rel="noopener">Médic'Action</a><span>Collectif street medic queer et libertaire de Lyon : bilans de manif, fiches, wiki et formations.</span></li>
+<li><a href="https://labasetoulouse.fr/collectifs/pink-medics/" rel="noopener">Pink Medics, à La BASE Toulouse</a><span>Présentation du collectif et de ses formations.</span></li>
+<li><a href="https://renverse.co/infos-locales/article/naissance-du-collectif-street-medic-geneve-s-engager-pour-proteger-nos-7817" rel="noopener">Naissance de Street Medic Genève</a><span>Sur Renversé, le site d'infos libertaires de Suisse romande.</span></li>
+<li><a href="https://desarmons.net/ressources/" rel="noopener">Désarmons-les !</a><span>Ressources sur les armes de la police et leurs effets.</span></li>
+</ul></section>
+<section><h3>Lire</h3><ul>
+<li><a href="https://medicaction.org/touxtes-street-medics/" rel="noopener">Touxtes street-médics</a><span>La brochure de Médic'Action (2024) : la meilleure porte d'entrée, en 16 pages.</span></li>
+<li><a href="https://desarmons.net/wp-content/uploads/2021/10/Brochure_Partie_Medic_2021.pdf" rel="noopener">Les blessures occasionnées par les armes de police (PDF)</a><span>Désarmons-les, 2021 : les principes de la street medic, le matériel et les blessures.</span></li>
+<li><a href="https://riotmedicine.net/downloads" rel="noopener">Riot Medicine</a><span>Le manuel de référence des street medics, en anglais, libre de droits, avec un guide de poche.</span></li>
+<li><a href="https://expansive.info/Pratiquons-la-street-medic-265" rel="noopener">Pratiquons la street médic</a><span>Un appel à se former, sur Expansive, le site d'infos libertaires d'Orléans.</span></li>
+</ul></section>
+<section><h3>Comprendre</h3><ul>
+<li><a href="https://reporterre.net/Les-street-medics-face-a-une-repression-de-plus-en-plus-feroce" rel="noopener">Les street medics face à la répression</a><span>Reportage de Reporterre sur des équipes visées par la police.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Street_medic" rel="noopener">Street medic sur Wikipédia</a><span>L'histoire de la pratique, des États-Unis à la France.</span></li>
+</ul></section>
+<section><h3>Formations de base</h3><ul>
+<li><a href="https://www.croix-rouge.fr/formations" rel="noopener">Croix-Rouge française</a><span>Les formations aux premiers secours près de chez toi.</span></li>
+<li><a href="https://www.protection-civile.org/formations/" rel="noopener">Protection civile</a><span>Le PSC1 et d'autres formations.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par Mamie Commune d'après la brochure « Touxtes street-médics » de Médic'Action (2024), la brochure de Désarmons-les ! (2021), qui reprend Street Medics Paris, et les présentations des collectifs cités. Elle ne remplace pas une formation aux premiers secours.</p>
+
+=== se-preparer-soin | Street medic | Se préparer et se protéger | D'après Médic'Action et Street Medics Paris · 2026 | Avant de partir : ce qu'on met sur soi, ce qu'on évite, comment protéger ses yeux, ses poumons et sa tête, et la petite trousse de soin à glisser dans son sac.
+<p>La plupart des blessures se préviennent avant même la manif. Cette fiche dit quoi faire avant de partir, quoi porter, et quoi mettre dans une petite trousse pour soigner tes camarades et toi-même.</p>
+
+<h2 id="avant">La veille et le jour même</h2>
+<ul>
+<li><strong>Dors, mange et bois</strong> avant de partir, et prends de l'eau et de quoi grignoter. Ton état physique pèse sur ton moral.</li>
+<li><strong>Choisis une ou un binôme</strong>, et ne vous lâchez pas. Dites-vous avant vos limites : jusqu'où vous voulez aller, ce qui vous fait peur, quand vous partez.</li>
+<li>Note sur ton bras ou sur un papier le <strong>numéro de la legal team</strong> et celui d'une personne proche (voir la <a href="legal-team.html">fiche Legal Team</a>).</li>
+<li><strong>Pas d'alcool</strong> avant ni pendant : il te met en danger et la police s'en sert contre toi.</li>
+<li><strong>Pas de crème ni de maquillage gras</strong> sur le visage : le gras retient le produit des gaz sur la peau. Pour le soleil, choisis une crème sans gras.</li>
+<li><strong>Pas de lentilles</strong> : le gaz passe dessous et brûle plus. Mets tes lunettes, attachées avec un cordon.</li>
+<li><strong>Asthme, diabète, épilepsie, traitement à prendre</strong> : préviens ton binôme, prends tes médicaments et une copie de l'ordonnance à ton nom.</li>
+<li><strong>Si tu as tes règles</strong>, préfère des serviettes : si tu es retenue ou retenu longtemps, tu ne pourras peut-être pas changer un tampon ou une coupe, et un tampon gardé trop longtemps présente des risques.</li>
+</ul>
+
+<h2 id="tenue">Ce qu'on porte</h2>
+<ul>
+<li><strong>Des vêtements épais en coton</strong> qui couvrent bras et jambes. Évite le synthétique : s'il prend feu, il fond et colle à la peau.</li>
+<li><strong>Des chaussures fermées</strong>, lacées, dans lesquelles tu peux courir.</li>
+<li><strong>Un haut de rechange</strong> dans un sac plastique fermé, pour te changer quand tes habits sentent le gaz.</li>
+<li>Les cheveux longs attachés, rien qui pende autour du cou.</li>
+</ul>
+
+<h2 id="proteger">Protéger, dans l'ordre : les yeux, la respiration, la tête</h2>
+<p>Médic'Action conseille de protéger d'abord <strong>les yeux</strong> : dans le gaz, si tu vois, tu peux sortir, même en toussant. On peut retenir sa respiration quelques secondes, mais fermer les yeux ne protège pas. Une personne asthmatique pourra choisir de protéger d'abord sa respiration.</p>
+<ul>
+<li><strong>Les yeux</strong> : un <strong>masque de natation</strong> (assez grand, avec une sangle réglable) ou des lunettes de chantier étanches. <strong>Évite les petites lunettes de piscine</strong> : sous un choc, elles peuvent s'enfoncer dans l'orbite.</li>
+<li><strong>La respiration</strong> : un masque de chantier <strong>FFP3</strong> protège correctement ; un FFP2 ou une écharpe, beaucoup moins. Le masque à cartouches protège le mieux, mais il attire l'attention de la police.</li>
+<li><strong>La tête</strong> : un casque léger et confortable (de ski ou de vélo). Évite les casques à l'allure agressive : ils font peur aux personnes que tu veux rassurer.</li>
+<li><strong>Les oreilles</strong> : des bouchons, contre les détonations des grenades.</li>
+</ul>
+<div class="note"><p><strong>Attention au risque légal.</strong> Pour la police, porter un casque, un masque ou des lunettes peut passer pour une volonté de se cacher le visage ou de commettre des violences. Ce matériel peut être saisi lors d'une fouille, et mener jusqu'à la garde à vue. Pèse le pour et le contre selon la manif, et relis la <a href="legal-team.html#controle">partie sur les contrôles</a>.</p></div>
+
+<h2 id="trousse">La petite trousse</h2>
+<p>Pas besoin d'un sac d'hôpital. Une petite trousse suffit pour soigner les blessures les plus courantes et attendre les secours.</p>
+<ul>
+<li><strong>Des gants</strong> jetables sans latex, à mettre avant de toucher une plaie.</li>
+<li><strong>Du sérum physiologique</strong> en dosettes, pour rincer les yeux et les plaies. Et <strong>beaucoup d'eau</strong> : c'est ce qui manque le plus en manif.</li>
+<li><strong>Des lingettes pour bébé</strong>, pour enlever le gel des gazeuses à main.</li>
+<li><strong>Des compresses</strong> stériles en petits sachets, <strong>une bande</strong>, des <strong>pansements</strong>, du sparadrap et des <strong>ciseaux à bout rond</strong>.</li>
+<li>Un <strong>désinfectant incolore</strong> en dosettes (la Bétadine colore la plaie et gêne l'examen à l'hôpital).</li>
+<li>Une <strong>poche de froid</strong> instantanée, pour les coups.</li>
+<li>Une <strong>couverture de survie</strong>, contre le froid, la pluie ou le soleil.</li>
+<li><strong>Du sucre</strong> : bonbons ou barres, pour après un malaise, une fois la personne bien réveillée.</li>
+<li>Des <strong>sacs plastique</strong> pour les déchets, du papier et un stylo.</li>
+</ul>
+<p>Un <strong>brassard blanc</strong> ou un vieux t-shirt blanc indique que tu peux aider. C'est discret, et ça s'enlève vite si la police cible les médics.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://medicaction.org/touxtes-street-medics/" rel="noopener">Touxtes street-médics</a><span>Médic'Action, 2024 : les protections, dans l'ordre, et le cadre légal.</span></li>
+<li><a href="https://desarmons.net/wp-content/uploads/2021/10/Brochure_Partie_Medic_2021.pdf" rel="noopener">Brochure de Désarmons-les ! (PDF)</a><span>La liste de matériel de Street Medics Paris et la préparation avant une manif.</span></li>
+</ul></section>
+<section><h3>Aller plus loin</h3><ul>
+<li><a href="https://medicaction.org/fiches/" rel="noopener">Les fiches de Médic'Action</a><span>Des fiches d'une page à imprimer et à faire tourner.</span></li>
+<li><a href="https://riotmedicine.net/downloads" rel="noopener">Riot Medicine</a><span>En anglais : une liste de contrôle du matériel et un guide de poche.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par Mamie Commune d'après « Touxtes street-médics » de Médic'Action (2024) et la brochure de Désarmons-les ! (2021), qui reprend Street Medics Paris. Elle ne remplace pas une formation aux premiers secours.</p>
+
+=== soigner-en-manif | Street medic | Se soigner en manif : les gestes | D'après Médic'Action et Street Medics Paris · 2026 | Gaz lacrymogène, gazeuse à main, coups, tirs de LBD, plaies, brûlures, malaise, crise d'angoisse : les premiers gestes, et quand appeler les secours.
+<p>Les gestes de cette fiche viennent des collectifs street medics et des formations de premiers secours. Une règle avant tout : <strong>ne rien faire vaut mieux que faire n'importe quoi</strong>. Si tu ne sais pas, protège la personne, reste avec elle et appelle à l'aide.</p>
+
+<h2 id="principes">Avant tout geste</h2>
+<ol>
+<li><strong>Se mettre à l'abri.</strong> Pendant une charge ou un mouvement de foule, on éloigne d'abord la personne du danger, si elle peut bouger, puis on soigne. D'autres camarades peuvent faire un cordon autour.</li>
+<li><strong>Se présenter et demander.</strong> « Je suis street medic, je peux t'aider ? Je vais te mettre du sérum dans les yeux. » Annonce chaque geste. Une personne peut refuser : alors conseille-la (quitter la manif, aller aux urgences, rester avec ses proches).</li>
+<li><strong>Regarder dans l'ordre.</strong> Est-ce que la personne répond ? Est-ce qu'elle respire ? Est-ce qu'elle saigne beaucoup ?</li>
+<li><strong>Crier « Medic ! »</strong> si tu as besoin de quelqu'un de plus compétent, et montre la direction avec le bras.</li>
+</ol>
+<p>Pense aux personnes qui ne peuvent pas répondre avec des mots : en état de choc, sourdes ou malentendantes, ou qui ne parlent pas français. Une personne qui se débat, crie ou se fige peut avoir peur de toi : explique encore, calmement.</p>
+
+<h2 id="lacrymo">Gaz lacrymogène</h2>
+<p>Le « gaz » des grenades n'est pas vraiment un gaz : ce sont de fines particules (du <strong>CS</strong>) qui brûlent les yeux, le nez, la gorge et la peau. Les effets passent en général <strong>en 10 à 30 minutes</strong> à l'air frais.</p>
+<ul>
+<li><strong>Sors du nuage</strong> en restant calme, si possible contre le vent et vers un endroit plus haut : le produit retombe vers le sol. Respire lentement et peu.</li>
+<li><strong>Ne frotte pas tes yeux.</strong> Rince-les au sérum physiologique ou à l'eau propre, en versant du coin intérieur de l'œil vers l'extérieur, la tête penchée sur le côté.</li>
+<li>Crache, mouche-toi, ne ravale pas.</li>
+<li>Beaucoup de médics vaporisent du <strong>Maalox dilué dans l'eau</strong> sur le visage et dans la bouche (puis on recrache) pour calmer la brûlure. Ça soulage beaucoup de monde, mais aucune étude ne montre que ça marche mieux que l'eau : <strong>l'essentiel est de rincer</strong>.</li>
+<li><strong>Personne asthmatique</strong> ou qui respire très mal, malaise, douleur dans la poitrine : sors-la du gaz, assieds-la, donne-lui son traitement et appelle les secours si ça ne passe pas.</li>
+</ul>
+
+<h2 id="gazeuse">Gazeuse à main</h2>
+<p>Les bombes que la police utilise à la main, souvent de très près, projettent un <strong>gel gras</strong> bien plus concentré. L'eau glisse dessus et l'étale.</p>
+<ul>
+<li><strong>Essuie d'abord le gel</strong> avec des lingettes pour bébé, doucement, du haut vers le bas, sans frotter, en utilisant chaque partie de la lingette <strong>une seule fois</strong>. Évite de ramener le produit vers les yeux et le nez.</li>
+<li>Rince ensuite les yeux au sérum physiologique.</li>
+<li>Douche froide et savon dès que possible (voir la <a href="apres-la-manif.html#decontaminer">fiche Après la manif</a>).</li>
+</ul>
+
+<h2 id="coups">Coups, LBD et grenades</h2>
+<ul>
+<li><strong>Bleu ou bosse</strong> : du froid (poche de froid enveloppée dans un tissu, jamais directement sur la peau), du repos. Si la zone devient rouge, chaude, très douloureuse, ou si ça ne va pas mieux en deux ou trois jours : médecin.</li>
+<li><strong>Coup à la tête</strong> : <strong>urgences, même si la personne se sent bien</strong>. Elle ne doit pas rester seule pendant <strong>48 heures</strong>. Signes graves : vomissements, maux de tête qui augmentent, vertiges, confusion, propos qui ne tiennent pas debout, somnolence, perte de connaissance. Dans ce cas, appelle le 112.</li>
+<li><strong>Coup dans l'œil</strong> (tir de LBD, éclat de grenade) : <strong>n'appuie pas</strong>, ne frotte pas, ne retire rien de ce qui est planté. Protège l'œil sans le toucher (un gobelet en carton posé autour par exemple), et va aux urgences <strong>tout de suite</strong>. Chaque minute compte pour la vue.</li>
+<li><strong>Coup à la poitrine ou au ventre</strong> avec gêne pour respirer, douleur qui augmente, pâleur, sueurs : il peut y avoir une blessure interne. Allonge ou assieds la personne et appelle les secours.</li>
+<li><strong>Fracture possible</strong> (douleur forte, déformation, impossible de bouger) : ne remets rien en place. Immobilise dans la position où tu trouves le membre (avec un carnet, une écharpe…) et direction les urgences.</li>
+<li><strong>Détonation près de l'oreille</strong> : si l'oreille siffle, saigne ou n'entend plus, couvre-la sans rien mettre dedans et consulte. Pour te protéger, tourne le dos à l'explosion et couvre tes oreilles avec tes avant-bras.</li>
+</ul>
+
+<h2 id="plaies">Plaies et saignements</h2>
+<ul>
+<li>Mets des <strong>gants</strong>.</li>
+<li><strong>Petite plaie</strong> : rince au sérum physiologique, désinfecte, pansement, et la manif continue.</li>
+<li><strong>Ça saigne beaucoup</strong> : <strong>appuie fort et sans relâcher</strong> avec des compresses ou un tissu propre, directement sur la plaie. Si ça traverse, rajoute par-dessus sans enlever. Quand ça s'arrête, maintiens avec une bande bien serrée (un pansement compressif).</li>
+<li><strong>Ça ne s'arrête pas</strong>, ou ça saigne en jet : continue d'appuyer et <strong>appelle le 112</strong>.</li>
+<li>Un objet planté dans la plaie : on ne le retire pas. On le cale avec des compresses, et on appelle les secours.</li>
+</ul>
+
+<h2 id="brulures">Brûlures</h2>
+<ul>
+<li>Si les vêtements brûlent : on <strong>fait rouler la personne au sol</strong> ou on l'étouffe avec une couverture.</li>
+<li><strong>Refroidis à l'eau</strong> pendant au moins <strong>10 minutes</strong>, en versant un peu au-dessus de la brûlure. Rien d'autre : ni crème, ni huile, ni glace.</li>
+<li><strong>Ne perce pas les cloques</strong>, n'enlève pas un vêtement collé à la peau. Couvre avec une compresse humide, sans serrer.</li>
+<li><strong>Appelle les secours</strong> si la brûlure est plus grande que la moitié de la paume de la personne, si elle touche le visage, les mains, les pieds ou le sexe, si la peau est blanche, cartonnée ou noire, ou si la brûlure ne fait pas mal (c'est mauvais signe).</li>
+</ul>
+
+<h2 id="malaise">Malaise, chaleur, perte de connaissance</h2>
+<ul>
+<li><strong>La personne est consciente</strong> : allonge-la (ou assieds-la si elle respire mal), à l'ombre ou à l'abri. Parle-lui : a-t-elle mangé, bu, pris quelque chose, a-t-elle un traitement ? Donne de l'eau ou du sucre seulement quand elle est bien réveillée et qu'elle ne vomit pas.</li>
+<li><strong>Coup de chaleur</strong> : très fréquent l'été. Mets la personne au frais, fais-la boire par petites gorgées, mouille sa peau.</li>
+<li><strong>Elle ne répond pas mais respire</strong> : mets-la en <strong>position latérale de sécurité</strong> (sur le côté) et appelle les secours.</li>
+<li><strong>Elle ne répond pas et ne respire pas</strong> : appelle le 112, commence le <strong>massage cardiaque</strong> et fais chercher un défibrillateur. Les secours te guident au téléphone.</li>
+<li>Couvre la personne avec une couverture de survie, contre le froid comme contre le soleil.</li>
+</ul>
+
+<h2 id="angoisse">Crise d'angoisse</h2>
+<p>Gazages et charges provoquent souvent des crises de panique. Il n'y a pas de méthode miracle : ce qui calme une personne peut en paniquer une autre.</p>
+<ul>
+<li>Parle doucement, dis qui tu es, rappelle que <strong>ça va passer dans quelques minutes</strong> et qu'elle est en sécurité.</li>
+<li><strong>Ne touche pas sans demander</strong> : pour beaucoup de gens, le contact aggrave la crise.</li>
+<li>Si la personne ne voit plus rien autour d'elle, propose-lui ta main, posée sous la sienne, pour sortir ensemble du danger.</li>
+<li>Ses proches savent peut-être ce qui l'aide : demande-leur.</li>
+<li>Souvent, la seule chose à faire est <strong>d'être là</strong>. Ce n'est pas « rien ».</li>
+</ul>
+
+<h2 id="secours">Appeler les secours</h2>
+<p>Le <strong>112</strong> marche dans toute l'Europe, et en France le <strong>15</strong> (Samu) aussi. Les personnes sourdes ou malentendantes peuvent joindre le <strong>114</strong> par SMS ou par l'application du 114. Au téléphone :</p>
+<ol>
+<li>Dis qui tu es : « Je suis secouriste bénévole dans une manifestation. »</li>
+<li>Donne <strong>l'adresse exacte</strong> et comment y accéder, en premier : l'ambulance peut partir pendant que tu continues.</li>
+<li>Décris ce qui s'est passé et l'état de la personne : est-ce qu'elle répond, est-ce qu'elle respire, est-ce qu'elle saigne ?</li>
+<li>Dis ce que tu as déjà fait.</li>
+<li><strong>Ne raccroche jamais en premier.</strong></li>
+</ol>
+<p>Demande d'abord son accord à la personne blessée, si elle peut répondre. Quand les médics s'occupent de quelqu'un, les autres peuvent faire un cordon et <strong>éloigner les photographes</strong> : on protège l'image des personnes blessées.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://medicaction.org/touxtes-street-medics/" rel="noopener">Touxtes street-médics</a><span>Médic'Action, 2024 : consentement, lacrymo, traumatismes, brûlures, angoisse, appel aux secours.</span></li>
+<li><a href="https://desarmons.net/wp-content/uploads/2021/10/Brochure_Partie_Medic_2021.pdf" rel="noopener">Brochure de Désarmons-les ! (PDF)</a><span>Blessures des armes de la police : yeux, oreilles, brûlures, fractures, plaies.</span></li>
+<li><a href="https://www.msdmanuals.com/fr/accueil/l%C3%A9sions-et-intoxications/armes-de-destruction-massive/agents-chimiques-de-lutte-anti-%C3%A9meute" rel="noopener">Agents chimiques anti-émeute, Manuel MSD</a><span>La fiche médicale : effets des gaz et traitement.</span></li>
+</ul></section>
+<section><h3>Apprendre les gestes</h3><ul>
+<li><a href="https://medicaction.org/wiki/" rel="noopener">Le wiki de Médic'Action</a><span>Des protocoles plus détaillés, mis à jour par le collectif.</span></li>
+<li><a href="https://www.croix-rouge.fr/formations" rel="noopener">Formations de la Croix-Rouge</a><span>Le PSC1 : position latérale de sécurité, massage cardiaque, hémorragies.</span></li>
+<li><a href="https://riotmedicine.net/downloads" rel="noopener">Riot Medicine : Field Guide</a><span>En anglais : le guide de poche, symptôme par symptôme.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par Mamie Commune d'après « Touxtes street-médics » de Médic'Action (2024), la brochure de Désarmons-les ! (2021) et les gestes enseignés dans les formations de premiers secours. Elle ne remplace pas une formation, ni l'avis d'une personne soignante.</p>
+
+=== apres-la-manif | Street medic | Après la manif : soins, preuves et repos | D'après Médic'Action et Street Medics Paris · 2026 | Se décontaminer, faire constater ses blessures, garder des preuves, et prendre soin de sa tête et du groupe dans les jours qui suivent.
+<p>La manif ne s'arrête pas quand on rentre. Il faut se laver du gaz, faire soigner et constater les blessures, et prendre soin de sa tête. Ce qu'on a vu ou vécu peut laisser des traces.</p>
+
+<h2 id="decontaminer">Se laver du gaz</h2>
+<ul>
+<li>Enlève tes vêtements et mets-les dans un sac fermé. Lave-les à part.</li>
+<li><strong>Douche à l'eau froide d'abord</strong>, sans frotter, puis avec du savon. L'eau chaude ouvre les pores et relance la brûlure.</li>
+<li>Lave aussi tes cheveux, tes lunettes et ton matériel.</li>
+</ul>
+
+<h2 id="constater">Faire soigner et constater</h2>
+<ul>
+<li>Pour un coup à la tête, à l'œil, une plaie profonde ou une douleur qui ne passe pas : <strong>urgences ou médecin</strong>. Le personnel soignant est tenu au <strong>secret médical</strong>.</li>
+<li>Demande un <strong>certificat médical</strong> qui décrit tes blessures et fixe une durée d'incapacité totale de travail (ITT). Il sera indispensable si tu portes plainte ou si tu dois te défendre.</li>
+<li><strong>Photographie tes blessures</strong> pendant plusieurs jours, avec la date. Note tout de suite ce qui s'est passé : heure, lieu, unité de police, arme, témoins.</li>
+<li><strong>Contacte la legal team</strong> avant toute démarche : elle t'aidera à décider s'il faut porter plainte, et comment (voir la <a href="legal-team.html">fiche Legal Team</a>).</li>
+<li>Tu peux aussi témoigner auprès de <strong>Désarmons-les !</strong>, qui recense les blessures causées par les armes de la police.</li>
+</ul>
+
+<h2 id="tete">Prendre soin de sa tête</h2>
+<p>Médic'Action propose deux temps, valables pour les médics comme pour tout le monde :</p>
+<ul>
+<li><strong>Dans les 24 heures : décompresser.</strong> Se retrouver entre amies et amis, manger, rire, faire des choses rassurantes. Ça aide à « ranger » ce qui s'est passé au lieu de le laisser devenir un traumatisme.</li>
+<li><strong>Entre 2 et 10 jours après : en parler en groupe.</strong> Reconstruire ensemble ce qui s'est passé, dans l'ordre. Ça permet de partager le choc, et de dire à plusieurs la peur, la colère, la culpabilité ou l'impuissance.</li>
+</ul>
+<p>Cauchemars, idées noires, impression de revivre la scène, impossible de se concentrer plusieurs semaines après ? <strong>C'est fréquent, et ça se soigne.</strong> Parles-en à une personne de confiance, et si tu peux, à une ou un psy en qui tu as confiance.</p>
+<p>Et pour les médics : <strong>tu n'as pas à tout porter</strong>. On ne sauve pas tout le monde, et être présent ou présente compte déjà beaucoup.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://medicaction.org/touxtes-street-medics/" rel="noopener">Touxtes street-médics</a><span>Médic'Action, 2024 : la partie « L'après », décompresser puis en parler en groupe.</span></li>
+<li><a href="https://medicaction.org/2017/10/30/le-front-autodefense-de-medic-action-presente-les-soins-post-manif/" rel="noopener">Les soins post manif</a><span>Médic'Action : prendre soin de soi et des autres après l'action.</span></li>
+<li><a href="https://desarmons.net/wp-content/uploads/2021/10/Brochure_Partie_Medic_2021.pdf" rel="noopener">Brochure de Désarmons-les ! (PDF)</a><span>Se décontaminer et faire constater les blessures.</span></li>
+</ul></section>
+<section><h3>Se défendre</h3><ul>
+<li><a href="https://desarmons.net/ressources/" rel="noopener">Désarmons-les !</a><span>Ressources et recensement des blessures causées par la police.</span></li>
+<li><a href="https://www.defenseurdesdroits.fr" rel="noopener">Le Défenseur des droits</a><span>Une autorité indépendante, gratuite, à saisir en cas de violence policière.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par Mamie Commune d'après « Touxtes street-médics » de Médic'Action (2024) et la brochure de Désarmons-les ! (2021). Elle ne remplace pas l'avis d'une personne soignante, ni celui d'une avocate ou d'un avocat.</p>

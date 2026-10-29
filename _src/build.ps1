@@ -28,7 +28,7 @@ $familles = @(
     @("octobre", "mouvement-17-octobre.html", "Mouvement du 17 Octobre", "Où agir : les mobilisations, jour par jour", "mouvement-17-octobre"),
     @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, agir contre elle", "antifascisme/")) },
   [ordered]@{ id = "defendre"; nom = "Se défendre"; dit = "Tes droits, ta sécurité"; rubriques = @(
-    @("manif", "manif/index.html", "Guide de manif", "Tes droits face à la police, contester un PV", "manif/"),
+    @("manif", "manif/index.html", "Guide de manif", "Tes droits face à la police, se soigner en manif", "manif/"),
     @("outils", "guides/index.html", "Outils numériques", "Signal, vie privée, Linux : se protéger en ligne", "guides/"))
   }
 )

@@ -1,0 +1,134 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Assembl&#233;es, comit&#233;s d&#39;action et Atelier populaire — France &#183; Mamie Commune</title>
+<meta name="description" content="La Sorbonne et l&#39;Od&#233;on ouverts &#224; tous, des centaines de comit&#233;s d&#39;action, des usines occup&#233;es, Nantes organis&#233;e par ses gr&#233;vistes, et des affiches tir&#233;es chaque nuit en s&#233;rigraphie : l&#39;autogestion en actes.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=9e6926d7">
+<link rel="stylesheet" href="../assets/style.css?v=9e6926d7">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre" data-ici>Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/" aria-current="page"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, Panthers, Mai 68, ZAD…</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser">S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Révolutions</a><span>/</span><a href="./#mai-68">Mai 68</a></p>
+  <p class="eyebrow">Mamie raconte</p>
+  <h1>Assembl&#233;es, comit&#233;s d&#39;action et Atelier populaire</h1>
+  <p class="lead">La Sorbonne et l&#39;Od&#233;on ouverts &#224; tous, des centaines de comit&#233;s d&#39;action, des usines occup&#233;es, Nantes organis&#233;e par ses gr&#233;vistes, et des affiches tir&#233;es chaque nuit en s&#233;rigraphie : l&#39;autogestion en actes.</p>
+  <div class="gmeta"><span>Mai 68</span><span>France &#183; mai-juin 1968</span><span>Dossier · 5 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>Ce qui a le plus marqué Mamie, ce ne sont pas les barricades. C'est d'avoir vu des gens qui ne s'étaient jamais parlé, ouvriers, étudiantes, employées de bureau, vieux anars, se retrouver dans des salles pleines à minuit pour <strong>décider ensemble de ce qu'on fait demain</strong>. Voici comment ça s'organisait.</p>
+
+<h2 id="assemblees">La parole libérée : Sorbonne et Odéon</h2>
+<p>La Sorbonne occupée devient une <strong>assemblée générale permanente</strong>, ouverte jour et nuit à qui veut. On y vote, on y discute de tout : l'examen, la grève, la révolution, l'amour libre. Des commissions s'occupent de la nourriture, du nettoyage, de l'infirmerie, de la presse. On y trouve même une crèche pour les enfants des militantes et militants.</p>
+<figure class="photo"><img src="../assets/img/revolutions/mai68-creche-sorbonne.jpg" alt="Une crèche installée à l'intérieur de la Sorbonne occupée, le 21 mai 1968." width="1200" height="796" loading="lazy"><figcaption>La crèche de la Sorbonne occupée, le 21 mai 1968. <small>Eric Koch pour Anefo, Archives nationales des Pays-Bas · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Stakingen_in_Frankrijk._Kindercreche_in_Sorbonne,_Bestanddeelnr_921-3741.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Le 15 mai, le <strong>théâtre de l'Odéon</strong> est occupé à son tour. Il devient un forum où, des semaines durant, des milliers de personnes se succèdent au micro. Un drapeau rouge et un drapeau noir flottent sur sa façade.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/mai68-odeon.jpg" alt="La salle du théâtre de l'Odéon occupé, pleine du parterre aux balcons, le 21 mai 1968." width="1200" height="1806" loading="lazy"><figcaption>Le théâtre de l'Odéon occupé, plein du parterre au dernier balcon, le 21 mai 1968. <small>Eric Koch pour Anefo, Archives nationales des Pays-Bas · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Stakingen_in_Frankrijk._Studenten_in_theater_Odeon,_Bestanddeelnr_921-3733.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="comites">Les comités d'action</h2>
+<p>Dans les quartiers, les facs, les lycées, les entreprises, naissent des <strong>comités d'action</strong> : quelques dizaines de personnes qui se réunissent, sans adhésion ni carte, pour agir là où elles vivent. On en compte plusieurs centaines dans la région parisienne. Ils tirent des tracts, organisent le ravitaillement des grévistes, font le lien entre étudiants et ouvriers, tiennent des permanences. C'est la forme la plus libertaire du mouvement : <strong>petite, locale, autonome, fédérée</strong> par des coordinations sans chefs.</p>
+
+<h2 id="usines">Les usines occupées</h2>
+<p>Dans les usines, les grévistes dorment sur place, organisent des piquets, des tours de garde, des cantines, des bals. Mais l'occupation reste souvent sous le contrôle des syndicats, et surtout de la CGT, qui ferme les portes aux étudiants, de peur de la « contagion gauchiste ». Dans la plupart des usines, la production est simplement arrêtée : on occupe, mais on ne fait pas tourner les machines pour soi.</p>
+<p>Quelques endroits vont plus loin et posent la question : <strong>et si on produisait nous-mêmes ?</strong> La question reviendra quelques années plus tard, chez Lip, à Besançon.</p>
+
+<h2 id="nantes">Nantes : la ville aux mains des grévistes</h2>
+<p>À Nantes, là où tout a commencé, la grève va le plus loin. Les syndicats ouvriers, les organisations paysannes et les étudiants forment fin mai un <strong>comité central de grève</strong> qui s'installe à la mairie. Il délivre les bons d'essence, organise avec les paysans la vente directe des produits à prix coûtant, contrôle les prix dans les magasins. Certains parlent de « Commune de Nantes ». Dans le département, l'union départementale Force ouvrière est dirigée par un anarcho-syndicaliste, <strong>Alexandre Hébert</strong>, dont les liens avec les étudiants ont compté dans le départ de la grève à Sud-Aviation.</p>
+
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 300" role="img" aria-label="L'organisation par en bas en Mai 68 : assemblées, comités d'action et grève">
+<defs><marker id="m68" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
+<rect class="bx-r" x="250" y="20" width="220" height="56"/><text class="t" x="360" y="44" text-anchor="middle">Coordinations</text><text class="s" x="360" y="64" text-anchor="middle">délégués mandatés, sans chefs</text>
+<rect class="bx" x="20" y="130" width="200" height="60"/><text class="t" x="120" y="156" text-anchor="middle">Facs occupées</text><text class="s" x="120" y="176" text-anchor="middle">AG permanentes</text>
+<rect class="bx" x="260" y="130" width="200" height="60"/><text class="t" x="360" y="156" text-anchor="middle">Comités d'action</text><text class="s" x="360" y="176" text-anchor="middle">quartiers, lycées, bureaux</text>
+<rect class="bx" x="500" y="130" width="200" height="60"/><text class="t" x="600" y="156" text-anchor="middle">Usines occupées</text><text class="s" x="600" y="176" text-anchor="middle">comités de grève</text>
+<path class="ar" d="M120 128L300 78M360 128V78M600 128L420 78" marker-end="url(#m68)"/>
+<path class="ld" d="M220 160H260M460 160H500"/>
+<rect class="bx-d" x="140" y="232" width="440" height="50"/><text class="t" x="360" y="255" text-anchor="middle">Tracts, affiches, ravitaillement, piquets</text><text class="s" x="360" y="273" text-anchor="middle">ce que chaque groupe fait lui-même</text>
+<path class="ln" d="M120 190V232M360 190V232M600 190V232"/>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> L'organisation « par en bas ». En pointillés, les liens entre étudiants et ouvriers, que les directions syndicales ont souvent cherché à empêcher.</figcaption>
+</figure>
+
+<h2 id="atelier">L'Atelier populaire des Beaux-Arts</h2>
+<p>Mi-mai, les élèves de l'École des beaux-arts de Paris occupent leurs ateliers et les transforment en <strong>Atelier populaire</strong>. Chaque jour, une assemblée générale discute des slogans et <strong>vote les projets d'affiches</strong> : pas de signature, pas d'artiste vedette, l'affiche appartient au mouvement. On les imprime d'abord en lithographie, puis en <strong>sérigraphie</strong>, plus rapide : des centaines d'exemplaires par jour, collés la nuit même dans tout Paris. « La chienlit, c'est lui », « Sois jeune et tais-toi », « La beauté est dans la rue » : ces affiches sont restées le visage de Mai 68.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/mai68-affiche-flins.jpg" alt="Affiche de l'Atelier populaire des Beaux-Arts : FLINS PAS FLICS, en grandes lettres rouges sur papier blanc." width="1200" height="1613" loading="lazy"><figcaption>« Flins pas flics », affiche de l'Atelier populaire de juin 1968, contre l'envoi des gendarmes à l'usine Renault de Flins. <small>Atelier populaire de l'École des beaux-arts · CC0 · <a href="https://commons.wikimedia.org/wiki/File:FLINS_PAS_FLICS,_AFF2867.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Tu veux faire pareil ? Les fiches <a href="../agir/serigraphie">La sérigraphie à la maison</a> et <a href="../agir/coller-des-affiches">Coller des affiches</a> sont faites pour ça.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Mai 68 s'est organisé dans des <strong>assemblées ouvertes</strong> et des <strong>comités autonomes</strong>, pas dans des partis.</li>
+<li>Là où la grève est allée le plus loin, comme à Nantes, elle a commencé à <strong>gérer la vie quotidienne</strong>.</li>
+<li>Suite : <a href="mai-68-debats">Grenelle, la CGT et les leçons libertaires</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>1968. De grands soirs en petits matins</cite></b>, Ludivine Bantigny, Seuil, 2018.<span>Les comités d'action, les usines et Nantes, à partir des archives.</span></li>
+<li><a href="../agir/tenir-une-ag">Tenir une AG qui ne tourne pas en rond</a><span>Ce que les assemblées de 68 ont appris aux suivantes.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Atelier_populaire" rel="noopener">L'Atelier populaire</a><span>L'École des beaux-arts transformée en imprimerie du mouvement.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Alexandre_H%C3%A9bert" rel="noopener">Alexandre Hébert</a><span>L'anarcho-syndicaliste à la tête de FO en Loire-Atlantique.</span></li>
+</ul></section>
+</div>
+<p class="credit">Dossier rédigé par la bande à Mamie à partir de travaux d'historiennes et d'historiens et de textes des mouvements concernés. Libre de reproduction.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="mai-68-histoire"><small>← Précédent</small><b>Mai 68 : la plus grande gr&#232;ve de l&#39;histoire de France</b></a><a href="mai-68-debats"><small>Suivant →</small><b>Grenelle, la CGT et les le&#231;ons libertaires</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#assemblees">La parole libérée : Sorbonne et Odéon</a></li><li><a href="#comites">Les comités d'action</a></li><li><a href="#usines">Les usines occupées</a></li><li><a href="#nantes">Nantes : la ville aux mains des grévistes</a></li><li><a href="#atelier">L'Atelier populaire des Beaux-Arts</a></li><li><a href="#retenir">À retenir</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=9e6926d7"></script>
+<script src="../assets/recherche.js?v=9e6926d7"></script>
+
+</body>
+</html>

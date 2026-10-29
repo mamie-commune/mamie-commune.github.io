@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Vivre et d&#233;cider sur la ZAD — Loire-Atlantique &#183; Mamie Commune</title>
+<meta name="description" content="Paysans, associations, naturalistes et occupants : un mouvement tr&#232;s divers qui a appris &#224; agir ensemble. Assembl&#233;es, fermes collectives, boulangerie, biblioth&#232;que, radio : la vie sans &#201;tat sur un bocage.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=9e6926d7">
+<link rel="stylesheet" href="../assets/style.css?v=9e6926d7">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre" data-ici>Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/" aria-current="page"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, Panthers, Mai 68, ZAD…</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser">S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Révolutions</a><span>/</span><a href="./#zad-de-notre-dame-des-landes">ZAD de Notre-Dame-des-Landes</a></p>
+  <p class="eyebrow">Mamie raconte</p>
+  <h1>Vivre et d&#233;cider sur la ZAD</h1>
+  <p class="lead">Paysans, associations, naturalistes et occupants : un mouvement tr&#232;s divers qui a appris &#224; agir ensemble. Assembl&#233;es, fermes collectives, boulangerie, biblioth&#232;que, radio : la vie sans &#201;tat sur un bocage.</p>
+  <div class="gmeta"><span>ZAD de Notre-Dame-des-Landes</span><span>Loire-Atlantique &#183; depuis 2009</span><span>Dossier · 4 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>Ce qui a impressionné Mamie à la ZAD, c'est le mélange. Des éleveurs en bottes, des retraités de l'ACIPA, des naturalistes avec leurs carnets, des squatteurs punks, des militantes venues de toute l'Europe. Ils ne s'aimaient pas toujours. Mais ils ont tenu ensemble, et <strong>c'est cette diversité qui a rendu le mouvement imbattable</strong>.</p>
+
+<h2 id="composantes">Les composantes du mouvement</h2>
+<div class="tbl"><table>
+<thead><tr><th>Qui</th><th>Ce qu'ils apportent</th></tr></thead>
+<tbody>
+<tr><td><b>Les paysannes et paysans « historiques »</b></td><td>Ceux qui ont refusé de vendre leurs terres. Le lien avec le monde agricole, les tracteurs pour les manifs.</td></tr>
+<tr><td><b>L'ACIPA et les associations</b></td><td>Les recours en justice, les expertises, les grandes manifestations, le lien avec les élus et la presse.</td></tr>
+<tr><td><b>Les collectifs paysans</b></td><td>Des syndicalistes paysans, notamment de la Confédération paysanne, qui cultivent les terres « libérées » et soutiennent les installations.</td></tr>
+<tr><td><b>Les Naturalistes en lutte</b></td><td>Des scientifiques bénévoles qui recensent les espèces protégées du bocage pour contester les études officielles.</td></tr>
+<tr><td><b>Les occupantes et occupants</b></td><td>Ceux qui vivent sur place, tiennent le terrain, construisent, et inventent une autre façon de vivre.</td></tr>
+<tr><td><b>Les comités de soutien</b></td><td>Plus de deux cents dans toute la France à certains moments : argent, matériel, manifestations, accueil.</td></tr>
+</tbody></table></div>
+
+<h2 id="diversite">Tenir ensemble malgré les différences</h2>
+<p>Les composantes ne sont d'accord ni sur les méthodes ni sur les buts. Certaines préfèrent les recours juridiques, d'autres les barricades. Le mouvement a pourtant trouvé un principe : <strong>le respect de la diversité des tactiques</strong>. Chacun agit à sa façon, sans dénoncer les autres. Pendant l'opération César, les associations n'ont jamais condamné la résistance physique, et les occupants ont soutenu les manifestations déclarées. C'est ce qui a empêché l'État de diviser le mouvement entre « gentils » et « casseurs ».</p>
+<p>En <strong>2015</strong>, les composantes s'accordent sur <strong>« six points pour l'avenir de la ZAD »</strong> : quand l'aéroport sera abandonné, les terres devront rester entre les mains de celles et ceux qui les font vivre, être gérées collectivement par le mouvement, et accueillir de nouveaux projets agricoles et non agricoles.</p>
+
+<h2 id="vie">La vie sur la ZAD</h2>
+<p>Sur les quelque 1 650 hectares, des dizaines de lieux de vie, des fermes et des cabanes, ont vu se développer :</p>
+<ul>
+<li>des <strong>cultures et élevages collectifs</strong> : céréales, maraîchage, troupeaux, dont une partie est distribuée à prix libre ou gratuitement, notamment aux luttes et aux grèves de la région ;</li>
+<li>une <strong>boulangerie</strong>, des ateliers de menuiserie et de mécanique ;</li>
+<li>un <strong>marché à prix libre</strong> chaque semaine ;</li>
+<li>une <strong>bibliothèque</strong>, le Taslu, et une radio pirate, Radio Klaxon ;</li>
+<li>des <strong>chantiers collectifs</strong> pour construire et réparer les habitats.</li>
+</ul>
+<figure class="photo"><img src="../assets/img/revolutions/zad-bibliotheque-taslu.jpg" alt="L'intérieur de la bibliothèque du Taslu à la ZAD, avec des étagères de livres et des tables." width="1200" height="900" loading="lazy"><figcaption>Le Taslu, la bibliothèque de la ZAD, au lieu-dit la Rolandière, en août 2018. <small>Maxime Lathuilière · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_du_Taslu.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="decider">Comment on y décide</h2>
+<p>Pas de chef, pas de conseil élu. Les décisions passent par des <strong>assemblées</strong> à plusieurs niveaux :</p>
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 290" role="img" aria-label="Les assemblées de la ZAD et du mouvement">
+<defs><marker id="z1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
+<rect class="bx-r" x="210" y="20" width="300" height="60"/><text class="t" x="360" y="46" text-anchor="middle">Assemblée du mouvement</text><text class="s" x="360" y="66" text-anchor="middle">toutes les composantes · grandes décisions</text>
+<rect class="bx" x="20" y="130" width="210" height="60"/><text class="t" x="125" y="156" text-anchor="middle">Assemblée des usages</text><text class="s" x="125" y="176" text-anchor="middle">terres, routes, forêt</text>
+<rect class="bx" x="255" y="130" width="210" height="60"/><text class="t" x="360" y="156" text-anchor="middle">Assemblée des habitants</text><text class="s" x="360" y="176" text-anchor="middle">vie quotidienne, conflits</text>
+<rect class="bx" x="490" y="130" width="210" height="60"/><text class="t" x="595" y="156" text-anchor="middle">Comités de soutien</text><text class="s" x="595" y="176" text-anchor="middle">coordination nationale</text>
+<path class="ar" d="M125 128L260 82M360 128V82M595 128L460 82" marker-end="url(#z1)"/>
+<rect class="bx-d" x="140" y="226" width="440" height="50"/><text class="t" x="360" y="249" text-anchor="middle">Lieux de vie, fermes, collectifs de travail</text><text class="s" x="360" y="267" text-anchor="middle">chacun s'organise lui-même au quotidien</text>
+<path class="ln" d="M125 190V226M360 190V226M595 190L560 226"/>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> Une organisation en réseau. Les noms et le rythme des assemblées ont souvent changé avec les années.</figcaption>
+</figure>
+<p>Les décisions se prennent le plus souvent au consensus, avec de longues discussions. C'est lent, parfois épuisant, mais c'est ce qui a permis à des gens très différents de rester ensemble (voir <a href="../agir/decider-sans-chef">Décider sans chef</a>).</p>
+
+<h2 id="communs">Les terres en commun</h2>
+<p>Après l'abandon de l'aéroport, l'État veut que chaque occupant signe une convention individuelle, avec un projet agricole à son nom. Une partie du mouvement l'accepte, pour éviter les expulsions, mais en déposant des projets liés entre eux. Pour garder une gestion collective, le mouvement crée ensuite un <strong>fonds de dotation, « La Terre en commun »</strong>, qui collecte des dons pour racheter des terres et des bâtiments et les soustraire à la propriété individuelle.</p>
+<figure class="photo"><img src="../assets/img/revolutions/zad-phare-rolandiere.jpg" alt="Une tour en bois en forme de phare, construite à la ZAD, vue depuis un balcon." width="1200" height="900" loading="lazy"><figcaption>Le phare de la Rolandière, construit par les occupants, symbole de la ZAD. Août 2018. <small>Maxime Lathuilière · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Phare_de_la_Rolandi%C3%A8re_depuis_le_balcon.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La force de la ZAD : <strong>une alliance entre des gens très différents</strong>, et le respect de leurs tactiques.</li>
+<li>Elle ne s'est pas contentée de dire non : elle a <strong>construit une vie collective</strong> sur le terrain.</li>
+<li>Suite : <a href="zad-debats">Victoire, divisions et héritage</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Contrées</cite></b>, collectif Mauvaise Troupe, L'Éclat, 2016.<span>Les composantes, la diversité des tactiques et la vie quotidienne, de l'intérieur.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://zad.nadir.org/" rel="noopener">zad.nadir.org</a><span>Les nouvelles de la ZAD, par ses habitantes et habitants.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/ZAD_de_Notre-Dame-des-Landes" rel="noopener">La ZAD sur Wikipédia</a><span>Les composantes du mouvement et l'après-2018.</span></li>
+</ul></section>
+</div>
+<p class="credit">Dossier rédigé par la bande à Mamie à partir de travaux d'historiennes et d'historiens et de textes des mouvements concernés. Libre de reproduction.</p>
+  <nav class="gnext" aria-label="Pages voisines"><a href="zad-histoire"><small>← Précédent</small><b>La ZAD de Notre-Dame-des-Landes : un a&#233;roport n&#39;a jamais vu le jour</b></a><a href="zad-debats"><small>Suivant →</small><b>Victoire, divisions et h&#233;ritage</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#composantes">Les composantes du mouvement</a></li><li><a href="#diversite">Tenir ensemble malgré les différences</a></li><li><a href="#vie">La vie sur la ZAD</a></li><li><a href="#decider">Comment on y décide</a></li><li><a href="#communs">Les terres en commun</a></li><li><a href="#retenir">À retenir</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=9e6926d7"></script>
+<script src="../assets/recherche.js?v=9e6926d7"></script>
+
+</body>
+</html>

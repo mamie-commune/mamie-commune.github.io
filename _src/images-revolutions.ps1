@@ -32,15 +32,34 @@ $images = [ordered]@{
   "rojava-ypj"                    = "File:YPJ fighters with flags.jpg"
   "rojava-assemblee-femmes"       = "File:Women's assembly near Qamislo.jpg"
   "rojava-cooperative"            = "File:Rojava Sewing Cooperative.jpg"
+  "panthers-programme-1968"       = "File:Black Panther Party Platform.jpg"
+  "panthers-petit-dejeuner"       = "File:Black Panther Party Free Breakfast.jpg"
+  "panthers-olympia-1969"         = "File:Black Panther demonstration.jpg"
+  "panthers-fred-hampton"         = "File:Fred Hampton speaks at a rally in Grant Park, Chicago, 1969.jpg"
+  "panthers-convention-1970"      = "File:Black Panther convention.jpg"
+  "mai68-cohn-bendit"             = "File:Studenten, redevoeringen, Bendit Daniel Cohn, Bestanddeelnr 045-0334.jpg"
+  "mai68-assemblee-sorbonne"      = "File:Stakingen in Frankrijk. Vergadering op binnenplaats Sorbonne, Bestanddeelnr 921-3739.jpg"
+  "mai68-odeon"                   = "File:Stakingen in Frankrijk. Studenten in theater Odeon, Bestanddeelnr 921-3733.jpg"
+  "mai68-creche-sorbonne"         = "File:Stakingen in Frankrijk. Kindercreche in Sorbonne, Bestanddeelnr 921-3741.jpg"
+  "mai68-affiche-flins"           = "File:FLINS PAS FLICS, AFF2867.jpg"
+  "zad-reoccupation-2012"         = "File:W0127-NDdL ZaD Defile 56894.JPG"
+  "zad-manif-2012"                = "File:Manifestation de ré-occupation du 17 novembre 2012 à Notre-Dame-des-Landes.jpg"
+  "zad-phare-rolandiere"          = "File:Phare de la Rolandière depuis le balcon.jpg"
+  "zad-bibliotheque-taslu"        = "File:Bibliothèque du Taslu.jpg"
+  "zad-cabane-detruite"           = "File:Cabane détruite dans le bois de Rohanne.jpg"
 }
 
 $jpeg = [Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq "image/jpeg" }
 $qual = New-Object Drawing.Imaging.EncoderParameters 1
 $qual.Param[0] = New-Object Drawing.Imaging.EncoderParameter ([Drawing.Imaging.Encoder]::Quality), 80L
 $credits = New-Object System.Collections.ArrayList
+$anciens = @{}
+if (Test-Path (Join-Path $dir "credits.txt")) { foreach ($l in [IO.File]::ReadAllLines((Join-Path $dir "credits.txt"))) { $anciens[($l -split ' | ')[0]] = $l } }
 $strip = { param($s) ([Net.WebUtility]::HtmlDecode(($s -replace '<[^>]+>', ' ')) -replace '\s+', ' ').Trim() }
 
 foreach ($nom in $images.Keys) {
+  if ($anciens[$nom] -and (Test-Path (Join-Path $dir "$nom.jpg"))) { [void]$credits.Add($anciens[$nom]); continue }   # déjà téléchargée
+  Start-Sleep -Milliseconds 1500   # rester poli avec l'API de Wikimedia
   $titre = $images[$nom]
   $u = "https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=url|extmetadata&iiurlwidth=1400&titles=" + [uri]::EscapeDataString($titre)
   $p = ((Invoke-RestMethod -Uri $u -UserAgent $ua).query.pages.PSObject.Properties.Value)[0]

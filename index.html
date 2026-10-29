@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Mamie Commune</title>
-<meta name="description" content="Ressources anarchistes : la Commune de Paris, l&#39;Espagne de 1936, les zapatistes, le Rojava, une biblioth&#232;que de livres libres, une carte des lieux et des outils num&#233;riques.">
+<meta name="description" content="Ressources anarchistes pour apprendre, s&#39;organiser et se d&#233;fendre : r&#233;volutions, biblioth&#232;que libre, carte des collectifs, mobilisations, droits en manif et outils num&#233;riques.">
 <link rel="icon" href="assets/icone-32.png" sizes="32x32" type="image/png">
 <link rel="icon" href="assets/icone-48.png" sizes="48x48" type="image/png">
 <link rel="icon" href="assets/icone-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="assets/icone-180.png">
-<link rel="stylesheet" href="assets/fonts.css?v=b2d86575">
-<link rel="stylesheet" href="assets/style.css?v=b2d86575">
+<link rel="stylesheet" href="assets/fonts.css?v=b262bb58">
+<link rel="stylesheet" href="assets/style.css?v=b262bb58">
 <script>/* lecture facile : appliquée avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); } catch (e) {}</script>
 </head>
 <body>
@@ -18,22 +18,28 @@
 <header class="top">
   <div class="wrap top__in">
     <a class="brand" href="./" aria-label="Mamie Commune, accueil">
-      <img class="brand__face" src="assets/mamie-96.jpg" alt="" width="46" height="46">
+      <img class="brand__face" src="assets/mamie-logo-192.webp" alt="" width="52" height="52">
       <span class="brand__name" data-ransom>Mamie Commune</span>
     </a>
-    <nav class="nav" id="nav" aria-label="Navigation principale"><a href="./" aria-current="page">Accueil</a><a href="experiences/">Révolutions</a><a href="antifascisme/">Antifascisme</a><a href="bibliotheque/">Bibliothèque</a><a href="carte">Carte</a><a href="manif/">Manif</a><a href="mouvement-17-octobre">17 Octobre</a><a href="videos">Vidéos</a><a href="guides/">Outils numériques</a></nav>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="./" aria-current="page">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre">Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, zapatistes, Rojava</span></a><a href="bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser">S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, contester un PV</span></a><a href="guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
     <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
   </div>
 </header>
 <div class="search">
   <form class="wrap search__in" role="search" action="recherche" data-root="">
     <label class="sr" for="q">Rechercher sur le site</label>
-    <input class="search__input" id="q" name="q" type="search" placeholder="Chercher un livre, une révolution, une ville, un guide…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
     <button class="search__go" type="submit">Chercher</button>
     <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
     <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
   </form>
-
 </div>
 <main id="contenu">
 <section class="hero">
@@ -42,66 +48,43 @@
     <div>
       <p class="eyebrow">ressources anarchistes · depuis 1871 et des poussières</p>
       <h1 data-ransom>Mamie Commune</h1>
-      <p class="lead hero__lead">Mamie en a vu d'autres. Elle te raconte les révolutions, te prête ses livres, te montre où retrouver les copains et t'aide à t'organiser sans te faire pister.</p>
+      <p class="lead hero__lead">Mamie en a vu d'autres. Ici, tout ce qu'il faut pour lutter, rangé en trois : <strong>apprendre</strong> d'où l'on vient, <strong>s'organiser</strong> avec les autres, <strong>se défendre</strong> face à la police et à la surveillance.</p>
       <div class="cta">
-        <a class="btn btn--main" href="experiences/commune-de-paris-histoire">La Commune de Paris</a>
-        <a class="btn" href="bibliotheque/">La bibliothèque</a>
+        <a class="btn btn--main" href="#familles">Par où commencer ?</a>
+        <a class="btn" href="mouvement-17-octobre">Où agir en ce moment</a>
       </div>
     </div>
     <div class="hero__art">
       <svg class="hero__burst" viewBox="0 0 100 100" aria-hidden="true"><polygon points="50,0 61.2,34.5 97.6,34.5 68.2,55.9 79.4,90.5 50,69.1 20.6,90.5 31.8,55.9 2.4,34.5 38.8,34.5"/></svg>
-      <img class="hero__photo" src="assets/mamie-640.jpg" alt="" width="640" height="640" fetchpriority="high">
-      <img class="hero__mamie" src="assets/mamie-entiere.png" alt="Mamie Commune en entier, sweat noir à capuche, foulard et poing levé" width="120" height="252">
+      <img class="hero__logo" src="assets/mamie-logo-480.webp" alt="Mamie Commune, capuche noire, foulard sur le visage et poing levé" width="480" height="480" fetchpriority="high">
       <p class="hero__say bubble" data-tags>Ah, la Commune.</p>
     </div>
   </div>
 </section>
 
-<section class="sec sec--alt">
+<section class="sec sec--alt" id="familles">
   <div class="wrap">
     <header class="sec__head">
-      <p class="eyebrow">tout ce qu'il y a dans le grenier</p>
-      <h2>Les rubriques</h2>
+      <p class="eyebrow">tout est rangé ici</p>
+      <h2>Par où commencer ?</h2>
+      <p class="sec__intro">Trois familles, chacune avec ses rubriques. Tu peux aussi tout chercher d'un coup avec la barre en haut de la page.</p>
     </header>
-    <div class="rubriques rubriques--2">
-      <a class="rubrique" href="experiences/">
-        <span class="rubrique__n">Révolutions</span><span class="rubrique__big">5</span><h3>Dossiers illustrés</h3>
-        <p>La Commune de Paris, l'Espagne de 1936 vue par la CNT-FAI, les zapatistes et le Rojava, avec schémas et frises.</p><span class="rubrique__go">Lire les dossiers →</span>
-      </a>
-      <a class="rubrique" href="bibliotheque/">
-        <span class="rubrique__n">Bibliothèque</span><span class="rubrique__big"><span id="nLivres">36</span> + <span id="nBiblio">102</span></span><h3>Livres complets et fiches</h3>
-        <p>Kropotkine, Bakounine, Louise Michel, Proudhon, Reclus… à lire en ligne ou en PDF, et des fiches pour aller à l'essentiel.</p><span class="rubrique__go">Ouvrir la bibliothèque →</span>
-      </a>
-      <a class="rubrique" href="carte">
-        <span class="rubrique__n">Carte</span><span class="rubrique__big" id="nLieux">151</span><h3>Où se retrouver</h3>
-        <p>Groupes, syndicats, librairies, lieux libertaires et entraide numérique, en France et autour.</p><span class="rubrique__go">Ouvrir la carte →</span>
-      </a>
-      <a class="rubrique" href="guides/">
-        <span class="rubrique__n">Outils numériques</span><span class="rubrique__big" id="nGuides">29</span><h3>Des outils libres pour s'organiser</h3>
-        <p>Passer à Linux Mint, protéger sa vie privée, s'organiser entre camarades sur Signal.</p><span class="rubrique__go">Voir les guides →</span>
-      </a>
-    </div>
+    <div class="fams"><section class="fam fam--apprendre" aria-labelledby="fam-apprendre"><p class="fam__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><h3 id="fam-apprendre">Apprendre</h3><ul class="fam__list"><li><a href="experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, zapatistes, Rojava</span></a></li><li><a href="bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a></li><li><a href="videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></li></ul></section><section class="fam fam--organiser" aria-labelledby="fam-organiser"><p class="fam__dit">Trouver les autres, agir ensemble</p><h3 id="fam-organiser">S&#39;organiser</h3><ul class="fam__list"><li><a href="carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a></li><li><a href="mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a></li><li><a href="antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></li></ul></section><section class="fam fam--defendre" aria-labelledby="fam-defendre"><p class="fam__dit">Tes droits, ta s&#233;curit&#233;</p><h3 id="fam-defendre">Se d&#233;fendre</h3><ul class="fam__list"><li><a href="manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, contester un PV</span></a></li><li><a href="guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></li></ul></section></div>
   </div>
 </section>
 
-<section class="sec" id="revolutions">
+<section class="sec" id="manif">
   <div class="wrap">
     <header class="sec__head">
-      <p class="eyebrow">quand des gens ordinaires ont pris leur vie en main</p>
-      <h2>Révolutions</h2>
-      <p class="sec__intro">Cinq expériences racontées de l'intérieur : ce qui s'est passé, comment c'était organisé, ce qu'on en retient.</p>
+      <p class="eyebrow">se défendre</p>
+      <h2>Avant d'aller en manif</h2>
+      <p class="sec__intro">Trois choses à savoir avant de partir, et à faire circuler autour de toi.</p>
     </header>
-    <div class="cards">
-      <a class="card" href="experiences/commune-de-paris-histoire"><span class="card__tag">1871</span><h3>La Commune de Paris</h3><p>72 jours où Paris s'est gouverné lui-même, jusqu'à la Semaine sanglante.</p>
-
-      <a class="card" href="experiences/makhno-histoire"><span class="card__tag">1917-1921</span><h3>Makhno et la Makhnovtchina</h3><p>La révolution des paysans d'Ukraine, entre Blancs et bolcheviks.</p><span class="card__go">Lire le dossier →</span></a>
-      <a class="card" href="experiences/espagne-1936-histoire"><span class="card__tag">1936-1939</span><h3>Espagne : la CNT-FAI</h3><p>Collectivités, milices et Mujeres Libres face au fascisme.</p>
-
-      <a class="card" href="experiences/zapatistes-histoire"><span class="card__tag">Depuis 1994</span><h3>Les zapatistes</h3><p>Commander en obéissant, au Chiapas.</p>
-
-      <a class="card" href="experiences/rojava-histoire"><span class="card__tag">Depuis 2012</span><h3>Le Rojava</h3><p>Communes, co-présidence et révolution des femmes.</p><span class="card__go">Lire le dossier →</span></a>
-
-    </div>
+    <ol class="steps">
+      <li class="step"><span class="step__n">01</span><h3>Connaître tes droits</h3><p>Contrôle d'identité, garde à vue, droit au silence : ce que la police peut faire, et ce que tu peux refuser.</p><a href="manif/legal-team">Tes droits en manif</a></li>
+      <li class="step"><span class="step__n">02</span><h3>Protéger ton téléphone</h3><p>Signal bien réglé, messages éphémères, téléphone verrouillé, ou laissé à la maison.</p><a href="guides/signal">Le guide Signal</a></li>
+      <li class="step"><span class="step__n">03</span><h3>Contester un PV</h3><p>Une amende pour avoir manifesté ? Ne la paie pas : trois lettres toutes prêtes pour la contester.</p><a href="manif/legal-team#contester">Les modèles de lettres</a></li>
+    </ol>
   </div>
 </section>
 
@@ -117,39 +100,13 @@
   </div>
 </section>
 
-<section class="sec" id="livres">
-  <div class="wrap">
-    <header class="sec__head">
-      <p class="eyebrow">les livres de mamie, en entier et gratuits</p>
-      <h2>À lire d'abord</h2>
-    </header>
-    <div class="cards" data-list="LIVRES" data-base="livres/" data-limit="6"></div>
-    <div class="cta"><a class="btn btn--main" href="bibliotheque/">Toute la bibliothèque</a></div>
-  </div>
-</section>
-
-<section class="sec sec--alt" id="outils">
-  <div class="wrap">
-    <header class="sec__head">
-      <p class="eyebrow">parce qu'on ne s'organise pas sur Facebook</p>
-      <h2>Outils numériques</h2>
-      <p class="sec__intro">Des guides pas à pas pour quitter Windows, protéger ses échanges et s'organiser entre camarades sur Signal.</p>
-    </header>
-    <ol class="steps">
-      <li class="step"><span class="step__n">01</span><h3>Passer à Linux Mint</h3><p>Un système libre, gratuit, qui fait durer les vieux ordinateurs.</p><a href="guides/installer-linux-mint">Installer Linux Mint</a></li>
-      <li class="step"><span class="step__n">02</span><h3>Échapper au pistage</h3><p>Navigateur, moteur de recherche, messagerie : sept étapes.</p><a href="guides/stop-gafam">Éviter le pistage</a></li>
-      <li class="step"><span class="step__n">03</span><h3>S'organiser sur Signal</h3><p>Messages chiffrés, groupes, messages éphémères : les bons réglages.</p><a href="guides/signal">Le guide Signal</a></li>
-    </ol>
-  </div>
-</section>
-
 <section class="sec" id="faq">
   <div class="wrap">
     <header class="sec__head"><p class="eyebrow">on demande souvent à mamie</p><h2>Questions</h2></header>
     <div class="faq">
       <details><summary>C'est quoi, l'anarchisme ?</summary><p>L'idée qu'on peut vivre ensemble sans maîtres : sans État qui commande, sans patron qui exploite, en s'organisant librement par l'entraide. Pour commencer, lis <a href="bibliotheque/l-anarchie-malatesta">L'Anarchie de Malatesta</a> ou <a href="bibliotheque/au-cafe">Au café</a>.</p></details>
       <details><summary>Les livres sont vraiment gratuits ?</summary><p>Oui. Les livres complets sont dans le domaine public : tu peux les lire, les imprimer et les distribuer. Les fiches de lecture sont libres de reproduction.</p></details>
-      <details><summary>Comment ajouter un lieu sur la carte ?</summary><p>Sur la carte, bouton « Ajouter un lieu ». Exporte ensuite ton fichier et transmets-le pour publication.</p></details>
+      <details><summary>Comment ajouter un lieu sur la carte ?</summary><p>Sur la <a href="carte">carte des collectifs</a>, bouton « Ajouter un lieu ». Exporte ensuite ton fichier et transmets-le pour publication. Pour une mobilisation du 17 Octobre, c'est sur la carte du mouvement.</p></details>
       <details><summary>Pourquoi des guides sur Linux ici ?</summary><p>Parce que nos outils façonnent nos luttes. S'organiser sur les plateformes des géants du numérique, c'est leur confier nos discussions, nos listes de contacts et nos rendez-vous.</p></details>
     </div>
   </div>
@@ -159,41 +116,15 @@
 <footer class="foot">
   <div class="wrap foot__in">
     <div>
-      <p class="brand"><img class="brand__face" src="assets/mamie-96.jpg" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
-      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître.</p>
-      <img class="foot__mamie" src="assets/mamie-entiere.png" alt="" width="120" height="252" loading="lazy">
+      <p class="brand"><img class="brand__face" src="assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
     </div>
-    <nav aria-label="Rubriques">
-      <h2>Rubriques</h2>
-      <a href="experiences/">Révolutions</a>
-      <a href="antifascisme/">Antifascisme</a>
-      <a href="bibliotheque/">Bibliothèque</a>
-      <a href="carte">Carte</a>
-      <a href="manif/">Guide de manif</a>
-      <a href="mouvement-17-octobre">Mouvement du 17 Octobre</a>
-      <a href="videos">Vidéos</a>
-      <a href="guides/">Outils numériques</a>
-    </nav>
-    <nav aria-label="Révolutions">
-      <h2>Révolutions</h2>
-      <a href="experiences/commune-de-paris-histoire">Commune de Paris</a>
-      <a href="experiences/makhno-histoire">Makhnovtchina</a>
-      <a href="experiences/espagne-1936-histoire">Espagne 1936</a>
-      <a href="experiences/zapatistes-histoire">Zapatistes</a>
-      <a href="experiences/rojava-histoire">Rojava</a>
-    </nav>
-    <nav aria-label="Pour commencer">
-      <h2>Pour commencer</h2>
-      <a href="bibliotheque/aux-jeunes-gens">Aux jeunes gens</a>
-      <a href="bibliotheque/au-cafe">Au café</a>
-      <a href="guides/installer-linux-mint">Passer à Linux Mint</a>
-      <a href="guides/signal">S'organiser sur Signal</a>
-    </nav>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="experiences/">R&#233;volutions</a><a href="bibliotheque/">Biblioth&#232;que</a><a href="videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="carte">Carte des collectifs</a><a href="mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="manif/">Guide de manif</a><a href="guides/">Outils num&#233;riques</a></nav>
   </div>
   <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="mentions-legales">Mentions légales</a></p>
 </footer>
-<script src="assets/site.js?v=b2d86575"></script>
-<script src="assets/recherche.js?v=b2d86575"></script>
-<script src="data/guides.js?v=b2d86575"></script><script src="data/bibliotheque.js?v=b2d86575"></script><script src="data/livres.js?v=b2d86575"></script><script src="data/lieux.js?v=b2d86575"></script><script src="data/experiences.js?v=b2d86575"></script><script src="data/videos.js?v=b2d86575"></script><script src="assets/accueil.js?v=b2d86575"></script><script src="assets/videos.js?v=b2d86575"></script>
+<script src="assets/site.js?v=b262bb58"></script>
+<script src="assets/recherche.js?v=b262bb58"></script>
+<script src="data/videos.js?v=b262bb58"></script><script src="assets/videos.js?v=b262bb58"></script>
 </body>
 </html>

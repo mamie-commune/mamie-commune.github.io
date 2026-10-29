@@ -17,7 +17,7 @@
         <div class="vcard__screen" data-id="${esc(v.id)}">
           <button class="vcard__cover" type="button" aria-label="Regarder « ${esc(v.titre)} »">
             ${STAR}
-            <img class="vcard__mamie" src="${root}assets/mamie-640.jpg" alt="" loading="lazy">
+            <img class="vcard__mamie" src="${root}assets/mamie-logo-480.webp" alt="" loading="lazy">
             <span class="vcard__title" data-ransom>${esc(v.titre)}</span>
             <span class="vcard__play" aria-hidden="true">▶</span>
             <span class="vcard__type">${v.type === "photo" ? "Carrousel" : "Vidéo"}</span>

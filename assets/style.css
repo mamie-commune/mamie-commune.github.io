@@ -63,6 +63,25 @@ a:hover { color: var(--ink); background: var(--yellow); }
 .search__input:focus-visible { outline: 3px solid var(--pink); outline-offset: 0; }
 .search__go { flex: none; height: 38px; padding: 0 14px; border: 0; background: var(--pink); color: var(--ink); font: 400 14px/1 var(--display); text-transform: uppercase; cursor: pointer; }
 .search__go:hover { background: var(--yellow); }
+/* « Chercher dans » : Partout ou une des trois familles */
+.search__fam { flex: none; height: 38px; max-width: 160px; padding: 0 30px 0 12px; border: 0; border-radius: 0; color: var(--ink); font: 400 14px/1 var(--display); text-transform: uppercase; cursor: pointer; -webkit-appearance: none; appearance: none;
+  background: var(--paper-3) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 10 6'%3E%3Cpath d='M0 0h10L5 6z' fill='%23171414'/%3E%3C/svg%3E") no-repeat right 11px center / 10px; }
+.search__fam:focus-visible { outline: 3px solid var(--pink); outline-offset: 0; }
+/* étiquette de famille sur chaque résultat */
+.search__item small em, .raccourcis h3 em { font-style: normal; background: var(--fam); color: var(--fam-txt); padding: 1px 6px; margin-right: 6px; }
+/* raccourcis quand la barre est vide : les trois familles et leurs rubriques */
+.raccourcis { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.raccourcis section { padding: 12px 14px 10px; border-right: 2px dashed rgba(23,20,20,.3); }
+.raccourcis section:last-child { border-right: 0; }
+.raccourcis h3 { margin: 0 0 6px; font: 400 13px/1.2 var(--display); text-transform: uppercase; }
+.raccourcis a { display: block; padding: 6px 4px; color: var(--ink); font-size: 15px; text-decoration: none; }
+.raccourcis a:hover, .raccourcis a.is-on { background: var(--fam); color: var(--fam-txt); }
+.raccourcis__tit { grid-column: 1 / -1; margin: 0; padding: 10px 14px; font: 400 14px/1.3 var(--mono); border-bottom: 2px dashed rgba(23,20,20,.3); }
+@media (max-width: 620px) {
+  .search__fam { max-width: 96px; padding: 0 22px 0 8px; font-size: 12px; background-position: right 7px center; }
+  .raccourcis { grid-template-columns: 1fr; }
+  .raccourcis section { border-right: 0; border-bottom: 2px dashed rgba(23,20,20,.3); }
+}
 .facile-btn { flex: none; height: 38px; padding: 0 12px; border: 2px solid var(--paper-2); background: var(--ink); color: var(--paper-2); font: 400 14px/1 var(--display); cursor: pointer; white-space: nowrap; }
 .facile-btn span[aria-hidden] { font-size: 17px; }
 .facile-btn:hover { background: var(--yellow); color: var(--ink); border-color: var(--yellow); }
@@ -84,6 +103,8 @@ a:hover { color: var(--ink); background: var(--yellow); }
 .sgroup + .sgroup { margin-top: 40px; }
 .sgroup h2 { display: inline-block; font: 400 20px/1.2 var(--display); text-transform: uppercase; background: var(--ink); color: var(--paper-2); padding: 6px 10px; transform: rotate(-1deg); }
 .sgroup h2 small { background: var(--pink); color: var(--ink); padding: 0 6px; margin-left: 6px; }
+.sgroup[class*="fam--"] h2 { background: var(--fam); color: var(--fam-txt); }
+.sgroup[class*="fam--"] h2 small { background: var(--ink); color: var(--paper-2); }
 .sgroup__list { margin-top: 14px; border: 3px solid var(--ink); background: var(--paper-2); box-shadow: 6px 6px 0 var(--ink); }
 .sgroup__list .search__item:last-child { border-bottom: 0; }
 
@@ -109,12 +130,32 @@ body::before { content: ""; position: fixed; inset: 0 0 auto; height: env(safe-a
 .top__in { display: flex; align-items: center; gap: 20px; min-height: 70px; position: relative; }
 .brand { display: inline-flex; align-items: center; gap: 10px; color: var(--ink); text-decoration: none; margin: 0; }
 .brand:hover { background: none; color: var(--ink); }
-.brand__face { width: 46px; height: 46px; border-radius: 50%; object-fit: cover; object-position: 50% 22%; border: 3px solid var(--ink); background: var(--red); flex: none; }
+/* logo : Mamie détourée (fond transparent), posée telle quelle sur n'importe quel fond */
+.brand__face { width: 52px; height: 52px; object-fit: contain; flex: none; filter: drop-shadow(3px 3px 0 var(--red)); }
 .brand__name { font-size: 21px; white-space: nowrap; }
-.nav { display: flex; gap: 6px; margin-left: auto; flex-wrap: wrap; }
-.nav a { color: var(--ink); text-decoration: none; font: 400 14px/1 var(--display); text-transform: uppercase; padding: 9px 10px; letter-spacing: .02em; }
-.nav a:hover { background: var(--yellow); }
-.nav a[aria-current="page"] { background: var(--ink); color: var(--paper-2); transform: rotate(-1.5deg); }
+
+/* les trois familles et leur couleur : Apprendre (jaune), S'organiser (rose), Se défendre (rouge) */
+.fam--apprendre { --fam: var(--yellow); --fam-txt: var(--ink); }
+.fam--organiser { --fam: var(--pink); --fam-txt: var(--ink); }
+.fam--defendre { --fam: var(--red-hi); --fam-txt: var(--paper-2); }
+
+/* menu : Accueil + une entrée par famille, qui déplie ses rubriques (assets/site.js) */
+.nav { display: flex; align-items: center; gap: 4px; margin-left: auto; }
+.nav > a, .nav__btn { color: var(--ink); background: none; border: 0; text-decoration: none; font: 400 15px/1 var(--display); text-transform: uppercase; padding: 11px 12px; letter-spacing: .02em; cursor: pointer; }
+.nav__btn::after { content: ""; display: inline-block; margin-left: 8px; border: 5px solid transparent; border-top-color: currentColor; border-bottom-width: 0; vertical-align: 2px; }
+.nav__btn[aria-expanded="true"]::after { border-top-width: 0; border-bottom: 5px solid currentColor; }
+.nav > a:hover, .nav__btn:hover, .nav__btn[aria-expanded="true"] { background: var(--fam, var(--yellow)); color: var(--fam-txt, var(--ink)); }
+.nav > a[aria-current="page"], .nav__btn[data-ici] { box-shadow: inset 0 -5px 0 var(--fam, var(--ink)); }
+.nav__fam { position: relative; }
+.nav__panel { display: none; position: absolute; right: 0; top: calc(100% + 12px); z-index: 1100; width: 330px; padding: 6px 0;
+  background: var(--paper-2); border: 3px solid var(--ink); border-top: 10px solid var(--fam); box-shadow: 8px 8px 0 var(--ink); }
+.nav__btn[aria-expanded="true"] + .nav__panel { display: block; }
+.nav__dit { margin: 8px 16px 10px; font: 400 14px/1.3 var(--mono); color: var(--muted); }
+.nav__panel a { display: grid; gap: 3px; padding: 11px 16px; color: var(--ink); text-decoration: none; border-top: 2px dashed rgba(23,20,20,.25); }
+.nav__panel a b { font: 400 16px/1.2 var(--display); }
+.nav__panel a span { font-size: 14px; line-height: 1.35; color: var(--muted); }
+.nav__panel a:hover, .nav__panel a[aria-current="page"] { background: var(--fam); color: var(--fam-txt); }
+.nav__panel a:hover span, .nav__panel a[aria-current="page"] span { color: inherit; }
 .menu { display: none; margin-left: auto; background: var(--ink); border: 0; color: var(--paper-2); font: 400 14px/1 var(--display); text-transform: uppercase; padding: 11px 14px; cursor: pointer; }
 
 /* ---------- commun ---------- */
@@ -153,12 +194,24 @@ h3 { font-size: 21px; line-height: 1.2; }
 .hero__art { position: relative; justify-self: center; width: min(100%, 460px); aspect-ratio: 1; max-width: 100%; }
 .hero__burst { position: absolute; inset: -8%; width: 116%; height: 116%; }
 .hero__burst polygon { fill: var(--red); }
-/* collage : le portrait de Mamie en photo collée de travers, et Mamie en entier debout devant */
-.hero__photo { position: absolute; right: 2%; top: 4%; width: 64%; height: auto; aspect-ratio: 1; object-fit: cover; border: 8px solid var(--paper-2); border-bottom-width: 26px;
-  transform: rotate(5deg); box-shadow: 0 16px 26px -12px rgba(23,20,20,.6), 6px 6px 0 var(--ink); }
-.hero__mamie { position: absolute; left: 10%; bottom: -2%; width: auto; height: 72%; max-height: 330px; transform: rotate(-4deg);
-  filter: drop-shadow(7px 7px 0 var(--ink)); image-rendering: auto; }
-.hero__say { position: absolute; left: 38%; bottom: 10%; transform: rotate(-3deg); }
+/* Mamie détourée, posée directement sur l'étoile rouge */
+.hero__logo { position: absolute; left: 4%; top: 4%; width: 92%; height: auto; transform: rotate(-2deg); filter: drop-shadow(8px 8px 0 var(--ink)); }
+.hero__say { position: absolute; left: -4%; bottom: 4%; transform: rotate(-3deg); }
+
+/* accueil : les trois familles en grandes colonnes */
+.fams { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 26px; align-items: start; }
+.fam { background: var(--paper-2); border: 3px solid var(--ink); border-top: 16px solid var(--fam); box-shadow: 6px 6px 0 var(--ink); padding: 20px 20px 8px; }
+.fam:nth-child(1) { transform: rotate(-.6deg); }
+.fam:nth-child(3) { transform: rotate(.5deg); }
+.fam__dit { margin: 0; font: 400 14px/1.3 var(--mono); color: var(--muted); }
+.fam h3 { font-size: clamp(28px, 3vw, 38px); line-height: 1.05; margin: 6px 0 14px; }
+.fam__list { list-style: none; margin: 0; padding: 0; }
+.fam__list a { position: relative; display: grid; gap: 3px; padding: 13px 36px 13px 6px; border-top: 2px dashed var(--ink); color: var(--ink); text-decoration: none; }
+.fam__list a::after { content: "→"; position: absolute; right: 8px; top: 50%; transform: translateY(-50%); font: 400 22px/1 var(--display); }
+.fam__list b { font: 400 19px/1.2 var(--display); }
+.fam__list span { font-size: 15px; line-height: 1.4; color: var(--muted); }
+.fam__list a:hover { background: var(--fam); color: var(--fam-txt); }
+.fam__list a:hover span { color: inherit; }
 .hero__dots { position: absolute; right: 0; top: 0; width: 40%; height: 60%; background-image: radial-gradient(circle, var(--ink) 2px, transparent 2.6px); background-size: 14px 14px; opacity: .55; -webkit-mask-image: linear-gradient(225deg, #000, transparent 70%); mask-image: linear-gradient(225deg, #000, transparent 70%); pointer-events: none; }
 
 /* ---------- rubriques ---------- */
@@ -524,9 +577,6 @@ html.has-player { overflow: hidden; }
 .foot__in { display: grid; grid-template-columns: 1.6fr 1fr 1fr 1fr; gap: 32px; }
 .foot .brand { color: var(--paper-2); }
 .foot__blurb { margin: 14px 0 0; max-width: 36ch; }
-/* Mamie en entier, découpée et collée de travers dans le pied de page */
-.foot__in > div:first-child { position: relative; padding-right: 116px; min-height: 210px; }
-.foot__mamie { position: absolute; right: 0; bottom: 0; width: 100px; height: auto; transform: rotate(4deg); filter: drop-shadow(5px 5px 0 var(--red)); }
 
 /* documents à télécharger (modèles de lettres…) : feuilles de papier collées */
 .dl { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 18px; margin: 1.4em 0; }
@@ -581,9 +631,9 @@ html.facile {
 .facile .rw, .facile .rl, .facile .tg { all: unset; }
 .facile .rw { white-space: normal; }
 /* plus rien de penché ni de décor de fond (la carte Leaflet n'est pas concernée) */
-.facile .nav a, .facile .btn, .facile .btn--main, .facile .chip, .facile .hero__photo, .facile .hero__mamie, .facile .hero__say,
+.facile .nav a, .facile .btn, .facile .btn--main, .facile .chip, .facile .hero__logo, .facile .hero__say, .facile .fam,
 .facile .rubrique, .facile .step__n, .facile .card, .facile .note, .facile .timeline b, .facile .toast, .facile .vcard, .facile .horde,
-.facile .doc__poster, .facile .doc__photo, .facile .yt, .facile .cutlist li, .facile .foot__mamie, .facile .dl__item, .facile .photo,
+.facile .doc__poster, .facile .doc__photo, .facile .yt, .facile .cutlist li, .facile .dl__item, .facile .photo,
 .facile .lost__mamie img, .facile .sgroup h2, .facile .eyebrow, .facile .bubble, .facile .prose h3::before { transform: none !important; }
 .facile .sec--alt, .facile .foot, .facile .doc__poster, .facile .vcard__cover { background-image: none; }
 .facile .hero__dots, .facile .gtitle::after { display: none; }
@@ -602,20 +652,19 @@ html.facile {
 .lost h1 { font-size: clamp(34px, 6vw, 64px); line-height: 1.1; margin: 0; }
 @media (max-width: 680px) {
   .lost__in { grid-template-columns: 1fr; justify-items: start; }
-  .lost__mamie { width: 130px; margin-left: 30px; }
-  .foot__in > div:first-child { padding-right: 96px; }
-  .foot__mamie { right: 10px; width: 80px; }
+  .lost__mamie { width: 160px; margin-left: 20px; }
 }
 .foot nav { display: grid; gap: 8px; align-content: start; }
-.foot h2, .foot h4 { margin: 0 0 6px; font: 400 14px/1 var(--display); text-transform: uppercase; color: var(--pink); }
+.foot h2, .foot h4 { margin: 0 0 8px; padding-bottom: 8px; border-bottom: 5px solid var(--fam, var(--pink)); font: 400 15px/1 var(--display); text-transform: uppercase; color: var(--paper-2); }
 .foot nav a { color: var(--paper-2); text-decoration: none; font-size: 15.5px; }
 .foot nav a:hover { background: var(--pink); color: var(--ink); }
 .foot__legal a { color: var(--pink); }
 .foot__legal { margin-top: 40px; padding-top: 18px; border-top: 2px dashed rgba(246,240,227,.4); font: 400 14px/1.5 var(--mono); }
 
 /* ---------- responsive ---------- */
-@media (max-width: 1080px) { .nav a { padding: 8px 6px; font-size: 13px; } }
+@media (max-width: 1080px) { .nav > a, .nav__btn { padding: 10px 8px; font-size: 14px; } }
 @media (max-width: 980px) {
+  .fams { grid-template-columns: 1fr; max-width: 640px; }
   .steps, .modes, .rubriques { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .rules dl { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .glayout { grid-template-columns: 1fr; gap: 0; }
@@ -629,8 +678,16 @@ html.facile {
   .menu { display: inline-block; }
   .nav { display: none; position: absolute; top: 100%; left: 0; right: 0; flex-direction: column; gap: 0; background: var(--paper-2); border-bottom: 3px solid var(--ink); padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
   .nav.open { display: flex; }
-  .nav a { padding: 16px 4px; border-top: 2px dashed var(--ink); font-size: 15px; }
-  .nav a[aria-current="page"] { transform: none; }
+  .nav { align-items: stretch; max-height: calc(100dvh - 80px); overflow-y: auto; padding-bottom: 12px; }
+  /* sur téléphone, le menu montre tout d'un coup : chaque famille et ses rubriques */
+  .nav > a, .nav__btn { padding: 16px 4px 10px; border-top: 2px dashed var(--ink); font-size: 16px; text-align: left; width: 100%; }
+  .nav__btn { cursor: default; border-top: 0; color: var(--ink); background: none; box-shadow: inset 6px 0 0 var(--fam); padding-left: 14px; }
+  .nav__btn::after { display: none; }
+  .nav__btn:hover, .nav__btn[aria-expanded="true"] { background: none; color: var(--ink); }
+  .nav__fam { border-top: 2px dashed var(--ink); }
+  .nav__panel, .nav__btn[aria-expanded="true"] + .nav__panel { display: block; position: static; width: auto; border: 0; box-shadow: none; padding: 0 0 6px 14px; background: none; }
+  .nav__dit { display: none; }
+  .nav__panel a { border-top: 0; padding: 9px 10px; }
 }
 @media (max-width: 680px) {
   .steps, .modes, .rules dl, .foot__in, .rubriques, .gnext { grid-template-columns: 1fr; }
@@ -638,7 +695,12 @@ html.facile {
   .hero__art { width: min(86%, 380px); order: -1; }
   .gnext a:last-child { text-align: left; }
   .brand__name { font-size: 17px; }
+  .top__in { gap: 10px; }
+  .brand { gap: 6px; min-width: 0; }
+  .brand__face { width: 40px; height: 40px; }
+  .menu { flex: none; padding: 11px 12px; }
 }
+@media (max-width: 370px) { .brand__name { font-size: 15px; } }
 @media (prefers-reduced-motion: reduce) {
   html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }

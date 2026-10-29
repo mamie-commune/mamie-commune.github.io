@@ -2,10 +2,29 @@
 (function () {
   "use strict";
   const nav = document.getElementById("nav"), btn = document.getElementById("menuBtn");
+  // Familles du menu : sur ordinateur, chaque bouton déplie ses rubriques ; sur téléphone, le menu montre tout.
+  const fams = [...document.querySelectorAll(".nav__btn")];
+  const mobile = () => window.matchMedia("(max-width: 860px)").matches;
+  const fermer = () => fams.forEach((b) => b.setAttribute("aria-expanded", "false"));
+  fams.forEach((b) => b.addEventListener("click", () => {
+    if (mobile()) return;
+    const ouvert = b.getAttribute("aria-expanded") === "true";
+    fermer(); b.setAttribute("aria-expanded", String(!ouvert));
+  }));
+  document.addEventListener("click", (e) => { if (!mobile() && !e.target.closest(".nav__fam")) fermer(); });
+  document.addEventListener("keydown", (e) => {
+    if (e.key !== "Escape" || mobile()) return;
+    const ouvert = fams.find((b) => b.getAttribute("aria-expanded") === "true");
+    if (ouvert) { fermer(); ouvert.focus(); }
+  });
   if (nav && btn) {
-    btn.addEventListener("click", () => btn.setAttribute("aria-expanded", String(nav.classList.toggle("open"))));
+    btn.addEventListener("click", () => {
+      const open = nav.classList.toggle("open");
+      btn.setAttribute("aria-expanded", String(open));
+      fams.forEach((b) => b.setAttribute("aria-expanded", String(open)));
+    });
     nav.addEventListener("click", (e) => {
-      if (e.target.tagName === "A") { nav.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); }
+      if (e.target.closest("a")) { nav.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); fermer(); }
     });
   }
 

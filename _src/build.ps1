@@ -15,25 +15,56 @@ function JsStr($s) { '"' + ($s -replace '\\', '\\' -replace '"', '\"') + '"' }
 function Slug($s) { ($s.ToLower().Normalize([Text.NormalizationForm]::FormD) -replace '\p{Mn}', '' -replace '[^a-z0-9]+', '-').Trim('-') }
 
 $layout = Read-Utf8 (Join-Path $src "layout.html")
-$navItems = @(
-  @("accueil", "index.html", "Accueil"),
-  @("luttes", "experiences/index.html", "Révolutions"),
-  @("antifa", "antifascisme/index.html", "Antifascisme"),
-  @("bibliotheque", "bibliotheque/index.html", "Bibliothèque"),
-  @("carte", "carte.html", "Carte"),
-  @("manif", "manif/index.html", "Manif"),
-  @("octobre", "mouvement-17-octobre.html", "17 Octobre"),
-  @("videos", "videos.html", "Vidéos"),
-  @("outils", "guides/index.html", "Outils numériques")
+# ---------- les trois grandes familles ----------
+# Tout le site se range dans ces familles : menu, pied de page, accueil ({{FAMILLES}}) et barre de recherche.
+# Rubrique : clé de menu (3e champ de l'en-tête des pages), adresse, nom, description courte, début des adresses de ses pages.
+$familles = @(
+  [ordered]@{ id = "apprendre"; nom = "Apprendre"; dit = "Comprendre d'où l'on vient"; rubriques = @(
+    @("luttes", "experiences/index.html", "Révolutions", "Commune, Makhno, Espagne 1936, zapatistes, Rojava", "experiences/"),
+    @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres libres en entier et fiches de lecture", "bibliotheque/|livres/|lecteur"),
+    @("videos", "videos.html", "Vidéos", "Documentaires et vidéos de Mamie", "videos")) },
+  [ordered]@{ id = "organiser"; nom = "S'organiser"; dit = "Trouver les autres, agir ensemble"; rubriques = @(
+    @("carte", "carte.html", "Carte des collectifs", "Groupes, syndicats, librairies et lieux près de chez toi", "carte"),
+    @("octobre", "mouvement-17-octobre.html", "Mouvement du 17 Octobre", "Où agir : les mobilisations, jour par jour", "mouvement-17-octobre"),
+    @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, agir contre elle", "antifascisme/")) },
+  [ordered]@{ id = "defendre"; nom = "Se défendre"; dit = "Tes droits, ta sécurité"; rubriques = @(
+    @("manif", "manif/index.html", "Guide de manif", "Tes droits face à la police, contester un PV", "manif/"),
+    @("outils", "guides/index.html", "Outils numériques", "Signal, vie privée, Linux : se protéger en ligne", "guides/"))
+  }
 )
+function Famille-De-Adresse($u) {
+  foreach ($f in $familles) { foreach ($r in $f.rubriques) { foreach ($p in ($r[4] -split '\|')) { if ($u.StartsWith($p)) { return @($f.id, $r[2]) } } } }
+  return @("", "")
+}
+# Les trois familles en grandes colonnes, pour l'accueil.
+function Familles-Accueil($root) {
+  $h = "<div class=""fams"">"
+  foreach ($f in $familles) {
+    $h += "<section class=""fam fam--$($f.id)"" aria-labelledby=""fam-$($f.id)""><p class=""fam__dit"">$(Esc $f.dit)</p><h3 id=""fam-$($f.id)"">$(Esc $f.nom)</h3><ul class=""fam__list"">"
+    foreach ($r in $f.rubriques) { $h += "<li><a href=""$root$($r[1])""><b>$(Esc $r[2])</b><span>$(Esc $r[3])</span></a></li>" }
+    $h += "</ul></section>"
+  }
+  return $h + "</div>"
+}
 
 function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
-  $navHtml = ""
-  foreach ($item in $navItems) {
-    $cur = ""; if ($item[0] -eq $nav) { $cur = ' aria-current="page"' }
-    $navHtml += "<a href=""$root$($item[1])""$cur>$($item[2])</a>"
+  # Menu : Accueil + une entrée par famille, qui déplie ses rubriques.
+  $navHtml = "<a class=""nav__home"" href=""${root}index.html""$(if ($nav -eq 'accueil') { ' aria-current="page"' })>Accueil</a>"
+  $pied = ""
+  foreach ($f in $familles) {
+    $ici = @($f.rubriques | Where-Object { $_[0] -eq $nav }).Count -gt 0
+    $navHtml += "<div class=""nav__fam fam--$($f.id)""><button class=""nav__btn"" type=""button"" aria-expanded=""false"" aria-controls=""menu-$($f.id)""$(if ($ici) { ' data-ici' })>$(Esc $f.nom)</button>"
+    $navHtml += "<div class=""nav__panel"" id=""menu-$($f.id)""><p class=""nav__dit"">$(Esc $f.dit)</p>"
+    $pied += "<nav class=""fam--$($f.id)"" aria-label=""$(Esc $f.nom)""><h2>$(Esc $f.nom)</h2>"
+    foreach ($r in $f.rubriques) {
+      $cur = if ($r[0] -eq $nav) { ' aria-current="page"' } else { "" }
+      $navHtml += "<a href=""$root$($r[1])""$cur><b>$(Esc $r[2])</b><span>$(Esc $r[3])</span></a>"
+      $pied += "<a href=""$root$($r[1])"">$(Esc $r[2])</a>"
+    }
+    $navHtml += "</div></div>"; $pied += "</nav>"
   }
-  $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts)
+  $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts)
+  $out = $out.Replace("{{FAMILLES}}", (Familles-Accueil $root))
   $out = Clean-Links ($out.Replace("{{R}}", $root))
   # Version dans l'adresse des scripts et styles : les navigateurs reprennent la dernière version à chaque changement.
   return [regex]::Replace($out, '((?:src|href)="(?!https?:|//)[^"?#]+\.(?:js|css))"', ('$1?v=' + $ver + '"'))
@@ -304,8 +335,11 @@ foreach ($id in $ytIds) {
   } catch { Write-Warning "Miniature YouTube $id non récupérée : $($_.Exception.Message)" }
 }
 
-$js = "// Généré par _src/build.ps1 — ne pas modifier à la main. Utilisé par assets/recherche.js.`nwindow.RECHERCHE = [`n"
-$js += ($index | ForEach-Object { "  { u: $(JsStr (Clean-Url $_.u)), k: $(JsStr $_.k), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
+# f = famille (apprendre, organiser, defendre), r = rubrique ; les pages hors famille (accueil, mentions…) ont f vide.
+$js = "// Généré par _src/build.ps1 — ne pas modifier à la main. Utilisé par assets/recherche.js.`n"
+$js += "window.FAMILLES = [" + (($familles | ForEach-Object { $f = $_; "{ id: $(JsStr $f.id), nom: $(JsStr $f.nom), dit: $(JsStr $f.dit), rubriques: [" + (($f.rubriques | ForEach-Object { "{ nom: $(JsStr $_[2]), d: $(JsStr $_[3]), u: $(JsStr (Clean-Url $_[1])) }" }) -join ", ") + "] }" }) -join ", ") + "];`n"
+$js += "window.RECHERCHE = [`n"
+$js += ($index | ForEach-Object { $fr = Famille-De-Adresse ($_.u -replace '\\', '/'); "  { u: $(JsStr (Clean-Url $_.u)), f: $(JsStr $fr[0]), r: $(JsStr $fr[1]), k: $(JsStr $_.k), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
 $js += "`n];`n"
 Write-Utf8 (Join-Path $site "data\recherche.js") $js
 Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres et $($exp.Count) pages de dossiers générés."

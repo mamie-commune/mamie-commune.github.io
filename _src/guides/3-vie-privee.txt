@@ -107,7 +107,7 @@
 <ul>
 <li>YouTube appartient à Google et vit de la pub ; il cherche à te garder le plus longtemps possible.</li>
 <li>Les placements de produits passent sous les bloqueurs : <strong>SponsorBlock</strong> les repère grâce aux signalements des internautes.</li>
-<li>Ne sois pas connecté·e à ton compte Google, et évite l'application officielle.</li>
+<li>Déconnecte-toi de ton compte Google, et évite l'application officielle.</li>
 </ul>
 
 <h2 id="ordi">Sur ordinateur</h2>
@@ -140,7 +140,7 @@
 
 === quitter-facebook | Vie privée | Quitter Facebook | Pourquoi partir, quoi utiliser à la place, et comment supprimer vraiment son compte.
 <h2 id="pourquoi">Pourquoi partir</h2>
-<p>Meta tire environ 95 % de ses revenus de la pub ciblée, donc de l'exploitation de tes données. Ses algorithmes mettent en avant les contenus qui divisent, pour te garder connecté·e. Meta a joué un rôle dans la surveillance de masse et la manipulation politique, et a relâché sa modération depuis 2025.</p>
+<p>Meta tire environ 95 % de ses revenus de la pub ciblée, donc de l'exploitation de tes données. Ses algorithmes mettent en avant les contenus qui divisent, pour te garder sur l'application. Meta a joué un rôle dans la surveillance de masse et la manipulation politique, et a relâché sa modération depuis 2025.</p>
 
 <h2 id="avant">Avant de supprimer</h2>
 <ul>
@@ -171,7 +171,7 @@
 <h2 id="meta">Et le reste de Meta</h2>
 <p>Ferme aussi Messenger, WhatsApp, Instagram et Threads. Évite les casques Meta Quest.</p>
 
-<h2 id="pas-pret">Pas encore prêt·e ?</h2>
+<h2 id="pas-pret">Tu hésites encore ?</h2>
 <p>L'extension Firefox <strong>Facebook Container</strong> isole Facebook du reste de ta navigation.</p>
 
 === hebergement-email | Vie privée | Héberger ses e-mails | Pourquoi quitter Gmail et Outlook, quels fournisseurs choisir et à quel prix.
@@ -207,7 +207,7 @@
 <tr><td>Tuta</td><td>1 Go</td><td>≈ 36 €/an, 20 Go</td><td>Application pour ordinateur</td></tr>
 <tr><td>Proton Mail</td><td>1 Go</td><td>≈ 48 €/an, 15 Go</td><td>Compatible OpenPGP ; Thunderbird via Bridge (payant)</td></tr>
 </tbody></table></div>
-<p>Le chiffrement complet ne marche qu'entre utilisateur·ices du même service.</p>
+<p>Le chiffrement complet ne marche qu'entre personnes qui utilisent le même service.</p>
 
 <h2 id="avance">Besoins avancés</h2>
 <ul>

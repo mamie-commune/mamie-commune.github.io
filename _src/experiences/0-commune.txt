@@ -18,7 +18,7 @@
 <p>La Commune légifère vite : remise des loyers, séparation de l'Église et de l'État, ateliers abandonnés confiés aux ouvriers, école gratuite et laïque. Voir <a href="commune-de-paris-decrets-femmes.html">les décrets et les femmes de la Commune</a>.</p>
 
 <h2 id="semaine">La Semaine sanglante</h2>
-<p>Dès avril, Versailles attaque. Le <strong>21 mai</strong>, l'armée entre dans Paris par une porte mal gardée. Pendant une semaine, quartier après quartier, les communard·es se battent sur les barricades. L'armée fusille sans jugement, au parc Monceau, au Luxembourg, à la caserne Lobau. Des otages sont exécutés par des communards. Le <strong>28 mai</strong>, les derniers combattants sont fusillés contre un mur du cimetière du Père-Lachaise : le <strong>mur des Fédérés</strong>.</p>
+<p>Dès avril, Versailles attaque. Le <strong>21 mai</strong>, l'armée entre dans Paris par une porte mal gardée. Pendant une semaine, quartier après quartier, les communardes et communards se battent sur les barricades. L'armée fusille sans jugement, au parc Monceau, au Luxembourg, à la caserne Lobau. Des otages sont exécutés par des communards. Le <strong>28 mai</strong>, les derniers combattants sont fusillés contre un mur du cimetière du Père-Lachaise : le <strong>mur des Fédérés</strong>.</p>
 <p>Le nombre de morts reste débattu : de plusieurs milliers à environ 20 000 selon les historiens. Puis viennent plus de 40 000 arrestations, les conseils de guerre, les bagnes, et la déportation de plusieurs milliers de personnes en Nouvelle-Calédonie, dont Louise Michel. L'amnistie n'arrive qu'en 1880.</p>
 
 <h2 id="chronologie">Chronologie</h2>
@@ -102,7 +102,7 @@
 <text class="s" x="372" y="114">décret du 16 avril</text>
 <rect class="bx-d" x="20" y="144" width="200" height="74"/><text class="t" x="120" y="172" text-anchor="middle">Ateliers</text><text class="s" x="120" y="192" text-anchor="middle">abandonnés par les</text><text class="s" x="120" y="208" text-anchor="middle">patrons partis</text>
 <rect class="bx" x="260" y="144" width="200" height="74"/><text class="t" x="360" y="172" text-anchor="middle">Chambres syndicales</text><text class="s" x="360" y="192" text-anchor="middle">recensent, évaluent,</text><text class="s" x="360" y="208" text-anchor="middle">proposent un plan</text>
-<rect class="bx-r" x="500" y="144" width="200" height="74"/><text class="t" x="600" y="172" text-anchor="middle">Atelier coopératif</text><text class="s" x="600" y="192" text-anchor="middle">géré par les ouvrier·es</text><text class="s" x="600" y="208" text-anchor="middle">associé·es</text>
+<rect class="bx-r" x="500" y="144" width="200" height="74"/><text class="t" x="600" y="172" text-anchor="middle">Atelier coopératif</text><text class="s" x="600" y="192" text-anchor="middle">géré par les ouvrières</text><text class="s" x="600" y="208" text-anchor="middle">et ouvriers associés</text>
 <path class="ar" d="M222 181H256M462 181H496" marker-end="url(#c2)"/>
 <rect class="bx" x="20" y="280" width="300" height="74"/><text class="t" x="170" y="308" text-anchor="middle">Union des femmes</text><text class="s" x="170" y="328" text-anchor="middle">comités dans chaque arrondissement</text><text class="s" x="170" y="344" text-anchor="middle">Élisabeth Dmitrieff, Nathalie Le Mel</text>
 <rect class="bx-r" x="400" y="280" width="300" height="74"/><text class="t" x="550" y="308" text-anchor="middle">Ateliers de femmes</text><text class="s" x="550" y="328" text-anchor="middle">couture, équipement des fédérés</text><text class="s" x="550" y="344" text-anchor="middle">travail payé sans intermédiaire</text>
@@ -110,7 +110,7 @@
 <path class="ld" d="M600 220V278"/>
 </svg>
 </div>
-<figcaption><b>Schéma 2.</b> Faute de temps, peu d'ateliers furent réellement repris. Mais l'idée d'une production gérée par les travailleur·euses eux-mêmes marquera tout le mouvement ouvrier.</figcaption>
+<figcaption><b>Schéma 2.</b> Faute de temps, peu d'ateliers furent réellement repris. Mais l'idée d'une production gérée par les travailleuses et travailleurs eux-mêmes marquera tout le mouvement ouvrier.</figcaption>
 </figure>
 
 <h2 id="majorite">Majorité et minorité</h2>
@@ -167,5 +167,5 @@
 <li><strong>Louise Michel</strong> devient anarchiste en Nouvelle-Calédonie, où elle soutient la révolte kanak de 1878.</li>
 <li>Pour beaucoup, la Commune montre à la fois que <strong>le peuple peut se gouverner</strong>, et qu'<strong>aucun pouvoir central</strong>, même révolutionnaire, ne protège une révolution.</li>
 </ul>
-<p>Chaque année, fin mai, une montée au <strong>mur des Fédérés</strong> rend hommage aux communard·es.</p>
+<p>Chaque année, fin mai, une montée au <strong>mur des Fédérés</strong> rend hommage aux communardes et communards.</p>
 <p>Retour au début : <a href="commune-de-paris-histoire.html">la Commune en 72 jours</a>. Autres dossiers : <a href="espagne-1936-histoire.html">Espagne 1936</a>, <a href="zapatistes-histoire.html">zapatistes</a>, <a href="rojava-histoire.html">Rojava</a>.</p>

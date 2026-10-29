@@ -9,15 +9,16 @@
 <link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
 <link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="../assets/icone-180.png">
-<link rel="stylesheet" href="../assets/fonts.css?v=25ed6f1f">
-<link rel="stylesheet" href="../assets/style.css?v=25ed6f1f">
+<link rel="stylesheet" href="../assets/fonts.css?v=b2d86575">
+<link rel="stylesheet" href="../assets/style.css?v=b2d86575">
+<script>/* lecture facile : appliquée avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); } catch (e) {}</script>
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header class="top">
   <div class="wrap top__in">
     <a class="brand" href="../" aria-label="Mamie Commune, accueil">
-      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <img class="brand__face" src="../assets/mamie-96.jpg" alt="" width="46" height="46">
       <span class="brand__name" data-ransom>Mamie Commune</span>
     </a>
     <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../">Accueil</a><a href="../experiences/">Révolutions</a><a href="../antifascisme/" aria-current="page">Antifascisme</a><a href="../bibliotheque/">Bibliothèque</a><a href="../carte">Carte</a><a href="../manif/">Manif</a><a href="../mouvement-17-octobre">17 Octobre</a><a href="../videos">Vidéos</a><a href="../guides/">Outils numériques</a></nav>
@@ -29,8 +30,10 @@
     <label class="sr" for="q">Rechercher sur le site</label>
     <input class="search__input" id="q" name="q" type="search" placeholder="Chercher un livre, une révolution, une ville, un guide…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
     <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
     <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
   </form>
+
 </div>
 <main id="contenu">
 <header class="gtitle"><div class="wrap">
@@ -56,16 +59,16 @@
 <tr><td>Trait blanc</td><td>lien ou proximité entre deux personnes ou structures</td></tr>
 <tr><td>Croix rouge</td><td>structure dissoute</td></tr>
 <tr><td>Flamme tricolore</td><td>personne passée par le Front national</td></tr>
-<tr><td>Lambda</td><td>ancien·ne identitaire</td></tr>
+<tr><td>Lambda</td><td>personne passée par les identitaires</td></tr>
 <tr><td>Étoile barrée / croissant barré</td><td>antisémite / islamophobe</td></tr>
-<tr><td>Hémicycle / étoiles européennes</td><td>député·e à l'Assemblée nationale / au Parlement européen</td></tr>
+<tr><td>Hémicycle / étoiles européennes</td><td>membre de l'Assemblée nationale / du Parlement européen</td></tr>
 <tr><td>Numéros 1 à 9 sur fond jaune</td><td>renvoient aux précisions détaillées au verso et sur le site de La Horde</td></tr>
 </tbody></table></div>
 
 <h2 id="electoralistes">Les électoralistes</h2>
 <p>Les partis qui visent le pouvoir par les urnes, et leurs passerelles avec la droite.</p>
 <ul>
-<li><strong>Rassemblement national</strong> : Marine Le Pen, Jordan Bardella, Louis Aliot, Sébastien Chenu, David Rachline, Philippe Olivier, Bruno Bilde, Steeve Briois, Hélène Laporte, et plus de 120 député·es.</li>
+<li><strong>Rassemblement national</strong> : Marine Le Pen, Jordan Bardella, Louis Aliot, Sébastien Chenu, David Rachline, Philippe Olivier, Bruno Bilde, Steeve Briois, Hélène Laporte, et plus de 120 députées et députés.</li>
 <li><strong>Union des droites (UDR)</strong> d'Éric Ciotti, allié du RN ; le syndicat étudiant <strong>UNI</strong> ; la frange droitière des <strong>Républicains</strong> (Bruno Retailleau), avec Sens commun et le Mouvement conservateur.</li>
 <li><strong>Reconquête !</strong> : Éric Zemmour, Sarah Knafo, Stanislas Rigault et Génération Z.</li>
 <li><strong>Identité-Libertés</strong> de Marion Maréchal, passée par le FN puis par Reconquête.</li>
@@ -105,7 +108,7 @@
 <h2 id="activistes">Les activistes</h2>
 <ul>
 <li><strong>Royalistes</strong> : l'Action française, plus vieux mouvement nationaliste encore actif, et Amitié &amp; Action française.</li>
-<li><strong>Identitaires</strong> : Génération identitaire (dissous en mars 2021), Argos France, et l'ASLA, qui collecte des fonds pour les militant·es.</li>
+<li><strong>Identitaires</strong> : Génération identitaire (dissous en mars 2021), Argos France, et l'ASLA, qui collecte des fonds pour ses militantes et militants.</li>
 <li><strong>Nationalistes radicaux</strong> : le Parti de la France (Thomas Joly), Les Nationalistes (Yvan Benedetti, Pierre-Marie Bonneau), Rébellion / OSRE, Réfléchir &amp; Agir.</li>
 <li><strong>Rue et violence</strong> : les Active Clubs, le C9M, Ouest Casual, les hooligans, les skinheads d'extrême droite.</li>
 <li><strong>Groupes locaux</strong> : nombreux, instables, souvent éphémères ; ils ont leur propre carte, ci-dessous.</li>
@@ -114,7 +117,7 @@
 <h2 id="retenir">À retenir</h2>
 <ul>
 <li>L'extrême droite n'est pas qu'un parti : c'est un écosystème où élus, médias, idéologues et groupes de rue se renforcent.</li>
-<li>Les flèches et les traits du schéma montrent la circulation des militant·es d'une structure à l'autre.</li>
+<li>Les flèches et les traits du schéma montrent la circulation des militantes et militants d'une structure à l'autre.</li>
 <li>Suite : <a href="extreme-droite-implantation">la carte des groupes locaux</a> et <a href="agir-antifasciste">comment agir</a>.</li>
 </ul>
 <p class="credit">Fiche rédigée par Mamie Commune d'après les ressources publiées par le site antifasciste La Horde. Les originaux (schéma, carte, livre) sont disponibles sur leur site.</p>
@@ -126,12 +129,12 @@
 <footer class="foot">
   <div class="wrap foot__in">
     <div>
-      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-96.jpg" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
       <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître.</p>
       <img class="foot__mamie" src="../assets/mamie-entiere.png" alt="" width="120" height="252" loading="lazy">
     </div>
     <nav aria-label="Rubriques">
-      <h4>Rubriques</h4>
+      <h2>Rubriques</h2>
       <a href="../experiences/">Révolutions</a>
       <a href="../antifascisme/">Antifascisme</a>
       <a href="../bibliotheque/">Bibliothèque</a>
@@ -142,14 +145,15 @@
       <a href="../guides/">Outils numériques</a>
     </nav>
     <nav aria-label="Révolutions">
-      <h4>Révolutions</h4>
+      <h2>Révolutions</h2>
       <a href="../experiences/commune-de-paris-histoire">Commune de Paris</a>
       <a href="../experiences/makhno-histoire">Makhnovtchina</a>
+      <a href="../experiences/espagne-1936-histoire">Espagne 1936</a>
       <a href="../experiences/zapatistes-histoire">Zapatistes</a>
       <a href="../experiences/rojava-histoire">Rojava</a>
     </nav>
     <nav aria-label="Pour commencer">
-      <h4>Pour commencer</h4>
+      <h2>Pour commencer</h2>
       <a href="../bibliotheque/aux-jeunes-gens">Aux jeunes gens</a>
       <a href="../bibliotheque/au-cafe">Au café</a>
       <a href="../guides/installer-linux-mint">Passer à Linux Mint</a>
@@ -158,8 +162,8 @@
   </div>
   <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
 </footer>
-<script src="../assets/site.js?v=25ed6f1f"></script>
-<script src="../assets/recherche.js?v=25ed6f1f"></script>
+<script src="../assets/site.js?v=b2d86575"></script>
+<script src="../assets/recherche.js?v=b2d86575"></script>
 
 </body>
 </html>

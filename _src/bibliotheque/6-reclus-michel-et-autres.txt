@@ -30,7 +30,7 @@
 <li>Le constat : les richesses vont à ceux qui ne travaillent pas, soutenus par la religion, l'État et une justice achetable.</li>
 <li>Si la justice est un idéal, il faut l'exiger pour tous ; si seule la force gouverne, il faut lui opposer la force.</li>
 <li>Le progrès social n'est jamais venu d'une évolution paisible seule, mais de ruptures.</li>
-<li>Pas de chef, pas de subordonné : chacun·e reste responsable de ses actes.</li>
+<li>Pas de chef, pas de subordonné : chacune et chacun reste responsable de ses actes.</li>
 <li>La morale naît de la liberté, pas de l'obéissance.</li>
 <li>Communisme international : terre commune, production selon les besoins.</li>
 <li>Pas de plan figé de la société future.</li>
@@ -233,7 +233,7 @@
 <p>L'anarchie est une théorie rationnelle. Toute autorité, monarchique ou républicaine, sert une minorité. La liberté ne se reçoit pas d'en haut : on la conquiert soi-même.</p>
 <h2 id="but">Le but</h2>
 <ul>
-<li>Une société sans lois ni maîtres où chacun·e développe toutes ses facultés : <strong>l'individu libre dans l'humanité libre</strong>.</li>
+<li>Une société sans lois ni maîtres où chacune et chacun développe toutes ses facultés : <strong>l'individu libre dans l'humanité libre</strong>.</li>
 <li>Les capacités humaines sont fondamentalement égales.</li>
 <li>Fin de la propriété de la terre et du capital.</li>
 <li>Liberté totale de pensée et d'amour.</li>
@@ -276,7 +276,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Écrit dans l'exil après 1848 et publié en brochure (ici dans une édition de 1912). Déjacque, ouvrier colleur de papiers peints et poète, répond aux blanquistes et à tous ceux qui rêvent d'une dictature de salut public.</p>
 <h2 id="these">La thèse</h2>
-<p>Aucune dictature, même au nom du peuple, ne sert la liberté. La seule autorité légitime est celle de l'intelligence et de l'exemple, exercée par chacun·e.</p>
+<p>Aucune dictature, même au nom du peuple, ne sert la liberté. La seule autorité légitime est celle de l'intelligence et de l'exemple, exercée par chacune et chacun.</p>
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li>Ne pas ressusciter les vieilles autorités.</li>
@@ -303,7 +303,7 @@
 <li>Proudhon parle des femmes sans les connaître, en réactionnaire, lui qui est révolutionnaire en économie.</li>
 <li>Pas de droits selon le sexe : l'être humain est un.</li>
 <li>Les sexes s'influencent l'un l'autre ; la société a réduit les femmes à la décoration et à la soumission.</li>
-<li>Une anarchie communiste où chacun·e produit et consomme librement, sans contrat ni contrôle.</li>
+<li>Une anarchie communiste où chacune et chacun produit et consomme librement, sans contrat ni contrôle.</li>
 <li>La diversité (âge, sexe, aptitudes) ne justifie aucune hiérarchie : égalité n'est pas uniformité.</li>
 <li>Un appel à l'union libre des femmes et des hommes.</li>
 </ol>

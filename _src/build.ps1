@@ -233,14 +233,14 @@ foreach ($b in $biblio) {
 Build-Collection $biblio "bibliotheque" "bibliotheque" "Bibliothèque" "Fiche" '<p class="credit">Fiche de lecture rédigée par Mamie Commune d''après les textes de la Bibliothèque anarchiste francophone. Cette fiche est libre de reproduction.</p>' "BIBLIO"
 
 $exp = Read-Collection "experiences"
-Build-Collection $exp "experiences" "luttes" "Révolutions" "Dossier" '<p class="credit">Dossier rédigé par Mamie Commune à partir de travaux d''historien·nes et de textes des mouvements concernés. Libre de reproduction.</p>' "EXPERIENCES"
+Build-Collection $exp "experiences" "luttes" "Révolutions" "Dossier" '<p class="credit">Dossier rédigé par Mamie Commune à partir de travaux d''historiennes et d''historiens et de textes des mouvements concernés. Libre de reproduction.</p>' "EXPERIENCES"
 
 $antifa = Read-Collection "antifascisme"
 Build-Collection $antifa "antifascisme" "antifa" "Antifascisme" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune d''après les ressources publiées par le site antifasciste La Horde. Les originaux (schéma, carte, livre) sont disponibles sur leur site.</p>' "ANTIFA"
 
 # Guide de manif : chaque catégorie des fiches de _src/manif/ devient une rubrique (Legal Team…).
 $manif = @(Read-Collection "manif")   # @() : une seule fiche reste une liste
-Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune. Elle ne remplace pas l''avis d''un·e avocat·e.</p>' "MANIF"
+Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune. Elle ne remplace pas l''avis d''une avocate ou d''un avocat.</p>' "MANIF"
 
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).

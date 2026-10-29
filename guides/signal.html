@@ -9,15 +9,16 @@
 <link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
 <link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="../assets/icone-180.png">
-<link rel="stylesheet" href="../assets/fonts.css?v=25ed6f1f">
-<link rel="stylesheet" href="../assets/style.css?v=25ed6f1f">
+<link rel="stylesheet" href="../assets/fonts.css?v=b2d86575">
+<link rel="stylesheet" href="../assets/style.css?v=b2d86575">
+<script>/* lecture facile : appliquée avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); } catch (e) {}</script>
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header class="top">
   <div class="wrap top__in">
     <a class="brand" href="../" aria-label="Mamie Commune, accueil">
-      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <img class="brand__face" src="../assets/mamie-96.jpg" alt="" width="46" height="46">
       <span class="brand__name" data-ransom>Mamie Commune</span>
     </a>
     <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../">Accueil</a><a href="../experiences/">Révolutions</a><a href="../antifascisme/">Antifascisme</a><a href="../bibliotheque/">Bibliothèque</a><a href="../carte">Carte</a><a href="../manif/">Manif</a><a href="../mouvement-17-octobre">17 Octobre</a><a href="../videos">Vidéos</a><a href="../guides/" aria-current="page">Outils numériques</a></nav>
@@ -29,8 +30,10 @@
     <label class="sr" for="q">Rechercher sur le site</label>
     <input class="search__input" id="q" name="q" type="search" placeholder="Chercher un livre, une révolution, une ville, un guide…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
     <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
     <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
   </form>
+
 </div>
 <main id="contenu">
 <header class="gtitle"><div class="wrap">
@@ -42,7 +45,7 @@
 <div class="wrap glayout">
   <article class="prose">
 <p>Pour s'organiser entre camarades, <strong>Signal</strong> est l'outil le plus simple et le plus sûr aujourd'hui. Les messages, les appels, les photos et les fichiers sont <strong>chiffrés de bout en bout</strong> : seules les personnes de la conversation peuvent les lire, ni Signal, ni ton opérateur, ni la police en interceptant le réseau. L'application est gratuite, son code est public, et elle est tenue par une fondation à but non lucratif, sans pub ni revente de données.</p>
-<p>Mais Signal n'est qu'un outil. Bien réglé, il protège tes échanges ; mal réglé, il peut afficher ton numéro à des inconnu·es ou garder des années de messages dans un téléphone saisi. Ce guide prend les réglages un par un.</p>
+<p>Mais Signal n'est qu'un outil. Bien réglé, il protège tes échanges ; mal réglé, il peut afficher ton numéro à n'importe qui ou garder des années de messages dans un téléphone saisi. Ce guide prend les réglages un par un.</p>
 
 <h2 id="installer">1. Installer Signal</h2>
 <ul>
@@ -56,7 +59,7 @@
 <ol class="principes">
 <li><b>Créer</b>Touche ta photo de profil → <em>Nom d'utilisateur</em>. Choisis un pseudo, Signal ajoute deux chiffres (par exemple <em>mamie.71</em>).</li>
 <li><b>Cacher</b><em>Paramètres → Confidentialité → Numéro de téléphone</em> : « Qui peut voir mon numéro » sur <strong>Personne</strong>.</li>
-<li><b>Ne pas être trouvé·e</b>Au même endroit, « Qui peut me trouver par mon numéro » sur <strong>Personne</strong> si tu ne veux pas que quelqu'un qui a ton numéro sache que tu es sur Signal.</li>
+<li><b>Rester introuvable</b>Au même endroit, « Qui peut me trouver par mon numéro » sur <strong>Personne</strong> si tu ne veux pas que quelqu'un qui a ton numéro sache que tu es sur Signal.</li>
 <li><b>Partager</b>Sur la page du nom d'utilisateur, un <em>lien</em> et un <em>QR code</em> à donner au lieu de ton numéro. Tu peux les réinitialiser s'ils ont trop circulé.</li>
 </ol>
 <div class="note"><p><strong>Ton nom de profil se voit</strong> dans tous les groupes où tu es. Mets un prénom d'usage ou un pseudo, et une photo qui ne te reconnaît pas.</p></div>
@@ -67,7 +70,7 @@
 <li><strong>Verrouillage de l'inscription</strong> : <em>Paramètres → Compte → Verrouillage de l'inscription</em>, activé. Sans ton PIN, personne ne peut réinscrire ton numéro sur un autre téléphone, même en récupérant ta carte SIM.</li>
 <li><strong>Appareils liés</strong> : <em>Paramètres → Appareils liés</em>. Regarde la liste de temps en temps, et supprime tout appareil que tu ne reconnais pas : il lit tous tes nouveaux messages.</li>
 </ul>
-<div class="note"><p><strong>Arnaque au QR code.</strong> Un QR code « pour rejoindre un groupe » envoyé par un·e inconnu·e peut en réalité <em>relier son ordinateur à ton compte</em>. Ne scanne un QR code de liaison que pour <strong>ton propre</strong> ordinateur, depuis <em>Appareils liés</em>.</p></div>
+<div class="note"><p><strong>Arnaque au QR code.</strong> Un QR code « pour rejoindre un groupe » envoyé par quelqu'un que tu ne connais pas peut en réalité <em>relier son ordinateur à ton compte</em>. Ne scanne un QR code de liaison que pour <strong>ton propre</strong> ordinateur, depuis <em>Appareils liés</em>.</p></div>
 
 <h2 id="ephemeres">4. Les messages éphémères</h2>
 <p>Ce qui n'existe plus ne peut pas être lu, ni par une personne qui récupère un téléphone, ni dans une procédure. Les messages éphémères s'effacent tout seuls chez tout le monde après le délai choisi.</p>
@@ -90,23 +93,23 @@
 <tr><td>Appels relayés</td><td><em>Confidentialité → Avancé → Toujours relayer les appels</em></td><td>Ton adresse IP n'est pas visible par la personne que tu appelles.</td></tr>
 </tbody>
 </table></div>
-<div class="note"><p><strong>En garde à vue</strong>, la police peut te demander le code de ton téléphone. En France, refuser de donner le code d'un téléphone chiffré peut être poursuivi. Avant une action, renseigne-toi auprès de la <em>legal team</em> ou d'un·e avocat·e, et pose-toi la question : ai-je besoin d'emporter ce téléphone ?</p></div>
+<div class="note"><p><strong>En garde à vue</strong>, la police peut te demander le code de ton téléphone. En France, refuser de donner le code d'un téléphone chiffré peut être poursuivi. Avant une action, renseigne-toi auprès de la <em>legal team</em> ou d'une avocate ou d'un avocat, et pose-toi la question : ai-je besoin d'emporter ce téléphone ?</p></div>
 
 <h2 id="groupes">6. Tenir un groupe de lutte</h2>
 <ul>
 <li><strong>Un groupe par besoin</strong> : un pour l'info large, un petit pour l'organisation, un tout petit pour ce qui est sensible. Plus un groupe est grand, plus il est probable qu'il y ait une personne indiscrète, ou infiltrée.</li>
 <li><strong>Lien d'invitation avec validation</strong> : touche le nom du groupe → <em>Lien du groupe</em>, active <em>Approuver les nouveaux membres</em>. Réinitialise le lien s'il a circulé trop loin.</li>
-<li><strong>Droits</strong> : dans les réglages du groupe, réserve aux admins la modification des infos et l'ajout de membres. Plusieurs admins de confiance, pas un·e seul·e.</li>
+<li><strong>Droits</strong> : dans les réglages du groupe, réserve aux admins la modification des infos et l'ajout de membres. Plusieurs admins de confiance, pas une seule personne.</li>
 <li><strong>Messages éphémères activés</strong> pour tout le groupe, dès la création.</li>
 <li><strong>Faire le ménage</strong> : retire les personnes qui ne participent plus, et ferme les groupes devenus inutiles.</li>
 <li><strong>Le bon outil pour la bonne info</strong> : une adresse de rendez-vous ou un nom ne s'écrivent pas dans un groupe de 300 personnes. Ce qui est vraiment sensible se dit de vive voix, téléphones loin.</li>
 </ul>
 
 <h2 id="verifier">7. Vérifier qu'on parle à la bonne personne</h2>
-<p>Chaque conversation a un <strong>numéro de sécurité</strong>. Si vous le comparez en vrai, tu es sûr·e que personne ne s'est glissé entre vous.</p>
+<p>Chaque conversation a un <strong>numéro de sécurité</strong>. Si vous le comparez en vrai, tu as la certitude que personne ne s'est glissé entre vous.</p>
 <ol>
 <li>Ouvre la conversation, touche le nom en haut → <em>Afficher le numéro de sécurité</em>.</li>
-<li>Quand vous êtes ensemble, scannez le QR code l'un·e de l'autre : la personne est marquée <em>vérifiée</em>.</li>
+<li>Quand vous êtes ensemble, scannez tour à tour le QR code de l'autre : la personne est marquée <em>vérifiée</em>.</li>
 <li>Si Signal annonce que le numéro de sécurité a changé, c'est souvent un nouveau téléphone. Demande-le à la personne par un autre moyen avant d'écrire quoi que ce soit de sensible.</li>
 </ol>
 
@@ -135,12 +138,12 @@
 <footer class="foot">
   <div class="wrap foot__in">
     <div>
-      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-96.jpg" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
       <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître.</p>
       <img class="foot__mamie" src="../assets/mamie-entiere.png" alt="" width="120" height="252" loading="lazy">
     </div>
     <nav aria-label="Rubriques">
-      <h4>Rubriques</h4>
+      <h2>Rubriques</h2>
       <a href="../experiences/">Révolutions</a>
       <a href="../antifascisme/">Antifascisme</a>
       <a href="../bibliotheque/">Bibliothèque</a>
@@ -151,14 +154,15 @@
       <a href="../guides/">Outils numériques</a>
     </nav>
     <nav aria-label="Révolutions">
-      <h4>Révolutions</h4>
+      <h2>Révolutions</h2>
       <a href="../experiences/commune-de-paris-histoire">Commune de Paris</a>
       <a href="../experiences/makhno-histoire">Makhnovtchina</a>
+      <a href="../experiences/espagne-1936-histoire">Espagne 1936</a>
       <a href="../experiences/zapatistes-histoire">Zapatistes</a>
       <a href="../experiences/rojava-histoire">Rojava</a>
     </nav>
     <nav aria-label="Pour commencer">
-      <h4>Pour commencer</h4>
+      <h2>Pour commencer</h2>
       <a href="../bibliotheque/aux-jeunes-gens">Aux jeunes gens</a>
       <a href="../bibliotheque/au-cafe">Au café</a>
       <a href="../guides/installer-linux-mint">Passer à Linux Mint</a>
@@ -167,8 +171,8 @@
   </div>
   <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
 </footer>
-<script src="../assets/site.js?v=25ed6f1f"></script>
-<script src="../assets/recherche.js?v=25ed6f1f"></script>
+<script src="../assets/site.js?v=b2d86575"></script>
+<script src="../assets/recherche.js?v=b2d86575"></script>
 
 </body>
 </html>

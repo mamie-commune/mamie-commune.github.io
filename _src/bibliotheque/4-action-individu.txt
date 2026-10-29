@@ -3,7 +3,7 @@
 <p>Brochure de 1904, dans la « Bibliothèque de documentation syndicale ». Pouget est l'une des têtes du syndicalisme révolutionnaire de la CGT naissante. Le débat du moment : faut-il passer par les partis et le Parlement, ou agir directement ?</p>
 
 <h2 id="these">La thèse</h2>
-<p>L'action directe, c'est l'action des travailleur·euses par eux-mêmes, contre le patronat, sans représentant ni État. Son horizon : la disparition du patron dans l'atelier.</p>
+<p>L'action directe, c'est l'action des travailleuses et travailleurs par eux-mêmes, contre le patronat, sans représentant ni État. Son horizon : la disparition du patron dans l'atelier.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -31,7 +31,7 @@
 <p>Paru en 1912 dans la revue <em>Mother Earth</em>. Après un attentat à Los Angeles, la presse américaine réduit l'« action directe » aux bombes. Voltairine de Cleyre veut rendre au mot son vrai sens, et répond aux socialistes électoralistes.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Toute personne qui agit elle-même pour défendre ses droits, sans s'en remettre à une autorité, pratique l'action directe. Ce n'est en soi ni violent ni pacifique. C'est le moteur réel des changements sociaux ; l'action politique, elle, s'appuie sur la contrainte de l'État et mène les travailleur·euses dans une impasse.</p>
+<p>Toute personne qui agit elle-même pour défendre ses droits, sans s'en remettre à une autorité, pratique l'action directe. Ce n'est en soi ni violent ni pacifique. C'est le moteur réel des changements sociaux ; l'action politique, elle, s'appuie sur la contrainte de l'État et mène les travailleuses et travailleurs dans une impasse.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -39,7 +39,7 @@
 <li><strong>Chacun mêle les deux</strong> ; seuls les vrais non-violents peuvent ne croire qu'à l'action directe, car le pouvoir politique repose toujours sur la force.</li>
 <li><strong>L'histoire américaine</strong> : quakers persécutés, révolte de Bacon, boycotts qui ont préparé l'indépendance. Les manuels célèbrent ce qu'ils condamneraient aujourd'hui.</li>
 <li><strong>L'abolitionnisme</strong> : le « chemin de fer souterrain » pour les esclaves en fuite, la désobéissance aux lois, John Brown. Les politiciens tergiversaient, d'autres agissaient.</li>
-<li><strong>Les luttes paysannes et ouvrières</strong> : les organisations paysannes ont échoué en se lançant dans la conquête du pouvoir ; la grève reste l'arme naturelle des travailleur·euses.</li>
+<li><strong>Les luttes paysannes et ouvrières</strong> : les organisations paysannes ont échoué en se lançant dans la conquête du pouvoir ; la grève reste l'arme naturelle des travailleuses et travailleurs.</li>
 <li><strong>Contre l'électoralisme</strong> : les lois sociales se retournent souvent contre les ouvriers, et le vote entretient la passivité. Elle propose la grève générale et l'expropriation.</li>
 </ol>
 
@@ -84,18 +84,18 @@
 <p>Ce texte, publié d'abord en 1880 et souvent réédité (ici dans <em>Les Temps nouveaux</em>, 1904), est l'un des plus diffusés de l'anarchisme. Il s'adresse aux jeunes de 18-20 ans qui finissent leurs études et entrent dans la vie active, en pleine industrialisation et misère ouvrière.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Tant que la société reste divisée entre salarié·es et possédants, la science, le droit, la technique et l'art servent les puissants. Chaque jeune doit choisir : servir les privilégiés, ou rejoindre le mouvement d'émancipation.</p>
+<p>Tant que la société reste divisée entre le salariat et les possédants, la science, le droit, la technique et l'art servent les puissants. Chaque jeune doit choisir : servir les privilégiés, ou rejoindre le mouvement d'émancipation.</p>
 
 <h2 id="metiers">Métier par métier</h2>
 <ul>
 <li><strong>Le médecin</strong> découvre que les maladies des quartiers pauvres viennent de la faim, du manque d'air et du surmenage. Soigner ne suffit pas : il faut changer les conditions de vie.</li>
 <li><strong>Le savant</strong> qui cherche pour son seul plaisir pratique un égoïsme. Il faut d'abord rendre le savoir accessible à tout le monde.</li>
 <li><strong>Le juriste</strong> s'aperçoit que la loi protège surtout la propriété et des contrats entre inégaux. Il doit choisir entre la légalité et la justice.</li>
-<li><strong>L'ingénieur</strong> voit ses inventions enrichir quelques patrons et aggraver le sort des ouvrier·es : chômage, cadences, accidents.</li>
-<li><strong>L'instituteur</strong>, coincé entre familles et administration, peut porter une instruction libre auprès des travailleur·euses.</li>
+<li><strong>L'ingénieur</strong> voit ses inventions enrichir quelques patrons et aggraver le sort des ouvrières et ouvriers : chômage, cadences, accidents.</li>
+<li><strong>L'instituteur</strong>, coincé entre familles et administration, peut porter une instruction libre auprès des travailleuses et travailleurs.</li>
 <li><strong>L'artiste</strong> doit retrouver une inspiration et dénoncer la laideur de l'ordre social.</li>
-<li><strong>Les intellectuels</strong> doivent venir comme camarades, pas comme maîtres : les travailleur·euses s'organisent déjà.</li>
-<li><strong>Ouvrier·es, paysan·nes, femmes</strong> : leur nombre est leur force.</li>
+<li><strong>Les intellectuels</strong> doivent venir comme camarades, pas comme maîtres : les travailleuses et travailleurs s'organisent déjà.</li>
+<li><strong>Ouvrières et ouvriers, paysannes et paysans</strong> : leur nombre est leur force.</li>
 </ul>
 
 <h2 id="retenir">À retenir</h2>

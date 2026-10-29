@@ -1,4 +1,4 @@
-=== anarchie-et-eglise | Individu & morale | L'Anarchie et l'Église | Élisée Reclus · vers 1900 | Combattre sans relâche le pouvoir des Églises, sans haine pour les croyant·es, et protéger les enfants de toute fabrique d'obéissance.
+=== anarchie-et-eglise | Individu & morale | L'Anarchie et l'Église | Élisée Reclus · vers 1900 | Combattre sans relâche le pouvoir des Églises, sans haine pour les croyantes et les croyants, et protéger les enfants de toute fabrique d'obéissance.
 <h2 id="contexte">Contexte</h2>
 <p>Paru dans <em>Les Temps nouveaux</em>, dans une France déchirée entre congrégations et bloc républicain, peu avant la séparation des Églises et de l'État.</p>
 <h2 id="these">La thèse</h2>
@@ -61,7 +61,7 @@
 </ol>
 <h2 id="retenir">À retenir</h2><ul><li>Progrès matériel n'est pas progrès moral.</li><li>L'entraide s'étend aux autres espèces.</li><li>À lire avec <a href="vegetarisme.html">À propos du végétarisme</a>.</li></ul>
 
-=== l-ideal-et-la-jeunesse | Individu & morale | L'Idéal et la jeunesse | Élisée Reclus · 1894 | Aux étudiant·es : refusez le découragement et l'esprit de carrière, mettez votre énergie au service d'une société libre.
+=== l-ideal-et-la-jeunesse | Individu & morale | L'Idéal et la jeunesse | Élisée Reclus · 1894 | Aux étudiantes et aux étudiants : refusez le découragement et l'esprit de carrière, mettez votre énergie au service d'une société libre.
 <h2 id="contexte">Contexte</h2>
 <p>Paru en juin 1894 dans <em>La Société nouvelle</em>. Reclus constate que l'engagement des étudiants a faibli depuis les générations romantiques et républicaines.</p>
 <h2 id="these">La thèse</h2>

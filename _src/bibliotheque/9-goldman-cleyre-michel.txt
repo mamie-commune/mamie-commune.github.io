@@ -61,16 +61,16 @@
 </ol>
 <h2 id="retenir">À retenir</h2><ul><li>Cronstadt, symbole de l'autonomie ouvrière écrasée.</li><li>Critiquer le pouvoir y devient une trahison.</li><li>À lire avec <a href="bolchevisme-et-anarchisme.html">Malatesta</a>.</li></ul>
 
-=== le-mariage-mauvaise-action | Féminisme & société | Le Mariage est une mauvaise action | Voltairine de Cleyre · 1907 | Le mariage, c'est la dépendance durable, sexuelle et économique, qui use l'amour et freine chacun·e.
+=== le-mariage-mauvaise-action | Féminisme & société | Le Mariage est une mauvaise action | Voltairine de Cleyre · 1907 | Le mariage, c'est la dépendance durable, sexuelle et économique, qui use l'amour et freine chacune et chacun.
 <h2 id="contexte">Contexte</h2>
 <p>Conférence d'avril 1907 à Philadelphie, en réponse à un plaidoyer pour le mariage prononcé juste avant elle.</p>
 <h2 id="these">La thèse</h2>
-<p>Le mariage n'est pas la cérémonie mais la relation permanente de dépendance entre deux personnes. Elle entrave le développement de chacun·e et finit par détruire le désir et la tendresse.</p>
+<p>Le mariage n'est pas la cérémonie mais la relation permanente de dépendance entre deux personnes. Elle entrave le développement de chacune et de chacun et finit par détruire le désir et la tendresse.</p>
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li>La morale d'un acte évolue avec les besoins sociaux.</li>
 <li>Les besoins humains (savoir, art, création) dépassent le couple.</li>
-<li>La dépendance économique, surtout des femmes, empêche de vivre seul·e.</li>
+<li>La dépendance économique, surtout des femmes, empêche de vivre en indépendance.</li>
 <li>La vie quotidienne use le désir ; les chemins divergent.</li>
 <li>Élever des enfants ne rend pas le mariage nécessaire.</li>
 </ol>

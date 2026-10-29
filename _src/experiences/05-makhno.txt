@@ -62,10 +62,10 @@
 </ul>
 
 === makhno-organisation | Makhnovtchina | Soviets libres, congrès et armée insurrectionnelle | Ukraine · 1917-1921 | Des villages qui décident en assemblée, des congrès régionaux souverains, une armée de volontaires qui élit ses commandants : l'organisation makhnoviste en schémas.
-<p>Les makhnovistes ne voulaient pas remplacer un gouvernement par un autre. Leur principe : <strong>les travailleur·euses s'organisent eux-mêmes</strong>, village par village, usine par usine, et se fédèrent librement. Ils parlaient de <strong>« soviets libres »</strong> : des conseils de travailleurs, sans parti qui les dirige d'en haut.</p>
+<p>Les makhnovistes ne voulaient pas remplacer un gouvernement par un autre. Leur principe : <strong>les travailleuses et travailleurs s'organisent eux-mêmes</strong>, village par village, usine par usine, et se fédèrent librement. Ils parlaient de <strong>« soviets libres »</strong> : des conseils de travailleurs, sans parti qui les dirige d'en haut.</p>
 
 <h2 id="congres">Les congrès régionaux</h2>
-<p>Le pouvoir de décision appartient aux <strong>congrès régionaux de paysans, d'ouvriers et d'insurgés</strong>. Chaque village, chaque entreprise, chaque unité de l'armée y envoie ses délégué·es, mandatés par une assemblée. Les premiers se tiennent en janvier, février et avril 1919 ; un grand congrès se réunit à Alexandrovsk à l'automne 1919.</p>
+<p>Le pouvoir de décision appartient aux <strong>congrès régionaux de paysans, d'ouvriers et d'insurgés</strong>. Chaque village, chaque entreprise, chaque unité de l'armée y envoie sa délégation, mandatée par une assemblée. Les premiers se tiennent en janvier, février et avril 1919 ; un grand congrès se réunit à Alexandrovsk à l'automne 1919.</p>
 <ul>
 <li>Le congrès discute de la terre, du ravitaillement, des écoles, de la défense de la région.</li>
 <li>Il élit un <strong>Conseil militaire révolutionnaire</strong>, chargé d'appliquer ses décisions entre deux congrès. Ce conseil n'a pas de pouvoir propre : il rend des comptes au congrès suivant.</li>
@@ -83,10 +83,10 @@
 <rect class="bx" x="200" y="106" width="320" height="58"/>
 <text class="t" x="360" y="131" text-anchor="middle">Conseil militaire révolutionnaire</text>
 <text class="s" x="360" y="151" text-anchor="middle">élu par le congrès · applique ses décisions · révocable</text>
-<text class="sr" x="241" y="200" text-anchor="middle">délégué·es mandaté·es</text><text class="sr" x="478" y="200" text-anchor="middle">et révocables</text>
-<rect class="bx" x="18" y="220" width="210" height="62"/><text class="t" x="123" y="246" text-anchor="middle">Soviet de village</text><text class="s" x="123" y="266" text-anchor="middle">assemblée des habitant·es</text>
+<text class="sr" x="241" y="200" text-anchor="middle">délégations mandatées</text><text class="sr" x="478" y="200" text-anchor="middle">et révocables</text>
+<rect class="bx" x="18" y="220" width="210" height="62"/><text class="t" x="123" y="246" text-anchor="middle">Soviet de village</text><text class="s" x="123" y="266" text-anchor="middle">assemblée du village</text>
 <rect class="bx" x="255" y="220" width="210" height="62"/><text class="t" x="360" y="246" text-anchor="middle">Usine, atelier</text><text class="s" x="360" y="266" text-anchor="middle">assemblée des travailleurs</text>
-<rect class="bx" x="492" y="220" width="210" height="62"/><text class="t" x="597" y="246" text-anchor="middle">Unités de l'armée</text><text class="s" x="597" y="266" text-anchor="middle">insurgé·es volontaires</text>
+<rect class="bx" x="492" y="220" width="210" height="62"/><text class="t" x="597" y="246" text-anchor="middle">Unités de l'armée</text><text class="s" x="597" y="266" text-anchor="middle">volontaires de l'insurrection</text>
 <path class="ar" d="M123 218V72M360 218V170M597 218V72" marker-end="url(#m1)"/>
 <rect class="bx-d" x="18" y="320" width="684" height="80"/>
 <text class="t" x="360" y="348" text-anchor="middle">Communes agricoles et échanges directs</text>
@@ -104,7 +104,7 @@
 
 <h2 id="armee">L'armée insurrectionnelle</h2>
 <figure class="photo"><img src="../assets/img/revolutions/makhno-commandants-1919.jpg" alt="Makhno parmi des commandants de l'armée insurrectionnelle, à Berdiansk, en 1919." width="1114" height="785" loading="lazy"><figcaption>Makhno parmi des commandants de l'armée insurrectionnelle, à Berdiansk, en 1919. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Nestor_Makhno_and_his_Lieutenants,_Berdyansk,_1919.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>L'Armée révolutionnaire insurrectionnelle d'Ukraine, dite « makhnoviste », a compté selon les moments quelques milliers à plusieurs dizaines de milliers de combattant·es. Ses règles tranchaient avec les armées de l'époque :</p>
+<p>L'Armée révolutionnaire insurrectionnelle d'Ukraine, dite « makhnoviste », a compté selon les moments quelques milliers à plusieurs dizaines de milliers de combattantes et combattants. Ses règles tranchaient avec les armées de l'époque :</p>
 <ul>
 <li><strong>Volontariat</strong> : on rejoint l'armée par choix ; c'est le congrès, et non un état-major, qui appelle à la mobilisation.</li>
 <li><strong>Commandants élus</strong> par leurs unités, et révocables.</li>
@@ -127,21 +127,21 @@
 <text class="t" x="363" y="162" text-anchor="middle">Sous le contrôle du congrès régional et de son Conseil</text>
 <text class="s" x="363" y="186" text-anchor="middle">volontariat · commandants élus et révocables · règlements votés</text>
 <text class="s" x="363" y="208" text-anchor="middle">section culturelle et éducative : journaux, tracts, théâtre, écoles</text>
-<text class="s" x="363" y="228" text-anchor="middle">peine sévère pour le pillage et les violences contre les habitant·es</text>
+<text class="s" x="363" y="228" text-anchor="middle">peine sévère pour le pillage et les violences contre la population</text>
 </svg>
 </div>
 <figcaption><b>Schéma 2.</b> L'armée insurrectionnelle : une force de défense de la région libre, pas un pouvoir au-dessus d'elle. Les effectifs ont beaucoup varié selon les saisons et les combats.</figcaption>
 </figure>
 
 <h2 id="culture">Journaux, écoles et anarchistes de toute la Russie</h2>
-<p>Des anarchistes venus de Russie et d'Ukraine, notamment de la confédération <strong>Nabat</strong> (« le Tocsin »), rejoignent le mouvement. <strong>Voline</strong> anime à partir de 1919 la section culturelle et éducative : journaux comme <em>Le Chemin de la liberté</em>, tracts, conférences, troupes de théâtre. Des écoles sont ouvertes sur le modèle de l'école libre de Francisco Ferrer, gérées par les parents et les enseignant·es.</p>
+<p>Des anarchistes venus de Russie et d'Ukraine, notamment de la confédération <strong>Nabat</strong> (« le Tocsin »), rejoignent le mouvement. <strong>Voline</strong> anime à partir de 1919 la section culturelle et éducative : journaux comme <em>Le Chemin de la liberté</em>, tracts, conférences, troupes de théâtre. Des écoles sont ouvertes sur le modèle de l'école libre de Francisco Ferrer, gérées par les parents et le corps enseignant.</p>
 
 <h2 id="pogroms">Contre l'antisémitisme</h2>
 <p>L'Ukraine de la guerre civile est ravagée par les <strong>pogroms</strong>, commis surtout par les Blancs et par des bandes nationalistes. Les makhnovistes comptent des Juives et des Juifs dans leurs rangs et à des postes de responsabilité, et des villages juifs dans leur région. Le mouvement punit de mort les pillages et les violences antisémites commis par ses propres combattants. En juillet 1919, les makhnovistes exécutent l'ataman <strong>Grigoriev</strong>, chef de bande responsable de pogroms meurtriers. Les accusations d'antisémitisme lancées plus tard contre Makhno, notamment par la propagande soviétique, ont été démenties par de nombreux témoins.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
-<li>Congrès souverain, conseil qui exécute, délégué·es révocables : la fédération de bas en haut.</li>
+<li>Congrès souverain, conseil qui exécute, délégations révocables : la fédération de bas en haut.</li>
 <li>La terre à celles et ceux qui la travaillent, des communes libres pour qui le veut.</li>
 <li>Une armée de volontaires au service de la région, et non l'inverse.</li>
 <li>Suite : <a href="makhno-critique-bolcheviks.html">la critique libertaire des bolcheviks</a>.</li>
@@ -155,7 +155,7 @@
 <thead><tr><th></th><th>Les bolcheviks</th><th>Les anarchistes</th></tr></thead>
 <tbody>
 <tr><td>L'État</td><td>Le prendre et s'en servir : « dictature du prolétariat », censée disparaître plus tard.</td><td>Le détruire tout de suite : un État, même « ouvrier », recrée une classe qui commande.</td></tr>
-<tr><td>Qui décide</td><td>Le parti, avant-garde qui sait ce qui est bon pour la classe ouvrière.</td><td>Les travailleur·euses eux-mêmes, en assemblées fédérées.</td></tr>
+<tr><td>Qui décide</td><td>Le parti, avant-garde qui sait ce qui est bon pour la classe ouvrière.</td><td>Les travailleuses et travailleurs eux-mêmes, en assemblées fédérées.</td></tr>
 <tr><td>Les soviets</td><td>Un outil du parti, qui doit y être majoritaire et les diriger.</td><td>Des conseils libres, où aucun parti ne commande.</td></tr>
 <tr><td>La terre et les usines</td><td>Nationalisées : l'État en devient le propriétaire et le patron.</td><td>Socialisées : gérées par celles et ceux qui y travaillent.</td></tr>
 <tr><td>Les moyens</td><td>La fin justifie les moyens : police politique, terreur, armée centralisée.</td><td>Les moyens préparent la fin : on ne fait pas une société libre avec des méthodes de caserne.</td></tr>
@@ -199,7 +199,7 @@
 
 <h2 id="lecons">Les leçons tirées par les libertaires</h2>
 <ul>
-<li>Un parti qui prend l'État au nom des travailleur·euses finit par gouverner contre eux.</li>
+<li>Un parti qui prend l'État au nom des travailleuses et travailleurs finit par gouverner contre eux.</li>
 <li>Sans soviets libres, sans liberté de parole pour les révolutionnaires eux-mêmes, il ne reste de la révolution que le mot.</li>
 <li>La révolution sociale a besoin de se défendre, mais une armée et une police au-dessus du peuple deviennent un nouveau pouvoir.</li>
 <li>Les makhnovistes ont montré qu'une autre voie existait : la terre aux paysans, les congrès libres, la défense par les premiers concernés.</li>

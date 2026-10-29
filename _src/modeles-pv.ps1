@@ -40,7 +40,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "textes\modeles-pv") -Filter *.html
 </style></head><body>
 <div class="entete"><h1>$titre</h1><p>$sous · <b>Mamie Commune</b> · mamiecommune.org/manif/legal-team</p></div>
 $body
-<p class="pied">Modèle d'après les trames de la Legal Team Antiraciste, mis en forme par Mamie Commune. À adapter à ta situation ; il ne remplace pas l'avis d'un·e avocat·e ou d'une legal team. Garde une copie de tout ce que tu envoies.</p>
+<p class="pied">Modèle d'après les trames de la Legal Team Antiraciste, mis en forme par Mamie Commune. À adapter à ta situation ; il ne remplace pas l'avis d'une avocate, d'un avocat ou d'une legal team. Garde une copie de tout ce que tu envoies.</p>
 </body></html>
 "@
   $page = Join-Path $tmp "$($f.BaseName).html"

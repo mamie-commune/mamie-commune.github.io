@@ -17,7 +17,7 @@ argument-hint: <sujet de la page>
    - ligne d'en-tête `=== identifiant | Catégorie | Titre | Signature · année | Résumé.` (sans signature pour les guides) ;
    - HTML ensuite, chaque `<h2>` avec un `id` ;
    - encadrés, frises, schémas SVG : classes listées dans `CLAUDE.md`.
-4. Écrire avec nos mots : ton simple et direct, tutoiement, écriture inclusive avec le point médian. Jamais de copie d'un texte protégé. Vérifier les dates et les noms.
+4. Écrire avec nos mots : ton simple et direct, tutoiement, écriture inclusive **sans point médian** (mots neutres, doublets « militantes et militants », phrases tournées autrement ; voir « Ton des textes » dans `CLAUDE.md`). Jamais de copie d'un texte protégé. Vérifier les dates et les noms.
 5. Régénérer : `powershell -NoProfile -ExecutionPolicy Bypass -File _src/build.ps1` (la sortie doit commencer par `OK :`).
 6. Ouvrir la page dans l'aperçu, en largeur normale puis mobile (375 px), et la montrer.
 7. Proposer de publier (`/publier`).

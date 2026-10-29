@@ -144,14 +144,14 @@
 <li>À éviter : les programmes Solidatech et TechSoup, liés aux géants américains.</li>
 </ul>
 
-<h2 id="gestion">Adhérent·es et comptabilité</h2>
+<h2 id="gestion">Adhésions et comptabilité</h2>
 <div class="tbl"><table>
 <thead><tr><th>Besoin</th><th>Outil</th></tr></thead>
 <tbody>
 <tr><td>Compta simple, en local</td><td>Grisbi ; GnuCash pour la partie double</td></tr>
 <tr><td>Gestion complète en ligne</td><td>Paheko (membres, cotisations, compta, bénévolat)</td></tr>
 <tr><td>Facturation, stocks</td><td>Diacamma</td></tr>
-<tr><td>Fichier d'adhérent·es</td><td>Galette (auto-hébergé)</td></tr>
+<tr><td>Fichier des adhésions</td><td>Galette (auto-hébergé)</td></tr>
 <tr><td>Suivi du bénévolat</td><td>Bénévalibre</td></tr>
 <tr><td>AMAP / SEL / monnaie locale</td><td>AmapJ / Hamlets / Lokavaluto</td></tr>
 <tr><td>Grosse structure</td><td>Dolibarr, Odoo</td></tr>
@@ -161,7 +161,7 @@
 <ul>
 <li>Liberapay et Open Collective (frais Stripe ≈ 1,5 % + 0,25 € par paiement).</li>
 <li>Paiement via la banque de l'asso, avec reçus fiscaux.</li>
-<li>HelloAsso : commissions « suggérées » aux donateur·ices et données chez Microsoft ; si tu l'utilises, explique qu'on peut mettre la contribution à zéro.</li>
+<li>HelloAsso : commissions « suggérées » aux personnes qui donnent et données chez Microsoft ; si tu l'utilises, explique qu'on peut mettre la contribution à zéro.</li>
 </ul>
 
 <h2 id="collaboratif">Travailler ensemble</h2>

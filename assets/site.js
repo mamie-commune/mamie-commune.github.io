@@ -9,6 +9,18 @@
     });
   }
 
+  // Lecture facile : gros texte, police simple, rien de penché ; le choix est gardé dans le navigateur.
+  const facile = document.getElementById("facileBtn");
+  if (facile) {
+    const html = document.documentElement;
+    facile.setAttribute("aria-pressed", String(html.classList.contains("facile")));
+    facile.addEventListener("click", () => {
+      const on = html.classList.toggle("facile");
+      facile.setAttribute("aria-pressed", String(on));
+      try { localStorage.setItem("mamie-facile", on ? "1" : "0"); } catch (e) { /* navigation privée : tant pis */ }
+    });
+  }
+
   // Pseudo-hasard stable : la même lettre au même endroit garde toujours le même style.
   const pick = (seed, n) => Math.abs(Math.sin(seed * 12.9898) * 43758.5453) % 1 * n | 0;
   const rot = (seed, max) => ((Math.abs(Math.sin(seed * 78.233) * 9631.71) % 1) * 2 - 1) * max;

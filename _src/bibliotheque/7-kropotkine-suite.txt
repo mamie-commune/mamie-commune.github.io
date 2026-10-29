@@ -42,7 +42,7 @@
 <li>L'une des grandes autobiographies politiques du XIXe siècle.</li>
 </ul>
 
-=== champs-usines-et-ateliers | Économie & propriété | Champs, usines et ateliers | Pierre Kropotkine · 1898 | Décentraliser l'industrie, la marier à l'agriculture, et que chacun·e allie travail intellectuel et travail manuel.
+=== champs-usines-et-ateliers | Économie & propriété | Champs, usines et ateliers | Pierre Kropotkine · 1898 | Décentraliser l'industrie, la marier à l'agriculture, et que chacune et chacun allie travail intellectuel et travail manuel.
 <h2 id="contexte">Contexte</h2>
 <p>Paru en anglais en 1898, revu et traduit en français en 1910. Kropotkine s'appuie sur de nombreuses statistiques industrielles et agricoles de son temps.</p>
 <h2 id="these">La thèse</h2>

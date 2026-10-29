@@ -1,6 +1,6 @@
 # Livres complets du domaine public (auteur et traduction).
 # source (fichier .muse) | identifiant | thème | fiche de lecture liée (facultatif) | présentation courte
-pierre-kropotkine-aux-jeunes-gens | aux-jeunes-gens | Individu & morale | aux-jeunes-gens | L'appel aux jeunes diplômé·es : médecin, juriste, ingénieur, artiste, à quoi sert ton métier ?
+pierre-kropotkine-aux-jeunes-gens | aux-jeunes-gens | Individu & morale | aux-jeunes-gens | L'appel aux jeunes qui sortent des études : médecin, juriste, ingénieur, artiste, à quoi sert ton métier ?
 pierre-kropotkine-la-conquete-du-pain | la-conquete-du-pain | Économie & propriété | la-conquete-du-pain | Le grand livre du communisme libertaire : nourrir, loger, vêtir tout le monde après la révolution. Préface d'Élisée Reclus.
 pierre-kropotkine-l-anarchie-sa-philosophie-son-ideal | anarchie-philosophie-ideal | Révolution & stratégie | anarchie-philosophie-ideal | L'anarchie présentée comme une philosophie cohérente, en accord avec les sciences.
 pierre-kropotkine-la-morale-anarchiste | la-morale-anarchiste | Individu & morale | la-morale-anarchiste | D'où vient le sens moral ? Kropotkine le fonde sur la solidarité et l'égalité, sans Dieu ni loi.

@@ -9,7 +9,7 @@
 
 <h2 id="iso">1. Télécharger l'image ISO</h2>
 <p>Sur le site officiel de Linux Mint, rubrique « Download », prends la dernière version (22.x) dans l'édition choisie. Le fichier fait environ 3 Go et se termine par <code>.iso</code>. Télécharge-le uniquement depuis le site officiel ou l'un de ses miroirs.</p>
-<p>Les plus prudent·es vérifient la somme de contrôle SHA256 indiquée sur la page de téléchargement. Sous Linux : <code>sha256sum linuxmint-22.iso</code>.</p>
+<p>Par prudence, tu peux aussi vérifier la somme de contrôle SHA256 indiquée sur la page de téléchargement. Sous Linux : <code>sha256sum linuxmint-22.iso</code>.</p>
 
 <h2 id="cle">2. Préparer la clé USB</h2>
 <p>Copier l'ISO sur la clé ne suffit pas : il faut l'« écrire » avec un outil dédié.</p>
@@ -56,7 +56,7 @@
 
 <h2 id="recommandees">Les distributions recommandées</h2>
 <ul>
-<li><strong>Linux Mint</strong> : dérivée d'Ubuntu, avec de petits outils maison qui accompagnent bien les débutant·es. Toutes ses éditions ont 5 ans de mises à jour. C'est notre premier choix.</li>
+<li><strong>Linux Mint</strong> : dérivée d'Ubuntu, avec de petits outils maison qui accompagnent bien les personnes qui débutent. Toutes ses éditions ont 5 ans de mises à jour. C'est notre premier choix.</li>
 <li><strong>Ubuntu</strong> : éditée par Canonical. Seule l'édition principale a 5 ans de support, les variantes 3 ans. Elle pousse de plus en plus son magasin Snap, qui n'est pas libre.</li>
 </ul>
 <p><strong>En pratique</strong> : à partir de 3 Go de RAM, prends Linux Mint Cinnamon. En dessous, regarde les variantes légères.</p>

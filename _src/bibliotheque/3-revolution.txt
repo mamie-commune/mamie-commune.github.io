@@ -10,10 +10,10 @@
 <li><strong>Un nouveau regard scientifique.</strong> De l'astronomie à la biologie, on est passé d'un monde organisé autour d'un centre à un monde d'équilibres entre forces multiples.</li>
 <li><strong>L'harmonie est un équilibre provisoire.</strong> Une force trop longtemps contrainte rompt l'équilibre, comme un volcan : c'est ce que sont les révolutions.</li>
 <li><strong>La même logique en histoire, en droit, en économie</strong> : on regarde désormais les peuples, les coutumes et les besoins réels.</li>
-<li><strong>Critique du capitalisme</strong> : le problème n'est pas qu'on produit trop, mais que les travailleur·euses ne peuvent pas acheter ce qu'ils produisent. D'où les crises et les guerres.</li>
+<li><strong>Critique du capitalisme</strong> : le problème n'est pas qu'on produit trop, mais que les travailleuses et travailleurs ne peuvent pas acheter ce qu'ils produisent. D'où les crises et les guerres.</li>
 <li><strong>Critique du collectivisme</strong> : payer chacun selon ses heures de travail ne tient pas, et un État patron reproduirait la domination.</li>
 <li><strong>L'État est récent</strong> : il est né de la destruction des communes libres et des guildes médiévales.</li>
-<li><strong>Prisons, juges et police</strong> n'empêchent pas le crime et l'aggravent souvent. Le pouvoir corrompt même les meilleur·es.</li>
+<li><strong>Prisons, juges et police</strong> n'empêchent pas le crime et l'aggravent souvent. Le pouvoir corrompt même les meilleures personnes.</li>
 <li><strong>Seule la pratique de l'entraide</strong> élève durablement le niveau moral d'une société.</li>
 <li><strong>Pas d'« étapes » imposées</strong> : la reconstruction après une révolution doit venir de l'initiative populaire.</li>
 </ol>
@@ -22,7 +22,7 @@
 <ul>
 <li>Anarchie et communisme se complètent : l'individu s'épanouit quand ses besoins sont couverts.</li>
 <li>L'argument scientifique : l'ordre naît de l'association, pas du commandement.</li>
-<li>Juger la violence des révolté·es au regard de celle des États.</li>
+<li>Juger la violence des révoltes au regard de celle des États.</li>
 </ul>
 
 === commune-de-paris-kropotkine | Révolution & stratégie | La Commune de Paris | Pierre Kropotkine · 1881 | Dix ans après 1871, Kropotkine tire les leçons de la Commune : abolir propriété et gouvernement dès le premier jour, et rallier les campagnes.
@@ -62,7 +62,7 @@
 <li><strong>Toute révolution a deux faces</strong> : progrès et régression. La Réforme ou la Révolution française ont aussi installé de nouveaux pouvoirs.</li>
 <li><strong>Des foules instinctives aux forces conscientes</strong> : les échecs de 1848 et de la Commune montrent qu'il faut des individus libres et lucides, pas des chefs.</li>
 <li><strong>Le bilan de la société</strong> : argent, État, religion, justice, armée, administration, patriotisme. Toute institution figée tend vers la réaction.</li>
-<li><strong>« Du pain pour tous »</strong> : l'idéal est d'abord matériel. Reclus réfute Malthus : l'abondance est possible, et la misère réduit l'espérance de vie des travailleur·euses.</li>
+<li><strong>« Du pain pour tous »</strong> : l'idéal est d'abord matériel. Reclus réfute Malthus : l'abondance est possible, et la misère réduit l'espérance de vie des travailleuses et travailleurs.</li>
 <li><strong>Partis, vote, police, Église, école officielle</strong> passent au crible ; grèves, coopératives et communautés sont examinées comme des pistes.</li>
 </ol>
 
@@ -159,7 +159,7 @@
 <li><strong>Le syndicat</strong> et la Bourse du travail deviennent la structure de la société nouvelle.</li>
 <li>Les partis, même socialistes, défendent l'ordre une fois au pouvoir.</li>
 <li>L'armée peut refuser d'obéir.</li>
-<li>Une révolution naît de façon désordonnée ; les militant·es doivent l'accompagner, pas la devancer.</li>
+<li>Une révolution naît de façon désordonnée ; les militantes et militants doivent l'accompagner, pas la devancer.</li>
 </ul>
 
 <h2 id="retenir">À retenir</h2>

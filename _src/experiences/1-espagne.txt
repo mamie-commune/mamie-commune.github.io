@@ -61,8 +61,8 @@
 <p>L'organisation anarchiste espagnole repose sur un principe simple : <strong>la décision part d'en bas</strong>. Les comités exécutent ce que décident les assemblées et les congrès ; leurs membres sont mandatés et révocables.</p>
 
 <h2 id="cnt">La CNT et la FAI</h2>
-<p>La CNT regroupe les travailleur·euses dans des <strong>syndicats uniques d'industrie</strong> : tous les métiers d'une même branche (bâtiment, textile, transports…) dans un seul syndicat, pour ne pas se diviser. Les syndicats d'une ville forment une fédération locale, puis une confédération régionale, puis la confédération nationale. Il y a très peu de permanents rétribués.</p>
-<p>La FAI est une organisation à part, faite de petits <strong>groupes d'affinité</strong> de quelques militant·es qui se connaissent et se font confiance. Ses membres sont aussi à la CNT, où ils défendent l'orientation anarchiste.</p>
+<p>La CNT regroupe travailleuses et travailleurs dans des <strong>syndicats uniques d'industrie</strong> : tous les métiers d'une même branche (bâtiment, textile, transports…) dans un seul syndicat, pour ne pas se diviser. Les syndicats d'une ville forment une fédération locale, puis une confédération régionale, puis la confédération nationale. Il y a très peu de permanents rétribués.</p>
+<p>La FAI est une organisation à part, faite de petits <strong>groupes d'affinité</strong> de quelques militantes et militants qui se connaissent et se font confiance. Ses membres sont aussi à la CNT, où ils défendent l'orientation anarchiste.</p>
 
 <figure class="schema">
 <div class="schema__scroll">
@@ -79,12 +79,12 @@
 <rect class="bx" x="40" y="270" width="280" height="52"/><text class="t" x="180" y="292" text-anchor="middle">Fédération locale</text><text class="s" x="180" y="312" text-anchor="middle">tous les syndicats d'une ville</text>
 <rect class="bx" x="400" y="270" width="280" height="52"/><text class="t" x="540" y="301" text-anchor="middle">Fédération locale des groupes</text>
 <rect class="bx-r" x="40" y="360" width="280" height="52"/><text class="t" x="180" y="382" text-anchor="middle">Syndicat unique d'industrie</text><text class="s" x="180" y="402" text-anchor="middle">assemblées, sections d'atelier</text>
-<rect class="bx-r" x="400" y="360" width="280" height="52"/><text class="t" x="540" y="382" text-anchor="middle">Groupe d'affinité</text><text class="s" x="540" y="402" text-anchor="middle">5 à 10 militant·es</text>
+<rect class="bx-r" x="400" y="360" width="280" height="52"/><text class="t" x="540" y="382" text-anchor="middle">Groupe d'affinité</text><text class="s" x="540" y="402" text-anchor="middle">5 à 10 camarades</text>
 <path class="ar" d="M180 358V326" marker-end="url(#e1)"/><path class="ar" d="M180 268V236" marker-end="url(#e1)"/><path class="ar" d="M180 178V146" marker-end="url(#e1)"/><path class="ar" d="M180 88V58" marker-end="url(#e1)"/>
 <path class="ar" d="M540 358V326" marker-end="url(#e1)"/><path class="ar" d="M540 268V236" marker-end="url(#e1)"/><path class="ar" d="M540 178V146" marker-end="url(#e1)"/><path class="ar" d="M540 88V58" marker-end="url(#e1)"/>
-<text class="s" x="190" y="346">délégué·es mandaté·es</text><text class="s" x="190" y="256">et révocables</text>
+<text class="s" x="190" y="346">délégations mandatées</text><text class="s" x="190" y="256">et révocables</text>
 <path class="ld" d="M320 386H400"/>
-<text class="s" x="360" y="432" text-anchor="middle">Les militant·es de la FAI sont aussi syndiqué·es à la CNT</text>
+<text class="s" x="360" y="432" text-anchor="middle">Les membres de la FAI adhèrent aussi à la CNT</text>
 </svg>
 </div>
 <figcaption><b>Schéma 1.</b> La décision remonte de la base vers le congrès. Les comités n'ont pas de pouvoir propre : ils appliquent les mandats.</figcaption>
@@ -94,7 +94,7 @@
 <p>Dans les villages d'Aragon, de Catalogne, du Levant ou de Castille, les paysans réunis en <strong>assemblée générale</strong> décident de mettre en commun les terres des grands propriétaires, souvent aussi les leurs, avec le bétail et les outils. Celles et ceux qui préfèrent rester « individualistes » gardent la terre qu'ils peuvent travailler seuls, sans employer personne.</p>
 <ul>
 <li>L'assemblée élit un <strong>comité</strong>, révocable et non payé, qui coordonne le travail.</li>
-<li>Le travail se fait par <strong>groupes</strong> de dix à quinze personnes, avec un·e délégué·e.</li>
+<li>Le travail se fait par <strong>groupes</strong> de dix à quinze personnes, avec une personne déléguée.</li>
 <li>Le <strong>magasin communal</strong> remplace les commerces. Selon les villages, on y paie avec un salaire familial (selon la taille du foyer), avec des bons locaux, ou l'argent est purement aboli.</li>
 <li>Les excédents servent à acheter des machines, à ouvrir des écoles, à soigner gratuitement, et à ravitailler le front.</li>
 <li>Les villages se fédèrent par <strong>comarque</strong> (canton), puis au niveau régional : la Fédération des collectivités d'Aragon naît au congrès de Caspe en février 1937.</li>
@@ -104,7 +104,7 @@
 <div class="schema__scroll">
 <svg viewBox="0 0 720 470" role="img" aria-label="Organisation d'une collectivité agricole en Aragon">
 <defs><marker id="e2" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
-<rect class="bx-r" x="180" y="10" width="360" height="58"/><text class="t" x="360" y="35" text-anchor="middle">Assemblée générale du village</text><text class="s" x="360" y="55" text-anchor="middle">tous les habitant·es · décide de tout</text>
+<rect class="bx-r" x="180" y="10" width="360" height="58"/><text class="t" x="360" y="35" text-anchor="middle">Assemblée générale du village</text><text class="s" x="360" y="55" text-anchor="middle">tout le village · décide de tout</text>
 <path class="ar" d="M360 70V102" marker-end="url(#e2)"/>
 <rect class="bx" x="230" y="106" width="260" height="58"/><text class="t" x="360" y="131" text-anchor="middle">Comité de la collectivité</text><text class="s" x="360" y="151" text-anchor="middle">élu · révocable · non payé</text>
 <path class="ln" d="M360 164V190M80 190H640M80 190V212M220 190V212M360 190V212M500 190V212M640 190V212"/>
@@ -114,19 +114,19 @@
 <rect class="bx" x="438" y="214" width="124" height="62"/><text class="t" x="500" y="240" text-anchor="middle">École</text><text class="s" x="500" y="260" text-anchor="middle">enfants, adultes</text>
 <rect class="bx" x="578" y="214" width="124" height="62"/><text class="t" x="640" y="240" text-anchor="middle">Santé</text><text class="s" x="640" y="260" text-anchor="middle">soins gratuits</text>
 <path class="ar" d="M80 278V308M220 278V308M360 278V308M500 278V308M640 278V308" marker-end="url(#e2)"/>
-<rect class="bx-r" x="18" y="312" width="684" height="52"/><text class="t" x="360" y="335" text-anchor="middle">Groupes de travail</text><text class="s" x="360" y="354" text-anchor="middle">10 à 15 personnes · un·e délégué·e élu·e par groupe · rotation des tâches</text>
-<rect class="bx-d" x="18" y="396" width="684" height="62"/><text class="t" x="360" y="421" text-anchor="middle">Fédération comarcale → Fédération régionale d'Aragon</text><text class="s" x="360" y="442" text-anchor="middle">échanges de produits entre villages · machines et technicien·nes partagés (Caspe, 1937)</text>
+<rect class="bx-r" x="18" y="312" width="684" height="52"/><text class="t" x="360" y="335" text-anchor="middle">Groupes de travail</text><text class="s" x="360" y="354" text-anchor="middle">10 à 15 personnes · une délégation élue par groupe · rotation des tâches</text>
+<rect class="bx-d" x="18" y="396" width="684" height="62"/><text class="t" x="360" y="421" text-anchor="middle">Fédération comarcale → Fédération régionale d'Aragon</text><text class="s" x="360" y="442" text-anchor="middle">échanges de produits entre villages · machines et savoir-faire techniques partagés (Caspe, 1937)</text>
 <path class="ld" d="M540 39H712V392" marker-end="url(#e2)"/>
 </svg>
 </div>
-<figcaption><b>Schéma 2.</b> Une collectivité type. L'assemblée tient le pouvoir ; elle envoie aussi ses délégué·es à la fédération des villages voisins.</figcaption>
+<figcaption><b>Schéma 2.</b> Une collectivité type. L'assemblée tient le pouvoir ; elle envoie aussi sa délégation à la fédération des villages voisins.</figcaption>
 </figure>
 
 <h2 id="villes">Les villes : l'autogestion des entreprises</h2>
 <figure class="photo"><img src="../assets/img/revolutions/espagne-cooperative-cnt.jpg" alt="Un atelier coopératif de Barcelone géré par la CNT-FAI." width="640" height="382" loading="lazy"><figcaption>Un atelier coopératif de Barcelone géré par la CNT-FAI. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:CNT-FAI_Cooperative_Barcelona.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>À Barcelone, en juillet 1936, beaucoup de patrons ont fui. Les travailleur·euses réunis en <strong>assemblée d'entreprise</strong> élisent un <strong>comité</strong>, qui associe souvent un·e technicien·ne. Les tramways, le métro, le téléphone, l'eau, le gaz, l'électricité, les boulangeries, les spectacles tournent ainsi pendant des mois.</p>
+<p>À Barcelone, en juillet 1936, beaucoup de patrons ont fui. Les travailleuses et travailleurs réunis en <strong>assemblée d'entreprise</strong> élisent un <strong>comité</strong>, qui associe souvent une technicienne ou un technicien. Les tramways, le métro, le téléphone, l'eau, le gaz, l'électricité, les boulangeries, les spectacles tournent ainsi pendant des mois.</p>
 <ul>
-<li>Selon les témoins de l'époque, les tramways barcelonais, remis en état par leurs employé·es, transportent davantage de passagers qu'avant.</li>
+<li>Selon les témoins de l'époque, les tramways barcelonais, remis en état par leur personnel, transportent davantage de passagers qu'avant.</li>
 <li>Le syndicat d'industrie coordonne les entreprises d'une même branche, ferme les plus vétustes et regroupe la production.</li>
 <li>En octobre 1936, un décret du gouvernement catalan reconnaît les collectivisations, mais commence aussi à les encadrer.</li>
 </ul>
@@ -144,21 +144,21 @@
 === espagne-1936-milices-debats | Espagne 1936 | Milices, Mujeres Libres et dilemmes de la révolution | Espagne · 1936-1939 | Des milices sans grades, un mouvement de femmes libertaires, et les choix déchirants de 1936-1937 : participer au gouvernement ou perdre la guerre ?
 <h2 id="milices">Les milices : une armée sans officiers</h2>
 <figure class="photo"><img src="../assets/img/revolutions/espagne-miliciennes-1936.jpg" alt="Miliciennes de la CNT-FAI à Barcelone, en juillet 1936." width="565" height="364" loading="lazy"><figcaption>Miliciennes de la CNT-FAI à Barcelone, en juillet 1936. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Milicianas_CNT-FAI.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Dès juillet 1936, des dizaines de milliers de volontaires partent vers le front d'Aragon. Les milices confédérales refusent les grades, le salut et les privilèges : les délégué·es sont élu·es, la solde est la même pour toutes et tous, et la discipline repose sur l'engagement.</p>
+<p>Dès juillet 1936, des dizaines de milliers de volontaires partent vers le front d'Aragon. Les milices confédérales refusent les grades, le salut et les privilèges : les délégations sont élues, la solde est la même pour toutes et tous, et la discipline repose sur l'engagement.</p>
 
 <figure class="schema">
 <div class="schema__scroll">
 <svg viewBox="0 0 720 240" role="img" aria-label="Organisation d'une colonne de milices confédérales">
 <defs><marker id="e3" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
-<rect class="bx" x="18" y="14" width="150" height="74"/><text class="t" x="93" y="44" text-anchor="middle">Groupe</text><text class="s" x="93" y="64" text-anchor="middle">≈ 10 milicien·nes</text><text class="s" x="93" y="80" text-anchor="middle">1 délégué·e</text>
-<rect class="bx" x="198" y="14" width="150" height="74"/><text class="t" x="273" y="44" text-anchor="middle">Centurie</text><text class="s" x="273" y="64" text-anchor="middle">≈ 10 groupes</text><text class="s" x="273" y="80" text-anchor="middle">1 délégué·e</text>
-<rect class="bx" x="378" y="14" width="150" height="74"/><text class="t" x="453" y="44" text-anchor="middle">Agrupación</text><text class="s" x="453" y="64" text-anchor="middle">≈ 5 centuries</text><text class="s" x="453" y="80" text-anchor="middle">1 délégué·e</text>
+<rect class="bx" x="18" y="14" width="150" height="74"/><text class="t" x="93" y="44" text-anchor="middle">Groupe</text><text class="s" x="93" y="64" text-anchor="middle">≈ 10 personnes</text><text class="s" x="93" y="80" text-anchor="middle">1 personne déléguée</text>
+<rect class="bx" x="198" y="14" width="150" height="74"/><text class="t" x="273" y="44" text-anchor="middle">Centurie</text><text class="s" x="273" y="64" text-anchor="middle">≈ 10 groupes</text><text class="s" x="273" y="80" text-anchor="middle">1 personne déléguée</text>
+<rect class="bx" x="378" y="14" width="150" height="74"/><text class="t" x="453" y="44" text-anchor="middle">Agrupación</text><text class="s" x="453" y="64" text-anchor="middle">≈ 5 centuries</text><text class="s" x="453" y="80" text-anchor="middle">1 personne déléguée</text>
 <rect class="bx-r" x="558" y="14" width="150" height="74"/><text class="t" x="633" y="44" text-anchor="middle">Colonne</text><text class="s" x="633" y="64" text-anchor="middle">plusieurs milliers</text><text class="s" x="633" y="80" text-anchor="middle">ex. colonne Durruti</text>
 <path class="ar" d="M170 51H194M350 51H374M530 51H554" marker-end="url(#e3)"/>
 <path class="ar" d="M633 90V128" marker-end="url(#e3)"/>
 <rect class="bx-r" x="18" y="132" width="690" height="94"/>
 <text class="t" x="363" y="162" text-anchor="middle">Comité de guerre de la colonne</text>
-<text class="s" x="363" y="186" text-anchor="middle">délégué·es des agrupaciones + conseiller·es militaires techniques</text>
+<text class="s" x="363" y="186" text-anchor="middle">délégations des agrupaciones + conseils militaires techniques</text>
 <text class="s" x="363" y="208" text-anchor="middle">pas de grades · pas de salut · même solde pour toutes et tous</text>
 </svg>
 </div>
@@ -179,7 +179,7 @@
 <p>Des miliciennes combattent au front en 1936, avant d'être renvoyées à l'arrière à partir de 1937.</p>
 
 <h2 id="gouvernement">Le dilemme : entrer au gouvernement ?</h2>
-<p>En novembre 1936, alors que Madrid est menacée, quatre militant·es de la CNT deviennent ministres : <strong>Juan García Oliver</strong> (Justice), <strong>Federica Montseny</strong> (Santé, première femme ministre en Espagne), <strong>Juan Peiró</strong> (Industrie) et <strong>Juan López</strong> (Commerce).</p>
+<p>En novembre 1936, alors que Madrid est menacée, quatre membres de la CNT deviennent ministres : <strong>Juan García Oliver</strong> (Justice), <strong>Federica Montseny</strong> (Santé, première femme ministre en Espagne), <strong>Juan Peiró</strong> (Industrie) et <strong>Juan López</strong> (Commerce).</p>
 <ul>
 <li><strong>Pour</strong> : obtenir armes, crédits et ravitaillement, que l'URSS et le gouvernement refusaient aux colonnes anarchistes ; ne pas briser l'unité antifasciste.</li>
 <li><strong>Contre</strong> : renoncer aux principes, légitimer l'État qui allait défaire les collectivités, et désarmer la révolution au profit de la guerre.</li>
@@ -190,7 +190,7 @@
 <p>Le 3 mai 1937, la police du gouvernement catalan, poussée par les communistes, tente de prendre le central téléphonique de Barcelone, tenu par la CNT. Barricades pendant plusieurs jours. Les ministres anarchistes appellent au cessez-le-feu. Bilan : des centaines de morts, l'assassinat de l'anarchiste italien Camillo Berneri, la répression du POUM. En août, la dissolution du Conseil d'Aragon permet de démanteler de nombreuses collectivités.</p>
 
 <h2 id="defaite">La défaite et l'exil</h2>
-<p>Barcelone tombe en janvier 1939. Près d'un demi-million de personnes franchissent les Pyrénées : c'est la <strong>Retirada</strong>. Les réfugié·es sont parqué·es dans des camps sur les plages du Roussillon. Beaucoup d'anarchistes espagnols rejoindront ensuite la Résistance ; dans la 2e DB, la compagnie « La Nueve », composée en majorité de républicains espagnols, dont de nombreux libertaires, est parmi les premières à entrer dans Paris en août 1944.</p>
+<p>Barcelone tombe en janvier 1939. Près d'un demi-million de personnes franchissent les Pyrénées : c'est la <strong>Retirada</strong>. Les personnes réfugiées sont parquées dans des camps sur les plages du Roussillon. Beaucoup d'anarchistes espagnols rejoindront ensuite la Résistance ; dans la 2e DB, la compagnie « La Nueve », composée en majorité de républicains espagnols, dont de nombreux libertaires, est parmi les premières à entrer dans Paris en août 1944.</p>
 
 <h2 id="lecons">Les leçons tirées par les libertaires</h2>
 <ul>

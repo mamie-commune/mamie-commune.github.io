@@ -46,7 +46,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Publié en 1895, en pleine répression des anarchistes. Faure veut toucher un large public à partir de ce qu'il a vu de la misère dans tous les milieux.</p>
 <h2 id="these">La thèse</h2>
-<p>Le mal social ne vient pas seulement de la répartition des richesses, mais de celle de la liberté. Une société juste permet à chacun·e de satisfaire librement ses besoins physiques, intellectuels et moraux.</p>
+<p>Le mal social ne vient pas seulement de la répartition des richesses, mais de celle de la liberté. Une société juste permet à chacune et à chacun de satisfaire librement ses besoins physiques, intellectuels et moraux.</p>
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li>Méfiance envers les grands mots (justice, république, égalité) qui masquent les inégalités.</li>

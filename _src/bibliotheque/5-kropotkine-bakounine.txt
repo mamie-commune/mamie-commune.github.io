@@ -20,7 +20,7 @@
 
 === la-morale-anarchiste | Individu & morale | La Morale anarchiste | Pierre Kropotkine · 1889 | Pourquoi être moral sans Dieu ni loi ? Parce que le sens moral naît de la solidarité, chez les humains comme chez les animaux sociaux.
 <h2 id="contexte">Contexte</h2>
-<p>Paru en 1889. Kropotkine répond à une question de jeunes militant·es : si la morale officielle n'est qu'un masque religieux et bourgeois, pourquoi être moral ? Il s'appuie sur les utilitaristes anglais et sur le philosophe Guyau.</p>
+<p>Paru en 1889. Kropotkine répond à une question de jeunes militantes et militants : si la morale officielle n'est qu'un masque religieux et bourgeois, pourquoi être moral ? Il s'appuie sur les utilitaristes anglais et sur le philosophe Guyau.</p>
 <h2 id="these">La thèse</h2>
 <p>La morale n'a besoin ni de Dieu, ni de loi, ni d'État. C'est un fait naturel, fondé sur la sympathie et l'entraide. Une morale anarchiste n'ordonne rien : elle constate et conseille.</p>
 <h2 id="idees">Les idées, dans l'ordre</h2>
@@ -108,7 +108,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Publié en 1885 à Paris. Kropotkine est alors emprisonné à Clairvaux ; c'est Élisée Reclus qui rassemble, organise et préface ses articles écrits pour le journal <em>Le Révolté</em> (Genève).</p>
 <h2 id="these">La thèse</h2>
-<p>L'Europe va vers une révolution générale : le capitalisme est en crise chronique, les États se décomposent. Les droits ne protègent les travailleur·euses que s'ils sont conquis et défendus par une force collective.</p>
+<p>L'Europe va vers une révolution générale : le capitalisme est en crise chronique, les États se décomposent. Les droits ne protègent les travailleuses et travailleurs que s'ils sont conquis et défendus par une force collective.</p>
 <h2 id="chapitres">Les grands chapitres</h2>
 <ul>
 <li><strong>La situation</strong> : les peuples se réveillent, les classes dirigeantes s'enlisent.</li>
@@ -149,7 +149,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Mai 1871 : la France vient de perdre la guerre contre la Prusse, la Commune de Paris est en cours. Bakounine parle devant les ouvriers horlogers du Jura suisse, berceau de la Fédération jurassienne de l'Internationale.</p>
 <h2 id="these">La thèse</h2>
-<p>De la Réforme à 1789, la bourgeoisie a remplacé une domination par une autre. La vraie liberté exige d'abolir l'État et la propriété privée du capital, et c'est aux travailleur·euses de le faire.</p>
+<p>De la Réforme à 1789, la bourgeoisie a remplacé une domination par une autre. La vraie liberté exige d'abolir l'État et la propriété privée du capital, et c'est aux travailleuses et travailleurs de le faire.</p>
 <h2 id="conferences">Les trois conférences</h2>
 <ol>
 <li><strong>De la Réforme à la monarchie</strong> : l'Église puis la noblesse deviennent servantes de l'État. Bakounine oppose la « morale d'État », qui justifie tout pour la puissance, à une morale humaine.</li>

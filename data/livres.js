@@ -1,6 +1,6 @@
 // Généré par _src/build.ps1 — ne pas modifier à la main.
 window.LIVRES = [
-  { slug: "aux-jeunes-gens", cat: "Individu & morale", t: "Aux jeunes gens", by: "Pierre Kropotkine · 1904", d: "L'appel aux jeunes diplômé·es : médecin, juriste, ingénieur, artiste, à quoi sert ton métier ?" },
+  { slug: "aux-jeunes-gens", cat: "Individu & morale", t: "Aux jeunes gens", by: "Pierre Kropotkine · 1904", d: "L'appel aux jeunes qui sortent des études : médecin, juriste, ingénieur, artiste, à quoi sert ton métier ?" },
   { slug: "la-conquete-du-pain", cat: "Économie & propriété", t: "La Conquête du Pain", by: "Piotr Kropotkine · 1892", d: "Le grand livre du communisme libertaire : nourrir, loger, vêtir tout le monde après la révolution. Préface d'Élisée Reclus." },
   { slug: "anarchie-philosophie-ideal", cat: "Révolution & stratégie", t: "L’Anarchie, sa philosophie, son idéal", by: "Pierre Kropotkine · 1896", d: "L'anarchie présentée comme une philosophie cohérente, en accord avec les sciences." },
   { slug: "la-morale-anarchiste", cat: "Individu & morale", t: "La Morale anarchiste", by: "Pierre Kropotkine · 1889", d: "D'où vient le sens moral ? Kropotkine le fonde sur la solidarité et l'égalité, sans Dieu ni loi." },

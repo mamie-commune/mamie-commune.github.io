@@ -110,7 +110,7 @@ Le documentaire *Les Damnés de la Commune* est dans `_src/pages/videos.html`. L
 
 ## Livres complets et PDF
 
-1. Ajouter le fichier `.muse` dans `_src/textes/sources/` (vérifier que l'auteur·ice **et** le traducteur·ice sont morts depuis plus de 70 ans, ou que les droits sont accordés).
+1. Ajouter le fichier `.muse` dans `_src/textes/sources/` (vérifier que l'autrice ou l'auteur **et** la personne qui a traduit sont mortes depuis plus de 70 ans, ou que les droits sont accordés).
 2. Ajouter une ligne dans `_src/textes/livres.txt` : `fichier-source | identifiant | thème | fiche liée | présentation`.
 3. Régénérer, puis fabriquer le PDF (Windows + Microsoft Edge nécessaires, à faire en local) :
    ```powershell
@@ -126,7 +126,9 @@ Le serveur d'aperçu est décrit dans `.claude/launch.json` (nom : `mamie-commun
 
 Collage de papier découpé, d'après les vidéos TikTok de @mamie_commune. Repères relevés dans les vidéos : sous-titres un mot par bande noire avec le mot fort en rose (`data-tags`, mot forcé avec `data-fort="mot"`), bande noire au bord déchiré en haut, notes à la machine à écrire sur papier crème scotché (`.note`), photos et gravures d'époque collées de travers (`.horde`, cartes vidéo), dates sur bandeau rouge (`.timeline`). Le reste : fond crème moucheté, trame de points, grande étoile rouge à cinq branches, titres en lettres de rançon (générées automatiquement par `assets/site.js`), étiquettes noires et roses, bandeaux rouges façon banderole, bords déchirés (`clip-path: var(--torn)`), ombres décalées noires. Couleurs dans `:root` de `assets/style.css` : papier `#ebe3d1`, encre `#171414`, rouge `#e1301c`, rose `#ff5aa8`, jaune `#f5b63b`. Polices locales (`assets/fonts.css`) : Archivo Black (titres), Archivo (texte), Special Elite (machine à écrire), Alfa Slab One. **Aucune ressource externe** (polices, scripts, CDN) : tout est dans `assets/`.
 
-Ton des textes : simple, direct, tutoiement, écriture inclusive avec le point médian (militant·es), pas de jargon.
+Ton des textes : simple, direct, tutoiement, pas de jargon, phrases courtes. écriture inclusive **sans point médian** : mots neutres (« les gens », « la personne », « le corps enseignant », « une délégation »), doublets (« militantes et militants », « une avocate ou un avocat », « chacune et chacun »), ou phrase tournée autrement (« tu reçois une convocation » plutôt que « tu es convoqué·e »). Jamais de « · », de « iel » ni de « toustes » : ils gênent la lecture et les lecteurs d'écran. Seule exception : un titre d'œuvre publiée (« Sortez couvert·es »).
+
+Accessibilité : un seul `<h1>` par page et pas de saut de niveau de titre ; texte alternatif sur chaque image ; contraste suffisant (texte clair sur `--red-hi`, pas sur `--red`). Le bouton « Aa Lecture facile » (barre de recherche) ajoute la classe `facile` à `<html>` : police simple, texte plus grand, titres sans lettres de rançon, rien de penché. Tout nouvel élément penché (`rotate`) doit être ajouté à la liste `.facile … { transform: none }` de `assets/style.css`. Le logo et l'accueil utilisent `mamie-96.jpg` et `mamie-640.jpg` (jamais `mamie.webp`, 300 Ko).
 
 ## Droits et sources
 

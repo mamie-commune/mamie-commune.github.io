@@ -1,11 +1,11 @@
-=== legal-team | Legal Team | Sortez couvert·es : tes droits en manif et en garde à vue | Legal team de la Coordination contre la répression · septembre 2024 | Avant de partir, contrôle d'identité, garde à vue, téléphone et fichage, face à la justice, mineur·es, défense collective, et des lettres toutes prêtes pour contester un PV de manif.
+=== legal-team | Legal Team | Tes droits en manif et en garde à vue | Legal team de la Coordination contre la répression · septembre 2024 | Avant de partir, contrôle d'identité, garde à vue, téléphone et fichage, face à la justice, moins de 18 ans, défense collective, et des lettres toutes prêtes pour contester un PV de manif.
 <p>Cette fiche reprend avec nos mots la brochure <strong>« Sortez couvert·es »</strong> de la legal team de la <strong>Coordination contre la répression et les violences policières (Paris, Île-de-France)</strong>, version 7 de septembre 2024. Elle vaut pour la <strong>France</strong>. Imprime l'original et fais-le tourner : <a href="https://rajcollective.noblogs.org/files/2024/09/SORTEZ-COUVERTES-V7-sept-2024-DEF.pdf" target="_blank" rel="noopener">la brochure en PDF</a> (2 pages).</p>
 <div class="note"><p><strong>Avant chaque manif, trouve la legal team de ta ville</strong> et note son numéro sur ton bras ou sur un papier : c'est elle qu'on appelle si on voit une interpellation, des violences policières, ou si on est sans nouvelles de quelqu'un. Les legal teams de différentes villes sont listées sur le site du <strong>RAJCOL</strong>, Réseau d'autodéfense juridique collective : rajcollective.noblogs.org.</p></div>
 
 <h2 id="avant">Avant de partir</h2>
 <ul>
-<li><strong>Retiens le nom d'un·e avocat·e et son barreau</strong> (le département où iel exerce). Plusieurs personnes peuvent choisir le ou la même.</li>
-<li><strong>Choisis un·e proche</strong> qui sera prévenu·e si tu es en garde à vue, et <strong>apprends son numéro par cœur</strong> : iel pourra faire passer l'info. Ce « proche » peut désormais être n'importe quelle personne de ton choix, pas seulement ta famille, ton ou ta conjoint·e ou ton coloc.</li>
+<li><strong>Retiens le nom d'une avocate ou d'un avocat et son barreau</strong> (le département où cette personne exerce). Plusieurs personnes peuvent choisir le ou la même.</li>
+<li><strong>Choisis une personne proche</strong>, qu'on préviendra si tu es en garde à vue, et <strong>apprends son numéro par cœur</strong> : elle pourra faire passer l'info. Ce « proche » peut désormais être n'importe quelle personne de ton choix, pas seulement ta famille, ton conjoint ou ta conjointe ou ton coloc.</li>
 <li><strong>Prépare tes « garanties de représentation »</strong> (voir plus bas, <a href="#justice">face à la justice</a>).</li>
 <li><strong>Évite d'aller en manif avec ton téléphone.</strong> Si tu le prends, voir le <a href="../guides/signal.html">guide Signal</a> pour bien le verrouiller.</li>
 </ul>
@@ -19,14 +19,14 @@
 </ul>
 
 <h2 id="gav">Se préparer à la garde à vue</h2>
-<h3>Si un·e ami·e est en garde à vue</h3>
-<p>Essaie de savoir dans quel commissariat iel a été emmené·e, puis contacte la legal team. Si tu connais son avocat·e, sache qu'iel est tenu·e au secret pendant toute la garde à vue.</p>
+<h3>Si quelqu'un de tes proches est en garde à vue</h3>
+<p>Essaie de savoir dans quel commissariat la personne a été emmenée, puis contacte la legal team. Si tu connais son avocate ou son avocat, sache que cette personne est tenue au secret pendant toute la garde à vue.</p>
 <h3>Si c'est toi</h3>
 <ul>
-<li>La garde à vue dure d'abord <strong>24 heures</strong>. La police doit te notifier tes droits : être assisté·e d'un·e <strong>avocat·e</strong>, voir un·e <strong>médecin</strong>, avoir un·e <strong>interprète</strong>, et faire <strong>prévenir un·e proche</strong>. La legal team ne compte pas comme « proche ». Quand on prévient ta personne, fais en sorte qu'elle sache où tu es.</li>
-<li>L'avocat·e doit être présent·e pendant les auditions. S'iel ne vient pas, la police peut appeler un·e avocat·e commis·e d'office, que tu peux refuser.</li>
-<li>Pas besoin du numéro de ton avocat·e : <strong>son nom et son barreau suffisent</strong>. Tu peux demander un·e avocat·e d'un autre barreau que celui du commissariat.</li>
-<li>Tu as le droit de voir ton avocat·e <strong>seul·e pendant 30 minutes</strong> avant d'être auditionné·e.</li>
+<li>La garde à vue dure d'abord <strong>24 heures</strong>. La police doit te notifier tes droits : avoir l'aide d'une <strong>avocate ou d'un avocat</strong>, voir un <strong>médecin</strong>, avoir un <strong>interprète</strong>, et faire <strong>prévenir une personne proche</strong>. La legal team ne compte pas comme « proche ». Quand on prévient ta personne, fais en sorte qu'elle sache où tu es.</li>
+<li>Ton avocate ou ton avocat doit être là pendant les auditions. Sinon, la police peut appeler une avocate ou un avocat commis d'office, que tu peux refuser.</li>
+<li>Pas besoin du numéro de la personne qui te défend : <strong>son nom et son barreau suffisent</strong>. Tu peux demander une avocate ou un avocat d'un autre barreau que celui du commissariat.</li>
+<li>Tu as le droit de parler <strong>30 minutes en tête-à-tête</strong> avec ton avocate ou ton avocat avant ton audition.</li>
 <li><strong>Garder le silence est un droit</strong> : « Je n'ai rien à déclarer. » Parler, même de choses qui semblent anodines, c'est te mettre en danger, toi ou d'autres. Devant les juges aussi, tu peux garder le silence.</li>
 </ul>
 <h3>Pendant la garde à vue</h3>
@@ -36,43 +36,43 @@
 <li><strong>Procès-verbaux</strong> : lis ceux qu'on te montre, mais rien ne t'oblige à les signer. <strong>Ne signe que ce que tu as bien lu.</strong></li>
 <li><strong>Garde à vue prolongée de 24 heures</strong> ? Tes droits sont renouvelés aussi.</li>
 <li><strong>Téléphone</strong> : la police va te demander ton code pour fouiller dedans, en menaçant de le confisquer. Dans certains cas, refuser est un délit, mais seulement dans des conditions complexes et impossibles à vérifier sur le moment. <strong>Garde le silence et ne donne pas ton code.</strong> Tu pourras contester une saisie après coup.</li>
-<li><strong>Fichage</strong> : on va te demander la <em>signalétique</em> (photos, empreintes) et un <em>prélèvement ADN</em>. Tu peux refuser l'un et l'autre. C'est un délit, mais les peines sont souvent légères, et refuser le fichage de masse se défend politiquement. Attention : dans certains cas (par exemple un doute sur ton identité), la police peut prendre empreintes et photos de force. <strong>Parles-en avec ton avocat·e avant de décider.</strong></li>
+<li><strong>Fichage</strong> : on va te demander la <em>signalétique</em> (photos, empreintes) et un <em>prélèvement ADN</em>. Tu peux refuser l'un et l'autre. C'est un délit, mais les peines sont souvent légères, et refuser le fichage de masse se défend politiquement. Attention : dans certains cas (par exemple un doute sur ton identité), la police peut prendre empreintes et photos de force. <strong>Parles-en avec ton avocate ou ton avocat avant de décider.</strong></li>
 </ul>
 
 <h2 id="justice">Face à la justice</h2>
 <p>À la fin de la garde à vue, c'est le procureur qui décide de la suite. Les cas les plus fréquents :</p>
 <ol class="timeline">
 <li><b>1</b><span>Tu sors libre, <strong>sans poursuites</strong>.</span></li>
-<li><b>2</b><span>Tu passes devant un·e <strong>délégué·e du procureur</strong> (un simple agent administratif) qui te donne un avertissement. Tu sors forcément libre ensuite. Prends le papier (tu peux ne pas le signer), puis demande conseil autour de toi ou à la legal team.</span></li>
-<li><b>3</b><span>Tu es <strong>convoqué·e à un procès plus tard</strong> : contacte aussi la legal team.</span></li>
-<li><b>4</b><span>Tu es conduit·e au tribunal (« déféré·e ») et le procureur te propose une <strong>CRPC</strong> (« plaider-coupable ») ou une <strong>composition pénale</strong> : demande le délai de <strong>10 jours</strong> pour réfléchir.</span></li>
-<li><b>5</b><span>Le procureur t'envoie en <strong>comparution immédiate</strong>. Tu as toujours droit à un·e avocat·e.</span></li>
+<li><b>2</b><span>Tu passes devant une <strong>personne déléguée du procureur</strong> (un simple agent administratif) qui te donne un avertissement. Tu sors forcément libre ensuite. Prends le papier (tu peux ne pas le signer), puis demande conseil autour de toi ou à la legal team.</span></li>
+<li><b>3</b><span>Tu reçois une <strong>convocation pour un procès plus tard</strong> : contacte aussi la legal team.</span></li>
+<li><b>4</b><span>On t'emmène directement au tribunal (c'est le « défèrement ») et le procureur te propose une <strong>CRPC</strong> (« plaider-coupable ») ou une <strong>composition pénale</strong> : demande le délai de <strong>10 jours</strong> pour réfléchir.</span></li>
+<li><b>5</b><span>Le procureur t'envoie en <strong>comparution immédiate</strong>. Tu as toujours droit à une avocate ou un avocat.</span></li>
 </ol>
 <ul>
 <li>Avant la comparution immédiate, on te pose des questions sur ta vie (« enquête sociale »). <strong>Dis-en le minimum</strong> : les juges peuvent s'en servir.</li>
-<li>La comparution immédiate est un <strong>procès expéditif</strong>. Il vaut parfois mieux être jugé·e plus tard, en demandant un délai : parles-en avec ton avocat·e.</li>
-<li>Les juges doivent accepter le report, mais exigent des <strong>garanties de représentation</strong> : preuves de logement, de travail, d'études, pour être sûr·es que tu viendras à l'audience. Sans elles, tu risques la <strong>détention provisoire</strong> (la prison avant le procès).</li>
-<li><strong>Prépare ces garanties à l'avance</strong> et confie-les à des proches, qui pourront les transmettre vite à ton avocat·e ou à la legal team.</li>
+<li>La comparution immédiate est un <strong>procès expéditif</strong>. Il vaut parfois mieux demander un délai, pour que le procès ait lieu plus tard : parles-en avec ton avocate ou ton avocat.</li>
+<li>Les juges doivent accepter le report, mais exigent des <strong>garanties de représentation</strong> : preuves de logement, de travail, d'études, pour s'assurer que tu viendras à l'audience. Sans elles, tu risques la <strong>détention provisoire</strong> (la prison avant le procès).</li>
+<li><strong>Prépare ces garanties à l'avance</strong> et confie-les à des proches, qui pourront les transmettre vite à la personne qui te défend ou à la legal team.</li>
 <li>Juger selon la situation sociale des gens, c'est la marque d'une <strong>justice de classe</strong>. Pendant le procès, tu peux aussi écarter les « questions de personnalité » au nom du respect de ta vie privée.</li>
 </ul>
 
-<h2 id="mineurs">Si tu es mineur·e</h2>
+<h2 id="mineurs">Si tu as moins de 18 ans</h2>
 <ul>
-<li>On est mineur·e jusqu'au jour de ses 18 ans, mais la procédure change selon l'âge.</li>
+<li>La minorité dure jusqu'au jour de tes 18 ans, mais la procédure change selon l'âge.</li>
 <li>En garde à vue, la police <strong>doit prévenir tes parents</strong> et leur rappeler leurs droits.</li>
 <li>La garde à vue dure en général 24 heures entre 13 et 18 ans. Entre 10 et 13 ans, c'est une « retenue » de 12 heures.</li>
-<li>Sont <strong>obligatoires</strong> : la présence d'un·e avocat·e, la visite d'un·e médecin et l'enregistrement vidéo des auditions.</li>
-<li>L'avocat·e peut être choisi·e par toi ou tes parents, sinon iel est commis·e d'office. La legal team peut en conseiller un·e si tes parents ou tes proches la contactent vite.</li>
-<li>Un·e mineur·e <strong>ne peut pas être jugé·e en comparution immédiate</strong>. S'il y a des poursuites, c'est un·e juge des enfants qui s'en occupe.</li>
+<li>Sont <strong>obligatoires</strong> : la présence d'une avocate ou d'un avocat, la visite d'un médecin et l'enregistrement vidéo des auditions.</li>
+<li>Toi ou tes parents pouvez choisir l'avocate ou l'avocat ; sinon, la justice en désigne un d'office. La legal team peut en conseiller si tes parents ou tes proches la contactent vite.</li>
+<li>Avant 18 ans, <strong>on ne peut pas passer en comparution immédiate</strong>. S'il y a des poursuites, c'est le ou la juge des enfants qui s'en occupe.</li>
 <li>Le procureur ou le juge des enfants peuvent décider d'une <strong>réparation pénale</strong>, par exemple un stage de citoyenneté à tes frais.</li>
 </ul>
 
 <h2 id="collectif">Défendre ensemble</h2>
 <ol class="principes">
-<li><b>S'auto-organiser</b>Face à une justice de classe qui cherche à briser les solidarités, la défense se réinvente par tout le monde, sans la laisser aux seul·es spécialistes.</li>
-<li><b>Ne pas se dissocier</b>Pas de « bon·nes » et de « mauvais·es » manifestant·es. Se défendre ne doit jamais mettre d'autres personnes en danger.</li>
-<li><b>Décider soi-même</b>La défense se prépare à trois (prévenu·e, avocat·e, legal team), mais c'est la personne poursuivie qui a le dernier mot.</li>
-<li><b>Partager les frais</b>Une caisse collective aide chacun·e à payer ses frais de justice selon ses besoins, pas selon ses moyens.</li>
+<li><b>S'auto-organiser</b>Face à une justice de classe qui cherche à briser les solidarités, la défense se réinvente par tout le monde, sans la laisser aux spécialistes.</li>
+<li><b>Ne pas se dissocier</b>Pas de tri entre « bonnes » et « mauvaises » personnes en manif. Se défendre ne doit jamais mettre d'autres personnes en danger.</li>
+<li><b>Décider soi-même</b>La défense se prépare à trois (la personne poursuivie, son avocate ou son avocat, la legal team), mais c'est la personne poursuivie qui a le dernier mot.</li>
+<li><b>Partager les frais</b>Une caisse collective aide chaque personne à payer ses frais de justice selon ses besoins, pas selon ses moyens.</li>
 </ol>
 <p>La legal team n'est pas un service d'« avocats gratos » : elle construit, avec les personnes réprimées, une défense politique.</p>
 
@@ -84,4 +84,4 @@
 <a class="dl__item" href="modeles/3-manif-non-declaree.pdf" download><b>Modèle 3</b><span>Participation à une manifestation non déclarée : ce n'est pas une infraction</span><small>PDF · 2 pages</small></a>
 </div>
 <p>Remplace les passages surlignés en jaune, reformule avec tes mots, et joins ce qui prouve ce que tu dis (attestations sur l'honneur, photos, tickets de caisse…). Garde une copie de tout.</p>
-<p class="credit">Fiche rédigée par Mamie Commune d'après la brochure « Sortez couvert·es » (V7, septembre 2024) de la legal team de la Coordination contre la répression et les violences policières Paris IDF, membre du RAJCOL (rajcollective.noblogs.org). Modèles de lettres d'après les trames de la Legal Team Antiraciste. Ces documents ne remplacent pas l'avis d'un·e avocat·e.</p>
+<p class="credit">Fiche rédigée par Mamie Commune d'après la brochure « Sortez couvert·es » (V7, septembre 2024) de la legal team de la Coordination contre la répression et les violences policières Paris IDF, membre du RAJCOL (rajcollective.noblogs.org). Modèles de lettres d'après les trames de la Legal Team Antiraciste. Ces documents ne remplacent pas l'avis d'une avocate ou d'un avocat.</p>

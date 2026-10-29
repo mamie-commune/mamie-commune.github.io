@@ -58,7 +58,8 @@
   }
   window.mamieSearch = (q) => load().then(() => search(q));
 
-  const item = (r, i) => `<a class="search__item" role="option" id="sr${i}" href="${root}${esc(r.u)}">
+  // Dans la liste déroulante : options numérotées (pour les flèches du clavier) ; sur la page de résultats : simples liens.
+  const item = (r, i) => `<a class="search__item"${i === undefined ? "" : ` role="option" id="sr${i}"`} href="${root}${esc(r.u)}">
       <small>${esc(r.k)}</small><b>${esc(r.t)}</b><span>${esc(r.d)}</span></a>`;
 
   let current = -1, timer;
@@ -108,7 +109,7 @@
       head.textContent = res.length ? `${res.length} résultat${res.length > 1 ? "s" : ""} pour « ${q} »` : `Rien trouvé pour « ${q} ». Essaie un autre mot, ou une ville.`;
       const groups = KINDS.map((k) => [k, res.filter((r) => r.k === k)]).filter(([, l]) => l.length);
       page.innerHTML = groups.map(([k, l]) => `<section class="sgroup"><h2>${esc(k === "Rubrique" ? "Pages du site" : k === "Carte" ? "Lieux sur la carte" : k)} <small>${l.length}</small></h2>
-        <div class="sgroup__list">${l.map(item).join("")}</div></section>`).join("");
+        <div class="sgroup__list">${l.map((r) => item(r)).join("")}</div></section>`).join("");
     });
   }
 })();

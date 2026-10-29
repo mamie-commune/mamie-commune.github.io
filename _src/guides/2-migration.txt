@@ -19,10 +19,10 @@
 
 <h2 id="usage">Ergonomie et fiabilité</h2>
 <ul>
-<li>Un logiciel libre est fait pour celles et ceux qui l'utilisent, et chacun·e peut participer.</li>
+<li>Un logiciel libre est fait pour celles et ceux qui l'utilisent, et tout le monde peut participer.</li>
 <li>Interfaces claires et réglables. La logithèque installe tout en un clic, mises à jour comprises.</li>
 <li>Le système reste stable dans le temps, sans réinstallation régulière.</li>
-<li>Une communauté accueillante aide les débutant·es ; des entreprises proposent aussi un accompagnement payant.</li>
+<li>Une communauté accueillante aide les personnes qui débutent ; des entreprises proposent aussi un accompagnement payant.</li>
 <li>Peu gourmand : bureautique, vidéo, mail et web ne demandent pas de changer de matériel.</li>
 </ul>
 
@@ -30,7 +30,7 @@
 <p>Les services non libres récoltent ton historique, tes contacts, parfois tes mots de passe, pour la pub, l'argent ou la politique. Les moteurs de recherche et réseaux sociaux trient ce que tu vois et t'enferment dans une bulle. Les logiciels libres et les services éthiques ne fonctionnent pas comme ça.</p>
 
 <h2 id="collectif">Une démarche collective</h2>
-<p>Quelques géants, américains et chinois, concentrent aujourd'hui l'informatique et le pouvoir qui va avec. Le libre propose un modèle ouvert, divers et égalitaire. La liberté de chacun·e dépend de celle des autres : passer au libre, c'est aussi entraîner son entourage.</p>
+<p>Quelques géants, américains et chinois, concentrent aujourd'hui l'informatique et le pouvoir qui va avec. Le libre propose un modèle ouvert, divers et égalitaire. La liberté de chaque personne dépend de celle des autres : passer au libre, c'est aussi entraîner son entourage.</p>
 
 <h2 id="commencer">Par où commencer</h2>
 <ul>
@@ -40,7 +40,7 @@
 </ul>
 
 === linux-pour-debutants | Migration | Linux est adapté aux débutants | Données rangées au même endroit, pas de distraction, une logithèque, un système qui dure : pourquoi Linux est simple.
-<p>GNU/Linux a longtemps été réservé aux informaticien·nes. Ce n'est plus le cas : c'est aujourd'hui l'un des systèmes les plus simples. Pour commencer, on conseille <strong>Linux Mint Cinnamon</strong>, dont l'interface ressemble à Windows en plus épuré.</p>
+<p>GNU/Linux a longtemps été réservé aux spécialistes de l'informatique. Ce n'est plus le cas : c'est aujourd'hui l'un des systèmes les plus simples. Pour commencer, on conseille <strong>Linux Mint Cinnamon</strong>, dont l'interface ressemble à Windows en plus épuré.</p>
 
 <h2 id="donnees">Tes données au même endroit</h2>
 <p>Sous Windows, tes fichiers sont éparpillés (plusieurs disques, OneDrive, bibliothèques…). Sous Linux, tout est dans ton <strong>dossier personnel</strong> : la sauvegarde devient simple.</p>
@@ -111,7 +111,7 @@
 
 === pourquoi-changer | Migration | Pourquoi changer ses habitudes ? | La collecte de données, ce qu'en font les entreprises, et comment avancer étape par étape.
 <h2 id="effort">Un effort qui freine</h2>
-<p>Changer d'outils prend du temps et de l'énergie. Beaucoup veulent juste que ça marche dès l'achat, sans imaginer qu'on peut remplacer ce qui est préinstallé, ni que des applications très populaires sont faites pour exploiter leurs utilisateur·ices plus que pour les servir.</p>
+<p>Changer d'outils prend du temps et de l'énergie. Beaucoup veulent juste que ça marche dès l'achat, sans imaginer qu'on peut remplacer ce qui est préinstallé, ni que des applications très populaires sont faites pour exploiter les gens qui les utilisent plus que pour les servir.</p>
 
 <h2 id="partout">Le numérique est partout</h2>
 <p>Il transforme nos relations, nos comportements et la société. Difficile de le traiter comme un détail, ou de rester passif quand des alternatives existent.</p>
@@ -129,7 +129,7 @@
 </ul>
 
 <h2 id="subi">Un changement subi</h2>
-<p>Se savoir observé·e pousse à s'autocensurer. Nos opinions évoluent aussi sous l'influence de ce que les plateformes choisissent de nous montrer. Autant changer volontairement, pour garder son libre arbitre.</p>
+<p>La surveillance pousse à s'autocensurer. Nos opinions évoluent aussi sous l'influence de ce que les plateformes choisissent de nous montrer. Autant changer volontairement, pour garder son libre arbitre.</p>
 
 <h2 id="quoi-changer">Ce qu'on peut changer</h2>
 <ul>
@@ -291,13 +291,13 @@
 <h2 id="lois">Lois et surveillance</h2>
 <ul>
 <li><strong>Chat Control</strong> : le scan des messages privés non chiffrés est prolongé, et une version « 2.0 » pourrait le rendre obligatoire. Les messageries chiffrées restent la protection.</li>
-<li><strong>Loi narcotrafic</strong> : elle pourrait viser des militant·es et menacer le chiffrement des communications.</li>
+<li><strong>Loi narcotrafic</strong> : elle pourrait viser des militantes et militants et menacer le chiffrement des communications.</li>
 <li><strong>Facturation électronique</strong> : obligatoire pour recevoir des factures à partir de septembre 2026, et pour en émettre en 2027. Des solutions libres existent.</li>
 </ul>
 
 <h2 id="alternatives">Alternatives</h2>
 <ul>
-<li><strong>/e/OS</strong> : Android sans Google, environ 102 000 utilisateur·ices fin août 2026.</li>
+<li><strong>/e/OS</strong> : Android sans Google, utilisé par environ 102 000 personnes fin août 2026.</li>
 <li>Mise en page : Scribus, LibreOffice Draw. Transcription audio : Scribe.</li>
 <li>Firefox, DuckDuckGo, Qwant, et TeleCoop pour la téléphonie.</li>
 </ul>

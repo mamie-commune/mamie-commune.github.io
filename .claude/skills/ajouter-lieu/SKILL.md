@@ -11,7 +11,7 @@ argument-hint: <nom du lieu et ville>
 3. Ajouter une ligne dans le bloc de la même catégorie :
    `["Nom", "categorie", latitude, longitude, "Ville (dép.)", "Description courte."],`
    - Coordonnées **du centre de la ville**, quatre décimales, jamais d'adresse privée ni de domicile.
-   - Description : une phrase simple, tutoiement si besoin, écriture inclusive (militant·es).
+   - Description : une phrase simple, tutoiement si besoin, écriture inclusive sans point médian (« militantes et militants », « les personnes »).
 4. Pour retirer un lieu, supprimer sa ligne ; pour le corriger, modifier la ligne.
 5. Pas besoin de régénérer. Ouvrir `carte.html` dans l'aperçu, chercher la ville et vérifier que le point apparaît avec la bonne couleur.
 6. Proposer de publier (`/publier`).

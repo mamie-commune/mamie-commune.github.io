@@ -58,7 +58,7 @@
 </ul>
 
 <h2 id="niveaux">De la commune à la région</h2>
-<p>La <strong>commune</strong> regroupe les foyers d'une rue, d'un quartier ou d'un village. Son assemblée élit une co-présidence et des commissions. Les communes envoient des délégué·es au conseil de quartier ou de village, qui envoie à son tour au conseil de district, puis au conseil du peuple de la région. En parallèle, les femmes s'organisent de façon autonome à chaque niveau.</p>
+<p>La <strong>commune</strong> regroupe les foyers d'une rue, d'un quartier ou d'un village. Son assemblée élit une co-présidence et des commissions. Les communes envoient une délégation au conseil de quartier ou de village, qui envoie à son tour au conseil de district, puis au conseil du peuple de la région. En parallèle, les femmes s'organisent de façon autonome à chaque niveau.</p>
 
 <figure class="schema">
 <div class="schema__scroll">

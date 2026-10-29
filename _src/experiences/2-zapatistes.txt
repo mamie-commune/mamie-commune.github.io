@@ -6,7 +6,7 @@
 <p>En <strong>1983</strong>, un petit groupe de guérilleros d'inspiration marxiste s'installe dans la forêt Lacandone. Au contact des communautés indigènes, il change profondément : ce sont les communautés qui transforment l'organisation, pas l'inverse. L'<strong>EZLN</strong> (Armée zapatiste de libération nationale) prend le nom d'Emiliano Zapata, héros paysan de la révolution mexicaine de 1910 et de son mot d'ordre : la terre à qui la travaille.</p>
 
 <h2 id="1994">1er janvier 1994 : ¡Ya basta!</h2>
-<p>Le jour où entre en vigueur l'accord de libre-échange nord-américain (ALENA), des milliers d'insurgé·es indigènes occupent San Cristóbal de las Casas et plusieurs autres villes du Chiapas. Après douze jours de combats, un cessez-le-feu est signé sous la pression d'immenses manifestations dans tout le Mexique. L'EZLN choisit alors la parole plutôt que la guerre : communiqués, rencontres, ouverture au monde.</p>
+<p>Le jour où entre en vigueur l'accord de libre-échange nord-américain (ALENA), des milliers d'insurgées et d'insurgés indigènes occupent San Cristóbal de las Casas et plusieurs autres villes du Chiapas. Après douze jours de combats, un cessez-le-feu est signé sous la pression d'immenses manifestations dans tout le Mexique. L'EZLN choisit alors la parole plutôt que la guerre : communiqués, rencontres, ouverture au monde.</p>
 
 <h2 id="san-andres">Les accords trahis et l'autonomie de fait</h2>
 <figure class="photo"><img src="../assets/img/revolutions/zapatistes-encuentro-1996.jpg" alt="Zapatistes lors des rencontres de 1996 au Chiapas." width="1200" height="859" loading="lazy"><figcaption>Zapatistes lors des rencontres de 1996 au Chiapas. <small>Julian Stallabrass · CC BY 2.0 · <a href="https://commons.wikimedia.org/wiki/File:Ej%C3%A9rcito_Zapatista_de_Liberaci%C3%B3n_Nacional_IMG008a-sm_(11450146613).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -61,13 +61,13 @@
 </ol>
 
 <h2 id="2003">De 2003 à 2023 : municipalités et Conseils de bon gouvernement</h2>
-<p>Pendant vingt ans, l'autonomie s'organise sur trois niveaux. Chaque <strong>communauté</strong> décide en assemblée. Plusieurs communautés forment une <strong>municipalité autonome rebelle</strong> (MAREZ), avec son conseil et ses commissions. Au niveau régional, un <strong>Conseil de bon gouvernement</strong> siège au caracol, avec des délégué·es qui tournent souvent, pour coordonner, régler les conflits et éviter que certaines communautés s'enrichissent plus que d'autres.</p>
+<p>Pendant vingt ans, l'autonomie s'organise sur trois niveaux. Chaque <strong>communauté</strong> décide en assemblée. Plusieurs communautés forment une <strong>municipalité autonome rebelle</strong> (MAREZ), avec son conseil et ses commissions. Au niveau régional, un <strong>Conseil de bon gouvernement</strong> siège au caracol, avec des délégations qui changent souvent, pour coordonner, régler les conflits et éviter que certaines communautés s'enrichissent plus que d'autres.</p>
 
 <figure class="schema">
 <div class="schema__scroll">
 <svg viewBox="0 0 720 380" role="img" aria-label="Autonomie zapatiste de 2003 à 2023">
 <defs><marker id="z1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
-<rect class="bx-r" x="60" y="18" width="360" height="64"/><text class="t" x="240" y="44" text-anchor="middle">Conseil de bon gouvernement</text><text class="s" x="240" y="66" text-anchor="middle">au caracol · délégué·es tournant·es</text>
+<rect class="bx-r" x="60" y="18" width="360" height="64"/><text class="t" x="240" y="44" text-anchor="middle">Conseil de bon gouvernement</text><text class="s" x="240" y="66" text-anchor="middle">au caracol · délégations tournantes</text>
 <path class="ar" d="M240 136V86" marker-end="url(#z1)"/>
 <rect class="bx" x="60" y="140" width="360" height="64"/><text class="t" x="240" y="166" text-anchor="middle">Municipalité autonome (MAREZ)</text><text class="s" x="240" y="188" text-anchor="middle">conseil autonome · commissions</text>
 <path class="ln" d="M110 262V234M240 262V234M370 262V234M110 234H370"/><path class="ar" d="M240 234V208" marker-end="url(#z1)"/>
@@ -120,8 +120,8 @@
 <div class="tbl"><table>
 <thead><tr><th>Domaine</th><th>Comment</th></tr></thead>
 <tbody>
-<tr><td>Santé</td><td>Promoteur·ices de santé formé·es dans les communautés, cliniques autonomes, savoirs des plantes médicinales.</td></tr>
-<tr><td>Éducation</td><td>Écoles autonomes en langue maya et en espagnol, promoteur·ices d'éducation choisi·es par les communautés, programmes liés à la terre et à l'histoire du peuple.</td></tr>
+<tr><td>Santé</td><td>Promotrices et promoteurs de santé formés dans les communautés, cliniques autonomes, savoirs des plantes médicinales.</td></tr>
+<tr><td>Éducation</td><td>Écoles autonomes en langue maya et en espagnol, promotrices et promoteurs d'éducation choisis par les communautés, programmes liés à la terre et à l'histoire du peuple.</td></tr>
 <tr><td>Justice</td><td>Chercher la réparation et la réconciliation plutôt que la punition ; des non-zapatistes viennent parfois y régler leurs conflits.</td></tr>
 <tr><td>Production</td><td>Travail collectif des terres, coopératives (café, artisanat, bétail), caisses communes.</td></tr>
 <tr><td>Femmes</td><td>Coordinations et coopératives de femmes ; application de la Loi révolutionnaire des femmes.</td></tr>
@@ -129,7 +129,7 @@
 
 <h2 id="retenir">À retenir</h2>
 <ul>
-<li>Le pouvoir reste dans les communautés ; les délégué·es tournent.</li>
+<li>Le pouvoir reste dans les communautés ; les délégations tournent.</li>
 <li>L'armée zapatiste protège sans gouverner.</li>
 <li>Une organisation qui s'évalue et se corrige elle-même, jusqu'à se démonter quand elle s'éloigne de la base.</li>
 </ul>

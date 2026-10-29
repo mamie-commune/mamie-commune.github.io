@@ -11,13 +11,14 @@
 <link rel="apple-touch-icon" href="{{R}}assets/icone-180.png">
 <link rel="stylesheet" href="{{R}}assets/fonts.css">
 <link rel="stylesheet" href="{{R}}assets/style.css">
+<script>/* lecture facile : appliquée avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); } catch (e) {}</script>
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header class="top">
   <div class="wrap top__in">
     <a class="brand" href="{{R}}index.html" aria-label="Mamie Commune, accueil">
-      <img class="brand__face" src="{{R}}assets/mamie.webp" alt="" width="46" height="46">
+      <img class="brand__face" src="{{R}}assets/mamie-96.jpg" alt="" width="46" height="46">
       <span class="brand__name" data-ransom>Mamie Commune</span>
     </a>
     <nav class="nav" id="nav" aria-label="Navigation principale">{{NAV}}</nav>
@@ -29,8 +30,10 @@
     <label class="sr" for="q">Rechercher sur le site</label>
     <input class="search__input" id="q" name="q" type="search" placeholder="Chercher un livre, une révolution, une ville, un guide…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
     <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
     <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
   </form>
+
 </div>
 <main id="contenu">
 {{BODY}}
@@ -38,12 +41,12 @@
 <footer class="foot">
   <div class="wrap foot__in">
     <div>
-      <p class="brand"><img class="brand__face" src="{{R}}assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="brand"><img class="brand__face" src="{{R}}assets/mamie-96.jpg" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
       <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître.</p>
       <img class="foot__mamie" src="{{R}}assets/mamie-entiere.png" alt="" width="120" height="252" loading="lazy">
     </div>
     <nav aria-label="Rubriques">
-      <h4>Rubriques</h4>
+      <h2>Rubriques</h2>
       <a href="{{R}}experiences/index.html">Révolutions</a>
       <a href="{{R}}antifascisme/index.html">Antifascisme</a>
       <a href="{{R}}bibliotheque/index.html">Bibliothèque</a>
@@ -54,14 +57,15 @@
       <a href="{{R}}guides/index.html">Outils numériques</a>
     </nav>
     <nav aria-label="Révolutions">
-      <h4>Révolutions</h4>
+      <h2>Révolutions</h2>
       <a href="{{R}}experiences/commune-de-paris-histoire.html">Commune de Paris</a>
       <a href="{{R}}experiences/makhno-histoire.html">Makhnovtchina</a>
+      <a href="{{R}}experiences/espagne-1936-histoire.html">Espagne 1936</a>
       <a href="{{R}}experiences/zapatistes-histoire.html">Zapatistes</a>
       <a href="{{R}}experiences/rojava-histoire.html">Rojava</a>
     </nav>
     <nav aria-label="Pour commencer">
-      <h4>Pour commencer</h4>
+      <h2>Pour commencer</h2>
       <a href="{{R}}bibliotheque/aux-jeunes-gens.html">Aux jeunes gens</a>
       <a href="{{R}}bibliotheque/au-cafe.html">Au café</a>
       <a href="{{R}}guides/installer-linux-mint.html">Passer à Linux Mint</a>

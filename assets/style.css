@@ -10,7 +10,7 @@
   --muted: #5d544b;
   --line: #171414;
   --red: #e1301c;
-  --red-hi: #b8200f;
+  --red-hi: #a51b0c;
   --red-deep: #f7c9bf;
   --pink: #ff5aa8;
   --yellow: #f5b63b;
@@ -63,6 +63,11 @@ a:hover { color: var(--ink); background: var(--yellow); }
 .search__input:focus-visible { outline: 3px solid var(--pink); outline-offset: 0; }
 .search__go { flex: none; height: 38px; padding: 0 14px; border: 0; background: var(--pink); color: var(--ink); font: 400 14px/1 var(--display); text-transform: uppercase; cursor: pointer; }
 .search__go:hover { background: var(--yellow); }
+.facile-btn { flex: none; height: 38px; padding: 0 12px; border: 2px solid var(--paper-2); background: var(--ink); color: var(--paper-2); font: 400 14px/1 var(--display); cursor: pointer; white-space: nowrap; }
+.facile-btn span[aria-hidden] { font-size: 17px; }
+.facile-btn:hover { background: var(--yellow); color: var(--ink); border-color: var(--yellow); }
+.facile-btn[aria-pressed="true"] { background: var(--yellow); color: var(--ink); border-color: var(--yellow); }
+@media (max-width: 620px) { .facile-btn__txt { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); } }
 .search__res { position: absolute; top: calc(100% + 3px); left: max(16px, env(safe-area-inset-left, 0px)); right: max(16px, env(safe-area-inset-right, 0px)); max-height: min(70vh, 560px); overflow-y: auto;
   background: var(--paper-2); border: 3px solid var(--ink); box-shadow: 8px 8px 0 var(--ink); }
 .search__item { display: grid; gap: 2px; padding: 11px 14px; border-bottom: 2px dashed rgba(23,20,20,.3); color: var(--ink); text-decoration: none; }
@@ -172,7 +177,7 @@ h3 { font-size: 21px; line-height: 1.2; }
 /* ---------- étapes ---------- */
 .steps { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
 .step { background: var(--paper-2); padding: 24px 22px; display: flex; flex-direction: column; gap: 10px; min-width: 0; clip-path: var(--torn); }
-.step__n { align-self: flex-start; font: 400 22px/1 var(--display); background: var(--red); color: var(--paper-2); padding: 4px 8px; transform: rotate(-3deg); }
+.step__n { align-self: flex-start; font: 400 22px/1 var(--display); background: var(--red-hi); color: var(--paper-2); padding: 4px 8px; transform: rotate(-3deg); }
 .step p { margin: 0; flex: 1; }
 .step a { font: 400 15px/1.4 var(--mono); }
 .step a::before { content: "→ "; }
@@ -303,7 +308,7 @@ h3 { font-size: 21px; line-height: 1.2; }
 /* ---------- carte ---------- */
 .mapapp { display: grid; grid-template-columns: 400px minmax(0, 1fr); height: calc(100vh - 73px - var(--search-h)); height: calc(100dvh - 73px - var(--search-h)); }
 .side { background: var(--paper); border-right: 3px solid var(--ink); overflow-y: auto; display: flex; flex-direction: column; }
-.side__head { background: var(--red); color: var(--paper-2); padding: 22px; }
+.side__head { background: var(--red-hi); color: var(--paper-2); padding: 22px; }
 .side__head p { margin: 0; font: 400 14px/1.3 var(--mono); }
 .side__head h1 { font-size: clamp(40px, 5vw, 54px); line-height: 1.05; margin: 10px 0 10px; }
 .side__head span { font-size: 16px; }
@@ -554,6 +559,39 @@ html.has-player { overflow: hidden; }
 .photo figcaption small { display: block; margin-top: 4px; font: 400 12.5px/1.4 var(--mono); color: var(--muted); }
 .photo figcaption small a { color: inherit; }
 
+/* étiquette au-dessus des titres de section : toujours claire sur rouge foncé (contraste suffisant) */
+.sec__head .eyebrow, .eyebrow { color: var(--paper-2); }
+
+/* ---------- Lecture facile (bouton « Aa » dans la barre de recherche, classe .facile sur <html>) ----------
+   Police simple et large, texte plus grand et plus aéré, titres en lettres normales,
+   plus rien de penché, pas de trame de fond, contrastes renforcés. */
+html.facile {
+  --display: Verdana, "Segoe UI", Tahoma, Arial, sans-serif;
+  --body: Verdana, "Segoe UI", Tahoma, Arial, sans-serif;
+  --mono: Verdana, "Segoe UI", Tahoma, Arial, sans-serif;
+  --slab: Verdana, "Segoe UI", Tahoma, Arial, sans-serif;
+  --muted: #3a332d;
+  --red-hi: #9e1a0b;
+}
+.facile body { font-size: 19px; line-height: 1.75; letter-spacing: .01em; word-spacing: .06em; background-image: none; }
+.facile .prose, .facile .prose p, .facile .prose li { font-size: 19px; line-height: 1.8; }
+.facile h1, .facile h2, .facile h3, .facile h4 { font-weight: 700; letter-spacing: 0; }
+.facile * { text-transform: none !important; }
+/* lettres de rançon et bandes noires : redeviennent du texte normal */
+.facile .rw, .facile .rl, .facile .tg { all: unset; }
+.facile .rw { white-space: normal; }
+/* plus rien de penché ni de décor de fond (la carte Leaflet n'est pas concernée) */
+.facile .nav a, .facile .btn, .facile .btn--main, .facile .chip, .facile .hero__photo, .facile .hero__mamie, .facile .hero__say,
+.facile .rubrique, .facile .step__n, .facile .card, .facile .note, .facile .timeline b, .facile .toast, .facile .vcard, .facile .horde,
+.facile .doc__poster, .facile .doc__photo, .facile .yt, .facile .cutlist li, .facile .foot__mamie, .facile .dl__item, .facile .photo,
+.facile .lost__mamie img, .facile .sgroup h2, .facile .eyebrow, .facile .bubble, .facile .prose h3::before { transform: none !important; }
+.facile .sec--alt, .facile .foot, .facile .doc__poster, .facile .vcard__cover { background-image: none; }
+.facile .hero__dots, .facile .gtitle::after { display: none; }
+.facile .note { font-family: var(--body); }
+.facile a { text-decoration-thickness: 2px; }
+.facile .card p, .facile .rubrique p, .facile .placelist small, .facile .photo figcaption { font-size: 17px; }
+.facile .photo figcaption small, .facile .credit { font-size: 15px; }
+
 /* page introuvable (404) */
 .lost__in { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: clamp(28px, 6vw, 72px); align-items: center; min-height: 52vh; }
 .lost__mamie { position: relative; width: 180px; margin: 30px 30px 30px 80px; }
@@ -569,7 +607,7 @@ html.has-player { overflow: hidden; }
   .foot__mamie { right: 10px; width: 80px; }
 }
 .foot nav { display: grid; gap: 8px; align-content: start; }
-.foot h4 { margin: 0 0 6px; font: 400 14px/1 var(--display); text-transform: uppercase; color: var(--pink); }
+.foot h2, .foot h4 { margin: 0 0 6px; font: 400 14px/1 var(--display); text-transform: uppercase; color: var(--pink); }
 .foot nav a { color: var(--paper-2); text-decoration: none; font-size: 15.5px; }
 .foot nav a:hover { background: var(--pink); color: var(--ink); }
 .foot__legal a { color: var(--pink); }
@@ -602,6 +640,7 @@ html.has-player { overflow: hidden; }
   .brand__name { font-size: 17px; }
 }
 @media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
   html { scroll-behavior: auto; }
 }

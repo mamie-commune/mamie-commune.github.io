@@ -9,15 +9,16 @@
 <link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
 <link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="../assets/icone-180.png">
-<link rel="stylesheet" href="../assets/fonts.css?v=25ed6f1f">
-<link rel="stylesheet" href="../assets/style.css?v=25ed6f1f">
+<link rel="stylesheet" href="../assets/fonts.css?v=b2d86575">
+<link rel="stylesheet" href="../assets/style.css?v=b2d86575">
+<script>/* lecture facile : appliquée avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); } catch (e) {}</script>
 </head>
 <body>
 <a class="skip" href="#contenu">Aller au contenu</a>
 <header class="top">
   <div class="wrap top__in">
     <a class="brand" href="../" aria-label="Mamie Commune, accueil">
-      <img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46">
+      <img class="brand__face" src="../assets/mamie-96.jpg" alt="" width="46" height="46">
       <span class="brand__name" data-ransom>Mamie Commune</span>
     </a>
     <nav class="nav" id="nav" aria-label="Navigation principale"><a href="../">Accueil</a><a href="../experiences/" aria-current="page">Révolutions</a><a href="../antifascisme/">Antifascisme</a><a href="../bibliotheque/">Bibliothèque</a><a href="../carte">Carte</a><a href="../manif/">Manif</a><a href="../mouvement-17-octobre">17 Octobre</a><a href="../videos">Vidéos</a><a href="../guides/">Outils numériques</a></nav>
@@ -29,8 +30,10 @@
     <label class="sr" for="q">Rechercher sur le site</label>
     <input class="search__input" id="q" name="q" type="search" placeholder="Chercher un livre, une révolution, une ville, un guide…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
     <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
     <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
   </form>
+
 </div>
 <main id="contenu">
 <header class="gtitle"><div class="wrap">
@@ -95,7 +98,7 @@
 <text class="s" x="372" y="114">décret du 16 avril</text>
 <rect class="bx-d" x="20" y="144" width="200" height="74"/><text class="t" x="120" y="172" text-anchor="middle">Ateliers</text><text class="s" x="120" y="192" text-anchor="middle">abandonnés par les</text><text class="s" x="120" y="208" text-anchor="middle">patrons partis</text>
 <rect class="bx" x="260" y="144" width="200" height="74"/><text class="t" x="360" y="172" text-anchor="middle">Chambres syndicales</text><text class="s" x="360" y="192" text-anchor="middle">recensent, évaluent,</text><text class="s" x="360" y="208" text-anchor="middle">proposent un plan</text>
-<rect class="bx-r" x="500" y="144" width="200" height="74"/><text class="t" x="600" y="172" text-anchor="middle">Atelier coopératif</text><text class="s" x="600" y="192" text-anchor="middle">géré par les ouvrier·es</text><text class="s" x="600" y="208" text-anchor="middle">associé·es</text>
+<rect class="bx-r" x="500" y="144" width="200" height="74"/><text class="t" x="600" y="172" text-anchor="middle">Atelier coopératif</text><text class="s" x="600" y="192" text-anchor="middle">géré par les ouvrières</text><text class="s" x="600" y="208" text-anchor="middle">et ouvriers associés</text>
 <path class="ar" d="M222 181H256M462 181H496" marker-end="url(#c2)"/>
 <rect class="bx" x="20" y="280" width="300" height="74"/><text class="t" x="170" y="308" text-anchor="middle">Union des femmes</text><text class="s" x="170" y="328" text-anchor="middle">comités dans chaque arrondissement</text><text class="s" x="170" y="344" text-anchor="middle">Élisabeth Dmitrieff, Nathalie Le Mel</text>
 <rect class="bx-r" x="400" y="280" width="300" height="74"/><text class="t" x="550" y="308" text-anchor="middle">Ateliers de femmes</text><text class="s" x="550" y="328" text-anchor="middle">couture, équipement des fédérés</text><text class="s" x="550" y="344" text-anchor="middle">travail payé sans intermédiaire</text>
@@ -103,7 +106,7 @@
 <path class="ld" d="M600 220V278"/>
 </svg>
 </div>
-<figcaption><b>Schéma 2.</b> Faute de temps, peu d'ateliers furent réellement repris. Mais l'idée d'une production gérée par les travailleur·euses eux-mêmes marquera tout le mouvement ouvrier.</figcaption>
+<figcaption><b>Schéma 2.</b> Faute de temps, peu d'ateliers furent réellement repris. Mais l'idée d'une production gérée par les travailleuses et travailleurs eux-mêmes marquera tout le mouvement ouvrier.</figcaption>
 </figure>
 
 <h2 id="majorite">Majorité et minorité</h2>
@@ -115,7 +118,7 @@
 <li>Les quartiers, les clubs et les syndicats comme lieux de pouvoir réel.</li>
 <li>Suite : <a href="commune-de-paris-decrets-femmes">les décrets, les femmes et l'héritage</a>.</li>
 </ul>
-<p class="credit">Dossier rédigé par Mamie Commune à partir de travaux d'historien·nes et de textes des mouvements concernés. Libre de reproduction.</p>
+<p class="credit">Dossier rédigé par Mamie Commune à partir de travaux d'historiennes et d'historiens et de textes des mouvements concernés. Libre de reproduction.</p>
   <nav class="gnext" aria-label="Pages voisines"><a href="commune-de-paris-histoire"><small>← Précédent</small><b>La Commune de Paris : 72 jours</b></a><a href="commune-de-paris-decrets-femmes"><small>Suivant →</small><b>Les d&#233;crets, les femmes et l&#39;h&#233;ritage de la Commune</b></a></nav>
   </article>
   <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#pouvoirs">Deux pouvoirs nés d'en bas</a></li><li><a href="#principes">Des principes nouveaux</a></li><li><a href="#clubs">Les clubs et les quartiers</a></li><li><a href="#travail">Le travail : vers les ateliers coopératifs</a></li><li><a href="#majorite">Majorité et minorité</a></li><li><a href="#retenir">À retenir</a></li></ol></aside>
@@ -124,12 +127,12 @@
 <footer class="foot">
   <div class="wrap foot__in">
     <div>
-      <p class="brand"><img class="brand__face" src="../assets/mamie.webp" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-96.jpg" alt="" width="46" height="46"><span class="brand__name" data-ransom>Mamie Commune</span></p>
       <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : histoire, textes, lieux et outils pour s'organiser. Ni dieu, ni maître.</p>
       <img class="foot__mamie" src="../assets/mamie-entiere.png" alt="" width="120" height="252" loading="lazy">
     </div>
     <nav aria-label="Rubriques">
-      <h4>Rubriques</h4>
+      <h2>Rubriques</h2>
       <a href="../experiences/">Révolutions</a>
       <a href="../antifascisme/">Antifascisme</a>
       <a href="../bibliotheque/">Bibliothèque</a>
@@ -140,14 +143,15 @@
       <a href="../guides/">Outils numériques</a>
     </nav>
     <nav aria-label="Révolutions">
-      <h4>Révolutions</h4>
+      <h2>Révolutions</h2>
       <a href="../experiences/commune-de-paris-histoire">Commune de Paris</a>
       <a href="../experiences/makhno-histoire">Makhnovtchina</a>
+      <a href="../experiences/espagne-1936-histoire">Espagne 1936</a>
       <a href="../experiences/zapatistes-histoire">Zapatistes</a>
       <a href="../experiences/rojava-histoire">Rojava</a>
     </nav>
     <nav aria-label="Pour commencer">
-      <h4>Pour commencer</h4>
+      <h2>Pour commencer</h2>
       <a href="../bibliotheque/aux-jeunes-gens">Aux jeunes gens</a>
       <a href="../bibliotheque/au-cafe">Au café</a>
       <a href="../guides/installer-linux-mint">Passer à Linux Mint</a>
@@ -156,8 +160,8 @@
   </div>
   <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
 </footer>
-<script src="../assets/site.js?v=25ed6f1f"></script>
-<script src="../assets/recherche.js?v=25ed6f1f"></script>
+<script src="../assets/site.js?v=b2d86575"></script>
+<script src="../assets/recherche.js?v=b2d86575"></script>
 
 </body>
 </html>

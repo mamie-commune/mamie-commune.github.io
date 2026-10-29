@@ -1,0 +1,114 @@
+=== monter-un-collectif | Monter un collectif | Monter un collectif qui tient | D'après Service-public.fr, Jo Freeman et des brochures de lieux autogérés · 2026 | Se trouver, se donner un nom et des règles, choisir entre collectif libre et association loi 1901, partager les tâches, accueillir, et ne pas s'épuiser.
+<p>Tous les collectifs de Mamie ont commencé pareil : trois ou quatre personnes énervées autour d'une table de cuisine. Certains ont duré trente ans, d'autres trois semaines. Ceux qui tiennent ont souvent quelques points en commun. Les voici.</p>
+
+<h2 id="commencer">Commencer</h2>
+<ul>
+<li><strong>Partir d'un besoin concret</strong> : une expulsion dans le quartier, un patron qui ne paie pas, une permanence d'extrême droite qui ouvre. Un collectif qui se réunit « pour lutter contre tout » s'use vite.</li>
+<li><strong>Regarder ce qui existe déjà</strong> : peut-être qu'un groupe fait la même chose à deux rues de chez toi. La <a href="../carte.html">carte des collectifs</a> est là pour ça. Rejoindre vaut souvent mieux que dupliquer.</li>
+<li><strong>Se donner un texte de base</strong> : en une page, ce qu'on veut, comment on fonctionne, ce qu'on refuse (racisme, sexisme, homophobie, transphobie…). Il sert à accueillir les nouvelles personnes et à trancher les conflits.</li>
+<li><strong>Un rendez-vous régulier</strong>, même petit : tous les mardis, tous les premiers jeudis du mois. Un collectif vit de sa régularité.</li>
+</ul>
+
+<h2 id="statut">Collectif libre ou association loi 1901 ?</h2>
+<p>En France, on peut s'organiser <strong>sans rien déclarer</strong> : c'est ce qu'on appelle une association de fait. La loi de 1901 le permet. Mais un groupe non déclaré n'a pas de « personnalité morale » : il ne peut pas ouvrir de compte en banque à son nom, louer un local, signer un contrat ou aller en justice. Ce sont ses membres qui en portent la responsabilité.</p>
+<div class="tbl"><table>
+<thead><tr><th></th><th>Collectif non déclaré</th><th>Association déclarée</th></tr></thead>
+<tbody>
+<tr><td><b>Démarches</b></td><td>Aucune</td><td>Statuts et déclaration au greffe des associations, en ligne ou par courrier. Publication gratuite au Journal officiel.</td></tr>
+<tr><td><b>Compte en banque</b></td><td>Non, ou au nom d'un membre</td><td>Oui, au nom de l'association</td></tr>
+<tr><td><b>Local, salle, contrat</b></td><td>Au nom d'un membre</td><td>Au nom de l'association</td></tr>
+<tr><td><b>Liberté</b></td><td>Totale, aucun nom à donner</td><td>Il faut donner les noms des personnes chargées de l'administration</td></tr>
+</tbody></table></div>
+<p><strong>Une association n'a pas besoin de président.</strong> Les statuts sont libres : beaucoup d'associations militantes ont une <strong>direction collégiale</strong>, où plusieurs personnes partagent les responsabilités à égalité. Ce qui compte, c'est que les statuts disent clairement qui peut agir au nom du groupe.</p>
+<div class="note"><p><strong>Déclarée ou pas, une organisation peut être dissoute.</strong> Le gouvernement peut dissoudre par décret une association ou un « groupement de fait » (article L212-1 du Code de la sécurité intérieure). Ne garde donc pas de liste de membres qui traîne, et réfléchis à ce que tu écris dans les statuts et sur les réseaux.</p></div>
+
+<h2 id="taches">Partager les tâches et le pouvoir</h2>
+<ul>
+<li><strong>Écris qui fait quoi</strong> : la boîte mail, les clés, l'argent, le compte Signal, la relation avec la salle. Une tâche que tout le monde fait, personne ne la fait.</li>
+<li><strong>Fais tourner</strong> les tâches visibles (prendre la parole, répondre à la presse) et les tâches ingrates (ranger, faire les comptes, la vaisselle). Le pouvoir se cache souvent dans les tâches qu'on ne voit pas.</li>
+<li><strong>Toujours au moins deux personnes</strong> par tâche importante, pour que le collectif survive à un départ, une garde à vue ou un burn-out.</li>
+<li><strong>Méfie-toi du groupe « sans structure »</strong> : comme l'a montré Jo Freeman, les décisions finissent par se prendre entre anciens et amis, en dehors des réunions. Voir la fiche <a href="decider-sans-chef.html">Décider sans chef</a>.</li>
+</ul>
+
+<h2 id="accueil">Accueillir</h2>
+<ul>
+<li>Une personne qui vient pour la première fois doit repartir en sachant <strong>quand est le prochain rendez-vous</strong> et <strong>ce qu'elle peut faire</strong>, même de petit.</li>
+<li>Prévois <strong>une personne d'accueil</strong> à chaque réunion, qui explique le fonctionnement et les sigles.</li>
+<li>Pour la sécurité, pas besoin de tout dire tout de suite : on peut accueillir largement dans les réunions publiques et garder les actions sensibles pour les petits groupes qui se connaissent.</li>
+</ul>
+
+<h2 id="durer">Durer sans s'épuiser</h2>
+<ul>
+<li><strong>Fêter les victoires</strong>, même les petites. Un collectif qui ne fait que des réunions de crise se vide.</li>
+<li><strong>Parler des conflits tôt</strong>, en réunion ou avec une personne extérieure de confiance, avant qu'ils ne deviennent des haines. Prévoir à l'avance comment on réagit si quelqu'un du groupe commet des violences, notamment sexistes et sexuelles.</li>
+<li><strong>Avoir le droit de faire une pause</strong> sans culpabiliser. La lutte est longue ; Mamie est toujours là parce qu'elle a su s'arrêter de temps en temps.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.service-public.gouv.fr/associations/vosdroits/F1119" rel="noopener">Déclaration initiale d'une association</a><span>Service-public.fr : où et comment déclarer, publication gratuite au Journal officiel.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article2" rel="noopener">La tyrannie de l'absence de structure</a><span>Jo Freeman, 1970 : pourquoi les groupes « sans structure » fabriquent des chefs cachés.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article1889" rel="noopener">L'autogestion c'est pas de la tarte</a><span>Réflexions de lieux autogérés sur le partage des tâches, l'accueil et la circulation de l'info.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="caisse-de-solidarite.html">Monter une caisse de solidarité</a><span>La fiche suivante : l'argent du collectif.</span></li>
+<li><a href="../guides/signal.html">Le guide Signal</a><span>Pour les groupes de discussion du collectif, avec les bons réglages.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace pas l'avis d'une juriste ou d'un juriste. Libre de reproduction.</p>
+
+=== caisse-de-solidarite | Monter un collectif | Monter une caisse de solidarité | D'après les caisses anti-répression et les collectifs de grève · 2026 | Caisse de grève, caisse anti-répression, soutien à une personne : trouver l'argent, décider à qui il va, tenir des comptes clairs et protéger les gens qu'on aide.
+<p>Mamie le dit souvent : la solidarité, ça se dit dans les slogans, mais ça se prouve en euros. Une amende à payer, un avocat, une semaine de grève sans salaire : une caisse commune permet que <strong>personne ne paie seul le prix de la lutte de tout le monde</strong>.</p>
+
+<h2 id="types">Quelle caisse ?</h2>
+<ul>
+<li><strong>La caisse de grève</strong> compense une partie des salaires perdus. C'est elle qui permet aux plus précaires de faire grève aussi longtemps que les autres.</li>
+<li><strong>La caisse anti-répression</strong> aide à payer les frais d'avocat, les amendes et les mandats aux personnes en prison, après une manif ou une action. Elle va souvent de pair avec une legal team. À Lyon, par exemple, la Caisse de solidarité tient une permanence, oriente vers des avocates et avocats de confiance et aide financièrement les personnes poursuivies, uniquement grâce aux dons.</li>
+<li><strong>La caisse pour une personne ou une famille</strong> : expulsion, accident, procès. Plus simple, mais elle s'arrête quand le besoin est couvert.</li>
+</ul>
+
+<h2 id="regles">Fixer les règles avant l'argent</h2>
+<p>Les caisses qui explosent sont celles où l'on décide au cas par cas, entre copains. Écris tes règles <strong>avant</strong> la première demande :</p>
+<ul>
+<li><strong>Qui peut demander</strong> : toute personne poursuivie pour une action du mouvement ? Seulement les grévistes d'une entreprise ?</li>
+<li><strong>Combien</strong> : selon les besoins, pas selon le mérite. Par exemple, une part fixe par jour de grève, majorée pour les personnes seules avec enfants ou les bas salaires.</li>
+<li><strong>Qui décide</strong> : l'AG, ou un petit groupe mandaté qui rend compte.</li>
+<li><strong>Pas de tri politique</strong> entre « bons » et « mauvais » manifestants : on ne se désolidarise pas des camarades poursuivis.</li>
+</ul>
+
+<h2 id="argent">Trouver l'argent</h2>
+<ul>
+<li><strong>Les cotisations</strong> régulières, même petites : 2 € par mois et par membre, c'est une caisse qui ne dépend pas des coups de cœur.</li>
+<li><strong>Les soirées de soutien</strong> : concert, cantine, projection, à prix libre. On récolte de l'argent et on se rencontre.</li>
+<li><strong>Les seaux et les boîtes</strong> en manif, en AG, devant l'usine.</li>
+<li><strong>Les cagnottes en ligne</strong> : pratiques, mais elles prennent parfois une commission ou demandent un « pourboire », et elles gardent les noms des personnes qui donnent. Lis bien les conditions.</li>
+<li><strong>Les syndicats et les autres collectifs</strong> : beaucoup ont une caisse et peuvent abonder la tienne.</li>
+</ul>
+
+<h2 id="comptes">Tenir des comptes clairs</h2>
+<ul>
+<li>Un <strong>cahier des comptes</strong> (papier ou tableur) : chaque entrée, chaque sortie, la date, le justificatif. Deux personnes au moins y ont accès.</li>
+<li>Un <strong>bilan régulier</strong> présenté en AG : combien est rentré, combien est sorti, combien il reste. Sans les noms des personnes aidées.</li>
+<li>Un <strong>compte en banque</strong> au nom du collectif suppose une association déclarée (voir la fiche <a href="monter-un-collectif.html">Monter un collectif</a>). Sinon, l'argent passe par le compte d'un membre : c'est fréquent, mais cette personne en porte la responsabilité, et il faut que tout le groupe le sache.</li>
+</ul>
+
+<h2 id="proteger">Protéger les gens qu'on aide</h2>
+<ul>
+<li><strong>Pas de nom dans les appels à dons</strong> sans l'accord de la personne et de son avocate ou son avocat : un appel public peut nuire à sa défense.</li>
+<li><strong>Pas de détails sur les faits</strong> reprochés. On parle de répression, pas de ce que la personne aurait fait ou non.</li>
+<li>Les listes de personnes aidées et de donateurs sont <strong>sensibles</strong> : garde-les au minimum, et pas sur un groupe de discussion ouvert.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../manif/legal-team.html">Legal Team : tes droits en manif et en garde à vue</a><span>La défense collective, et le rôle d'une caisse commune pour partager les frais.</span></li>
+<li><a href="monter-un-collectif.html">Monter un collectif</a><span>Association déclarée ou non : ce que ça change pour l'argent.</span></li>
+<li><a href="../carte.html">La carte des collectifs</a><span>Syndicats et groupes près de chez toi, qui ont souvent déjà une caisse.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://www.service-public.gouv.fr/associations/vosdroits/F1119" rel="noopener">Déclarer une association</a><span>Service-public.fr : la démarche pour avoir un compte au nom du collectif.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie à partir des pratiques des caisses de grève et des caisses anti-répression. Libre de reproduction.</p>

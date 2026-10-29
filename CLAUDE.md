@@ -40,6 +40,7 @@ Le script affiche par exemple `OK : 9 guides, 103 fiches, 37 livres et 15 pages 
 | Un dossier Révolutions (Commune, Espagne 1936, zapatistes, Rojava) | `_src/experiences/*.txt` | oui |
 | Une page Antifascisme | `_src/antifascisme/*.txt` | oui |
 | Une fiche du Guide de manif | `_src/manif/*.txt`. La **catégorie** de la fiche est sa sous-rubrique (« Legal Team »…) : pour une **nouvelle sous-rubrique** (premiers secours, préparation, après la manif…), créer un fichier `_src/manif/2-nom.txt` avec une nouvelle catégorie, le filtre apparaît tout seul. Toujours préciser le pays quand c'est du droit (la fiche Legal Team est du droit **français**). Les modèles de lettres pour contester un PV sont dans `_src/textes/modeles-pv/` ; les PDF (`manif/modeles/`) se refont avec `powershell -ExecutionPolicy Bypass -File _src/modeles-pv.ps1` (Windows + Edge, en local) | oui |
+| Une fiche Agir ensemble (AG, collectif, caisse, tract, affiches) | `_src/agir/*.txt` (la catégorie = la sous-rubrique : « Décider ensemble », « Monter un collectif », « Faire passer le message ») ; page d'index `_src/pages/agir.html` | oui |
 | Une fiche de lecture | `_src/bibliotheque/*.txt` | oui |
 | Un guide Outils numériques | `_src/guides/*.txt` | oui |
 | Un livre complet (texte du domaine public) | source `.muse` dans `_src/textes/sources/` + une ligne dans `_src/textes/livres.txt` | oui, puis PDF (voir plus bas) |
@@ -50,7 +51,7 @@ Le script affiche par exemple `OK : 9 guides, 103 fiches, 37 livres et 15 pages 
 | Les lettres de rançon, le menu mobile | `assets/site.js` | non |
 | La barre de recherche (en haut) et la page `recherche.html` | `assets/recherche.js` ; l'index `data/recherche.js` est refait à chaque régénération (titres, résumés, intertitres, début des textes) et les lieux viennent de `data/lieux.js` | oui pour l'index |
 
-Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `recherche.html`, `404.html`, `partage.html` (renvoi vers le guide Signal), `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `experiences/`, `antifascisme/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
+Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `recherche.html`, `404.html`, `partage.html` (renvoi vers le guide Signal), `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `experiences/`, `antifascisme/`, `manif/`, `agir/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
 
 ## Adresses propres
 
@@ -158,7 +159,7 @@ Accessibilité : un seul `<h1>` par page et pas de saut de niveau de titre ; tex
 
 ## Organisation du site : trois familles
 
-Tout le site se range en trois familles, définies **une seule fois** dans `_src/build.ps1` (`$familles`) : **Apprendre** (Révolutions, Bibliothèque, Vidéos), **S''organiser** (Carte des collectifs, Mouvement du 17 Octobre, Antifascisme), **Se défendre** (Guide de manif, Outils numériques). Le menu (une entrée par famille qui déplie ses rubriques), le pied de page (`{{PIED}}`), l''accueil (`{{FAMILLES}}`) et la recherche (champ `f` de `data/recherche.js`, sélecteur « Chercher dans ») en découlent. Couleurs : Apprendre jaune, S''organiser rose, Se défendre rouge (classes `fam--apprendre`, `fam--organiser`, `fam--defendre`). Pour une nouvelle rubrique : l''ajouter dans `` avec sa clé de menu, son adresse, son nom, une description courte et le début de ses adresses.
+Tout le site se range en trois familles, définies **une seule fois** dans `_src/build.ps1` (`$familles`) : **Apprendre** (Révolutions, Bibliothèque, Vidéos), **S''organiser** (Agir ensemble, Carte des collectifs, Mouvement du 17 Octobre, Antifascisme), **Se défendre** (Guide de manif, Outils numériques). Le menu (une entrée par famille qui déplie ses rubriques), le pied de page (`{{PIED}}`), l''accueil (`{{FAMILLES}}`) et la recherche (champ `f` de `data/recherche.js`, sélecteur « Chercher dans ») en découlent. Couleurs : Apprendre jaune, S''organiser rose, Se défendre rouge (classes `fam--apprendre`, `fam--organiser`, `fam--defendre`). Pour une nouvelle rubrique : l''ajouter dans `` avec sa clé de menu, son adresse, son nom, une description courte et le début de ses adresses.
 
 ## Droits et sources
 

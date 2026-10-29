@@ -1,0 +1,133 @@
+=== tenir-une-ag | Décider ensemble | Tenir une AG qui ne tourne pas en rond | D'après Seeds for Change et « L'autogestion c'est pas de la tarte » · 2026 | Préparer l'ordre du jour, se répartir les rôles, faire tourner la parole et finir à l'heure : la mécanique d'une assemblée générale où tout le monde peut parler.
+<p>Mamie en a vu, des AG. Des belles, où une salle entière décide d'une grève en deux heures. Et des pénibles, où trois grandes gueules parlent pendant que les autres regardent l'heure, et où l'on repart sans savoir ce qui a été décidé. La différence ne tient pas à la chance : <strong>une bonne AG, ça se prépare et ça s'anime</strong>. Voilà les outils que la bande s'est transmis.</p>
+
+<div class="note"><p><strong>Une AG n'a pas de chef, mais elle a des rôles.</strong> Animer, noter, garder le temps : ce sont des tâches, pas des pouvoirs. On les tire au sort ou on les fait tourner à chaque réunion, pour que tout le monde apprenne et que personne ne s'installe.</p></div>
+
+<h2 id="avant">Avant l'AG</h2>
+<ul>
+<li><strong>Un ordre du jour annoncé à l'avance</strong>, affiché ou envoyé, avec pour chaque point la question précise à trancher (« On occupe le hall jeudi ? » plutôt que « La suite du mouvement »).</li>
+<li><strong>Une heure de début et une heure de fin</strong>, tenues toutes les deux. Une AG qui dure cinq heures ne garde que les personnes qui n'ont ni enfants, ni travail, ni dernier train.</li>
+<li><strong>Un lieu accessible</strong> : de plain-pied si possible, chauffé, avec des chaises pour qui en a besoin. Pense aux personnes qui ne lisent pas bien le français ou qui entendent mal.</li>
+<li><strong>Les infos pratiques</strong> préparées d'avance (dates, chiffres, propositions écrites) : on ne découvre pas un tract de trois pages en pleine assemblée.</li>
+</ul>
+
+<h2 id="roles">Les rôles</h2>
+<div class="tbl"><table>
+<thead><tr><th>Rôle</th><th>Ce qu'il fait</th></tr></thead>
+<tbody>
+<tr><td><b>Animation</b></td><td>Présente chaque point, rappelle la question posée, résume où en est la discussion, propose de passer à la décision. Ne donne pas son avis pendant qu'elle anime ; si elle veut parler, elle passe la main.</td></tr>
+<tr><td><b>Tours de parole</b></td><td>Tient la liste des personnes qui demandent la parole, dans l'ordre, et la lit à voix haute.</td></tr>
+<tr><td><b>Gardien du temps</b></td><td>Annonce le temps prévu pour chaque point, prévient quand il reste cinq minutes, fait décider l'assemblée si on dépasse.</td></tr>
+<tr><td><b>Prise de notes</b></td><td>Note surtout les <strong>décisions</strong> et <strong>qui fait quoi pour quand</strong>, pas chaque intervention. Relit les décisions à la fin.</td></tr>
+<tr><td><b>Accueil</b></td><td>Accueille les nouvelles personnes et celles qui arrivent en retard, leur résume où on en est.</td></tr>
+<tr><td><b>Météo</b></td><td>Surveille l'ambiance : tensions, fatigue, personnes qui se taisent ou qui sont mal. Peut proposer une pause.</td></tr>
+</tbody></table></div>
+<p>Dans une petite réunion, une ou deux personnes cumulent ces rôles. Dans une grande AG, mieux vaut les séparer, et même prévoir une co-animation.</p>
+
+<h2 id="parole">Faire tourner la parole</h2>
+<ul>
+<li><strong>On s'inscrit, on attend son tour</strong>, on ne coupe pas. L'animation peut limiter chaque intervention (deux minutes, par exemple) quand il y a du monde.</li>
+<li><strong>Priorité à qui n'a pas encore parlé.</strong> Si la liste est longue, les personnes qui interviennent pour la première fois passent devant. Beaucoup d'AG font aussi attention à ne pas laisser parler que des hommes : on peut alterner, ou faire remarquer à voix haute quand la parole se concentre.</li>
+<li><strong>Pas de redite</strong> : si quelqu'un a déjà dit ce que tu voulais dire, signale simplement ton accord.</li>
+<li><strong>Le petit tour</strong> : pour une question délicate, on fait parler tout le monde une fois, à tour de rôle, en une phrase. Les timides parlent, les bavards attendent.</li>
+<li><strong>Les petits groupes</strong> : à plus de trente, on peut discuter cinq ou dix minutes à trois ou quatre, puis chaque groupe rapporte en une minute. Ça va plus vite, et beaucoup plus de monde s'exprime.</li>
+</ul>
+
+<h2 id="signes">Les signes de la main</h2>
+<p>Pour éviter que tout le monde parle en même temps, beaucoup d'assemblées utilisent des signes. Il n'y a pas de code officiel : <strong>explique-les en début d'AG</strong>, au tableau ou à voix haute.</p>
+<ul>
+<li><strong>Main levée</strong> : je demande la parole.</li>
+<li><strong>Mains qui s'agitent en l'air</strong> : je suis d'accord avec ce qui est dit. Ça évite d'applaudir ou de répéter.</li>
+<li><strong>Bras croisés au-dessus de la tête</strong> : je suis en désaccord fort.</li>
+<li><strong>Mains en T</strong> : point technique (on n'entend rien, il fait trop chaud, on dépasse l'heure). Il passe avant la liste.</li>
+<li><strong>Mains qui tournent</strong> : ça a déjà été dit, on avance.</li>
+</ul>
+<p>Pour sentir l'avis de la salle avant de décider, on peut faire une « prise de température » : mains en haut si on est pour, au milieu si on hésite, en bas si on est contre. Ce n'est pas un vote, juste une photo du moment.</p>
+
+<h2 id="fin">Finir l'AG</h2>
+<ul>
+<li><strong>Relire les décisions</strong> et les tâches : qui fait quoi, pour quand.</li>
+<li><strong>Fixer la prochaine date</strong> tout de suite.</li>
+<li><strong>Diffuser le compte rendu</strong> aux personnes absentes, sans noms si c'est sensible (voir le <a href="../guides/signal.html">guide Signal</a> pour ne pas laisser traîner ces infos n'importe où).</li>
+<li>Un petit <strong>tour de ressenti</strong> en une phrase, à la fin d'une réunion difficile, permet de repérer ce qui a coincé.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.seedsforchange.org.uk/facilitationmeeting" rel="noopener">Facilitating meetings</a><span>Seeds for Change, collectif britannique de formation pour les groupes militants : les rôles d'une réunion, la prise de température. En anglais.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article1889" rel="noopener">L'autogestion c'est pas de la tarte</a><span>Brochure écrite par des squats et lieux autogérés (2002) : ordre du jour, heure de fin, animation qui tourne.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="decider-sans-chef.html">Décider sans chef</a><span>La fiche suivante : consensus, consentement, vote et mandats.</span></li>
+<li><a href="../manif/legal-team.html">Legal Team</a><span>Pour l'AG qui prépare une action : penser à la défense collective dès le début.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après les guides de Seeds for Change et la brochure « L'autogestion c'est pas de la tarte ». Libre de reproduction.</p>
+
+=== decider-sans-chef | Décider ensemble | Décider sans chef | D'après Seeds for Change, Jo Freeman et A. G. Schwarz · 2026 | Consensus, consentement, vote, mandats révocables : comment un groupe sans patron prend des décisions, et les pièges des groupes qui se disent sans structure.
+<p>« Ni dieu ni maître », c'est vite dit. Mais quand trente personnes doivent décider ensemble, sans patron ni président, il faut des règles. Mamie a appris que <strong>l'horizontalité, ce n'est pas l'absence de règles : ce sont des règles que tout le monde connaît et que tout le monde peut changer</strong>.</p>
+
+<h2 id="principes">Les principes de la bande</h2>
+<ol class="principes">
+<li><b>Des règles claires</b>écrites, connues de toutes et tous, révisables</li>
+<li><b>Des rôles qui tournent</b>pour que personne ne devienne indispensable</li>
+<li><b>L'info qui circule</b>pas de décisions prises au bar entre proches</li>
+<li><b>Des mandats précis</b>on délègue une tâche, jamais son pouvoir</li>
+</ol>
+
+<h2 id="structure">Le piège de « pas de structure »</h2>
+<p>En 1970, la féministe américaine <strong>Jo Freeman</strong> écrit <em>La tyrannie de l'absence de structure</em>. Elle observe les groupes de femmes de son époque, qui refusent toute organisation formelle. Son constat : <strong>un groupe sans structure officielle en a toujours une, cachée</strong>. Ce sont les bandes d'amis, les plus anciennes, les plus à l'aise à l'oral qui décident, sans le dire et sans avoir de comptes à rendre. Les nouvelles personnes, elles, ne savent même pas où se prennent les décisions.</p>
+<p>Sa réponse n'est pas de nommer un chef, mais de rendre le pouvoir visible : tâches confiées à des personnes précises par le groupe, rotation, information partagée, accès égal aux ressources.</p>
+
+<h2 id="consensus">Le consensus, étape par étape</h2>
+<p>Le consensus ne veut pas dire que tout le monde est enthousiaste. Il veut dire qu'on cherche <strong>une solution que tout le monde peut accepter</strong>, en écoutant les objections au lieu de les écraser. Seeds for Change le découpe ainsi :</p>
+<ol class="timeline">
+<li><b>1</b><span>Présenter la question, pour que tout le monde parte des mêmes informations.</span></li>
+<li><b>2</b><span>Ouvrir la discussion : besoins, craintes, envies, sans proposition pour l'instant.</span></li>
+<li><b>3</b><span>Explorer les idées, avec leurs avantages et leurs défauts.</span></li>
+<li><b>4</b><span>Chercher ce qui rassemble, et en faire une proposition.</span></li>
+<li><b>5</b><span>Améliorer la proposition pour lever les inquiétudes qui restent.</span></li>
+<li><b>6</b><span>Tester l'accord : chacune et chacun dit où il en est. Sinon, on revient en arrière.</span></li>
+<li><b>7</b><span>Passer à l'action, en notant qui fait quoi.</span></li>
+</ol>
+<h3>Les réponses possibles</h3>
+<ul>
+<li><strong>D'accord</strong> : je soutiens et je participe.</li>
+<li><strong>Avec réserves</strong> : je ne suis pas ravie ou ravi, mais j'accepte qu'on avance.</li>
+<li><strong>Je me mets en retrait</strong> : je ne participerai pas, mais je ne bloque pas le groupe. Ça ne marche pas pour une décision qui engage tout le monde, comme des règles de sécurité.</li>
+<li><strong>Je bloque</strong> : c'est un désaccord de fond, pas une préférence. Si je reste avec, je quitte peut-être le groupe. Un blocage doit rester rare ; s'il revient sans cesse, c'est le signe d'un problème plus profond à discuter.</li>
+</ul>
+
+<h2 id="autres">Consentement, vote : les autres outils</h2>
+<ul>
+<li><strong>Le consentement</strong> : on ne demande pas « qui est pour ? » mais « quelqu'un a-t-il une objection grave ? ». Plus rapide que le consensus, pratique pour les décisions courantes.</li>
+<li><strong>Le vote à la majorité</strong> : pas une trahison de l'anarchisme, juste un outil. Dans une grande AG de grève ou de fac, il est souvent le seul possible. On peut décider à l'avance quand on vote (après deux tours de parole, par exemple) et à quelle majorité (deux tiers pour les décisions lourdes).</li>
+<li><strong>Décider de comment on décide</strong> : le plus important, c'est que la règle soit fixée <strong>avant</strong> la discussion, pas inventée à la fin par qui a intérêt à gagner.</li>
+</ul>
+
+<h2 id="mandats">Déléguer sans se faire déposséder</h2>
+<p>Parfois, il faut envoyer quelqu'un parler à une coordination, à la presse ou à la direction. Les anarchistes ont une vieille réponse : <strong>le mandat impératif et révocable</strong>.</p>
+<ul>
+<li>La personne déléguée porte <strong>la position décidée par l'AG</strong>, pas la sienne.</li>
+<li>Le mandat est <strong>limité</strong> : une réunion, une tâche, une durée.</li>
+<li>Elle <strong>rend compte</strong> au retour, et l'AG peut lui retirer son mandat à tout moment.</li>
+<li>On <strong>fait tourner</strong> : pas toujours la même personne au micro.</li>
+</ul>
+
+<h2 id="affinites">Assemblée et groupes affinitaires</h2>
+<p>Toutes les décisions n'ont pas à passer par la grande assemblée. En Grèce, les assemblées anarchistes ouvertes servent souvent à <strong>débattre et partager des analyses</strong>, tandis que les actions sont organisées par des <strong>groupes affinitaires</strong> : quelques personnes qui se connaissent et se font confiance. C'est ce que décrit A. G. Schwarz, qui y a participé. Pour une action risquée, c'est aussi une question de sécurité : on ne prépare pas tout devant cent personnes.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.seedsforchange.org.uk/shortconsensus" rel="noopener">Consensus decision making</a><span>Seeds for Change : les sept étapes et les réponses possibles. En anglais.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article2" rel="noopener">La tyrannie de l'absence de structure</a><span>Jo Freeman, 1970, en français sur infokiosques.net.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article988" rel="noopener">Les assemblées anarchistes ouvertes</a><span>A. G. Schwarz, 2010 : l'expérience grecque, assemblées et groupes affinitaires.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="tenir-une-ag.html">Tenir une AG</a><span>Les rôles, les tours de parole, les signes de la main.</span></li>
+<li><a href="../experiences/index.html">Révolutions</a><span>Conseils, assemblées, collectivités : comment d'autres se sont organisés avant nous.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après Seeds for Change, Jo Freeman et A. G. Schwarz. Libre de reproduction.</p>

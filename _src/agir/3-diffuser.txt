@@ -1,0 +1,150 @@
+=== faire-un-tract | Faire passer le message | Faire un tract qu'on a envie de lire | D'après le guide du droit d'affichage de la MAIF et les pratiques militantes · 2026 | Un message, un titre qui claque, un appel à agir, les mentions à ne pas oublier, et comment le distribuer sans finir à la poubelle.
+<p>Mamie a distribué des tracts devant des usines, des facs et des marchés pendant des décennies. Sa règle : <strong>un tract, c'est une seule idée et un rendez-vous</strong>. Tout le reste va dans la brochure, le site ou la discussion qui suit.</p>
+
+<h2 id="contenu">Ce qu'on met dedans</h2>
+<ol class="principes">
+<li><b>Un titre</b>qui dit le problème en cinq mots</li>
+<li><b>Trois paragraphes</b>ce qui se passe, pourquoi c'est injuste, ce qu'on propose</li>
+<li><b>Un rendez-vous</b>date, heure, lieu : où retrouver les autres</li>
+<li><b>Un contact</b>pour celles et ceux qui veulent s'y mettre</li>
+</ol>
+<ul>
+<li><strong>Écris pour la personne qui passe</strong>, pas pour les camarades qui savent déjà. Pas de sigles, pas de jargon, des phrases courtes.</li>
+<li><strong>Du concret</strong> : un chiffre, un exemple, un nom de rue. « Le loyer du 12 rue X a pris 30 % » parle plus que « la spéculation immobilière ».</li>
+<li><strong>Relis à voix haute</strong>, ou fais relire par quelqu'un qui n'est pas du collectif. S'il faut expliquer, c'est à réécrire.</li>
+</ul>
+
+<h2 id="forme">La mise en page</h2>
+<ul>
+<li><strong>Format A5</strong> (une feuille A4 coupée en deux) : moins cher, plus facile à prendre, et ça oblige à faire court.</li>
+<li><strong>Un gros titre, beaucoup de blanc</strong>, une taille de texte lisible (au moins 11 points). Un tract tout gris ne se lit pas.</li>
+<li><strong>Une image forte</strong> plutôt que trois petites : un dessin, une gravure ancienne, un collage. Pas d'image trouvée au hasard sur internet : prends des images libres de droits ou faites maison.</li>
+<li>Le noir sur papier de couleur coûte moins cher que la couleur et se repère bien.</li>
+</ul>
+
+<h2 id="mentions">Les mentions à mettre</h2>
+<p>La loi demande qu'un document imprimé et diffusé dise <strong>qui l'a imprimé</strong>. D'après le guide de la MAIF pour les associations :</p>
+<ul>
+<li>s'il sort de chez un imprimeur, ses coordonnées vont sur un bord de la page ;</li>
+<li>s'il est imprimé par le groupe lui-même, on indique le nom et l'adresse du groupe, et la mention <strong>« IPNS »</strong> (imprimé par nos soins) sur un bord.</li>
+</ul>
+<p>On ajoute souvent « Ne pas jeter sur la voie publique ». Pour une photo où l'on reconnaît quelqu'un, il faut son accord.</p>
+
+<h2 id="distribuer">Distribuer</h2>
+<ul>
+<li><strong>Choisis le lieu et l'heure</strong> où passent les gens concernés : entrée de l'usine à la relève, sortie de l'école, marché du dimanche.</li>
+<li><strong>À deux ou trois</strong>, jamais seul : c'est plus sympa et plus sûr.</li>
+<li><strong>Tends le tract en disant une phrase</strong> (« Contre l'expulsion de la famille du 4e ! »), et souris. On distribue pour discuter, pas pour se débarrasser du paquet.</li>
+<li>Distribuer des tracts sur la voie publique est en principe libre. Certaines mairies l'encadrent par arrêté ; en cas de souci, reste calme et appelle ton collectif.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.maif.fr/associationsetcollectivites/associations/guides-fonctionnement/droit-affichage" rel="noopener">Le droit d'affichage des associations</a><span>MAIF : mentions obligatoires sur une affiche ou un tract, droit à l'image.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="serigraphie.html">La sérigraphie à la maison</a><span>Imprimer soi-même affiches, tee-shirts et banderoles.</span></li>
+<li><a href="coller-des-affiches.html">Coller des affiches</a><span>La colle, le matériel et les panneaux d'expression libre.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction, et même de distribution.</p>
+
+=== serigraphie | Faire passer le message | La sérigraphie à la maison | D'après les ateliers de sérigraphie associatifs · 2026 | Imprimer soi-même des affiches, des tee-shirts et des banderoles : le principe, le matériel, trois façons de faire son écran, et les ateliers où apprendre.
+<p>Avant les imprimantes, la bande à Mamie tirait ses affiches à la main. En Mai 68, l'Atelier populaire des Beaux-Arts de Paris en tirait par centaines en sérigraphie. La technique n'a pas changé, et elle reste <strong>la meilleure façon d'imprimer beaucoup, pas cher, sur presque tout</strong> : papier, tissu, carton, sacs.</p>
+
+<h2 id="principe">Le principe</h2>
+<p>On tend un tissu à mailles fines sur un cadre : c'est l'<strong>écran</strong>. On bouche les mailles partout, sauf là où l'on veut de l'encre. On pose l'écran sur le papier, on étale l'encre dessus avec une <strong>raclette</strong> : l'encre passe seulement à travers les trous, et le dessin apparaît. On recommence pour chaque feuille. Une couleur = un écran.</p>
+
+<h2 id="materiel">Le matériel</h2>
+<ul>
+<li><strong>Un cadre</strong> en bois ou en alu, avec un <strong>tissu de sérigraphie</strong> (polyester) bien tendu et agrafé. On en trouve tout faits dans les magasins de beaux-arts. Une maille assez ouverte convient pour le tissu, une plus fine pour le papier.</li>
+<li><strong>Une raclette</strong> un peu plus large que le dessin.</li>
+<li><strong>De l'encre à l'eau</strong>, pour papier ou pour textile : elle se nettoie à l'eau, sans solvant.</li>
+<li>Du scotch de masquage, du papier journal, des pinces à linge et une ficelle pour faire sécher.</li>
+</ul>
+
+<h2 id="ecran">Trois façons de faire son écran</h2>
+<h3>1. Le pochoir en papier (le plus simple)</h3>
+<p>Découpe ton dessin au cutter dans une feuille de papier fin. Pose-la sous l'écran : au premier passage, l'encre la colle au tissu. Ça tient une ou deux dizaines de tirages : parfait pour une affiche d'urgence ou un atelier avec des enfants.</p>
+<h3>2. Le dessin direct</h3>
+<p>Tu dessines au pinceau sur l'écran avec un <strong>fluide à dessiner</strong>, tu recouvres tout l'écran de <strong>bouche-pores</strong>, puis tu laves : le fluide part et laisse ton dessin ouvert. Pas besoin de lumière ni de chambre noire : idéal pour les lettrages faits main.</p>
+<h3>3. L'émulsion photosensible (le plus précis)</h3>
+<p>On enduit l'écran d'une émulsion sensible à la lumière, on pose dessus son dessin imprimé en noir sur un transparent, et on expose à une lampe : la lumière durcit l'émulsion partout, sauf sous le noir, qui part au rinçage. C'est ce qu'on fait dans les ateliers : ça permet des lettres fines et des photos tramées. Il faut un coin sombre et un peu d'entraînement.</p>
+
+<h2 id="tirer">Tirer</h2>
+<ol class="timeline">
+<li><b>1</b><span>Fixe le papier toujours au même endroit, avec des repères en scotch sur la table.</span></li>
+<li><b>2</b><span>Pose l'écran, verse un cordon d'encre en haut du dessin.</span></li>
+<li><b>3</b><span>Tire la raclette vers toi, inclinée, d'un seul geste ferme.</span></li>
+<li><b>4</b><span>Soulève l'écran, mets la feuille à sécher, recommence.</span></li>
+<li><b>5</b><span>Lave l'écran tout de suite après : l'encre sèche bouche les mailles pour de bon.</span></li>
+</ol>
+
+<h2 id="ateliers">Apprendre avec d'autres</h2>
+<p>Le plus simple est d'aller dans un <strong>atelier de sérigraphie associatif</strong> ou un lieu autogéré : beaucoup ont des écrans, une table d'insolation et des personnes qui transmettent, souvent à prix libre. Demande dans les librairies militantes et les lieux de la <a href="../carte.html">carte des collectifs</a>. Et une fois que tu sais faire : transmets à ton tour.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="faire-un-tract.html">Faire un tract</a><span>Le message, la mise en page et les mentions à mettre.</span></li>
+<li><a href="coller-des-affiches.html">Coller des affiches</a><span>Une fois les affiches tirées, les mettre au mur.</span></li>
+<li><a href="../carte.html">La carte des collectifs</a><span>Lieux autogérés et librairies où trouver un atelier.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://infokiosques.net/" rel="noopener">Infokiosques.net</a><span>Des centaines de brochures et affiches militantes à imprimer et diffuser.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>
+
+=== coller-des-affiches | Faire passer le message | Coller des affiches | D'après le Code de l'environnement, le guide de la MAIF et les collectifs de colleuses · 2026 | La colle maison, le matériel, la technique, les panneaux d'expression libre que chaque commune doit fournir, et les risques du collage ailleurs.
+<p>Une nuit de collage, pour Mamie, c'est un seau qui goutte, un balai, les copines et les copains, et le plaisir de voir la ville parler au réveil. Les collectifs de colleuses contre les féminicides l'ont rappelé à tout le monde depuis 2019 : <strong>une feuille blanche, de la peinture noire et de la colle, ça suffit pour se faire entendre</strong>.</p>
+
+<h2 id="colle">La colle maison</h2>
+<p>Pas besoin d'acheter de la colle à papier peint. Deux recettes :</p>
+<ul>
+<li><strong>À la farine</strong> : délaie quatre ou cinq cuillères à soupe de farine dans un peu d'eau froide, sans grumeaux. Ajoute un litre d'eau, fais chauffer en remuant sans arrêt jusqu'à ce que ça épaississe, puis laisse refroidir.</li>
+<li><strong>À la fécule de maïs</strong> : la recette d'Attac utilise environ 130 g de fécule pour un litre d'eau, délayée d'abord dans un peu d'eau tiède, jusqu'à une texture de gel douche.</li>
+</ul>
+<p>Ces colles sont sans danger et partent à l'eau. Prépare-les le jour même, elles ne se gardent pas longtemps.</p>
+
+<h2 id="materiel">Le matériel</h2>
+<ul>
+<li>Un <strong>seau avec couvercle</strong> pour la colle, et un sac pour transporter le tout.</li>
+<li>Un <strong>gros pinceau</strong> ou une brosse, voire un balai pour les grandes affiches.</li>
+<li>Les affiches, roulées à l'envers (le dessin à l'intérieur), et des gants.</li>
+</ul>
+
+<h2 id="technique">La technique</h2>
+<ol class="timeline">
+<li><b>1</b><span>Passe une couche de colle sur le mur, un peu plus grande que l'affiche.</span></li>
+<li><b>2</b><span>Pose l'affiche en commençant par le haut, et lisse-la avec la brosse du centre vers les bords.</span></li>
+<li><b>3</b><span>Repasse une couche de colle par-dessus : elle protège de la pluie et rend l'affiche plus dure à arracher.</span></li>
+<li><b>4</b><span>Pour un message en lettres (une feuille A4 par lettre), prépare l'ordre des feuilles avant de partir et colle de gauche à droite.</span></li>
+</ol>
+
+<h2 id="legal">Où c'est permis</h2>
+<p>En France, <strong>chaque commune doit mettre gratuitement à disposition des panneaux d'« affichage libre »</strong> pour les opinions et les associations (article L581-13 du Code de l'environnement). Leur surface minimale dépend de la taille de la commune : au moins 4 m² dans les plus petites, et davantage à mesure que la population augmente (article R581-2). Le maire en fixe les emplacements par arrêté, et ils sont gratuits. Demande à ta mairie où ils sont : beaucoup de communes n'en ont pas assez, et le rappeler est déjà une action.</p>
+<div class="note"><p><strong>Ailleurs, c'est interdit</strong>, et c'est encore plus sanctionné sur les monuments historiques, les arbres et les panneaux de signalisation. La mairie peut faire retirer les affiches aux frais de qui les a posées (article L581-29), et la loi prévoit une amende pouvant aller jusqu'à 7 500 € (article L581-34). En pratique, les amendes sont souvent plus faibles : des colleuses contre les féminicides ont reçu des amendes de plusieurs centaines d'euros à Paris. Si tu colles ailleurs que sur les panneaux libres, fais-le en connaissance de cause, à plusieurs, et note le numéro de ta <a href="../manif/legal-team.html">legal team</a>.</p></div>
+
+<h2 id="ensemble">Coller ensemble</h2>
+<ul>
+<li><strong>En petit groupe</strong> : une personne colle, une pose l'affiche, une regarde autour.</li>
+<li><strong>Respecte les affiches des autres collectifs amis</strong> : on ne recouvre pas une lutte avec une autre.</li>
+<li><strong>Pas de téléphone</strong> si ce n'est pas nécessaire, et pas de photos de visages sur les réseaux après.</li>
+<li>Et toujours, à la fin : on rince les pinceaux, et on va boire un coup.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.maif.fr/associationsetcollectivites/associations/guides-fonctionnement/droit-affichage" rel="noopener">Le droit d'affichage des associations</a><span>MAIF : panneaux d'affichage libre, articles du Code de l'environnement, sanctions.</span></li>
+<li><a href="https://france.attac.org/IMG/pdf/tuto_corte_ge_copie.pdf" rel="noopener">Tuto collage (PDF)</a><span>Attac France : la recette de colle à la fécule et la technique.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="faire-un-tract.html">Faire un tract</a><span>Écrire un message qui se lit en passant.</span></li>
+<li><a href="serigraphie.html">La sérigraphie à la maison</a><span>Imprimer ses affiches soi-même.</span></li>
+<li><a href="../manif/legal-team.html">Legal Team</a><span>Tes droits en cas de contrôle ou d'interpellation.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace pas l'avis d'une avocate ou d'un avocat. Libre de reproduction.</p>

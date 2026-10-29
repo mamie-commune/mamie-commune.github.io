@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Coller des affiches — D&#39;apr&#232;s le Code de l&#39;environnement, le guide de la MAIF et les collectifs de colleuses &#183; Mamie Commune</title>
+<meta name="description" content="La colle maison, le mat&#233;riel, la technique, les panneaux d&#39;expression libre que chaque commune doit fournir, et les risques du collage ailleurs.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=03d65ce2">
+<link rel="stylesheet" href="../assets/style.css?v=03d65ce2">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre">Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, zapatistes, Rojava</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser" data-ici>S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/" aria-current="page"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Agir ensemble</a><span>/</span><a href="./#faire-passer-le-message">Faire passer le message</a></p>
+  <p class="eyebrow">La bande &#224; Mamie s&#39;organise</p>
+  <h1>Coller des affiches</h1>
+  <p class="lead">La colle maison, le mat&#233;riel, la technique, les panneaux d&#39;expression libre que chaque commune doit fournir, et les risques du collage ailleurs.</p>
+  <div class="gmeta"><span>Faire passer le message</span><span>D&#39;apr&#232;s le Code de l&#39;environnement, le guide de la MAIF et les collectifs de colleuses &#183; 2026</span><span>Fiche · 4 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>Une nuit de collage, pour Mamie, c'est un seau qui goutte, un balai, les copines et les copains, et le plaisir de voir la ville parler au réveil. Les collectifs de colleuses contre les féminicides l'ont rappelé à tout le monde depuis 2019 : <strong>une feuille blanche, de la peinture noire et de la colle, ça suffit pour se faire entendre</strong>.</p>
+
+<h2 id="colle">La colle maison</h2>
+<p>Pas besoin d'acheter de la colle à papier peint. Deux recettes :</p>
+<ul>
+<li><strong>À la farine</strong> : délaie quatre ou cinq cuillères à soupe de farine dans un peu d'eau froide, sans grumeaux. Ajoute un litre d'eau, fais chauffer en remuant sans arrêt jusqu'à ce que ça épaississe, puis laisse refroidir.</li>
+<li><strong>À la fécule de maïs</strong> : la recette d'Attac utilise environ 130 g de fécule pour un litre d'eau, délayée d'abord dans un peu d'eau tiède, jusqu'à une texture de gel douche.</li>
+</ul>
+<p>Ces colles sont sans danger et partent à l'eau. Prépare-les le jour même, elles ne se gardent pas longtemps.</p>
+
+<h2 id="materiel">Le matériel</h2>
+<ul>
+<li>Un <strong>seau avec couvercle</strong> pour la colle, et un sac pour transporter le tout.</li>
+<li>Un <strong>gros pinceau</strong> ou une brosse, voire un balai pour les grandes affiches.</li>
+<li>Les affiches, roulées à l'envers (le dessin à l'intérieur), et des gants.</li>
+</ul>
+
+<h2 id="technique">La technique</h2>
+<ol class="timeline">
+<li><b>1</b><span>Passe une couche de colle sur le mur, un peu plus grande que l'affiche.</span></li>
+<li><b>2</b><span>Pose l'affiche en commençant par le haut, et lisse-la avec la brosse du centre vers les bords.</span></li>
+<li><b>3</b><span>Repasse une couche de colle par-dessus : elle protège de la pluie et rend l'affiche plus dure à arracher.</span></li>
+<li><b>4</b><span>Pour un message en lettres (une feuille A4 par lettre), prépare l'ordre des feuilles avant de partir et colle de gauche à droite.</span></li>
+</ol>
+
+<h2 id="legal">Où c'est permis</h2>
+<p>En France, <strong>chaque commune doit mettre gratuitement à disposition des panneaux d'« affichage libre »</strong> pour les opinions et les associations (article L581-13 du Code de l'environnement). Leur surface minimale dépend de la taille de la commune : au moins 4 m² dans les plus petites, et davantage à mesure que la population augmente (article R581-2). Le maire en fixe les emplacements par arrêté, et ils sont gratuits. Demande à ta mairie où ils sont : beaucoup de communes n'en ont pas assez, et le rappeler est déjà une action.</p>
+<div class="note"><p><strong>Ailleurs, c'est interdit</strong>, et c'est encore plus sanctionné sur les monuments historiques, les arbres et les panneaux de signalisation. La mairie peut faire retirer les affiches aux frais de qui les a posées (article L581-29), et la loi prévoit une amende pouvant aller jusqu'à 7 500 € (article L581-34). En pratique, les amendes sont souvent plus faibles : des colleuses contre les féminicides ont reçu des amendes de plusieurs centaines d'euros à Paris. Si tu colles ailleurs que sur les panneaux libres, fais-le en connaissance de cause, à plusieurs, et note le numéro de ta <a href="../manif/legal-team">legal team</a>.</p></div>
+
+<h2 id="ensemble">Coller ensemble</h2>
+<ul>
+<li><strong>En petit groupe</strong> : une personne colle, une pose l'affiche, une regarde autour.</li>
+<li><strong>Respecte les affiches des autres collectifs amis</strong> : on ne recouvre pas une lutte avec une autre.</li>
+<li><strong>Pas de téléphone</strong> si ce n'est pas nécessaire, et pas de photos de visages sur les réseaux après.</li>
+<li>Et toujours, à la fin : on rince les pinceaux, et on va boire un coup.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.maif.fr/associationsetcollectivites/associations/guides-fonctionnement/droit-affichage" rel="noopener">Le droit d'affichage des associations</a><span>MAIF : panneaux d'affichage libre, articles du Code de l'environnement, sanctions.</span></li>
+<li><a href="https://france.attac.org/IMG/pdf/tuto_corte_ge_copie.pdf" rel="noopener">Tuto collage (PDF)</a><span>Attac France : la recette de colle à la fécule et la technique.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="faire-un-tract">Faire un tract</a><span>Écrire un message qui se lit en passant.</span></li>
+<li><a href="serigraphie">La sérigraphie à la maison</a><span>Imprimer ses affiches soi-même.</span></li>
+<li><a href="../manif/legal-team">Legal Team</a><span>Tes droits en cas de contrôle ou d'interpellation.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace pas l'avis d'une avocate ou d'un avocat. Libre de reproduction.</p>
+
+  <nav class="gnext" aria-label="Pages voisines"><a href="serigraphie"><small>← Précédent</small><b>La s&#233;rigraphie &#224; la maison</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#colle">La colle maison</a></li><li><a href="#materiel">Le matériel</a></li><li><a href="#technique">La technique</a></li><li><a href="#legal">Où c'est permis</a></li><li><a href="#ensemble">Coller ensemble</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=03d65ce2"></script>
+<script src="../assets/recherche.js?v=03d65ce2"></script>
+
+</body>
+</html>

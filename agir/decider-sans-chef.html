@@ -1,0 +1,141 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>D&#233;cider sans chef — D&#39;apr&#232;s Seeds for Change, Jo Freeman et A. G. Schwarz &#183; Mamie Commune</title>
+<meta name="description" content="Consensus, consentement, vote, mandats r&#233;vocables : comment un groupe sans patron prend des d&#233;cisions, et les pi&#232;ges des groupes qui se disent sans structure.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=03d65ce2">
+<link rel="stylesheet" href="../assets/style.css?v=03d65ce2">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre">Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, zapatistes, Rojava</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser" data-ici>S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/" aria-current="page"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Agir ensemble</a><span>/</span><a href="./#decider-ensemble">D&#233;cider ensemble</a></p>
+  <p class="eyebrow">La bande &#224; Mamie s&#39;organise</p>
+  <h1>D&#233;cider sans chef</h1>
+  <p class="lead">Consensus, consentement, vote, mandats r&#233;vocables : comment un groupe sans patron prend des d&#233;cisions, et les pi&#232;ges des groupes qui se disent sans structure.</p>
+  <div class="gmeta"><span>D&#233;cider ensemble</span><span>D&#39;apr&#232;s Seeds for Change, Jo Freeman et A. G. Schwarz &#183; 2026</span><span>Fiche · 5 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>« Ni dieu ni maître », c'est vite dit. Mais quand trente personnes doivent décider ensemble, sans patron ni président, il faut des règles. Mamie a appris que <strong>l'horizontalité, ce n'est pas l'absence de règles : ce sont des règles que tout le monde connaît et que tout le monde peut changer</strong>.</p>
+
+<h2 id="principes">Les principes de la bande</h2>
+<ol class="principes">
+<li><b>Des règles claires</b>écrites, connues de toutes et tous, révisables</li>
+<li><b>Des rôles qui tournent</b>pour que personne ne devienne indispensable</li>
+<li><b>L'info qui circule</b>pas de décisions prises au bar entre proches</li>
+<li><b>Des mandats précis</b>on délègue une tâche, jamais son pouvoir</li>
+</ol>
+
+<h2 id="structure">Le piège de « pas de structure »</h2>
+<p>En 1970, la féministe américaine <strong>Jo Freeman</strong> écrit <em>La tyrannie de l'absence de structure</em>. Elle observe les groupes de femmes de son époque, qui refusent toute organisation formelle. Son constat : <strong>un groupe sans structure officielle en a toujours une, cachée</strong>. Ce sont les bandes d'amis, les plus anciennes, les plus à l'aise à l'oral qui décident, sans le dire et sans avoir de comptes à rendre. Les nouvelles personnes, elles, ne savent même pas où se prennent les décisions.</p>
+<p>Sa réponse n'est pas de nommer un chef, mais de rendre le pouvoir visible : tâches confiées à des personnes précises par le groupe, rotation, information partagée, accès égal aux ressources.</p>
+
+<h2 id="consensus">Le consensus, étape par étape</h2>
+<p>Le consensus ne veut pas dire que tout le monde est enthousiaste. Il veut dire qu'on cherche <strong>une solution que tout le monde peut accepter</strong>, en écoutant les objections au lieu de les écraser. Seeds for Change le découpe ainsi :</p>
+<ol class="timeline">
+<li><b>1</b><span>Présenter la question, pour que tout le monde parte des mêmes informations.</span></li>
+<li><b>2</b><span>Ouvrir la discussion : besoins, craintes, envies, sans proposition pour l'instant.</span></li>
+<li><b>3</b><span>Explorer les idées, avec leurs avantages et leurs défauts.</span></li>
+<li><b>4</b><span>Chercher ce qui rassemble, et en faire une proposition.</span></li>
+<li><b>5</b><span>Améliorer la proposition pour lever les inquiétudes qui restent.</span></li>
+<li><b>6</b><span>Tester l'accord : chacune et chacun dit où il en est. Sinon, on revient en arrière.</span></li>
+<li><b>7</b><span>Passer à l'action, en notant qui fait quoi.</span></li>
+</ol>
+<h3>Les réponses possibles</h3>
+<ul>
+<li><strong>D'accord</strong> : je soutiens et je participe.</li>
+<li><strong>Avec réserves</strong> : je ne suis pas ravie ou ravi, mais j'accepte qu'on avance.</li>
+<li><strong>Je me mets en retrait</strong> : je ne participerai pas, mais je ne bloque pas le groupe. Ça ne marche pas pour une décision qui engage tout le monde, comme des règles de sécurité.</li>
+<li><strong>Je bloque</strong> : c'est un désaccord de fond, pas une préférence. Si je reste avec, je quitte peut-être le groupe. Un blocage doit rester rare ; s'il revient sans cesse, c'est le signe d'un problème plus profond à discuter.</li>
+</ul>
+
+<h2 id="autres">Consentement, vote : les autres outils</h2>
+<ul>
+<li><strong>Le consentement</strong> : on ne demande pas « qui est pour ? » mais « quelqu'un a-t-il une objection grave ? ». Plus rapide que le consensus, pratique pour les décisions courantes.</li>
+<li><strong>Le vote à la majorité</strong> : pas une trahison de l'anarchisme, juste un outil. Dans une grande AG de grève ou de fac, il est souvent le seul possible. On peut décider à l'avance quand on vote (après deux tours de parole, par exemple) et à quelle majorité (deux tiers pour les décisions lourdes).</li>
+<li><strong>Décider de comment on décide</strong> : le plus important, c'est que la règle soit fixée <strong>avant</strong> la discussion, pas inventée à la fin par qui a intérêt à gagner.</li>
+</ul>
+
+<h2 id="mandats">Déléguer sans se faire déposséder</h2>
+<p>Parfois, il faut envoyer quelqu'un parler à une coordination, à la presse ou à la direction. Les anarchistes ont une vieille réponse : <strong>le mandat impératif et révocable</strong>.</p>
+<ul>
+<li>La personne déléguée porte <strong>la position décidée par l'AG</strong>, pas la sienne.</li>
+<li>Le mandat est <strong>limité</strong> : une réunion, une tâche, une durée.</li>
+<li>Elle <strong>rend compte</strong> au retour, et l'AG peut lui retirer son mandat à tout moment.</li>
+<li>On <strong>fait tourner</strong> : pas toujours la même personne au micro.</li>
+</ul>
+
+<h2 id="affinites">Assemblée et groupes affinitaires</h2>
+<p>Toutes les décisions n'ont pas à passer par la grande assemblée. En Grèce, les assemblées anarchistes ouvertes servent souvent à <strong>débattre et partager des analyses</strong>, tandis que les actions sont organisées par des <strong>groupes affinitaires</strong> : quelques personnes qui se connaissent et se font confiance. C'est ce que décrit A. G. Schwarz, qui y a participé. Pour une action risquée, c'est aussi une question de sécurité : on ne prépare pas tout devant cent personnes.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.seedsforchange.org.uk/shortconsensus" rel="noopener">Consensus decision making</a><span>Seeds for Change : les sept étapes et les réponses possibles. En anglais.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article2" rel="noopener">La tyrannie de l'absence de structure</a><span>Jo Freeman, 1970, en français sur infokiosques.net.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article988" rel="noopener">Les assemblées anarchistes ouvertes</a><span>A. G. Schwarz, 2010 : l'expérience grecque, assemblées et groupes affinitaires.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="tenir-une-ag">Tenir une AG</a><span>Les rôles, les tours de parole, les signes de la main.</span></li>
+<li><a href="../experiences/">Révolutions</a><span>Conseils, assemblées, collectivités : comment d'autres se sont organisés avant nous.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après Seeds for Change, Jo Freeman et A. G. Schwarz. Libre de reproduction.</p>
+
+  <nav class="gnext" aria-label="Pages voisines"><a href="tenir-une-ag"><small>← Précédent</small><b>Tenir une AG qui ne tourne pas en rond</b></a><a href="monter-un-collectif"><small>Suivant →</small><b>Monter un collectif qui tient</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#principes">Les principes de la bande</a></li><li><a href="#structure">Le piège de « pas de structure »</a></li><li><a href="#consensus">Le consensus, étape par étape</a></li><li><a href="#autres">Consentement, vote : les autres outils</a></li><li><a href="#mandats">Déléguer sans se faire déposséder</a></li><li><a href="#affinites">Assemblée et groupes affinitaires</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=03d65ce2"></script>
+<script src="../assets/recherche.js?v=03d65ce2"></script>
+
+</body>
+</html>

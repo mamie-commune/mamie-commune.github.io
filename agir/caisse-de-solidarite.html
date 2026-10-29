@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Monter une caisse de solidarit&#233; — D&#39;apr&#232;s les caisses anti-r&#233;pression et les collectifs de gr&#232;ve &#183; Mamie Commune</title>
+<meta name="description" content="Caisse de gr&#232;ve, caisse anti-r&#233;pression, soutien &#224; une personne : trouver l&#39;argent, d&#233;cider &#224; qui il va, tenir des comptes clairs et prot&#233;ger les gens qu&#39;on aide.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=03d65ce2">
+<link rel="stylesheet" href="../assets/style.css?v=03d65ce2">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre">Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, zapatistes, Rojava</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser" data-ici>S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/" aria-current="page"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Agir ensemble</a><span>/</span><a href="./#monter-un-collectif">Monter un collectif</a></p>
+  <p class="eyebrow">La bande &#224; Mamie s&#39;organise</p>
+  <h1>Monter une caisse de solidarit&#233;</h1>
+  <p class="lead">Caisse de gr&#232;ve, caisse anti-r&#233;pression, soutien &#224; une personne : trouver l&#39;argent, d&#233;cider &#224; qui il va, tenir des comptes clairs et prot&#233;ger les gens qu&#39;on aide.</p>
+  <div class="gmeta"><span>Monter un collectif</span><span>D&#39;apr&#232;s les caisses anti-r&#233;pression et les collectifs de gr&#232;ve &#183; 2026</span><span>Fiche · 4 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>Mamie le dit souvent : la solidarité, ça se dit dans les slogans, mais ça se prouve en euros. Une amende à payer, un avocat, une semaine de grève sans salaire : une caisse commune permet que <strong>personne ne paie seul le prix de la lutte de tout le monde</strong>.</p>
+
+<h2 id="types">Quelle caisse ?</h2>
+<ul>
+<li><strong>La caisse de grève</strong> compense une partie des salaires perdus. C'est elle qui permet aux plus précaires de faire grève aussi longtemps que les autres.</li>
+<li><strong>La caisse anti-répression</strong> aide à payer les frais d'avocat, les amendes et les mandats aux personnes en prison, après une manif ou une action. Elle va souvent de pair avec une legal team. À Lyon, par exemple, la Caisse de solidarité tient une permanence, oriente vers des avocates et avocats de confiance et aide financièrement les personnes poursuivies, uniquement grâce aux dons.</li>
+<li><strong>La caisse pour une personne ou une famille</strong> : expulsion, accident, procès. Plus simple, mais elle s'arrête quand le besoin est couvert.</li>
+</ul>
+
+<h2 id="regles">Fixer les règles avant l'argent</h2>
+<p>Les caisses qui explosent sont celles où l'on décide au cas par cas, entre copains. Écris tes règles <strong>avant</strong> la première demande :</p>
+<ul>
+<li><strong>Qui peut demander</strong> : toute personne poursuivie pour une action du mouvement ? Seulement les grévistes d'une entreprise ?</li>
+<li><strong>Combien</strong> : selon les besoins, pas selon le mérite. Par exemple, une part fixe par jour de grève, majorée pour les personnes seules avec enfants ou les bas salaires.</li>
+<li><strong>Qui décide</strong> : l'AG, ou un petit groupe mandaté qui rend compte.</li>
+<li><strong>Pas de tri politique</strong> entre « bons » et « mauvais » manifestants : on ne se désolidarise pas des camarades poursuivis.</li>
+</ul>
+
+<h2 id="argent">Trouver l'argent</h2>
+<ul>
+<li><strong>Les cotisations</strong> régulières, même petites : 2 € par mois et par membre, c'est une caisse qui ne dépend pas des coups de cœur.</li>
+<li><strong>Les soirées de soutien</strong> : concert, cantine, projection, à prix libre. On récolte de l'argent et on se rencontre.</li>
+<li><strong>Les seaux et les boîtes</strong> en manif, en AG, devant l'usine.</li>
+<li><strong>Les cagnottes en ligne</strong> : pratiques, mais elles prennent parfois une commission ou demandent un « pourboire », et elles gardent les noms des personnes qui donnent. Lis bien les conditions.</li>
+<li><strong>Les syndicats et les autres collectifs</strong> : beaucoup ont une caisse et peuvent abonder la tienne.</li>
+</ul>
+
+<h2 id="comptes">Tenir des comptes clairs</h2>
+<ul>
+<li>Un <strong>cahier des comptes</strong> (papier ou tableur) : chaque entrée, chaque sortie, la date, le justificatif. Deux personnes au moins y ont accès.</li>
+<li>Un <strong>bilan régulier</strong> présenté en AG : combien est rentré, combien est sorti, combien il reste. Sans les noms des personnes aidées.</li>
+<li>Un <strong>compte en banque</strong> au nom du collectif suppose une association déclarée (voir la fiche <a href="monter-un-collectif">Monter un collectif</a>). Sinon, l'argent passe par le compte d'un membre : c'est fréquent, mais cette personne en porte la responsabilité, et il faut que tout le groupe le sache.</li>
+</ul>
+
+<h2 id="proteger">Protéger les gens qu'on aide</h2>
+<ul>
+<li><strong>Pas de nom dans les appels à dons</strong> sans l'accord de la personne et de son avocate ou son avocat : un appel public peut nuire à sa défense.</li>
+<li><strong>Pas de détails sur les faits</strong> reprochés. On parle de répression, pas de ce que la personne aurait fait ou non.</li>
+<li>Les listes de personnes aidées et de donateurs sont <strong>sensibles</strong> : garde-les au minimum, et pas sur un groupe de discussion ouvert.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../manif/legal-team">Legal Team : tes droits en manif et en garde à vue</a><span>La défense collective, et le rôle d'une caisse commune pour partager les frais.</span></li>
+<li><a href="monter-un-collectif">Monter un collectif</a><span>Association déclarée ou non : ce que ça change pour l'argent.</span></li>
+<li><a href="../carte">La carte des collectifs</a><span>Syndicats et groupes près de chez toi, qui ont souvent déjà une caisse.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://www.service-public.gouv.fr/associations/vosdroits/F1119" rel="noopener">Déclarer une association</a><span>Service-public.fr : la démarche pour avoir un compte au nom du collectif.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie à partir des pratiques des caisses de grève et des caisses anti-répression. Libre de reproduction.</p>
+
+  <nav class="gnext" aria-label="Pages voisines"><a href="monter-un-collectif"><small>← Précédent</small><b>Monter un collectif qui tient</b></a><a href="faire-un-tract"><small>Suivant →</small><b>Faire un tract qu&#39;on a envie de lire</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#types">Quelle caisse ?</a></li><li><a href="#regles">Fixer les règles avant l'argent</a></li><li><a href="#argent">Trouver l'argent</a></li><li><a href="#comptes">Tenir des comptes clairs</a></li><li><a href="#proteger">Protéger les gens qu'on aide</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=03d65ce2"></script>
+<script src="../assets/recherche.js?v=03d65ce2"></script>
+
+</body>
+</html>

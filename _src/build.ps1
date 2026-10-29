@@ -24,6 +24,7 @@ $familles = @(
     @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres libres en entier et fiches de lecture", "bibliotheque/|livres/|lecteur"),
     @("videos", "videos.html", "Vidéos", "Documentaires et vidéos de Mamie", "videos")) },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; dit = "Trouver les autres, agir ensemble"; rubriques = @(
+    @("agir", "agir/index.html", "Agir ensemble", "Tenir une AG, monter un collectif, tracts et affiches", "agir/"),
     @("carte", "carte.html", "Carte des collectifs", "Groupes, syndicats, librairies et lieux près de chez toi", "carte"),
     @("octobre", "mouvement-17-octobre.html", "Mouvement du 17 Octobre", "Où agir : les mobilisations, jour par jour", "mouvement-17-octobre"),
     @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, agir contre elle", "antifascisme/")) },
@@ -110,7 +111,7 @@ function Read-Collection($dir) {
 # La voix du site : Mamie et sa bande présentent chaque fiche (petite accroche au-dessus du titre, une par rubrique).
 $accroches = @{
   "guides" = "L'atelier de la bande à Mamie"; "bibliotheque" = "Mamie a lu pour toi"; "experiences" = "Mamie raconte"
-  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"
+  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"
 }
 function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
   $accroche = $accroches[$folder]
@@ -294,6 +295,10 @@ Build-Collection $antifa "antifascisme" "antifa" "Antifascisme" "Fiche" '<p clas
 $manif = @(Read-Collection "manif")   # @() : une seule fiche reste une liste
 Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace pas l''avis d''une avocate ou d''un avocat.</p>' "MANIF"
 
+# Agir ensemble : chaque catégorie des fiches de _src/agir/ devient une rubrique (Décider ensemble…).
+$agir = @(Read-Collection "agir")
+Build-Collection $agir "agir" "agir" "Agir ensemble" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>' "AGIR"
+
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).
 function Plain($html, $max) {
@@ -304,7 +309,7 @@ function Plain($html, $max) {
 }
 function Heads($html) { ([regex]::Matches($html, '<h[23][^>]*>(.*?)</h[23]>') | ForEach-Object { Plain $_.Groups[1].Value 200 }) -join ' · ' }
 $index = @()
-foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Révolutions"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"))) {
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Révolutions"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"))) {
   foreach ($g in $set[0]) {
     $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
   }
@@ -321,7 +326,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $body = $raw.Substring($m.Length)
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
-  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
   if ($f.BaseName -notin @("lecteur", "recherche", "404")) {

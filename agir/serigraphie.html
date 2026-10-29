@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>La s&#233;rigraphie &#224; la maison — D&#39;apr&#232;s les ateliers de s&#233;rigraphie associatifs &#183; Mamie Commune</title>
+<meta name="description" content="Imprimer soi-m&#234;me des affiches, des tee-shirts et des banderoles : le principe, le mat&#233;riel, trois fa&#231;ons de faire son &#233;cran, et les ateliers o&#249; apprendre.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=03d65ce2">
+<link rel="stylesheet" href="../assets/style.css?v=03d65ce2">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre">Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/"><b>R&#233;volutions</b><span>Commune, Makhno, Espagne 1936, zapatistes, Rojava</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser" data-ici>S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/" aria-current="page"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Agir ensemble</a><span>/</span><a href="./#faire-passer-le-message">Faire passer le message</a></p>
+  <p class="eyebrow">La bande &#224; Mamie s&#39;organise</p>
+  <h1>La s&#233;rigraphie &#224; la maison</h1>
+  <p class="lead">Imprimer soi-m&#234;me des affiches, des tee-shirts et des banderoles : le principe, le mat&#233;riel, trois fa&#231;ons de faire son &#233;cran, et les ateliers o&#249; apprendre.</p>
+  <div class="gmeta"><span>Faire passer le message</span><span>D&#39;apr&#232;s les ateliers de s&#233;rigraphie associatifs &#183; 2026</span><span>Fiche · 3 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>Avant les imprimantes, la bande à Mamie tirait ses affiches à la main. En Mai 68, l'Atelier populaire des Beaux-Arts de Paris en tirait par centaines en sérigraphie. La technique n'a pas changé, et elle reste <strong>la meilleure façon d'imprimer beaucoup, pas cher, sur presque tout</strong> : papier, tissu, carton, sacs.</p>
+
+<h2 id="principe">Le principe</h2>
+<p>On tend un tissu à mailles fines sur un cadre : c'est l'<strong>écran</strong>. On bouche les mailles partout, sauf là où l'on veut de l'encre. On pose l'écran sur le papier, on étale l'encre dessus avec une <strong>raclette</strong> : l'encre passe seulement à travers les trous, et le dessin apparaît. On recommence pour chaque feuille. Une couleur = un écran.</p>
+
+<h2 id="materiel">Le matériel</h2>
+<ul>
+<li><strong>Un cadre</strong> en bois ou en alu, avec un <strong>tissu de sérigraphie</strong> (polyester) bien tendu et agrafé. On en trouve tout faits dans les magasins de beaux-arts. Une maille assez ouverte convient pour le tissu, une plus fine pour le papier.</li>
+<li><strong>Une raclette</strong> un peu plus large que le dessin.</li>
+<li><strong>De l'encre à l'eau</strong>, pour papier ou pour textile : elle se nettoie à l'eau, sans solvant.</li>
+<li>Du scotch de masquage, du papier journal, des pinces à linge et une ficelle pour faire sécher.</li>
+</ul>
+
+<h2 id="ecran">Trois façons de faire son écran</h2>
+<h3>1. Le pochoir en papier (le plus simple)</h3>
+<p>Découpe ton dessin au cutter dans une feuille de papier fin. Pose-la sous l'écran : au premier passage, l'encre la colle au tissu. Ça tient une ou deux dizaines de tirages : parfait pour une affiche d'urgence ou un atelier avec des enfants.</p>
+<h3>2. Le dessin direct</h3>
+<p>Tu dessines au pinceau sur l'écran avec un <strong>fluide à dessiner</strong>, tu recouvres tout l'écran de <strong>bouche-pores</strong>, puis tu laves : le fluide part et laisse ton dessin ouvert. Pas besoin de lumière ni de chambre noire : idéal pour les lettrages faits main.</p>
+<h3>3. L'émulsion photosensible (le plus précis)</h3>
+<p>On enduit l'écran d'une émulsion sensible à la lumière, on pose dessus son dessin imprimé en noir sur un transparent, et on expose à une lampe : la lumière durcit l'émulsion partout, sauf sous le noir, qui part au rinçage. C'est ce qu'on fait dans les ateliers : ça permet des lettres fines et des photos tramées. Il faut un coin sombre et un peu d'entraînement.</p>
+
+<h2 id="tirer">Tirer</h2>
+<ol class="timeline">
+<li><b>1</b><span>Fixe le papier toujours au même endroit, avec des repères en scotch sur la table.</span></li>
+<li><b>2</b><span>Pose l'écran, verse un cordon d'encre en haut du dessin.</span></li>
+<li><b>3</b><span>Tire la raclette vers toi, inclinée, d'un seul geste ferme.</span></li>
+<li><b>4</b><span>Soulève l'écran, mets la feuille à sécher, recommence.</span></li>
+<li><b>5</b><span>Lave l'écran tout de suite après : l'encre sèche bouche les mailles pour de bon.</span></li>
+</ol>
+
+<h2 id="ateliers">Apprendre avec d'autres</h2>
+<p>Le plus simple est d'aller dans un <strong>atelier de sérigraphie associatif</strong> ou un lieu autogéré : beaucoup ont des écrans, une table d'insolation et des personnes qui transmettent, souvent à prix libre. Demande dans les librairies militantes et les lieux de la <a href="../carte">carte des collectifs</a>. Et une fois que tu sais faire : transmets à ton tour.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="faire-un-tract">Faire un tract</a><span>Le message, la mise en page et les mentions à mettre.</span></li>
+<li><a href="coller-des-affiches">Coller des affiches</a><span>Une fois les affiches tirées, les mettre au mur.</span></li>
+<li><a href="../carte">La carte des collectifs</a><span>Lieux autogérés et librairies où trouver un atelier.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://infokiosques.net/" rel="noopener">Infokiosques.net</a><span>Des centaines de brochures et affiches militantes à imprimer et diffuser.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>
+
+  <nav class="gnext" aria-label="Pages voisines"><a href="faire-un-tract"><small>← Précédent</small><b>Faire un tract qu&#39;on a envie de lire</b></a><a href="coller-des-affiches"><small>Suivant →</small><b>Coller des affiches</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#principe">Le principe</a></li><li><a href="#materiel">Le matériel</a></li><li><a href="#ecran">Trois façons de faire son écran</a></li><li><a href="#tirer">Tirer</a></li><li><a href="#ateliers">Apprendre avec d'autres</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">R&#233;volutions</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=03d65ce2"></script>
+<script src="../assets/recherche.js?v=03d65ce2"></script>
+
+</body>
+</html>

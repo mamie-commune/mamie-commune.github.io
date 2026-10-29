@@ -1,5 +1,5 @@
 === street-medic | Street medic | Street medics : le soin entre camarades | D'après Médic'Action, Désarmons-les et des collectifs autonomes · 2026 | Qui sont les street medics, d'où vient cette pratique, pourquoi le soin en manif est politique, et comment se former auprès des collectifs autonomes, anarchistes et queer.
-<p>En manif, quand la police gaze, tire ou charge, les secours officiels arrivent tard, ou pas du tout. Depuis plus de cinquante ans, des camarades s'organisent pour <strong>soigner les leurs</strong> : ce sont les <strong>street medics</strong>. Cette rubrique rassemble, avec nos mots, les conseils de plusieurs collectifs autonomes. Les fiches suivantes donnent les gestes concrets.</p>
+<p>Mamie a toujours eu du sérum phy au fond de son cabas. En manif, quand la police gaze, tire ou charge, les secours officiels arrivent tard, ou pas du tout. Alors depuis plus de cinquante ans, des camarades s'organisent pour <strong>soigner les leurs</strong> : ce sont les <strong>street medics</strong>. La bande à Mamie a rassemblé ici, avec ses mots, les conseils de plusieurs collectifs autonomes. Les fiches suivantes donnent les gestes concrets.</p>
 <div class="note"><p><strong>Ces fiches ne remplacent pas une formation.</strong> Les premiers secours s'apprennent avec les mains, sur un mannequin et avec d'autres personnes. Lis-les pour te préparer, puis va te former : c'est gratuit ou presque auprès des collectifs, et ça peut sauver une vie.</p></div>
 
 <h2 id="origines">D'où ça vient</h2>
@@ -58,10 +58,10 @@
 <li><a href="https://www.protection-civile.org/formations/" rel="noopener">Protection civile</a><span>Le PSC1 et d'autres formations.</span></li>
 </ul></section>
 </div>
-<p class="credit">Fiche rédigée par Mamie Commune d'après la brochure « Touxtes street-médics » de Médic'Action (2024), la brochure de Désarmons-les ! (2021), qui reprend Street Medics Paris, et les présentations des collectifs cités. Elle ne remplace pas une formation aux premiers secours.</p>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après la brochure « Touxtes street-médics » de Médic'Action (2024), la brochure de Désarmons-les ! (2021), qui reprend Street Medics Paris, et les présentations des collectifs cités. Elle ne remplace pas une formation aux premiers secours.</p>
 
 === se-preparer-soin | Street medic | Se préparer et se protéger | D'après Médic'Action et Street Medics Paris · 2026 | Avant de partir : ce qu'on met sur soi, ce qu'on évite, comment protéger ses yeux, ses poumons et sa tête, et la petite trousse de soin à glisser dans son sac.
-<p>La plupart des blessures se préviennent avant même la manif. Cette fiche dit quoi faire avant de partir, quoi porter, et quoi mettre dans une petite trousse pour soigner tes camarades et toi-même.</p>
+<p>« Un cortège, ça se prépare la veille », dit Mamie. La plupart des blessures se préviennent avant même la manif. Voilà ce que la bande fait avant de partir, ce qu'elle porte, et ce qu'elle glisse dans une petite trousse pour soigner les camarades et se soigner soi-même.</p>
 
 <h2 id="avant">La veille et le jour même</h2>
 <ul>
@@ -119,10 +119,10 @@
 <li><a href="https://riotmedicine.net/downloads" rel="noopener">Riot Medicine</a><span>En anglais : une liste de contrôle du matériel et un guide de poche.</span></li>
 </ul></section>
 </div>
-<p class="credit">Fiche rédigée par Mamie Commune d'après « Touxtes street-médics » de Médic'Action (2024) et la brochure de Désarmons-les ! (2021), qui reprend Street Medics Paris. Elle ne remplace pas une formation aux premiers secours.</p>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après « Touxtes street-médics » de Médic'Action (2024) et la brochure de Désarmons-les ! (2021), qui reprend Street Medics Paris. Elle ne remplace pas une formation aux premiers secours.</p>
 
 === soigner-en-manif | Street medic | Se soigner en manif : les gestes | D'après Médic'Action et Street Medics Paris · 2026 | Gaz lacrymogène, gazeuse à main, coups, tirs de LBD, plaies, brûlures, malaise, crise d'angoisse : les premiers gestes, et quand appeler les secours.
-<p>Les gestes de cette fiche viennent des collectifs street medics et des formations de premiers secours. Une règle avant tout : <strong>ne rien faire vaut mieux que faire n'importe quoi</strong>. Si tu ne sais pas, protège la personne, reste avec elle et appelle à l'aide.</p>
+<p>Les gestes de cette fiche viennent des collectifs street medics et des formations de premiers secours. Mamie n'en retient qu'une règle, qu'elle répète à toute sa bande : <strong>ne rien faire vaut mieux que faire n'importe quoi</strong>. Si tu ne sais pas, protège la personne, reste avec elle et appelle à l'aide.</p>
 
 <h2 id="principes">Avant tout geste</h2>
 <ol>
@@ -221,10 +221,10 @@
 <li><a href="https://riotmedicine.net/downloads" rel="noopener">Riot Medicine : Field Guide</a><span>En anglais : le guide de poche, symptôme par symptôme.</span></li>
 </ul></section>
 </div>
-<p class="credit">Fiche rédigée par Mamie Commune d'après « Touxtes street-médics » de Médic'Action (2024), la brochure de Désarmons-les ! (2021) et les gestes enseignés dans les formations de premiers secours. Elle ne remplace pas une formation, ni l'avis d'une personne soignante.</p>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après « Touxtes street-médics » de Médic'Action (2024), la brochure de Désarmons-les ! (2021) et les gestes enseignés dans les formations de premiers secours. Elle ne remplace pas une formation, ni l'avis d'une personne soignante.</p>
 
 === apres-la-manif | Street medic | Après la manif : soins, preuves et repos | D'après Médic'Action et Street Medics Paris · 2026 | Se décontaminer, faire constater ses blessures, garder des preuves, et prendre soin de sa tête et du groupe dans les jours qui suivent.
-<p>La manif ne s'arrête pas quand on rentre. Il faut se laver du gaz, faire soigner et constater les blessures, et prendre soin de sa tête. Ce qu'on a vu ou vécu peut laisser des traces.</p>
+<p>Chez Mamie, après la manif, on pose les sacs, on met la soupe à chauffer, et on se raconte. Parce que la manif ne s'arrête pas quand on rentre : il faut se laver du gaz, faire soigner et constater les blessures, et prendre soin de sa tête. Ce qu'on a vu ou vécu peut laisser des traces.</p>
 
 <h2 id="decontaminer">Se laver du gaz</h2>
 <ul>
@@ -263,4 +263,4 @@
 <li><a href="https://www.defenseurdesdroits.fr" rel="noopener">Le Défenseur des droits</a><span>Une autorité indépendante, gratuite, à saisir en cas de violence policière.</span></li>
 </ul></section>
 </div>
-<p class="credit">Fiche rédigée par Mamie Commune d'après « Touxtes street-médics » de Médic'Action (2024) et la brochure de Désarmons-les ! (2021). Elle ne remplace pas l'avis d'une personne soignante, ni celui d'une avocate ou d'un avocat.</p>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après « Touxtes street-médics » de Médic'Action (2024) et la brochure de Désarmons-les ! (2021). Elle ne remplace pas l'avis d'une personne soignante, ni celui d'une avocate ou d'un avocat.</p>

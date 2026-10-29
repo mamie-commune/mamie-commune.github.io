@@ -107,7 +107,13 @@ function Read-Collection($dir) {
   return $items
 }
 
+# La voix du site : Mamie et sa bande présentent chaque fiche (petite accroche au-dessus du titre, une par rubrique).
+$accroches = @{
+  "guides" = "L'atelier de la bande à Mamie"; "bibliotheque" = "Mamie a lu pour toi"; "experiences" = "Mamie raconte"
+  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"
+}
 function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
+  $accroche = $accroches[$folder]
   for ($i = 0; $i -lt $items.Count; $i++) {
     $g = $items[$i]
     $toc = ""
@@ -125,6 +131,7 @@ function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar)
     $body = @"
 <header class="gtitle"><div class="wrap">
   <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">$label</a><span>/</span><a href="index.html#$(Slug $g.cat)">$(Esc $g.cat)</a></p>
+  $(if ($accroche) { "<p class=""eyebrow"">$(Esc $accroche)</p>" })
   <h1>$(Esc $g.title)</h1>
   <p class="lead">$(Esc $g.sum)</p>
   <div class="gmeta">$meta</div>
@@ -148,7 +155,7 @@ $(if ($g.html -match 'class="credit"') { "" } else { $credit })
 }
 
 $guides = Read-Collection "guides"
-Build-Collection $guides "guides" "outils" "Outils numériques" "Guide" '<p class="credit">Guide rédigé par Mamie Commune d''après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>' "GUIDES"
+Build-Collection $guides "guides" "outils" "Outils numériques" "Guide" '<p class="credit">Guide rédigé par la bande à Mamie d''après les articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA). Cette adaptation est publiée sous la même licence : tu peux la copier, la modifier et la partager en citant la source.</p>' "GUIDES"
 
 # Titre de couverture en étiquettes noires, roses et crème.
 function Title-Tags($s) {
@@ -204,7 +211,7 @@ for ($i = 0; $i -lt $livres.Count; $i++) {
 <div class="wrap glayout">
   <article class="prose livre">
 $($l.doc.html)
-<p class="credit">Texte intégral, domaine public.$srcLine Mis en page par Mamie Commune d'après la Bibliothèque anarchiste.</p>
+<p class="credit">Texte intégral, domaine public.$srcLine Mis en page par la bande à Mamie d'après la Bibliothèque anarchiste.</p>
   <nav class="gnext" aria-label="Livres voisins">$nav2</nav>
   </article>
   <aside class="toc"><h2>Sommaire</h2><ol>$toc</ol></aside>
@@ -275,17 +282,17 @@ foreach ($b in $biblio) {
   elseif ($bloc) { $b.html += "`n<h2 id=""sources"">Sources et pour aller plus loin</h2>`n<div class=""ressources"">$bloc</div>" }
   if ($note) { $b.html = $b.html.Replace('<h2 id="sources">', "$note`n<h2 id=""sources"">") }
 }
-Build-Collection $biblio "bibliotheque" "bibliotheque" "Bibliothèque" "Fiche" '<p class="credit">Fiche de lecture rédigée par Mamie Commune d''après les textes de la Bibliothèque anarchiste francophone. Cette fiche est libre de reproduction.</p>' "BIBLIO"
+Build-Collection $biblio "bibliotheque" "bibliotheque" "Bibliothèque" "Fiche" '<p class="credit">Fiche de lecture rédigée par la bande à Mamie d''après les textes de la Bibliothèque anarchiste francophone. Cette fiche est libre de reproduction.</p>' "BIBLIO"
 
 $exp = Read-Collection "experiences"
-Build-Collection $exp "experiences" "luttes" "Révolutions" "Dossier" '<p class="credit">Dossier rédigé par Mamie Commune à partir de travaux d''historiennes et d''historiens et de textes des mouvements concernés. Libre de reproduction.</p>' "EXPERIENCES"
+Build-Collection $exp "experiences" "luttes" "Révolutions" "Dossier" '<p class="credit">Dossier rédigé par la bande à Mamie à partir de travaux d''historiennes et d''historiens et de textes des mouvements concernés. Libre de reproduction.</p>' "EXPERIENCES"
 
 $antifa = Read-Collection "antifascisme"
-Build-Collection $antifa "antifascisme" "antifa" "Antifascisme" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune d''après les ressources publiées par le site antifasciste La Horde. Les originaux (schéma, carte, livre) sont disponibles sur leur site.</p>' "ANTIFA"
+Build-Collection $antifa "antifascisme" "antifa" "Antifascisme" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie d''après les ressources publiées par le site antifasciste La Horde. Les originaux (schéma, carte, livre) sont disponibles sur leur site.</p>' "ANTIFA"
 
 # Guide de manif : chaque catégorie des fiches de _src/manif/ devient une rubrique (Legal Team…).
 $manif = @(Read-Collection "manif")   # @() : une seule fiche reste une liste
-Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="credit">Fiche rédigée par Mamie Commune. Elle ne remplace pas l''avis d''une avocate ou d''un avocat.</p>' "MANIF"
+Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace pas l''avis d''une avocate ou d''un avocat.</p>' "MANIF"
 
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).

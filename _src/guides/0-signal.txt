@@ -83,7 +83,7 @@
 <li><a href="android.html">Libérer un appareil Android</a> : un téléphone plus propre, sans Google.</li>
 <li><a href="../antifascisme/agir-antifasciste.html">Comment agir contre l'extrême droite</a> : la sécurité dans l'action.</li>
 </ul>
-<p class="credit">Guide rédigé par Mamie Commune. Les noms des menus peuvent changer légèrement d'une version de Signal à l'autre. Libre de reproduction en citant Mamie Commune.</p>
+<p class="credit">Guide rédigé par la bande à Mamie. Les noms des menus peuvent changer légèrement d'une version de Signal à l'autre. Libre de reproduction en citant Mamie Commune.</p>
 
 <h2 id="sources">Liens utiles et pour aller plus loin</h2>
 <div class="ressources">

@@ -84,7 +84,7 @@
 <a class="dl__item" href="modeles/3-manif-non-declaree.pdf" download><b>Modèle 3</b><span>Participation à une manifestation non déclarée : ce n'est pas une infraction</span><small>PDF · 2 pages</small></a>
 </div>
 <p>Remplace les passages surlignés en jaune, reformule avec tes mots, et joins ce qui prouve ce que tu dis (attestations sur l'honneur, photos, tickets de caisse…). Garde une copie de tout.</p>
-<p class="credit">Fiche rédigée par Mamie Commune d'après la brochure « Sortez couvert·es » (V7, septembre 2024) de la legal team de la Coordination contre la répression et les violences policières Paris IDF, membre du RAJCOL (rajcollective.noblogs.org). Modèles de lettres d'après les trames de la Legal Team Antiraciste. Ces documents ne remplacent pas l'avis d'une avocate ou d'un avocat.</p>
+<p class="credit">Fiche rédigée par la bande à Mamie d'après la brochure « Sortez couvert·es » (V7, septembre 2024) de la legal team de la Coordination contre la répression et les violences policières Paris IDF, membre du RAJCOL (rajcollective.noblogs.org). Modèles de lettres d'après les trames de la Legal Team Antiraciste. Ces documents ne remplacent pas l'avis d'une avocate ou d'un avocat.</p>
 
 <h2 id="sources">Sources et pour aller plus loin</h2>
 <div class="ressources">

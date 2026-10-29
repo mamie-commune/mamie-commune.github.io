@@ -40,12 +40,11 @@
     });
   }
 
-  // Thème clair ou sombre : par défaut celui du système ; le bouton le fixe, et le choix est gardé dans le navigateur.
+  // Thème clair ou sombre : clair par défaut ; le bouton bascule, et le choix est gardé dans le navigateur.
   const theme = document.getElementById("themeBtn");
   if (theme) {
     const html = document.documentElement;
-    const systeme = window.matchMedia("(prefers-color-scheme: dark)");
-    const sombre = () => html.dataset.theme ? html.dataset.theme === "dark" : systeme.matches;
+    const sombre = () => html.dataset.theme === "dark";
     const afficher = () => {
       const s = sombre();
       theme.querySelector("[aria-hidden]").textContent = s ? "☀" : "☾";
@@ -54,7 +53,6 @@
       theme.setAttribute("aria-label", theme.title);
     };
     afficher();
-    systeme.addEventListener("change", afficher);
     theme.addEventListener("click", () => {
       html.dataset.theme = sombre() ? "light" : "dark";
       try { localStorage.setItem("mamie-theme", html.dataset.theme); } catch (e) { /* navigation privée : tant pis */ }

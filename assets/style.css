@@ -36,8 +36,8 @@
   --foot-fg: #f6f0e3;
   color-scheme: light;
 }
-/* Mode sombre : papier kraft noirci, encre crème. Choisi par le bouton « Clair / Sombre » (html[data-theme]),
-   sinon réglage du système. Les bandes noires deviennent crème, les ombres restent noires. */
+/* Mode sombre : papier kraft noirci, encre crème. Activé seulement par le bouton « Clair / Sombre » (html[data-theme="dark"]) ;
+   le site est en clair par défaut. Les bandes noires deviennent crème, les ombres restent noires. */
 :root[data-theme="dark"] {
   --paper: #1b1816; --paper-2: #26221e; --paper-3: #2f2a25;
   --ink: #ece4d3; --ink-2: #d9cfbd; --muted: #b6ab9b; --line: #ece4d3; --fg: #ece4d3;
@@ -45,16 +45,6 @@
   --ink-rgb: 236,228,211; --shade-rgb: 0,0,0; --shadow: #000; --schema-pink: #5b2a42; --red-txt: #ff8a75;
   --foot-bg: #0e0c0b; --foot-fg: #ece4d3;
   color-scheme: dark;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --paper: #1b1816; --paper-2: #26221e; --paper-3: #2f2a25;
-    --ink: #ece4d3; --ink-2: #d9cfbd; --muted: #b6ab9b; --line: #ece4d3; --fg: #ece4d3;
-    --red-deep: #4f1a12; --panel: #26221e; --panel-2: #2e2924;
-    --ink-rgb: 236,228,211; --shade-rgb: 0,0,0; --shadow: #000; --schema-pink: #5b2a42; --red-txt: #ff8a75;
-    --foot-bg: #0e0c0b; --foot-fg: #ece4d3;
-    color-scheme: dark;
-  }
 }
 
 * { box-sizing: border-box; }
@@ -751,7 +741,6 @@ html.facile {
 
 /* Mode sombre : fond de carte assombri (les repères de couleur restent intacts). */
 :root[data-theme="dark"] .leaflet-tile-pane { filter: invert(.92) hue-rotate(180deg) brightness(.9) contrast(.9); }
-@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .leaflet-tile-pane { filter: invert(.92) hue-rotate(180deg) brightness(.9) contrast(.9); } }
 .theme-btn span[aria-hidden] { font-family: var(--body); }
 @media (max-width: 420px) {
   .search__in { gap: 6px; }

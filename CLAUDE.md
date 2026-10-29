@@ -176,7 +176,7 @@ Tout le site se range en trois familles, définies **une seule fois** dans `_src
 
 ## Mode sombre
 
-Bouton « ☾ Sombre / ☀ Clair » dans la barre de recherche (`#themeBtn`, code dans `assets/site.js`). Par défaut le site suit le réglage du système ; le choix du bouton est gardé dans le navigateur (`localStorage` `mamie-theme`) et appliqué avant l'affichage par le petit script dans `<head>` de `_src/layout.html` (`html[data-theme="dark"|"light"]`). Les couleurs sombres sont dans `:root[data-theme="dark"]` et dans le bloc `@media (prefers-color-scheme: dark)` de `assets/style.css` (garder les deux identiques).
+Bouton « ☾ Sombre / ☀ Clair » dans la barre de recherche (`#themeBtn`, code dans `assets/site.js`). Le site est en **mode clair par défaut** (demande expresse), même si le système est en sombre ; le choix du bouton est gardé dans le navigateur (`localStorage` `mamie-theme`) et appliqué avant l'affichage par le petit script dans `<head>` de `_src/layout.html` (`html[data-theme="dark"|"light"]`). Les couleurs sombres sont dans `:root[data-theme="dark"]` de `assets/style.css`.
 
 Règles pour toute nouvelle couleur dans le CSS :
 - texte et bordures : `var(--ink)` (s'inverse en sombre) ; fonds : `var(--paper)`, `var(--paper-2)`, `var(--panel-2)` ;

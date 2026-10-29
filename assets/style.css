@@ -753,3 +753,7 @@ html.facile {
   .facile-btn { padding: 0 8px; }
 }
 .vnote { margin: 0; font: 400 14px/1.5 var(--mono); color: var(--muted); }
+/* Page technique « Connecter TikTok » */
+.ttform { display: grid; gap: 8px; max-width: 480px; margin-top: 12px; }
+.ttform label { font: 400 14px/1.2 var(--display); text-transform: uppercase; }
+.ttform input { height: 44px; padding: 0 12px; border: 2px solid var(--ink); background: var(--panel-2); color: var(--ink); font: 400 16px var(--mono); }

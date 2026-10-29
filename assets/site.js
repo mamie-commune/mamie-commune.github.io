@@ -117,7 +117,7 @@
   });
 
   let dialog;
-  function player({ title, embed, file, secours, link }) {
+  function player({ title, embed, file, secours, link, linkLabel, vertical }) {
     if (!dialog) {
       dialog = document.createElement("dialog");
       dialog.className = "player";
@@ -140,7 +140,8 @@
       if (secours && v.src !== secours) { v.src = secours; v.play().catch(() => {}); return; }
       dialog.querySelector(".player__screen").innerHTML = '<p class="player__msg">Le film ne se charge pas pour l\'instant. Réessaie dans un moment.</p>';
     });
-    dialog.querySelector(".player__foot").innerHTML = link ? `<a href="${esc(link)}" target="_blank" rel="noopener">Ouvrir sur YouTube ↗</a>` : "";
+    dialog.classList.toggle("player--vertical", !!vertical);
+    dialog.querySelector(".player__foot").innerHTML = link ? `<a href="${esc(link)}" target="_blank" rel="noopener">${esc(linkLabel || "Ouvrir sur YouTube ↗")}</a>` : "";
     document.documentElement.classList.add("has-player");
     dialog.showModal();
     dialog.querySelector(".player__close").focus();

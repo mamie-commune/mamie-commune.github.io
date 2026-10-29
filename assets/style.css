@@ -753,3 +753,9 @@ html.facile {
   .facile-btn { padding: 0 8px; }
 }
 .vnote { margin: 0; font: 400 14px/1.5 var(--mono); color: var(--muted); }
+
+/* Liens vers les comptes de Mamie (pied de page) : étiquettes noires et roses */
+.foot__social { display: flex; flex-wrap: wrap; gap: 10px; margin: 18px 0 0; }
+.foot__social a { font: 400 14px/1 var(--display); text-transform: uppercase; text-decoration: none; padding: 8px 11px 7px; background: var(--pink); color: var(--on-color); box-shadow: 3px 3px 0 rgba(0,0,0,.45); }
+.foot__social a + a { background: var(--foot-fg); color: var(--foot-bg); }
+.foot__social a:hover, .foot__social a:focus-visible { background: var(--red-hi); color: var(--on-dark); }

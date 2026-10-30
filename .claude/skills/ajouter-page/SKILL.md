@@ -1,6 +1,6 @@
 ---
 name: ajouter-page
-description: Écrit ou modifie une page de contenu du site Mamie Commune : fiche de lecture (Bibliothèque), dossier Révolutions, page Antifascisme ou guide Outils numériques. À utiliser quand la personne demande une nouvelle fiche, un nouveau dossier, ou une correction de texte.
+description: Écrit ou modifie une page de contenu du site Mamie Commune : fiche de lecture (Bibliothèque), dossier Histoires de luttes, page Antifascisme ou guide Outils numériques. À utiliser quand la personne demande une nouvelle fiche, un nouveau dossier, ou une correction de texte.
 argument-hint: <sujet de la page>
 ---
 

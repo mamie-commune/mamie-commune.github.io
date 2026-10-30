@@ -117,7 +117,7 @@
 <li><a href="commune-de-paris-kropotkine.html">La Commune de Paris</a><span>Notre fiche : les erreurs de 1871 selon Kropotkine.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
-<li><a href="../experiences/index.html">Nos dossiers Révolutions</a><span>Ce qui s'est passé quand des peuples ont essayé.</span></li>
+<li><a href="../experiences/index.html">Nos dossiers Histoires de luttes</a><span>Ce qui s'est passé quand des peuples ont essayé.</span></li>
 </ul></section>
 </div>
 

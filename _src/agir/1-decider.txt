@@ -163,7 +163,7 @@
 </ul></section>
 <section><h3>Lire aussi</h3><ul>
 <li><a href="tenir-une-ag.html">Tenir une AG</a><span>Les rôles, les tours de parole, les signes de la main.</span></li>
-<li><a href="../experiences/index.html">Révolutions</a><span>Conseils, assemblées, collectivités : comment d'autres se sont organisés avant nous.</span></li>
+<li><a href="../experiences/index.html">Histoires de luttes</a><span>Conseils, assemblées, collectivités : comment d'autres se sont organisés avant nous.</span></li>
 </ul></section>
 </div>
 <p class="credit">Fiche rédigée par la bande à Mamie d'après Seeds for Change, Jo Freeman et A. G. Schwarz. Libre de reproduction.</p>

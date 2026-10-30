@@ -29,7 +29,7 @@ La publication sur GitHub (`.github/workflows/publier.yml`) **régénère toutes
 powershell -NoProfile -ExecutionPolicy Bypass -File _src/build.ps1
 ```
 
-Le script affiche par exemple `OK : 9 guides, 107 fiches, 37 livres et 33 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
+Le script affiche par exemple `OK : 9 guides, 107 fiches, 37 livres et 31 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
 
 ## Où se trouve quoi
 
@@ -37,7 +37,7 @@ Le script affiche par exemple `OK : 9 guides, 107 fiches, 37 livres et 33 pages 
 |---|---|---|
 | L'en-tête, le menu, le pied de page | `_src/layout.html` (menu : liste `$navItems` dans `_src/build.ps1`) | oui |
 | L'accueil et les pages d'index | `_src/pages/*.html` (`index.html`, `carte.html`, `videos.html`, `mentions-legales.html`, `recherche.html`, `404.html` (page introuvable), `lecteur.html`, et `guides.html` / `bibliotheque.html` / `experiences.html` / `antifascisme.html` qui deviennent les `index.html` des dossiers) | oui |
-| Un dossier Révolutions (Commune, Makhno, Espagne 1936, Black Panthers, Mai 68, zapatistes, ZAD, Rojava, Gilets jaunes). L'ordre des fichiers suit la chronologie (`0z-makhno`, `1z1-panthers`, `2z-zad`… : PowerShell trie les noms en ignorant les tirets) | `_src/experiences/*.txt` | oui |
+| Un dossier Histoires de luttes, ancienne rubrique « Révolutions », adresses en `experiences/` (Commune, Makhno, Espagne 1936, Black Panthers, Mai 68, Stonewall et FHAR, MLAC, zapatistes, ZAD, Rojava, Gilets jaunes). L'ordre des fichiers suit la chronologie (`0z-makhno`, `1z1-panthers`, `2z-zad`… : PowerShell trie les noms en ignorant les tirets) | `_src/experiences/*.txt` | oui |
 | Une page Antifascisme | `_src/antifascisme/*.txt` | oui |
 | Une fiche du Guide de manif | `_src/manif/*.txt`. La **catégorie** de la fiche est sa sous-rubrique (« Legal Team »…) : pour une **nouvelle sous-rubrique** (premiers secours, préparation, après la manif…), créer un fichier `_src/manif/2-nom.txt` avec une nouvelle catégorie, le filtre apparaît tout seul. Toujours préciser le pays quand c'est du droit (la fiche Legal Team est du droit **français**). Les modèles de lettres pour contester un PV sont dans `_src/textes/modeles-pv/` ; les PDF (`manif/modeles/`) se refont avec `powershell -ExecutionPolicy Bypass -File _src/modeles-pv.ps1` (Windows + Edge, en local) | oui |
 | Une fiche Agir ensemble (AG, collectif, caisse, tract, affiches) | `_src/agir/*.txt` (la catégorie = la sous-rubrique : « Décider ensemble », « Monter un collectif », « Faire passer le message ») ; page d'index `_src/pages/agir.html` | oui |
@@ -64,7 +64,7 @@ Page `mouvement-17-octobre` (source `_src/pages/mouvement-17-octobre.html`, scri
 
 ## Images des dossiers
 
-Les photos des dossiers Révolutions sont dans `assets/img/revolutions/`, avec auteur, licence et source dans `credits.txt`. Elles viennent toutes de **Wikimedia Commons** : documents d'époque dans le domaine public, ou photos de reportage sous licence libre (CC0, CC BY, CC BY-SA). **Jamais d'image générée par IA, ni de photo colorisée** (demande expresse). Chaque image a une légende et un crédit (auteur · licence · lien Commons) : `<figure class="photo">` (`photo photo--portrait` pour une image en hauteur). Pour en ajouter : compléter la liste dans `_src/images-revolutions.ps1` et le relancer.
+Les photos des dossiers Histoires de luttes sont dans `assets/img/revolutions/`, avec auteur, licence et source dans `credits.txt`. Elles viennent toutes de **Wikimedia Commons** : documents d'époque dans le domaine public, ou photos de reportage sous licence libre (CC0, CC BY, CC BY-SA). **Jamais d'image générée par IA, ni de photo colorisée** (demande expresse). Chaque image a une légende et un crédit (auteur · licence · lien Commons) : `<figure class="photo">` (`photo photo--portrait` pour une image en hauteur). Pour en ajouter : compléter la liste dans `_src/images-revolutions.ps1` et le relancer.
 
 ## Format des pages (`_src/experiences`, `_src/antifascisme`, `_src/bibliotheque`, `_src/guides`)
 
@@ -160,7 +160,7 @@ Accessibilité : un seul `<h1>` par page et pas de saut de niveau de titre ; tex
 
 ## Organisation du site : trois familles
 
-Tout le site se range en trois familles, définies **une seule fois** dans `_src/build.ps1` (`$familles`) : **Apprendre** (Révolutions, Bibliothèque, Vidéos), **S''organiser** (Agir ensemble, Carte des collectifs, Mouvement du 17 Octobre, Antifascisme), **Se défendre** (Guide de manif, Outils numériques). Le menu (une entrée par famille qui déplie ses rubriques), le pied de page (`{{PIED}}`), l''accueil (`{{FAMILLES}}`) et la recherche (champ `f` de `data/recherche.js`, sélecteur « Chercher dans ») en découlent. Couleurs : Apprendre jaune, S''organiser rose, Se défendre rouge (classes `fam--apprendre`, `fam--organiser`, `fam--defendre`). Pour une nouvelle rubrique : l''ajouter dans `` avec sa clé de menu, son adresse, son nom, une description courte et le début de ses adresses.
+Tout le site se range en trois familles, définies **une seule fois** dans `_src/build.ps1` (`$familles`) : **Apprendre** (Histoires de luttes, Bibliothèque, Vidéos), **S''organiser** (Agir ensemble, Carte des collectifs, Mouvement du 17 Octobre, Antifascisme), **Se défendre** (Guide de manif, Outils numériques). Le menu (une entrée par famille qui déplie ses rubriques), le pied de page (`{{PIED}}`), l''accueil (`{{FAMILLES}}`) et la recherche (champ `f` de `data/recherche.js`, sélecteur « Chercher dans ») en découlent. Couleurs : Apprendre jaune, S''organiser rose, Se défendre rouge (classes `fam--apprendre`, `fam--organiser`, `fam--defendre`). Pour une nouvelle rubrique : l''ajouter dans `` avec sa clé de menu, son adresse, son nom, une description courte et le début de ses adresses.
 
 ## Droits et sources
 

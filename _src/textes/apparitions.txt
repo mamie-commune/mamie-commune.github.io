@@ -164,6 +164,4 @@ experiences/stonewall-fhar-histoire.html=2026-10-30T00:22
 experiences/stonewall-fhar-debats.html=2026-10-30T00:22
 experiences/mlac-histoire.html=2026-10-30T00:22
 experiences/mlac-debats.html=2026-10-30T00:22
-experiences/lyon-1975-histoire.html=2026-10-30T00:22
-experiences/lyon-1975-debats.html=2026-10-30T00:22
 agir/accueillir-personnes-trans.html=2026-10-30T00:22

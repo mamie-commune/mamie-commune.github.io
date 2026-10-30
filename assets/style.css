@@ -768,3 +768,14 @@ html.facile {
 .parcours .rubrique:nth-child(1) .rubrique__n { background: var(--pink); color: var(--on-color); }
 @media (min-width: 1100px) { .steps { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
 .parcours .rubrique:nth-child(2) .rubrique__n { background: var(--ink); color: var(--paper-2); }
+
+/* Accueil : « Nouveau dans la boîte », une grille régulière de 6 étiquettes (3 × 2, puis 2 × 3, puis 1 colonne). */
+.neuf { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
+.neuf a { display: flex; flex-direction: column; gap: 8px; height: 100%; padding: 16px 18px 18px; background: var(--paper-2); color: var(--ink); text-decoration: none; border-left: 6px solid var(--red); box-shadow: 4px 4px 0 var(--shadow); transition: transform .15s, background .15s; }
+.neuf li:nth-child(3n+2) a { border-left-color: var(--pink); }
+.neuf li:nth-child(3n) a { border-left-color: var(--ink); }
+.neuf a:hover, .neuf a:focus-visible { background: var(--panel-2); transform: translateY(-2px); }
+.neuf__k { align-self: flex-start; font: 400 12px/1 var(--display); text-transform: uppercase; background: var(--ink); color: var(--paper-2); padding: 4px 7px; }
+.neuf b { font: 400 18px/1.25 var(--display); }
+@media (max-width: 900px) { .neuf { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 560px) { .neuf { grid-template-columns: 1fr; } }

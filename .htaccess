@@ -14,6 +14,7 @@ DirectoryIndex index.html
   # Anciennes adresses : l'ancienne page « Partage de données » est remplacée par le guide Signal.
   RewriteRule ^partage(\.html)?$ /guides/signal [L,R=301]
   RewriteRule ^manif/legal-team-belgique(\.html)?$ /manif/legal-team [L,R=301]
+  RewriteRule ^experiences/lyon-1975-(histoire|debats)(\.html)?$ /experiences/ [L,R=301]
   # Guides retirés (octobre 2026) : renvoi vers la liste des guides.
   RewriteRule ^guides/(distribution-gnu-linux|manuel-mint|personnaliser-mint|depannage-mises-a-jour|mises-a-jour|raccourcis-clavier|raccourcis-clavier-detail|linux-pour-debutants|deja-linux|pourquoi-changer|liberer-windows|acheter-un-ordinateur|obtenir-de-l-aide|fin-de-windows-10|youtube-sans-pub|quitter-facebook|blokada|libreoffice|choisir-un-service|ressources-associations|flux-rss)(\.html)?$ /guides/ [L,R=301]
 

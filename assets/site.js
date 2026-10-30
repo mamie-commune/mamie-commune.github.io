@@ -103,7 +103,7 @@
 
   /* ---------- lecteur vidéo en grand (fenêtre collage) ----------
      Cartes YouTube : <div class="yt__screen" data-yt="identifiant"> avec un bouton .yt__cover dedans.
-     Affiches de documentaires : <button class="doc__poster" data-embed="adresse d'intégration"> ou data-src="fichier .mp4".
+     Affiches de documentaires : <button class="doc__poster" data-embed="adresse d'intégration"> ou data-src="fichier .mp4" ; épisodes d'une série : <button class="doc__ep" data-src="…">.
      Rien n'est chargé depuis YouTube avant le clic ; les miniatures sont hébergées ici (assets/yt/<id>.jpg). */
   const ROOT = new URL("..", document.currentScript.src).href;
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -149,7 +149,7 @@
   window.mamiePlayer = player;
 
   document.addEventListener("click", (e) => {
-    const cover = e.target.closest(".yt__cover"), poster = e.target.closest(".doc__poster");
+    const cover = e.target.closest(".yt__cover"), poster = e.target.closest(".doc__poster, button.doc__ep");
     const label = (el) => (el.getAttribute("aria-label") || "Vidéo").replace(/^Regarder (le film )?/, "").replace(/^« (.*) »/, "$1").replace(/\s*\([^)]*\)$/, "");
     if (cover) {
       const id = cover.parentElement.dataset.yt;

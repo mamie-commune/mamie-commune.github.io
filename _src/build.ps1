@@ -20,7 +20,7 @@ $layout = Read-Utf8 (Join-Path $src "layout.html")
 # Rubrique : clé de menu (3e champ de l'en-tête des pages), adresse, nom, description courte, début des adresses de ses pages.
 $familles = @(
   [ordered]@{ id = "apprendre"; nom = "Apprendre"; dit = "Comprendre d'où l'on vient"; rubriques = @(
-    @("luttes", "experiences/index.html", "Révolutions", "Commune, Makhno, Espagne 1936, Panthers, Mai 68, ZAD…", "experiences/"),
+    @("luttes", "experiences/index.html", "Révolutions", "Commune, Makhno, Espagne 1936, Mai 68, ZAD, Gilets jaunes…", "experiences/"),
     @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres libres en entier et fiches de lecture", "bibliotheque/|livres/|lecteur"),
     @("videos", "videos.html", "Vidéos", "Documentaires et vidéos de Mamie", "videos")) },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; dit = "Trouver les autres, agir ensemble"; rubriques = @(

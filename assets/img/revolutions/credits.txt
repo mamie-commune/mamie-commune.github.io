@@ -34,3 +34,8 @@ zad-manif-2012 | 1200 x 2136 | KoS | CC BY-SA 3.0 | https://commons.wikimedia.or
 zad-phare-rolandiere | 1200 x 900 | Maxime Lathuilière | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Phare_de_la_Rolandi%C3%A8re_depuis_le_balcon.jpg
 zad-bibliotheque-taslu | 1200 x 900 | Maxime Lathuilière | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Biblioth%C3%A8que_du_Taslu.jpg
 zad-cabane-detruite | 1200 x 900 | Maxime Lathuilière | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Cabane_d%C3%A9truite_dans_le_bois_de_Rohanne.jpg
+gj-bastille-2018 | 1200 x 900 | Jean-Paul Corlin | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Manifestation_de_gilets_jaunes_place_de_la_Bastille_(Paris)_en_2018.jpg
+gj-cabane-necker | 1200 x 800 | Touam | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:La_cabane_des_Gilets_jaunes_au_rond-point_Necker_%C3%A0_Saint-%C3%89tienne.jpg
+gj-ag-villeneuve | 1200 x 591 | François GOGLINS | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Villeneuve-la-Guyard-FR-89-AG_Gilets_Jaunes_29-11-18-a1.jpg
+gj-commercy-2019 | 1200 x 801 | G.Garitan | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Gilets_jaunes_commercy_80151.jpg
+gj-cabane-meons | 1200 x 800 | Touam | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Reconstruction_de_la_cabane_des_Gilets_jaunes_au_rond-point_de_M%C3%A9ons_%C3%A0_Saint-%C3%89tienne.jpg

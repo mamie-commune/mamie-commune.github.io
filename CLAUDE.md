@@ -29,7 +29,7 @@ La publication sur GitHub (`.github/workflows/publier.yml`) **régénère toutes
 powershell -NoProfile -ExecutionPolicy Bypass -File _src/build.ps1
 ```
 
-Le script affiche par exemple `OK : 9 guides, 106 fiches, 37 livres et 24 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
+Le script affiche par exemple `OK : 9 guides, 106 fiches, 37 livres et 27 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
 
 ## Où se trouve quoi
 
@@ -37,7 +37,7 @@ Le script affiche par exemple `OK : 9 guides, 106 fiches, 37 livres et 24 pages 
 |---|---|---|
 | L'en-tête, le menu, le pied de page | `_src/layout.html` (menu : liste `$navItems` dans `_src/build.ps1`) | oui |
 | L'accueil et les pages d'index | `_src/pages/*.html` (`index.html`, `carte.html`, `videos.html`, `mentions-legales.html`, `recherche.html`, `404.html` (page introuvable), `lecteur.html`, et `guides.html` / `bibliotheque.html` / `experiences.html` / `antifascisme.html` qui deviennent les `index.html` des dossiers) | oui |
-| Un dossier Révolutions (Commune, Makhno, Espagne 1936, Black Panthers, Mai 68, zapatistes, ZAD, Rojava). L'ordre des fichiers suit la chronologie (`0z-makhno`, `1z1-panthers`, `2z-zad`… : PowerShell trie les noms en ignorant les tirets) | `_src/experiences/*.txt` | oui |
+| Un dossier Révolutions (Commune, Makhno, Espagne 1936, Black Panthers, Mai 68, zapatistes, ZAD, Rojava, Gilets jaunes). L'ordre des fichiers suit la chronologie (`0z-makhno`, `1z1-panthers`, `2z-zad`… : PowerShell trie les noms en ignorant les tirets) | `_src/experiences/*.txt` | oui |
 | Une page Antifascisme | `_src/antifascisme/*.txt` | oui |
 | Une fiche du Guide de manif | `_src/manif/*.txt`. La **catégorie** de la fiche est sa sous-rubrique (« Legal Team »…) : pour une **nouvelle sous-rubrique** (premiers secours, préparation, après la manif…), créer un fichier `_src/manif/2-nom.txt` avec une nouvelle catégorie, le filtre apparaît tout seul. Toujours préciser le pays quand c'est du droit (la fiche Legal Team est du droit **français**). Les modèles de lettres pour contester un PV sont dans `_src/textes/modeles-pv/` ; les PDF (`manif/modeles/`) se refont avec `powershell -ExecutionPolicy Bypass -File _src/modeles-pv.ps1` (Windows + Edge, en local) | oui |
 | Une fiche Agir ensemble (AG, collectif, caisse, tract, affiches) | `_src/agir/*.txt` (la catégorie = la sous-rubrique : « Décider ensemble », « Monter un collectif », « Faire passer le message ») ; page d'index `_src/pages/agir.html` | oui |

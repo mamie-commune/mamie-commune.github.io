@@ -1,0 +1,220 @@
+=== gilets-jaunes-histoire | Gilets jaunes | Les Gilets jaunes : la France des ronds-points se soulève | France · 2018-2019 | Parti d'une colère contre le prix de l'essence, le mouvement occupe des milliers de ronds-points, défile chaque samedi, fait reculer le gouvernement, et subit une répression sans équivalent depuis des décennies.
+<p>Mamie n'aurait jamais cru voir ça : des gens qui n'avaient jamais manifesté de leur vie, aides-soignantes, artisans, retraitées, intérimaires, mères seules, plantés jour et nuit sur des ronds-points de zones commerciales, autour d'un brasero. Pas de syndicat, pas de parti, pas de chef. <strong>Les Gilets jaunes ont été le plus grand mouvement d'auto-organisation populaire en France depuis Mai 68</strong>, et l'un des plus réprimés.</p>
+<div class="note"><p>Ce dossier raconte le mouvement d'un point de vue libertaire : ce qu'il a eu d'autonome et de neuf, mais aussi ses ambiguïtés, que les anarchistes ont beaucoup discutées. Le mouvement n'était pas anarchiste, et ne s'en est jamais réclamé.</p></div>
+
+<h2 id="origines">Le prix de l'essence, et tout le reste</h2>
+<p>En 2018, le gouvernement d'Emmanuel Macron augmente les taxes sur les carburants au nom de la transition écologique. La même année, il a supprimé l'impôt sur la fortune. Pour des millions de gens qui vivent loin des centres-villes, sans transports en commun, la voiture est indispensable pour aller travailler, faire les courses, emmener les enfants. Chaque plein devient une humiliation.</p>
+<ul>
+<li>En <strong>mai 2018</strong>, Priscillia Ludosky lance une pétition en ligne pour la baisse des prix du carburant. Elle recueillera plus d'un million de signatures.</li>
+<li>À l'automne, des vidéos de colère circulent sur Facebook. Un chauffeur routier, Éric Drouet, appelle à bloquer le pays le <strong>17 novembre</strong>.</li>
+<li>Le signe de ralliement s'impose tout seul : le <strong>gilet jaune</strong> que chaque automobiliste doit avoir dans sa voiture.</li>
+</ul>
+
+<h2 id="17-novembre">17 novembre 2018 : l'acte I</h2>
+<p>Ce samedi-là, selon le ministère de l'Intérieur, près de 290 000 personnes occupent plus de 3 000 lieux : ronds-points, péages, entrées de zones commerciales, dépôts de carburant. Personne ne les a organisés d'en haut. Beaucoup restent : les <strong>ronds-points</strong> deviennent des campements, avec des cabanes en palettes, des braseros, des tables, des cantines. On y passe Noël.</p>
+<figure class="photo"><img src="../assets/img/revolutions/gj-bastille-2018.jpg" alt="Des manifestants en gilet jaune place de la Bastille à Paris, le 17 novembre 2018." width="1200" height="900" loading="lazy"><figcaption>Place de la Bastille, à Paris, le 17 novembre 2018 : le premier samedi. <small>Jean-Paul Corlin · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Manifestation_de_gilets_jaunes_place_de_la_Bastille_(Paris)_en_2018.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="samedis">Les samedis</h2>
+<p>Chaque samedi devient un « acte ». Les Gilets jaunes ne déclarent pas leurs parcours, montent sur les Champs-Élysées, les beaux quartiers, les centres-villes, là où l'on ne manifeste jamais. Le <strong>1er décembre</strong>, l'acte III tourne à l'émeute à Paris, jusqu'à l'Arc de Triomphe ; au Puy-en-Velay, la préfecture est incendiée. Le pouvoir prend peur.</p>
+
+<h2 id="recul">Le gouvernement recule</h2>
+<ul>
+<li>Le <strong>4 décembre</strong>, le Premier ministre suspend la hausse des taxes sur les carburants ; le lendemain, elle est retirée du budget 2019.</li>
+<li>Le <strong>10 décembre</strong>, Emmanuel Macron annonce à la télévision 100 € de plus par mois au niveau du SMIC (en réalité surtout par la prime d'activité), des heures supplémentaires sans impôts, et l'annulation de la hausse de la CSG pour les petites retraites. Il refuse de rétablir l'impôt sur la fortune.</li>
+<li>Puis il lance le <strong>« grand débat national »</strong>, de mi-décembre 2018 à mi-mars 2019 : des réunions encadrées par les maires et le gouvernement, pour reprendre la main sur la parole.</li>
+</ul>
+<p>Pour la première fois depuis longtemps, un mouvement social obtenait quelque chose. Mais il ne demandait plus seulement de l'argent : il demandait de pouvoir décider.</p>
+
+<h2 id="repression">La répression</h2>
+<p>Le mouvement a affronté une répression d'une ampleur rare dans l'histoire récente des manifestations en France.</p>
+<ul>
+<li>À Marseille, le 1er décembre 2018, <strong>Zineb Redouane</strong>, 80 ans, est touchée au visage par une grenade lacrymogène alors qu'elle ferme ses volets, au quatrième étage. Elle meurt le lendemain. Le policier qui a tiré a été identifié, mais n'a pas été sanctionné.</li>
+<li>Selon le recensement du journaliste <strong>David Dufresne</strong>, à la mi-avril 2019, on compte déjà plus de 600 blessés, dont <strong>23 personnes éborgnées</strong> et <strong>5 mains arrachées</strong>, par des tirs de lanceurs de balles de défense (LBD) et des grenades explosives.</li>
+<li>Entre novembre 2018 et novembre 2019 : plus de 12 000 interpellations, plus de 10 000 gardes à vue, environ 3 100 condamnations, dont 400 peines de prison ferme avec incarcération immédiate.</li>
+<li>En avril 2019, une loi dite « anticasseurs » renforce les interdictions de manifester et punit le fait de se couvrir le visage.</li>
+</ul>
+<p>C'est dans ces cortèges que les <strong>street medics</strong> et les <strong>legal teams</strong> se sont multipliés partout en France (voir le <a href="../manif/index.html">Guide de manif</a>).</p>
+
+<h2 id="fin">L'essoufflement</h2>
+<p>Au printemps 2019, les cortèges diminuent. Les ronds-points sont évacués un à un, les cabanes détruites. Les plus tenaces continuent : assemblées, manifestations, présence dans les grèves contre la réforme des retraites de l'hiver 2019-2020. Les confinements de 2020 mettent le mouvement à l'arrêt. Il n'a jamais tout à fait disparu.</p>
+
+<h2 id="chronologie">Chronologie</h2>
+<ol class="timeline">
+<li><b>Mai 2018</b><span>Pétition de Priscillia Ludosky contre le prix des carburants.</span></li>
+<li><b>17 nov. 2018</b><span>Acte I : des milliers de ronds-points et de blocages.</span></li>
+<li><b>Fin nov. 2018</b><span>Appel des Gilets jaunes de Commercy à former des assemblées populaires.</span></li>
+<li><b>1er déc. 2018</b><span>Acte III : émeutes à Paris ; Zineb Redouane blessée à Marseille, elle meurt le lendemain.</span></li>
+<li><b>4-5 déc. 2018</b><span>Suspension puis retrait de la hausse des taxes sur les carburants.</span></li>
+<li><b>10 déc. 2018</b><span>Annonces d'Emmanuel Macron.</span></li>
+<li><b>Déc. 2018 - mars 2019</b><span>Grand débat national.</span></li>
+<li><b>Janv. 2019</b><span>Première Assemblée des assemblées à Commercy.</span></li>
+<li><b>Avril 2019</b><span>Loi « anticasseurs » ; deuxième Assemblée des assemblées à Saint-Nazaire.</span></li>
+<li><b>Hiver 2019-2020</b><span>Des Gilets jaunes dans la grève contre la réforme des retraites.</span></li>
+</ol>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="gilets-jaunes-organisation.html">Ronds-points, cabanes et Assemblée des assemblées</a> : comment le mouvement s'organisait sans chefs.</li>
+<li><a href="gilets-jaunes-debats.html">Ce que les libertaires en retiennent</a> : l'analyse après coup.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le fond de l'air est jaune. Comprendre une révolte inédite</cite></b>, collectif, Seuil, 2019.<span>Des historiennes, sociologues et militants à chaud, sur le moment.</span></li>
+<li><b><cite>In girum. Les leçons politiques des ronds-points</cite></b>, Laurent Jeanpierre, La Découverte, 2019.<span>Ce que les ronds-points disent de la politique « par en bas ».</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Un_pays_qui_se_tient_sage" rel="noopener"><cite>Un pays qui se tient sage</cite>, David Dufresne, 2020</a><span>Le documentaire sur les violences policières pendant le mouvement.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mouvement_des_Gilets_jaunes" rel="noopener">Le mouvement des Gilets jaunes sur Wikipédia</a><span>Chronologie, revendications, chiffres de la répression.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mort_de_Zineb_Redouane" rel="noopener">La mort de Zineb Redouane</a><span>Une affaire emblématique des violences policières.</span></li>
+</ul></section>
+</div>
+
+=== gilets-jaunes-organisation | Gilets jaunes | Ronds-points, cabanes et Assemblée des assemblées | France · 2018-2019 | Pas de chef, pas de porte-parole, des groupes Facebook, des campements de rond-point, puis des assemblées locales qui se fédèrent : comment des centaines de milliers de gens se sont organisés sans organisation.
+<p>Ce qui a fasciné la bande à Mamie, c'est que personne n'avait appris aux Gilets jaunes à s'organiser comme ça. Ils ont réinventé, sur le tas et sans les livres, des choses que les anarchistes défendent depuis cent cinquante ans : <strong>le refus des chefs, l'assemblée, le mandat révocable, l'entraide</strong>.</p>
+
+<h2 id="sans-chefs">Sans chefs ni porte-parole</h2>
+<ul>
+<li>Le mouvement naît sur <strong>Facebook</strong>, dans des groupes locaux et départementaux. Pas d'adhésion, pas de carte, pas de direction.</li>
+<li>Fin novembre 2018, huit personnes se présentent comme « porte-parole » pour aller négocier. Le mouvement les désavoue presque aussitôt : <strong>personne n'a le droit de parler au nom de tout le monde</strong>.</li>
+<li>Les partis et les syndicats sont tenus à distance. Beaucoup de Gilets jaunes s'en méfient, après des années de défaites et de trahisons ressenties.</li>
+</ul>
+
+<h2 id="ronds-points">Le rond-point, une commune</h2>
+<p>Le rond-point, c'est d'abord un lieu de blocage : on ralentit les camions, on filtre les voitures. Mais c'est vite devenu bien plus :</p>
+<ul>
+<li>un <strong>lieu de vie</strong> : cabanes de palettes, poêles, cantines collectives, où l'on se relaie jour et nuit ;</li>
+<li>un <strong>lieu de rencontre</strong> entre des gens isolés, qui découvrent qu'ils vivent tous la même chose ;</li>
+<li>un <strong>lieu d'entraide</strong> : dons de nourriture des paysans et des commerçants du coin, aide pour un loyer, un dossier de la CAF, une panne de voiture ;</li>
+<li>un <strong>lieu de parole</strong> : on y parle de salaires, d'impôts, de démocratie, des heures durant.</li>
+</ul>
+<figure class="photo"><img src="../assets/img/revolutions/gj-cabane-necker.jpg" alt="Une cabane en bois et en bâche construite par les Gilets jaunes sur le rond-point Necker à Saint-Étienne, entourée de palettes." width="1200" height="800" loading="lazy"><figcaption>La cabane du rond-point Necker, à Saint-Étienne, en janvier 2019. <small>Touam · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:La_cabane_des_Gilets_jaunes_au_rond-point_Necker_%C3%A0_Saint-%C3%89tienne.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Les préfectures ont fait évacuer les ronds-points les uns après les autres. Souvent, les cabanes ont été rasées, parfois incendiées, puis reconstruites un peu plus loin.</p>
+<figure class="photo"><img src="../assets/img/revolutions/gj-cabane-meons.jpg" alt="Des Gilets jaunes reconstruisent une cabane sous la neige, au rond-point de Méons à Saint-Étienne, entourés de piles de palettes." width="1200" height="800" loading="lazy"><figcaption>Sous la neige, la reconstruction de la cabane du rond-point de Méons, à Saint-Étienne, après l'incendie de la précédente. Janvier 2019. <small>Touam · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Reconstruction_de_la_cabane_des_Gilets_jaunes_au_rond-point_de_M%C3%A9ons_%C3%A0_Saint-%C3%89tienne.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="assemblees">Des ronds-points aux assemblées</h2>
+<figure class="photo"><img src="../assets/img/revolutions/gj-ag-villeneuve.jpg" alt="Une salle des fêtes pleine de Gilets jaunes assis en cercle pour une assemblée générale." width="1200" height="591" loading="lazy"><figcaption>Assemblée générale des Gilets jaunes à Villeneuve-la-Guyard, dans l'Yonne, le 29 novembre 2018. <small>François Goglins · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Villeneuve-la-Guyard-FR-89-AG_Gilets_Jaunes_29-11-18-a1.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Fin novembre 2018, les Gilets jaunes de <strong>Commercy</strong>, une petite ville de la Meuse, diffusent un appel : refusons les porte-parole autoproclamés, formons partout des <strong>assemblées populaires</strong>, avec des délégués qui portent les décisions de leur assemblée et peuvent être remplacés à tout moment. Leur cabane, sur la place de la ville, devient un symbole.</p>
+<figure class="photo"><img src="../assets/img/revolutions/gj-commercy-2019.jpg" alt="La cabane des Gilets jaunes de Commercy, en bois et bâches bleues, avec une pancarte Gilets jaunes, sur une place de la ville." width="1200" height="801" loading="lazy"><figcaption>La cabane des Gilets jaunes de Commercy, en février 2019. <small>G. Garitan · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Gilets_jaunes_commercy_80151.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>En janvier 2019, Commercy accueille la première <strong>Assemblée des assemblées</strong> (ADA) : quelque 300 délégués venus de dizaines de groupes locaux. Suivront Saint-Nazaire en avril (700 à 800 délégués), Montceau-les-Mines en juin, Montpellier en novembre 2019. Certaines assemblées locales tirent leurs délégués au sort et leur donnent des mandats précis.</p>
+
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 300" role="img" aria-label="De la cabane de rond-point à l'Assemblée des assemblées">
+<defs><marker id="gj1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
+<rect class="bx-r" x="210" y="20" width="300" height="60"/><text class="t" x="360" y="46" text-anchor="middle">Assemblée des assemblées</text><text class="s" x="360" y="66" text-anchor="middle">quelques fois par an · délégués mandatés</text>
+<rect class="bx" x="20" y="130" width="200" height="60"/><text class="t" x="120" y="156" text-anchor="middle">Assemblée locale</text><text class="s" x="120" y="176" text-anchor="middle">ville, quartier, canton</text>
+<rect class="bx" x="260" y="130" width="200" height="60"/><text class="t" x="360" y="156" text-anchor="middle">Assemblée locale</text><text class="s" x="360" y="176" text-anchor="middle">délégués tirés au sort</text>
+<rect class="bx" x="500" y="130" width="200" height="60"/><text class="t" x="600" y="156" text-anchor="middle">Assemblée locale</text><text class="s" x="600" y="176" text-anchor="middle">mandat révocable</text>
+<path class="ar" d="M120 128L280 82" marker-end="url(#gj1)"/><path class="ar" d="M360 128V82" marker-end="url(#gj1)"/><path class="ar" d="M600 128L440 82" marker-end="url(#gj1)"/>
+<rect class="bx-d" x="20" y="232" width="200" height="50"/><text class="t" x="120" y="262" text-anchor="middle">Rond-point</text>
+<rect class="bx-d" x="260" y="232" width="200" height="50"/><text class="t" x="360" y="262" text-anchor="middle">Cabane</text>
+<rect class="bx-d" x="500" y="232" width="200" height="50"/><text class="t" x="600" y="262" text-anchor="middle">Groupe Facebook</text>
+<path class="ln" d="M120 230V192M360 230V192M600 230V192"/>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> Une coordination « par en bas ». En réalité, beaucoup de groupes n'ont jamais rejoint les assemblées, qui ont surtout réuni les plus politisés.</figcaption>
+</figure>
+
+<h2 id="revendications">Ce que le mouvement demandait</h2>
+<ul>
+<li><strong>Vivre dignement</strong> : baisse des taxes sur les produits de première nécessité, hausse des salaires et des retraites, rétablissement de l'impôt sur la fortune.</li>
+<li><strong>Décider soi-même</strong> : le <strong>référendum d'initiative citoyenne</strong> (RIC), qui permettrait aux citoyennes et citoyens de proposer ou d'abroger une loi, et de révoquer un élu.</li>
+<li><strong>En finir avec le mépris</strong> : la démission d'Emmanuel Macron revenait sur toutes les pancartes.</li>
+</ul>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le rond-point a été un espace de vie et d'entraide, pas seulement un blocage.</li>
+<li>Le refus des chefs a été spontané, et les assemblées ont tenté de lui donner une forme durable.</li>
+<li>Suite : <a href="gilets-jaunes-debats.html">ce que les libertaires en retiennent</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>In girum. Les leçons politiques des ronds-points</cite></b>, Laurent Jeanpierre, La Découverte, 2019.<span>Le rond-point comme lieu politique.</span></li>
+<li><a href="../agir/decider-sans-chef.html">Décider sans chef</a><span>Mandats révocables et assemblées : notre fiche pratique.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Assembl%C3%A9e_des_assembl%C3%A9es" rel="noopener">L'Assemblée des assemblées</a><span>Commercy, Saint-Nazaire, Montceau, Montpellier.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/R%C3%A9f%C3%A9rendum_d%27initiative_citoyenne" rel="noopener">Le référendum d'initiative citoyenne</a><span>L'idée, ses versions et ses débats.</span></li>
+</ul></section>
+</div>
+
+=== gilets-jaunes-debats | Gilets jaunes | Ce que les libertaires en retiennent | France · 2018-2019 | Une révolte autonome et sans chefs, une leçon d'action directe, mais aussi des drapeaux tricolores, une extrême droite à l'affût et une demande adressée à l'État : l'analyse après coup.
+<p>Au début, une partie de la bande à Mamie a regardé les Gilets jaunes de loin, avec méfiance : des drapeaux bleu-blanc-rouge, des Marseillaises, des groupes d'extrême droite qui tournaient autour. D'autres y sont allés dès le premier samedi. Quelques années après, il est temps de faire le bilan, <strong>sans enthousiasme aveugle ni mépris de gauche</strong>.</p>
+
+<h2 id="debut">« Ça ne ressemble pas à nos luttes »</h2>
+<p>Les milieux militants, anarchistes compris, ont été déroutés. Le mouvement partait d'une revendication sur l'essence, portée par des gens éloignés de la gauche, et l'extrême droite cherchait clairement à le récupérer. Des sondages de l'époque montraient qu'une partie importante des Gilets jaunes votaient pour le Rassemblement national. Fallait-il y aller ?</p>
+<p>Beaucoup de libertaires ont répondu oui, avec un argument simple : <strong>quand les classes populaires se soulèvent, on n'attend pas qu'elles aient les bons drapeaux pour être à leurs côtés</strong>. On y va, on discute, et on se bat aussi, sur place, contre l'extrême droite. Dans plusieurs villes, des antifascistes et des Gilets jaunes ont chassé des groupuscules d'extrême droite des cortèges.</p>
+
+<h2 id="libertaire">Ce que le mouvement avait de libertaire</h2>
+<ol class="principes">
+<li><b>Sans chefs</b>des porte-parole désavoués, des délégués révocables</li>
+<li><b>Action directe</b>bloquer, occuper, ne pas déclarer les parcours</li>
+<li><b>Hors des appareils</b>ni partis ni syndicats aux commandes</li>
+<li><b>Entraide</b>cabanes, cantines, solidarité concrète</li>
+</ol>
+<ul>
+<li><strong>L'auto-organisation</strong> : des centaines de milliers de gens ont pris en main leur lutte sans attendre personne. L'appel de Commercy et les Assemblées des assemblées ont posé, sans le savoir, la vieille question anarchiste du mandat impératif.</li>
+<li><strong>L'action directe</strong> : bloquer l'économie aux ronds-points et aux péages plutôt que défiler entre deux syndicats. C'est elle, et non la négociation, qui a fait reculer le gouvernement en trois semaines.</li>
+<li><strong>Le refus de la représentation</strong> : « personne ne parle pour nous ». Une méfiance envers les élus et les intermédiaires que les anarchistes partagent.</li>
+<li><strong>Le retour des classes populaires</strong> sur la scène politique, avec beaucoup de <strong>femmes</strong>, près de la moitié des manifestants selon les estimations, souvent en première ligne, mères seules, aides-soignantes, retraitées.</li>
+</ul>
+
+<h2 id="ambiguites">Les ambiguïtés</h2>
+<ul>
+<li><strong>Le drapeau et la nation</strong> : le bleu-blanc-rouge et la Marseillaise étaient partout. Pour beaucoup, c'était une façon de dire « le peuple » contre les élites, pas un nationalisme. Mais c'est un terrain sur lequel l'extrême droite est chez elle.</li>
+<li><strong>L'extrême droite</strong> : elle n'a jamais dirigé le mouvement, mais ses militants y étaient présents, et des propos racistes, antisémites ou complotistes ont circulé, comme lors de l'agression verbale du philosophe Alain Finkielkraut en février 2019.</li>
+<li><strong>Le RIC</strong> : réclamer un référendum, c'est encore demander à l'État de partager un peu son pouvoir. Pour les uns, c'était une étape vers la démocratie directe ; pour d'autres, une façon de rester dans le cadre de l'État. Les anarchistes y voient une avancée qui ne va pas jusqu'au bout : décider soi-même, dans ses assemblées, sans attendre qu'on nous y autorise.</li>
+<li><strong>Le « peuple » contre les « élites »</strong> : un discours qui unit, mais qui peut masquer les oppositions de classe, et désigner des boucs émissaires plutôt que le système.</li>
+<li><strong>Le rendez-vous manqué avec les syndicats</strong> : la CGT et les autres sont arrivés tard, et les Gilets jaunes s'en méfiaient. Pas de grève générale, alors que c'était peut-être le moment.</li>
+</ul>
+
+<h2 id="repression">La leçon de la répression</h2>
+<p>Le mouvement a montré jusqu'où l'État peut aller quand il a peur : des dizaines de mutilés, des milliers de gardes à vue, des comparutions immédiates à la chaîne, et une loi pour limiter le droit de manifester. Beaucoup de Gilets jaunes, souvent légalistes au départ, ont découvert sur le terrain ce que les quartiers populaires et les militants subissaient depuis longtemps. Cette expérience a laissé des <strong>legal teams</strong>, des <strong>street medics</strong>, des caisses de solidarité, et une méfiance durable envers la police.</p>
+
+<h2 id="comparer">Comparer avec Mai 68</h2>
+<div class="tbl"><table>
+<thead><tr><th></th><th>Mai 68</th><th>Gilets jaunes</th></tr></thead>
+<tbody>
+<tr><td>Point de départ</td><td>Les facs, puis les usines</td><td>Les ronds-points des zones périurbaines</td></tr>
+<tr><td>Arme principale</td><td>La grève générale</td><td>Le blocage et la manifestation du samedi</td></tr>
+<tr><td>Organisation</td><td>Comités d'action, AG d'usine</td><td>Groupes Facebook, ronds-points, assemblées</td></tr>
+<tr><td>Syndicats</td><td>Au centre, et ils négocient la fin</td><td>À l'écart, et arrivés tard</td></tr>
+<tr><td>Ce qui est obtenu</td><td>Grenelle : salaires, droit syndical</td><td>Taxe retirée, 10 milliards de mesures</td></tr>
+</tbody></table></div>
+
+<h2 id="heritage">Et après ?</h2>
+<p>Les Gilets jaunes ont laissé une trace profonde : des réseaux d'entraide locaux, des assemblées qui ont continué, une génération de gens politisés sur le tas, et une méthode, l'occupation des ronds-points, qui revient à chaque nouvelle colère. La carte du <a href="../mouvement-17-octobre.html">Mouvement du 17 Octobre</a>, sur ce site, recense les mobilisations qui s'en réclament aujourd'hui.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Une révolte autonome et sans chefs, née hors de toutes les organisations.</li>
+<li>L'action directe a obtenu plus en trois semaines que des années de négociation.</li>
+<li>Être présent dans les luttes populaires, et y combattre l'extrême droite, plutôt que de les regarder de loin.</li>
+<li>Pour comparer : <a href="mai-68-histoire.html">Mai 68</a>, <a href="commune-de-paris-histoire.html">la Commune de Paris</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le fond de l'air est jaune. Comprendre une révolte inédite</cite></b>, collectif, Seuil, 2019.<span>Les débats de l'époque, à chaud.</span></li>
+<li><b><cite>In girum. Les leçons politiques des ronds-points</cite></b>, Laurent Jeanpierre, La Découverte, 2019.<span>Une lecture de la politique des ronds-points.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Un_pays_qui_se_tient_sage" rel="noopener"><cite>Un pays qui se tient sage</cite>, David Dufresne, 2020</a><span>Police, maintien de l'ordre et violence d'État.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Loi_visant_%C3%A0_renforcer_et_garantir_le_maintien_de_l%27ordre_public_lors_des_manifestations" rel="noopener">La loi « anticasseurs » de 2019</a><span>Ce qu'elle change pour le droit de manifester.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mouvement_des_Gilets_jaunes" rel="noopener">Le mouvement sur Wikipédia</a><span>La sociologie du mouvement et la place de l'extrême droite.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../antifascisme/agir-antifasciste.html">Agir contre l'extrême droite</a><span>Être dans les luttes et y faire reculer l'extrême droite.</span></li>
+<li><a href="../manif/legal-team.html">Legal Team</a><span>Ce que la répression des Gilets jaunes a appris aux militants.</span></li>
+</ul></section>
+</div>

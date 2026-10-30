@@ -47,6 +47,11 @@ $images = [ordered]@{
   "zad-phare-rolandiere"          = "File:Phare de la Rolandière depuis le balcon.jpg"
   "zad-bibliotheque-taslu"        = "File:Bibliothèque du Taslu.jpg"
   "zad-cabane-detruite"           = "File:Cabane détruite dans le bois de Rohanne.jpg"
+  "gj-bastille-2018"              = "File:Manifestation de gilets jaunes place de la Bastille (Paris) en 2018.jpg"
+  "gj-cabane-necker"              = "File:La cabane des Gilets jaunes au rond-point Necker à Saint-Étienne.jpg"
+  "gj-ag-villeneuve"              = "File:Villeneuve-la-Guyard-FR-89-AG Gilets Jaunes 29-11-18-a1.jpg"
+  "gj-commercy-2019"              = "File:Gilets jaunes commercy 80151.jpg"
+  "gj-cabane-meons"               = "File:Reconstruction de la cabane des Gilets jaunes au rond-point de Méons à Saint-Étienne.jpg"
 }
 
 $jpeg = [Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq "image/jpeg" }

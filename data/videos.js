@@ -2,6 +2,9 @@
 // type : "video" ou "photo" (carrousel). vues : au moment du relevé. lien : page du site en rapport.
 // Pour ajouter une publication : copier une ligne, changer l'identifiant (le nombre à la fin de l'adresse TikTok).
 window.VIDEOS = [
+  { id: "7702372324720364833", type: "video", date: "2026-10-30", titre: "Face à la répression", vues: "1 275",
+    texte: "Face à la répression, on doit être encore plus de monde et mieux organisés. Mamie appelle aussi à rejoindre sa bande pour remplacer l'IA par de la création humaine.",
+    tags: ["histoire", "communedeparis", "blocus", "31octobre", "17octobre"], lien: ["manif/legal-team", "Tes droits face à la police"] },
   { id: "7699444020665208096", type: "photo", date: "2026-10-22", titre: "Mamie cherche sa bande", vues: "1 077",
     texte: "Appel aux camarades : dessin, collage, graphisme, archives, écriture. On cherche aussi des gens pour le montage, le motion design et les voix off. Plus d'humain, moins d'IA.",
     tags: ["17octobre", "24octobre", "blocus", "giletsjaunes", "manifestation"] },

@@ -66,6 +66,7 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
   }
   $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts)
   $out = $out.Replace("{{FAMILLES}}", (Familles-Accueil $root))
+  if ($out.Contains("{{NOUVEAUTES}}")) { $out = $out.Replace("{{NOUVEAUTES}}", $nouveautes) }
   $out = Clean-Links ($out.Replace("{{R}}", $root))
   # Version dans l'adresse des scripts et styles : les navigateurs reprennent la dernière version à chaque changement.
   return [regex]::Replace($out, '((?:src|href)="(?!https?:|//)[^"?#]+\.(?:js|css))"', ('$1?v=' + $ver + '"'))
@@ -298,6 +299,27 @@ Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="cred
 # Agir ensemble : chaque catégorie des fiches de _src/agir/ devient une rubrique (Décider ensemble…).
 $agir = @(Read-Collection "agir")
 Build-Collection $agir "agir" "agir" "Agir ensemble" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>' "AGIR"
+
+# ---------- nouveautés de l'accueil ({{NOUVEAUTES}}) ----------
+# Chaque page reçoit sa date d'arrivée dans _src/textes/apparitions.txt (adresse=date), ajoutée toute seule à la première
+# génération qui la voit. L'accueil montre les six plus récentes, avec une seule carte par dossier Révolutions.
+$fApp = Join-Path $src "textes\apparitions.txt"
+$app = [ordered]@{}
+foreach ($l in (Read-Utf8 $fApp) -split "`n") { if ($l -match '^([^=#\s]+)=(\S+)') { $app[$Matches[1]] = $Matches[2] } }
+$maintenant = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm")
+$neuf = @(); $rang = 0; $dossiers = @{}
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Révolutions"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"))) {
+  foreach ($g in $set[0]) {
+    $u = "$($set[1])/$($g.slug).html"; $rang++
+    if (-not $app.Contains($u)) { $app[$u] = $maintenant }
+    if ($set[1] -eq "experiences") { if ($dossiers[$g.cat]) { continue }; $dossiers[$g.cat] = 1 }
+    $neuf += [pscustomobject]@{ u = $u; d = $app[$u]; r = $rang; k = $set[2]; t = $g.title; s = $g.sum }
+  }
+}
+$lignes = @("# Date d'arrivée de chaque page sur le site (adresse=date et heure). Ajoutée toute seule par _src/build.ps1 ; sert aux « Nouveautés » de l'accueil.") + @($app.Keys | ForEach-Object { "$_=$($app[$_])" })
+Write-Utf8 $fApp (($lignes -join "`n") + "`n")
+$nouveautes = "<div class=""cards cards--neuf"">" + (($neuf | Sort-Object @{ e = "d"; Descending = $true }, @{ e = "r"; Descending = $true } | Select-Object -First 6 | ForEach-Object {
+  "<a class=""card"" href=""{{R}}$($_.u)""><span class=""card__tag"">$(Esc $_.k)</span><h3>$(Esc $_.t)</h3><p>$(Esc $_.s)</p><span class=""card__go"">Lire →</span></a>" }) -join "") + "</div>"
 
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).

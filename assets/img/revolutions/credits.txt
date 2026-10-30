@@ -39,3 +39,7 @@ gj-cabane-necker | 1200 x 800 | Touam | CC BY-SA 4.0 | https://commons.wikimedia
 gj-ag-villeneuve | 1200 x 591 | François GOGLINS | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Villeneuve-la-Guyard-FR-89-AG_Gilets_Jaunes_29-11-18-a1.jpg
 gj-commercy-2019 | 1200 x 801 | G.Garitan | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Gilets_jaunes_commercy_80151.jpg
 gj-cabane-meons | 1200 x 800 | Touam | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Reconstruction_de_la_cabane_des_Gilets_jaunes_au_rond-point_de_M%C3%A9ons_%C3%A0_Saint-%C3%89tienne.jpg
+queer-pelletier | 994 x 1316 | Henri Manuel | Public domain | https://commons.wikimedia.org/wiki/File:Madeleine_Pelletier_1.jpg
+queer-tract-fierte-1970 | 463 x 587 | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Christopher_Street_Liberation_Day._June_28_1970.jpg
+queer-glf-londres-1971 | 1200 x 1435 | photographe inconnu | No restrictions | https://commons.wikimedia.org/wiki/File:Demonstration,_with_Gay_Liberation_Front_Banner,_1971_(7374381322).jpg
+lyon-saint-nizier | 1200 x 800 | John Samuel | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:%C3%89glise_Saint-Nizier_de_Lyon_01.jpg

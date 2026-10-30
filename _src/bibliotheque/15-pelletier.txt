@@ -1,0 +1,53 @@
+=== femme-en-lutte-pour-ses-droits | Féminisme & société | La Femme en lutte pour ses droits | Madeleine Pelletier · 1908 | Rien de « naturel » dans la soumission des femmes : c'est l'éducation et la société qui la fabriquent. Une médecin libertaire réclame le vote, tous les métiers, la fin du mariage, et le droit de disposer de soi.
+<h2 id="contexte">Contexte</h2>
+<p>Madeleine Pelletier (1874-1939) naît dans une famille pauvre de Paris. Elle quitte l'école à 12 ans, reprend seule ses études, et devient médecin. En 1903, elle obtient de passer le concours d'internat des asiles, jusque-là réservé aux hommes, et devient l'une des premières femmes psychiatres de France.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/queer-pelletier.jpg" alt="Portrait de Madeleine Pelletier vers 1900, cheveux courts, en veste et cravate." width="994" height="1316" loading="lazy"><figcaption>Madeleine Pelletier vers 1900, cheveux courts, en costume d'homme : elle en avait fait un geste politique. <small>Henri Manuel · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Madeleine_Pelletier_1.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Elle se coupe les cheveux, porte le costume, le chapeau et parfois un revolver, sans demander l'autorisation de « travestissement » alors exigée par la police. Socialiste, franc-maçonne, proche des milieux anarchistes et néo-malthusiens, elle écrit dans <em>L'Idée libre</em> et défend le droit à l'avortement dès 1913. En 1908, elle publie <em>La Femme en lutte pour ses droits</em>, un petit livre de combat.</p>
+
+<h2 id="these">La thèse</h2>
+<p>La prétendue infériorité des femmes n'a rien de naturel : elle est fabriquée par l'éducation, la famille, l'école et le mariage. Pour s'en libérer, les femmes doivent conquérir tous les droits des hommes, à commencer par le vote, tous les métiers, et la liberté de vivre sans dépendre d'un mari.</p>
+
+<h2 id="idees">Les idées, dans l'ordre</h2>
+<ol>
+<li><strong>Tout commence avant la naissance</strong> : on espère un garçon, et une fille est déjà une déception.</li>
+<li><strong>L'éducation fabrique la soumission</strong> : on apprend l'énergie aux garçons, la docilité aux filles. Chez les pauvres, la fille sert déjà son frère.</li>
+<li><strong>L'école prépare au mariage</strong>, pas au savoir. Une fois mariée, la femme de la bourgeoisie n'a plus de but ; l'ouvrière, elle, subit l'ordre masculin de l'argent et de la force.</li>
+<li><strong>Le vote d'abord</strong>, car sans droits politiques les femmes n'obtiendront rien.</li>
+<li><strong>Tous les métiers, sans protection spéciale</strong> : Pelletier refuse les lois qui « protègent » les ouvrières, car elles les enferment dans des emplois à part.</li>
+<li><strong>La maternité</strong> mérite le respect, mais ne doit jamais devenir un statut ni un devoir.</li>
+<li><strong>Une tactique</strong> : former de grandes organisations féministes et entrer dans les partis, sans jamais s'y laisser absorber.</li>
+<li><strong>À terme</strong>, la fin du mariage, l'union libre, la famille qui n'a plus rien de sacré, et une société qui prend en charge les enfants.</li>
+</ol>
+
+<h2 id="limites">Débats et limites</h2>
+<ul>
+<li><strong>Une stratégie peu libertaire</strong> : Pelletier mise sur le vote et l'entrée dans les partis, ce que les anarchistes de son temps critiquaient. Elle-même s'en éloignera en partie.</li>
+<li><strong>La « virilisation » des femmes</strong> : elle propose aux femmes d'acquérir une énergie « virile », jusqu'à servir dans l'armée. Elle reprend ainsi l'idée que le modèle à atteindre est masculin.</li>
+<li><strong>Un ton souvent méprisant</strong> envers les femmes qui ne partagent pas ses idées, et une vision de la maternité comme un simple devoir pénible.</li>
+<li><strong>Une fin tragique</strong> : en 1939, paralysée, elle est accusée d'avoir pratiqué un avortement. Le tribunal reconnaît qu'elle ne pouvait pas l'avoir fait, mais la fait interner d'office. Elle meurt à l'asile quelques mois plus tard.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>Bien avant Simone de Beauvoir et son « on ne naît pas femme, on le devient », Pelletier explique que le genre se fabrique. Son refus des vêtements « de femme », son corps qu'elle façonne à sa manière, son célibat revendiqué : elle est souvent redécouverte aujourd'hui comme une figure qui brouillait déjà les frontières du genre. Et sa vie rappelle que le droit à l'avortement a coûté cher à celles qui l'ont défendu (voir <a href="../experiences/mlac-histoire.html">le dossier MLAC</a>).</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>La soumission des femmes est un produit social, pas une nature.</li>
+<li>Le mariage, la famille et la maternité ne sont pas sacrés.</li>
+<li>Une pionnière, avec les limites de son époque.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Le texte original</h3><ul>
+<li><a href="https://fr.wikisource.org/wiki/La_Femme_en_lutte_pour_ses_droits" rel="noopener">« La Femme en lutte pour ses droits » sur Wikisource</a><span>Le texte intégral de 1908, libre de droits.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Madeleine_Pelletier" rel="noopener">Madeleine Pelletier sur Wikipédia</a><span>Sa vie, ses engagements, sa fin.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a><span>Emma Goldman, à la même époque.</span></li>
+<li><a href="le-mariage-mauvaise-action.html">Le Mariage est une mauvaise action</a><span>Voltairine de Cleyre, sur la dépendance dans le couple.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche de lecture rédigée par la bande à Mamie d'après le texte original, disponible sur Wikisource. Libre de reproduction.</p>

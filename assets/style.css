@@ -759,3 +759,12 @@ html.facile {
 .foot__social a { font: 400 14px/1 var(--display); text-transform: uppercase; text-decoration: none; padding: 8px 11px 7px; background: var(--pink); color: var(--on-color); box-shadow: 3px 3px 0 rgba(0,0,0,.45); }
 .foot__social a + a { background: var(--foot-fg); color: var(--foot-bg); }
 .foot__social a:hover, .foot__social a:focus-visible { background: var(--red-hi); color: var(--on-dark); }
+
+/* Accueil : parcours thématiques (listes de liens dans des cartes .rubrique) et 4 étapes avant la manif. */
+.parcours .rubrique ul { margin: 4px 0 0; padding: 0; list-style: none; display: flex; flex-direction: column; gap: 7px; }
+.parcours .rubrique li { font: 400 15px/1.4 var(--mono); }
+.parcours .rubrique li a { color: var(--red-txt); }
+.parcours .rubrique li a::before { content: "→ "; }
+.parcours .rubrique:nth-child(1) .rubrique__n { background: var(--pink); color: var(--on-color); }
+@media (min-width: 1100px) { .steps { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+.parcours .rubrique:nth-child(2) .rubrique__n { background: var(--ink); color: var(--paper-2); }

@@ -52,6 +52,10 @@ $images = [ordered]@{
   "gj-ag-villeneuve"              = "File:Villeneuve-la-Guyard-FR-89-AG Gilets Jaunes 29-11-18-a1.jpg"
   "gj-commercy-2019"              = "File:Gilets jaunes commercy 80151.jpg"
   "gj-cabane-meons"               = "File:Reconstruction de la cabane des Gilets jaunes au rond-point de Méons à Saint-Étienne.jpg"
+  "queer-pelletier"               = "File:Madeleine Pelletier 1.jpg"
+  "queer-tract-fierte-1970"       = "File:Christopher Street Liberation Day. June 28 1970.jpg"
+  "queer-glf-londres-1971"        = "File:Demonstration, with Gay Liberation Front Banner, 1971 (7374381322).jpg"
+  "lyon-saint-nizier"             = "File:Église Saint-Nizier de Lyon 01.jpg"
 }
 
 $jpeg = [Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq "image/jpeg" }

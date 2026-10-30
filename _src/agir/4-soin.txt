@@ -74,3 +74,60 @@
 </ul></section>
 </div>
 <p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace ni l'écoute d'une association spécialisée, ni l'avis d'une avocate ou d'un avocat. Libre de reproduction.</p>
+
+=== accueillir-personnes-trans | Prendre soin du collectif | Accueillir les personnes trans et non binaires dans son collectif | D'après la Défenseure des droits et les associations trans · 2026 | Prénoms et pronoms, mégenrage, toilettes, sorties, sécurité : ce qu'un collectif peut faire concrètement pour que les camarades trans et non binaires s'y sentent chez elles et chez eux.
+<p>Dans la bande à Mamie, on a appris sur le tas, en se trompant, en se faisant reprendre, en recommençant. Ce n'est pas compliqué, mais ça demande de l'attention. <strong>Un collectif qui laisse partir ses camarades trans parce qu'ils ou elles s'y sentent mal se prive d'une partie de sa force.</strong></p>
+
+<h2 id="prenoms">Prénoms et pronoms</h2>
+<ul>
+<li><strong>Utilise le prénom et les pronoms</strong> que la personne te donne, tout le temps, y compris quand elle n'est pas là. L'état civil n'a rien à faire dans une AG.</li>
+<li><strong>Tour de prénoms</strong> : en début de réunion, chacune et chacun peut dire son prénom et, si elle ou il le souhaite, ses pronoms (« elle », « il », ou un pronom neutre choisi par certaines personnes non binaires). On ne force personne à les dire.</li>
+<li><strong>Ne demande pas</strong> l'ancien prénom, ni des détails sur le corps, les opérations ou les traitements. Ce n'est pas ton affaire, sauf si la personne choisit d'en parler.</li>
+<li><strong>Ne révèle jamais</strong> qu'une personne est trans sans son accord, ni dans le collectif, ni à l'extérieur, ni à la police. C'est une question de sécurité.</li>
+</ul>
+<div class="note"><p><strong>Rien dans la loi n'oblige à genrer quelqu'un d'après son état civil</strong>, a rappelé la Défenseure des droits en 2025. Utiliser les bons pronoms n'est pas une faveur : c'est du respect.</p></div>
+
+<h2 id="megenrage">Quand on se trompe</h2>
+<p>Tout le monde se trompe un jour, surtout au début. Ce qui compte, c'est la suite :</p>
+<ol class="principes">
+<li><b>Corriger</b>« il… pardon, elle », et continuer</li>
+<li><b>Sans en faire une scène</b>pas de longues excuses qui mettent la personne mal à l'aise</li>
+<li><b>Reprendre les autres</b>doucement, pour que la personne n'ait pas à le faire seule</li>
+<li><b>Ne pas recommencer</b>s'entraîner, même en son for intérieur</li>
+</ol>
+<p>Si quelqu'un mégenre volontairement et de façon répétée, ce n'est plus une erreur : c'est du harcèlement, et le collectif doit réagir comme pour toute autre violence (voir <a href="violences-dans-nos-collectifs.html">Réagir aux violences dans nos collectifs</a>).</p>
+
+<h2 id="lieux">Les lieux et les sorties</h2>
+<ul>
+<li><strong>Toilettes</strong> : dans le local, rendez au moins une toilette non genrée, ou toutes. Une simple affiche suffit souvent.</li>
+<li><strong>Hébergement</strong> : pour un camp, un week-end, une action, prévois des chambres ou des espaces où chacune et chacun peut dormir selon son genre, ou seul si elle ou il le souhaite.</li>
+<li><strong>Non-mixité</strong> : un temps « femmes et minorités de genre » doit dire clairement s'il est ouvert aux femmes trans, aux hommes trans, aux personnes non binaires. Dans le doute, la personne sait mieux que toi où elle a sa place.</li>
+<li><strong>En manif</strong> : une personne trans risque plus face à la police et à l'extrême droite. On ne la laisse pas seule, et on connaît ses droits (voir <a href="../manif/personnes-trans-police.html">Personnes trans face à la police</a>).</li>
+</ul>
+
+<h2 id="papiers">Les papiers du collectif</h2>
+<ul>
+<li>Listes, groupes de discussion, adhésions, caisses : utilise le <strong>prénom d'usage</strong> partout où l'état civil n'est pas exigé par la loi.</li>
+<li>Si une banque ou une administration exige l'état civil, garde-le à part, accessible à très peu de personnes.</li>
+<li>Pas de « Madame / Monsieur » dans les courriers : « Bonjour » suffit.</li>
+</ul>
+
+<h2 id="aller-plus-loin">Aller plus loin</h2>
+<ul>
+<li><strong>Écouter avant de parler</strong> : les camarades trans n'ont pas à faire de la formation gratuite pour tout le monde. Des associations proposent des formations et des ressources.</li>
+<li><strong>Soutenir les luttes trans</strong> : accès aux soins, papiers, logement, travail. Les personnes trans, surtout migrantes et précaires, sont parmi les plus touchées par la pauvreté et les violences.</li>
+<li><strong>Se souvenir</strong> que les femmes trans racisées étaient en première ligne à Stonewall (voir le dossier <a href="../experiences/stonewall-fhar-histoire.html">De Stonewall au FHAR</a>).</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://juridique.defenseurdesdroits.fr/index.php?lvl=notice_display&amp;id=55224" rel="noopener">Décision-cadre 2025-112</a><span>Défenseure des droits : civilité, pronoms, prénom d'usage, toilettes, hébergement.</span></li>
+</ul></section>
+<section><h3>Se former, se faire aider</h3><ul>
+<li><a href="https://outrans.org" rel="noopener">OUTrans</a><span>Association d'autosupport trans : permanences et ressources.</span></li>
+<li><a href="https://acceptess-t.com" rel="noopener">Acceptess-T</a><span>Association par et pour les personnes trans, notamment migrantes.</span></li>
+<li><a href="https://www.dilcrah.gouv.fr/ressources/trouver-un-centre-lgbt" rel="noopener">Trouver un centre LGBTI</a><span>Lieux d'accueil près de chez toi.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie, à relire et compléter avec les camarades concernées. Libre de reproduction.</p>

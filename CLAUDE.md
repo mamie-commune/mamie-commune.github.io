@@ -29,7 +29,7 @@ La publication sur GitHub (`.github/workflows/publier.yml`) **régénère toutes
 powershell -NoProfile -ExecutionPolicy Bypass -File _src/build.ps1
 ```
 
-Le script affiche par exemple `OK : 9 guides, 106 fiches, 37 livres et 27 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
+Le script affiche par exemple `OK : 9 guides, 107 fiches, 37 livres et 33 pages de dossiers générés.` Toute autre sortie est une erreur à corriger avant d'envoyer.
 
 ## Où se trouve quoi
 
@@ -41,6 +41,7 @@ Le script affiche par exemple `OK : 9 guides, 106 fiches, 37 livres et 27 pages 
 | Une page Antifascisme | `_src/antifascisme/*.txt` | oui |
 | Une fiche du Guide de manif | `_src/manif/*.txt`. La **catégorie** de la fiche est sa sous-rubrique (« Legal Team »…) : pour une **nouvelle sous-rubrique** (premiers secours, préparation, après la manif…), créer un fichier `_src/manif/2-nom.txt` avec une nouvelle catégorie, le filtre apparaît tout seul. Toujours préciser le pays quand c'est du droit (la fiche Legal Team est du droit **français**). Les modèles de lettres pour contester un PV sont dans `_src/textes/modeles-pv/` ; les PDF (`manif/modeles/`) se refont avec `powershell -ExecutionPolicy Bypass -File _src/modeles-pv.ps1` (Windows + Edge, en local) | oui |
 | Une fiche Agir ensemble (AG, collectif, caisse, tract, affiches) | `_src/agir/*.txt` (la catégorie = la sous-rubrique : « Décider ensemble », « Monter un collectif », « Faire passer le message ») ; page d'index `_src/pages/agir.html` | oui |
+| Les « Nouveautés » de l'accueil | automatiques : `_src/build.ps1` note la date d'arrivée de chaque nouvelle page dans `_src/textes/apparitions.txt` et remplace `{{NOUVEAUTES}}` par les six plus récentes (une carte par dossier Révolutions). Les « Parcours » de l'accueil sont écrits à la main dans `_src/pages/index.html` | oui |
 | Une fiche de lecture | `_src/bibliotheque/*.txt` | oui |
 | Un guide Outils numériques | `_src/guides/*.txt` | oui |
 | Un livre complet (texte du domaine public) | source `.muse` dans `_src/textes/sources/` + une ligne dans `_src/textes/livres.txt` | oui, puis PDF (voir plus bas) |

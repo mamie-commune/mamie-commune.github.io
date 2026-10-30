@@ -1,0 +1,122 @@
+=== mlac-histoire | MLAC | Le MLAC : avorter en autogestion | France · 1973-1975 | Avant la loi Veil, des femmes, des militants et des médecins apprennent à pratiquer eux-mêmes des avortements, organisent des voyages à l'étranger, et forcent l'État à légaliser.
+<p>Avant 1975, Mamie a connu les aiguilles à tricoter, les « faiseuses d'anges » et les copines qui finissaient à l'hôpital, ou au cimetière. Et puis, un jour, des femmes ont décidé de ne plus attendre ni la loi ni les médecins : <strong>elles ont appris à le faire elles-mêmes, en sécurité, ensemble</strong>. C'est l'histoire du MLAC, l'une des plus belles expériences d'action directe des années 1970.</p>
+
+<h2 id="contexte">Le contexte : l'avortement est un crime</h2>
+<p>Depuis la loi de 1920, l'avortement est puni, ainsi que la propagande pour la contraception. Chaque année, des centaines de milliers de femmes avortent clandestinement, souvent dans des conditions dangereuses. Les plus riches partent en Suisse ou en Angleterre ; les autres risquent leur vie.</p>
+<ul>
+<li><strong>5 avril 1971</strong> : le <strong>« Manifeste des 343 »</strong>, publié dans <em>Le Nouvel Observateur</em>. 343 femmes, connues ou non, déclarent avoir avorté, et défient l'État de les poursuivre.</li>
+<li><strong>Automne 1972</strong> : le <strong>procès de Bobigny</strong>. Marie-Claire Chevalier, 16 ans, violée, a avorté avec l'aide de sa mère. Défendues par l'avocate Gisèle Halimi, elles transforment leur procès en procès de la loi. La jeune fille est relaxée.</li>
+<li><strong>Février 1973</strong> : 331 médecins déclarent publiquement avoir pratiqué des avortements.</li>
+</ul>
+
+<h2 id="naissance">Avril 1973 : naissance du MLAC</h2>
+<p>Le <strong>Mouvement pour la liberté de l'avortement et de la contraception</strong> naît en avril 1973. Il réunit des militantes du Mouvement de libération des femmes (MLF), du Planning familial, des médecins du Groupe information santé (GIS), et des militantes et militants d'extrême gauche. Médecins et non-médecins y sont mêlés. Son but : obtenir un avortement libre, gratuit et à la demande de la femme, et en attendant, <strong>le pratiquer</strong>.</p>
+
+<h2 id="pratique">Ce que faisait le MLAC</h2>
+<ul>
+<li><strong>Pratiquer des avortements</strong>, illégalement, dans des appartements, avec la <strong>méthode Karman</strong> : une aspiration douce, avec une canule souple, sans anesthésie générale, rapide et bien moins dangereuse que les méthodes clandestines.</li>
+<li><strong>Transmettre la technique</strong> à des non-médecins, pour que le savoir ne reste pas aux mains des professionnels.</li>
+<li><strong>Organiser des voyages collectifs</strong> vers Londres et Amsterdam, en car, pour les femmes enceintes de plus de douze semaines.</li>
+<li><strong>Informer</strong> sur la contraception et la sexualité, dans des permanences ouvertes à toutes.</li>
+<li><strong>Agir au grand jour</strong> : réunions publiques, avortements annoncés, tournée en car à travers la France pendant l'été 1974. Le but était aussi de rendre la loi impossible à appliquer.</li>
+</ul>
+<p>Des comités se forment dans des villes, des quartiers, des facs, des hôpitaux, des entreprises, surtout à Paris et en banlieue.</p>
+
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 260" role="img" aria-label="L'action du MLAC : désobéir, transmettre, faire pression">
+<defs><marker id="ml1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
+<rect class="bx-r" x="250" y="20" width="220" height="60"/><text class="tb" x="360" y="56" text-anchor="middle">Comité local</text>
+<rect class="bx" x="20" y="140" width="200" height="70"/><text class="t" x="120" y="168" text-anchor="middle">Pratiquer</text><text class="s" x="120" y="190" text-anchor="middle">avortements, voyages</text>
+<rect class="bx" x="260" y="140" width="200" height="70"/><text class="t" x="360" y="168" text-anchor="middle">Transmettre</text><text class="s" x="360" y="190" text-anchor="middle">former des non-médecins</text>
+<rect class="bx" x="500" y="140" width="200" height="70"/><text class="t" x="600" y="168" text-anchor="middle">Faire pression</text><text class="s" x="600" y="190" text-anchor="middle">agir au grand jour</text>
+<path class="ar" d="M300 82L140 138" marker-end="url(#ml1)"/><path class="ar" d="M360 82V138" marker-end="url(#ml1)"/><path class="ar" d="M420 82L580 138" marker-end="url(#ml1)"/>
+<text class="sr" x="360" y="245" text-anchor="middle">désobéir à la loi jusqu'à la rendre inapplicable</text>
+</svg>
+</div>
+<figcaption><b>Schéma 1.</b> Les trois facettes de l'action du MLAC.</figcaption>
+</figure>
+
+<h2 id="loi">La loi Veil, et après</h2>
+<p>Face à cette désobéissance de masse, l'État cède. La loi défendue par la ministre de la Santé Simone Veil est votée fin 1974 et promulguée le <strong>17 janvier 1975</strong>. Elle autorise l'avortement, mais pour cinq ans seulement, à titre d'essai, sous conditions, et sans remboursement. Le MLAC se dissout en février 1975. La loi devient définitive en 1979 ; l'avortement n'est remboursé qu'à partir de 1982.</p>
+<p>Certains groupes refusent de s'arrêter. À <strong>Aix-en-Provence</strong>, des femmes du MLAC continuent à pratiquer elles-mêmes des avortements, en dehors des hôpitaux. Six d'entre elles sont jugées le 10 mars 1977. Le documentaire <em>Regarde, elle a les yeux grands ouverts</em>, de Yann Le Masson, raconte leur histoire.</p>
+
+<h2 id="chronologie">Chronologie</h2>
+<ol class="timeline">
+<li><b>1920</b><span>Loi qui réprime l'avortement et la contraception.</span></li>
+<li><b>5 avril 1971</b><span>Manifeste des 343.</span></li>
+<li><b>Automne 1972</b><span>Procès de Bobigny.</span></li>
+<li><b>Février 1973</b><span>Manifeste des 331 médecins.</span></li>
+<li><b>Avril 1973</b><span>Naissance du MLAC.</span></li>
+<li><b>Été 1974</b><span>Tournée du MLAC en car à travers la France.</span></li>
+<li><b>17 janv. 1975</b><span>Promulgation de la loi Veil ; le MLAC se dissout le mois suivant.</span></li>
+<li><b>10 mars 1977</b><span>Procès de six femmes du MLAC d'Aix-en-Provence.</span></li>
+<li><b>1979, 1982</b><span>Loi définitive, puis remboursement par la Sécurité sociale.</span></li>
+</ol>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul><li><a href="mlac-debats.html">Médecins, self-help et héritage</a> : ce que le MLAC nous apprend encore.</li></ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le Spéculum, la canule et le miroir. Avorter au MLAC, une histoire</cite></b>, Lucile Ruault, ENS Éditions, 2023.<span>La grande enquête sur les MLAC et les groupes qui ont continué jusqu'en 1984.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><b><cite>Regarde, elle a les yeux grands ouverts</cite></b>, Yann Le Masson, documentaire, 1980.<span>Le MLAC d'Aix-en-Provence, ses avortements et ses accouchements à la maison, son procès.</span></li>
+<li><b><cite>Annie Colère</cite></b>, Blandine Lenoir, 2022.<span>Un film de fiction sur une ouvrière qui découvre le MLAC.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mouvement_pour_la_libert%C3%A9_de_l%27avortement_et_de_la_contraception" rel="noopener">Le MLAC sur Wikipédia</a><span>Fondation, organisation, dissolution.</span></li>
+</ul></section>
+</div>
+
+=== mlac-debats | MLAC | Médecins, self-help et héritage | France · 1973-1975 | Faut-il laisser l'avortement aux médecins ? Le MLAC s'est divisé sur cette question, qui touche au cœur de l'idée libertaire : reprendre le pouvoir sur son corps et sur le savoir.
+<p>Pour la bande à Mamie, le MLAC n'est pas seulement un chapitre de l'histoire du droit à l'avortement. C'est une question qui reste brûlante : <strong>qui a le droit de savoir, et donc de décider, sur nos corps ?</strong></p>
+
+<h2 id="medecins">Le grand débat : les médecins ou nous ?</h2>
+<p>Dès le début, deux visions cohabitent dans le MLAC :</p>
+<div class="tbl"><table>
+<thead><tr><th></th><th>Une affaire de médecins</th><th>Une affaire de femmes</th></tr></thead>
+<tbody>
+<tr><td><b>But</b></td><td>Faire voter une loi, puis que l'hôpital prenne le relais</td><td>Que les femmes reprennent en main leur corps et leur santé</td></tr>
+<tr><td><b>Qui pratique</b></td><td>Des médecins militants, en attendant la loi</td><td>Toute personne formée, médecin ou non</td></tr>
+<tr><td><b>Après la loi</b></td><td>Le mouvement n'a plus de raison d'être</td><td>On continue, car la loi est restrictive et l'hôpital hostile</td></tr>
+</tbody></table></div>
+<p>La seconde vision rejoint le mouvement du <strong>self-help</strong> venu des États-Unis : des groupes de femmes qui apprennent à s'examiner elles-mêmes, avec un spéculum et un miroir, et partagent leurs savoirs sur la contraception, les règles, les grossesses. Le savoir médical, monopolisé par une profession alors très masculine, devient un savoir commun.</p>
+
+<h2 id="libertaire">Une leçon libertaire</h2>
+<ol class="principes">
+<li><b>Action directe</b>faire soi-même plutôt que demander la permission</li>
+<li><b>Désobéissance</b>rendre une loi injuste inapplicable</li>
+<li><b>Savoir partagé</b>un geste médical transmis à toutes</li>
+<li><b>Autonomie</b>disposer de son corps sans tutelle</li>
+</ol>
+<p>Le MLAC a obtenu la loi en la rendant inutile : quand des milliers de gens enfreignent une loi au grand jour, l'État n'a plus que deux choix, réprimer en masse ou céder. Il a cédé. Mais il a aussi repris la main : avec la loi Veil, l'avortement est redevenu une affaire de médecins et d'hôpitaux, avec leurs délais, leurs entretiens obligatoires et leurs refus.</p>
+
+<h2 id="limites">Les limites</h2>
+<ul>
+<li><strong>Un mouvement d'urgence</strong> : beaucoup de militantes et de militants sont partis dès la loi votée, laissant seuls les groupes qui voulaient continuer.</li>
+<li><strong>Le pouvoir des médecins</strong> à l'intérieur même du mouvement : ceux qui savaient faire avaient souvent plus de poids dans les décisions.</li>
+<li><strong>Les femmes les plus pauvres</strong>, étrangères ou loin des grandes villes, ont moins profité des comités, très concentrés en région parisienne.</li>
+</ul>
+
+<h2 id="aujourdhui">Et aujourd'hui ?</h2>
+<p>En 2022, la Cour suprême des États-Unis a supprimé la protection fédérale du droit à l'avortement, et plusieurs États l'ont interdit. Partout, des réseaux d'entraide ont repris les méthodes du MLAC : informer, accompagner, organiser des voyages, faire circuler les pilules abortives. En France, l'avortement est inscrit dans la Constitution depuis 2024, mais des centres ferment et des déserts médicaux s'étendent. La leçon du MLAC tient toujours : <strong>un droit qu'on ne peut pas exercer n'est pas un droit</strong>, et ce qu'on sait faire ensemble, personne ne peut nous le reprendre.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Le MLAC a obtenu la légalisation par l'action directe et la désobéissance.</li>
+<li>Il pose une question toujours vivante : à qui appartient le savoir sur nos corps ?</li>
+<li>À lire avec <a href="../bibliotheque/femme-en-lutte-pour-ses-droits.html">Madeleine Pelletier</a>, médecin qui défendait le droit à l'avortement dès 1913, et voir aussi le soin en manif : <a href="../manif/street-medic.html">Street medic</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le Spéculum, la canule et le miroir. Avorter au MLAC, une histoire</cite></b>, Lucile Ruault, ENS Éditions, 2023.<span>Les débats internes et le self-help, en détail.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mouvement_pour_la_libert%C3%A9_de_l%27avortement_et_de_la_contraception" rel="noopener">Le MLAC sur Wikipédia</a><span>Pour les repères.</span></li>
+</ul></section>
+</div>

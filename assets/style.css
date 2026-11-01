@@ -842,3 +842,173 @@ html.facile {
 .symbole p b { display: block; font: 400 15px/1.2 var(--display); }
 .symboles figcaption { margin-top: 12px; font-size: 14px; }
 @media (max-width: 560px) { .symboles__grille { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* =====================================================================================================
+   Nouvelle organisation (novembre 2026), habillée dans la direction artistique collage de Mamie :
+   bandeau d'édition, quatrième famille Contribuer, accueil en « une », frise des luttes, livre en vedette,
+   colonnes de guides, bande « Agir maintenant », pied de page complet, « À lire aussi », filtres de recherche.
+   ===================================================================================================== */
+
+/* étiquette noire au-dessus des titres (comme .card__tag) */
+.kicker { display: inline-block; align-self: flex-start; justify-self: start; margin: 0; font: 400 12px/1.2 var(--display); text-transform: uppercase; background: var(--ink); color: var(--paper-2); padding: 4px 7px; }
+
+/* bandeau d'édition, au-dessus de l'en-tête : bande noire, machine à écrire */
+.dateline { background: var(--ink); color: var(--paper-2); font: 400 14px/1 var(--mono); }
+:root[data-theme="dark"] .dateline { background: #000; color: var(--ink); }
+.dateline__in { display: flex; align-items: center; justify-content: space-between; gap: 18px; min-height: 32px; }
+.dateline p { margin: 0; }
+.dateline__devise { opacity: .85; text-align: center; }
+.dateline__liens { display: flex; gap: 14px; }
+.dateline a { color: inherit; text-decoration: none; font: 400 13px/1 var(--display); text-transform: uppercase; }
+.dateline a:hover { background: var(--pink); color: var(--on-color); }
+@media (max-width: 1440px) { .dateline__devise { display: none; } }
+.dateline__ed { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+@media (max-width: 560px) { .dateline__liens a:not(:first-child) { display: none; } .dateline { font-size: 12.5px; } }
+
+/* menu : quatre familles, Contribuer en noir */
+.fam--contribuer { --fam: var(--ink); --fam-txt: var(--paper-2); }
+:root[data-theme="dark"] .fam--contribuer { --fam: var(--paper-3); --fam-txt: var(--ink); }
+@media (max-width: 1180px) and (min-width: 861px) { .nav > a, .nav__btn { padding: 10px 7px; font-size: 13.5px; } .nav__btn::after { margin-left: 5px; } .brand__name { font-size: 18px; } .brand__face { width: 44px; height: 44px; } .top__in { gap: 12px; } }
+
+/* ---------- accueil ---------- */
+/* manchette : le titre en lettres de rançon, Mamie sur l'étoile, puis les quatre piliers */
+.manchette { position: relative; overflow: hidden; padding-block: clamp(36px, 6vw, 80px) clamp(40px, 6vw, 72px); }
+.manchette__grid { display: grid; grid-template-columns: minmax(0, 1.1fr) minmax(0, .9fr); gap: 40px; align-items: center; }
+.manchette h1 { font-size: clamp(46px, 8.5vw, 104px); line-height: 1.02; }
+.manchette__accroche { margin: 24px 0 0; max-width: 32ch; font: 400 clamp(19px, 2.2vw, 24px)/1.4 var(--mono); }
+.manchette__pres { margin: 18px 0 0; max-width: 52ch; }
+.piliers { list-style: none; margin: clamp(36px, 5vw, 56px) 0 0; padding: 0; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 22px; }
+.pilier a { display: grid; align-content: start; gap: 8px; height: 100%; padding: 18px 18px 20px; background: var(--paper-2); color: var(--ink); text-decoration: none; border: 3px solid var(--ink); border-top: 14px solid var(--fam); box-shadow: 6px 6px 0 var(--shadow); transition: transform .15s; }
+.pilier:nth-child(1) a { transform: rotate(-.6deg); }
+.pilier:nth-child(3) a { transform: rotate(.5deg); }
+.pilier a:hover { background: var(--fam); color: var(--fam-txt); transform: rotate(0) translateY(-3px); }
+.pilier__n { justify-self: start; font: 400 14px/1 var(--display); background: var(--ink); color: var(--paper-2); padding: 4px 8px; }
+.pilier b { font: 400 clamp(24px, 2.6vw, 32px)/1.05 var(--display); }
+.pilier span:last-child { font-size: 15px; line-height: 1.4; color: var(--muted); }
+.pilier a:hover span:last-child { color: inherit; }
+@media (max-width: 980px) { .piliers { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (max-width: 680px) {
+  .manchette__grid { grid-template-columns: 1fr; }
+  .manchette .hero__art { width: min(86%, 380px); order: -1; }
+  .piliers { grid-template-columns: 1fr; }
+}
+
+/* à la une : la dernière arrivée en grand, sur papier jaune scotché, et le fil des suivantes */
+.une { display: grid; grid-template-columns: minmax(0, 1.4fr) minmax(0, 1fr); gap: 34px; align-items: start; }
+.une__lead { position: relative; filter: drop-shadow(6px 6px 0 var(--shadow)); transform: rotate(-.6deg); }
+.une__lead::before { content: ""; position: absolute; z-index: 1; top: -11px; left: 50%; width: 120px; height: 22px; margin-left: -60px; background: rgba(245, 182, 59, .62); transform: rotate(-4deg); pointer-events: none; }
+.une__lead::after { content: "Tout chaud !"; position: absolute; z-index: 1; top: 22px; right: 22px; padding: 6px 10px; border: 3px solid var(--red-hi); color: var(--red-hi); font: 400 15px/1 var(--display); text-transform: uppercase; transform: rotate(9deg); pointer-events: none; }
+.une__lead a { display: flex; flex-direction: column; gap: 14px; padding: 40px 34px 28px; background: var(--yellow); color: var(--on-color); text-decoration: none; clip-path: var(--torn); }
+.une__lead a:hover { background: var(--yellow); color: var(--on-color); }
+.une__lead h3 { font-size: clamp(28px, 3.6vw, 44px); line-height: 1.06; max-width: 16ch; }
+.une__lead p { margin: 0; font-size: 17px; max-width: 46ch; }
+.une__date { font: 400 13px/1.2 var(--mono); }
+.une__lead .une__date { font-size: 15px; padding-top: 10px; border-top: 2px dashed rgba(23, 20, 20, .35); }
+.une__fil { background: var(--paper-2); padding: 20px 20px 10px; clip-path: var(--torn); transform: rotate(.5deg); }
+.une__tit { display: inline-block; font: 400 14px/1 var(--display); text-transform: uppercase; background: var(--red-hi); color: var(--on-dark); padding: 6px 9px; margin-bottom: 6px; }
+.une__fil ol { list-style: none; margin: 0; padding: 0; counter-reset: f; }
+.une__fil li { counter-increment: f; border-top: 2px dashed rgba(var(--ink-rgb), .3); }
+.une__fil li:first-child { border-top: 0; }
+.une__fil a { display: grid; grid-template-columns: 38px minmax(0, 1fr); gap: 4px 10px; padding: 11px 4px; color: var(--ink); text-decoration: none; }
+.une__fil a::before { content: counter(f, decimal-leading-zero); grid-row: 1 / span 3; font: 400 22px/1 var(--display); color: var(--red); }
+.une__fil a:hover { background: var(--yellow); color: var(--on-color); }
+.une__fil b { font: 400 16px/1.25 var(--display); }
+@media (max-width: 860px) { .une { grid-template-columns: 1fr; } .une__lead a { padding: 40px 22px 22px; } .une__lead::after { top: 14px; right: 12px; font-size: 13px; } }
+
+/* frise des histoires de luttes : bouts de papier déchirés, années sur bandeau rouge */
+.frise { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 210px), 1fr)); gap: 20px; }
+.frise a { display: grid; align-content: start; gap: 8px; height: 100%; padding: 20px 18px 18px; background: var(--paper-2); color: var(--ink); text-decoration: none; clip-path: var(--torn); transition: transform .15s; }
+.frise li:nth-child(3n+1) a { transform: rotate(-.7deg); }
+.frise li:nth-child(3n+2) a { transform: rotate(.5deg); }
+.frise a:hover { background: var(--panel-2); transform: rotate(0) translateY(-3px); color: var(--ink); }
+.frise__an { justify-self: start; font: 400 14px/1.3 var(--display); text-transform: uppercase; background: var(--red-hi); color: var(--on-dark); padding: 4px 9px; transform: rotate(-1.2deg); }
+.frise b { font: 400 19px/1.2 var(--display); }
+.frise span:not(.frise__an) { font-size: 15px; line-height: 1.4; color: var(--ink-2); }
+@media (min-width: 1000px) { .frise { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
+
+/* livre en vedette : couverture collée, texte, et la liste des cinq textes sur papier déchiré */
+.vedette { display: grid; grid-template-columns: minmax(0, 280px) minmax(0, 1fr) minmax(0, 300px); gap: clamp(22px, 4vw, 44px); align-items: start; }
+.couv { position: relative; display: flex; flex-direction: column; justify-content: space-between; aspect-ratio: 3 / 4; padding: 22px 20px; background: var(--paper-2); color: var(--ink); border: 3px solid var(--ink); box-shadow: 8px 8px 0 var(--shadow); text-decoration: none; overflow: hidden; transform: rotate(-1.2deg); transition: transform .15s; }
+.couv::after { content: ""; position: absolute; right: -24%; bottom: -16%; width: 80%; aspect-ratio: 1; background: var(--red); clip-path: polygon(50% 0, 61.2% 34.5%, 97.6% 34.5%, 68.2% 55.9%, 79.4% 90.5%, 50% 69.1%, 20.6% 90.5%, 31.8% 55.9%, 2.4% 34.5%, 38.8% 34.5%); }
+.couv b { position: relative; z-index: 1; font: 400 clamp(21px, 2.1vw, 27px)/1.05 var(--display); text-transform: uppercase; overflow-wrap: anywhere; }
+.couv span { position: relative; z-index: 1; font: 400 15px/1.2 var(--mono); }
+.couv small { position: relative; z-index: 1; font: 400 12px/1 var(--display); text-transform: uppercase; background: var(--ink); color: var(--paper-2); align-self: flex-start; padding: 5px 8px; }
+.couv:hover { color: var(--ink); background: var(--paper-2); transform: rotate(0) translate(-2px, -2px); }
+.vedette__txt h3 { font-size: clamp(26px, 3vw, 38px); line-height: 1.08; margin: 12px 0 14px; }
+.vedette__txt p { margin: 0 0 14px; }
+.liste-bloc { background: var(--paper-2); padding: 18px 18px 8px; clip-path: var(--torn); transform: rotate(.6deg); }
+.liste { list-style: none; margin: 0; padding: 0; }
+.liste li { border-top: 2px dashed rgba(var(--ink-rgb), .3); }
+.liste li:first-child { border-top: 0; }
+.liste a { display: grid; gap: 2px; padding: 10px 4px; color: var(--ink); text-decoration: none; }
+.liste a:hover { background: var(--yellow); color: var(--on-color); }
+.liste b { font: 400 16px/1.25 var(--display); }
+.liste span { font: 400 13.5px/1.2 var(--mono); color: var(--muted); }
+.liste a:hover span { color: inherit; }
+.liste__tit { display: inline-block; font: 400 14px/1.2 var(--display) !important; text-transform: uppercase; background: var(--ink); color: var(--paper-2); padding: 6px 9px; margin: 0 0 6px; }
+@media (max-width: 980px) { .vedette { grid-template-columns: minmax(0, 240px) minmax(0, 1fr); } .vedette .liste-bloc { grid-column: 1 / -1; } }
+@media (max-width: 600px) { .vedette { grid-template-columns: 1fr; } .couv { max-width: 240px; } }
+
+/* colonnes de guides et de parcours : papier déchiré, liens à la machine à écrire */
+.colonnes { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 240px), 1fr)); gap: 22px; }
+.colonne { display: flex; flex-direction: column; gap: 10px; background: var(--paper-2); padding: 26px 22px 22px; clip-path: var(--torn); }
+.colonne:nth-child(3n+1) { transform: rotate(-.6deg); }
+.colonne:nth-child(3n+2) { transform: rotate(.5deg); }
+.colonne:nth-child(2n) .kicker { background: var(--pink); color: var(--on-color); }
+.colonne--fam .kicker { background: var(--fam); color: var(--fam-txt); }
+.colonne h3 { font-size: 21px; line-height: 1.2; }
+.colonne p { margin: 0; }
+.colonne .colonne__note { font: 400 14.5px/1.5 var(--mono); color: var(--muted); }
+.colonne ul { list-style: none; margin: 4px 0 0; padding: 0; display: flex; flex-direction: column; gap: 7px; }
+.colonne li { font: 400 15px/1.4 var(--mono); }
+.colonne li a { color: var(--red-txt); }
+.colonne li a::before { content: "→ "; }
+
+/* bande noire « Agir maintenant » : encre pleine et trame de points, comme le pied de page */
+.sec--noir { background-color: #171414; color: #f6f0e3; background-image: radial-gradient(circle, rgba(246,240,227,.12) 1.3px, transparent 1.7px); background-size: 10px 10px; border-block: 3px solid #171414; }
+:root[data-theme="dark"] .sec--noir { background-color: #0e0c0b; }
+.sec--noir .sec__intro { color: #f6f0e3; }
+.agir-grille { display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(0, 1fr) minmax(0, 1fr); gap: 22px; }
+.agir-grille > a { display: grid; align-content: start; gap: 10px; padding: 22px 22px 24px; color: #f6f0e3; text-decoration: none; border: 3px solid #f6f0e3; box-shadow: 6px 6px 0 var(--red); transition: transform .15s; }
+.agir-grille > a:nth-child(2) { transform: rotate(.6deg); }
+.agir-grille > a:hover { background: var(--pink); border-color: var(--pink); color: var(--on-color); transform: translateY(-3px); }
+.agir-grille .kicker { background: var(--pink); color: var(--on-color); }
+.agir-grille > a:hover .kicker { background: var(--ink); color: var(--paper-2); }
+.agir-grille b { font: 400 clamp(22px, 2.6vw, 30px)/1.1 var(--display); }
+.agir-grille span:not(.kicker):not(.agir-gros) { font-size: 16px; line-height: 1.5; }
+.agir-grille em { font: 400 15px/1 var(--mono); font-style: normal; }
+.agir-grille .agir-gros { font: 400 clamp(60px, 8vw, 100px)/.9 var(--display); color: var(--pink); }
+.agir-grille > a:hover .agir-gros { color: var(--on-color); }
+@media (max-width: 860px) { .agir-grille { grid-template-columns: 1fr; } }
+
+/* ---------- pages de contenu ---------- */
+.gmeta span.gmeta__type { background: var(--red-hi); color: var(--on-dark); border-color: var(--red-hi); }
+/* « À lire aussi » : trois bouts de papier de la même catégorie */
+.aussi { margin-top: 3em !important; }
+.prose .aussi__tit { display: inline-block; font: 400 16px/1.2 var(--display); text-transform: uppercase; background: var(--ink); color: var(--paper-2); padding: 6px 10px; margin: 0; transform: rotate(-1deg); }
+.aussi ul { list-style: none; padding: 0; margin: 16px 0 0; display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 200px), 1fr)); gap: 16px; }
+.aussi li { margin: 0 !important; }
+.aussi a { display: grid; gap: 6px; height: 100%; padding: 16px 16px 14px; background: var(--paper-2); color: var(--ink); text-decoration: none; clip-path: var(--torn); }
+.aussi a:hover { background: var(--yellow); color: var(--on-color); }
+.aussi a b { font: 400 16px/1.25 var(--display); }
+.aussi a span { font-size: 14.5px; line-height: 1.45; color: var(--muted); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.aussi a:hover span { color: inherit; }
+.card__by { font: 400 13.5px/1.3 var(--mono); color: var(--muted); margin-top: -4px; }
+
+/* page de résultats : filtres par type de contenu */
+.stypes { margin-bottom: 30px; }
+
+/* ---------- pied de page : bandeau de présentation, quatre familles, sources et licences ---------- */
+.foot__mast { display: flex; flex-wrap: wrap; align-items: center; gap: 14px 30px; padding-bottom: 26px; border-bottom: 2px dashed rgba(246,240,227,.4); }
+.foot__mast .foot__blurb { margin: 0; flex: 1 1 340px; max-width: 60ch; }
+.foot__mast .foot__social { margin: 0; }
+.foot__in { grid-template-columns: repeat(4, minmax(0, 1fr)); padding-top: 28px; }
+.foot__legal p { margin: 0 0 10px; max-width: 110ch; }
+.foot__liens { display: flex; flex-wrap: wrap; gap: 8px 20px; }
+@media (max-width: 980px) { .foot__in { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 480px) { .foot__in { grid-template-columns: 1fr; } }
+
+/* lecture facile : rien de penché dans les nouveaux blocs */
+.facile .pilier a, .facile .une__lead, .facile .une__lead::before, .facile .une__lead::after, .facile .une__fil, .facile .frise a, .facile .frise__an,
+.facile .couv, .facile .liste-bloc, .facile .colonne, .facile .agir-grille > a, .facile .aussi__tit { transform: none !important; }
+.facile .sec--noir { background-image: none; }

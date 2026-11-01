@@ -14,28 +14,55 @@ function Esc($s) { [Net.WebUtility]::HtmlEncode($s) }
 function JsStr($s) { '"' + ($s -replace '\\', '\\' -replace '"', '\"') + '"' }
 function Slug($s) { ($s.ToLower().Normalize([Text.NormalizationForm]::FormD) -replace '\p{Mn}', '' -replace '[^a-z0-9]+', '-').Trim('-') }
 
+# ---------- dates (édition du jour, date d'arrivée de chaque page) ----------
+$fr = [Globalization.CultureInfo]::GetCultureInfo("fr-FR")
+function Date-Fr($d, $avecJour) {
+  $j = if ($d.Day -eq 1) { "1er" } else { "$($d.Day)" }
+  $s = "$j $($d.ToString('MMMM yyyy', $fr))"
+  if ($avecJour) { $s = "$($d.ToString('dddd', $fr)) $s" }
+  return $s
+}
+$edition = Date-Fr (Get-Date) $true
+# Chaque page reçoit sa date d'arrivée dans _src/textes/apparitions.txt (adresse=date), ajoutée toute seule à la première
+# génération qui la voit : elle sert à la date affichée sur les pages et aux « Dernières publications » de l'accueil.
+$fApp = Join-Path $src "textes\apparitions.txt"
+$app = [ordered]@{}
+foreach ($l in (Read-Utf8 $fApp) -split "`n") { if ($l -match '^([^=#\s]+)=(\S+)') { $app[$Matches[1]] = $Matches[2] } }
+$maintenant = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm")
+function Date-Page($u) { if (-not $app.Contains($u)) { $app[$u] = $maintenant }; return Date-Fr ([datetime]::ParseExact($app[$u].Substring(0, 10), "yyyy-MM-dd", $null)) $false }
+
 $layout = Read-Utf8 (Join-Path $src "layout.html")
 # ---------- les trois grandes familles ----------
 # Tout le site se range dans ces familles : menu, pied de page, accueil ({{FAMILLES}}) et barre de recherche.
 # Rubrique : clé de menu (3e champ de l'en-tête des pages), adresse, nom, description courte, début des adresses de ses pages.
+# Une page appartient à la rubrique dont le début d'adresse est le plus long (agir/lutter-au-lycee passe avant agir/).
 $familles = @(
   [ordered]@{ id = "apprendre"; nom = "Apprendre"; dit = "Comprendre d'où l'on vient"; rubriques = @(
+    @("commencer", "commencer.html", "Par où commencer ?", "Le livre, les cinq textes et les parcours pour débuter", "commencer"),
     @("luttes", "experiences/index.html", "Histoires de luttes", "Commune, Mai 68, Stonewall, MLAC, ZAD, Gilets jaunes…", "experiences/"),
-    @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres libres en entier et fiches de lecture", "bibliotheque/|livres/|lecteur"),
-    @("videos", "videos.html", "Vidéos", "Documentaires et vidéos de Mamie", "videos")) },
+    @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres en entier et fiches de lecture", "bibliotheque/|livres/|lecteur"),
+    @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, ses codes, et agir contre elle", "antifascisme/"),
+    @("videos", "videos.html", "Documentaires et vidéos", "Ni Dieu ni maître, la Commune, et les vidéos de Mamie", "videos")) },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; dit = "Trouver les autres, agir ensemble"; rubriques = @(
-    @("agir", "agir/index.html", "Agir ensemble", "Tenir une AG, monter un collectif, tracts et affiches", "agir/"),
+    @("agir", "agir/index.html", "Agir ensemble", "AG, collectif, caisse de solidarité, grève", "agir/"),
+    @("lycee", "agir/lutter-au-lycee.html", "Lutter au lycée", "AG, blocus, tes droits face aux sanctions", "agir/lutter-au-lycee|agir/organiser-un-blocus|agir/lyceens-face-aux-sanctions"),
+    @("affiches", "agir/affiches-et-tracts.html", "Tracts et affiches", "À imprimer, et les conseils pour faire les tiens", "agir/affiches-et-tracts|agir/faire-un-tract|agir/serigraphie|agir/coller-des-affiches"),
     @("carte", "carte.html", "Carte des collectifs", "Groupes, syndicats, librairies et lieux près de chez toi", "carte"),
-    @("octobre", "mouvement-17-octobre.html", "Mouvement du 17 Octobre", "Où agir : les mobilisations, jour par jour", "mouvement-17-octobre"),
-    @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, agir contre elle", "antifascisme/")) },
+    @("octobre", "mouvement-17-octobre.html", "Mobilisations en cours", "Le mouvement du 17 Octobre, jour par jour", "mouvement-17-octobre")) },
   [ordered]@{ id = "defendre"; nom = "Se défendre"; dit = "Tes droits, ta sécurité"; rubriques = @(
-    @("manif", "manif/index.html", "Guide de manif", "Tes droits face à la police, se soigner en manif", "manif/"),
-    @("outils", "guides/index.html", "Outils numériques", "Signal, vie privée, Linux : se protéger en ligne", "guides/"))
+    @("manif", "manif/index.html", "Guide de manif", "Tes droits face à la police, street medic", "manif/"),
+    @("autodefense", "manif/autodefense-feministe.html", "Autodéfense féministe", "Se défendre, dans la rue et ailleurs", "manif/autodefense-feministe"),
+    @("vss", "agir/violences-dans-nos-collectifs.html", "Violences sexistes et sexuelles", "Réagir quand ça arrive dans nos collectifs", "agir/violences-dans-nos-collectifs"),
+    @("outils", "guides/index.html", "Protection numérique", "Signal, vie privée, Linux et logiciels libres", "guides/")) },
+  [ordered]@{ id = "contribuer"; nom = "Contribuer"; dit = "La boîte s'enrichit à plusieurs mains"; rubriques = @(
+    @("contribuer", "contribuer.html", "Proposer, corriger, ajouter", "Une ressource, un lieu, une erreur, un article", "contribuer"),
+    @("rejoindre", "rejoindre.html", "Rejoins la bande", "Dessin, écriture, archives, voix off, montage", "rejoindre"))
   }
 )
 function Famille-De-Adresse($u) {
-  foreach ($f in $familles) { foreach ($r in $f.rubriques) { foreach ($p in ($r[4] -split '\|')) { if ($u.StartsWith($p)) { return @($f.id, $r[2]) } } } }
-  return @("", "")
+  $best = @("", "", ""); $len = 0
+  foreach ($f in $familles) { foreach ($r in $f.rubriques) { foreach ($p in ($r[4] -split '\|')) { if ($u.StartsWith($p) -and $p.Length -gt $len) { $best = @($f.id, $r[2], $r[0]); $len = $p.Length } } } }
+  return $best
 }
 # Les trois familles en grandes colonnes, pour l'accueil.
 function Familles-Accueil($root) {
@@ -64,9 +91,10 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
     }
     $navHtml += "</div></div>"; $pied += "</nav>"
   }
-  $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts)
+  $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts).Replace("{{EDITION}}", $edition)
   $out = $out.Replace("{{FAMILLES}}", (Familles-Accueil $root))
   if ($out.Contains("{{NOUVEAUTES}}")) { $out = $out.Replace("{{NOUVEAUTES}}", $nouveautes) }
+  foreach ($k in $compteurs.Keys) { $out = $out.Replace("{{$k}}", "$($compteurs[$k])") }
   $out = Clean-Links ($out.Replace("{{R}}", $root))
   # Version dans l'adresse des scripts et styles : les navigateurs reprennent la dernière version à chaque changement.
   return [regex]::Replace($out, '((?:src|href)="(?!https?:|//)[^"?#]+\.(?:js|css))"', ('$1?v=' + $ver + '"'))
@@ -114,6 +142,9 @@ $accroches = @{
   "guides" = "L'atelier de la bande à Mamie"; "bibliotheque" = "Mamie a lu pour toi"; "experiences" = "Mamie raconte"
   "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"
 }
+# Type de contenu affiché sur chaque page (et dans la recherche) : chaque rubrique a son modèle de page (classe gpage--dossier).
+$types = @{ "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
+function Type-De($folder, $g) { if ($folder -eq "manif" -and $g.cat -eq "Legal Team") { return "Guide juridique" }; return $types[$folder] }
 function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
   $accroche = $accroches[$folder]
   for ($i = 0; $i -lt $items.Count; $i++) {
@@ -127,28 +158,35 @@ function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar)
     $nav2 = "<span></span>"
     if ($i -gt 0) { $pv = $items[$i-1]; $nav2 = "<a href=""$($pv.slug).html""><small>← Précédent</small><b>$(Esc $pv.title)</b></a>" }
     if ($i -lt $items.Count - 1) { $nx = $items[$i+1]; $nav2 += "<a href=""$($nx.slug).html""><small>Suivant →</small><b>$(Esc $nx.title)</b></a>" }
-    $meta = "<span>$(Esc $g.cat)</span>"
+    $type = Type-De $folder $g
+    $meta = "<span class=""gmeta__type"">$(Esc $type)</span><span>$(Esc $g.cat)</span>"
     if ($g.by) { $meta += "<span>$(Esc $g.by)</span>" }
-    $meta += "<span>$kind · $mins min</span>"
+    $meta += "<span>$mins min de lecture</span><span>Ajouté le $(Date-Page "$folder/$($g.slug).html")</span>"
+    # À lire aussi : les autres pages de la même catégorie (hors pages voisines déjà proposées), sinon rien.
+    $voisins = @($items | Where-Object { $_.cat -eq $g.cat -and $_.slug -ne $g.slug -and ($i -eq 0 -or $_.slug -ne $items[$i-1].slug) -and ($i -eq $items.Count - 1 -or $_.slug -ne $items[$i+1].slug) } | Select-Object -First 3)
+    $aussi = ""
+    if ($voisins.Count) { $aussi = "<section class=""aussi"" aria-labelledby=""aussi-tit""><h2 id=""aussi-tit"" class=""aussi__tit"">À lire aussi · $(Esc $g.cat)</h2><ul>" + (($voisins | ForEach-Object { "<li><a href=""$($_.slug).html""><b>$(Esc $_.title)</b><span>$(Esc $_.sum)</span></a></li>" }) -join "") + "</ul></section>" }
+    $navPage = (Famille-De-Adresse "$folder/$($g.slug).html")[2]; if (-not $navPage) { $navPage = $nav }
     $body = @"
-<header class="gtitle"><div class="wrap">
+<header class="gtitle gtitle--$folder"><div class="wrap">
   <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">$label</a><span>/</span><a href="index.html#$(Slug $g.cat)">$(Esc $g.cat)</a></p>
   $(if ($accroche) { "<p class=""eyebrow"">$(Esc $accroche)</p>" })
   <h1>$(Esc $g.title)</h1>
   <p class="lead">$(Esc $g.sum)</p>
   <div class="gmeta">$meta</div>
 </div></header>
-<div class="wrap glayout">
+<div class="wrap glayout gpage--$folder">
   <article class="prose">
 $($g.html)
 $(if ($g.html -match 'class="credit"') { "" } else { $credit })
+  $aussi
   <nav class="gnext" aria-label="Pages voisines">$nav2</nav>
   </article>
   <aside class="toc"><h2>Dans cette page</h2><ol>$toc</ol></aside>
 </div>
 "@
     $title = $g.title; if ($g.by) { $title += " — " + ($g.by -split ' · ')[0] }
-    Write-Utf8 (Join-Path $site "$folder\$($g.slug).html") (Render-Page "../" $nav "$title · Mamie Commune" $g.sum $body "")
+    Write-Utf8 (Join-Path $site "$folder\$($g.slug).html") (Render-Page "../" $navPage "$title · Mamie Commune" $g.sum $body "")
   }
   $js = "// Généré par _src/build.ps1 — ne pas modifier à la main.`nwindow.$jsVar = [`n"
   $js += ($items | ForEach-Object { "  { slug: $(JsStr $_.slug), cat: $(JsStr $_.cat), t: $(JsStr $_.title), by: $(JsStr $_.by), d: $(JsStr $_.sum) }" }) -join ",`n"
@@ -303,12 +341,7 @@ $agir = @(Read-Collection "agir")
 Build-Collection $agir "agir" "agir" "Agir ensemble" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>' "AGIR"
 
 # ---------- nouveautés de l'accueil ({{NOUVEAUTES}}) ----------
-# Chaque page reçoit sa date d'arrivée dans _src/textes/apparitions.txt (adresse=date), ajoutée toute seule à la première
-# génération qui la voit. L'accueil montre les six plus récentes, avec une seule carte par dossier d'Histoires de luttes.
-$fApp = Join-Path $src "textes\apparitions.txt"
-$app = [ordered]@{}
-foreach ($l in (Read-Utf8 $fApp) -split "`n") { if ($l -match '^([^=#\s]+)=(\S+)') { $app[$Matches[1]] = $Matches[2] } }
-$maintenant = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm")
+# « À la une » : la page arrivée le plus récemment en grand, puis le fil des suivantes. Une seule entrée par dossier d'Histoires de luttes.
 $neuf = @(); $rang = 0; $dossiers = @{}
 foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"))) {
   foreach ($g in $set[0]) {
@@ -320,9 +353,12 @@ foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibli
 }
 $lignes = @("# Date d'arrivée de chaque page sur le site (adresse=date et heure). Ajoutée toute seule par _src/build.ps1 ; sert aux « Nouveautés » de l'accueil.") + @($app.Keys | ForEach-Object { "$_=$($app[$_])" })
 Write-Utf8 $fApp (($lignes -join "`n") + "`n")
-$nouveautes = "<ul class=""neuf"">" + (($neuf | Sort-Object @{ e = "d"; Descending = $true }, @{ e = "r"; Descending = $true } | Select-Object -First 6 | ForEach-Object {
-  $jour = ([datetime]::ParseExact($_.d.Substring(0, 10), "yyyy-MM-dd", $null)).ToString("d MMMM", [Globalization.CultureInfo]::GetCultureInfo("fr-FR"))
-  "<li><a href=""{{R}}$($_.u)""><span class=""neuf__k"">$(Esc $_.k)</span><b>$(Esc $_.t)</b><span class=""neuf__s"">$(Esc $_.s)</span><span class=""neuf__d"">rangé le $jour</span></a></li>" }) -join "") + "</ul>"
+$recents = @($neuf | Sort-Object @{ e = "d"; Descending = $true }, @{ e = "r"; Descending = $true } | Select-Object -First 8)
+$jourDe = { param($x) Date-Fr ([datetime]::ParseExact($x.d.Substring(0, 10), "yyyy-MM-dd", $null)) $false }
+$lead = $recents[0]
+$nouveautes = "<div class=""une""><article class=""une__lead""><a href=""{{R}}$($lead.u)""><span class=""kicker"">$(Esc $lead.k)</span><h3>$(Esc $lead.t)</h3><p>$(Esc $lead.s)</p><span class=""une__date"">Ajouté le $(& $jourDe $lead)</span></a></article>"
+$nouveautes += "<div class=""une__fil""><h3 class=""une__tit"">Dernières publications</h3><ol>" + (($recents | Select-Object -Skip 1 | ForEach-Object {
+  "<li><a href=""{{R}}$($_.u)""><span class=""kicker"">$(Esc $_.k)</span><b>$(Esc $_.t)</b><span class=""une__date"">$(& $jourDe $_)</span></a></li>" }) -join "") + "</ol></div></div>"
 
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).
@@ -336,13 +372,15 @@ function Heads($html) { ([regex]::Matches($html, '<h[23][^>]*>(.*?)</h[23]>') | 
 $index = @()
 foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"))) {
   foreach ($g in $set[0]) {
-    $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
+    $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; y = (Type-De $set[1] $g); t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
   }
 }
 foreach ($l in $livres) {
-  $index += [pscustomobject]@{ u = "livres/$($l.id).html"; k = "Livre complet"; t = $l.title; d = $l.d; x = "$($l.author) $($l.date) $($l.cat)" }
+  $index += [pscustomobject]@{ u = "livres/$($l.id).html"; k = "Livre complet"; y = "Livre"; t = $l.title; d = $l.d; x = "$($l.author) $($l.date) $($l.cat)" }
 }
 
+# Compteurs de l'accueil ({{NB_LIEUX}}, {{NB_LIVRES}}, {{NB_FICHES}}), calculés à chaque génération.
+$compteurs = @{ NB_LIEUX = ([regex]::Matches((Read-Utf8 (Join-Path $site "data\lieux.js")), '(?m)^\s*\["')).Count; NB_LIVRES = $livres.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
 # ---------- pages ----------
 foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $raw = Read-Utf8 $f.FullName
@@ -355,8 +393,16 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
   if ($f.BaseName -notin @("lecteur", "recherche", "404")) {
-    $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
+    $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; y = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
   }
+}
+# Vidéos dans la recherche : chaque documentaire de la page Vidéos, et chaque publication TikTok de data/videos.js.
+$pageVideos = Read-Utf8 (Join-Path $src "pages\videos.html")
+foreach ($m in [regex]::Matches($pageVideos, '<article class="doc" id="([^"]+)">[\s\S]*?<h3>(.*?)</h3>\s*<p class="doc__meta">(.*?)</p>([\s\S]*?)</article>')) {
+  $index += [pscustomobject]@{ u = "videos.html#$($m.Groups[1].Value)"; k = "Documentaire"; y = "Vidéo"; t = (Plain $m.Groups[2].Value 200); d = (Plain $m.Groups[3].Value 300); x = (Plain $m.Groups[4].Value 600) }
+}
+foreach ($m in [regex]::Matches((Read-Utf8 (Join-Path $site "data\videos.js")), 'titre: "([^"]+)"[^}]*?texte: "([^"]*)"(?:[^}]*?tags: \[([^\]]*)\])?')) {
+  $index += [pscustomobject]@{ u = "videos.html#tiktok"; k = "Vidéo de Mamie"; y = "Vidéo"; t = $m.Groups[1].Value; d = $m.Groups[2].Value; x = ($m.Groups[3].Value -replace '"', '') }
 }
 # Anciennes adresses remplacées : petite page qui renvoie vers la nouvelle (IONOS redirige déjà via .htaccess).
 # Les guides retirés en octobre 2026 (on n'a gardé que l'essentiel) renvoient vers la liste des guides.
@@ -393,7 +439,7 @@ foreach ($id in $ytIds) {
 $js = "// Généré par _src/build.ps1 — ne pas modifier à la main. Utilisé par assets/recherche.js.`n"
 $js += "window.FAMILLES = [" + (($familles | ForEach-Object { $f = $_; "{ id: $(JsStr $f.id), nom: $(JsStr $f.nom), dit: $(JsStr $f.dit), rubriques: [" + (($f.rubriques | ForEach-Object { "{ nom: $(JsStr $_[2]), d: $(JsStr $_[3]), u: $(JsStr (Clean-Url $_[1])) }" }) -join ", ") + "] }" }) -join ", ") + "];`n"
 $js += "window.RECHERCHE = [`n"
-$js += ($index | ForEach-Object { $fr = Famille-De-Adresse ($_.u -replace '\\', '/'); "  { u: $(JsStr (Clean-Url $_.u)), f: $(JsStr $fr[0]), r: $(JsStr $fr[1]), k: $(JsStr $_.k), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
+$js += ($index | ForEach-Object { $fr = Famille-De-Adresse ($_.u -replace '\\', '/'); "  { u: $(JsStr (Clean-Url $_.u)), f: $(JsStr $fr[0]), r: $(JsStr $fr[1]), k: $(JsStr $_.k), y: $(JsStr $_.y), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
 $js += "`n];`n"
 Write-Utf8 (Join-Path $site "data\recherche.js") $js
 Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres et $($exp.Count) pages de dossiers générés."

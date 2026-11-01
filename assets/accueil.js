@@ -26,10 +26,12 @@
         return `<button class="chip" type="button" data-cat="${esc(c)}" aria-pressed="${c === active}">${esc(c)} · ${n}</button>`;
       }).join("");
       const list = (active === "Tout" ? items : items.filter((g) => g.cat === active)).slice(0, limit);
+      // Étiquette = la rubrique ; signature (autrice ou auteur, date) sous le titre, sauf les « D'après… » des fiches pratiques.
+      const signe = (by) => (by && !/^(d['’]après|faits? par)/i.test(by) ? `<span class="card__by">${esc(by)}</span>` : "");
       grid.innerHTML = list.map((g) => `
         <a class="card" href="${base}${esc(g.slug)}">
-          <span class="card__tag">${esc(g.by || g.cat)}</span>
-          <h3>${esc(g.t)}</h3>
+          <span class="card__tag">${esc(g.cat)}</span>
+          <h3>${esc(g.t)}</h3>${signe(g.by)}
           <p>${esc(g.d)}</p>
           <span class="card__go">${cta}</span>
         </a>`).join("");

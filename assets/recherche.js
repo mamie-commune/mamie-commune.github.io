@@ -61,7 +61,9 @@
   window.mamieSearch = (q, fam) => load().then(() => search(q, fam));
 
   // Étiquette d'un résultat : la famille en couleur, puis la rubrique ou le type de page.
-  const etiquette = (r) => `${r.f ? `<em class="fam--${esc(r.f)}">${esc(nomFamille(r.f))}</em>` : ""}${esc(r.k === "Rubrique" ? (r.f ? "Rubrique" : "Page du site") : r.k === "Carte" ? "Lieu sur la carte" : r.k)}`;
+  // Type de contenu (y, donné par _src/build.ps1) : sert à l'étiquette et aux filtres de la page de résultats.
+  const typeDe = (r) => r.k === "Carte" ? "Lieu sur la carte" : r.k === "Rubrique" ? (r.f ? "Rubrique" : "Page du site") : (r.y || r.k);
+  const etiquette = (r) => `${r.f ? `<em class="fam--${esc(r.f)}">${esc(nomFamille(r.f))}</em>` : ""}${esc(typeDe(r))}`;
   // Dans la liste déroulante : options numérotées (pour les flèches du clavier) ; sur la page de résultats : simples liens.
   const item = (r, i) => `<a class="search__item"${i === undefined ? "" : ` role="option" id="sr${i}"`} href="${root}${esc(r.u)}">
       <small>${etiquette(r)}</small><b>${esc(r.t)}</b><span>${esc(r.d)}</span></a>`;
@@ -129,9 +131,23 @@
       const dans = scope.value ? ` dans « ${nomFamille(scope.value)} »` : "";
       if (!q.trim()) { head.textContent = "Tape un mot dans la barre de recherche, en haut."; return; }
       head.textContent = res.length ? `${res.length} résultat${res.length > 1 ? "s" : ""} pour « ${q} »${dans}` : `Rien trouvé pour « ${q} »${dans}. Essaie un autre mot, ou une ville.`;
-      const groups = [...familles.map((f) => [f.id, f.nom, res.filter((r) => r.f === f.id)]), ["", "Autres pages", res.filter((r) => !r.f)]].filter(([, , l]) => l.length);
-      page.innerHTML = groups.map(([id, nom, l]) => `<section class="sgroup${id ? " fam--" + id : ""}"><h2>${esc(nom)} <small>${l.length}</small></h2>
-        <div class="sgroup__list">${l.map((r) => item(r)).join("")}</div></section>`).join("");
+      // Filtres par type de contenu (histoire, livre, fiche pratique, vidéo…), puis résultats rangés par famille.
+      const types = [...new Set(res.map(typeDe))];
+      let type = types.includes(params.get("t")) ? params.get("t") : "";
+      const rendre = () => {
+        const l0 = type ? res.filter((r) => typeDe(r) === type) : res;
+        const groups = [...familles.map((f) => [f.id, f.nom, l0.filter((r) => r.f === f.id)]), ["", "Autres pages", l0.filter((r) => !r.f)]].filter(([, , l]) => l.length);
+        const chips = types.length > 1 ? `<div class="chips stypes" role="group" aria-label="Filtrer par type de contenu">${["", ...types].map((t) =>
+          `<button class="chip" type="button" data-t="${esc(t)}" aria-pressed="${t === type}">${esc(t || "Tout")} · ${t ? res.filter((r) => typeDe(r) === t).length : res.length}</button>`).join("")}</div>` : "";
+        page.innerHTML = chips + groups.map(([id, nom, l]) => `<section class="sgroup${id ? " fam--" + id : ""}"><h2>${esc(nom)} <small>${l.length}</small></h2>
+          <div class="sgroup__list">${l.map((r) => item(r)).join("")}</div></section>`).join("");
+      };
+      page.addEventListener("click", (e) => {
+        const b = e.target.closest("[data-t]"); if (!b) return;
+        type = b.dataset.t; rendre();
+        page.querySelector(`[data-t="${CSS.escape(type)}"]`)?.focus();
+      });
+      rendre();
     });
   }
 })();

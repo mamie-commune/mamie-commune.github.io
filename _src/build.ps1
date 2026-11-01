@@ -41,6 +41,7 @@ $familles = @(
     @("commencer", "commencer.html", "Par où commencer ?", "Le livre, les cinq textes et les parcours pour débuter", "commencer"),
     @("luttes", "experiences/index.html", "Histoires de luttes", "Commune, Mai 68, Stonewall, MLAC, ZAD, Gilets jaunes…", "experiences/"),
     @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres en entier et fiches de lecture", "bibliotheque/|livres/|lecteur"),
+    @("figures", "figures/index.html", "Figures de l'anarchisme", "Portraits de penseuses, penseurs, militantes et militants", "figures/"),
     @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, ses codes, et agir contre elle", "antifascisme/"),
     @("videos", "videos.html", "Documentaires et vidéos", "Ni Dieu ni maître, la Commune, et les vidéos de Mamie", "videos")) },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; dit = "Trouver les autres, agir ensemble"; rubriques = @(
@@ -140,10 +141,10 @@ function Read-Collection($dir) {
 # La voix du site : Mamie et sa bande présentent chaque fiche (petite accroche au-dessus du titre, une par rubrique).
 $accroches = @{
   "guides" = "L'atelier de la bande à Mamie"; "bibliotheque" = "Mamie a lu pour toi"; "experiences" = "Mamie raconte"
-  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"
+  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"; "figures" = "Mamie les a connus (ou presque)"
 }
 # Type de contenu affiché sur chaque page (et dans la recherche) : chaque rubrique a son modèle de page (classe gpage--dossier).
-$types = @{ "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
+$types = @{ "figures" = "Portrait"; "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
 function Type-De($folder, $g) { if ($folder -eq "manif" -and $g.cat -eq "Legal Team") { return "Guide juridique" }; return $types[$folder] }
 function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
   $accroche = $accroches[$folder]
@@ -343,11 +344,13 @@ Build-Collection $manif "manif" "manif" "Guide de manif" "Fiche" '<p class="cred
 # Agir ensemble : chaque catégorie des fiches de _src/agir/ devient une rubrique (Décider ensemble…).
 $agir = @(Read-Collection "agir")
 Build-Collection $agir "agir" "agir" "Agir ensemble" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>' "AGIR"
+$figures = @(Read-Collection "figures")
+Build-Collection $figures "figures" "figures" "Figures de l'anarchisme" "Portrait" '<p class="credit">Portrait écrit par la bande à Mamie. Photo d''époque issue de Wikimedia Commons. Libre de reproduction.</p>' "FIGURES"
 
 # ---------- nouveautés de l'accueil ({{NOUVEAUTES}}) ----------
 # « À la une » : la page arrivée le plus récemment en grand, puis le fil des suivantes. Une seule entrée par dossier d'Histoires de luttes.
 $neuf = @(); $rang = 0; $dossiers = @{}
-foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"))) {
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"))) {
   foreach ($g in $set[0]) {
     $u = "$($set[1])/$($g.slug).html"; $rang++
     if (-not $app.Contains($u)) { $app[$u] = $maintenant }
@@ -374,7 +377,7 @@ function Plain($html, $max) {
 }
 function Heads($html) { ([regex]::Matches($html, '<h[23][^>]*>(.*?)</h[23]>') | ForEach-Object { Plain $_.Groups[1].Value 200 }) -join ' · ' }
 $index = @()
-foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"))) {
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"))) {
   foreach ($g in $set[0]) {
     $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; y = (Type-De $set[1] $g); t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
   }
@@ -393,7 +396,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $body = $raw.Substring($m.Length)
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
-  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
   if ($f.BaseName -notin @("lecteur", "recherche", "404")) {
@@ -411,7 +414,7 @@ foreach ($m in [regex]::Matches((Read-Utf8 (Join-Path $site "data\videos.js")), 
 # Anciennes adresses remplacées : petite page qui renvoie vers la nouvelle (IONOS redirige déjà via .htaccess).
 # Les guides retirés en octobre 2026 (on n'a gardé que l'essentiel) renvoient vers la liste des guides.
 $retires = "distribution-gnu-linux manuel-mint personnaliser-mint depannage-mises-a-jour mises-a-jour raccourcis-clavier raccourcis-clavier-detail linux-pour-debutants deja-linux pourquoi-changer liberer-windows acheter-un-ordinateur obtenir-de-l-aide fin-de-windows-10 youtube-sans-pub quitter-facebook blokada libreoffice choisir-un-service ressources-associations flux-rss" -split " "
-$anciennes = @(@("partage.html", "guides/signal"), @("manif\legal-team-belgique.html", "legal-team"), @("experiences\lyon-1975-histoire.html", "./"), @("experiences\lyon-1975-debats.html", "./")) +($retires | ForEach-Object { , @("guides\$_.html", "./") })
+$anciennes = @(@("partage.html", "guides/signal"), @("manif\legal-team-belgique.html", "legal-team"), @("experiences\lyon-1975-histoire.html", "./"), @("experiences\lyon-1975-debats.html", "./"), @("bibliotheque\les-feuilles-zo-d-axa.html", "../figures/zo-d-axa"), @("bibliotheque\louise-michel-institutrice.html", "../figures/louise-michel")) +($retires | ForEach-Object { , @("guides\$_.html", "./") })
 foreach ($old in $anciennes) {
   Write-Utf8 (Join-Path $site $old[0]) "<!doctype html><html lang=""fr""><head><meta charset=""utf-8""><title>Page déplacée · Mamie Commune</title><meta http-equiv=""refresh"" content=""0; url=$($old[1])""><link rel=""canonical"" href=""$($old[1])""><meta name=""robots"" content=""noindex""></head><body><p>Cette page a déménagé : <a href=""$($old[1])"">suivre Mamie</a>.</p></body></html>"
 }

@@ -1,0 +1,139 @@
+=== action-directe-pratique | Action directe | L'action directe : agir sans intermédiaire | France et monde · depuis 1890 | Grève, boycott, sabotage, occupation, désobéissance : l'action directe, c'est faire soi-même au lieu de demander. Son histoire, des syndicalistes de 1900 aux faucheurs d'OGM.
+<p>Quand Mamie dit « action directe », certains pensent tout de suite aux bombes. C'est un contresens. Pour les syndicalistes révolutionnaires qui ont inventé le mot vers 1900, l'action directe, c'est tout simplement <strong>agir soi-même, sans passer par un député, un patron ou un juge</strong>. La grève est une action directe. Le boycott aussi. Ce dossier en raconte l'histoire ; la <a href="action-directe-groupe.html">deuxième partie</a> parle du groupe armé qui a pris ce nom en 1979, et des critiques que les libertaires lui ont faites.</p>
+
+<h2 id="definition">Une idée simple</h2>
+<p>En 1912, l'anarchiste américaine <a href="../figures/voltairine-de-cleyre.html">Voltairine de Cleyre</a> le résume : chaque fois qu'une personne, ou un groupe, décide de faire une chose et la fait, au lieu de demander à quelqu'un d'autre de la faire à sa place, c'est de l'action directe. Une coopérative, une caisse de grève, une cantine populaire, une manif sauvage : tout ça en fait partie.</p>
+<ul>
+<li><strong>Directe</strong> veut dire « sans intermédiaire », pas « violente ».</li>
+<li>L'action directe s'oppose à l'<strong>action indirecte</strong> : voter, faire pression sur des élus, attendre une loi.</li>
+<li>Elle repose sur une idée : <strong>on obtient ce qu'on a la force de prendre</strong>, et on apprend à s'organiser en le faisant.</li>
+</ul>
+
+<h2 id="cgt">1895-1914 : la CGT et le syndicalisme révolutionnaire</h2>
+<figure class="photo"><img src="../assets/img/revolutions/ad-courrieres-1906.jpg" alt="Cinq mineurs en grève posent autour d'un wagonnet sur lequel est écrit « Grève », en 1906." width="1200" height="765" loading="lazy"><figcaption>Mineurs en grève après la catastrophe de Courrières, dans le Pas-de-Calais, en 1906. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Catastrophe_de_Courri%C3%A8res_-_Les_mineurs_en_gr%C3%A8ve.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>À la fin du XIXe siècle, beaucoup d'anarchistes français tournent le dos aux attentats et entrent dans les syndicats. La <strong>CGT</strong>, fondée en 1895, devient leur terrain. <a href="../figures/emile-pouget.html">Émile Pouget</a>, son secrétaire adjoint, écrit en 1904 la brochure <a href="../livres/l-action-directe-pouget.html">L'Action directe</a>.</p>
+<ul>
+<li><strong>Mars 1906</strong> : un coup de grisou tue plus de mille mineurs à <strong>Courrières</strong>. La compagnie avait ignoré les alertes. Les mineurs se mettent en grève, malgré l'armée.</li>
+<li><strong>1er mai 1906</strong> : la CGT lance une grande grève pour la <strong>journée de huit heures</strong>, sans attendre le Parlement.</li>
+<li><strong>Octobre 1906</strong> : la <strong>Charte d'Amiens</strong> affirme que le syndicat doit lutter tous les jours pour les salaires et les horaires, et préparer la grève générale qui permettra aux travailleurs de prendre en main la production, indépendamment des partis.</li>
+</ul>
+
+<h2 id="moyens">La boîte à outils</h2>
+<div class="rubriques rubriques--2">
+<div class="rubrique"><h3>La grève</h3><p>Arrêter le travail, c'est montrer qui fait tourner la boutique. Grève générale, grève tournante, grève du zèle (appliquer tous les règlements à la lettre jusqu'à tout ralentir).</p></div>
+<div class="rubrique"><h3>Le boycott</h3><p>Ne plus acheter, ne plus vendre, ne plus travailler pour un patron ou un produit. Le mot vient d'un régisseur irlandais, Charles Boycott, mis en quarantaine par tout un village en 1880.</p></div>
+<div class="rubrique"><h3>Le sabotage</h3><p>Chez Pouget, c'est d'abord le travail ralenti ou bâclé (« à mauvaise paye, mauvais travail »), ou dire aux clients la vérité sur la marchandise. Pas forcément casser des machines.</p></div>
+<div class="rubrique"><h3>L'occupation</h3><p>Rester dans l'usine, la fac, le lycée ou le champ au lieu d'en sortir. Le patron ne peut plus faire venir de remplaçants.</p></div>
+<div class="rubrique"><h3>La réquisition</h3><p>Prendre ce dont on a besoin : logements vides réquisitionnés, stocks saisis, terres reprises, «&nbsp;autoréductions&nbsp;» où l'on paie le prix jugé juste.</p></div>
+<div class="rubrique"><h3>La désobéissance</h3><p>Enfreindre une loi injuste à visage découvert, ensemble, et assumer le procès pour en faire une tribune.</p></div>
+</div>
+
+<h2 id="iww">1905-1919 : les IWW et la grève de Seattle</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/ad-iww-paterson-1913.jpg" alt="Affiche de 1913 : un ouvrier géant se dresse au-dessus d'une usine, avec les lettres IWW." width="400" height="593" loading="lazy"><figcaption>Affiche du spectacle organisé à New York pour soutenir la grève des ouvriers de la soie de Paterson, en 1913. <small>Robert Edmond Jones · domaine public · <a href="https://commons.wikimedia.org/wiki/File:IWW_Paterson_Silk_Strike_Poster_1913.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Aux États-Unis, les <strong>Industrial Workers of the World</strong> (IWW), fondés en 1905 avec <a href="../figures/lucy-parsons.html">Lucy Parsons</a>, organisent celles et ceux que les autres syndicats rejettent : immigrés, femmes, Noirs, saisonniers. Ils mènent des grèves géantes dans le textile, à Lawrence en 1912 et à Paterson en 1913.</p>
+<figure class="photo"><img src="../assets/img/revolutions/ad-seattle-1919.jpg" alt="Des ouvriers sortent en foule des chantiers navals de Seattle en février 1919." width="700" height="558" loading="lazy"><figcaption>Les ouvriers des chantiers navals quittent le travail au début de la grève générale de Seattle, en février 1919. <small>Webster &amp; Stevens · domaine public · <a href="https://commons.wikimedia.org/wiki/File:General_strike_participants_leaving_shipyards,_Seattle,_February_1919_(MOHAI_11087).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p><strong>Février 1919</strong> : à <strong>Seattle</strong>, 65 000 travailleuses et travailleurs cessent le travail pendant cinq jours. Un comité de grève prend en charge ce qui compte : le lait pour les enfants, les repas, le ramassage des ordures, les hôpitaux. Pendant quelques jours, la ville tourne sans patrons. La presse et le maire crient à la révolution bolchevique.</p>
+
+<h2 id="1936">Juin 1936 : les usines occupées</h2>
+<figure class="photo"><img src="../assets/img/revolutions/ad-occupation-1936.jpg" alt="Des grévistes posent sur le toit et devant la porte d'une usine métallurgique occupée en 1936." width="1200" height="839" loading="lazy"><figcaption>Grévistes dans une usine métallurgique occupée de la banlieue parisienne, en juin 1936. <small>Agence Meurisse · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Gr%C3%A9vistes-m%C3%A9tallurgie-usine-banlieue-Paris1936.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Après la victoire électorale du Front populaire, ce ne sont pas les ministres qui bougent les premiers : ce sont les ouvrières et les ouvriers. En mai et juin 1936, près de <strong>deux millions de grévistes</strong> occupent leurs usines et leurs magasins, avec bals, chorales et cantines. Le patronat, paniqué, signe les accords Matignon : hausses de salaires, <strong>congés payés</strong>, semaine de quarante heures. Les congés payés n'étaient même pas dans le programme du Front populaire : c'est la grève qui les a arrachés.</p>
+
+<h2 id="lip">1973 : Lip, « on fabrique, on vend, on se paie »</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/ad-lip-1973.jpg" alt="Tract tapé à la machine titré « Pour la victoire des grévistes de Lip », 1973." width="1200" height="1582" loading="lazy"><figcaption>Un des nombreux tracts de soutien aux grévistes de Lip, ici publié par un groupe maoïste, en 1973. <small>auteur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Pour_la_victoire_des_gr%C3%A9vistes_de_LIP.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>À Besançon, l'usine de montres <strong>Lip</strong> doit fermer et licencier. En juin 1973, les salariés occupent l'usine, mettent le stock de montres à l'abri et <strong>relancent la production eux-mêmes</strong>. Ils vendent les montres dans toute la France et se versent leurs salaires. Leur slogan fait le tour du pays. Une immense marche de soutien réunit plus de 100 000 personnes à Besançon en septembre. Lip devient le symbole de l'autogestion.</p>
+
+<h2 id="aujourdhui">Aujourd'hui : bloquer, désobéir, réquisitionner</h2>
+<figure class="photo"><img src="../assets/img/revolutions/ad-faucheurs.jpg" alt="Des militantes et militants des Faucheurs volontaires dans un entrepôt de semences." width="1200" height="900" loading="lazy"><figcaption>Action des Faucheurs volontaires d'OGM dans un entrepôt de semences, à Carcassonne. <small>Yann · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Action_des_Faucheurs_volontaires_d%27OGM_dans_l%27entrep%C3%B4t_d%27Arterris,_Carcassonne_01.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<ul>
+<li><strong>Les Faucheurs volontaires</strong>, depuis 2003, arrachent des cultures d'OGM à visage découvert et revendiquent leur geste devant les tribunaux.</li>
+<li><strong>Droit au logement</strong> réquisitionne des immeubles vides depuis 1994 pour y loger des familles.</li>
+<li><strong>Les blocages</strong> : raffineries et dépôts pendant les grèves, ronds-points des <a href="gilets-jaunes-histoire.html">Gilets jaunes</a>, lycées en <a href="../agir/organiser-un-blocus.html">blocus</a>.</li>
+<li><strong>Les occupations de terres</strong>, comme sur la <a href="zad-histoire.html">ZAD de Notre-Dame-des-Landes</a>, où l'occupation a fait abandonner un aéroport.</li>
+<li><strong>Les caisses de grève et cantines</strong> : l'action directe, c'est aussi nourrir celles et ceux qui tiennent le piquet.</li>
+</ul>
+<div class="callout">
+<p><strong>Attention à toi.</strong> Certaines formes d'action directe sont illégales et la répression est réelle : garde à vue, amendes, procès, licenciement. On ne s'y lance pas seul, ni sans connaître ses droits. Prépare-toi avec la bande, et lis d'abord les fiches de Mamie.</p>
+<div class="callout__links"><a href="../manif/legal-team.html">Tes droits en manif →</a><a href="../agir/lancer-une-greve.html">Lancer une grève →</a><a href="../agir/caisse-de-solidarite.html">Monter une caisse de solidarité →</a></div>
+</div>
+
+<h2 id="lire">À lire sur le site</h2>
+<ul>
+<li><a href="../livres/l-action-directe-pouget.html">L'Action directe</a>, d'Émile Pouget, et <a href="../livres/comment-nous-ferons-la-revolution.html">Comment nous ferons la Révolution</a>, de Pataud et Pouget : la grève générale imaginée de bout en bout.</li>
+<li>La fiche <a href="../bibliotheque/de-l-action-directe.html">De l'action directe</a>, de Voltairine de Cleyre.</li>
+<li>Le dossier <a href="mai-68-histoire.html">Mai 68</a>, la plus grande grève de l'histoire de France.</li>
+<li>La suite : <a href="action-directe-groupe.html">Le groupe Action directe (1979-1987) et la critique libertaire</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Action directe</cite></b>, Émile Pouget, 1904.<span>Le texte fondateur, <a href="../livres/l-action-directe-pouget.html">en entier sur le site</a>.</span></li>
+<li><b><cite>Le Sabotage</cite></b>, Émile Pouget, 1910.<span>Ce que les syndicalistes entendaient vraiment par là.</span></li>
+<li><b><cite>Histoire du mouvement anarchiste en France</cite></b>, Jean Maitron, éd. Gallimard.<span>Le classique sur les anarchistes et le syndicalisme.</span></li>
+<li><b><cite>Trop jeunes pour mourir. Ouvriers et révolutionnaires face à la guerre (1909-1914)</cite></b>, Guillaume Davranche, éd. Libertalia, 2014.<span>La CGT révolutionnaire au quotidien.</span></li>
+<li><b><cite>L'Affaire Lip, 1968-1981</cite></b>, Donald Reid, Presses universitaires de Rennes, 2020.<span>L'histoire de l'occupation et de ses suites.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Action_directe_(th%C3%A9orie_politique)" rel="noopener">L'action directe, théorie politique</a><span>Une présentation et ses références.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Charte_d%27Amiens" rel="noopener">La Charte d'Amiens</a><span>Le texte de 1906 et son contexte.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Gr%C3%A8ve_g%C3%A9n%C3%A9rale_de_Seattle" rel="noopener">La grève générale de Seattle</a><span>Les cinq jours de 1919.</span></li>
+</ul></section>
+</div>
+
+=== action-directe-groupe | Action directe | Le groupe Action directe (1979-1987) et la critique libertaire | France · 1979-1987 | Un petit groupe armé reprend le nom d'action directe, passe des mitraillages de façades aux assassinats, puis finit en prison. Pourquoi les libertaires disent que ce n'était pas ça, l'action directe.
+<p>De 1979 à 1987, un petit groupe clandestin s'est appelé <strong>Action directe</strong>. Il a commencé par des attaques contre des bâtiments et a fini par assassiner un général et un patron. Depuis, en France, beaucoup de gens confondent les deux sens du mot. La bande à Mamie raconte cette histoire sans rien glorifier, et explique pourquoi la plupart des anarchistes l'ont critiquée.</p>
+
+<h2 id="origines">D'où vient le groupe</h2>
+<ul>
+<li>Années 1970 : après Mai 68, une partie de l'extrême gauche européenne choisit la <strong>lutte armée</strong>. En Allemagne, la Fraction armée rouge (RAF) ; en Italie, les Brigades rouges.</li>
+<li>En France, de petits groupes libertaires mènent des actions contre l'Espagne de Franco, comme les <strong>GARI</strong> en 1973-1974, qui veulent sauver des militants condamnés à mort. D'autres, les <strong>NAPAP</strong>, revendiquent en 1977 l'assassinat du vigile de Renault qui avait tué le militant maoïste Pierre Overney en 1972.</li>
+<li>Le <strong>1er mai 1979</strong>, une première action est signée « Action directe » : le mitraillage de la façade du siège du patronat (le CNPF), à Paris. Le groupe est animé notamment par Jean-Marc Rouillan, ancien des GARI, et Nathalie Ménigon.</li>
+</ul>
+
+<h2 id="escalade">L'escalade</h2>
+<ul>
+<li><strong>1979-1980</strong> : attentats contre des bâtiments publics, des ministères, des entreprises, en principe sans victimes. Arrestations en 1980.</li>
+<li><strong>1981</strong> : l'amnistie qui suit l'élection de François Mitterrand fait sortir les membres du groupe de prison.</li>
+<li><strong>1982</strong> : le groupe reprend ses attentats, se divise, et est dissous par le gouvernement. Des membres se lancent dans des braquages, dont certains font des morts, parmi lesquels des policiers.</li>
+<li><strong>1985</strong> : la branche dite « internationale » s'allie à la RAF allemande au nom d'un « front anti-impérialiste ». Le <strong>25 janvier 1985</strong>, elle assassine le général <strong>René Audran</strong>, haut responsable des ventes d'armes au ministère de la Défense.</li>
+<li><strong>17 novembre 1986</strong> : elle assassine <strong>Georges Besse</strong>, PDG de Renault, devant chez lui, en pleine période de licenciements massifs dans l'entreprise.</li>
+<li><strong>21 février 1987</strong> : quatre membres, Jean-Marc Rouillan, Nathalie Ménigon, Joëlle Aubron et Georges Cipriani, sont arrêtés dans une ferme de <strong>Vitry-aux-Loges</strong>, dans le Loiret. La branche lyonnaise avait été arrêtée quelques mois plus tôt.</li>
+</ul>
+
+<h2 id="suites">Procès et prison</h2>
+<ul>
+<li>Ils sont jugés par une <strong>cour d'assises spéciale</strong>, composée uniquement de magistrats, sans jury populaire. Cette juridiction a été créée par la loi antiterroriste de septembre 1986, après des menaces contre des jurés. Ils sont condamnés à la <strong>réclusion à perpétuité</strong>.</li>
+<li>Ils passent de longues années à l'isolement et mènent plusieurs grèves de la faim. Joëlle Aubron, malade, est libérée en 2004 et meurt en 2006. Nathalie Ménigon, Georges Cipriani et Jean-Marc Rouillan sortent entre 2007 et 2012, après plus de vingt ans de détention.</li>
+</ul>
+
+<h2 id="critique">La critique libertaire</h2>
+<p>Pendant toutes ces années, la grande majorité des organisations anarchistes et syndicalistes ont refusé de soutenir les actions du groupe, tout en dénonçant ses conditions de détention. Leurs arguments tiennent encore.</p>
+<ul>
+<li><strong>Ce n'est pas de l'action directe.</strong> Pour les syndicalistes de 1900, l'action directe est celle des premiers concernés, en masse : les ouvriers d'une usine qui font grève. Un petit commando qui agit <em>à la place</em> des travailleurs fait exactement l'inverse : il les remplace. On appelle ça le <strong>substitutionnisme</strong>.</li>
+<li><strong>Une avant-garde, encore une.</strong> Le groupe s'est rapproché d'une idéologie marxiste-léniniste, « anti-impérialiste », qui fait d'une poignée de militants armés les guides du peuple. C'est tout ce que les anarchistes reprochent aux partis.</li>
+<li><strong>La clandestinité isole.</strong> Vivre caché, armé, coupé des luttes, transforme un collectif en secte et rend fou. Personne ne peut plus rien décider avec le groupe, ni le contrôler.</li>
+<li><strong>Tuer un patron ne change pas le système.</strong> Après Georges Besse, Renault a eu un autre PDG, et les licenciements ont continué. L'oppression est un rapport social, pas une personne. <a href="../figures/malatesta.html">Malatesta</a> le disait déjà cent ans plus tôt.</li>
+<li><strong>Un cadeau à l'État.</strong> Les attentats ont servi à justifier des lois d'exception : la justice antiterroriste centralisée, les gardes à vue prolongées, les cours sans jury. Ces outils servent encore aujourd'hui contre des militantes et militants qui n'ont rien à voir avec la lutte armée.</li>
+</ul>
+<p>La question de la violence n'est pas simple, et Mamie ne prétend pas la régler. Les <a href="black-panthers-histoire.html">Black Panthers</a>, les milices de la <a href="espagne-1936-histoire.html">révolution espagnole</a> ou les combattantes du <a href="rojava-histoire.html">Rojava</a> ont pris les armes pour se défendre, au sein de mouvements de masse. Ce qui distingue l'autodéfense d'un peuple du terrorisme d'un petit groupe, c'est justement ça : <strong>qui agit, pour qui, et sous le contrôle de qui</strong>.</p>
+
+<h2 id="retenir">Ce qu'on retient</h2>
+<ul>
+<li>Le mot « action directe » appartient d'abord aux grévistes, aux occupantes, aux boycotteurs : ne le laissons pas aux seuls commandos.</li>
+<li>L'action la plus « directe » est celle qui donne du pouvoir au plus grand nombre, pas celle qui fait le plus de bruit.</li>
+<li>La répression construite contre la lutte armée finit toujours par viser tout le monde.</li>
+</ul>
+<p>Retour au début du dossier : <a href="action-directe-pratique.html">L'action directe : agir sans intermédiaire</a>.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Une histoire du terrorisme</cite></b>, Michaël Prazan, éd. Flammarion, 2012.<span>Pour replacer le groupe dans son époque.</span></li>
+<li><b><cite>Histoire de l'anarchisme</cite></b>, Jean Préposiet, éd. Tallandier.<span>Le débat ancien entre « propagande par le fait » et organisation de masse.</span></li>
+<li><b><cite>Dix questions sur l'anarchisme</cite></b>, Guillaume Davranche, 2020.<span>Le chapitre sur la violence et la stratégie : <a href="../livres/dix-questions-anarchisme.html">à lire sur le site</a>.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Action_directe_(groupe_arm%C3%A9)" rel="noopener">Action directe (groupe armé) sur Wikipédia</a><span>La chronologie détaillée.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Loi_du_9_septembre_1986_relative_%C3%A0_la_lutte_contre_le_terrorisme" rel="noopener">La loi antiterroriste de 1986</a><span>Les lois d'exception nées de cette période.</span></li>
+</ul></section>
+</div>

@@ -55,6 +55,31 @@ $images = [ordered]@{
   "queer-pelletier"               = "File:Madeleine Pelletier 1.jpg"
   "queer-tract-fierte-1970"       = "File:Christopher Street Liberation Day. June 28 1970.jpg"
   "queer-glf-londres-1971"        = "File:Demonstration, with Gay Liberation Front Banner, 1971 (7374381322).jpg"
+  # Portraits des Figures de l'anarchisme (Bibliothèque, _src/figures/)
+  "figure-proudhon"               = "File:Portrait Pierre-Joseph Proudhon (cropped).jpg"
+  "figure-bakounine"              = "File:Bakunin.png"
+  "figure-louise-michel"          = "File:Louise Michel2.jpg"
+  "figure-reclus"                 = "File:Élisée Reclus, photo par Nadar, 1889.jpg"
+  "figure-kropotkine"             = "File:Atelier Nadar - Pierre Kropotkine.jpg"
+  "figure-malatesta"              = "File:Malatesta.png"
+  "figure-lucy-parsons"           = "File:1886 Photo Lucy Parsons.jpg"
+  "figure-pouget"                 = "File:Pouget. Émile, Jean, Joseph. 31 ans, né le 12-10-60 à Rodez (Aveyron). Publiciste. Anarchiste. 26-4-92. MET DP290755.jpg"
+  "figure-zo-d-axa"               = "File:Zo d'Axa portrait.jpg"
+  "figure-de-cleyre"              = "File:VoltairinedeCleyre.jpg"
+  "figure-goldman"                = "File:Portrait Emma Goldman.jpg"
+  "figure-flores-magon"           = "File:Ricardo F. Magon LCCN2014686092 Trim.jpg"
+  "figure-kanno-sugako"           = "File:Kanno.Suga.jpg"
+  "figure-ito-noe"                = "File:Ito Noe 2.jpg"
+  "figure-sanchez-saornil"        = "File:Lucia Sanchez Saornil.jpg"
+  "figure-durruti"                = "File:Jose Buenaventura Durruti Dumange 1936.jpg"
+  "figure-sail-mohamed"           = "File:Mohamed Saïl (détail).jpg"
+  # Dossier Action directe (_src/experiences/0y-action-directe.txt)
+  "ad-courrieres-1906"            = "File:Catastrophe de Courrières - Les mineurs en grève.jpg"
+  "ad-iww-paterson-1913"          = "File:IWW Paterson Silk Strike Poster 1913.jpg"
+  "ad-seattle-1919"               = "File:General strike participants leaving shipyards, Seattle, February 1919 (MOHAI 11087).jpg"
+  "ad-occupation-1936"            = "File:Grévistes-métallurgie-usine-banlieue-Paris1936.jpg"
+  "ad-lip-1973"                   = "File:Pour la victoire des grévistes de LIP.jpg"
+  "ad-faucheurs"                  = "File:Action des Faucheurs volontaires d'OGM dans l'entrepôt d'Arterris, Carcassonne 01.jpg"
 }
 
 $jpeg = [Drawing.Imaging.ImageCodecInfo]::GetImageEncoders() | Where-Object { $_.MimeType -eq "image/jpeg" }

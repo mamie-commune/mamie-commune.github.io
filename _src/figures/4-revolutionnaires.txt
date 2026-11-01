@@ -1,0 +1,146 @@
+=== nestor-makhno | Révolutionnaires | Nestor Makhno, le Batko des paysans | Ukraine · 1888-1934 | Fils de paysans pauvres, il anime pendant quatre ans une révolution sans État dans le sud de l'Ukraine, avant de mourir ouvrier et exilé à Paris.
+<p>Makhno a eu deux vies : celle d'un chef de guérilla que les armées de toute l'Ukraine redoutaient, et celle d'un exilé tuberculeux qui travaillait en usine à Paris. Mamie a un faible pour la seconde aussi : il n'a jamais renié ses idées, même seul et pauvre.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/makhno-1919.jpg" alt="Nestor Makhno en 1919." width="632" height="890" loading="lazy"><figcaption>Nestor Makhno en 1919. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Makhno-1919.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1888</strong> à Houliaïpole, dans le sud de l'Ukraine. Enfant, il garde les troupeaux des riches.</li>
+<li>Anarchiste à dix-huit ans, il est condamné aux <strong>travaux forcés à perpétuité</strong> en 1910. Il passe sept ans à la prison de la Boutyrka, à Moscou.</li>
+<li>Libéré par la révolution de 1917, il rentre chez lui et aide les paysans à <strong>reprendre la terre</strong>. Pendant quatre ans, il anime l'armée insurrectionnelle qui combat les Allemands, les Blancs, les nationalistes, et finalement l'Armée rouge.</li>
+<li><strong>1921</strong> : vaincu par les bolcheviks, il fuit en Roumanie, puis en Pologne, où il est emprisonné, et arrive à <strong>Paris</strong> en 1925.</li>
+<li>Il y travaille comme ouvrier, malade et pauvre, écrit ses mémoires et participe aux débats anarchistes. Il meurt de la tuberculose en <strong>1934</strong>. Ses cendres reposent au cimetière du Père-Lachaise.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>La terre à celles et ceux qui la travaillent</strong>, sans attendre la permission d'un gouvernement.</li>
+<li><strong>Les soviets libres</strong> : des congrès de paysans et d'ouvriers qui décident eux-mêmes, sans parti au-dessus.</li>
+<li><strong>L'organisation des anarchistes</strong> : en exil, il défend avec Piotr Archinov la « Plateforme », un projet d'organisation anarchiste plus unie, qui fait encore débat aujourd'hui.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>La propagande soviétique a accusé les makhnovistes de pogroms antisémites. Les historiens ont montré que Makhno les a combattus, qu'il a fait fusiller des responsables de pogroms et que des Juifs ont occupé des postes importants dans son mouvement. Mais c'était une guerre civile atroce, et ses troupes n'ont pas été sans violences. Le dossier complet en parle.</p>
+
+<h2 id="lire">Sur le site</h2>
+<ul>
+<li>Le dossier en trois parties : <a href="../experiences/makhno-histoire.html">Makhno et la Makhnovtchina</a>, <a href="../experiences/makhno-organisation.html">Soviets libres, congrès et armée insurrectionnelle</a> et <a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Histoire du mouvement makhnoviste</cite></b>, Piotr Archinov, 1923.<span>Le récit d'un compagnon de Makhno.</span></li>
+<li><b><cite>Nestor Makhno, le cosaque libertaire</cite></b>, Alexandre Skirda, 1982.<span>La grande biographie en français.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Nestor_Makhno" rel="noopener">Nestor Makhno sur Wikipédia</a><span>Repères biographiques.</span></li>
+</ul></section>
+</div>
+
+=== ricardo-flores-magon | Révolutionnaires | Ricardo Flores Magón, Terre et liberté | Mexique · 1873-1922 | Journaliste mexicain, il combat la dictature de Porfirio Díaz depuis l'exil américain et donne à la révolution mexicaine son cri anarchiste : Tierra y Libertad.
+<p>« Terre et liberté » : ce cri de la révolution mexicaine, on l'attribue souvent à Zapata. C'est Ricardo Flores Magón qui l'a popularisé, avec son journal <em>Regeneración</em>. Il a passé la moitié de sa vie adulte en prison, des deux côtés de la frontière, et il est mort dans une cellule américaine.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-flores-magon.jpg" alt="Portrait de Ricardo Flores Magón, moustache et costume." width="1200" height="1516" loading="lazy"><figcaption>Ricardo Flores Magón. <small>Bain News Service · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Ricardo_F._Magon_LCCN2014686092_Trim.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1873</strong> dans l'État d'Oaxaca, au Mexique. Son père, d'origine indigène, lui raconte la vie communautaire des villages, où la terre appartient à toutes et tous.</li>
+<li><strong>1900</strong> : avec ses frères, il fonde le journal <em>Regeneración</em>, qui attaque la dictature de <strong>Porfirio Díaz</strong>. Prisons, journal interdit : il s'exile aux États-Unis en 1904.</li>
+<li><strong>1906</strong> : depuis l'exil, il anime le <strong>Parti libéral mexicain</strong>, qui organise des grèves et des soulèvements. Il devient de plus en plus clairement anarchiste.</li>
+<li><strong>1911</strong> : pendant la révolution, des troupes du Parti libéral prennent des villes de <strong>Basse-Californie</strong> sous le drapeau rouge de « Tierra y Libertad ». L'expérience tourne court.</li>
+<li><strong>1918</strong> : aux États-Unis, il signe un manifeste anarchiste contre la guerre. Il est condamné à vingt ans de prison. Il meurt au pénitencier de <strong>Leavenworth</strong>, au Kansas, en <strong>1922</strong>, dans des circonstances jamais éclaircies.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>Terre et liberté</strong> : rendre la terre aux communautés paysannes et indigènes, sans propriétaires ni gouvernement.</li>
+<li><strong>Les communautés indigènes</strong> comme exemple vivant d'une société sans État.</li>
+<li><strong>Une révolution sociale</strong>, pas un simple changement de président.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>L'épisode de Basse-Californie a été utilisé contre lui : des aventuriers américains s'étaient mêlés aux troupes, et ses adversaires l'ont accusé de vouloir livrer la région aux États-Unis. Cette accusation a pesé longtemps sur sa mémoire. Aujourd'hui, les <a href="../experiences/zapatistes-histoire.html">zapatistes du Chiapas</a> se réclament de lui comme de Zapata.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Révolution mexicaine</cite></b>, Ricardo Flores Magón, textes réunis et traduits en français.<span>Ses textes de 1910-1918.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Ricardo_Flores_Mag%C3%B3n" rel="noopener">Ricardo Flores Magón sur Wikipédia</a><span>Repères biographiques.</span></li>
+</ul></section>
+</div>
+
+=== durruti | Révolutionnaires | Buenaventura Durruti, un monde nouveau dans nos cœurs | Espagne · 1896-1936 | Mécanicien de León, militant de la CNT, exilé, puis chef de la colonne qui porte son nom sur le front d'Aragon : la figure la plus célèbre de la révolution espagnole.
+<p>À l'enterrement de Durruti, à Barcelone, des centaines de milliers de personnes ont défilé. C'est dire ce qu'il représentait : un ouvrier devenu le symbole de la révolution de 1936. La bande à Mamie le raconte sans en faire un saint.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-durruti.jpg" alt="Buenaventura Durruti en 1936, en veste de cuir." width="1200" height="1911" loading="lazy"><figcaption>Buenaventura Durruti en 1936. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Jose_Buenaventura_Durruti_Dumange_1936.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1896</strong> à León, dans le nord de l'Espagne. Mécanicien dans les chemins de fer, il participe à la grève générale de 1917 et doit s'exiler.</li>
+<li>Années 1920 : avec Francisco Ascaso et Juan García Oliver, il forme le groupe <strong>Los Solidarios</strong>. Contre les tueurs payés par le patronat de Barcelone, qui assassinent des syndicalistes, ils répondent par les armes. Ils attaquent aussi des banques pour financer la lutte.</li>
+<li>Exil en Amérique latine, en France, en Belgique. Revenu en Espagne avec la République en 1931, il est plusieurs fois emprisonné pendant les insurrections de la CNT.</li>
+<li><strong>19 juillet 1936</strong> : les militaires fascistes se soulèvent. À Barcelone, les ouvriers de la CNT les écrasent dans les rues. Ascaso est tué. Durruti part pour l'Aragon à la tête d'une <strong>colonne de milices</strong> qui aide les villages à se collectiviser.</li>
+<li><strong>Novembre 1936</strong> : il part défendre Madrid. Il y est tué d'une balle, le <strong>20 novembre</strong>, dans des circonstances encore discutées.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>La révolution et la guerre en même temps</strong> : pour lui, on ne bat pas le fascisme en remettant la révolution à plus tard.</li>
+<li><strong>Les milices sans grades</strong> : des délégués élus, pas d'officiers, pas de saluts.</li>
+<li><strong>La confiance dans les ouvriers</strong> : on lui prête l'idée que les ruines ne lui font pas peur, puisque les travailleurs ont construit les villes et peuvent en bâtir d'autres.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Les braquages et les attentats des années 1920 posent les mêmes questions que toute lutte armée : ils répondaient à une guerre sale du patronat, mais ils ont aussi enfermé le mouvement dans un cycle de violence. Pendant l'été 1936, dans les zones tenues par les milices, il y a eu des exécutions sommaires. Et la CNT, en entrant dans le gouvernement en novembre 1936, a choisi une voie que beaucoup de libertaires ont combattue. Le dossier sur l'Espagne revient sur ces dilemmes.</p>
+
+<h2 id="lire">Sur le site</h2>
+<ul>
+<li>Le dossier <a href="../experiences/espagne-1936-histoire.html">La révolution espagnole</a> et sa partie <a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes de la révolution</a>.</li>
+<li>La fiche <a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a>, l'hommage d'Emma Goldman.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le Bref Été de l'anarchie</cite></b>, Hans Magnus Enzensberger, 1972.<span>La vie de Durruti en témoignages croisés.</span></li>
+<li><b><cite>Durruti dans le labyrinthe</cite></b>, Miquel Amorós, 2006.<span>Une réflexion sur sa mort et sur la révolution.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Buenaventura_Durruti" rel="noopener">Durruti sur Wikipédia</a><span>Repères biographiques.</span></li>
+</ul></section>
+</div>
+
+=== sail-mohamed | Révolutionnaires | Saïl Mohamed, anarchiste et anticolonialiste | Algérie, France · 1894-1953 | Ouvrier kabyle installé en France, il fait vivre l'anarchisme chez les travailleurs algériens, combat le centenaire de la colonisation et part se battre en Espagne.
+<p>On parle trop peu de lui, et Mamie veut réparer ça. Saïl Mohamed était un anarchiste algérien en France, à une époque où le colonialisme était soutenu par presque toute la gauche. Il a dit, tôt et fort, que la liberté valait aussi pour les colonisés.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-sail-mohamed.jpg" alt="Portrait de Saïl Mohamed, en chemise blanche." width="358" height="412" loading="lazy"><figcaption>Saïl Mohamed. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Mohamed_Sa%C3%AFl_(d%C3%A9tail).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1894</strong> en Kabylie, en Algérie colonisée. Pendant la Première Guerre mondiale, il refuse de se battre pour la France et est emprisonné.</li>
+<li>Installé en région parisienne, ouvrier, il rejoint le mouvement anarchiste dans les années 1920. Il anime des groupes de travailleurs algériens et écrit dans <em>Le Libertaire</em>.</li>
+<li><strong>1930</strong> : la France fête en grande pompe le <strong>centenaire de la conquête de l'Algérie</strong>. Avec d'autres, Saïl Mohamed anime un comité de protestation et dénonce un siècle de spoliations et de massacres.</li>
+<li><strong>1936</strong> : il part en Espagne et combat dans le groupe international de la <a href="durruti.html">colonne Durruti</a>, sur le front d'Aragon, où il est blessé.</li>
+<li>Pendant la Seconde Guerre mondiale, il est interné par le régime de Vichy. Après la guerre, il reprend ses articles sur l'Algérie dans la presse anarchiste. Il meurt en <strong>1953</strong>, un an avant le début de la guerre d'indépendance.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>La fin du colonialisme</strong> : pas d'émancipation des travailleurs français tant que la France opprime d'autres peuples.</li>
+<li><strong>L'émancipation des Algériens par eux-mêmes</strong>, mais sans remplacer les colons par de nouveaux maîtres, religieux ou nationalistes.</li>
+<li><strong>La solidarité entre travailleurs</strong> français et immigrés, contre ceux qui les divisent.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Appels aux travailleurs algériens</cite></b>, Saïl Mohamed, textes réunis par Sylvain Boulouque, éd. Volonté anarchiste, 1994.<span>Ses articles réunis.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Sa%C3%AFl_Mohamed" rel="noopener">Saïl Mohamed sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://maitron.fr/spip.php?page=recherche_avancee&amp;recherche=Sa%C3%AFl+Mohamed" rel="noopener">Le Maitron</a><span>Le dictionnaire biographique du mouvement ouvrier.</span></li>
+</ul></section>
+</div>

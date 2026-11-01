@@ -1,0 +1,281 @@
+=== louise-michel | Femmes en lutte | Louise Michel, la Vierge rouge | France · 1830-1905 | Institutrice, combattante de la Commune, déportée en Nouvelle-Calédonie, porte-drapeau noir : la vie d'une femme qui n'a jamais baissé la tête devant un juge.
+<p>Mamie a usé ses <em>Mémoires</em> jusqu'à la corde. Louise Michel, c'est la Commune en personne : une institutrice de Montmartre qui prend le fusil, qui réclame sa part de plomb devant le tribunal, qui revient du bagne anarchiste et qui passe le reste de sa vie à parler aux foules. On l'a surnommée la « Vierge rouge » ; elle préférait qu'on la lise.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-louise-michel.jpg" alt="Portrait photographique de Louise Michel, en robe sombre." width="1181" height="1792" loading="lazy"><figcaption>Louise Michel. <small>J.M. Lopez · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Louise_Michel2.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li><strong>1830</strong> : elle naît au château de Vroncourt, en Haute-Marne, fille d'une servante et, très probablement, du fils des châtelains. Elle y reçoit une bonne instruction.</li>
+<li>Devenue <strong>institutrice</strong>, elle refuse de prêter serment à l'Empire de Napoléon III et ouvre des écoles libres, puis s'installe à Paris. Elle fréquente les cercles républicains et socialistes, écrit des poèmes, envoie des vers à Victor Hugo.</li>
+<li><strong>1870-1871</strong> : pendant le siège de Paris, elle anime le Comité de vigilance des femmes de Montmartre. Le <strong>18 mars 1871</strong>, elle est sur la butte quand les femmes empêchent la troupe d'emporter les canons : c'est le début de la <a href="../experiences/commune-de-paris-histoire.html">Commune</a>. Elle soigne, elle enseigne, elle combat en uniforme de garde nationale jusqu'à la Semaine sanglante.</li>
+<li>Arrêtée, elle se présente en décembre 1871 devant le conseil de guerre et refuse de se défendre : elle revendique tout et demande la mort. On la condamne à la <strong>déportation</strong>.</li>
+<li><strong>1873-1880</strong> : en <strong>Nouvelle-Calédonie</strong>. Pendant la traversée, au contact de la communarde Nathalie Lemel, elle devient anarchiste. Sur place, elle apprend la langue et les contes des Kanak, leur fait la classe, et prend leur parti lors de l'insurrection de 1878, quand la plupart des déportés se rangent du côté de l'ordre colonial.</li>
+<li><strong>1880</strong> : amnistie. Une foule l'attend à la gare Saint-Lazare. Elle part en tournées de conférences dans toute la France.</li>
+<li><strong>9 mars 1883</strong> : elle mène une manifestation de chômeurs aux Invalides, derrière un <strong>drapeau noir</strong>. Des boulangeries sont pillées sur le passage. Condamnée à six ans de prison, elle est libérée en 1886.</li>
+<li><strong>1888</strong> : au Havre, un homme lui tire deux balles dans la tête pendant une réunion. Elle survit et refuse de porter plainte contre lui.</li>
+<li>Menacée d'internement, elle vit à <strong>Londres</strong> de 1890 à 1895, où elle ouvre une école libertaire. Elle meurt à Marseille le <strong>9 janvier 1905</strong>, au milieu d'une tournée. Des dizaines de milliers de personnes suivent son cercueil à Paris.</li>
+</ul>
+
+<h2 id="idees">Ce qu'elle défend</h2>
+<ul>
+<li><strong>La révolution sociale</strong> plutôt que la République des notables : pour elle, la Commune a montré qu'on peut se passer des maîtres.</li>
+<li><strong>Le pouvoir est maudit</strong> : c'est pourquoi elle se dit anarchiste. Elle ne veut ni chef ni parti au-dessus du peuple.</li>
+<li><strong>L'égalité des femmes</strong>, qu'elle ne sépare jamais de l'émancipation de toutes et tous : pas de liberté pour les unes sans liberté pour les autres.</li>
+<li><strong>L'école</strong> comme arme : apprendre par la curiosité, la nature, les sciences, et non par la peur.</li>
+<li><strong>Les peuples colonisés</strong> : son soutien aux Kanak tranche avec le racisme de son époque, y compris chez les révolutionnaires.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Louise Michel est devenue une icône, et les icônes s'arrangent. On la cite volontiers sur des plaques de rue en oubliant qu'elle était anarchiste, qu'elle appelait à la grève générale et défendait la reprise des biens par celles et ceux qui les produisent. Son soutien aux Kanak a ses limites aussi : elle les voyait parfois avec les yeux de son temps, comme des « primitifs » à instruire. La lire en entier, c'est le meilleur moyen de la garder vivante et pas seulement statufiée.</p>
+
+<h2 id="lire">La lire sur le site</h2>
+<ul>
+<li><a href="../livres/memoires-louise-michel.html">Mémoires</a> (1886), le livre complet, en web et en PDF.</li>
+<li><a href="../livres/l-ere-nouvelle.html">L'Ère nouvelle</a> (1887) et <a href="../livres/prise-de-possession.html">Prise de possession</a> (1890), deux brochures complètes.</li>
+<li>Les fiches <a href="../bibliotheque/anarchie-louise-michel.html">Anarchie</a>, <a href="../bibliotheque/la-revanche-c-est-la-revolution.html">La Revanche, c'est la révolution</a> et <a href="../bibliotheque/les-rapaces.html">Les Rapaces</a>.</li>
+<li>Le dossier <a href="../experiences/commune-de-paris-histoire.html">La Commune de Paris</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>La Commune, histoire et souvenirs</cite></b>, Louise Michel, 1898.<span>Son récit de 1871, vu de la barricade.</span></li>
+<li><b><cite>Louise Michel</cite></b>, Xavière Gauthier, éd. de La Martinière, 2005.<span>Une biographie vivante et bien documentée.</span></li>
+<li><b><cite>Je vous écris de ma nuit</cite></b>, correspondance réunie par Xavière Gauthier, 1999.<span>Ses lettres, de la prison à l'exil.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://maitron.fr/spip.php?page=recherche_avancee&amp;recherche=Louise+Michel" rel="noopener">Le Maitron</a><span>Le dictionnaire biographique du mouvement ouvrier.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Une chronologie détaillée et des références.</span></li>
+</ul></section>
+</div>
+
+=== lucy-parsons | Femmes en lutte | Lucy Parsons, plus dangereuse que mille émeutiers | États-Unis · vers 1851-1942 | Née dans l'esclavage au Texas ou en Virginie, veuve d'un martyr de Haymarket, oratrice infatigable des sans-travail et cofondatrice des IWW.
+<p>La police de Chicago disait d'elle qu'elle était « plus dangereuse que mille émeutiers ». Mamie prend ça pour un compliment. Lucy Parsons a passé soixante ans à parler aux chômeurs, aux vagabonds et aux ouvrières, dans un pays qui voulait la faire taire parce qu'elle était noire, femme et anarchiste.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-lucy-parsons.jpg" alt="Lucy Parsons en 1886, en robe sombre à col montant." width="1200" height="1770" loading="lazy"><figcaption>Lucy Parsons en 1886. <small>Louis Gogler · domaine public · <a href="https://commons.wikimedia.org/wiki/File:1886_Photo_Lucy_Parsons.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Elle naît vers <strong>1851</strong>, très probablement dans l'esclavage, en Virginie ou au Texas. Elle a des ancêtres africains, amérindiens et mexicains.</li>
+<li>Au Texas, elle rencontre <strong>Albert Parsons</strong>, ancien soldat confédéré devenu militant des droits des Noirs. Leur couple « mixte » est menacé : ils partent pour <strong>Chicago</strong> en 1873.</li>
+<li>Couturière, elle écrit dans la presse ouvrière. En <strong>1884</strong>, elle publie <em>Aux vagabonds</em>, un appel aux sans-abri et aux chômeurs à cesser de mendier et à se révolter.</li>
+<li><strong>Mai 1886</strong> : grève pour la journée de huit heures, puis la bombe de <strong>Haymarket</strong>. Huit anarchistes sont jugés sans preuve. Albert Parsons est <strong>pendu le 11 novembre 1887</strong>. Lucy parcourt le pays pour les défendre ; c'est l'origine du <strong>1er Mai</strong> international.</li>
+<li><strong>1905</strong> : elle prend la parole au congrès de fondation des <strong>IWW</strong> (Industrial Workers of the World), le syndicat révolutionnaire qui veut réunir tous les travailleurs dans « un seul grand syndicat ».</li>
+<li>Pendant des décennies, elle organise des marches de chômeurs, se fait arrêter des dizaines de fois, vend ses brochures dans la rue. Elle meurt en <strong>1942</strong> dans l'incendie de sa maison de Chicago. La police saisit ensuite ses livres et ses papiers.</li>
+</ul>
+
+<h2 id="idees">Ce qu'elle défend</h2>
+<ul>
+<li><strong>La lutte des classes avant tout</strong> : pour elle, le racisme sert à diviser les pauvres, et c'est en s'unissant contre les patrons que les Noirs comme les Blancs se libéreront.</li>
+<li><strong>La propagande auprès des plus pauvres</strong> : chômeurs, vagabonds, travailleuses du textile, celles et ceux que les syndicats de métier laissaient de côté.</li>
+<li><strong>La grève générale</strong> et l'action directe plutôt que le bulletin de vote.</li>
+<li><strong>La liberté des femmes</strong>, qu'elle lie à leur indépendance économique.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Lucy Parsons a longtemps nié ses origines africaines et se disait d'ascendance mexicaine et amérindienne, sans doute pour se protéger dans un pays de ségrégation. On lui reproche aussi d'avoir parlé du racisme surtout comme d'une question de classe. À la fin de sa vie, elle se rapproche d'organisations liées au Parti communiste, ce qui a fait grincer des dents chez les anarchistes. Rien de tout ça n'efface soixante ans de combat au premier rang.</p>
+
+<h2 id="lire">La lire sur le site</h2>
+<ul>
+<li>Les fiches <a href="../bibliotheque/aux-vagabonds.html">Aux vagabonds</a> (1884) et <a href="../bibliotheque/principes-anarchisme-parsons.html">Les Principes de l'anarchisme</a> (1905).</li>
+<li>La fiche <a href="../bibliotheque/le-1er-mai.html">Le 1er Mai</a>, d'Émile Pouget, sur l'héritage de Haymarket.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Goddess of Anarchy</cite></b>, Jacqueline Jones, 2017 (en anglais).<span>La biographie de référence, qui démêle le vrai du légendaire.</span></li>
+<li><b><cite>Lucy Parsons: Freedom, Equality &amp; Solidarity</cite></b>, textes réunis par Gale Ahrens, 2004 (en anglais).<span>Ses écrits et discours.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Lucy_Parsons" rel="noopener">Lucy Parsons sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Massacre_de_Haymarket_Square" rel="noopener">L'affaire de Haymarket</a><span>Le procès et les pendaisons de 1887.</span></li>
+</ul></section>
+</div>
+
+=== voltairine-de-cleyre | Femmes en lutte | Voltairine de Cleyre, l'anarchie sans adjectif | États-Unis · 1866-1912 | Poétesse, professeure d'anglais pour les immigrés de Philadelphie, elle refuse les chapelles et écrit l'un des plus beaux textes sur l'action directe.
+<p>Voltairine de Cleyre, c'est la cousine que Mamie aurait voulu avoir : pauvre, malade, brillante, têtue. Elle a pardonné à l'homme qui lui avait tiré dessus et elle a expliqué mieux que personne que l'action directe, c'est la vie de tous les jours.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-de-cleyre.jpg" alt="Portrait de Voltairine de Cleyre, cheveux courts, regard de face." width="1200" height="1626" loading="lazy"><figcaption>Voltairine de Cleyre. <small>William J. Kuebler Jr. · domaine public · <a href="https://commons.wikimedia.org/wiki/File:VoltairinedeCleyre.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Elle naît en <strong>1866</strong> dans le Michigan. Son père, admirateur de Voltaire, lui donne son prénom, puis la met dans un couvent catholique, d'où elle sort libre-penseuse.</li>
+<li>La pendaison des anarchistes de <strong>Haymarket</strong>, en 1887, la fait basculer : elle devient anarchiste.</li>
+<li>Installée à <strong>Philadelphie</strong>, elle vit pauvrement de cours d'anglais donnés aux immigrés juifs d'Europe de l'Est, dont elle apprend le yiddish. Elle écrit des poèmes, des essais, des conférences.</li>
+<li><strong>1902</strong> : un ancien élève, Herman Helcher, lui tire dessus. Elle survit, refuse de le dénoncer et demande qu'on l'aide plutôt qu'on l'enferme.</li>
+<li>En <strong>1910</strong>, elle part pour Chicago et soutient la révolution mexicaine de <a href="ricardo-flores-magon.html">Ricardo Flores Magón</a>. Elle meurt en <strong>1912</strong> d'une méningite. Elle repose près des martyrs de Haymarket.</li>
+</ul>
+
+<h2 id="idees">Ce qu'elle défend</h2>
+<ul>
+<li><strong>L'anarchisme « sans adjectifs »</strong> : communistes, individualistes, mutuellistes… À ses yeux, ces écoles se disputent l'avenir alors que l'urgence est de se libérer ensemble aujourd'hui.</li>
+<li><strong>L'action directe</strong> : chaque fois qu'on s'organise soi-même, sans demander la permission, on agit directement. Le boycott, la grève, la coopérative, la manifestation en font partie.</li>
+<li><strong>Contre le mariage</strong>, qui enferme les femmes dans la dépendance, et pour des relations libres entre égaux.</li>
+<li><strong>L'idée dominante</strong> : ce que l'on croit vraiment finit par façonner le monde. Elle invite à se méfier de l'idée d'une époque entière tournée vers l'argent.</li>
+</ul>
+
+<h2 id="lire">La lire sur le site</h2>
+<ul>
+<li>La fiche <a href="../bibliotheque/de-l-action-directe.html">De l'action directe</a> (1912), son texte le plus connu, à lire avec le dossier <a href="../experiences/action-directe-pratique.html">L'action directe</a>.</li>
+<li>Les fiches <a href="../bibliotheque/le-mariage-mauvaise-action.html">Le Mariage est une mauvaise action</a>, <a href="../bibliotheque/fabrication-d-une-anarchiste.html">La Fabrication d'une anarchiste</a> et <a href="../bibliotheque/l-idee-dominante.html">L'Idée dominante</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Gates of Freedom: Voltairine de Cleyre and the Revolution of the Mind</cite></b>, Eugenia DeLamotte, 2004 (en anglais).<span>Une étude et une sélection de ses textes.</span></li>
+<li><b><cite>An American Anarchist</cite></b>, Paul Avrich, 1978 (en anglais).<span>La biographie classique.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Voltairine_de_Cleyre" rel="noopener">Voltairine de Cleyre sur Wikipédia</a><span>Repères et bibliographie.</span></li>
+</ul></section>
+</div>
+
+=== emma-goldman | Femmes en lutte | Emma Goldman, Emma la Rouge | États-Unis, Russie, Espagne · 1869-1940 | Oratrice, éditrice, expulsée des États-Unis, déçue par la Russie bolchevique, ambassadrice de la révolution espagnole : la vie d'une femme qui voulait la liberté entière.
+<p>Les journaux américains l'appelaient « Red Emma » et la décrivaient comme la femme la plus dangereuse du pays. Pour la bande à Mamie, c'est surtout celle qui a parlé de contraception, d'amour libre et de prisons quand tout le monde parlait seulement des salaires. Et celle qui, revenue de Russie, a eu le courage de dire tout de suite ce qu'elle y avait vu.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-goldman.jpg" alt="Portrait d'Emma Goldman, lunettes et col blanc." width="303" height="401" loading="lazy"><figcaption>Emma Goldman. <small>Takuma Kajiwara · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Portrait_Emma_Goldman.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Elle naît en <strong>1869</strong> à Kovno, en Lituanie, dans une famille juive. À seize ans, elle émigre aux États-Unis et travaille en usine textile à Rochester.</li>
+<li>L'affaire de Haymarket la pousse vers l'anarchisme. En 1889, elle arrive à New York et rencontre <strong>Alexander Berkman</strong>, son compagnon de lutte pour la vie.</li>
+<li><strong>1892</strong> : pendant la grève de Homestead, Berkman tente de tuer le patron Henry Clay Frick ; il fait quatorze ans de prison. Emma avait participé au projet ; elle le regrettera plus tard.</li>
+<li>De <strong>1906 à 1917</strong>, elle publie la revue <em>Mother Earth</em> et donne des centaines de conférences à travers le pays. Elle est arrêtée pour avoir parlé de <strong>contraception</strong>.</li>
+<li><strong>1917</strong> : elle fait campagne contre la conscription. Condamnée à deux ans de prison, puis <strong>expulsée vers la Russie</strong> en décembre 1919, avec Berkman et 247 autres « indésirables ».</li>
+<li>En Russie, elle voit les prisons pleines d'anarchistes et la répression de Cronstadt (1921). Elle part et dénonce le régime bolchevique, quand une grande partie de la gauche mondiale l'acclamait.</li>
+<li><strong>1936-1939</strong> : elle soutient la <a href="../experiences/espagne-1936-histoire.html">révolution espagnole</a> et représente la CNT à Londres. Elle meurt à Toronto en <strong>1940</strong>. Elle est enterrée à Chicago, près des martyrs de Haymarket.</li>
+</ul>
+
+<h2 id="idees">Ce qu'elle défend</h2>
+<ul>
+<li><strong>L'anarchisme comme libération de toute la vie</strong> : le travail, mais aussi le corps, la sexualité, l'art, l'éducation.</li>
+<li><strong>Le droit à la contraception</strong> et la fin de la morale qui enferme les femmes.</li>
+<li><strong>Contre l'État et contre le patriotisme</strong>, qui envoient les pauvres mourir pour les riches.</li>
+<li><strong>Les moyens font la fin</strong> : une révolution qui emprisonne et fusille ne peut pas fonder une société libre. C'est la leçon qu'elle tire de la Russie.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Le soutien d'Emma Goldman à l'attentat contre Frick, puis son regard plus critique sur la violence individuelle, nourrissent encore le débat chez les libertaires. Et la phrase qu'on lui prête partout, « si je ne peux pas danser, ce n'est pas ma révolution », elle ne l'a jamais écrite telle quelle : c'est un résumé fait après coup d'un passage de ses mémoires. L'idée est bien d'elle, les mots non.</p>
+
+<h2 id="lire">La lire sur le site</h2>
+<ul>
+<li>Les fiches <a href="../bibliotheque/ce-que-je-crois.html">Ce que je crois</a> (1908), <a href="../bibliotheque/anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a>, <a href="../bibliotheque/orage-a-petrograd.html">1921, l'orage éclate à Petrograd</a>, <a href="../bibliotheque/le-communisme-n-existe-pas-en-urss.html">Le communisme n'existe pas en URSS</a> et <a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a></li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Vivre ma vie</cite></b>, Emma Goldman, 1931, rééd. L'Échappée, 2018.<span>Son autobiographie, un monument.</span></li>
+<li><b><cite>L'Épopée d'une anarchiste</cite></b>, Emma Goldman, éd. Complexe.<span>Une version abrégée de ses mémoires, en français.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Emma_Goldman" rel="noopener">Emma Goldman sur Wikipédia</a><span>Repères et bibliographie.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/category/author/emma-goldman" rel="noopener">Ses textes sur la Bibliothèque anarchiste</a><span>Des dizaines d'articles traduits.</span></li>
+</ul></section>
+</div>
+
+=== kanno-sugako | Femmes en lutte | Kanno Sugako, la seule femme pendue pour haute trahison | Japon · 1881-1911 | Journaliste, féministe et anarchiste, elle est exécutée à vingt-neuf ans dans l'« affaire de haute trahison » qui sert à écraser le mouvement ouvrier japonais.
+<p>Mamie veut que tu connaisses aussi les anarchistes d'Asie. Kanno Sugako avait vingt-neuf ans quand l'État impérial japonais l'a pendue. Jusqu'au bout, elle a écrit : un journal de prison sec et lucide, où elle refuse de se repentir.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-kanno-sugako.jpg" alt="Portrait de Kanno Sugako en kimono." width="222" height="346" loading="lazy"><figcaption>Kanno Sugako. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Kanno.Suga.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Elle naît en <strong>1881</strong> à Osaka. Elle a perdu sa mère jeune, a subi des violences dans sa jeunesse, s'est mariée tôt puis a quitté son mari.</li>
+<li>Devenue <strong>journaliste</strong>, l'une des premières du Japon, elle écrit contre la prostitution organisée et pour l'égalité des femmes. Elle passe du christianisme social au socialisme.</li>
+<li><strong>1908</strong> : arrêtée lors de l'« incident du drapeau rouge », une manifestation socialiste réprimée. La prison et la brutalité policière la font basculer vers l'anarchisme. Elle devient la compagne de <strong>Kōtoku Shūsui</strong>, le grand traducteur de Kropotkine au Japon.</li>
+<li><strong>1910</strong> : la police découvre qu'un petit groupe, dont elle fait partie, prépare un attentat contre l'empereur. Le pouvoir en profite pour arrêter des centaines de militants. Vingt-six personnes sont jugées à huis clos, la plupart sans lien réel avec le projet.</li>
+<li>Douze sont exécutées en janvier 1911, dont Kōtoku. Kanno Sugako est pendue le <strong>25 janvier 1911</strong>, la seule femme du procès à mourir.</li>
+</ul>
+
+<h2 id="idees">Ce qu'elle défend</h2>
+<ul>
+<li><strong>L'égalité des femmes</strong>, à une époque où le Japon leur interdit de participer à des réunions politiques.</li>
+<li><strong>La fin du culte de l'empereur</strong>, qu'elle considère comme le cœur du système qui écrase le peuple.</li>
+<li><strong>La responsabilité</strong> : au procès, elle assume sa part et réclame la libération de celles et ceux qu'on a condamnés sans preuve.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Kanno Sugako a bien voulu tuer l'empereur. Les anarchistes ne sont pas d'accord entre eux sur ces actes, et Mamie non plus ne pense pas qu'une bombe change une société. Mais l'affaire a surtout servi à l'État : il a gonflé un projet de quatre personnes en complot géant pour faire taire tout le mouvement socialiste, pendant dix ans. On l'appelle depuis au Japon « l'hiver » du mouvement ouvrier.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Reflections on the Way to the Gallows</cite></b>, Mikiso Hane, 1988 (en anglais).<span>Le journal de prison de Kanno Sugako et d'autres textes de femmes rebelles du Japon.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Kanno_Sugako" rel="noopener">Kanno Sugako sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Incident_de_haute_trahison" rel="noopener">L'affaire de haute trahison</a><span>Le procès de 1910-1911.</span></li>
+</ul></section>
+</div>
+
+=== ito-noe | Femmes en lutte | Itō Noe, la plume qui dérangeait | Japon · 1895-1923 | Rédactrice de la revue féministe Seitō, traductrice d'Emma Goldman, elle est assassinée par la police militaire après le grand séisme de Tokyo.
+<p>Itō Noe a écrit sur l'avortement, sur la prostitution, sur la virginité qu'on exige des filles, à une époque où il fallait du courage pour seulement poser ces questions au Japon. Elle avait vingt-huit ans quand des militaires l'ont étranglée.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-ito-noe.jpg" alt="Portrait d'Itō Noe en kimono." width="497" height="684" loading="lazy"><figcaption>Itō Noe. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Ito_Noe_2.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Elle naît en <strong>1895</strong> près de Fukuoka, dans le sud du Japon. Mariée de force par sa famille, elle s'enfuit à Tokyo.</li>
+<li>À dix-sept ans, elle rejoint la revue féministe <em>Seitō</em> (« Bas-bleu »). En <strong>1915</strong>, elle en prend la direction et ouvre ses pages aux débats les plus brûlants : avortement, prostitution, droits des mères célibataires.</li>
+<li>Elle traduit <strong>Emma Goldman</strong> en japonais et découvre l'anarchisme. Elle devient la compagne de l'anarchiste <strong>Ōsugi Sakae</strong>, avec qui elle publie plusieurs revues.</li>
+<li><strong>1er septembre 1923</strong> : le grand séisme du Kantō dévaste Tokyo. Dans le chaos, des milices et l'armée massacrent des milliers de Coréens et s'en prennent aux militants de gauche.</li>
+<li>Le <strong>16 septembre 1923</strong>, Itō Noe, Ōsugi Sakae et son neveu de six ans sont arrêtés par la police militaire du lieutenant Amakasu, étranglés et jetés dans un puits. Amakasu est condamné à dix ans de prison et sort au bout de trois.</li>
+</ul>
+
+<h2 id="idees">Ce qu'elle défend</h2>
+<ul>
+<li><strong>La liberté des femmes</strong> sur leur corps, leur sexualité et leur vie.</li>
+<li><strong>L'entraide des villages</strong> : elle voit dans les solidarités paysannes du Japon une forme d'anarchie vécue, sans gouvernement, comme <a href="kropotkine.html">Kropotkine</a> le faisait pour l'Europe.</li>
+<li><strong>Contre la morale officielle</strong> qui sert d'abord à garder les femmes à leur place.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Wild Thing: The Short, Spellbinding Life of Ito Noe</cite></b>, Ruth Linhart, 2023 (en anglais).<span>Une biographie récente.</span></li>
+<li><b><cite>The Bluestockings of Japan</cite></b>, Jan Bardsley, 2007 (en anglais).<span>Les textes de la revue.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/It%C5%8D_Noe" rel="noopener">Itō Noe sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Incident_d%27Amakasu" rel="noopener">L'incident d'Amakasu</a><span>L'assassinat de 1923.</span></li>
+</ul></section>
+</div>
+
+=== lucia-sanchez-saornil | Femmes en lutte | Lucía Sánchez Saornil, Mujeres Libres | Espagne · 1895-1970 | Poétesse, standardiste, syndicaliste de la CNT : elle cofonde Mujeres Libres pour que la révolution espagnole libère aussi les femmes.
+<p>En 1936, l'Espagne fait sa révolution. Mais dans les assemblées, ce sont encore les hommes qui parlent. Lucía Sánchez Saornil et ses camarades fondent alors une organisation de femmes anarchistes, pour que la révolution ne s'arrête pas à la porte de la cuisine.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-sanchez-saornil.jpg" alt="Portrait de Lucía Sánchez Saornil, cheveux courts." width="700" height="1040" loading="lazy"><figcaption>Lucía Sánchez Saornil. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Lucia_Sanchez_Saornil.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Elle naît à <strong>Madrid</strong> en 1895, dans une famille modeste. Jeune, elle publie des poèmes d'avant-garde, parfois sous un nom d'homme pour être prise au sérieux.</li>
+<li><strong>Standardiste</strong> à la Compagnie des téléphones, elle s'engage à la <strong>CNT</strong>, le grand syndicat anarchiste, et participe à la grève des téléphones de 1931.</li>
+<li>Elle écrit dans la presse anarchiste et dénonce le machisme de nombreux camarades, qui veulent la révolution mais pas l'égalité à la maison.</li>
+<li><strong>Avril 1936</strong> : avec Mercedes Comaposada et Amparo Poch y Gascón, elle fonde la revue puis l'organisation <strong>Mujeres Libres</strong> (« Femmes libres »). Pendant la guerre, l'organisation réunit des dizaines de milliers de femmes : écoles du soir, crèches, formations professionnelles, lutte contre la prostitution.</li>
+<li>Elle dirige aussi la <strong>Solidarité internationale antifasciste</strong>. En 1939, elle s'exile en France, puis revient vivre en Espagne franquiste sous une fausse identité, avec sa compagne América Barroso. Elle meurt à Valence en <strong>1970</strong>.</li>
+</ul>
+
+<h2 id="idees">Ce qu'elle défend</h2>
+<ul>
+<li><strong>Une double lutte</strong> : les femmes sont exploitées comme travailleuses et dominées comme femmes. Il faut se battre sur les deux fronts.</li>
+<li><strong>Une organisation de femmes, autonome</strong>, parce qu'on ne peut pas compter sur les hommes pour libérer les femmes à leur place.</li>
+<li><strong>L'éducation</strong> comme premier outil : apprendre à lire, à parler en public, à exercer un métier.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Mujeres Libres n'a jamais été reconnue par la CNT et la FAI comme une branche à part entière du mouvement. Beaucoup de militants trouvaient qu'une organisation de femmes « divisait » la classe ouvrière. Le dossier <a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes de la révolution</a> raconte ce débat, que les collectifs d'aujourd'hui connaissent encore bien.</p>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Free Women of Spain</cite></b>, Martha Ackelsberg, 1991, trad. française <cite>La Liberté des femmes</cite>, Atelier de création libertaire.<span>L'histoire de Mujeres Libres.</span></li>
+<li><b><cite>Mujeres Libres, Espagne 1936-1939</cite></b>, Mary Nash, éd. La Pensée sauvage, 1977.<span>Les textes de l'organisation.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Luc%C3%ADa_S%C3%A1nchez_Saornil" rel="noopener">Lucía Sánchez Saornil sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mujeres_Libres" rel="noopener">Mujeres Libres sur Wikipédia</a><span>L'organisation.</span></li>
+</ul></section>
+</div>

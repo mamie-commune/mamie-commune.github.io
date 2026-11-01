@@ -1,0 +1,84 @@
+=== emile-pouget | Syndicalistes et journalistes | Émile Pouget, le Père Peinard | France · 1860-1931 | Vendeur de nouveautés devenu pamphlétaire en argot, puis cheville ouvrière de la CGT : l'homme qui a fait entrer l'action directe et le sabotage dans le syndicalisme.
+<p>Pouget écrivait comme on parle au comptoir, en argot, pour que les prolos le lisent. Et ça a marché : son journal <em>Le Père Peinard</em> faisait rire et grincer des dents. Ensuite, il a aidé à faire de la CGT un syndicat révolutionnaire. Si tu veux comprendre l'action directe, c'est par lui qu'il faut commencer.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-pouget.jpg" alt="Fiche anthropométrique d'Émile Pouget en 1892, de face et de profil." width="1200" height="1724" loading="lazy"><figcaption>Émile Pouget fiché par la police en 1892. Les services d'Alphonse Bertillon photographiaient ainsi les anarchistes arrêtés. <small>Alphonse Bertillon · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Pouget._%C3%89mile,_Jean,_Joseph._31_ans,_n%C3%A9_le_12-10-60_%C3%A0_Rodez_(Aveyron)._Publiciste._Anarchiste._26-4-92._MET_DP290755.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1860</strong> dans l'Aveyron. À quinze ans, il monte à Paris et devient employé dans un grand magasin. Il y aide à créer un syndicat des employés.</li>
+<li><strong>1883</strong> : il manifeste aux Invalides avec <a href="louise-michel.html">Louise Michel</a>. Condamné à huit ans de prison, il est libéré au bout de trois par une amnistie.</li>
+<li><strong>1889</strong> : il lance <em>Le Père Peinard</em>, hebdomadaire écrit en argot, qui tape sur les patrons, les curés, les flics et les politiciens.</li>
+<li><strong>1894</strong> : pendant la vague de répression des « lois scélérates », il s'exile à Londres. Il est acquitté par contumace au « procès des Trente ».</li>
+<li>De retour, il pousse les anarchistes à entrer dans les syndicats. De <strong>1901 à 1908</strong>, il est secrétaire adjoint de la <strong>CGT</strong> et dirige son journal, <em>La Voix du peuple</em>. Il participe à la rédaction de la <strong>Charte d'Amiens</strong> (1906).</li>
+<li>Emprisonné en 1908 avec d'autres dirigeants de la CGT après les grèves de Draveil et Villeneuve-Saint-Georges, il s'éloigne ensuite du mouvement. Il meurt en <strong>1931</strong>.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>L'action directe</strong> : la classe ouvrière agit elle-même, par la grève, le boycott, le sabotage, sans passer par les députés.</li>
+<li><strong>Le syndicat</strong> comme outil de lutte aujourd'hui, et comme base de la société libre de demain.</li>
+<li><strong>La grève générale</strong>, qui doit permettre de prendre les usines et la terre.</li>
+<li><strong>Le sabotage</strong> : « à mauvaise paye, mauvais travail ». Ralentir, faire du travail bâclé, ou dire la vérité aux clients sur ce qu'on leur vend.</li>
+</ul>
+
+<h2 id="lire">Le lire sur le site</h2>
+<ul>
+<li><a href="../livres/l-action-directe-pouget.html">L'Action directe</a> et <a href="../livres/comment-nous-ferons-la-revolution.html">Comment nous ferons la Révolution</a>, en entier.</li>
+<li>Les fiches <a href="../bibliotheque/le-1er-mai.html">Le 1er Mai</a>, <a href="../bibliotheque/patron-assassin.html">Patron assassin</a>, <a href="../bibliotheque/barbarie-francaise.html">Barbarie française</a> et <a href="../bibliotheque/lois-scelerates.html">Les Lois scélérates</a>.</li>
+<li>Le dossier <a href="../experiences/action-directe-pratique.html">L'action directe</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Le Père Peinard</cite></b>, recueil d'articles présentés par Roger Langlais, éd. Galilée, 1976.<span>Le meilleur de l'argot de Pouget.</span></li>
+<li><b><cite>Émile Pouget et la révolution par le syndicat</cite></b>, Christian de Goustine, 1972.<span>Une biographie.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89mile_Pouget" rel="noopener">Émile Pouget sur Wikipédia</a><span>Repères biographiques.</span></li>
+</ul></section>
+</div>
+
+=== zo-d-axa | Syndicalistes et journalistes | Zo d'Axa, l'endehors | France · 1864-1930 | Déserteur, journaliste, voyageur, il lance L'EnDehors puis La Feuille et présente un âne aux élections : l'insolence comme méthode.
+<p>Zo d'Axa ne s'est jamais rangé dans aucune case, même pas celle des anarchistes bien élevés. Il se disait « en dehors ». Ce que Mamie retient : la meilleure façon de ridiculiser une élection, c'est d'y présenter un âne. Il l'a fait.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-zo-d-axa.jpg" alt="Portrait de Zo d'Axa, barbe rousse en pointe et chapeau." width="290" height="380" loading="lazy"><figcaption>Zo d'Axa. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Zo_d%27Axa_portrait.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît à Paris en <strong>1864</strong> sous le nom d'Alphonse Gallaud de la Pérouse, dans une famille bourgeoise. Engagé dans la cavalerie, il <strong>déserte</strong> et fuit en Belgique, puis en Italie.</li>
+<li><strong>1891</strong> : revenu à Paris, il fonde <em>L'EnDehors</em>, un journal où écrivent des anarchistes, des poètes et des artistes. Il n'y prêche pas de programme : il attaque toutes les autorités.</li>
+<li>Poursuivi, il s'enfuit à Londres puis voyage jusqu'en Orient. En <strong>1893</strong>, il est arrêté à Jaffa et ramené en France, où il fait dix-huit mois de prison. Il en tire un livre, <em>De Mazas à Jérusalem</em>.</li>
+<li><strong>1897-1899</strong> : il publie <em>La Feuille</em>, illustrée par les grands dessinateurs de l'époque. Il y défend Dreyfus et attaque l'armée.</li>
+<li><strong>1898</strong> : pour les élections législatives, il présente un âne blanc, <strong>Nul</strong>, comme candidat. Le cortège de l'âne traverse Paris jusqu'à ce que la police l'arrête. Message : un bulletin pour Nul vaut bien un bulletin pour n'importe qui.</li>
+<li>Il voyage ensuite à travers le monde, puis vit discrètement à Marseille, où il se suicide en <strong>1930</strong>.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>L'en dehors</strong> : vivre hors des partis, des églises, des casernes, et ne suivre personne, même pas un chef anarchiste.</li>
+<li><strong>Contre le vote</strong> : l'électeur choisit son maître et s'étonne ensuite d'être tondu.</li>
+<li><strong>Contre l'armée</strong> et le nationalisme, en pleine affaire Dreyfus.</li>
+<li><strong>L'humour</strong> comme arme : faire rire de l'autorité, c'est lui faire perdre sa majesté.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Son individualisme farouche l'a tenu loin des grandes organisations ouvrières : il raillait les syndicats comme les partis. C'est sa force et sa limite. Une bande qui veut gagner une grève a besoin d'organisation ; Zo d'Axa rappelle qu'elle a aussi besoin de ne jamais se prendre au sérieux.</p>
+
+<h2 id="lire">À lire aussi sur le site</h2>
+<ul>
+<li>Les textes d'Albert Libertad, un autre « en dehors » : <a href="../livres/criminel-electeur.html">Le criminel, c'est l'électeur !</a> et <a href="../livres/l-individualisme.html">L'Individualisme</a>.</li>
+<li>Le livre de Reclus <a href="../livres/voter-c-est-abdiquer.html">Voter c'est abdiquer</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Les Feuilles</cite></b>, Zo d'Axa, 1900, plusieurs fois réédité.<span>Ses articles de <em>La Feuille</em>, dont l'histoire de l'âne Nul.</span></li>
+<li><b><cite>De Mazas à Jérusalem</cite></b>, Zo d'Axa, 1895.<span>Ses fuites et sa prison.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Zo_d%27Axa" rel="noopener">Zo d'Axa sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/category/author/zo-d-axa" rel="noopener">Ses textes sur la Bibliothèque anarchiste</a><span>Les Feuilles et d'autres articles.</span></li>
+</ul></section>
+</div>

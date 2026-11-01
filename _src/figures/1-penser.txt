@@ -1,0 +1,208 @@
+=== proudhon | Penser l'anarchie | Pierre-Joseph Proudhon, le premier à se dire anarchiste | France · 1809-1865 | Typographe de Besançon, il lance « la propriété, c'est le vol », invente le mutuellisme et le fédéralisme. Un père fondateur, avec de vraies taches.
+<p>Avant lui, « anarchiste » était une insulte. En 1840, Proudhon l'écrit fièrement : il est anarchiste. Mamie le respecte pour ça, et pour ses idées sur l'entraide entre travailleurs. Mais elle ne cache pas ce qui ne va pas chez lui, et il y en a.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-proudhon.jpg" alt="Portrait de Pierre-Joseph Proudhon par Nadar, barbe et lunettes." width="1200" height="1601" loading="lazy"><figcaption>Pierre-Joseph Proudhon photographié par Nadar. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Portrait_Pierre-Joseph_Proudhon_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1809</strong> à Besançon, dans une famille pauvre : un père tonnelier, une mère cuisinière. Enfant, il garde les vaches. Il obtient une bourse, puis devient <strong>typographe</strong> : il apprend en composant les livres des autres.</li>
+<li><strong>1840</strong> : <em>Qu'est-ce que la propriété ?</em> Sa réponse fait scandale : « la propriété, c'est le vol ». Il vise la rente, le loyer, l'intérêt, tout ce qui permet de vivre du travail d'autrui.</li>
+<li><strong>1848</strong> : pendant la révolution, il est élu député. Il propose une <strong>Banque du peuple</strong>, qui prêterait sans intérêt aux travailleurs associés.</li>
+<li><strong>1849-1852</strong> : trois ans de prison pour ses articles contre Louis-Napoléon Bonaparte. Il continue d'écrire en cellule.</li>
+<li>Exilé en Belgique sous le Second Empire, il revient en France et meurt à Passy en <strong>1865</strong>. Son dernier livre, <em>De la capacité politique des classes ouvrières</em>, inspire les ouvriers français de l'Internationale.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>Le mutuellisme</strong> : des travailleurs associés qui échangent leurs produits à leur juste valeur, avec du crédit gratuit, sans patron ni banquier.</li>
+<li><strong>Le fédéralisme</strong> : des communes et des associations qui se fédèrent de bas en haut, librement, au lieu d'un État central.</li>
+<li><strong>Contre le suffrage universel comme fin en soi</strong> : voter pour un maître, même tous les quatre ans, reste obéir.</li>
+</ul>
+
+<h2 id="ombres">Ses zones d'ombre</h2>
+<p>Proudhon était profondément <strong>misogyne</strong> : pour lui, une femme ne pouvait être que « ménagère ou courtisane ». Ses carnets, publiés après sa mort, contiennent des passages violemment <strong>antisémites</strong>. Il s'opposait aussi aux grèves et défendait l'autorité du père dans la famille. Dès son époque, des anarchistes l'ont combattu là-dessus, à commencer par Joseph Déjacque, qui lui écrit en 1857 une lettre cinglante sur l'égalité des sexes. Lire Proudhon, oui, mais avec Déjacque à côté.</p>
+
+<h2 id="lire">Le lire sur le site</h2>
+<ul>
+<li><a href="../livres/qu-est-ce-que-la-propriete.html">Qu'est-ce que la propriété ?</a> (1840) et <a href="../livres/idee-generale-de-la-revolution.html">Idée générale de la Révolution au XIXe siècle</a> (1851), en entier.</li>
+<li>La fiche <a href="../bibliotheque/la-democratie-proudhon.html">La Démocratie</a> (1848).</li>
+<li>La réponse de Déjacque : <a href="../livres/etre-humain-male-et-femelle.html">De l'être-humain mâle et femelle</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Proudhon</cite></b>, Édouard Jourdain, éd. La Découverte, coll. Repères, 2009.<span>Une introduction courte et claire.</span></li>
+<li><b><cite>Dix questions sur l'anarchisme</cite></b>, Guillaume Davranche, 2020.<span>Pour situer Proudhon dans l'histoire du mouvement : <a href="../livres/dix-questions-anarchisme.html">à lire sur le site</a>.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Pierre-Joseph_Proudhon" rel="noopener">Proudhon sur Wikipédia</a><span>Repères biographiques et débats.</span></li>
+</ul></section>
+</div>
+
+=== bakounine | Penser l'anarchie | Mikhaïl Bakounine, la passion de détruire est créatrice | Russie, Europe · 1814-1876 | Aristocrate russe devenu révolutionnaire de toutes les barricades d'Europe, il affronte Marx dans l'Internationale et donne naissance au mouvement anarchiste.
+<p>Bakounine, c'est le géant barbu qui débarque partout où ça brûle : Paris, Prague, Dresde, Lyon, Bologne. Il a passé huit ans enchaîné dans les forteresses du tsar et en est sorti plus révolté qu'avant. C'est lui qui, contre Marx, a dit que la dictature du prolétariat finirait en dictature tout court.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-bakounine.jpg" alt="Portrait de Mikhaïl Bakounine par Nadar." width="1200" height="1389" loading="lazy"><figcaption>Mikhaïl Bakounine photographié par Nadar. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Bakunin.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1814</strong> à Priamoukhino, dans une famille noble de Russie. Officier, il démissionne de l'armée et part étudier la philosophie en Allemagne.</li>
+<li><strong>1848-1849</strong> : il court les révolutions d'Europe. Arrêté après l'insurrection de <strong>Dresde</strong>, il est condamné à mort deux fois, livré à l'Autriche puis au tsar.</li>
+<li>Six ans dans la forteresse Pierre-et-Paul, puis la déportation en <strong>Sibérie</strong>. En <strong>1861</strong>, il s'évade par le Japon et les États-Unis et rejoint Londres.</li>
+<li><strong>1868</strong> : il entre dans l'<strong>Association internationale des travailleurs</strong>. Il s'y oppose à Marx sur la question de l'État. En 1870, il tente de proclamer la Commune à Lyon.</li>
+<li><strong>1872</strong> : Marx le fait exclure de l'Internationale au congrès de La Haye. Les fédérations qui le soutiennent se réunissent à <strong>Saint-Imier</strong>, en Suisse : c'est l'acte de naissance du mouvement anarchiste. Il meurt à Berne en <strong>1876</strong>.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>La liberté de chacun passe par celle de tous</strong> : on n'est libre qu'entouré de gens libres.</li>
+<li><strong>Pas de dictature du prolétariat</strong> : des ouvriers devenus gouvernants cesseront vite d'être des ouvriers et gouverneront le peuple d'en haut. L'histoire de la Russie lui a donné raison.</li>
+<li><strong>Le collectivisme</strong> : la terre et les outils aux associations de travailleurs.</li>
+<li><strong>L'athéisme militant</strong> : Dieu et l'État sont les deux faces de la même autorité.</li>
+</ul>
+
+<h2 id="ombres">Ses zones d'ombre</h2>
+<p>Bakounine a écrit des passages <strong>antisémites</strong>, notamment contre Marx, qui sont une honte. Il a aussi été fasciné un temps par <strong>Netchaïev</strong>, un jeune conspirateur manipulateur et sans scrupules, avant de rompre avec lui. Et son goût des sociétés secrètes, avec chefs cachés, tranche avec ses propres idées. Mamie garde l'essentiel : sa critique de l'État et du parti, plus vraie que jamais.</p>
+
+<h2 id="lire">Le lire sur le site</h2>
+<ul>
+<li><a href="../livres/dieu-et-l-etat.html">Dieu et l'État</a>, <a href="../livres/trois-conferences-saint-imier.html">Trois conférences aux ouvriers du Val de Saint-Imier</a>, <a href="../livres/gouvernement-representatif.html">Sur le gouvernement représentatif</a> et <a href="../livres/education-integrale.html">L'éducation intégrale</a>, en entier.</li>
+<li>Les fiches <a href="../bibliotheque/le-principe-de-l-etat.html">Le Principe de l'État</a>, <a href="../bibliotheque/etats-guerre-permanente.html">Les États, c'est la guerre permanente !</a> et <a href="../bibliotheque/congres-de-saint-imier.html">Résolutions du Congrès de Saint-Imier</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Bakounine</cite></b>, Madeleine Grawitz, éd. Calmann-Lévy, 1990.<span>La grande biographie en français.</span></li>
+<li><b><cite>Ni Dieu ni maître, anthologie de l'anarchisme</cite></b>, Daniel Guérin, éd. La Découverte.<span>De larges extraits de Bakounine et de ses contemporains.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mikha%C3%AFl_Bakounine" rel="noopener">Bakounine sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="../videos.html">Ni Dieu ni maître, le documentaire</a><span>Le premier épisode raconte Bakounine et la naissance du mouvement.</span></li>
+</ul></section>
+</div>
+
+=== elisee-reclus | Penser l'anarchie | Élisée Reclus, le géographe communard | France · 1830-1905 | Géographe de génie, combattant de la Commune, végétarien et ami des bêtes, il a pensé ensemble la Terre, les peuples et la liberté.
+<p>Reclus a écrit une géographie du monde entier en dix-neuf volumes, et il a trouvé le temps de faire la Commune, d'être banni, de défendre les animaux et d'écrire des brochures pour les paysans. Pour Mamie, c'est le grand-père de l'écologie libertaire.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-reclus.jpg" alt="Portrait d'Élisée Reclus par Nadar en 1889, longue barbe blanche." width="1200" height="1696" loading="lazy"><figcaption>Élisée Reclus photographié par Nadar en 1889. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_photo_par_Nadar,_1889.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1830</strong> à Sainte-Foy-la-Grande, en Gironde, fils d'un pasteur protestant, dans une fratrie de quatorze enfants dont plusieurs deviennent eux aussi des savants et des révolutionnaires.</li>
+<li>Exilé après le coup d'État de 1851, il voyage en Angleterre, aux États-Unis et en Colombie. En Louisiane, il voit l'esclavage de près et le dénonce.</li>
+<li><strong>1871</strong> : il s'engage dans la garde nationale de la <a href="../experiences/commune-de-paris-histoire.html">Commune</a>. Fait prisonnier dès avril, il est condamné à la déportation. Une pétition de savants du monde entier obtient que la peine soit changée en <strong>bannissement</strong>.</li>
+<li>En Suisse, il écrit sa <em>Nouvelle Géographie universelle</em> (1876-1894) et se lie avec <a href="kropotkine.html">Kropotkine</a>. En 1894, il fonde l'<strong>Université nouvelle</strong> de Bruxelles.</li>
+<li>Il meurt en Belgique en <strong>1905</strong>, en terminant <em>L'Homme et la Terre</em>.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>L'humanité est la nature prenant conscience d'elle-même</strong> : on ne peut pas libérer les êtres humains en saccageant la Terre.</li>
+<li><strong>L'évolution et la révolution</strong> vont ensemble : les grandes ruptures préparent de lentes transformations, et inversement.</li>
+<li><strong>Voter, c'est abdiquer</strong> : déléguer son pouvoir, c'est le perdre.</li>
+<li><strong>Le végétarisme</strong> et le respect des animaux, rares chez les révolutionnaires de son temps.</li>
+</ul>
+
+<h2 id="ombres">Ce qu'on en discute</h2>
+<p>Reclus était anticolonialiste dans ses principes et dénonçait les massacres, mais sa géographie reprend parfois l'idée d'une « mission » des peuples européens et d'une colonisation « pacifique » qui répandrait le progrès. Les historiennes et historiens de la géographie en débattent encore.</p>
+
+<h2 id="lire">Le lire sur le site</h2>
+<ul>
+<li><a href="../livres/l-anarchie-reclus.html">L'Anarchie</a>, <a href="../livres/evolution-revolution-ideal.html">L'Évolution, la révolution et l'idéal anarchique</a>, <a href="../livres/a-mon-frere-le-paysan.html">À mon frère le paysan</a>, <a href="../livres/voter-c-est-abdiquer.html">Voter c'est abdiquer</a>, <a href="../livres/pourquoi-sommes-nous-anarchistes.html">Pourquoi sommes-nous anarchistes ?</a> et <a href="../livres/sentiment-de-la-nature.html">Du sentiment de la nature</a>, en entier.</li>
+<li>Les fiches <a href="../bibliotheque/vegetarisme.html">À propos du végétarisme</a> et <a href="../bibliotheque/esclavage-aux-etats-unis.html">De l'esclavage aux États-Unis</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Élisée Reclus, géographe de la liberté</cite></b>, Philippe Pelletier, éd. Atelier de création libertaire, 2013.<span>Par un géographe, spécialiste de Reclus.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://raforum.info/reclus/" rel="noopener">Le site Reclus du RA-Forum</a><span>Textes, lettres et études.</span></li>
+</ul></section>
+</div>
+
+=== kropotkine | Penser l'anarchie | Pierre Kropotkine, le prince de l'entraide | Russie, Europe · 1842-1921 | Prince devenu révolutionnaire, géographe et naturaliste, il montre que l'entraide est une loi de la nature et décrit une société communiste libertaire.
+<p>Mamie a appris l'anarchie dans <em>La Conquête du pain</em>, comme des générations avant elle. Kropotkine a renoncé à un titre de prince pour écrire, pour la bande, qu'on peut organiser une société entière sur l'entraide et le partage. Il est de loin l'auteur le mieux représenté dans notre bibliothèque.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-kropotkine.jpg" alt="Portrait de Pierre Kropotkine par l'atelier Nadar, grande barbe." width="1200" height="1861" loading="lazy"><figcaption>Pierre Kropotkine photographié par l'atelier Nadar. <small>Atelier Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Atelier_Nadar_-_Pierre_Kropotkine.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1842</strong> à Moscou dans une grande famille princière. Page du tsar, puis officier en <strong>Sibérie</strong>, il explore des régions inconnues et y découvre l'entraide des communautés paysannes.</li>
+<li><strong>1872</strong> : en Suisse, il rencontre les horlogers anarchistes de la <strong>Fédération jurassienne</strong>. Il rentre en Russie militant.</li>
+<li>Arrêté en 1874, il s'évade en <strong>1876</strong> de l'hôpital de la prison de Saint-Pétersbourg, grâce à un violon qui donne le signal, et une voiture qui l'attend.</li>
+<li>En Suisse, il fonde le journal <em>Le Révolté</em> (1879). Expulsé, il passe en France, où il est condamné en 1883 au procès de Lyon et emprisonné à Clairvaux jusqu'en 1886.</li>
+<li>Il vit trente ans en exil à <strong>Londres</strong>, où il écrit ses grands livres. En <strong>1917</strong>, il rentre en Russie, refuse un poste de ministre, critique les bolcheviks. À ses obsèques, en <strong>1921</strong>, des anarchistes emprisonnés sont autorisés à sortir un jour pour suivre le cercueil : c'est la dernière grande manifestation libre à Moscou.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>L'entraide</strong> : chez les animaux comme chez les humains, la coopération compte autant que la lutte pour survivre.</li>
+<li><strong>Le communisme libertaire</strong> : prendre au tas ce qui abonde, partager ce qui manque. « À chacun selon ses besoins », sans salaire ni État.</li>
+<li><strong>Champs, usines et ateliers</strong> : relier la ville et la campagne, le travail manuel et intellectuel.</li>
+<li><strong>La morale sans Dieu ni loi</strong>, fondée sur la solidarité et l'égalité.</li>
+</ul>
+
+<h2 id="ombres">Sa zone d'ombre</h2>
+<p>En 1914, Kropotkine prend le parti de la France et de ses alliés contre l'Allemagne. En 1916, il signe le <strong>Manifeste des Seize</strong>, qui appelle à continuer la guerre. Pour la plupart des anarchistes, c'est une trahison de l'internationalisme. <a href="malatesta.html">Malatesta</a>, son vieil ami, lui répond par un texte cinglant : « Anarchistes de gouvernement ».</p>
+
+<h2 id="lire">Le lire sur le site</h2>
+<ul>
+<li>En entier : <a href="../livres/la-conquete-du-pain.html">La Conquête du pain</a>, <a href="../livres/paroles-d-un-revolte.html">Paroles d'un révolté</a>, <a href="../livres/la-grande-revolution.html">La Grande Révolution</a>, <a href="../livres/l-etat-son-role-historique.html">L'État, son rôle historique</a>, <a href="../livres/la-morale-anarchiste.html">La Morale anarchiste</a>, <a href="../livres/aux-jeunes-gens.html">Aux jeunes gens</a>, <a href="../livres/l-esprit-de-revolte.html">L'Esprit de révolte</a> et d'autres.</li>
+<li>Les fiches <a href="../bibliotheque/entraide.html">L'Entraide</a>, <a href="../bibliotheque/memoires-d-un-revolutionnaire.html">Mémoires d'un révolutionnaire</a> et <a href="../bibliotheque/la-guerre-kropotkine.html">La Guerre</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Autour d'une vie</cite></b>, Pierre Kropotkine, 1898.<span>Ses mémoires, aussi publiés sous le titre <cite>Mémoires d'un révolutionnaire</cite>.</span></li>
+<li><b><cite>Kropotkine</cite></b>, Renaud Garcia, éd. Le Passager clandestin, 2019.<span>Une introduction récente.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Pierre_Kropotkine" rel="noopener">Kropotkine sur Wikipédia</a><span>Repères biographiques.</span></li>
+</ul></section>
+</div>
+
+=== malatesta | Penser l'anarchie | Errico Malatesta, l'électricien de la révolution | Italie · 1853-1932 | Soixante ans de lutte, des insurrections paysannes aux occupations d'usines, des exils aux prisons : l'anarchiste le plus concret de sa génération.
+<p>Malatesta gagnait sa vie comme électricien et mécanicien, même quand toute l'Europe le connaissait. Mamie l'aime pour ça : pas de grandes théories, du bon sens, des dialogues de bistrot pour expliquer l'anarchie, et une fidélité absolue aux idées, jusqu'à la résidence surveillée sous Mussolini.</p>
+
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-malatesta.jpg" alt="Portrait d'Errico Malatesta, moustache et barbe." width="457" height="599" loading="lazy"><figcaption>Errico Malatesta. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Malatesta.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="vie">Sa vie</h2>
+<ul>
+<li>Il naît en <strong>1853</strong> près de Naples. Étudiant en médecine, il est exclu de l'université pour avoir participé à une manifestation et rejoint l'<strong>Internationale</strong>, où il rencontre <a href="bakounine.html">Bakounine</a>.</li>
+<li><strong>1877</strong> : avec une petite bande armée, il entre dans des villages des montagnes du <strong>Matese</strong>, brûle les registres des impôts et proclame la fin du roi. Les paysans sont sympathiques mais ne bougent pas ; la troupe les arrête.</li>
+<li>Commencent cinquante ans d'exil et de prison : Égypte, Londres, <strong>Argentine</strong> (où il aide à fonder les premiers syndicats de boulangers), États-Unis…</li>
+<li><strong>1914</strong> : il participe à la <strong>Semaine rouge</strong> d'Ancône, grande insurrection populaire. En 1916, il dénonce les anarchistes pro-guerre, dont <a href="kropotkine.html">Kropotkine</a>.</li>
+<li><strong>1920</strong> : il dirige le quotidien anarchiste <em>Umanità Nova</em> pendant les <strong>occupations d'usines</strong> du « biennio rosso ». Arrêté, il fait une grève de la faim en prison.</li>
+<li>Sous le fascisme, il vit à Rome en résidence surveillée, policiers à la porte. Il meurt en <strong>1932</strong>.</li>
+</ul>
+
+<h2 id="idees">Ce qu'il défend</h2>
+<ul>
+<li><strong>L'anarchie, c'est la société sans gouvernement</strong>, où les gens s'organisent librement pour répondre à leurs besoins.</li>
+<li><strong>L'organisation</strong> : les anarchistes doivent s'organiser, en groupes et en fédérations libres, sinon d'autres organiseront à leur place.</li>
+<li><strong>Les moyens et la fin</strong> : on ne fabrique pas la liberté avec de l'autorité. D'où sa critique précoce des bolcheviks.</li>
+<li><strong>Pas de dogme</strong> : les anarchistes doivent tenir compte des réalités, convaincre, expérimenter.</li>
+</ul>
+
+<h2 id="lire">Le lire sur le site</h2>
+<ul>
+<li><a href="../livres/l-anarchie-malatesta.html">L'Anarchie</a> (1891), en entier : le meilleur point de départ.</li>
+<li>Les fiches <a href="../bibliotheque/au-cafe.html">Au café</a>, <a href="../bibliotheque/anarchie-et-organisation.html">Anarchie et organisation</a>, <a href="../bibliotheque/bolchevisme-et-anarchisme.html">Bolchevisme et anarchisme</a> et <a href="../bibliotheque/concevoir-la-revolution.html">Comment concevoir la révolution</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Errico Malatesta, sa vie et ses idées</cite></b>, Vernon Richards (dir.), 1965.<span>Un recueil de ses textes classés par thèmes.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Errico_Malatesta" rel="noopener">Malatesta sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/category/author/errico-malatesta" rel="noopener">Ses textes sur la Bibliothèque anarchiste</a><span>De nombreux articles en français.</span></li>
+</ul></section>
+</div>

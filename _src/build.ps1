@@ -224,7 +224,7 @@ foreach ($row in (Read-Utf8 (Join-Path $src "textes\livres.txt")) -split "`n") {
   $date = ($m["date"] -replace '[^\d]', ' ').Trim() -split '\s+' | Select-Object -Last 1
   $source = ([regex]::Replace(($m["notes"] + ""), '<[^>]+>', '') -replace '\[\[[^\]]+\]\[([^\]]+)\]\]', '$1' -replace '\*', '').Trim()
   $words = ([regex]::Replace($doc.html, '<[^>]+>', ' ') -split '\s+' | Where-Object { $_ }).Count
-  $livres += [pscustomobject]@{ id = $c[1].Trim(); cat = $c[2].Trim(); fiche = $c[3].Trim(); d = $c[4].Trim(); title = $title; author = $author; date = $date; source = $source; doc = $doc; words = $words; sub = ($m["subtitle"] + "") }
+  $livres += [pscustomobject]@{ id = $c[1].Trim(); accord = ($m["droits"] -eq "accord"); cat = $c[2].Trim(); fiche = $c[3].Trim(); d = $c[4].Trim(); title = $title; author = $author; date = $date; source = $source; doc = $doc; words = $words; sub = ($m["subtitle"] + "") }
 }
 
 $ficheToLivre = @{}; foreach ($l in $livres) { if ($l.fiche) { $ficheToLivre[$l.fiche] = $l.id } }
@@ -251,7 +251,7 @@ for ($i = 0; $i -lt $livres.Count; $i++) {
 <div class="wrap glayout">
   <article class="prose livre">
 $($l.doc.html)
-<p class="credit">Texte intégral, domaine public.$srcLine Mis en page par la bande à Mamie d'après la Bibliothèque anarchiste.</p>
+<p class="credit">$(if ($l.accord) { "Texte intégral, diffusé avec l'accord des ayants droit.$srcLine Mis en page par la bande à Mamie." } else { "Texte intégral, domaine public.$srcLine Mis en page par la bande à Mamie d'après la Bibliothèque anarchiste." })</p>
   <nav class="gnext" aria-label="Livres voisins">$nav2</nav>
   </article>
   <aside class="toc"><h2>Sommaire</h2><ol>$toc</ol></aside>
@@ -261,7 +261,8 @@ $($l.doc.html)
 
   # Version imprimable, convertie en PDF par _src/pdf.ps1
   $sub = ""; if ($l.sub) { $sub = "<p class=""cover__sub"">$(Esc $l.sub)</p>" }
-  $print = $printTpl.Replace("{{TITLE}}", (Esc $l.title)).Replace("{{AUTHOR}}", (Esc $l.author)).Replace("{{DATE}}", $l.date).Replace("{{SUB}}", $sub).Replace("{{MAMIE}}", $mamieUrl).Replace("{{TITLETAGS}}", (Title-Tags $l.title)).Replace("{{SOURCE}}", (Esc $l.source)).Replace("{{BODY}}", $l.doc.html)
+  # Mention de droits : domaine public, ou « #droits accord » dans l'en-tête Muse (livre diffusé avec l'accord des ayants droit).
+  $print = $printTpl.Replace("{{TITLE}}", (Esc $l.title)).Replace("{{MENTION}}", $(if ($l.accord) { "Texte intégral · avec l'accord des ayants droit" } else { "Texte intégral · domaine public · à diffuser" })).Replace("{{LICENCE}}", $(if ($l.accord) { "Texte diffusé avec l'accord de ses ayants droit, mis en page par Mamie Commune. Pour le faire circuler, renvoie vers mamiecommune.org." } else { "Texte du domaine public, mis en page par Mamie Commune d'après la Bibliothèque anarchiste francophone. Copie, imprime et diffuse librement." })).Replace("{{AUTHOR}}", (Esc $l.author)).Replace("{{DATE}}", $l.date).Replace("{{SUB}}", $sub).Replace("{{MAMIE}}", $mamieUrl).Replace("{{TITLETAGS}}", (Title-Tags $l.title)).Replace("{{SOURCE}}", (Esc $l.source)).Replace("{{BODY}}", $l.doc.html)
   # On ne réécrit que si le contenu change, pour que pdf.ps1 ne régénère que les livres modifiés.
   $pp = Join-Path $src "textes\print\$($l.id).html"
   if (-not (Test-Path $pp) -or (Read-Utf8 $pp) -ne $print) { Write-Utf8 $pp $print }

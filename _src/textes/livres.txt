@@ -36,3 +36,5 @@ jean-grave-la-societe-future | la-societe-future | Économie & propriété | la-
 joseph-dejacques-a-bas-les-chefs-fr | a-bas-les-chefs | État & pouvoir | a-bas-les-chefs | Le pamphlet de Déjacque contre toute autorité, y compris révolutionnaire.
 joseph-dejacque-de-l-etre-humain-male-et-femelle | etre-humain-male-et-femelle | Individu & morale | etre-humain-male-et-femelle | La lettre de 1857 à Proudhon sur l'égalité des femmes et des hommes.
 errico-malatesta-l-anarchie | l-anarchie-malatesta | État & pouvoir | l-anarchie-malatesta | La traduction de 1902 du texte d'introduction de Malatesta.
+guillaume-davranche-dix-questions-sur-l-anarchisme | dix-questions-anarchisme | Révolution & stratégie | dix-questions-anarchisme | Le livre par lequel commencer : d’où vient l’anarchisme, quel projet économique, démocratique, écologiste et féministe, quelle stratégie, quelle organisation, et quelles figures retenir.
+la-horde-dix-questions-sur-l-antifascisme | dix-questions-antifascisme | Antifascisme | dix-questions-antifascisme | L'antifascisme comme autodéfense, projet d'émancipation et contre-culture : histoire, pratiques et débats, en dix questions.

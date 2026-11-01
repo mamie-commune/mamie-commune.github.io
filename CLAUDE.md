@@ -137,7 +137,7 @@ Le documentaire *Les Damnés de la Commune* est dans `_src/pages/videos.html`. L
 
 ## Livres complets et PDF
 
-1. Ajouter le fichier `.muse` dans `_src/textes/sources/` (vérifier que l'autrice ou l'auteur **et** la personne qui a traduit sont mortes depuis plus de 70 ans, ou que les droits sont accordés).
+1. Ajouter le fichier `.muse` dans `_src/textes/sources/` (vérifier que l'autrice ou l'auteur **et** la personne qui a traduit sont mortes depuis plus de 70 ans, ou que les droits sont accordés). Pour un livre diffusé avec l'accord de ses ayants droit, ajouter `#droits accord` dans l'en-tête Muse : la couverture du PDF, le colophon et le crédit de la page le disent au lieu de « domaine public ». C'est le cas de *Dix questions sur l'anarchisme* et *Dix questions sur l'antifascisme*, convertis depuis leur PDF Libertalia (les PDF d'origine ne sont plus dans le dépôt).
 2. Ajouter une ligne dans `_src/textes/livres.txt` : `fichier-source | identifiant | thème | fiche liée | présentation`.
 3. Régénérer, puis fabriquer le PDF (Windows + Microsoft Edge nécessaires, à faire en local) :
    ```powershell

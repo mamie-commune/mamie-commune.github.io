@@ -813,3 +813,32 @@ html.facile {
   .neuf li:first-child::after { top: 14px; right: 12px; font-size: 13px; }
 }
 .facile .neuf li, .facile .neuf li::before, .facile .neuf li::after { transform: none !important; }
+@media (min-width: 1100px) { .steps--5 { grid-template-columns: repeat(5, minmax(0, 1fr)); } }
+/* Affiches et tracts à télécharger (fiche agir/affiches-et-tracts) : aperçus collés de travers, comme sur un mur. */
+.affiches { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 30px 26px; margin: 1.4em 0; }
+.affiche { margin: 0; display: flex; flex-direction: column; gap: 10px; }
+.affiche > a { display: block; border: 3px solid var(--ink); box-shadow: 6px 6px 0 var(--shadow); transform: rotate(-1deg); transition: transform .15s; background: #fff; }
+.affiche:nth-child(2n) > a { transform: rotate(1deg); }
+.affiche > a:hover, .affiche > a:focus-visible { transform: rotate(0) translateY(-3px); background: #fff; }
+.affiche img { display: block; width: 100%; height: auto; }
+.affiche figcaption { font-size: 15px; line-height: 1.45; }
+.affiche figcaption b { display: block; font: 400 17px/1.2 var(--display); }
+.affiche figcaption a[download] { display: inline-block; margin-top: 6px; font: 400 14px/1 var(--display); text-transform: uppercase; background: var(--red-hi); color: var(--on-dark); padding: 7px 10px; text-decoration: none; }
+.affiche figcaption a[download]:hover { background: var(--ink); color: var(--paper-2); }
+@media (max-width: 560px) { .affiches { grid-template-columns: 1fr; } }
+.facile .affiche > a { transform: none !important; }
+/* Accueil : quatre parcours, deux par ligne */
+.parcours { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.parcours .rubrique:nth-child(4) .rubrique__n { background: var(--red-hi); color: var(--on-dark); }
+@media (max-width: 740px) { .parcours { grid-template-columns: 1fr; } }
+/* Page des symboles d'extrême droite : dessins simples sur des bouts de papier, dans le texte de la page. */
+.prose .symboles { margin: 1.6em 0; }
+.symboles__grille { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; }
+.symbole { background: var(--paper-2); border: 3px solid var(--ink); box-shadow: 5px 5px 0 var(--shadow); padding: 14px 12px 12px; text-align: center; }
+.symbole svg { display: block; width: 70%; max-width: 140px; margin: 0 auto 8px; aspect-ratio: 1; }
+.symbole__trait { fill: none; stroke: var(--ink); stroke-width: 7; stroke-linecap: round; stroke-linejoin: round; }
+.symbole__chiffre { font: 400 23px/1 var(--display); fill: var(--red-txt); }
+.prose .symbole p { margin: 0; font-size: 14px; line-height: 1.35; }
+.symbole p b { display: block; font: 400 15px/1.2 var(--display); }
+.symboles figcaption { margin-top: 12px; font-size: 14px; }
+@media (max-width: 560px) { .symboles__grille { grid-template-columns: repeat(2, minmax(0, 1fr)); } }

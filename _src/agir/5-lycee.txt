@@ -1,0 +1,220 @@
+=== lutter-au-lycee | Lutter au lycée | Lutter au lycée : par où commencer | D'après Service-public.fr, le CIDJ et l'expérience des mouvements lycéens · 2026 | Le mouvement lycéen de 2026, pourquoi on se bat, tes droits d'expression au lycée, l'AG, le comité de mobilisation, la coordination entre lycées, et comment tenir dans la durée.
+<p>Mamie a fait son premier blocus avec une poubelle, deux copines et une banderole peinte sur un drap de sa mère. Les lycéennes et lycéens ont souvent lancé les grands mouvements avant tout le monde : en 1968, en 1986, en 2006 contre le CPE. Cette fiche est pour toi qui veux t'y mettre, que ce soit ton premier blocus ou le dixième.</p>
+
+<h2 id="mouvement">Le mouvement de 2026</h2>
+<p>Parti de Mayotte fin août puis de Créteil le 18 septembre, le mouvement a touché des centaines de lycées en quelques jours. Le 2 octobre, sur environ 3 700 lycées en France, plus d'un millier étaient concernés et 400 avaient été fermés par les autorités. La manifestation nationale du 6 octobre a réuni 256 000 personnes selon le ministère de l'Intérieur, 450 000 selon les organisations.</p>
+<p><strong>Ce que demandent les lycéennes et lycéens</strong> : des profs remplacés (au moins un manquait dans plus de la moitié des collèges et lycées publics à la rentrée), des bâtiments réparés et vivables, la fin de Parcoursup, qui a laissé 18 % des bacheliers sans aucun vœu en juillet 2026, et plus de justice sociale.</p>
+<p><strong>Ce qu'a répondu l'État</strong> : des fermetures de lycées, des manifestations interdites aux abords, et des milliers d'interpellations. Au 8 octobre, on comptait <strong>6 877 gardes à vue, dont 86 % de mineurs</strong>. Beaucoup se terminent sans poursuites : c'est une façon de faire peur. D'où ces fiches.</p>
+<div class="note"><p><strong>Ces fiches parlent du droit français</strong> et ne remplacent pas l'avis d'une avocate ou d'un avocat. Pour la garde à vue, le contrôle d'identité et la justice, la fiche de référence reste <a href="../manif/legal-team.html">Tes droits en manif</a>.</p></div>
+
+<h2 id="droits">Tes droits au lycée</h2>
+<p>Au lycée, tu n'es pas seulement là pour écouter. Le Code de l'éducation reconnaît aux lycéennes et lycéens des droits collectifs, à exercer dans le respect du pluralisme et sans empêcher les cours :</p>
+<ul>
+<li><strong>Le droit d'expression</strong> : tu peux donner ton avis, et le défendre.</li>
+<li><strong>Le droit de réunion</strong> : les délégués ou une association lycéenne peuvent organiser une réunion dans le lycée, en dehors des heures de cours, après accord du chef d'établissement. Demande-le par écrit, et garde une trace de la réponse.</li>
+<li><strong>Le droit de publication et d'affichage</strong> : un journal ou un tract lycéen peut circuler librement dans le lycée. Le chef d'établissement peut seulement en suspendre la diffusion s'il porte gravement atteinte aux droits des autres ou à l'ordre public (insultes, diffamation…). Il y a souvent des panneaux réservés aux lycéennes et lycéens.</li>
+<li><strong>Le droit d'association</strong> : dès 16 ans, tu peux créer une association et la diriger. Une association lycéenne peut avoir son siège dans le lycée.</li>
+<li><strong>Les élus</strong> : délégués de classe, Conseil de la vie lycéenne (CVL), conseil d'administration. Ce n'est pas là que se gagne une lutte, mais c'est une tribune, des informations, et parfois une protection.</li>
+</ul>
+<p>Ce qui n'est <strong>pas</strong> un droit : sécher les cours pour manifester. Le lycée peut compter ces absences comme injustifiées. Parles-en avec tes parents, qui peuvent choisir de les justifier ou non.</p>
+
+<h2 id="ag">L'AG de lycée</h2>
+<p>Un mouvement solide part d'une <strong>assemblée générale</strong> : tout le monde peut venir, parler et voter. C'est elle qui décide s'il y a blocus, manif ou autre chose, pas trois personnes sur un groupe de discussion.</p>
+<ul>
+<li><strong>Où et quand</strong> : à la pause de midi, devant le lycée ou dans un parc à côté. Annonce-la la veille, par tract, affiche et bouche-à-oreille.</li>
+<li><strong>Des rôles qui tournent</strong> : une personne qui anime, une qui donne la parole, une qui prend des notes. Méthode complète dans la fiche <a href="tenir-une-ag.html">Tenir une AG</a>.</li>
+<li><strong>Des revendications claires</strong>, nationales (Parcoursup, postes de profs) et locales (le chauffage de la salle B12, le prof de maths jamais remplacé). Les locales se gagnent plus vite, et ça donne de la force.</li>
+<li><strong>Voter les actions</strong> et les noter : quoi, quand, avec qui. Un vote clair protège aussi : ce n'est pas « l'idée de X », c'est la décision de l'AG.</li>
+</ul>
+
+<h2 id="comite">Le comité de mobilisation</h2>
+<p>Entre deux AG, un petit groupe ouvert prépare la suite. Il ne décide pas à la place de l'AG : il exécute ce qu'elle a voté.</p>
+<ul>
+<li><strong>Tracts et affiches</strong> : voir <a href="faire-un-tract.html">Faire un tract</a> et <a href="coller-des-affiches.html">Coller des affiches</a>.</li>
+<li><strong>Réseaux sociaux</strong> : un compte du lycée, tenu par plusieurs personnes. Ne publie <strong>jamais</strong> de visages sans accord : les photos servent aussi à la police et aux directions. Floute.</li>
+<li><strong>Discussions</strong> : un groupe Signal plutôt que WhatsApp ou Instagram, avec messages éphémères. Voir le <a href="../guides/signal.html">guide Signal</a>.</li>
+<li><strong>Une caisse</strong> pour les banderoles, la peinture, les amendes et les avocats : voir <a href="caisse-de-solidarite.html">Monter une caisse de solidarité</a>.</li>
+</ul>
+
+<h2 id="coordination">Se coordonner entre lycées</h2>
+<ul>
+<li><strong>Envoie des délégations</strong> aux AG des lycées voisins, et invite-les aux tiennes. Un mouvement isolé s'épuise ; un mouvement qui s'étend fait peur.</li>
+<li><strong>Une coordination locale</strong> (ville, département) réunit des personnes mandatées par chaque AG : elles portent la parole de leur lycée, pas la leur.</li>
+<li><strong>Les syndicats lycéens</strong> (Union syndicale lycéenne, Mouvement national lycéen…) appellent aux journées nationales et sont reçus au ministère. Tu peux travailler avec eux sans leur laisser décider de tout.</li>
+<li><strong>Les profs, les surveillantes et surveillants, les parents</strong> : beaucoup partagent vos revendications. Une AG commune, une grève des profs le même jour, des parents devant le lycée le matin du blocus : ça change tout, y compris face à la police.</li>
+<li><strong>Les étudiantes et étudiants</strong> se sont joints au mouvement en 2026. Les facs ont des AG, des locaux et de l'expérience : profites-en.</li>
+</ul>
+
+<h2 id="durer">Tenir dans la durée</h2>
+<p>Un mouvement lycéen, c'est intense et court. Pour qu'il laisse quelque chose :</p>
+<ul>
+<li><strong>Varie les actions</strong> : blocus, manif, rassemblement, cours alternatifs devant le lycée, banderoles aux fenêtres, journée lycée mort. Bloquer tous les jours épuise et divise.</li>
+<li><strong>Prends soin des gens</strong> : les vacances, les contrôles, les parents inquiets, la peur après une interpellation. Voir <a href="eviter-l-epuisement-militant.html">Éviter l'épuisement militant</a>.</li>
+<li><strong>Garde une trace</strong> : les revendications obtenues, les promesses faites, les noms des élus qui ont signé. La lutte suivante repartira de là.</li>
+<li><strong>Ne laisse personne seul</strong> face à une sanction ou à des poursuites : c'est la règle d'or. Voir <a href="lyceens-face-aux-sanctions.html">Face aux sanctions et à la police</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France" rel="noopener">Mouvement lycéen et étudiant de 2026</a><span>Wikipédia : chronologie, chiffres et revendications, avec leurs sources.</span></li>
+<li><a href="https://www.cidj.com/s-engager/s-engager-pour-une-cause/droit-de-manifester-des-lyceens-que-faut-il-savoir" rel="noopener">Droit de manifester des lycéens</a><span>CIDJ : ce que tu peux faire, et ce que tu risques.</span></li>
+</ul></section>
+<section><h3>Les organisations lycéennes</h3><ul>
+<li><a href="https://fr.wikipedia.org/wiki/Union_syndicale_lyc%C3%A9enne" rel="noopener">Union syndicale lycéenne</a><span>Syndicat lycéen, présent dans les mouvements depuis les années 1990.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mouvement_national_lyc%C3%A9en" rel="noopener">Mouvement national lycéen</a><span>L'autre grand syndicat lycéen.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="organiser-un-blocus.html">Organiser un blocus</a><span>La fiche suivante : préparer, tenir et finir un blocus en sécurité.</span></li>
+<li><a href="../experiences/mai-68-histoire.html">Mai 68 : la grève générale</a><span>Quand les lycées et les facs ont entraîné tout le pays.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Droit français, à jour en novembre 2026. Elle ne remplace pas l'avis d'une juriste ou d'un juriste. Libre de reproduction.</p>
+
+=== organiser-un-blocus | Lutter au lycée | Organiser un blocus | D'après l'expérience des mouvements lycéens et des legal teams · 2026 | Voter le blocus, se répartir les rôles, tenir sans se mettre en danger, savoir quand partir, et ce qu'on risque vraiment.
+<p>Un blocus, c'est un message : « tant que rien ne change, on ne rentre pas en cours ». Mamie en a vu des beaux, joyeux, avec du café et de la musique, et d'autres qui ont tourné à la nasse et aux gardes à vue. La différence se joue souvent la veille, à la préparation.</p>
+
+<h2 id="risques">Ce qu'on risque vraiment</h2>
+<ul>
+<li><strong>Il n'existe pas de « droit de blocus ».</strong> Empêcher l'entrée du lycée relève d'abord de la <strong>discipline</strong> du lycée : avertissement, exclusion… Voir <a href="lyceens-face-aux-sanctions.html">Face aux sanctions et à la police</a>.</li>
+<li><strong>Ce qui mène devant la justice</strong> : les dégradations, les incendies (poubelles comprises), les violences, et une accusation très utilisée contre les lycéennes et lycéens, la « participation à un groupement en vue de commettre des violences ou des dégradations ». Elle permet d'arrêter des gens qui n'ont rien fait, juste parce qu'ils étaient là.</li>
+<li><strong>Si tu n'es pas élève du lycée</strong>, y entrer sans autorisation est un délit (« intrusion dans un établissement scolaire »). Les soutiens extérieurs restent dehors.</li>
+<li>En 2026, l'État a annoncé des <strong>interventions policières systématiques</strong> en cas de blocage total, et les gardes à vue se sont comptées par milliers. Prépare-toi en conséquence.</li>
+</ul>
+
+<h2 id="preparer">La veille : préparer</h2>
+<ul>
+<li><strong>Le blocus est voté en AG</strong>, avec l'heure de début, l'heure de fin et ce qu'on fait ensuite (AG, manif, cours alternatif).</li>
+<li><strong>Le matériel</strong> : banderole, tracts qui expliquent pourquoi, café et gâteaux, musique. Des barrières, des poubelles vides et des chaises pour marquer l'entrée suffisent : <strong>pas de feu</strong>, jamais. C'est dangereux, et c'est le prétexte idéal pour intervenir.</li>
+<li><strong>Le numéro de la legal team</strong> de ta ville, écrit au feutre sur le bras. Les legal teams sont listées sur le site du RAJCOL (voir la fiche <a href="../manif/legal-team.html">Tes droits en manif</a>).</li>
+<li><strong>Préviens des adultes de confiance</strong> : profs, parents, élus. Leur présence devant le lycée calme beaucoup de choses.</li>
+<li><strong>Le téléphone</strong> : verrouillé par un code (pas l'empreinte ni le visage), et le moins de choses dedans possible. Voir le <a href="../guides/signal.html">guide Signal</a>.</li>
+<li><strong>Ta tenue</strong> : des vêtements simples et confortables, de quoi te couvrir du froid, de l'eau.</li>
+</ul>
+
+<h2 id="roles">Le jour J : les rôles</h2>
+<p>Un bon blocus ne repose pas sur une ou deux grandes gueules : chaque personne a un rôle, et sait qui fait quoi.</p>
+<figure class="schema">
+<div class="schema__scroll">
+<svg viewBox="0 0 720 300" role="img" aria-label="Les rôles pendant un blocus, autour de l'AG qui décide">
+<rect class="bx-r" x="255" y="115" width="210" height="70"/><text class="tb" x="360" y="146" text-anchor="middle">Le blocus</text><text class="s" x="360" y="168" text-anchor="middle">décidé par l'AG</text>
+<rect class="bx" x="10" y="20" width="220" height="62"/><text class="t" x="120" y="46" text-anchor="middle">Accueil, explications</text><text class="s" x="120" y="68" text-anchor="middle">tracts, café, discuter</text>
+<rect class="bx" x="490" y="20" width="220" height="62"/><text class="t" x="600" y="46" text-anchor="middle">Liaison</text><text class="s" x="600" y="68" text-anchor="middle">direction, profs, parents</text>
+<rect class="bx" x="10" y="218" width="220" height="62"/><text class="t" x="120" y="244" text-anchor="middle">Legal et soin</text><text class="s" x="120" y="266" text-anchor="middle">noter, appeler, soigner</text>
+<rect class="bx" x="490" y="218" width="220" height="62"/><text class="t" x="600" y="244" text-anchor="middle">Guet</text><text class="s" x="600" y="266" text-anchor="middle">voir venir la police</text>
+<path class="ln" d="M232 60L262 115"/><path class="ln" d="M488 60L458 115"/><path class="ln" d="M232 240L262 185"/><path class="ln" d="M488 240L458 185"/>
+</svg>
+</div>
+<figcaption><b>Schéma.</b> Quatre rôles autour du blocus. On change de rôle d'un jour à l'autre, pour que tout le monde apprenne et que personne ne soit repéré comme « le chef ».</figcaption>
+</figure>
+<ul>
+<li><strong>Accueil et explications</strong> : distribuer les tracts, parler avec les élèves qui veulent entrer. On convainc, on ne force pas. Une personne qui veut passer (un examen, un rendez-vous, une peur) doit pouvoir passer.</li>
+<li><strong>Liaison</strong> : deux personnes, toujours les mêmes ce jour-là, parlent avec la direction, les profs et les parents. Les autres ne négocient pas dans leur coin.</li>
+<li><strong>Legal et soin</strong> : une ou deux personnes, sans rôle dans le blocage lui-même, qui notent tout (heure, matricule des policiers, noms des personnes arrêtées) et appellent la legal team. Une trousse de premiers secours : voir <a href="../manif/street-medic.html">Street medics</a>.</li>
+<li><strong>Guet</strong> : aux coins de rue, pour prévenir quand la police arrive.</li>
+</ul>
+
+<h2 id="police">Quand la police arrive</h2>
+<ul>
+<li><strong>Décidez à l'avance</strong> en AG ce que vous faites si la police vient : partir, vous asseoir, rester groupés. Le jour même, il n'y a pas le temps d'en débattre.</li>
+<li><strong>Restez groupés</strong> et ne courez pas dans tous les sens : les personnes isolées sont celles qu'on attrape.</li>
+<li><strong>Personne ne joue au héros.</strong> Mamie a toujours préféré un blocus levé à un camarade en garde à vue. On reviendra demain.</li>
+<li><strong>Si quelqu'un est arrêté</strong> : notez son nom complet, l'heure, l'endroit, et appelez la legal team. Prévenez ses parents. Ensuite, ne parlez pas de ce qui s'est passé sur les réseaux.</li>
+<li><strong>Filmer</strong> peut protéger, mais filme la police, pas les visages des camarades, et ne publie rien sans flouter.</li>
+</ul>
+
+<h2 id="apres">Après</h2>
+<ul>
+<li><strong>Finissez ensemble</strong>, à l'heure prévue, par une AG ou un départ en manif. Un blocus qui s'effrite laisse les dernières personnes seules.</li>
+<li><strong>Rangez et nettoyez</strong> : c'est aussi ce qui fait la différence aux yeux des parents et du quartier.</li>
+<li><strong>Faites le point</strong> : qui a été arrêté, sanctionné, convoqué ? La caisse et la solidarité se mettent en route tout de suite.</li>
+<li><strong>Parlez-en</strong> : la peur, la colère, la fatigue sont normales. Un petit temps ensemble après, ça compte.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.cidj.com/s-engager/s-engager-pour-une-cause/droit-de-manifester-des-lyceens-que-faut-il-savoir" rel="noopener">Droit de manifester des lycéens</a><span>CIDJ : manifester, bloquer, et ce qu'on risque.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France" rel="noopener">Mouvement lycéen et étudiant de 2026</a><span>Wikipédia : la réponse de l'État, chiffres à l'appui.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="lyceens-face-aux-sanctions.html">Face aux sanctions et à la police</a><span>La fiche suivante : conseil de discipline, recours, garde à vue des mineurs.</span></li>
+<li><a href="../manif/legal-team.html">Tes droits en manif</a><span>La fiche de référence de la Legal Team.</span></li>
+<li><a href="../manif/se-preparer-soin.html">Se préparer et se protéger</a><span>Ce qu'on met dans son sac.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Droit français, à jour en novembre 2026. Elle ne remplace pas l'avis d'une juriste ou d'un juriste. Libre de reproduction.</p>
+
+=== lyceens-face-aux-sanctions | Lutter au lycée | Lycéennes et lycéens face aux sanctions et à la police | D'après Service-public.fr et le CIDJ · 2026 | Les sanctions possibles au lycée, tes droits dans la procédure, les recours et leurs délais, la garde à vue quand on a moins de 18 ans, et comment se défendre ensemble.
+<p>Après un blocus, la direction convoque parfois quelques élèves « pour l'exemple ». Mamie le sait : la peur de la sanction fait plus pour casser un mouvement que n'importe quelle charge de police. Connaître tes droits, c'est déjà moins avoir peur.</p>
+
+<h2 id="sanctions">Les sanctions possibles au lycée</h2>
+<div class="tbl"><table>
+<thead><tr><th>Sanction</th><th>Qui peut la donner</th></tr></thead>
+<tbody>
+<tr><td>Avertissement, blâme</td><td>Chef d'établissement ou conseil de discipline</td></tr>
+<tr><td>Mesure de responsabilisation (20 heures maximum)</td><td>Chef d'établissement ou conseil de discipline</td></tr>
+<tr><td>Exclusion temporaire de la classe (8 jours maximum)</td><td>Chef d'établissement ou conseil de discipline</td></tr>
+<tr><td>Exclusion temporaire du lycée (8 jours maximum)</td><td>Chef d'établissement ou conseil de discipline</td></tr>
+<tr><td>Exclusion définitive</td><td>Conseil de discipline seulement</td></tr>
+</tbody>
+</table></div>
+<ul>
+<li>Une sanction peut être donnée <strong>avec sursis</strong>. Une mesure de responsabilisation peut remplacer une exclusion temporaire, si tu es d'accord.</li>
+<li>Avant la décision, le chef d'établissement peut t'interdire l'accès au lycée : c'est une <strong>mesure conservatoire</strong>, pas une sanction.</li>
+<li>Une sanction est <strong>individuelle</strong> : elle doit reposer sur ce que <strong>toi</strong> tu as fait, pas sur ta présence dans un groupe.</li>
+</ul>
+
+<h2 id="procedure">Tes droits dans la procédure</h2>
+<ul>
+<li><strong>Devant le chef d'établissement</strong> : tu dois avoir au moins <strong>2 jours ouvrables</strong> pour présenter ta défense, à l'oral ou par écrit.</li>
+<li><strong>Devant le conseil de discipline</strong> : la convocation arrive au moins <strong>5 jours</strong> avant la séance, par lettre recommandée ou remise en main propre.</li>
+<li>Dans les deux cas, <strong>tu peux te faire assister par la personne de ton choix</strong> : une avocate ou un avocat, une ou un délégué, une ou un prof, un membre d'un syndicat lycéen ou d'une association de parents.</li>
+<li><strong>Tu as le droit de garder le silence.</strong> Tu n'as pas à donner les noms d'autres élèves.</li>
+<li>Si tu es mineure ou mineur, <strong>tes parents sont informés</strong> et peuvent présenter leurs observations.</li>
+<li>Demande à voir ton dossier, et prépare ta défense avec quelqu'un : ce que tu as fait, ce que tu n'as pas fait, pourquoi tu luttais.</li>
+</ul>
+
+<h2 id="recours">Contester une sanction</h2>
+<div class="tbl"><table>
+<thead><tr><th>La sanction vient…</th><th>Premier recours</th><th>Ensuite</th></tr></thead>
+<tbody>
+<tr><td>du chef d'établissement</td><td>Recours auprès du chef d'établissement ou de l'académie, dans les <strong>2 mois</strong></td><td>Tribunal administratif, dans les 2 mois</td></tr>
+<tr><td>du conseil de discipline</td><td>Recours <strong>obligatoire</strong> auprès du recteur, dans les <strong>8 jours</strong> seulement</td><td>Tribunal administratif, dans les 2 mois après la réponse du recteur</td></tr>
+</tbody>
+</table></div>
+<div class="note"><p><strong>Attention au délai de 8 jours</strong> après un conseil de discipline : il passe vite. Écris tout de suite au recteur, même brièvement, et complète ensuite. Le recteur décide après l'avis d'une commission académique, dans un délai d'un mois.</p></div>
+
+<h2 id="gav">La garde à vue quand on a moins de 18 ans</h2>
+<p>La fiche <a href="../manif/legal-team.html#mineurs">Tes droits en manif</a> détaille tout. L'essentiel :</p>
+<ul>
+<li><strong>Tes parents sont prévenus</strong> tout de suite par la police (sauf exception décidée par la justice).</li>
+<li><strong>Une avocate ou un avocat est obligatoire.</strong> Toi ou tes parents pouvez le choisir ; sinon, il est désigné d'office. C'est gratuit pour toi.</li>
+<li>Avant 16 ans, un <strong>médecin</strong> t'examine obligatoirement. À partir de 16 ans, tu peux le demander, et tes parents aussi.</li>
+<li>Tes <strong>auditions sont filmées</strong>.</li>
+<li>La garde à vue dure <strong>24 heures</strong>, et ne peut être prolongée qu'une fois, pour des faits graves.</li>
+<li><strong>Tu as le droit de te taire.</strong> Ne dis rien avant d'avoir parlé à l'avocate ou à l'avocat, et ne donne jamais de noms.</li>
+<li>Beaucoup de gardes à vue de lycéennes et lycéens se terminent <strong>sans poursuites</strong>. Ne signe rien que tu n'as pas compris.</li>
+</ul>
+
+<h2 id="ensemble">Se défendre ensemble</h2>
+<ul>
+<li><strong>Ne laisse personne seul</strong> : si trois élèves sont convoqués, toute l'AG est concernée. Rassemblement devant le lycée le jour du conseil de discipline, lettre collective, pétition des profs et des parents.</li>
+<li><strong>Les parents sont des alliés</strong> : ils peuvent écrire, se faire accompagner par une association de parents, contacter des élus.</li>
+<li><strong>La caisse</strong> paie les avocats et les amendes : voir <a href="caisse-de-solidarite.html">Monter une caisse de solidarité</a>.</li>
+<li><strong>Les syndicats lycéens et les legal teams</strong> connaissent les procédures et les avocates et avocats engagés. Contacte-les tôt.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F1396" rel="noopener">Discipline au collège ou au lycée</a><span>Service-public.fr : sanctions, procédure, recours et délais.</span></li>
+<li><a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F1469" rel="noopener">Retenue ou garde à vue d'un mineur</a><span>Service-public.fr : durées, parents, avocat, médecin.</span></li>
+<li><a href="https://www.cidj.com/bien-vivre/sa-vie-scolaire/sanctions-au-college-au-lycee-a-l-universite-procedure-et-recours" rel="noopener">Sanctions au lycée : procédure et recours</a><span>CIDJ : la même chose, expliquée simplement.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="../manif/legal-team.html">Tes droits en manif</a><span>Contrôle d'identité, garde à vue, justice.</span></li>
+<li><a href="lutter-au-lycee.html">Lutter au lycée : par où commencer</a><span>Retour au début du guide.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Droit français, à jour en novembre 2026. Elle ne remplace pas l'avis d'une juriste ou d'un juriste. Libre de reproduction.</p>

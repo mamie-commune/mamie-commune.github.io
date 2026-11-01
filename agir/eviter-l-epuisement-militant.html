@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>&#201;viter l&#39;&#233;puisement militant — D&#39;apr&#232;s l&#39;exp&#233;rience des collectifs et Jo Freeman &#183; Mamie Commune</title>
+<meta name="description" content="Reconna&#238;tre les signes, faire tourner les r&#244;les, dire non, f&#234;ter les victoires, accueillir les pauses, et garder la bande en vie sur des ann&#233;es.">
+<link rel="icon" href="../assets/icone-32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="../assets/icone-48.png" sizes="48x48" type="image/png">
+<link rel="icon" href="../assets/icone-192.png" sizes="192x192" type="image/png">
+<link rel="apple-touch-icon" href="../assets/icone-180.png">
+<link rel="stylesheet" href="../assets/fonts.css?v=312b873c">
+<link rel="stylesheet" href="../assets/style.css?v=312b873c">
+<script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
+</head>
+<body>
+<a class="skip" href="#contenu">Aller au contenu</a>
+<header class="top">
+  <div class="wrap top__in">
+    <a class="brand" href="../" aria-label="Mamie Commune, accueil">
+      <img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52">
+      <span class="brand__name" data-ransom>Mamie Commune</span>
+    </a>
+    <nav class="nav" id="nav" aria-label="Navigation principale"><a class="nav__home" href="../">Accueil</a><div class="nav__fam fam--apprendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-apprendre">Apprendre</button><div class="nav__panel" id="menu-apprendre"><p class="nav__dit">Comprendre d&#39;o&#249; l&#39;on vient</p><a href="../experiences/"><b>Histoires de luttes</b><span>Commune, Mai 68, Stonewall, MLAC, ZAD, Gilets jaunes…</span></a><a href="../bibliotheque/"><b>Biblioth&#232;que</b><span>Livres libres en entier et fiches de lecture</span></a><a href="../videos"><b>Vid&#233;os</b><span>Documentaires et vid&#233;os de Mamie</span></a></div></div><div class="nav__fam fam--organiser"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-organiser" data-ici>S&#39;organiser</button><div class="nav__panel" id="menu-organiser"><p class="nav__dit">Trouver les autres, agir ensemble</p><a href="../agir/" aria-current="page"><b>Agir ensemble</b><span>Tenir une AG, monter un collectif, tracts et affiches</span></a><a href="../carte"><b>Carte des collectifs</b><span>Groupes, syndicats, librairies et lieux pr&#232;s de chez toi</span></a><a href="../mouvement-17-octobre"><b>Mouvement du 17 Octobre</b><span>O&#249; agir : les mobilisations, jour par jour</span></a><a href="../antifascisme/"><b>Antifascisme</b><span>Conna&#238;tre l&#39;extr&#234;me droite, agir contre elle</span></a></div></div><div class="nav__fam fam--defendre"><button class="nav__btn" type="button" aria-expanded="false" aria-controls="menu-defendre">Se d&#233;fendre</button><div class="nav__panel" id="menu-defendre"><p class="nav__dit">Tes droits, ta s&#233;curit&#233;</p><a href="../manif/"><b>Guide de manif</b><span>Tes droits face &#224; la police, se soigner en manif</span></a><a href="../guides/"><b>Outils num&#233;riques</b><span>Signal, vie priv&#233;e, Linux : se prot&#233;ger en ligne</span></a></div></div></nav>
+    <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
+  </div>
+</header>
+<div class="search">
+  <form class="wrap search__in" role="search" action="../recherche" data-root="../">
+    <label class="sr" for="q">Rechercher sur le site</label>
+    <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un outil, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">
+    <label class="sr" for="qf">Chercher dans</label>
+    <select class="search__fam" id="qf" name="f">
+      <option value="">Partout</option>
+      <option value="apprendre">Apprendre</option>
+      <option value="organiser">S'organiser</option>
+      <option value="defendre">Se défendre</option>
+    </select>
+    <button class="search__go" type="submit">Chercher</button>
+    <button class="facile-btn" id="facileBtn" type="button" aria-pressed="false" title="Texte plus grand, police simple, rien de penché"><span aria-hidden="true">Aa</span><span class="facile-btn__txt"> Lecture facile</span></button>
+    <button class="facile-btn theme-btn" id="themeBtn" type="button" title="Passer en mode sombre"><span aria-hidden="true">☾</span><span class="facile-btn__txt"> Sombre</span></button>
+    <div class="search__res" id="searchRes" role="listbox" aria-label="Résultats" hidden></div>
+  </form>
+</div>
+<main id="contenu">
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../">Accueil</a><span>/</span><a href="./">Agir ensemble</a><span>/</span><a href="./#prendre-soin-du-collectif">Prendre soin du collectif</a></p>
+  <p class="eyebrow">La bande &#224; Mamie s&#39;organise</p>
+  <h1>&#201;viter l&#39;&#233;puisement militant</h1>
+  <p class="lead">Reconna&#238;tre les signes, faire tourner les r&#244;les, dire non, f&#234;ter les victoires, accueillir les pauses, et garder la bande en vie sur des ann&#233;es.</p>
+  <div class="gmeta"><span>Prendre soin du collectif</span><span>D&#39;apr&#232;s l&#39;exp&#233;rience des collectifs et Jo Freeman &#183; 2026</span><span>Fiche · 3 min</span></div>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose">
+<p>Mamie a vu partir plus de camarades par fatigue que par la répression. On se jette dans une lutte, on dit oui à tout, on dort mal, et un jour on ne vient plus, avec un goût amer. L'épuisement militant n'est pas une faiblesse personnelle : c'est souvent le signe d'un collectif mal organisé. Ça se prévient.</p>
+
+<h2 id="signes">Reconnaître les signes</h2>
+<ul>
+<li>Tout devient urgent, et tu culpabilises dès que tu ne fais rien.</li>
+<li>Tu n'as plus de vie en dehors de la lutte : plus d'ami ou d'amie « pas militants », plus de loisirs, plus de sommeil.</li>
+<li>Les réunions te mettent en colère ou te vident, les désaccords deviennent des affaires personnelles.</li>
+<li>Tu as l'impression que, si tu t'arrêtes, tout s'effondre.</li>
+<li>Ton corps parle : fatigue qui ne passe pas, maux de ventre, insomnies, envie de tout lâcher.</li>
+</ul>
+<p>Si tu te reconnais, ce n'est pas le moment de tenir encore un peu. C'est le moment d'en parler, et de lever le pied.</p>
+
+<h2 id="roles">Faire tourner les rôles</h2>
+<ul>
+<li><strong>Personne n'est indispensable</strong>, et c'est une bonne nouvelle. Si une seule personne a les clés, le mot de passe ou les contacts presse, le collectif est fragile, et elle s'use.</li>
+<li><strong>Chaque tâche a deux personnes</strong> : une qui la fait, une qui apprend. On change tous les quelques mois.</li>
+<li><strong>Les tâches invisibles comptent</strong> : faire la vaisselle, rappeler les absentes et les absents, accueillir, écouter. On les nomme et on les partage, sinon elles retombent toujours sur les mêmes, souvent les femmes.</li>
+<li>Pour aller plus loin : <a href="decider-sans-chef">Décider sans chef</a> et <a href="monter-un-collectif">Monter un collectif qui tient</a>.</li>
+</ul>
+
+<h2 id="non">Savoir dire non</h2>
+<ul>
+<li><strong>Le collectif choisit ses priorités</strong> : on ne peut pas être sur toutes les luttes à la fois. Mieux vaut trois actions réussies que dix bâclées.</li>
+<li><strong>Dire non à une tâche</strong>, c'est laisser la place à quelqu'un d'autre. Personne ne doit avoir à se justifier.</li>
+<li><strong>Des limites claires</strong> : pas de messages de réunion après une certaine heure, des semaines sans action, un nombre raisonnable de réunions.</li>
+</ul>
+
+<h2 id="joie">Garder la joie</h2>
+<ul>
+<li><strong>Fêter les victoires</strong>, même petites : une affiche bien collée, une expulsion évitée, une augmentation obtenue.</li>
+<li><strong>Se voir sans ordre du jour</strong> : un repas, une balade, un concert. Une bande qui rit ensemble tient mieux les coups durs.</li>
+<li><strong>Raconter l'histoire</strong> : relire ce qu'on a fait il y a un an, voir le chemin parcouru. La lutte est longue ; la Commune a duré 72 jours, mais on en parle encore 150 ans après.</li>
+</ul>
+
+<h2 id="pauses">Accueillir les pauses et les départs</h2>
+<ul>
+<li><strong>On peut faire une pause</strong> sans être une traîtresse ou un traître. On prévient, on transmet ce qu'on faisait, et la porte reste ouverte.</li>
+<li><strong>Après un choc</strong> (une garde à vue, des violences policières, une agression), on s'occupe de la personne avant de reprendre l'action. Voir <a href="../manif/apres-la-manif">Après la manif</a>.</li>
+<li><strong>Si quelqu'un s'éloigne</strong>, on l'appelle, sans reproche, juste pour prendre des nouvelles.</li>
+<li><strong>Demander de l'aide</strong> n'est pas une honte : une amie ou un ami, une ou un médecin, une ou un psy. Si ça va vraiment mal, le <strong>3114</strong> (numéro national de prévention du suicide) répond jour et nuit, gratuitement.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="https://infokiosques.net/spip.php?article2" rel="noopener">La tyrannie de l'absence de structure</a><span>Jo Freeman, 1970 : quand l'informel fabrique des chefs cachés et des personnes épuisées.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article1889" rel="noopener">L'autogestion c'est pas de la tarte</a><span>Des lieux autogérés sur le partage des tâches et l'accueil.</span></li>
+</ul></section>
+<section><h3>Se faire aider</h3><ul>
+<li><a href="https://3114.fr" rel="noopener">3114, numéro national de prévention du suicide</a><span>Gratuit, jour et nuit, pour toi ou pour quelqu'un qui t'inquiète.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>
+
+  <nav class="gnext" aria-label="Pages voisines"><a href="accueillir-personnes-trans"><small>← Précédent</small><b>Accueillir les personnes trans et non binaires dans son collectif</b></a><a href="lutter-au-lycee"><small>Suivant →</small><b>Lutter au lyc&#233;e : par o&#249; commencer</b></a></nav>
+  </article>
+  <aside class="toc"><h2>Dans cette page</h2><ol><li><a href="#signes">Reconnaître les signes</a></li><li><a href="#roles">Faire tourner les rôles</a></li><li><a href="#non">Savoir dire non</a></li><li><a href="#joie">Garder la joie</a></li><li><a href="#pauses">Accueillir les pauses et les départs</a></li><li><a href="#sources">Sources et pour aller plus loin</a></li></ol></aside>
+</div>
+</main>
+<footer class="foot">
+  <div class="wrap foot__in">
+    <div>
+      <p class="brand"><img class="brand__face" src="../assets/mamie-logo-192.webp" alt="" width="52" height="52" loading="lazy"><span class="brand__name" data-ransom>Mamie Commune</span></p>
+      <p class="foot__blurb">Ressources anarchistes, de mamie à ses petits-enfants : apprendre, s'organiser, se défendre. Ni dieu, ni maître.</p>
+      <p class="foot__social" aria-label="Mamie sur les réseaux"><a href="https://www.tiktok.com/@mamie_commune" rel="noopener me">TikTok ↗</a><a href="https://www.instagram.com/mamie_commune/" rel="noopener me">Instagram ↗</a></p>
+    </div>
+    <nav class="fam--apprendre" aria-label="Apprendre"><h2>Apprendre</h2><a href="../experiences/">Histoires de luttes</a><a href="../bibliotheque/">Biblioth&#232;que</a><a href="../videos">Vid&#233;os</a></nav><nav class="fam--organiser" aria-label="S&#39;organiser"><h2>S&#39;organiser</h2><a href="../agir/">Agir ensemble</a><a href="../carte">Carte des collectifs</a><a href="../mouvement-17-octobre">Mouvement du 17 Octobre</a><a href="../antifascisme/">Antifascisme</a></nav><nav class="fam--defendre" aria-label="Se d&#233;fendre"><h2>Se d&#233;fendre</h2><a href="../manif/">Guide de manif</a><a href="../guides/">Outils num&#233;riques</a></nav>
+  </div>
+  <p class="wrap foot__legal">Textes du domaine public et fiches de lecture d'après la Bibliothèque anarchiste. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Fond de carte © contributeurs OpenStreetMap. <a href="../mentions-legales">Mentions légales</a></p>
+</footer>
+<script src="../assets/site.js?v=312b873c"></script>
+<script src="../assets/recherche.js?v=312b873c"></script>
+
+</body>
+</html>

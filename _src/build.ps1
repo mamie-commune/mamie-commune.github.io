@@ -230,12 +230,14 @@ $($l.doc.html)
 }
 # Livres diffusés tels quels en PDF, avec l'accord de leurs auteurs (pas de texte source à convertir).
 # Format : identifiant | thème | fiche liée | titre | auteur | année | pages | présentation | crédit
+# Livre sous droits qu'on ne copie pas : deux colonnes en plus, adresse où le lire ou l'acheter | texte du bouton.
 $pdfList = Join-Path $src "textes\livres-pdf.txt"
 if (Test-Path $pdfList) {
   foreach ($row in (Read-Utf8 $pdfList) -split "`n") {
     if ($row.Trim() -eq "" -or $row.StartsWith("#")) { continue }
     $c = $row -split "\|" | ForEach-Object { $_.Trim() }
     $l = [pscustomobject]@{ id = $c[0]; cat = $c[1]; fiche = $c[2]; title = $c[3]; author = $c[4]; date = $c[5]; d = $c[7] }
+    $ailleurs = $c.Count -ge 11 -and $c[9]
     $livres += $l
     if ($l.fiche) { $ficheToLivre[$l.fiche] = $l.id }
     $ficheBtn = ""; if ($l.fiche) { $ficheBtn = "<a class=""btn"" href=""../bibliotheque/$($l.fiche).html"">Fiche de lecture</a>" }
@@ -245,11 +247,11 @@ if (Test-Path $pdfList) {
   <h1>$(Esc $l.title)</h1>
   <p class="lead">$(Esc $l.d)</p>
   <div class="gmeta"><span>$(Esc $l.cat)</span><span>$(Esc $l.author) · $($l.date)</span><span>$(Esc $c[6]) pages</span></div>
-  <div class="cta"><a class="btn btn--main" href="../lecteur.html?livre=$($l.id)">Lire en PDF</a><a class="btn" href="pdf/$($l.id).pdf" download>Télécharger le PDF</a>$ficheBtn</div>
+  <div class="cta">$(if ($ailleurs) { "<a class=""btn btn--main"" href=""$(Esc $c[9])"" rel=""noopener"">$(Esc $c[10]) ↗</a>" } else { "<a class=""btn btn--main"" href=""../lecteur.html?livre=$($l.id)"">Lire en PDF</a><a class=""btn"" href=""pdf/$($l.id).pdf"" download>Télécharger le PDF</a>" })$ficheBtn</div>
 </div></header>
 <div class="wrap glayout">
   <article class="prose">
-    <p>Ce livre est diffusé ici dans sa mise en page d'origine. Ouvre-le dans le <a href="../lecteur.html?livre=$($l.id)">lecteur PDF</a> ou télécharge-le pour le lire hors ligne, l'imprimer ou le faire circuler.</p>
+    $(if ($ailleurs) { "<p>Ce livre est sous droits : la bande à Mamie ne le copie pas ici, elle t'envoie vers celles et ceux qui le diffusent. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } else { "<p>Ce livre est diffusé ici dans sa mise en page d'origine. Ouvre-le dans le <a href=""../lecteur.html?livre=$($l.id)"">lecteur PDF</a> ou télécharge-le pour le lire hors ligne, l'imprimer ou le faire circuler.</p>" })
     $(if ($l.fiche) { "<p>Pour aller à l'essentiel, la <a href=""../bibliotheque/$($l.fiche).html"">fiche de lecture</a> résume chaque chapitre.</p>" })
     <p class="credit">$(Esc $c[8])</p>
   </article>

@@ -1,0 +1,67 @@
+=== lancer-une-greve | Faire grève | Lancer une grève et tenir un piquet | D'après Service-public.fr et l'expérience des collectifs de grève · 2026 | Les bases du droit de grève en France, comment partir à plusieurs, l'assemblée des grévistes, la caisse de grève, le piquet et ses limites.
+<p>Le père de Mamie disait : « Le patron peut tout acheter, sauf le temps qu'on lui refuse. » La grève, c'est l'arme la plus simple et la plus vieille du mouvement ouvrier : on arrête le travail, et on montre qui fait vraiment tourner la boîte. Voici les bases pour la préparer sans se faire piéger.</p>
+
+<h2 id="droit">Le droit de grève, en France</h2>
+<p>La grève est un droit inscrit dans la Constitution. Dans le <strong>secteur privé</strong>, c'est un arrêt du travail :</p>
+<ul>
+<li><strong>total</strong> (pas de « grève du zèle » ni de travail au ralenti, qui ne sont pas des grèves au sens de la loi) ;</li>
+<li><strong>collectif</strong> : au moins deux salariées ou salariés, même si c'est une minorité de l'entreprise. Une personne seule peut faire grève si elle suit un appel national, ou si elle est la seule salariée ;</li>
+<li><strong>avec des revendications professionnelles</strong> connues de l'employeur : salaires, conditions de travail, défense d'une ou d'un collègue…</li>
+</ul>
+<p>Dans le privé, <strong>il n'y a pas de préavis</strong> : on peut partir en grève à tout moment, sans prévenir à l'avance, et sans avoir à dire individuellement qu'on va la faire. Aucune règle ne fixe de durée minimale ou maximale.</p>
+<p>Dans les <strong>services publics</strong>, c'est différent : un syndicat représentatif doit déposer un <strong>préavis</strong> au moins 5 jours avant. Certains métiers (transports, hôpitaux…) ont des règles de service minimum. Renseigne-toi auprès d'un syndicat.</p>
+
+<h2 id="protection">Ce qui te protège, et ce qu'on y perd</h2>
+<ul>
+<li><strong>Tu ne peux pas être sanctionné, licencié ou discriminé</strong> pour avoir fait grève, par exemple pour une augmentation de salaire.</li>
+<li><strong>Exception : la « faute lourde »</strong>, c'est-à-dire participer personnellement à des actes illégaux pendant la grève (violences, dégradations, empêcher les non-grévistes de travailler).</li>
+<li><strong>Tu perds le salaire</strong> des heures de grève. La retenue doit être exactement proportionnelle au temps d'arrêt, et la grève ne doit pas apparaître sur la fiche de paie. Dans la fonction publique d'État, toute journée commencée est retenue en entier.</li>
+<li>C'est pour ça qu'on monte une <strong>caisse de grève</strong> (voir plus bas).</li>
+</ul>
+
+<h2 id="preparer">Préparer la grève</h2>
+<ul>
+<li><strong>Parler d'abord</strong> : à la pause, au vestiaire, en dehors du travail. On liste ce qui ne va pas, on voit qui est prêt.</li>
+<li><strong>Le syndicat</strong> : s'il y en a un dans la boîte, il connaît le droit et peut aider. S'il n'y en a pas, l'union locale d'un syndicat de ta ville peut te recevoir. Tu n'as pas besoin d'être syndiqué pour faire grève.</li>
+<li><strong>Des revendications claires et écrites</strong>, que tout le monde comprend. Mieux vaut trois revendications précises qu'une liste de vingt.</li>
+<li><strong>Choisir le moment</strong> : un pic d'activité, une commande urgente, un jour où l'absence se voit. La grève coûte au patron quand elle tombe mal pour lui.</li>
+<li><strong>Prévenir la presse locale et les soutiens</strong> au dernier moment, pas avant : la surprise compte.</li>
+</ul>
+
+<h2 id="ag">L'assemblée des grévistes</h2>
+<p>La grève appartient à celles et ceux qui la font. Une <strong>assemblée générale des grévistes</strong>, chaque jour ou presque, décide de la suite : continuer ou reprendre, accepter ou non une proposition, quelles actions. Les personnes qui négocient avec la direction sont <strong>mandatées</strong> par l'AG et lui rendent des comptes. Méthode dans <a href="tenir-une-ag.html">Tenir une AG</a> et <a href="decider-sans-chef.html">Décider sans chef</a>.</p>
+
+<h2 id="caisse">La caisse de grève</h2>
+<ul>
+<li>Elle compense une partie des salaires perdus, en priorité pour les personnes qui en ont le plus besoin : petits salaires, parents isolés.</li>
+<li>On la remplit avec des collectes devant l'entreprise et en manif, des cagnottes, des concerts et repas de soutien, et l'aide des autres syndicats et collectifs.</li>
+<li>Comptes clairs, tenus à deux, et règles de partage votées en AG : tout est dans <a href="caisse-de-solidarite.html">Monter une caisse de solidarité</a>.</li>
+</ul>
+
+<h2 id="piquet">Le piquet de grève</h2>
+<p>Le piquet, c'est la présence des grévistes devant l'entrée : on se montre, on explique, on tient chaud au mouvement.</p>
+<ul>
+<li><strong>Le piquet est légal</strong> tant qu'il informe et convainc. Les non-grévistes ont le droit de travailler : les <strong>empêcher</strong> d'entrer peut être une faute lourde et un délit.</li>
+<li><strong>L'occupation des locaux</strong> peut être jugée abusive selon les cas, et la direction peut obtenir du tribunal une décision d'expulsion. C'est une décision à prendre en AG, en connaissant le risque.</li>
+<li>Un bon piquet : un brasero (là où c'est autorisé et sans danger), du café, une banderole, des tracts pour les passantes et les passants, un planning pour que personne ne tienne seul toute la nuit.</li>
+<li>Note tout ce qui se passe (heure, personnes, propos) : ça peut servir en cas de conflit avec la direction ou la police.</li>
+</ul>
+
+<h2 id="fin">Finir la grève</h2>
+<ul>
+<li>On reprend <strong>ensemble</strong>, après un vote, et avec un <strong>accord écrit</strong> : ce qui est obtenu, et qu'il n'y aura <strong>aucune sanction</strong> contre les grévistes.</li>
+<li>On garde la caisse et les contacts : la prochaine grève partira plus vite.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Les sources de cette fiche</h3><ul>
+<li><a href="https://www.service-public.gouv.fr/particuliers/vosdroits/F117" rel="noopener">Droit de grève d'un salarié du secteur privé</a><span>Service-public.fr : conditions, retenue sur salaire, protection, faute lourde.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Piquet_de_gr%C3%A8ve" rel="noopener">Piquet de grève</a><span>Wikipédia : histoire et règles du piquet.</span></li>
+</ul></section>
+<section><h3>Lire aussi</h3><ul>
+<li><a href="../bibliotheque/l-action-directe-pouget.html">L'Action directe</a><span>Émile Pouget, 1910 : la grève comme arme des travailleuses et travailleurs eux-mêmes.</span></li>
+<li><a href="../experiences/mai-68-histoire.html">Mai 68 : la grève générale</a><span>Dix millions de grévistes et des usines occupées.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Droit français, à jour en novembre 2026. Elle ne remplace pas l'avis d'une juriste ou d'un juriste ou d'un syndicat. Libre de reproduction.</p>

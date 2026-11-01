@@ -193,3 +193,39 @@
 </ul></section>
 </div>
 <p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace pas l'avis d'une avocate ou d'un avocat. Libre de reproduction.</p>
+
+=== affiches-et-tracts | Faire passer le message | Affiches et tracts à imprimer | Faits par la bande à Mamie · 2026 | Des affiches et des tracts prêts à imprimer, en PDF : Ni Dieu ni maître, antifascisme, blocus, grève, et deux tracts de poche sur tes droits face à la police.
+<p>Mamie a passé des nuits entières à tirer des affiches à l'encre qui bave. Toi, tu as une imprimante, ou une photocopieuse au boulot, au lycée ou à la médiathèque. La bande a fait ces affiches et ces tracts à la main, dans le style des vidéos de Mamie, pour que tu n'aies plus qu'à imprimer, remplir et coller. <strong>Libres de reproduction</strong> : imprime, photocopie, fais tourner.</p>
+
+<h2 id="affiches">Les affiches</h2>
+<p>Format A4, fond blanc pour économiser l'encre. Elles s'agrandissent en A3 sans perdre en qualité : choisis « ajuster à la page » à l'impression. Celles qui ont des pointillés se remplissent au feutre.</p>
+<div class="affiches">
+<figure class="affiche"><a href="affiches/ni-dieu-ni-maitre.pdf"><img src="affiches/ni-dieu-ni-maitre.png" alt="Affiche Ni Dieu ni maître : titre en lettres de rançon sur une grande étoile rouge, et la bande « ni patron, ni flic, ni mari »." width="794" height="1123" loading="lazy"></a><figcaption><b>Ni Dieu ni maître</b> Le classique, sur la grande étoile rouge. <a href="affiches/ni-dieu-ni-maitre.pdf" download>Télécharger le PDF</a></figcaption></figure>
+<figure class="affiche"><a href="affiches/pas-de-fachos.pdf"><img src="affiches/pas-de-fachos.png" alt="Affiche noire Pas de fachos dans nos quartiers, lettres de rançon et étoile rouge." width="794" height="1123" loading="lazy"></a><figcaption><b>Pas de fachos dans nos quartiers</b> Sur fond noir : à imprimer en photocopie si l'encre te manque. <a href="affiches/pas-de-fachos.pdf" download>Télécharger le PDF</a></figcaption></figure>
+<figure class="affiche"><a href="affiches/lycee-en-lutte.pdf"><img src="affiches/lycee-en-lutte.png" alt="Affiche Tous et toutes au blocus, avec des lignes à remplir : lycée, date, heure, lieu de l'AG." width="794" height="1123" loading="lazy"></a><figcaption><b>Tous et toutes au blocus</b> À remplir : le lycée, la date, l'heure et le lieu de l'AG. <a href="affiches/lycee-en-lutte.pdf" download>Télécharger le PDF</a></figcaption></figure>
+<figure class="affiche"><a href="affiches/greve.pdf"><img src="affiches/greve.png" alt="Affiche Grève en lettres de rançon sur une étoile rouge, avec des lignes à remplir : où, quand, pour quoi." width="794" height="1123" loading="lazy"></a><figcaption><b>Grève</b> À remplir : où, quand, et pour quelles revendications. <a href="affiches/greve.pdf" download>Télécharger le PDF</a></figcaption></figure>
+</div>
+
+<h2 id="tracts">Les tracts de poche</h2>
+<p>Deux tracts par feuille A4, à couper en deux. Assez petits pour une poche ou une coque de téléphone, et faits pour être distribués devant un lycée ou au départ d'une manif.</p>
+<div class="affiches">
+<figure class="affiche"><a href="affiches/tract-lyceen-police.pdf"><img src="affiches/tract-lyceen-police.png" alt="Tract Si la police t'arrête, pour les lycéennes et lycéens : droit au silence, avocat obligatoire, parents prévenus, ne donner aucun nom." width="794" height="1123" loading="lazy"></a><figcaption><b>Si la police t'arrête</b> Pour les moins de 18 ans : les droits essentiels en garde à vue. <a href="affiches/tract-lyceen-police.pdf" download>Télécharger le PDF</a></figcaption></figure>
+<figure class="affiche"><a href="affiches/tract-sortir-couvert.pdf"><img src="affiches/tract-sortir-couvert.png" alt="Tract Sortir couvert, avant la manif : legal team, personne proche, contrôle d'identité, droits en garde à vue." width="794" height="1123" loading="lazy"></a><figcaption><b>Sortir couvert</b> Ce qu'il faut savoir avant de partir en manif. <a href="affiches/tract-sortir-couvert.pdf" download>Télécharger le PDF</a></figcaption></figure>
+</div>
+<div class="note"><p><strong>Pour coller</strong>, relis la fiche <a href="coller-des-affiches.html">Coller des affiches</a> : où c'est autorisé, la colle à la farine, et comment ne pas se faire prendre. <strong>Pour distribuer</strong> devant un lycée, voir <a href="lutter-au-lycee.html">Lutter au lycée</a>.</p></div>
+
+<h2 id="toi">À toi de faire les tiennes</h2>
+<ul>
+<li><strong>Garde les codes de Mamie</strong> : lettres découpées dans des magazines, étoile rouge, bandes noires avec un mot en rose. Ciseaux, colle et photocopieuse suffisent.</li>
+<li><strong>Un message, pas dix</strong> : un titre qui se lit de loin, une date, un lieu. Conseils complets dans <a href="faire-un-tract.html">Faire un tract qu'on a envie de lire</a>.</li>
+<li><strong>Tu as fait une affiche dont tu es fière ou fier ?</strong> Envoie-la à la bande : elle pourrait rejoindre cette page. Voir <a href="../rejoindre.html">Rejoins la bande</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire aussi</h3><ul>
+<li><a href="serigraphie.html">La sérigraphie à la maison</a><span>Pour tirer tes affiches en couleur, à la main.</span></li>
+<li><a href="../manif/legal-team.html">Tes droits en manif</a><span>D'où viennent les conseils des tracts.</span></li>
+</ul></section>
+</div>
+<p class="credit">Affiches et tracts conçus par la bande à Mamie, sans intelligence artificielle. Libres de reproduction.</p>

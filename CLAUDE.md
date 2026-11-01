@@ -40,19 +40,20 @@ Le script affiche par exemple `OK : 9 guides, 107 fiches, 37 livres et 31 pages 
 | Un dossier Histoires de luttes, ancienne rubrique « Révolutions », adresses en `experiences/` (Commune, Makhno, Espagne 1936, Black Panthers, Mai 68, Stonewall et FHAR, MLAC, zapatistes, ZAD, Rojava, Gilets jaunes). L'ordre des fichiers suit la chronologie (`0z-makhno`, `1z1-panthers`, `2z-zad`… : PowerShell trie les noms en ignorant les tirets) | `_src/experiences/*.txt` | oui |
 | Une page Antifascisme | `_src/antifascisme/*.txt` | oui |
 | Une fiche du Guide de manif | `_src/manif/*.txt`. La **catégorie** de la fiche est sa sous-rubrique (« Legal Team »…) : pour une **nouvelle sous-rubrique** (premiers secours, préparation, après la manif…), créer un fichier `_src/manif/2-nom.txt` avec une nouvelle catégorie, le filtre apparaît tout seul. Toujours préciser le pays quand c'est du droit (la fiche Legal Team est du droit **français**). Les modèles de lettres pour contester un PV sont dans `_src/textes/modeles-pv/` ; les PDF (`manif/modeles/`) se refont avec `powershell -ExecutionPolicy Bypass -File _src/modeles-pv.ps1` (Windows + Edge, en local) | oui |
-| Une fiche Agir ensemble (AG, collectif, caisse, tract, affiches) | `_src/agir/*.txt` (la catégorie = la sous-rubrique : « Décider ensemble », « Monter un collectif », « Faire passer le message ») ; page d'index `_src/pages/agir.html` | oui |
+| Une fiche Agir ensemble (AG, collectif, caisse, grève, lycée, tract, affiches) | `_src/agir/*.txt` (la catégorie = la sous-rubrique : « Décider ensemble », « Monter un collectif », « Faire grève », « Faire passer le message », « Prendre soin du collectif », « Lutter au lycée ») ; page d'index `_src/pages/agir.html` | oui |
+| Les affiches et tracts à imprimer | `_src/affiches/*.html` (A4, style dans `affiche.css`, lettres de rançon par `rancon.js`), puis `powershell -ExecutionPolicy Bypass -File _src/affiches.ps1` (Windows + Edge, en local) qui fabrique `agir/affiches/<nom>.pdf` et l'aperçu `.png` ; les présenter dans la fiche `affiches-et-tracts` de `_src/agir/3-diffuser.txt`. Ces fichiers sont envoyés avec le reste | non |
 | Les « Nouveautés » de l'accueil | automatiques : `_src/build.ps1` note la date d'arrivée de chaque nouvelle page dans `_src/textes/apparitions.txt` et remplace `{{NOUVEAUTES}}` par les six plus récentes (une carte par dossier Révolutions). Les « Parcours » de l'accueil sont écrits à la main dans `_src/pages/index.html` | oui |
 | Une fiche de lecture | `_src/bibliotheque/*.txt` | oui |
 | Un guide Outils numériques | `_src/guides/*.txt` | oui |
 | Un livre complet (texte du domaine public) | source `.muse` dans `_src/textes/sources/` + une ligne dans `_src/textes/livres.txt` | oui, puis PDF (voir plus bas) |
-| Un livre fourni en PDF | le PDF dans `livres/pdf/` + une ligne dans `_src/textes/livres-pdf.txt` | oui |
+| Un livre fourni en PDF | le PDF dans `livres/pdf/` + une ligne dans `_src/textes/livres-pdf.txt` (seulement avec l'accord des ayants droit). Un livre sous droits qu'on ne copie pas (Éditions Divergences sur Calaméo) : même ligne, avec deux colonnes en plus, l'adresse où le lire et le texte du bouton | oui |
 | Un lieu sur la carte | `data/lieux.js` (une ligne par lieu) | non |
 | Une vidéo TikTok | `data/videos.js` (une ligne par publication) | non |
 | Les couleurs, polices, mise en page | `assets/style.css` | non |
 | Les lettres de rançon, le menu mobile | `assets/site.js` | non |
 | La barre de recherche (en haut) et la page `recherche.html` | `assets/recherche.js` ; l'index `data/recherche.js` est refait à chaque régénération (titres, résumés, intertitres, début des textes) et les lieux viennent de `data/lieux.js` | oui pour l'index |
 
-Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `recherche.html`, `404.html`, `partage.html` (renvoi vers le guide Signal), `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `experiences/`, `antifascisme/`, `manif/`, `agir/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
+Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `commencer.html` (Par où commencer ?), `rejoindre.html` (Rejoins la bande), `recherche.html`, `404.html`, `partage.html` (renvoi vers le guide Signal), `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `experiences/`, `antifascisme/`, `manif/`, `agir/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
 
 ## Adresses propres
 

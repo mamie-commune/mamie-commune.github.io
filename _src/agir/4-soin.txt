@@ -131,3 +131,58 @@
 </ul></section>
 </div>
 <p class="credit">Fiche rédigée par la bande à Mamie, à relire et compléter avec les camarades concernées. Libre de reproduction.</p>
+
+=== eviter-l-epuisement-militant | Prendre soin du collectif | Éviter l'épuisement militant | D'après l'expérience des collectifs et Jo Freeman · 2026 | Reconnaître les signes, faire tourner les rôles, dire non, fêter les victoires, accueillir les pauses, et garder la bande en vie sur des années.
+<p>Mamie a vu partir plus de camarades par fatigue que par la répression. On se jette dans une lutte, on dit oui à tout, on dort mal, et un jour on ne vient plus, avec un goût amer. L'épuisement militant n'est pas une faiblesse personnelle : c'est souvent le signe d'un collectif mal organisé. Ça se prévient.</p>
+
+<h2 id="signes">Reconnaître les signes</h2>
+<ul>
+<li>Tout devient urgent, et tu culpabilises dès que tu ne fais rien.</li>
+<li>Tu n'as plus de vie en dehors de la lutte : plus d'ami ou d'amie « pas militants », plus de loisirs, plus de sommeil.</li>
+<li>Les réunions te mettent en colère ou te vident, les désaccords deviennent des affaires personnelles.</li>
+<li>Tu as l'impression que, si tu t'arrêtes, tout s'effondre.</li>
+<li>Ton corps parle : fatigue qui ne passe pas, maux de ventre, insomnies, envie de tout lâcher.</li>
+</ul>
+<p>Si tu te reconnais, ce n'est pas le moment de tenir encore un peu. C'est le moment d'en parler, et de lever le pied.</p>
+
+<h2 id="roles">Faire tourner les rôles</h2>
+<ul>
+<li><strong>Personne n'est indispensable</strong>, et c'est une bonne nouvelle. Si une seule personne a les clés, le mot de passe ou les contacts presse, le collectif est fragile, et elle s'use.</li>
+<li><strong>Chaque tâche a deux personnes</strong> : une qui la fait, une qui apprend. On change tous les quelques mois.</li>
+<li><strong>Les tâches invisibles comptent</strong> : faire la vaisselle, rappeler les absentes et les absents, accueillir, écouter. On les nomme et on les partage, sinon elles retombent toujours sur les mêmes, souvent les femmes.</li>
+<li>Pour aller plus loin : <a href="decider-sans-chef.html">Décider sans chef</a> et <a href="monter-un-collectif.html">Monter un collectif qui tient</a>.</li>
+</ul>
+
+<h2 id="non">Savoir dire non</h2>
+<ul>
+<li><strong>Le collectif choisit ses priorités</strong> : on ne peut pas être sur toutes les luttes à la fois. Mieux vaut trois actions réussies que dix bâclées.</li>
+<li><strong>Dire non à une tâche</strong>, c'est laisser la place à quelqu'un d'autre. Personne ne doit avoir à se justifier.</li>
+<li><strong>Des limites claires</strong> : pas de messages de réunion après une certaine heure, des semaines sans action, un nombre raisonnable de réunions.</li>
+</ul>
+
+<h2 id="joie">Garder la joie</h2>
+<ul>
+<li><strong>Fêter les victoires</strong>, même petites : une affiche bien collée, une expulsion évitée, une augmentation obtenue.</li>
+<li><strong>Se voir sans ordre du jour</strong> : un repas, une balade, un concert. Une bande qui rit ensemble tient mieux les coups durs.</li>
+<li><strong>Raconter l'histoire</strong> : relire ce qu'on a fait il y a un an, voir le chemin parcouru. La lutte est longue ; la Commune a duré 72 jours, mais on en parle encore 150 ans après.</li>
+</ul>
+
+<h2 id="pauses">Accueillir les pauses et les départs</h2>
+<ul>
+<li><strong>On peut faire une pause</strong> sans être une traîtresse ou un traître. On prévient, on transmet ce qu'on faisait, et la porte reste ouverte.</li>
+<li><strong>Après un choc</strong> (une garde à vue, des violences policières, une agression), on s'occupe de la personne avant de reprendre l'action. Voir <a href="../manif/apres-la-manif.html">Après la manif</a>.</li>
+<li><strong>Si quelqu'un s'éloigne</strong>, on l'appelle, sans reproche, juste pour prendre des nouvelles.</li>
+<li><strong>Demander de l'aide</strong> n'est pas une honte : une amie ou un ami, une ou un médecin, une ou un psy. Si ça va vraiment mal, le <strong>3114</strong> (numéro national de prévention du suicide) répond jour et nuit, gratuitement.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><a href="https://infokiosques.net/spip.php?article2" rel="noopener">La tyrannie de l'absence de structure</a><span>Jo Freeman, 1970 : quand l'informel fabrique des chefs cachés et des personnes épuisées.</span></li>
+<li><a href="https://infokiosques.net/spip.php?article1889" rel="noopener">L'autogestion c'est pas de la tarte</a><span>Des lieux autogérés sur le partage des tâches et l'accueil.</span></li>
+</ul></section>
+<section><h3>Se faire aider</h3><ul>
+<li><a href="https://3114.fr" rel="noopener">3114, numéro national de prévention du suicide</a><span>Gratuit, jour et nuit, pour toi ou pour quelqu'un qui t'inquiète.</span></li>
+</ul></section>
+</div>
+<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>

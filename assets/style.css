@@ -1082,3 +1082,10 @@ html.facile {
 .player--grand .player__in { display: flex; flex-direction: column; height: 100%; padding: 10px; border: 0; box-shadow: none; background: #000; }
 .player--grand .player__head, .player--grand .player__foot { display: none; }
 .player--grand .player__screen { flex: 1; max-height: none; aspect-ratio: auto; width: 100%; border: 0; }
+/* plein écran : la vidéo prend toute la place, les commandes flottent en bas et s'effacent pendant la lecture (classe is-repos) */
+.player__in:fullscreen, .player--grand .player__in { position: relative; }
+.player__in:fullscreen .lec, .player--grand .lec { position: absolute; z-index: 3; left: 12px; right: 12px; bottom: 12px; margin: 0; transition: opacity .35s, transform .35s; }
+.player__in:fullscreen .player__screen, .player--grand .player__screen { height: 100%; }
+.is-repos .lec { opacity: 0; transform: translateY(14px); pointer-events: none; }
+.is-repos .player__in, .is-repos .lec__voile { cursor: none; }
+@media (prefers-reduced-motion: reduce) { .player__in:fullscreen .lec, .player--grand .lec { transition: none; } }

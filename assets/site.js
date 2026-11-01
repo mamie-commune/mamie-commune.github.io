@@ -264,6 +264,7 @@
 
   // État affiché par la barre, remis à zéro à chaque vidéo.
   let st = {};
+  let reveiller = () => {};   // réaffiche les commandes en plein écran (défini dans commandes())
   const $ = (s) => dialog.querySelector(s);
   function raz() {
     st = { dur: 0, cur: 0, lecture: false, vit: 0, glisse: false, repris: false, dernier: 0, vol: 1 };
@@ -304,6 +305,7 @@
         b.innerHTML = st.lecture ? ICONES.pause : ICONES.lire;
         b.setAttribute("aria-label", st.lecture ? "Pause" : "Lecture");
         if (e === "fin") ecrireReprise(cle, 0);
+        reveiller();
       },
       attente(x) { dialog.classList.toggle("is-attente", x); },
       son(x) {
@@ -330,11 +332,14 @@
       $(".lec__plein").innerHTML = on ? ICONES.sortir : ICONES.plein;
       $(".lec__plein").setAttribute("aria-label", on ? "Quitter le plein écran" : "Plein écran");
     };
-    const grand = (on) => { dialog.classList.toggle("player--grand", on); iconePlein(on); };
+    const grand = (on) => { dialog.classList.toggle("player--grand", on); iconePlein(on); reveiller(); };
+    // iPhone et iPad : pour les films du serveur, on passe la main au lecteur plein écran d'Apple.
+    const apple = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
     const plein = () => {
       const zone = $(".player__in");
       if (document.fullscreenElement) return document.exitFullscreen().catch(() => {});
       if (dialog.classList.contains("player--grand")) return grand(false);
+      if (apple && source && source.pleinIos && dialog.querySelector(".player__screen video")) return source.pleinIos();
       if (!zone.requestFullscreen) return grand(true);
       zone.requestFullscreen().catch(() => grand(true));
       // Certains navigateurs intégrés ne répondent jamais : sans plein écran au bout d'un instant, on agrandit quand même.
@@ -342,8 +347,26 @@
     };
     dialog.addEventListener("cancel", (e) => { if (dialog.classList.contains("player--grand")) { e.preventDefault(); grand(false); } });
     dialog.addEventListener("close", () => grand(false));
+    // En plein écran, pendant la lecture : commandes et curseur disparaissent après 2,5 s sans bouger,
+    // et reviennent au moindre mouvement, toucher ou appui sur une touche.
+    let minuteur;
+    const enPlein = () => document.fullscreenElement === $(".player__in") || dialog.classList.contains("player--grand");
+    reveiller = () => {
+      clearTimeout(minuteur);
+      dialog.classList.remove("is-repos");
+      if (enPlein() && st.lecture) minuteur = setTimeout(() => {
+        if (enPlein() && st.lecture && !st.glisse) dialog.classList.add("is-repos");
+      }, 2500);
+    };
+    ["pointermove", "pointerdown", "keydown", "touchstart"].forEach((n) => dialog.addEventListener(n, () => reveiller(), { passive: true }));
     $(".lec__play").addEventListener("click", basculer);
-    dialog.addEventListener("click", (e) => { if (e.target.closest(".lec__voile")) basculer(); });
+    dialog.addEventListener("click", (e) => {
+      if (!e.target.closest(".lec__voile")) return;
+      // Commandes cachées : le premier toucher les fait revenir, sans mettre en pause.
+      if (e.pointerType === "touch" && dialog.dataset.cache === "1") return;
+      basculer();
+    });
+    dialog.addEventListener("pointerdown", () => { dialog.dataset.cache = dialog.classList.contains("is-repos") ? "1" : "0"; }, { capture: true });
     dialog.querySelectorAll(".lec__saut").forEach((b) => b.addEventListener("click", () => sauter(Number(b.dataset.saut))));
     const barre = $(".lec__barre");
     barre.addEventListener("input", () => {
@@ -367,6 +390,7 @@
       const on = document.fullscreenElement === $(".player__in");
       if (on) dialog.classList.remove("player--grand");
       iconePlein(on);
+      reveiller();
     });
     dialog.addEventListener("keydown", (e) => {
       if (!source || $(".lec").hidden || e.altKey || e.ctrlKey || e.metaKey) return;

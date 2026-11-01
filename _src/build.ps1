@@ -319,7 +319,8 @@ foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibli
 $lignes = @("# Date d'arrivée de chaque page sur le site (adresse=date et heure). Ajoutée toute seule par _src/build.ps1 ; sert aux « Nouveautés » de l'accueil.") + @($app.Keys | ForEach-Object { "$_=$($app[$_])" })
 Write-Utf8 $fApp (($lignes -join "`n") + "`n")
 $nouveautes = "<ul class=""neuf"">" + (($neuf | Sort-Object @{ e = "d"; Descending = $true }, @{ e = "r"; Descending = $true } | Select-Object -First 6 | ForEach-Object {
-  "<li><a href=""{{R}}$($_.u)""><span class=""neuf__k"">$(Esc $_.k)</span><b>$(Esc $_.t)</b></a></li>" }) -join "") + "</ul>"
+  $jour = ([datetime]::ParseExact($_.d.Substring(0, 10), "yyyy-MM-dd", $null)).ToString("d MMMM", [Globalization.CultureInfo]::GetCultureInfo("fr-FR"))
+  "<li><a href=""{{R}}$($_.u)""><span class=""neuf__k"">$(Esc $_.k)</span><b>$(Esc $_.t)</b><span class=""neuf__s"">$(Esc $_.s)</span><span class=""neuf__d"">rangé le $jour</span></a></li>" }) -join "") + "</ul>"
 
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).

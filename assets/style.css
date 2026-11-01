@@ -1012,3 +1012,73 @@ html.facile {
 .facile .pilier a, .facile .une__lead, .facile .une__lead::before, .facile .une__lead::after, .facile .une__fil, .facile .frise a, .facile .frise__an,
 .facile .couv, .facile .liste-bloc, .facile .colonne, .facile .agir-grille > a, .facile .aussi__tit { transform: none !important; }
 .facile .sec--noir { background-image: none; }
+
+/* ---------- lecteur vidéo maison (assets/site.js) : films du serveur et YouTube, mêmes commandes ----------
+   Barre noire au bord déchiré, gros bouton rose sur l'étoile rouge, progression rouge, curseur rose carré. */
+.player--maison .player__screen { overflow: hidden; }
+.player--maison .player__screen video { object-fit: contain; }
+/* voile cliquable au-dessus de la vidéo : bascule lecture / pause, gros bouton quand c'est en pause */
+.lec__voile { position: absolute; inset: 0; z-index: 2; width: 100%; height: 100%; padding: 0; border: 0; background: transparent; cursor: pointer; display: grid; place-items: center; }
+.lec__gros { position: relative; display: grid; place-items: center; width: clamp(64px, 11vw, 96px); aspect-ratio: 1; border-radius: 50%; background: var(--pink); color: var(--on-color); border: 3px solid var(--ink); box-shadow: 5px 5px 0 var(--ink); transition: transform .15s, opacity .2s; }
+.lec__gros::before { content: ""; position: absolute; inset: -55%; z-index: -1; background: var(--red); clip-path: polygon(50% 0, 61.2% 34.5%, 97.6% 34.5%, 68.2% 55.9%, 79.4% 90.5%, 50% 69.1%, 20.6% 90.5%, 31.8% 55.9%, 2.4% 34.5%, 38.8% 34.5%); transform: rotate(-8deg); }
+.lec__gros svg { width: 46%; fill: currentColor; margin-left: 6%; }
+.lec__voile:hover .lec__gros { transform: scale(1.08) rotate(-3deg); }
+.is-lecture .lec__gros { opacity: 0; transform: scale(.7); }
+.lec__charge { position: absolute; left: 50%; bottom: 14px; transform: translateX(-50%) rotate(-1deg); font: 400 14px/1 var(--mono); background: var(--paper-2); color: var(--ink); padding: 6px 10px; box-shadow: 3px 3px 0 var(--ink); opacity: 0; transition: opacity .2s; pointer-events: none; }
+.is-attente .lec__charge { opacity: 1; }
+
+/* barre de commandes */
+.lec { position: relative; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 10px; margin-top: 10px; padding: 12px 12px 10px; background: var(--ink); color: var(--paper-2); }
+:root[data-theme="dark"] .lec { background: #000; color: var(--ink); }
+.lec::before { content: ""; position: absolute; left: 0; right: 0; bottom: 100%; height: 9px; background: inherit; pointer-events: none;
+  clip-path: polygon(0 100%, 2% 30%, 6% 80%, 11% 20%, 16% 70%, 21% 10%, 26% 75%, 31% 25%, 36% 85%, 41% 15%, 45% 70%, 50% 20%, 55% 80%, 60% 30%, 65% 90%, 70% 20%, 74% 75%, 79% 15%, 84% 70%, 89% 25%, 93% 80%, 97% 30%, 100% 100%); }
+.lec[hidden] { display: none; }
+.lec__btn { flex: none; display: inline-grid; place-items: center; min-width: 40px; height: 40px; padding: 0 9px; border: 2px solid var(--paper-2); background: var(--ink); color: var(--paper-2); font: 400 14px/1 var(--display); cursor: pointer; }
+:root[data-theme="dark"] .lec__btn { background: #000; border-color: var(--ink); color: var(--ink); }
+.lec__btn svg { width: 20px; height: 20px; fill: currentColor; }
+.lec__btn:hover, .lec__btn:focus-visible { background: var(--yellow); border-color: var(--yellow); color: var(--on-color); }
+.lec__play { min-width: 48px; height: 44px; background: var(--pink); border-color: var(--pink); color: var(--on-color); box-shadow: 3px 3px 0 var(--red); transform: rotate(-2deg); }
+:root[data-theme="dark"] .lec__play { background: var(--pink); border-color: var(--pink); color: var(--on-color); }
+.lec__play svg { width: 22px; height: 22px; }
+.lec__temps { flex: none; font: 400 15px/1 var(--mono); white-space: nowrap; font-variant-numeric: tabular-nums; min-width: 9.5ch; text-align: center; }
+.lec__vit { min-width: 52px; }
+
+/* barre de progression et volume : piste noire, déjà-chargé gris, déjà-vu rouge, curseur rose carré */
+.lec__barre, .lec__vol { -webkit-appearance: none; appearance: none; height: 14px; margin: 0; border: 2px solid var(--paper-2); border-radius: 0; cursor: pointer; background:
+  linear-gradient(90deg, var(--red) 0 var(--p, 0%), transparent var(--p, 0%)),
+  linear-gradient(90deg, rgba(246,240,227,.28) 0 var(--c, 0%), transparent var(--c, 0%)), #2b2523; }
+.lec__barre { flex: 1 1 220px; min-width: 120px; }
+.lec__vol { flex: none; width: 90px; --p: 100%; }
+.lec__barre::-webkit-slider-thumb, .lec__vol::-webkit-slider-thumb { -webkit-appearance: none; width: 18px; height: 22px; background: var(--pink); border: 2px solid var(--paper-2); box-shadow: 2px 2px 0 #000; transform: rotate(-6deg); }
+.lec__barre::-moz-range-thumb, .lec__vol::-moz-range-thumb { width: 16px; height: 20px; border-radius: 0; background: var(--pink); border: 2px solid var(--paper-2); box-shadow: 2px 2px 0 #000; }
+.lec__barre:focus-visible, .lec__vol:focus-visible { outline: 3px solid var(--yellow); outline-offset: 2px; }
+
+/* « Reprendre à 23:10 » : étiquette jaune dans le pied du lecteur */
+.player__foot { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; gap: 10px; }
+.player__foot a { margin-left: auto; }
+.lec__reprise { border: 0; background: var(--yellow); color: var(--on-color); font: 400 14px/1 var(--display); text-transform: uppercase; padding: 9px 12px; cursor: pointer; box-shadow: 3px 3px 0 var(--ink); transform: rotate(-1deg); }
+.lec__reprise:hover { background: var(--pink); }
+.player--maison .player__foot:empty { display: none; }
+
+/* plein écran : la fenêtre collage entière (vidéo + commandes) prend tout l'écran */
+.player__in:fullscreen { display: flex; flex-direction: column; width: 100%; height: 100%; padding: 12px; box-shadow: none; border: 0; background: #000; }
+.player__in:fullscreen .player__head { display: none; }
+.player__in:fullscreen .player__screen { flex: 1; max-height: none; aspect-ratio: auto; width: 100%; border: 0; }
+.player__in:fullscreen .player__foot { display: none; }
+
+/* téléphone : la barre de progression passe sur sa propre ligne, le volume se règle avec les boutons de l'appareil */
+@media (max-width: 680px) {
+  .lec { gap: 8px; padding: 10px 8px 8px; }
+  .lec__barre { order: -1; flex-basis: 100%; }
+  .lec__vol { display: none; }
+  .lec__temps { font-size: 13.5px; min-width: 0; margin-right: auto; }
+  .lec__btn { min-width: 38px; height: 38px; padding: 0 7px; }
+}
+.facile .lec__play, .facile .lec__reprise, .facile .lec__gros::before, .facile .lec__charge { transform: none !important; }
+@media (prefers-reduced-motion: reduce) { .lec__gros { transition: none; } }
+.lec__play:focus-visible { background: var(--pink); border-color: var(--pink); color: var(--on-color); outline: 3px solid var(--yellow); outline-offset: 2px; }
+/* plein écran de repli (navigateur qui refuse le vrai plein écran) : le lecteur occupe toute la fenêtre */
+.player--grand { width: 100vw; max-width: none; height: 100vh; height: 100dvh; max-height: none; margin: 0; inset: 0; }
+.player--grand .player__in { display: flex; flex-direction: column; height: 100%; padding: 10px; border: 0; box-shadow: none; background: #000; }
+.player--grand .player__head, .player--grand .player__foot { display: none; }
+.player--grand .player__screen { flex: 1; max-height: none; aspect-ratio: auto; width: 100%; border: 0; }

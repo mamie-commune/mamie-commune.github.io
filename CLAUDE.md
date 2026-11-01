@@ -133,7 +133,7 @@ Le documentaire *Les Damnés de la Commune* est dans `_src/pages/videos.html`. L
 - une série de vidéos dans une page (dossier, fiche) : un bloc `<div class="ytwall">` de cartes `<figure class="yt">` (modèle : section « En vidéo » de `_src/experiences/2-zapatistes.txt`). Marche sur toutes les pages (code dans `assets/site.js`).
 - `<id>` = les 11 caractères après `v=` ou `youtu.be/`. Pour une playlist, lire la liste des vidéos sur sa page YouTube et faire une carte par vidéo.
 - Les miniatures sont téléchargées toutes seules par `_src/build.ps1` dans `assets/yt/<id>.jpg` (en local comme lors de la publication) et affichées en noir et blanc, en couleur au survol.
-- Toutes les vidéos YouTube et les films s'ouvrent dans le lecteur en grand (`window.mamiePlayer` dans `assets/site.js`).
+- Toutes les vidéos YouTube et les films s'ouvrent dans le lecteur en grand (`window.mamiePlayer` dans `assets/site.js`). C'est un **lecteur maison** aux couleurs du site, le même pour les films du serveur (`<video>`) et pour YouTube (lecteur youtube-nocookie sans ses commandes, piloté par messages, sans script YouTube en plus) : lecture, ±10 s, barre de progression, son, vitesse, plein écran, raccourcis clavier (espace ou K, flèches, J, L, M, F), et « Reprendre à… » pour les vidéos de plus de 10 minutes (position gardée dans le navigateur). Les TikToks gardent le lecteur TikTok.
 
 ## Livres complets et PDF
 

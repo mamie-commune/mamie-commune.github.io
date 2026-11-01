@@ -1089,3 +1089,13 @@ html.facile {
 .is-repos .lec { opacity: 0; transform: translateY(14px); pointer-events: none; }
 .is-repos .player__in, .is-repos .lec__voile { cursor: none; }
 @media (prefers-reduced-motion: reduce) { .player__in:fullscreen .lec, .player--grand .lec { transition: none; } }
+/* Liseuse Calaméo dans les pages de livres : grande feuille collée, ouverte au clic */
+.prose .liseuse { margin: 0 0 2em; background: var(--paper-2); border: 3px solid var(--ink); box-shadow: 8px 8px 0 var(--shadow); }
+.liseuse__go { position: relative; display: grid; place-items: center; align-content: center; gap: 10px; width: 100%; min-height: 320px; padding: 30px 20px; border: 0; cursor: pointer; text-align: center; color: var(--ink);
+  background-color: var(--paper-2); background-image: radial-gradient(rgba(var(--ink-rgb),.16) 1px, transparent 1.3px); background-size: 7px 8px; }
+.liseuse__go .vcard__play { position: static; transform: none; width: 64px; height: 64px; font-size: 26px; background: var(--pink); color: var(--on-color); border: 3px solid var(--ink); box-shadow: 4px 4px 0 var(--red); }
+.liseuse__go b { font: 400 clamp(22px, 3vw, 30px)/1.1 var(--display); }
+.liseuse__go small { font: 400 14.5px/1.4 var(--mono); max-width: 44ch; }
+.liseuse__go:hover .vcard__play, .liseuse__go:focus-visible .vcard__play { transform: rotate(-4deg) scale(1.08); }
+.liseuse iframe { display: block; width: 100%; height: min(80vh, 760px); border: 0; background: #fff; }
+.facile .liseuse__go .vcard__play { transform: none !important; }

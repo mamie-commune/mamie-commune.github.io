@@ -421,3 +421,17 @@
     }
   });
 })();
+
+/* Liseuse des livres hébergés sur Calaméo (pages livres/…) : rien n'est chargé depuis Calaméo avant le clic.
+   <div class="liseuse"><button class="liseuse__go" data-calameo="code du livre">…</button></div> */
+document.addEventListener("click", (e) => {
+  const b = e.target.closest("[data-calameo]");
+  if (!b) return;
+  const f = document.createElement("iframe");
+  f.src = "https://v.calameo.com/?bkcode=" + encodeURIComponent(b.dataset.calameo) + "&mode=viewer&showsharemenu=false";
+  f.title = b.getAttribute("aria-label").replace(/^Ouvrir la liseuse du livre /, "Liseuse : ");
+  f.allow = "fullscreen"; f.allowFullscreen = true; f.loading = "eager";
+  b.parentElement.classList.add("is-ouverte");
+  b.replaceWith(f);
+  f.focus();
+});

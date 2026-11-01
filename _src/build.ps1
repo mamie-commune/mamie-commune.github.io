@@ -277,6 +277,8 @@ if (Test-Path $pdfList) {
     $c = $row -split "\|" | ForEach-Object { $_.Trim() }
     $l = [pscustomobject]@{ id = $c[0]; cat = $c[1]; fiche = $c[2]; title = $c[3]; author = $c[4]; date = $c[5]; d = $c[7] }
     $ailleurs = $c.Count -ge 11 -and $c[9]
+    # Livre sur Calaméo : sa liseuse s'ouvre dans la page, au clic seulement (assets/site.js, data-calameo).
+    $cal = if ($ailleurs -and $c[9] -match 'calameo\.com/books/(\w+)') { $Matches[1] } else { "" }
     $livres += $l
     if ($l.fiche) { $ficheToLivre[$l.fiche] = $l.id }
     $ficheBtn = ""; if ($l.fiche) { $ficheBtn = "<a class=""btn"" href=""../bibliotheque/$($l.fiche).html"">Fiche de lecture</a>" }
@@ -286,11 +288,12 @@ if (Test-Path $pdfList) {
   <h1>$(Esc $l.title)</h1>
   <p class="lead">$(Esc $l.d)</p>
   <div class="gmeta"><span>$(Esc $l.cat)</span><span>$(Esc $l.author) · $($l.date)</span><span>$(Esc $c[6]) pages</span></div>
-  <div class="cta">$(if ($ailleurs) { "<a class=""btn btn--main"" href=""$(Esc $c[9])"" rel=""noopener"">$(Esc $c[10]) ↗</a>" } else { "<a class=""btn btn--main"" href=""../lecteur.html?livre=$($l.id)"">Lire en PDF</a><a class=""btn"" href=""pdf/$($l.id).pdf"" download>Télécharger le PDF</a>" })$ficheBtn</div>
+  <div class="cta">$(if ($cal) { "<a class=""btn btn--main"" href=""#liseuse"">Lire le livre</a><a class=""btn"" href=""$(Esc $c[9])"" rel=""noopener"">Ouvrir sur Calaméo ↗</a>" } elseif ($ailleurs) { "<a class=""btn btn--main"" href=""$(Esc $c[9])"" rel=""noopener"">$(Esc $c[10]) ↗</a>" } else { "<a class=""btn btn--main"" href=""../lecteur.html?livre=$($l.id)"">Lire en PDF</a><a class=""btn"" href=""pdf/$($l.id).pdf"" download>Télécharger le PDF</a>" })$ficheBtn</div>
 </div></header>
 <div class="wrap glayout">
   <article class="prose">
-    $(if ($ailleurs) { "<p>Ce livre est sous droits : la bande à Mamie ne le copie pas ici, elle t'envoie vers celles et ceux qui le diffusent. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } else { "<p>Ce livre est diffusé ici dans sa mise en page d'origine. Ouvre-le dans le <a href=""../lecteur.html?livre=$($l.id)"">lecteur PDF</a> ou télécharge-le pour le lire hors ligne, l'imprimer ou le faire circuler.</p>" })
+    $(if ($cal) { "<div class=""liseuse"" id=""liseuse""><button class=""liseuse__go"" type=""button"" data-calameo=""$cal"" aria-label=""Ouvrir la liseuse du livre $(Esc $l.title)""><span class=""vcard__play"" aria-hidden=""true"">▶</span><b>Ouvrir le livre ici</b><small>La liseuse en ligne de l'éditeur (Calaméo) se charge seulement quand tu cliques.</small></button></div>" })
+    $(if ($cal) { "<p>Le livre est mis en ligne en entier par les Éditions Divergences. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } elseif ($ailleurs) { "<p>Ce livre est sous droits : la bande à Mamie ne le copie pas ici, elle t'envoie vers celles et ceux qui le diffusent. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } else { "<p>Ce livre est diffusé ici dans sa mise en page d'origine. Ouvre-le dans le <a href=""../lecteur.html?livre=$($l.id)"">lecteur PDF</a> ou télécharge-le pour le lire hors ligne, l'imprimer ou le faire circuler.</p>" })
     $(if ($l.fiche) { "<p>Pour aller à l'essentiel, la <a href=""../bibliotheque/$($l.fiche).html"">fiche de lecture</a> résume chaque chapitre.</p>" })
     <p class="credit">$(Esc $c[8])</p>
   </article>

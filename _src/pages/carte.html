@@ -1,45 +1,80 @@
-<!-- Carte anar · Mamie Commune | Carte des groupes anarchistes et libertaires, syndicats, librairies, lieux et entraide numérique en France et autour. | carte | <script src="assets/vendor/leaflet.js"></script><script src="assets/vendor/leaflet.markercluster.js"></script><script src="data/lieux.js"></script><script src="assets/carte.js"></script> -->
+<!-- Carte des collectifs · Mamie Commune | Carte des collectifs et structures publiques : groupes libertaires, syndicats, associations, collectifs antifascistes, librairies, lieux autogérés, coopératives, centres sociaux, associations féministes et antiracistes, médias, solidarité. Recherche par ville et département, données publiques téléchargeables. | carte | <script src="assets/vendor/leaflet.js"></script><script src="assets/vendor/leaflet.markercluster.js"></script><script src="data/lieux.js"></script><script src="assets/carte.js"></script> -->
 <link rel="stylesheet" href="assets/vendor/leaflet.css">
 <div class="mapapp">
   <aside class="side" aria-label="Recherche et filtres">
     <div class="side__head">
-      <p>Répertoire · mis à jour le 27/10/2026</p>
-      <h1>Carte anar</h1>
-      <span>Le carnet d'adresses de Mamie et de sa bande : groupes anarchistes, collectifs antifascistes, syndicats, librairies, lieux et entraide numérique.</span>
+      <p>Répertoire · mis à jour le <span id="mapMaj">—</span></p>
+      <h1>Carte des collectifs</h1>
+      <span>Le carnet d'adresses de Mamie et de sa bande : collectifs, syndicats, associations, librairies, lieux autogérés et structures de solidarité. Seulement des structures publiques, jamais de domicile ni de personne.</span>
     </div>
     <div class="side__block">
-      <p class="side__label"><label for="mapSearch">Trouver un lieu</label></p>
-      <input id="mapSearch" type="search" placeholder="Ville, département ou nom…" autocomplete="off">
-      <button class="btn btn--main" id="addBtn" type="button">Ajouter un lieu</button>
+      <p class="side__label"><label for="mapSearch">Chercher</label></p>
+      <input id="mapSearch" type="search" placeholder="Ville, nom ou mot-clé…" autocomplete="off">
+      <p class="side__label side__label--sous"><label for="depSelect">Département</label></p>
+      <select id="depSelect" class="side__select"><option value="">Tous les départements</option></select>
+      <label class="side__case"><input type="checkbox" id="freshOnly"> Masquer les fiches à revérifier</label>
+      <button class="btn btn--main" id="proposeBtn" type="button">Proposer une structure</button>
     </div>
     <div class="side__block">
-      <p class="side__label">Où se retrouver</p>
+      <p class="side__label">Catégories</p>
       <div class="tally" id="tally"></div>
     </div>
     <div>
       <p class="side__label side__block" style="margin:0;border-bottom:0;padding-bottom:6px" id="mapCount">0 lieu affiché</p>
       <ul class="placelist" id="placeList"></ul>
     </div>
-    <p class="side__foot">Localisation au niveau de la ville ou du département, jamais d'adresse privée. Les lieux que tu ajoutes restent dans ton navigateur jusqu'à leur publication. <button class="chip" id="exportBtn" type="button" style="margin-top:8px">Exporter mes lieux (0)</button></p>
+    <div class="side__block side__nat" id="nationalBox">
+      <p class="side__label">Réseaux nationaux : trouver près de chez toi</p>
+      <p class="side__aide">Ces structures ont des groupes partout : leur annuaire officiel donne le plus proche.</p>
+      <ul class="placelist placelist--nat" id="nationalList"></ul>
+    </div>
+    <div class="side__block">
+      <p class="side__label">Données publiques</p>
+      <p class="side__aide">Télécharge ce qui est affiché, ou toute la base. Données libres de réutilisation (ODbL).</p>
+      <div class="side__actions"><button class="chip" id="exportGeo" type="button">Sélection (GeoJSON)</button><button class="chip" id="exportCsv" type="button">Sélection (CSV)</button><a class="chip" href="data/lieux.geojson" download="mamie-commune-lieux.geojson">Toute la base (GeoJSON)</a></div>
+      <div id="legacyBox" hidden><p class="side__aide">Ce navigateur garde des lieux ajoutés avec l'ancienne version de la carte.</p><div class="side__actions"><button class="chip" id="legacyExport" type="button">Les télécharger</button><button class="chip" id="legacyClear" type="button">Les effacer de ce navigateur</button></div></div>
+    </div>
+    <p class="side__foot">Localisation au niveau de la ville, jamais d'adresse privée, jamais de coordonnée personnelle : seulement ce que les structures publient elles-mêmes. Une information fausse, ancienne ou dangereuse ? Ouvre la fiche et clique sur « Signaler ».</p>
   </aside>
 
   <div class="mapwrap">
-    <div id="map" role="region" aria-label="Carte des lieux"><p class="map__loading">Chargement de la carte…</p></div>
+    <div id="map" role="region" aria-label="Carte des structures"><p class="map__loading">Chargement de la carte…</p></div>
 
-    <form class="addform" id="addForm" hidden>
-      <h2>Nouveau lieu</h2>
-      <p class="addform__hint" id="addHint">Clique sur la carte pour placer le point, ou cherche une adresse.</p>
+    <form class="addform" id="propForm" hidden novalidate>
+      <h2>Proposer une structure</h2>
+      <p class="addform__hint">Ta proposition n'est <b>pas publiée</b> directement : la bande la vérifie (existence, site officiel, contacts publics) avant de l'ajouter. Rien n'est envoyé ni enregistré par ce formulaire : il prépare un texte que tu nous transmets.</p>
+      <label for="pNom">Nom de la structure *<input id="pNom" type="text" required></label>
+      <label for="pCat">Catégorie *<select id="pCat" required></select></label>
       <div class="addform__row">
-        <label for="fAddr">Adresse ou ville<input id="fAddr" type="text" placeholder="Rennes"></label>
-        <button class="btn" type="button" id="fGeo">Placer</button>
+        <label for="pVille">Ville *<input id="pVille" type="text" required placeholder="Rennes"></label>
+        <button class="btn" type="button" id="pGeo">Placer</button>
       </div>
-      <label for="fName">Nom<input id="fName" type="text" required placeholder="Groupe libertaire du quartier"></label>
-      <label for="fCat">Type<select id="fCat"></select></label>
-      <label for="fDesc">Description<textarea id="fDesc" rows="3" placeholder="Permanence tous les jeudis, 18h."></textarea></label>
-      <div class="addform__actions">
-        <button class="btn btn--main" type="submit">Enregistrer</button>
-        <button class="btn" type="button" id="fCancel">Annuler</button>
-      </div>
+      <p class="addform__hint" id="pHint">« Placer » cherche la ville dans la Base Adresse Nationale (service public). Tu peux aussi cliquer sur la carte. Le point est arrondi au kilomètre : jamais d'adresse précise.</p>
+      <label for="pDep">Département<select id="pDep"><option value="">—</option></select></label>
+      <label for="pSite">Site officiel<input id="pSite" type="url" placeholder="https://…"></label>
+      <label for="pContact">Contact public (publié par la structure)<input id="pContact" type="text" placeholder="Adresse de contact du collectif, formulaire…"></label>
+      <label for="pDesc">Ce qu'elle fait *<textarea id="pDesc" rows="3" required></textarea></label>
+      <label for="pSource">Où ces informations sont-elles publiées ? *<input id="pSource" type="text" required placeholder="Son site, sa page, un annuaire public…"></label>
+      <label class="addform__case"><input type="checkbox" id="pOk1" required> C'est une structure publique : pas un domicile, pas une personne.</label>
+      <label class="addform__case"><input type="checkbox" id="pOk2" required> Les coordonnées sont celles que la structure publie elle-même.</label>
+      <p class="addform__erreur" id="pErreur" role="alert" hidden></p>
+      <div class="addform__actions"><button class="btn btn--main" type="submit">Préparer la proposition</button><button class="btn" type="button" data-fermer>Fermer</button></div>
+      <div class="addform__resultat" id="pResultat" hidden></div>
+    </form>
+
+    <form class="addform" id="reportForm" hidden novalidate>
+      <h2>Signaler une information</h2>
+      <p class="addform__hint">Pour <b id="rNom"></b>. Rien n'est envoyé par ce formulaire : il prépare un message que tu nous transmets.</p>
+      <label for="rType">Qu'est-ce qui ne va pas ? *<select id="rType" required>
+        <option value="">—</option><option value="fermee">La structure n'existe plus ou est inactive</option><option value="deplacee">Elle a changé de ville</option>
+        <option value="contact">Le site ou le contact est faux</option><option value="doublon">C'est un doublon</option>
+        <option value="danger">Information personnelle ou dangereuse à retirer</option><option value="autre">Autre chose</option></select></label>
+      <p class="addform__urgent" id="rUrgent" hidden><b>Priorité.</b> Une information qui expose une personne est retirée dès réception, avant toute vérification.</p>
+      <label for="rCom">Précisions<textarea id="rCom" rows="3"></textarea></label>
+      <label for="rSource">Où l'as-tu vu ? (facultatif)<input id="rSource" type="text"></label>
+      <p class="addform__erreur" id="rErreur" role="alert" hidden></p>
+      <div class="addform__actions"><button class="btn btn--main" type="submit">Préparer le signalement</button><button class="btn" type="button" data-fermer>Fermer</button></div>
+      <div class="addform__resultat" id="rResultat" hidden></div>
     </form>
     <p class="toast" id="toast" role="status" hidden></p>
   </div>

@@ -1,0 +1,245 @@
+=== histoire-mouvement-anarchiste | L'histoire | Histoire du mouvement anarchiste | Parcours découverte · 6 modules | De Proudhon et de la Première Internationale à la révolution espagnole et aux mouvements d'aujourd'hui : 150 ans d'histoire libertaire, avec ses victoires, ses défaites et ses déchirements.
+<p>Mamie raconte l'histoire du mouvement comme une histoire de famille : des fêtes, des drames, des engueulades, et quelques moments où tout a semblé possible. Ce parcours suit le fil chronologique, en renvoyant à chaque fois aux dossiers détaillés du site.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Le mouvement anarchiste naît comme courant organisé dans la Première Internationale, quand les fédérations antiautoritaires rompent avec Marx en 1872. Il connaît ensuite l'époque des attentats et de la répression, le syndicalisme révolutionnaire, les révolutions russe et espagnole, l'écrasement par les fascismes et les staliniens, puis des renaissances après 1968.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Situer les grandes étapes du mouvement dans le temps.</li>
+<li>Comprendre la rupture avec Marx et ses raisons.</li>
+<li>Connaître les deux grandes révolutions où les anarchistes ont pesé : Ukraine et Espagne.</li>
+<li>Comprendre pourquoi le mouvement s'est divisé sur la violence, la guerre et le pouvoir.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Les débuts : Proudhon, Bakounine, l'Internationale</b><span>La Première Internationale est fondée à Londres le 28 septembre 1864 ; la rupture avec Marx a lieu en 1872.</span><a href="../bibliotheque/congres-de-saint-imier.html">Les résolutions du congrès de Saint-Imier →</a></li>
+<li><b>La Commune de Paris</b><span>72 jours d'autogouvernement, du 18 mars au 28 mai 1871.</span><a href="../experiences/commune-de-paris-histoire.html">La Commune de Paris →</a></li>
+<li><b>Bombes, lois scélérates et syndicats</b><span>La propagande par le fait, la répression, puis le tournant vers le syndicalisme.</span><a href="../experiences/action-directe-pratique.html">L'action directe →</a></li>
+<li><b>Révolution russe et Makhnovtchina</b><span>Une révolution paysanne libertaire, écrasée par les bolcheviks.</span><a href="../experiences/makhno-histoire.html">Makhno et la Makhnovtchina →</a></li>
+<li><b>La révolution espagnole</b><span>Le 19 juillet 1936, la CNT écrase le coup d'État militaire à Barcelone, puis les collectivités se multiplient.</span><a href="../experiences/espagne-1936-histoire.html">La révolution espagnole →</a></li>
+<li><b>Après 1945</b><span>Mai 68, les mouvements féministes et homosexuels, les zapatistes, les ZAD.</span><a href="chronologie.html">La chronologie de l'université populaire →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/trois-conferences-saint-imier.html">Trois conférences aux ouvriers du Val de Saint-Imier</a>, Bakounine, 1871.</li>
+<li><a href="../bibliotheque/bolchevisme-et-anarchisme.html">Bolchevisme et anarchisme</a>, Malatesta, 1923.</li>
+<li><a href="../bibliotheque/lois-scelerates.html">Les Lois scélérates de 1893-1894</a>, 1899.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../ressources/pere-peinard-1889-1890.html">Le Père Peinard (1889-1890)</a> et <a href="../ressources/temps-nouveaux-notice-bnf.html">Les Temps nouveaux (1895-1921)</a>.</li>
+<li><a href="../ressources/ficedl.html">La FICEDL</a> : le réseau international des centres d'archives libertaires.</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître, une histoire de l'anarchisme</a> : La Volupté de la destruction (1840-1906), Terre et liberté (1900-1927), La Mémoire des vaincus (1922-1945).</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#internationale">Internationale</a> <a href="../glossaire.html#propagande-par-le-fait">Propagande par le fait</a> <a href="../glossaire.html#syndicalisme-revolutionnaire">Syndicalisme révolutionnaire</a> <a href="../glossaire.html#soviet">Soviet</a> <a href="../glossaire.html#collectivisation">Collectivisation</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Sur quoi Bakounine et Marx s'opposent-ils dans l'Internationale ? <small>Piste : module 1</small></li>
+<li>Pourquoi beaucoup d'anarchistes français entrent-ils dans les syndicats après 1895 ? <small>Piste : module 3</small></li>
+<li>Pourquoi les bolcheviks combattent-ils les makhnovistes après s'être alliés avec eux ? <small>Piste : module 4</small></li>
+<li>Qu'est-ce qui divise les anarchistes espagnols quand la CNT entre au gouvernement ? <small>Piste : module 5</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Histoire du mouvement anarchiste en France</cite>, Jean Maitron, Gallimard.</li>
+<li><cite>Trop jeunes pour mourir. Ouvriers et révolutionnaires face à la guerre (1909-1914)</cite>, Guillaume Davranche, Libertalia, 2014.</li>
+<li><cite>La Révolution inconnue</cite>, Voline, 1947.</li>
+<li><cite>Le Bref Été de l'anarchie</cite>, Hans Magnus Enzensberger, Gallimard, 1975.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="chronologie.html">La chronologie</a><span>Les dates clés, vérifiées.</span></li>
+<li><a href="../figures/index.html">Les figures de l'anarchisme</a><span>Les gens derrière l'histoire.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul><li><a href="https://fr.wikipedia.org/wiki/Association_internationale_des_travailleurs" rel="noopener">L'Association internationale des travailleurs sur Wikipédia</a><span>Fondation en 1864, congrès de La Haye en 1872.</span></li></ul></section>
+</div>
+
+=== histoire-ouvriere | L'histoire | Histoire ouvrière | Parcours découverte · 5 modules | La Commune, la CGT de 1895, les grèves de 1936, Mai 68, Lip : l'histoire des travailleuses et travailleurs qui ont arraché leurs droits.
+<p>Les congés payés, la journée de huit heures, le droit de grève : rien de tout ça n'est tombé du ciel. Mamie le rappelle à chaque fois qu'on lui dit que « ça a toujours été comme ça ». Ce parcours raconte comment ces droits ont été conquis.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'histoire ouvrière est celle des luttes des salariés pour leurs conditions de travail et leur émancipation : syndicats, grèves, occupations, coopératives. Ce parcours suit surtout la France, avec des détours par les États-Unis.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Connaître les grandes grèves et ce qu'elles ont obtenu.</li>
+<li>Comprendre la naissance du syndicalisme en France.</li>
+<li>Savoir chercher l'histoire d'une militante ou d'un militant dans le Maitron.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>1871, la Commune</b><span>Des ouvrières et ouvriers au pouvoir, et leurs décrets sociaux.</span><a href="../experiences/commune-de-paris-decrets-femmes.html">Les décrets de la Commune →</a></li>
+<li><b>1886, Haymarket et le 1er mai</b><span>La grève pour les huit heures à Chicago, et la pendaison de quatre militants anarchistes le 11 novembre 1887.</span><a href="../figures/lucy-parsons.html">Portrait de Lucy Parsons →</a></li>
+<li><b>1895-1914, la CGT</b><span>Le congrès de fondation à Limoges en septembre 1895, la Charte d'Amiens en octobre 1906.</span><a href="../experiences/action-directe-pratique.html#cgt">La CGT et le syndicalisme révolutionnaire →</a></li>
+<li><b>1936, les usines occupées</b><span>Deux millions de grévistes, les congés payés arrachés.</span><a href="../experiences/action-directe-pratique.html#1936">Juin 1936 →</a></li>
+<li><b>1968 et Lip</b><span>La plus grande grève de l'histoire de France, puis une usine autogérée.</span><a href="../experiences/mai-68-histoire.html">Mai 68 →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../bibliotheque/le-1er-mai.html">Le 1er Mai</a>, Émile Pouget, 1891.</li>
+<li><a href="../livres/l-action-directe-pouget.html">L'Action directe</a>, Émile Pouget, 1904.</li>
+<li><a href="../bibliotheque/aux-vagabonds.html">Aux vagabonds</a>, Lucy Parsons, 1884.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../ressources/maitron.html">Le Maitron</a> : plus de 225 000 biographies du mouvement ouvrier et social.</li>
+<li><a href="../ressources/pere-peinard-1889-1890.html">Le Père Peinard</a> : la presse ouvrière anarchiste en 1889-1890.</li>
+<li><a href="../ressources/la-contemporaine.html">La Contemporaine</a> : bibliothèque et archives des mouvements sociaux.</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#damnes-de-la-commune">Les Damnés de la Commune</a>, documentaire produit pour Arte.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#greve-generale">Grève générale</a> <a href="../glossaire.html#sabotage">Sabotage</a> <a href="../glossaire.html#assemblee-generale">Assemblée générale</a> <a href="../glossaire.html#caisse">Caisse de solidarité</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>D'où vient le 1er mai, et pourquoi est-ce une date internationale ? <small>Piste : module 2</small></li>
+<li>Que dit la Charte d'Amiens sur les partis politiques ? <small>Piste : module 3</small></li>
+<li>Les congés payés étaient-ils dans le programme du Front populaire ? <small>Piste : module 4</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Histoire de la Commune de 1871</cite>, Prosper-Olivier Lissagaray, La Découverte.</li>
+<li><cite>Paris libre 1871</cite>, Jacques Rougerie, Seuil, 1971.</li>
+<li><cite>1968. De grands soirs en petits matins</cite>, Ludivine Bantigny, Seuil, 2018.</li>
+<li><cite>L'Affaire Lip, 1968-1981</cite>, Donald Reid, Presses universitaires de Rennes, 2020.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../agir/lancer-une-greve.html">Lancer une grève</a><span>Pour passer de l'histoire à la pratique.</span></li></ul></section>
+<section><h3>Sur le web</h3><ul><li><a href="https://fr.wikipedia.org/wiki/Conf%C3%A9d%C3%A9ration_g%C3%A9n%C3%A9rale_du_travail" rel="noopener">La CGT sur Wikipédia</a><span>Fondation en 1895 à Limoges, Charte d'Amiens en 1906.</span></li></ul></section>
+</div>
+
+=== antifascisme | L'histoire | Antifascisme | Parcours découverte · 4 modules | Connaître l'extrême droite d'hier et d'aujourd'hui, l'histoire des luttes antifascistes, et les débats sur les façons de la combattre.
+<p>Mamie a vu passer plusieurs générations de fascistes, et autant de générations d'antifascistes. Ce parcours relie l'histoire (l'Espagne de 1936) au présent (les groupes d'aujourd'hui, leurs codes), et ouvre les débats sur les moyens d'agir.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'antifascisme n'est pas une idéologie unique : c'est un ensemble de pratiques pour empêcher l'extrême droite de s'implanter, de la surveillance à la mobilisation de rue en passant par l'éducation. Les libertaires y ont toujours participé, avec leurs propres débats sur l'alliance avec d'autres forces.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Reconnaître les familles de l'extrême droite et leurs symboles.</li>
+<li>Connaître l'histoire de la résistance au coup d'État franquiste en 1936.</li>
+<li>Comprendre les débats : front commun ou autonomie, légalité ou action directe.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Le livre pour commencer</b><span>Dix questions sur l'antifascisme, par La Horde.</span><a href="../livres/dix-questions-antifascisme.html">Dix questions sur l'antifascisme →</a></li>
+<li><b>Connaître l'adversaire</b><span>Familles, implantation, symboles et codes.</span><a href="../antifascisme/extreme-droite-familles.html">L'extrême droite, ses familles →</a></li>
+<li><b>Espagne 1936 : prendre les armes contre le fascisme</b><span>Milices et révolution, et le dilemme de la guerre.</span><a href="../experiences/espagne-1936-milices-debats.html">Milices et dilemmes de la révolution →</a></li>
+<li><b>Agir aujourd'hui</b><span>Alerter, occuper le terrain, se protéger.</span><a href="../antifascisme/agir-antifasciste.html">Comment agir contre l'extrême droite →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../bibliotheque/dix-questions-antifascisme.html">Dix questions sur l'antifascisme</a>, fiche de lecture.</li>
+<li><a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a>, Emma Goldman, 1936.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/la-horde.html">La Horde</a> : schéma de l'extrême droite, carte des groupes, articles de mémoire.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#antifa-chasseurs-de-skins">ANTIFA, chasseurs de skins</a>, documentaire de Marc-Aurèle Vecchione.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#antifascisme">Antifascisme</a> <a href="../glossaire.html#fascisme">Fascisme</a> <a href="../glossaire.html#autodefense">Autodéfense</a> <a href="../glossaire.html#affinite">Groupe affinitaire</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Quelles sont les grandes familles de l'extrême droite française selon le schéma de La Horde ? <small>Piste : module 2</small></li>
+<li>Pourquoi les anarchistes espagnols ont-ils débattu de la militarisation des milices ? <small>Piste : module 3</small></li>
+<li>Quels moyens d'action antifasciste te semblent adaptés près de chez toi ? <small>Piste : module 4</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Dix questions sur l'antifascisme</cite>, La Horde, Libertalia, 2023.</li>
+<li><cite>Hommage à la Catalogne</cite>, George Orwell, 1938.</li>
+<li><cite>La Guerre d'Espagne. Révolution et contre-révolution (1934-1939)</cite>, Burnett Bolloten, Agone, 2014.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../antifascisme/index.html">Le tiroir Antifascisme</a><span>Toutes les fiches.</span></li><li><a href="../carte.html?type=antifa">Les collectifs antifascistes sur la carte</a><span>D'après la carte de La Horde.</span></li></ul></section>
+</div>
+
+=== internationalisme | L'histoire | Internationalisme | Parcours intermédiaire · 4 modules | De la Première Internationale aux luttes anticoloniales : pourquoi les anarchistes refusent les frontières, les patries et les guerres entre États, et ce que ce refus a coûté.
+<p>« Les prolétaires n'ont pas de patrie » : la formule est connue, la pratique beaucoup moins. Mamie a vu des camarades se déchirer à chaque guerre. Ce parcours raconte l'internationalisme libertaire, ses fidélités et ses trahisons.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'internationalisme est le refus des frontières, du patriotisme et des guerres entre États, au nom de la solidarité entre les peuples. Chez les anarchistes, il se traduit par des internationales (l'AIT de 1864, puis l'internationale anarcho-syndicaliste de 1922), par l'antimilitarisme, et par le soutien aux luttes anticoloniales sans nationalisme.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Connaître les internationales ouvrières et anarchistes.</li>
+<li>Comprendre le déchirement de 1914 et du Manifeste des Seize.</li>
+<li>Comprendre la position anarchiste sur l'anticolonialisme et le nationalisme.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Les internationales</b><span>L'AIT de 1864, Saint-Imier en 1872, puis l'internationale anarcho-syndicaliste de Berlin en décembre 1922.</span><a href="../figures/rudolf-rocker.html">Portrait de Rudolf Rocker →</a></li>
+<li><b>1914 : la guerre et le Manifeste des Seize</b><span>Kropotkine soutient les Alliés, Malatesta lui répond.</span><a href="../figures/kropotkine.html#ombres">La zone d'ombre de Kropotkine →</a></li>
+<li><b>L'anti-impérialisme anarchiste</b><span>De Bakounine à Saïl Mohamed et à la Corée : soutenir les colonisés sans nationalisme.</span><a href="../ressources/van-der-walt-anti-imperialisme-anarchiste.html">L'article de Lucien van der Walt →</a></li>
+<li><b>Les solidarités d'aujourd'hui</b><span>Zapatistes, Rojava, accueil des personnes exilées.</span><a href="../experiences/zapatistes-histoire.html">Les zapatistes →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../bibliotheque/congres-de-saint-imier.html">Résolutions du Congrès de Saint-Imier</a>, 1872.</li>
+<li><a href="../bibliotheque/la-guerre-kropotkine.html">La Guerre</a>, Pierre Kropotkine, 1912.</li>
+<li><a href="../bibliotheque/etats-guerre-permanente.html">Les États, c'est la guerre permanente !</a>, Mikhaïl Bakounine.</li>
+<li><a href="../bibliotheque/betail-patriotique.html">Le Bétail patriotique</a>, Albert Libertad, 1905.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../ressources/federation-internationale-anarchiste.html">L'Internationale des fédérations anarchistes</a> : son site d'aujourd'hui.</li>
+<li><a href="../ressources/la-contemporaine.html">La Contemporaine</a> : guerres, exils, décolonisation.</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../experiences/rojava-histoire.html#videos">Les vidéos du dossier Rojava</a>.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#internationalisme">Internationalisme</a> <a href="../glossaire.html#internationale">Internationale</a> <a href="../glossaire.html#anarcho-syndicalisme">Anarcho-syndicalisme</a> <a href="../glossaire.html#confederalisme-democratique">Confédéralisme démocratique</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Pourquoi le Manifeste des Seize a-t-il divisé les anarchistes en 1916 ? <small>Piste : module 2</small></li>
+<li>Comment les anarchistes peuvent-ils soutenir une lutte anticoloniale tout en refusant le nationalisme ? <small>Piste : module 3</small></li>
+<li>Qu'a dénoncé Saïl Mohamed en 1930 ? <small>Piste : module 3 et son portrait</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Nationalism and Culture</cite>, Rudolf Rocker, 1937.</li>
+<li><cite>Appels aux travailleurs algériens</cite>, Saïl Mohamed, textes réunis par Sylvain Boulouque, Volonté anarchiste, 1994.</li>
+<li><cite>Le Mythe bolchevik</cite>, Alexander Berkman, 1925.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../figures/sail-mohamed.html">Portrait de Saïl Mohamed</a><span>Anarchiste et anticolonialiste.</span></li><li><a href="chronologie.html?theme=anticolonial">Les luttes anticoloniales dans la chronologie</a><span>Dates vérifiées.</span></li></ul></section>
+</div>

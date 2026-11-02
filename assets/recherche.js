@@ -34,7 +34,7 @@
     docs = (window.RECHERCHE || []).map((r) => ({ ...r, nt: norm(r.t), nd: norm(r.d), nx: norm(r.x) }));
     for (const p of window.LIEUX || []) {
       const cat = (window.CATEGORIES_LIEUX && window.CATEGORIES_LIEUX[p.c] || {}).label || "";
-      docs.push({ u: "carte?q=" + encodeURIComponent(p.n), f: "organiser", r: "Carte des collectifs", k: "Carte", t: p.n, d: `${p.v} · ${cat}`, nt: norm(p.n), nd: norm(`${p.v} ${cat}`), nx: norm(p.d) });
+      docs.push({ u: "carte?q=" + encodeURIComponent(p.n), f: "allies", r: "Carte des collectifs", k: "Carte", t: p.n, d: `${p.v || "Réseau national"} · ${cat}`, nt: norm(p.n), nd: norm(`${p.v} ${cat}`), nx: norm(p.d) });
     }
   }
 

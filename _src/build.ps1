@@ -32,37 +32,61 @@ $maintenant = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm")
 function Date-Page($u) { if (-not $app.Contains($u)) { $app[$u] = $maintenant }; return Date-Fr ([datetime]::ParseExact($app[$u].Substring(0, 10), "yyyy-MM-dd", $null)) $false }
 
 $layout = Read-Utf8 (Join-Path $src "layout.html")
-# ---------- les trois grandes familles ----------
-# Tout le site se range dans ces familles : menu, pied de page, accueil ({{FAMILLES}}) et barre de recherche.
-# Rubrique : clé de menu (3e champ de l'en-tête des pages), adresse, nom, description courte, début des adresses de ses pages.
-# Une page appartient à la rubrique dont le début d'adresse est le plus long (agir/lutter-au-lycee passe avant agir/).
+# ---------- les six tiroirs de la boîte à outils ----------
+# Tout le site se range dans ces familles : menu, pied de page, fil d'Ariane, accueil, recherche, et page de famille (page).
+# Rubrique : clé de menu, adresse, nom, description courte, début des adresses de ses pages (vide = rubrique sans page à elle,
+# présentée sur la page de la famille). Une page appartient à la rubrique dont le début d'adresse est le plus long
+# (agir/caisse-de-solidarite passe avant agir/). Les pages Contribuer et Rejoins la bande restent hors des tiroirs (bandeau et pied de page).
 $familles = @(
-  [ordered]@{ id = "apprendre"; nom = "Apprendre"; dit = "Comprendre d'où l'on vient"; rubriques = @(
-    @("commencer", "commencer.html", "Par où commencer ?", "Le livre, les cinq textes et les parcours pour débuter", "commencer"),
-    @("luttes", "experiences/index.html", "Histoires de luttes", "Commune, Mai 68, Stonewall, MLAC, ZAD, Gilets jaunes…", "experiences/"),
-    @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres en entier et fiches de lecture", "bibliotheque/|livres/|lecteur"),
-    @("figures", "figures/index.html", "Figures de l'anarchisme", "Portraits de penseuses, penseurs, militantes et militants", "figures/"),
+  [ordered]@{ id = "apprendre"; nom = "Apprendre"; page = "apprendre.html"; dit = "Comprendre d'où l'on vient"; rubriques = @(
+    @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres en entier, fiches de lecture et centre de ressources", "bibliotheque/|livres/|lecteur|ressources/"),
+    @("theorie", "apprendre.html#theorie", "Théorie politique", "Par où commencer, l'État, la propriété, la révolution", "commencer"),
+    @("luttes", "experiences/index.html", "Histoire des luttes", "Commune, Espagne 36, Mai 68, MLAC, ZAD, action directe…", "experiences/"),
+    @("universite", "universite/index.html", "Université populaire", "Parcours, chronologie, figures et glossaire", "universite/"),
+    @("figures", "figures/index.html", "Figures historiques", "Portraits de penseuses, penseurs, militantes et militants", "figures/"),
+    @("glossaire", "glossaire.html", "Glossaire", "Les mots de l'anarchisme, expliqués simplement", "glossaire"),
+    @("videos", "apprendre.html#culture", "Culture militante", "Documentaires, vidéos de Mamie, images de lutte", "videos")) },
+  [ordered]@{ id = "organiser"; nom = "S'organiser"; page = "s-organiser.html"; dit = "Trouver les autres, agir ensemble"; rubriques = @(
+    @("ag", "agir/tenir-une-ag.html", "Assemblées générales", "Tenir une AG, décider sans chef", "agir/tenir-une-ag|agir/decider-sans-chef"),
+    @("collectifs", "agir/monter-un-collectif.html", "Collectifs", "Monter un collectif, accueillir, durer sans s'épuiser", "agir/monter-un-collectif|agir/accueillir-personnes-trans|agir/eviter-l-epuisement-militant"),
+    @("syndicalisme", "s-organiser.html#syndicalisme", "Syndicalisme", "Syndicalisme révolutionnaire, action directe, syndicats", ""),
+    @("autogestion", "s-organiser.html#autogestion", "Autogestion", "Usines, villages et territoires gérés par celles et ceux qui y vivent", ""),
+    @("greves", "agir/lancer-une-greve.html", "Grèves", "Lancer une grève, tenir un piquet, mobilisations en cours", "agir/lancer-une-greve|mouvement-17-octobre"),
+    @("agir", "agir/index.html", "Organisation collective", "Toutes les fiches, et le guide pour lutter au lycée", "agir/"),
+    @("boite-outils", "outils/index.html", "Les outils de Mamie", "Modèles d'AG, comptes rendus, tracts, affiches, caisse, minuteur", "outils/")) },
+  [ordered]@{ id = "entraide"; nom = "S'entraider"; page = "s-entraider.html"; dit = "Ne laisser personne sur le carreau"; rubriques = @(
+    @("mutualisme", "s-entraider.html#mutualisme", "Mutualisme", "L'entraide organisée, de Proudhon à Kropotkine", ""),
+    @("caisses", "agir/caisse-de-solidarite.html", "Caisses de solidarité", "Soutenir grévistes et inculpés, en toute transparence", "agir/caisse-de-solidarite"),
+    @("cantines", "s-entraider.html#cantines", "Cantines populaires", "Nourrir la lutte : petits-déjeuners, cabanes, piquets", ""),
+    @("cooperatives", "s-entraider.html#cooperatives", "Coopératives", "Produire et partager sans patron", ""),
+    @("bibliopop", "s-entraider.html#bibliotheques-populaires", "Bibliothèques populaires", "Lire, prêter, se retrouver", "")) },
+  [ordered]@{ id = "defendre"; nom = "Se défendre"; page = "se-defendre.html"; dit = "Tes droits, ta sécurité"; rubriques = @(
+    @("droits", "manif/legal-team.html", "Droits", "En manif, en garde à vue, au lycée", "manif/|agir/lyceens-face-aux-sanctions"),
+    @("juridique", "se-defendre.html#juridique", "Ressources juridiques", "Modèles de recours, legal teams, lois à connaître", "manif/modeles"),
     @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, ses codes, et agir contre elle", "antifascisme/"),
-    @("videos", "videos.html", "Documentaires et vidéos", "Ni Dieu ni maître, la Commune, et les vidéos de Mamie", "videos")) },
-  [ordered]@{ id = "organiser"; nom = "S'organiser"; dit = "Trouver les autres, agir ensemble"; rubriques = @(
-    @("agir", "agir/index.html", "Agir ensemble", "AG, collectif, caisse de solidarité, grève", "agir/"),
-    @("lycee", "agir/lutter-au-lycee.html", "Lutter au lycée", "AG, blocus, tes droits face aux sanctions", "agir/lutter-au-lycee|agir/organiser-un-blocus|agir/lyceens-face-aux-sanctions"),
-    @("affiches", "agir/affiches-et-tracts.html", "Tracts et affiches", "À imprimer, et les conseils pour faire les tiens", "agir/affiches-et-tracts|agir/faire-un-tract|agir/serigraphie|agir/coller-des-affiches"),
+    @("feminisme", "se-defendre.html#feminisme", "Féminisme", "Autodéfense féministe, violences sexistes et sexuelles", "manif/autodefense-feministe|agir/violences-dans-nos-collectifs"),
+    @("outils", "guides/index.html", "Protection numérique", "Signal, vie privée, Linux et logiciels libres", "guides/"),
+    @("secours", "manif/street-medic.html", "Premiers secours", "Street medic : se préparer, soigner, et après", "manif/street-medic|manif/se-preparer-soin|manif/soigner-en-manif|manif/apres-la-manif")) },
+  [ordered]@{ id = "creer"; nom = "Créer"; page = "creer.html"; dit = "Faire parler les murs"; rubriques = @(
+    @("affiches", "agir/affiches-et-tracts.html", "Affiches", "À imprimer, à coller, à sérigraphier", "agir/affiches|agir/coller-des-affiches|agir/serigraphie"),
+    @("tracts", "agir/faire-un-tract.html", "Tracts", "Faire un tract qu'on a envie de lire", "agir/faire-un-tract"),
+    @("fanzines", "creer.html#fanzines", "Fanzines", "Plier, photocopier, diffuser", ""),
+    @("journaux", "creer.html#journaux", "Journaux", "De la presse anarchiste d'hier aux journaux d'aujourd'hui", ""),
+    @("medias", "creer.html#medias", "Médias indépendants", "Radios, éditions, et faire le sien", "")) },
+  [ordered]@{ id = "allies"; nom = "Trouver des alliés"; page = "trouver-des-allies.html"; dit = "La bande est plus grande que tu crois"; rubriques = @(
     @("carte", "carte.html", "Carte des collectifs", "Groupes, syndicats, librairies et lieux près de chez toi", "carte"),
-    @("octobre", "mouvement-17-octobre.html", "Mobilisations en cours", "Le mouvement du 17 Octobre, jour par jour", "mouvement-17-octobre")) },
-  [ordered]@{ id = "defendre"; nom = "Se défendre"; dit = "Tes droits, ta sécurité"; rubriques = @(
-    @("manif", "manif/index.html", "Guide de manif", "Tes droits face à la police, street medic", "manif/"),
-    @("autodefense", "manif/autodefense-feministe.html", "Autodéfense féministe", "Se défendre, dans la rue et ailleurs", "manif/autodefense-feministe"),
-    @("vss", "agir/violences-dans-nos-collectifs.html", "Violences sexistes et sexuelles", "Réagir quand ça arrive dans nos collectifs", "agir/violences-dans-nos-collectifs"),
-    @("outils", "guides/index.html", "Protection numérique", "Signal, vie privée, Linux et logiciels libres", "guides/")) },
-  [ordered]@{ id = "contribuer"; nom = "Contribuer"; dit = "La boîte s'enrichit à plusieurs mains"; rubriques = @(
-    @("contribuer", "contribuer.html", "Proposer, corriger, ajouter", "Une ressource, un lieu, une erreur, un article", "contribuer"),
-    @("rejoindre", "rejoindre.html", "Rejoins la bande", "Dessin, écriture, archives, voix off, montage", "rejoindre"))
-  }
+    @("syndicats", "carte.html?type=syndicat", "Syndicats", "Les syndicats de lutte sur la carte", ""),
+    @("associations", "trouver-des-allies.html#associations", "Associations", "Entraide numérique et associations amies", ""),
+    @("librairies", "carte.html?type=librairie", "Librairies", "Librairies et bibliothèques militantes", ""),
+    @("lieux", "carte.html?type=lieu", "Lieux autogérés", "Locaux, centres et lieux libertaires", ""),
+    @("medias-carte", "carte.html?type=media", "Médias indépendants", "Radios, journaux et maisons d'édition", "")) }
 )
 function Famille-De-Adresse($u) {
   $best = @("", "", ""); $len = 0
-  foreach ($f in $familles) { foreach ($r in $f.rubriques) { foreach ($p in ($r[4] -split '\|')) { if ($u.StartsWith($p) -and $p.Length -gt $len) { $best = @($f.id, $r[2], $r[0]); $len = $p.Length } } } }
+  foreach ($f in $familles) {
+    if ($u -eq $f.page) { return @($f.id, $f.nom, $f.id) }
+    foreach ($r in $f.rubriques) { foreach ($p in ($r[4] -split '\|')) { if ($p -and $u.StartsWith($p) -and $p.Length -gt $len) { $best = @($f.id, $r[2], $r[0]); $len = $p.Length } } }
+  }
   return $best
 }
 # Les trois familles en grandes colonnes, pour l'accueil.
@@ -79,20 +103,31 @@ function Familles-Accueil($root) {
 function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
   # Menu : Accueil + une entrée par famille, qui déplie ses rubriques.
   $navHtml = "<a class=""nav__home"" href=""${root}index.html""$(if ($nav -eq 'accueil') { ' aria-current="page"' })>Accueil</a>"
-  $pied = ""
+  $pied = ""; $opts = "<option value="""">Partout</option>"; $famIci = $null
   foreach ($f in $familles) {
-    $ici = @($f.rubriques | Where-Object { $_[0] -eq $nav }).Count -gt 0
+    $ici = ($nav -eq $f.id) -or (@($f.rubriques | Where-Object { $_[0] -eq $nav }).Count -gt 0)
+    if ($ici) { $famIci = $f }
+    $opts += "<option value=""$($f.id)"">$(Esc $f.nom)</option>"
     $navHtml += "<div class=""nav__fam fam--$($f.id)""><button class=""nav__btn"" type=""button"" aria-expanded=""false"" aria-controls=""menu-$($f.id)""$(if ($ici) { ' data-ici' })>$(Esc $f.nom)</button>"
     $navHtml += "<div class=""nav__panel"" id=""menu-$($f.id)""><p class=""nav__dit"">$(Esc $f.dit)</p>"
-    $pied += "<nav class=""fam--$($f.id)"" aria-label=""$(Esc $f.nom)""><h2>$(Esc $f.nom)</h2>"
+    $pied += "<nav class=""fam--$($f.id)"" aria-label=""$(Esc $f.nom)""><h2><a href=""$root$($f.page)"">$(Esc $f.nom)</a></h2>"
     foreach ($r in $f.rubriques) {
       $cur = if ($r[0] -eq $nav) { ' aria-current="page"' } else { "" }
       $navHtml += "<a href=""$root$($r[1])""$cur><b>$(Esc $r[2])</b><span>$(Esc $r[3])</span></a>"
       $pied += "<a href=""$root$($r[1])"">$(Esc $r[2])</a>"
     }
-    $navHtml += "</div></div>"; $pied += "</nav>"
+    $tout = if ($nav -eq $f.id) { ' aria-current="page"' } else { "" }
+    $navHtml += "<a class=""nav__tout"" href=""$root$($f.page)""$tout><b>Tout le tiroir « $(Esc $f.nom) » →</b></a></div></div>"; $pied += "</nav>"
   }
-  $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts).Replace("{{EDITION}}", $edition)
+  $pied += "<nav class=""fam--bande"" aria-label=""La bande à Mamie""><h2>La bande à Mamie</h2><a href=""${root}commencer.html"">Par où commencer ?</a><a href=""${root}contribuer.html"">Proposer, corriger, ajouter</a><a href=""${root}rejoindre.html"">Rejoins la bande</a><a href=""${root}recherche.html"">Chercher dans le site</a></nav>"
+  if ($famIci -and $nav -ne $famIci.id) {
+    # Fil d'Ariane : le tiroir s'insère juste après « Accueil ».
+    $body = ([regex]'<p class="crumbs"><a href="[^"]*index\.html">Accueil</a><span>/</span>').Replace($body, { param($m) $m.Value + "<a href=""$root$($famIci.page)"">$(Esc $famIci.nom)</a><span>/</span>" }, 1)
+    # Ressources complémentaires : les autres rubriques du même tiroir, en bas de page.
+    $liens = ($famIci.rubriques | Where-Object { $_[0] -ne $nav } | ForEach-Object { "<li><a href=""$root$($_[1])""><b>$(Esc $_[2])</b><span>$(Esc $_[3])</span></a></li>" }) -join ""
+    $body += "<section class=""boite fam--$($famIci.id)"" aria-labelledby=""boite-tit""><div class=""wrap""><h2 id=""boite-tit"" class=""boite__tit""><span>Dans le même tiroir</span> $(Esc $famIci.nom)</h2><ul class=""boite__list"">$liens</ul><a class=""boite__tout"" href=""$root$($famIci.page)"">Tout le tiroir « $(Esc $famIci.nom) » →</a></div></section>"
+  }
+  $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{FAMOPTS}}", $opts).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts).Replace("{{EDITION}}", $edition)
   $out = $out.Replace("{{FAMILLES}}", (Familles-Accueil $root))
   if ($out.Contains("{{NOUVEAUTES}}")) { $out = $out.Replace("{{NOUVEAUTES}}", $nouveautes) }
   foreach ($k in $compteurs.Keys) { $out = $out.Replace("{{$k}}", "$($compteurs[$k])") }
@@ -103,7 +138,7 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
 
 # Empreinte des sources : change dès qu'un texte, un style, un script ou une donnée change.
 $sha = [Security.Cryptography.SHA1]::Create()
-$verFiles = @(Get-ChildItem $src -Recurse -File -Include *.txt, *.html, *.muse | Where-Object { $_.FullName -notmatch '\\textes\\print\\' }) + @(Get-ChildItem (Join-Path $site "assets") -File -Include *.js, *.css -Recurse) + @(Get-Item (Join-Path $site "data\lieux.js"), (Join-Path $site "data\videos.js"), (Join-Path $site "data\mobilisations.js"))
+$verFiles = @(Get-ChildItem $src -Recurse -File -Include *.txt, *.html, *.muse | Where-Object { $_.FullName -notmatch '\\textes\\print\\' }) + @(Get-ChildItem (Join-Path $site "assets") -File -Include *.js, *.css -Recurse) + @(Get-Item (Join-Path $site "data\lieux.geojson"), (Join-Path $site "data\videos.js"), (Join-Path $site "data\mobilisations.js"))
 $verBytes = New-Object System.IO.MemoryStream
 foreach ($vf in ($verFiles | Sort-Object FullName)) { $bytes = [IO.File]::ReadAllBytes($vf.FullName); $verBytes.Write($bytes, 0, $bytes.Length) }
 $ver = ([BitConverter]::ToString($sha.ComputeHash($verBytes.ToArray())) -replace '-', '').Substring(0, 8).ToLower()
@@ -141,10 +176,10 @@ function Read-Collection($dir) {
 # La voix du site : Mamie et sa bande présentent chaque fiche (petite accroche au-dessus du titre, une par rubrique).
 $accroches = @{
   "guides" = "L'atelier de la bande à Mamie"; "bibliotheque" = "Mamie a lu pour toi"; "experiences" = "Mamie raconte"
-  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"; "figures" = "Mamie les a connus (ou presque)"
+  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"; "universite" = "L'université populaire de Mamie"; "figures" = "Mamie les a connus (ou presque)"
 }
 # Type de contenu affiché sur chaque page (et dans la recherche) : chaque rubrique a son modèle de page (classe gpage--dossier).
-$types = @{ "figures" = "Portrait"; "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
+$types = @{ "universite" = "Parcours"; "figures" = "Portrait"; "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
 function Type-De($folder, $g) { if ($folder -eq "manif" -and $g.cat -eq "Legal Team") { return "Guide juridique" }; return $types[$folder] }
 function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
   $accroche = $accroches[$folder]
@@ -346,11 +381,13 @@ $agir = @(Read-Collection "agir")
 Build-Collection $agir "agir" "agir" "Agir ensemble" "Fiche" '<p class="credit">Fiche rédigée par la bande à Mamie. Libre de reproduction.</p>' "AGIR"
 $figures = @(Read-Collection "figures")
 Build-Collection $figures "figures" "figures" "Figures de l'anarchisme" "Portrait" '<p class="credit">Portrait écrit par la bande à Mamie. Photo d''époque issue de Wikimedia Commons. Libre de reproduction.</p>' "FIGURES"
+$universite = @(Read-Collection "universite")
+Build-Collection $universite "universite" "universite" "Université populaire" "Parcours" '<p class="credit">Parcours préparé par la bande à Mamie à partir des pages, livres et ressources vérifiées du site. Libre de reproduction.</p>' "UNIVERSITE"
 
 # ---------- nouveautés de l'accueil ({{NOUVEAUTES}}) ----------
 # « À la une » : la page arrivée le plus récemment en grand, puis le fil des suivantes. Une seule entrée par dossier d'Histoires de luttes.
 $neuf = @(); $rang = 0; $dossiers = @{}
-foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"))) {
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"), @($universite, "universite", "Université populaire"))) {
   foreach ($g in $set[0]) {
     $u = "$($set[1])/$($g.slug).html"; $rang++
     if (-not $app.Contains($u)) { $app[$u] = $maintenant }
@@ -377,7 +414,7 @@ function Plain($html, $max) {
 }
 function Heads($html) { ([regex]::Matches($html, '<h[23][^>]*>(.*?)</h[23]>') | ForEach-Object { Plain $_.Groups[1].Value 200 }) -join ' · ' }
 $index = @()
-foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"))) {
+foreach ($set in @(@($guides, "guides", "Outils numériques"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"), @($universite, "universite", "Université populaire"))) {
   foreach ($g in $set[0]) {
     $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; y = (Type-De $set[1] $g); t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
   }
@@ -386,8 +423,123 @@ foreach ($l in $livres) {
   $index += [pscustomobject]@{ u = "livres/$($l.id).html"; k = "Livre complet"; y = "Livre"; t = $l.title; d = $l.d; x = "$($l.author) $($l.date) $($l.cat)" }
 }
 
+# ---------- centre de ressources (bibliothèque documentaire) ----------
+# Une fiche par ressource dans _src/ressources/*.json (un objet ou une liste d'objets ; les fichiers qui commencent par « _ » sont ignorés).
+# Mode d'emploi et vocabulaire : _src/ressources/LISEZMOI.md. Chaque fiche donne ressources/<id>.html, et l'ensemble data/ressources.js.
+$resTypes = [ordered]@{ livre = "Livre"; brochure = "Brochure"; article = "Article"; archive = "Archives"; podcast = "Podcast et radio"; documentaire = "Documentaire"; site = "Site indépendant"; logiciel = "Logiciel libre"; guide = "Guide pratique" }
+$resThemes = [ordered]@{ "anarchisme" = "Anarchisme"; "communisme-libertaire" = "Communisme libertaire"; "syndicalisme-revolutionnaire" = "Syndicalisme révolutionnaire"; "autogestion" = "Autogestion"; "histoire-ouvriere" = "Histoire ouvrière"; "antifascisme" = "Antifascisme"; "feminisme" = "Féminisme"; "luttes-queer" = "Luttes queer"; "antiracisme" = "Antiracisme"; "anticolonialisme" = "Anticolonialisme"; "ecologie-sociale" = "Écologie sociale"; "communalisme" = "Communalisme"; "internationalisme" = "Internationalisme"; "education-populaire" = "Éducation populaire"; "droits-sociaux" = "Droits sociaux"; "culture-militante" = "Culture militante"; "autonomie-numerique" = "Autonomie numérique" }
+$resNiveaux = [ordered]@{ decouverte = "Découverte"; intermediaire = "Intermédiaire"; approfondi = "Approfondi" }
+$resNatures = [ordered]@{ militante = "Source militante"; historique = "Document historique"; universitaire = "Source universitaire"; temoignage = "Témoignage"; institutionnelle = "Source institutionnelle" }
+$resLangues = [ordered]@{ fr = "Français"; en = "Anglais"; es = "Espagnol"; it = "Italien"; de = "Allemand"; pt = "Portugais"; multilingue = "Plusieurs langues" }
+$ressources = @()
+foreach ($f in Get-ChildItem (Join-Path $src "ressources") -Filter *.json | Where-Object { -not $_.Name.StartsWith("_") } | Sort-Object Name) {
+  # PowerShell 5 rend une liste JSON en un seul objet : le foreach la déplie.
+  try { $lu = (Read-Utf8 $f.FullName) | ConvertFrom-Json; foreach ($o in $lu) { $ressources += $o } } catch { Write-Warning "Ressources : $($f.Name) n'est pas un JSON valide ($($_.Exception.Message))" }
+}
+$vus = @{}
+foreach ($r in $ressources) {
+  $quoi = "Ressource « $($r.id) »"
+  foreach ($champ in "id", "titre", "type", "niveau", "nature", "presentation", "consultation", "source", "url", "verifie") { if (-not $r.$champ) { Write-Warning "$quoi : champ « $champ » vide" } }
+  if ($r.id -notmatch '^[a-z0-9-]+$') { Write-Warning "$quoi : identifiant à écrire en minuscules, chiffres et tirets" }
+  if ($vus[$r.id]) { Write-Warning "$quoi : identifiant en double" }; $vus[$r.id] = 1
+  if (-not $resTypes.Contains([string]$r.type)) { Write-Warning "$quoi : type inconnu « $($r.type) »" }
+  if (-not $resNiveaux.Contains([string]$r.niveau)) { Write-Warning "$quoi : niveau inconnu « $($r.niveau) »" }
+  if (-not $resNatures.Contains([string]$r.nature)) { Write-Warning "$quoi : nature inconnue « $($r.nature) »" }
+  if (-not @($r.themes).Count) { Write-Warning "$quoi : aucune thématique" }
+  foreach ($t in @($r.themes)) { if (-not $resThemes.Contains([string]$t)) { Write-Warning "$quoi : thématique inconnue « $t »" } }
+  foreach ($l in @($r.langues)) { if (-not $resLangues.Contains([string]$l)) { Write-Warning "$quoi : langue inconnue « $l »" } }
+  if ($r.verifie -notmatch '^\d{4}-\d{2}-\d{2}$') { Write-Warning "$quoi : date de vérification à écrire AAAA-MM-JJ" }
+}
+$ressources = @($ressources | Sort-Object { (Slug $_.titre) })
+$dossierRes = Join-Path $site "ressources"; New-Item -ItemType Directory -Force $dossierRes | Out-Null
+foreach ($r in $ressources) {
+  $auteurs = (@($r.auteurs) | Where-Object { $_ }) -join ", "
+  $themesHtml = (@($r.themes) | ForEach-Object { "<a class=""res-tag"" href=""index.html?theme=$_"">$(Esc $resThemes[[string]$_])</a>" }) -join " "
+  $langues = (@($r.langues) | ForEach-Object { $resLangues[[string]$_] }) -join ", "
+  $interne = -not ($r.url -match '^https?:')
+  $verifie = Date-Fr ([datetime]::ParseExact($r.verifie, "yyyy-MM-dd", $null)) $false
+  $ligne = { param($k, $v) if ($v) { "<tr><th scope=""row"">$k</th><td>$v</td></tr>" } }
+  $table = (& $ligne "Titre" (Esc $r.titre)) + (& $ligne "Autrice, auteur ou collectif" (Esc $auteurs)) + (& $ligne "Date" (Esc $r.date)) +
+    (& $ligne "Type de document" "<a href=""index.html?type=$($r.type)"">$(Esc $resTypes[[string]$r.type])</a>") + (& $ligne "Thématiques" $themesHtml) +
+    (& $ligne "Niveau de lecture" (Esc $resNiveaux[[string]$r.niveau])) + (& $ligne "Langue" (Esc $langues)) + (& $ligne "Format" (Esc $r.format)) +
+    (& $ligne "Nature de la source" (Esc $resNatures[[string]$r.nature])) + (& $ligne "Source originale" (Esc $r.source)) +
+    (& $ligne "Adresse" "<a href=""$(Esc $r.url)""$(if (-not $interne) { ' rel="noopener"' })>$(Esc ($r.url -replace '^\.\./', 'mamiecommune.org/' -replace '\.html', ''))</a>") +
+    (& $ligne "Licence" (Esc $r.licence)) + (& $ligne "Vérifiée le" $verifie)
+  $compl = ""
+  if (@($r.complements).Count) {
+    $compl = "<h2 id=""complements"">Ressources complémentaires</h2><ul>" + ((@($r.complements) | ForEach-Object { "<li><a href=""$(Esc $_.url)""$(if ($_.url -match '^https?:') { ' rel="noopener"' })>$(Esc $_.titre)</a></li>" }) -join "") + "</ul>"
+  }
+  $resume = if ($r.resume) { "<h2 id=""resume"">Résumé</h2><p>$(Esc $r.resume)</p>" } else { "<h2 id=""resume"">Résumé</h2><p>Pas encore de résumé : la bande n'a pas encore lu le contenu lui-même.</p>" }
+  $bouton = if ($interne) { "Lire sur Mamie Commune →" } else { "Consulter la source originale →" }
+  $body = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../bibliotheque/index.html">Bibliothèque</a><span>/</span><a href="index.html">Centre de ressources</a><span>/</span><a href="index.html?type=$($r.type)">$(Esc $resTypes[[string]$r.type])</a></p>
+  <p class="eyebrow">Fiche documentaire</p>
+  <h1>$(Esc $r.titre)</h1>
+  <p class="lead">$(Esc $r.presentation)</p>
+  <div class="gmeta"><span class="gmeta__type">$(Esc $resTypes[[string]$r.type])</span>$(if ($auteurs) { "<span>$(Esc $auteurs)</span>" })$(if ($r.date) { "<span>$(Esc $r.date)</span>" })<span>$(Esc $resNatures[[string]$r.nature])</span><span>$(Esc $resNiveaux[[string]$r.niveau])</span><span>Vérifiée le $verifie</span></div>
+</div></header>
+<div class="wrap gseule">
+  <article class="prose res-fiche">
+  <p class="res-go"><a class="btn btn--main" href="$(Esc $r.url)"$(if (-not $interne) { ' rel="noopener"' })>$bouton</a></p>
+  $resume
+  <p class="res-consult"><b>Ce que la bande a lu pour écrire cette fiche :</b> $(Esc $r.consultation)</p>
+  <h2 id="fiche">La fiche</h2>
+  <div class="tbl"><table class="res-table"><tbody>$table</tbody></table></div>
+  $compl
+  <p class="credit">Fiche documentaire rédigée par la bande à Mamie. Elle présente la ressource et renvoie vers sa source originale : le contenu n'est pas recopié ici. Une erreur, un lien mort ? <a href="../contribuer.html">Dis-le à la bande</a>.</p>
+  </article>
+</div>
+"@
+  Write-Utf8 (Join-Path $dossierRes "$($r.id).html") (Render-Page "../" "bibliotheque" "$($r.titre) · Centre de ressources · Mamie Commune" $r.presentation $body "")
+  $index += [pscustomobject]@{ u = "ressources/$($r.id).html"; k = "Centre de ressources"; y = "Ressource documentaire"; t = $r.titre; d = $r.presentation; x = "$auteurs $($r.date) $($resTypes[[string]$r.type]) $((@($r.themes) | ForEach-Object { $resThemes[[string]$_] }) -join ' ') $($r.source) $($r.resume)" }
+}
+$vocab = { param($m) "{ " + (($m.Keys | ForEach-Object { "$(JsStr $_): $(JsStr $m[$_])" }) -join ", ") + " }" }
+$js = "// Généré par _src/build.ps1 depuis _src/ressources/*.json — ne pas modifier à la main.`n"
+$js += "window.RES_VOCAB = { types: $(& $vocab $resTypes), themes: $(& $vocab $resThemes), niveaux: $(& $vocab $resNiveaux), natures: $(& $vocab $resNatures), langues: $(& $vocab $resLangues) };`n"
+$js += "window.RESSOURCES = [`n" + (($ressources | ForEach-Object {
+  $an = [regex]::Match([string]$_.date, '\d{4}').Value
+  "  { id: $(JsStr $_.id), t: $(JsStr $_.titre), a: [$((@($_.auteurs) | ForEach-Object { JsStr $_ }) -join ', ')], dt: $(JsStr $_.date), an: $(if ($an) { $an } else { 'null' }), ty: $(JsStr $_.type), th: [$((@($_.themes) | ForEach-Object { JsStr $_ }) -join ', ')], n: $(JsStr $_.niveau), l: [$((@($_.langues) | ForEach-Object { JsStr $_ }) -join ', ')], nat: $(JsStr $_.nature), p: $(JsStr $_.presentation), src: $(JsStr $_.source), v: $(JsStr $_.verifie) }"
+}) -join ",`n") + "`n];`n"
+Write-Utf8 (Join-Path $site "data\ressources.js") $js
+
+# ---------- carte des collectifs : data/lieux.geojson → data/lieux.js ----------
+# La source est data/lieux.geojson (une structure par ligne, données publiques téléchargeables). On en tire data/lieux.js,
+# chargé par la carte et la recherche, et on contrôle la qualité : catégories, champs, doublons, coordonnées personnelles.
+$catLieux = [ordered]@{
+  "libertaire" = @("Groupes anarchistes et libertaires", "#e3141b"); "syndicat" = @("Syndicats", "#ffd23f"); "association" = @("Associations", "#3ddc97")
+  "antifa" = @("Collectifs antifascistes", "#6a1b9a"); "librairie" = @("Librairies indépendantes et bibliothèques", "#f4eeee"); "lieu" = @("Lieux autogérés", "#ff6fa8")
+  "cooperative" = @("Coopératives", "#a1887f"); "centre-social" = @("Centres sociaux", "#4fc3f7"); "feministe" = @("Associations féministes", "#c2185b")
+  "antiraciste" = @("Associations antiracistes", "#ff8a3d"); "media" = @("Médias indépendants", "#b08cff"); "solidarite" = @("Structures de solidarité", "#26a69a")
+}
+$geo = (Read-Utf8 (Join-Path $site "data\lieux.geojson")) | ConvertFrom-Json
+$lieux = @($geo.features); $vusL = @{}; $nomsL = @{}
+foreach ($f in $lieux) {
+  $p = $f.properties; $quoi = "Carte : « $($p.nom) »"
+  foreach ($champ in "id", "nom", "categorie", "description", "source", "etat") { if (-not $p.$champ) { Write-Warning "$quoi : champ « $champ » vide" } }
+  if (-not $catLieux.Contains([string]$p.categorie)) { Write-Warning "$quoi : catégorie inconnue « $($p.categorie) »" }
+  if ($vusL[$p.id]) { Write-Warning "$quoi : identifiant en double « $($p.id) »" }; $vusL[$p.id] = 1
+  $cle = "$(Slug $p.nom)|$($p.departement)"; if ($nomsL[$cle]) { Write-Warning "$quoi : doublon probable (même nom, même département)" }; $nomsL[$cle] = 1
+  if ($p.verifie -and $p.verifie -notmatch '^\d{4}-\d{2}-\d{2}$') { Write-Warning "$quoi : date de vérification à écrire AAAA-MM-JJ" }
+  if (-not $p.verifie -and $p.etat -ne "a-reverifier") { Write-Warning "$quoi : sans date de vérification, l'état doit être « a-reverifier »" }
+  if ($f.geometry) { $x = $f.geometry.coordinates; if ($x[1] -lt -25 -or $x[1] -gt 60 -or $x[0] -lt -65 -or $x[0] -gt 60) { Write-Warning "$quoi : coordonnées étranges" } }
+  elseif ($p.portee -ne "national") { Write-Warning "$quoi : pas de position sur la carte (mettre « portee »: « national » si c'est voulu)" }
+  # Protection : jamais de coordonnées personnelles. Un portable ou une adresse de rue doit être vérifié à la main.
+  $texte = "$($p.contact) $($p.ville) $($p.description)"
+  if ($texte -match '(?<!\d)(0|\+33\s?)[67](\s?\d\d){4}') { Write-Warning "$quoi : numéro de portable : vérifier que c'est un contact public publié par la structure" }
+  if ($texte -match '\b\d{1,4}(bis|ter)?,?\s+(rue|avenue|boulevard|bd|place|chemin|impasse|allée)\b') { Write-Warning "$quoi : adresse de rue : seulement si c'est un lieu public ouvert au public" }
+}
+$jsL = "// Généré par _src/build.ps1 depuis data/lieux.geojson — ne pas modifier à la main.`n"
+$jsL += "window.CATEGORIES_LIEUX = {`n" + (($catLieux.Keys | ForEach-Object { "  $(JsStr $_): { label: $(JsStr $catLieux[$_][0]), color: $(JsStr $catLieux[$_][1]) }" }) -join ",`n") + "`n};`n"
+$jsL += "window.LIEUX_MAJ = $(JsStr $geo.metadata.misAJour);`nwindow.LIEUX = [`n" + (($lieux | ForEach-Object {
+  $p = $_.properties; $c = if ($_.geometry) { $_.geometry.coordinates } else { $null }
+  $res = (@($p.ressources) | Where-Object { $_ } | ForEach-Object { "[$(JsStr $_.titre), $(JsStr $_.url)]" }) -join ", "
+  "  { id: $(JsStr $p.id), n: $(JsStr $p.nom), c: $(JsStr $p.categorie), lat: $(if ($c) { $c[1] } else { 'null' }), lng: $(if ($c) { $c[0] } else { 'null' }), v: $(JsStr $p.ville), dep: $(JsStr $p.departement), pays: $(JsStr $p.pays), portee: $(JsStr $p.portee), org: $(JsStr $p.organisation), d: $(JsStr $p.description), site: $(JsStr $p.site), contact: $(JsStr $p.contact), annuaire: $(JsStr $p.annuaire), source: $(JsStr $p.source), sourceUrl: $(JsStr $p.sourceUrl), verifie: $(JsStr $p.verifie), etat: $(JsStr $p.etat), note: $(JsStr $p.note), res: [$res] }"
+}) -join ",`n") + "`n];`n"
+Write-Utf8 (Join-Path $site "data\lieux.js") $jsL
+
 # Compteurs de l'accueil ({{NB_LIEUX}}, {{NB_LIVRES}}, {{NB_FICHES}}), calculés à chaque génération.
-$compteurs = @{ NB_LIEUX = ([regex]::Matches((Read-Utf8 (Join-Path $site "data\lieux.js")), '(?m)^\s*\["')).Count; NB_LIVRES = $livres.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
+$compteurs = @{ NB_LIEUX = @($lieux | Where-Object { $_.geometry }).Count; NB_LIVRES = $livres.Count; NB_RESSOURCES = $ressources.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
 # ---------- pages ----------
 foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $raw = Read-Utf8 $f.FullName
@@ -396,12 +548,52 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $body = $raw.Substring($m.Length)
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
-  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures", "ressources", "universite")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
-  Write-Utf8 (Join-Path $site $out) (Render-Page $root $meta[2] $meta[0] $meta[1] $body $scripts)
+  # La rubrique (menu, fil d'Ariane, tiroir) se déduit de l'adresse ; à défaut, de la clé de l'en-tête.
+  $navKey = (Famille-De-Adresse ($out -replace '\\', '/'))[2]; if (-not $navKey) { $navKey = $meta[2] }
+  Write-Utf8 (Join-Path $site $out) (Render-Page $root $navKey $meta[0] $meta[1] $body $scripts)
   if ($f.BaseName -notin @("lecteur", "recherche", "404")) {
     $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; y = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
   }
+}
+# ---------- université populaire : chronologie (data/chronologie.js) et pages à part (universite/<nom>.html) ----------
+# La chronologie vient de _src/universite/chronologie.json : chaque événement a une date vérifiée et une source.
+$chr = (Read-Utf8 (Join-Path $src "universite\chronologie.json")) | ConvertFrom-Json
+foreach ($e in @($chr.evenements)) {
+  $quoi = "Chronologie : « $($e.titre) »"
+  if ($e.date -notmatch '^\d{4}(-\d{2}(-\d{2})?)?$') { Write-Warning "$quoi : date à écrire AAAA, AAAA-MM ou AAAA-MM-JJ" }
+  if (-not ($chr.themes.PSObject.Properties.Name -contains $e.theme)) { Write-Warning "$quoi : thème inconnu « $($e.theme) »" }
+  if (-not $e.source -or -not $e.source[1]) { Write-Warning "$quoi : pas de source" }
+  foreach ($champ in "quand", "titre", "texte") { if (-not $e.$champ) { Write-Warning "$quoi : champ « $champ » vide" } }
+}
+$jsC = "// Généré par _src/build.ps1 depuis _src/universite/chronologie.json — ne pas modifier à la main.`n"
+$jsC += "window.CHRONO_THEMES = { " + (($chr.themes.PSObject.Properties | ForEach-Object { "$(JsStr $_.Name): $(JsStr $_.Value)" }) -join ", ") + " };`n"
+$jsC += "window.CHRONOLOGIE = [`n" + ((@($chr.evenements) | Sort-Object date | ForEach-Object { "  { date: $(JsStr $_.date), quand: $(JsStr $_.quand), theme: $(JsStr $_.theme), titre: $(JsStr $_.titre), texte: $(JsStr $_.texte), lien: $(JsStr (Clean-Url $_.lien)), source: [$(JsStr $_.source[0]), $(JsStr (Clean-Url $_.source[1]))] }" }) -join ",`n") + "`n];`n"
+Write-Utf8 (Join-Path $site "data\chronologie.js") $jsC
+foreach ($f in Get-ChildItem (Join-Path $src "universite") -Filter *.html) {
+  $raw = Read-Utf8 $f.FullName
+  $m = [regex]::Match($raw, '^<!--\s*(.*?)\s*-->\s*', 'Singleline')
+  $meta = $m.Groups[1].Value -split "\s\|\s"
+  $body = $raw.Substring($m.Length)
+  $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
+  $out = "universite\$($f.Name)"
+  Write-Utf8 (Join-Path $site $out) (Render-Page "../" "universite" $meta[0] $meta[1] $body $scripts)
+  $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Université populaire"; y = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = (Heads $body) + " " + ((@($chr.evenements) | ForEach-Object { "$($_.quand) $($_.titre)" }) -join " ") }
+}
+# ---------- les outils de Mamie (outils/) ----------
+# Une page par outil dans _src/outils/<nom>.html (même en-tête que les pages) ; index.html devient outils/index.html.
+# Les outils marchent entièrement dans le navigateur (assets/outils.js) : rien n'est envoyé, rien n'est enregistré sans le demander.
+New-Item -ItemType Directory -Force (Join-Path $site "outils") | Out-Null
+foreach ($f in Get-ChildItem (Join-Path $src "outils") -Filter *.html) {
+  $raw = Read-Utf8 $f.FullName
+  $m = [regex]::Match($raw, '^<!--\s*(.*?)\s*-->\s*', 'Singleline')
+  $meta = $m.Groups[1].Value -split "\s\|\s"
+  $body = $raw.Substring($m.Length)
+  $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
+  $out = "outils\$($f.Name)"
+  Write-Utf8 (Join-Path $site $out) (Render-Page "../" "boite-outils" $meta[0] $meta[1] $body $scripts)
+  $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Les outils de Mamie"; y = "Outil"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = (Heads $body) }
 }
 # Vidéos dans la recherche : chaque documentaire de la page Vidéos, et chaque publication TikTok de data/videos.js.
 $pageVideos = Read-Utf8 (Join-Path $src "pages\videos.html")
@@ -449,4 +641,4 @@ $js += "window.RECHERCHE = [`n"
 $js += ($index | ForEach-Object { $fr = Famille-De-Adresse ($_.u -replace '\\', '/'); "  { u: $(JsStr (Clean-Url $_.u)), f: $(JsStr $fr[0]), r: $(JsStr $fr[1]), k: $(JsStr $_.k), y: $(JsStr $_.y), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
 $js += "`n];`n"
 Write-Utf8 (Join-Path $site "data\recherche.js") $js
-Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres et $($exp.Count) pages de dossiers générés."
+Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres, $($ressources.Count) ressources et $($exp.Count) pages de dossiers générés."

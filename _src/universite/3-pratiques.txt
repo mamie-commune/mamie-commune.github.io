@@ -1,0 +1,173 @@
+=== anarchosyndicalisme | Les pratiques | Anarchosyndicalisme | Parcours intermédiaire · 4 modules | Le syndicat comme outil de lutte aujourd'hui et comme base de la société libre demain : de la CGT de la Charte d'Amiens à la CNT espagnole et aux IWW.
+<p>Mamie a toujours eu sa carte syndicale dans le porte-monnaie. Pour les anarcho-syndicalistes, le syndicat n'est pas seulement là pour négocier : c'est l'école de l'autogestion et l'outil de la révolution. Ce parcours explique l'idée, ses grandes heures et ses limites.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Le syndicalisme révolutionnaire naît en France autour de la CGT, fondée en 1895 ; la Charte d'Amiens (1906) affirme son indépendance vis-à-vis des partis. L'anarcho-syndicalisme en est la version explicitement anarchiste, portée par la CNT espagnole (fondée en 1910 à Barcelone) et par l'internationale fondée à Berlin en 1922.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Distinguer syndicalisme révolutionnaire et anarcho-syndicalisme.</li>
+<li>Comprendre l'action directe, la grève générale et la « double besogne ».</li>
+<li>Connaître la CNT espagnole et l'expérience de 1936.</li>
+<li>Connaître les critiques : bureaucratisation, entrée au gouvernement en 1936.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>L'action directe</b><span>Grève, boycott, sabotage : agir sans intermédiaire.</span><a href="../experiences/action-directe-pratique.html">L'action directe →</a></li>
+<li><b>Émile Pouget et la CGT</b><span>Du <em>Père Peinard</em> au secrétariat de la CGT.</span><a href="../figures/emile-pouget.html">Portrait d'Émile Pouget →</a></li>
+<li><b>La CNT et 1936</b><span>Comment la CNT et la FAI étaient organisées, et les collectivités.</span><a href="../experiences/espagne-1936-organisation.html">CNT, FAI et collectivités →</a></li>
+<li><b>Rocker et l'internationale</b><span>Le grand théoricien de l'anarcho-syndicalisme.</span><a href="../figures/rudolf-rocker.html">Portrait de Rudolf Rocker →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/l-action-directe-pouget.html">L'Action directe</a>, Émile Pouget, 1904, en entier.</li>
+<li><a href="../livres/comment-nous-ferons-la-revolution.html">Comment nous ferons la Révolution</a>, Pataud et Pouget, 1909, en entier.</li>
+<li><a href="../bibliotheque/de-l-action-directe.html">De l'action directe</a>, Voltairine de Cleyre, 1912.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../ressources/pere-peinard-1889-1890.html">Le Père Peinard</a>, le journal de Pouget.</li>
+<li><a href="../ressources/libcom.html">libcom.org</a> : textes et histoires du syndicalisme de combat (en anglais).</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître</a>, épisode 2 : Terre et liberté (1900-1927).</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#anarcho-syndicalisme">Anarcho-syndicalisme</a> <a href="../glossaire.html#syndicalisme-revolutionnaire">Syndicalisme révolutionnaire</a> <a href="../glossaire.html#greve-generale">Grève générale</a> <a href="../glossaire.html#action-directe">Action directe</a> <a href="../glossaire.html#sabotage">Sabotage</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Que veut dire « action directe » pour les syndicalistes de 1900 ? <small>Piste : module 1</small></li>
+<li>Qu'est-ce que la Charte d'Amiens dit du rapport aux partis ? <small>Piste : module 2</small></li>
+<li>Pourquoi l'entrée de la CNT au gouvernement en novembre 1936 a-t-elle été contestée ? <small>Piste : module 3</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Anarcho-Syndicalism</cite>, Rudolf Rocker, 1938.</li>
+<li><cite>Le Sabotage</cite>, Émile Pouget, 1910.</li>
+<li><cite>Trop jeunes pour mourir</cite>, Guillaume Davranche, Libertalia, 2014.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../s-organiser.html#syndicalisme">Le syndicalisme, dans le tiroir S'organiser</a><span>Avec les syndicats sur la carte.</span></li></ul></section>
+<section><h3>Sur le web</h3><ul><li><a href="https://fr.wikipedia.org/wiki/Conf%C3%A9d%C3%A9ration_nationale_du_travail_(Espagne)" rel="noopener">La CNT espagnole sur Wikipédia</a><span>Fondée en 1910 à Barcelone.</span></li></ul></section>
+</div>
+
+=== autogestion | Les pratiques | Autogestion | Parcours intermédiaire · 5 modules | Des collectivités espagnoles à Lip, aux zapatistes et à la ZAD : comment des gens ont géré eux-mêmes leur travail et leur territoire, et ce qui a coincé.
+<p>« On fabrique, on vend, on se paie » : Mamie a encore le slogan de Lip en tête. L'autogestion, ce n'est pas une utopie de livre, ce sont des expériences réelles, avec leurs réussites et leurs galères. Ce parcours les compare.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'autogestion désigne la gestion d'une entreprise, d'un lieu ou d'un territoire par celles et ceux qui y travaillent ou y vivent. Ce parcours compare cinq expériences, du XIXe siècle à aujourd'hui, en regardant à chaque fois comment on décide, comment on partage, et ce qui menace l'expérience.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comparer plusieurs expériences d'autogestion.</li>
+<li>Repérer les outils de décision collective utilisés.</li>
+<li>Comprendre les menaces : répression, isolement, marché, épuisement.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>La Commune et la Makhnovtchina</b><span>Ateliers repris, congrès paysans libres.</span><a href="../experiences/makhno-organisation.html">Soviets libres et congrès →</a></li>
+<li><b>Les collectivités espagnoles</b><span>La terre et les usines collectivisées en 1936.</span><a href="../experiences/espagne-1936-organisation.html">Collectivités et usines autogérées →</a></li>
+<li><b>Lip, 1973</b><span>Une usine relancée par ses salariés.</span><a href="../experiences/action-directe-pratique.html#lip">Lip →</a></li>
+<li><b>Les zapatistes</b><span>Commander en obéissant, les charges tournantes.</span><a href="../experiences/zapatistes-organisation.html">L'autogouvernement zapatiste →</a></li>
+<li><b>La ZAD</b><span>Des terres en commun et des assemblées.</span><a href="../experiences/zad-organisation.html">Vivre et décider sur la ZAD →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../agir/decider-sans-chef.html">Décider sans chef</a> et <a href="../agir/tenir-une-ag.html">Tenir une AG</a>, fiches pratiques.</li>
+<li><a href="../ressources/freeman-tyrannie-absence-de-structure.html">La Tyrannie de l'absence de structure</a>, Jo Freeman.</li>
+<li><a href="../livres/la-conquete-du-pain.html">La Conquête du pain</a>, Kropotkine.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/la-contemporaine.html">La Contemporaine</a> et <a href="../ressources/cira-marseille.html">le CIRA de Marseille</a>.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../experiences/zapatistes-histoire.html#videos">Les vidéos du dossier zapatiste</a>, dont « Petite école zapatiste ».</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#autogestion">Autogestion</a> <a href="../glossaire.html#cooperative">Coopérative</a> <a href="../glossaire.html#consensus">Consensus</a> <a href="../glossaire.html#mandat">Mandat révocable</a> <a href="../glossaire.html#prefiguration">Préfiguration</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Dans chaque expérience, qui décide, et comment ? Fais un tableau. <small>Piste : modules 1 à 5</small></li>
+<li>Pourquoi, selon Jo Freeman, les groupes « sans structure » ont-ils quand même des chefs ? <small>Piste : textes de référence</small></li>
+<li>Qu'est-ce qui a mis fin aux collectivités espagnoles ? Et à l'expérience de Lip ? <small>Piste : modules 2 et 3</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>L'Autogestion dans l'Espagne révolutionnaire</cite>, Frank Mintz.</li>
+<li><cite>L'Affaire Lip, 1968-1981</cite>, Donald Reid, Presses universitaires de Rennes, 2020.</li>
+<li><cite>La Rébellion zapatiste</cite>, Jérôme Baschet, Flammarion.</li>
+<li><cite>Contrées</cite>, collectif Mauvaise Troupe, L'Éclat, 2016.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../s-organiser.html#autogestion">L'autogestion, dans le tiroir S'organiser</a><span>Les dossiers en schémas.</span></li><li><a href="../outils/index.html">Les outils de Mamie</a><span>Préparer une AG, écrire un mandat ou une charte.</span></li></ul></section>
+</div>
+
+=== education-populaire | Les pratiques | Éducation populaire | Parcours découverte · 4 modules | De l'éducation intégrale de Bakounine à l'École moderne de Ferrer, jusqu'aux ateliers d'aujourd'hui : apprendre ensemble pour s'émanciper.
+<p>Mamie a appris l'anarchie dans des cercles de lecture, des causeries et des cours du soir. L'éducation populaire, c'est ça : apprendre entre égaux, à partir de ce qu'on vit, pour agir. Ce parcours en raconte l'histoire libertaire et donne les outils pour s'y mettre.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'éducation populaire désigne les pratiques d'éducation hors de l'école officielle, qui visent l'émancipation des personnes et des groupes. Les anarchistes y ont beaucoup contribué : éducation « intégrale », écoles libertaires comme celles de Paul Robin, Sébastien Faure ou Francisco Ferrer, universités populaires, bibliothèques ouvrières.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Connaître les grandes expériences d'éducation libertaire.</li>
+<li>Comprendre l'idée d'éducation intégrale (manuelle et intellectuelle).</li>
+<li>Préparer et animer soi-même un atelier ou un cercle de lecture.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>L'éducation intégrale</b><span>Bakounine veut abolir la séparation entre travail manuel et intellectuel.</span><a href="../livres/education-integrale.html">L'éducation intégrale →</a></li>
+<li><b>Ferrer et l'École moderne</b><span>Une école laïque et libertaire à Barcelone, et l'exécution de son fondateur en 1909.</span><a href="../ressources/goldman-ferrer-ecole-moderne.html">Francisco Ferrer et l'École Moderne →</a></li>
+<li><b>Lire ensemble</b><span>Monter un cercle de lecture avec le plan des fiches de la bande.</span><a href="../outils/fiche-de-lecture.html">Modèle de fiche de lecture →</a></li>
+<li><b>Animer un atelier</b><span>Objectifs, déroulé minuté, méthodes, quiz, bilan.</span><a href="../outils/atelier.html">Préparer un atelier →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/aux-jeunes-gens.html">Aux jeunes gens</a>, Pierre Kropotkine, 1880.</li>
+<li><a href="../bibliotheque/l-ideal-et-la-jeunesse.html">L'Idéal et la jeunesse</a>, Élisée Reclus, 1894.</li>
+<li><a href="../bibliotheque/travail-intellectuel-et-manuel.html">Travail intellectuel et travail manuel</a>, Pierre Kropotkine, 1890.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/infokiosques.html">infokiosques.net</a> : des centaines de brochures à lire en groupe.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#tiktok">Les vidéos de Mamie</a> : des formats courts pour lancer une discussion.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#education-populaire">Éducation populaire</a> <a href="../glossaire.html#prefiguration">Préfiguration</a> <a href="../glossaire.html#assemblee-generale">Assemblée générale</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Pourquoi les anarchistes refusent-ils de séparer travail manuel et travail intellectuel ? <small>Piste : module 1</small></li>
+<li>De quoi l'Église et le gouvernement espagnols accusaient-ils Ferrer ? <small>Piste : module 2</small></li>
+<li>Prépare un atelier de 90 minutes sur un des parcours : quelles étapes, quelles méthodes ? <small>Piste : module 4</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Anarchism and Other Essays</cite>, Emma Goldman, 1911 (contient l'essai sur Ferrer).</li>
+<li><cite>L'éducation intégrale</cite>, Mikhaïl Bakounine, 1869 (en entier sur le site).</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../outils/index.html#education">Les outils d'éducation populaire</a><span>Atelier, fiche de lecture, bibliographie, quiz, projection-débat.</span></li><li><a href="../ressources/framasoft.html">Framasoft</a><span>Éducation populaire et logiciels libres.</span></li></ul></section>
+</div>

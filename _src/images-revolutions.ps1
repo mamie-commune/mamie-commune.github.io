@@ -73,6 +73,10 @@ $images = [ordered]@{
   "figure-sanchez-saornil"        = "File:Lucia Sanchez Saornil.jpg"
   "figure-durruti"                = "File:Jose Buenaventura Durruti Dumange 1936.jpg"
   "figure-sail-mohamed"           = "File:Mohamed Saïl (détail).jpg"
+  "figure-rocker"                 = "File:Rudolf Rocker.jpg"
+  "figure-landauer"               = "File:Gustav Landauer (cropped).jpg"
+  "figure-bookchin"               = "File:Murray Bookchin (cropped).jpg"
+  "figure-ocalan"                 = "File:Abdullah Öcalan.png"
   # Dossier Action directe (_src/experiences/0y-action-directe.txt)
   "ad-courrieres-1906"            = "File:Catastrophe de Courrières - Les mineurs en grève.jpg"
   "ad-iww-paterson-1913"          = "File:IWW Paterson Silk Strike Poster 1913.jpg"

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "guide-autodefense-numerique",
+    "titre": "Guide d'autodéfense numérique",
+    "auteurs": ["Collectif"],
+    "date": "2023",
+    "type": "guide",
+    "themes": ["autonomie-numerique"],
+    "niveau": "intermediaire",
+    "langues": ["fr"],
+    "format": "En ligne, PDF A4, EPUB ; livre papier aux éditions Tahin Party",
+    "nature": "militante",
+    "presentation": "Sixième édition (janvier 2023) d'un guide collectif, réunissant ses deux tomes en un seul ouvrage. Le site a déménagé sur sindominio.net après la fermeture d'Autistici/Inventati.",
+    "resume": "Le guide donne des conseils pour se protéger dans l'environnement numérique, seul ou en groupe. Cette édition met à jour les versions de Debian et de Tails, les pratiques de surveillance, les lois et les outils, et ajoute un chapitre sur la réduction des risques appliquée au numérique.",
+    "consultation": "Page d'accueil du guide (présentation de la 6e édition).",
+    "source": "Guide d'autodéfense numérique",
+    "url": "https://sindominio.net/guide/",
+    "licence": "",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Tails", "url": "tails.html" },
+      { "titre": "S'organiser sur Signal", "url": "../guides/signal.html" }
+    ]
+  },
+  {
+    "id": "tails",
+    "titre": "Tails",
+    "auteurs": ["Tor Project"],
+    "date": "",
+    "type": "logiciel",
+    "themes": ["autonomie-numerique"],
+    "niveau": "intermediaire",
+    "langues": ["fr", "multilingue"],
+    "format": "Système d'exploitation à lancer depuis une clé USB",
+    "nature": "militante",
+    "presentation": "Système d'exploitation portable, gratuit, basé sur Debian, développé par le Tor Project, organisation à but non lucratif.",
+    "resume": "On le lance depuis une clé USB à la place de Windows, macOS ou Linux, et il ne laisse aucune trace sur l'ordinateur une fois éteint. Il passe par le réseau Tor pour protéger la vie privée en ligne et contourner la censure, et contient des outils pour travailler sur des documents sensibles et communiquer en sécurité. Disponible en huit langues, dont le français.",
+    "consultation": "Page d'accueil du site.",
+    "source": "Tails",
+    "url": "https://tails.net/",
+    "licence": "Logiciel libre (voir la page « licence » du site).",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Navigateur Tor", "url": "navigateur-tor.html" },
+      { "titre": "Guide d'autodéfense numérique", "url": "guide-autodefense-numerique.html" }
+    ]
+  },
+  {
+    "id": "framasoft",
+    "titre": "Framasoft",
+    "auteurs": ["Framasoft"],
+    "date": "depuis 2004",
+    "type": "logiciel",
+    "themes": ["autonomie-numerique", "education-populaire"],
+    "niveau": "decouverte",
+    "langues": ["fr"],
+    "format": "Site web et services en ligne libres",
+    "nature": "militante",
+    "presentation": "Association loi 1901 fondée en 2004, financée par les dons, qui veut un numérique au service de l'émancipation, par l'éducation populaire et le logiciel libre.",
+    "resume": "Elle propose des services libres et gratuits pour s'organiser sans les GAFAM : Framadate pour trouver une date ou prendre une décision, Framaforms pour les questionnaires, Framapad pour écrire à plusieurs, et la campagne Dégooglisons Internet.",
+    "consultation": "Page d'accueil du site.",
+    "source": "Framasoft",
+    "url": "https://framasoft.org/fr/",
+    "licence": "Logiciels libres.",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Éviter la pub, le traçage et les GAFAM", "url": "../guides/stop-gafam.html" },
+      { "titre": "Décider sans chef", "url": "../agir/decider-sans-chef.html" }
+    ]
+  },
+  {
+    "id": "navigateur-tor",
+    "titre": "Navigateur Tor (Tor Browser)",
+    "auteurs": ["Tor Project"],
+    "date": "",
+    "type": "logiciel",
+    "themes": ["autonomie-numerique"],
+    "niveau": "decouverte",
+    "langues": ["fr", "multilingue"],
+    "format": "Navigateur web à installer",
+    "nature": "militante",
+    "presentation": "Navigateur libre développé par le Projet Tor, organisme états-unien sans but lucratif.",
+    "resume": "Il isole chaque site visité, bloque les traqueurs et publicités tiers, et efface cookies et historique à la fin de la session. Le trafic passe par trois couches de chiffrement sur le réseau Tor, ce qui protège contre la surveillance et permet d'ouvrir des sites bloqués par son réseau.",
+    "consultation": "Page d'accueil du site, en français.",
+    "source": "Tor Project",
+    "url": "https://www.torproject.org/fr/",
+    "licence": "Logiciel libre.",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Tails", "url": "tails.html" },
+      { "titre": "Configurer uBlock Origin", "url": "../guides/ublock-origin.html" }
+    ]
+  }
+]

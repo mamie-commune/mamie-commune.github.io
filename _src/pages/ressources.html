@@ -1,0 +1,39 @@
+<!-- Centre de ressources · Mamie Commune | La bibliothèque documentaire de Mamie Commune : livres, brochures, articles, archives, podcasts, documentaires, sites indépendants, logiciels libres et guides pratiques, vérifiés et classés par thème, avec un lien vers la source originale. | bibliotheque | <script src="../data/ressources.js"></script><script src="../assets/ressources.js"></script> -->
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../bibliotheque/index.html">Bibliothèque</a><span>/</span><span>Centre de ressources</span></p>
+  <p class="eyebrow">La bibliothèque populaire de Mamie</p>
+  <h1>Centre de ressources</h1>
+  <p class="lead">Mamie a toujours eu un carnet d'adresses : où trouver les vieux journaux, quelle radio écouter, quel site garde les brochures, quel logiciel protège tes échanges. Le voici, rangé par fiches. Chaque fiche dit ce qu'est la ressource, ce que la bande en a lu, quand elle l'a vérifiée, et renvoie vers la source originale : on ne recopie rien.</p>
+</div></header>
+<section class="sec" style="border-top:0">
+  <div class="wrap">
+    <h2 class="sr">Chercher une ressource</h2>
+    <form class="res-filtres" id="resFiltres" role="search" aria-label="Filtrer les ressources">
+      <div class="res-champ res-champ--large"><label for="rq">Mot-clé</label><input id="rq" name="q" type="search" placeholder="Un titre, un sujet, une source…" autocomplete="off"></div>
+      <div class="res-champ"><label for="rauteur">Autrice ou auteur</label><select id="rauteur" name="auteur"><option value="">Toutes et tous</option></select></div>
+      <div class="res-champ"><label for="rtheme">Thématique</label><select id="rtheme" name="theme"><option value="">Toutes</option></select></div>
+      <div class="res-champ"><label for="rtype">Type de document</label><select id="rtype" name="type"><option value="">Tous</option></select></div>
+      <div class="res-champ"><label for="rperiode">Date</label><select id="rperiode" name="periode"><option value="">Toutes les époques</option><option value="avant-1900">Avant 1900</option><option value="1900-1945">1900 à 1945</option><option value="1946-1990">1946 à 1990</option><option value="depuis-1991">Depuis 1991</option><option value="sans-date">Sans date</option></select></div>
+      <div class="res-champ"><label for="rlangue">Langue</label><select id="rlangue" name="langue"><option value="">Toutes</option></select></div>
+      <div class="res-champ"><label for="rniveau">Niveau de lecture</label><select id="rniveau" name="niveau"><option value="">Tous</option></select></div>
+      <div class="res-champ"><label for="rnature">Nature de la source</label><select id="rnature" name="nature"><option value="">Toutes</option></select></div>
+      <div class="res-champ"><label for="rtri">Trier par</label><select id="rtri" name="tri"><option value="titre">Titre (A à Z)</option><option value="recent">Date (plus récent)</option><option value="ancien">Date (plus ancien)</option></select></div>
+      <div class="res-actions"><button class="btn" type="reset" id="rreset">Tout effacer</button></div>
+    </form>
+    <p class="res-compte" id="resCompte" aria-live="polite"></p>
+    <div class="cards" id="resListe"></div>
+    <noscript><p>La recherche à filtres a besoin de JavaScript. Toutes les fiches restent accessibles par la recherche générale du site.</p></noscript>
+  </div>
+</section>
+<section class="sec sec--alt" id="methode">
+  <div class="wrap">
+    <header class="sec__head"><p class="eyebrow">// comment on travaille</p><h2>La méthode de la bande</h2></header>
+    <div class="rubriques">
+      <div class="rubrique"><span class="rubrique__n">1</span><h3>On lit avant d'écrire</h3><p>Chaque fiche dit ce que la bande a vraiment consulté : le texte entier, une page de présentation ou un sommaire. Pas de résumé inventé.</p></div>
+      <div class="rubrique"><span class="rubrique__n">2</span><h3>On renvoie à la source</h3><p>On ne recopie pas les œuvres protégées : la fiche présente la ressource et renvoie vers le site qui la publie.</p></div>
+      <div class="rubrique"><span class="rubrique__n">3</span><h3>On dit d'où ça parle</h3><p>Source militante, document historique, source universitaire, témoignage ou institution : la nature de chaque source est indiquée.</p></div>
+      <div class="rubrique"><span class="rubrique__n">4</span><h3>On revérifie</h3><p>Chaque fiche porte sa date de vérification. Un lien mort, une erreur ? Préviens la bande, elle corrige.</p></div>
+    </div>
+    <div class="callout"><p><strong>Tu connais une ressource qui manque ?</strong> Envoie le titre et l'adresse à la bande : elle la lira, la vérifiera et lui fera sa fiche.</p><div class="callout__links"><a href="../contribuer.html">Proposer une ressource →</a></div></div>
+  </div>
+</section>

@@ -1,0 +1,138 @@
+[
+  {
+    "id": "dix-questions-anarchisme",
+    "titre": "Dix questions sur l'anarchisme",
+    "auteurs": ["Guillaume Davranche"],
+    "date": "2020",
+    "type": "livre",
+    "themes": ["anarchisme", "communisme-libertaire", "ecologie-sociale", "feminisme"],
+    "niveau": "decouverte",
+    "langues": ["fr"],
+    "format": "Livre complet en ligne et en PDF sur ce site",
+    "nature": "militante",
+    "presentation": "Livre des éditions Libertalia, diffusé en entier sur Mamie Commune avec l'accord des ayants droit.",
+    "resume": "D'où vient l'anarchisme, ce qu'il propose pour l'économie, la démocratie, l'écologie et le féminisme, comment il compte y arriver, et ce qu'il a fait dans les révolutions. Le livre que la bande conseille pour commencer.",
+    "consultation": "Texte intégral (publié sur le site).",
+    "source": "Mamie Commune, d'après l'édition Libertalia",
+    "url": "../livres/dix-questions-anarchisme.html",
+    "licence": "Diffusé avec l'accord des ayants droit.",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "La fiche de lecture", "url": "../bibliotheque/dix-questions-anarchisme.html" },
+      { "titre": "Une toute petite histoire de l'anarchisme", "url": "enckell-toute-petite-histoire-anarchisme.html" }
+    ]
+  },
+  {
+    "id": "la-conquete-du-pain",
+    "titre": "La Conquête du pain",
+    "auteurs": ["Pierre Kropotkine"],
+    "date": "1892",
+    "type": "livre",
+    "themes": ["communisme-libertaire", "anarchisme", "autogestion"],
+    "niveau": "intermediaire",
+    "langues": ["fr"],
+    "format": "Livre complet en ligne et en PDF sur ce site",
+    "nature": "historique",
+    "presentation": "Le grand livre de Kropotkine sur le communisme libertaire, dans le domaine public, mis en page par la bande à Mamie.",
+    "resume": "Comment une société libérée pourrait se nourrir, se loger et s'habiller sans salaire ni État, en prenant « au tas » ce qui abonde et en partageant ce qui manque.",
+    "consultation": "Texte intégral (publié sur le site).",
+    "source": "Mamie Commune",
+    "url": "../livres/la-conquete-du-pain.html",
+    "licence": "Domaine public.",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "La fiche de lecture", "url": "../bibliotheque/la-conquete-du-pain.html" },
+      { "titre": "Portrait de Kropotkine", "url": "../figures/kropotkine.html" }
+    ]
+  },
+  {
+    "id": "l-action-directe-pouget",
+    "titre": "L'Action directe",
+    "auteurs": ["Émile Pouget"],
+    "date": "1904",
+    "type": "brochure",
+    "themes": ["syndicalisme-revolutionnaire", "anarchisme"],
+    "niveau": "decouverte",
+    "langues": ["fr"],
+    "format": "Texte complet en ligne et en PDF sur ce site",
+    "nature": "historique",
+    "presentation": "La brochure du secrétaire adjoint de la CGT qui définit l'action directe des syndicalistes révolutionnaires. Domaine public.",
+    "resume": "La classe ouvrière agit elle-même, par la grève, le boycott et le sabotage, sans passer par le Parlement.",
+    "consultation": "Texte intégral (publié sur le site).",
+    "source": "Mamie Commune",
+    "url": "../livres/l-action-directe-pouget.html",
+    "licence": "Domaine public.",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Le dossier L'action directe", "url": "../experiences/action-directe-pratique.html" },
+      { "titre": "Le Père Peinard, archives numérisées", "url": "pere-peinard-1889-1890.html" }
+    ]
+  },
+  {
+    "id": "ni-dieu-ni-maitre-documentaire",
+    "titre": "Ni Dieu ni maître, une histoire de l'anarchisme",
+    "auteurs": ["Tancrède Ramonet"],
+    "date": "",
+    "type": "documentaire",
+    "themes": ["anarchisme", "histoire-ouvriere", "culture-militante"],
+    "niveau": "decouverte",
+    "langues": ["fr"],
+    "format": "Série documentaire en trois épisodes, à regarder sur ce site",
+    "nature": "historique",
+    "presentation": "Série documentaire produite pour Arte, diffusée sur Mamie Commune avec l'accord d'Arte.",
+    "resume": "Trois épisodes d'environ 52 minutes : La Volupté de la destruction (1840-1906), Terre et liberté (1900-1927) et La Mémoire des vaincus (1922-1945).",
+    "consultation": "Vidéos vues et titrées par la bande à Mamie.",
+    "source": "Mamie Commune, d'après Arte",
+    "url": "../videos.html#ni-dieu-ni-maitre",
+    "licence": "Diffusé avec l'accord d'Arte.",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Les Figures de l'anarchisme", "url": "../figures/index.html" }
+    ]
+  },
+  {
+    "id": "combahee-river-collective",
+    "titre": "Déclaration du Combahee River Collective",
+    "auteurs": ["Combahee River Collective"],
+    "date": "1977",
+    "type": "article",
+    "themes": ["antiracisme", "feminisme", "luttes-queer"],
+    "niveau": "intermediaire",
+    "langues": ["fr"],
+    "format": "Fiche de lecture sur ce site",
+    "nature": "militante",
+    "presentation": "La fiche de lecture de la bande à Mamie sur le manifeste de féministes noires et lesbiennes de Boston.",
+    "resume": "La fiche présente le contexte, la thèse et les idées du texte, ses limites et ce qu'il en reste aujourd'hui.",
+    "consultation": "Fiche écrite par la bande à Mamie.",
+    "source": "Mamie Commune",
+    "url": "../bibliotheque/combahee-river-collective.html",
+    "licence": "",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Les Black Panthers", "url": "../experiences/black-panthers-histoire.html" }
+    ]
+  },
+  {
+    "id": "legal-team-droits-manif",
+    "titre": "Tes droits en manif et en garde à vue",
+    "auteurs": ["Legal team de la Coordination contre la répression"],
+    "date": "2024",
+    "type": "guide",
+    "themes": ["droits-sociaux"],
+    "niveau": "decouverte",
+    "langues": ["fr"],
+    "format": "Guide en ligne sur ce site, avec modèles de lettres en PDF",
+    "nature": "militante",
+    "presentation": "Le guide juridique du site, d'après un document de septembre 2024 de la legal team de la Coordination contre la répression. Droit français.",
+    "resume": "Avant de partir, contrôle d'identité, garde à vue, téléphone et fichage, face à la justice, moins de 18 ans, défense collective, et trois lettres prêtes pour contester un PV de manif.",
+    "consultation": "Texte intégral (publié sur le site).",
+    "source": "Mamie Commune",
+    "url": "../manif/legal-team.html",
+    "licence": "",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Le Défenseur des droits", "url": "defenseur-des-droits.html" },
+      { "titre": "Lycéennes et lycéens face aux sanctions", "url": "../agir/lyceens-face-aux-sanctions.html" }
+    ]
+  }
+]

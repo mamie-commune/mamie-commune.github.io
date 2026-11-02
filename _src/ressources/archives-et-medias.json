@@ -1,0 +1,71 @@
+[
+  {
+    "id": "pere-peinard-1889-1890",
+    "titre": "Le Père Peinard (1889-1890), sommaires et numéros numérisés",
+    "auteurs": ["Émile Pouget"],
+    "date": "1889-1890",
+    "type": "archive",
+    "themes": ["anarchisme", "syndicalisme-revolutionnaire", "histoire-ouvriere", "culture-militante"],
+    "niveau": "approfondi",
+    "langues": ["fr"],
+    "format": "Sommaires en ligne, numéros en PDF",
+    "nature": "historique",
+    "presentation": "Les numéros 1 à 93 de l'hebdomadaire anarchiste d'Émile Pouget, du 24 février 1889 au 28 décembre 1890, mis en ligne par le site Archives Autonomies.",
+    "resume": "Pour chaque numéro, un sommaire et un PDF. La présentation explique que le journal paraît le dimanche, 16 pages pour 10 centimes, que sa couverture est dessinée par Maximilien Luce et que Luce et Paul Signac signent beaucoup de dessins de 1890. Le site prévient que la qualité des scans est médiocre (le n° 15 est incomplet) et cherche de meilleurs originaux.",
+    "consultation": "Page de sommaires et présentation du site.",
+    "source": "Archives Autonomies",
+    "url": "https://archivesautonomies.org/spip.php?article3872",
+    "licence": "Domaine public (journal de 1889-1890).",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Portrait d'Émile Pouget", "url": "../figures/emile-pouget.html" },
+      { "titre": "L'Action directe, de Pouget", "url": "../livres/l-action-directe-pouget.html" }
+    ]
+  },
+  {
+    "id": "temps-nouveaux-notice-bnf",
+    "titre": "Les Temps nouveaux (1895-1921), notice du catalogue de la BnF",
+    "auteurs": ["Jean Grave"],
+    "date": "1895-1921",
+    "type": "archive",
+    "themes": ["anarchisme", "communisme-libertaire", "histoire-ouvriere", "culture-militante"],
+    "niveau": "approfondi",
+    "langues": ["fr"],
+    "format": "Notice de catalogue, avec liens vers trois reproductions numériques",
+    "nature": "historique",
+    "presentation": "Notice de la Bibliothèque nationale de France pour Les Temps nouveaux, journal anarchiste fait par Jean Grave à Paris, qui prend la suite de La Révolte : hebdomadaire de 1895 à 1914, irrégulier de 1916 à 1919, puis mensuel jusqu'en 1921.",
+    "resume": "La notice renvoie à trois collections numérisées : Gallica (BnF), Archives Autonomies et RetroNews. Nous n'avons pas pu ouvrir Gallica nous-mêmes (le site bloque les vérifications automatiques) : on renvoie donc vers la notice, qui donne les trois liens.",
+    "consultation": "Notice du catalogue général de la BnF.",
+    "source": "Bibliothèque nationale de France",
+    "url": "https://catalogue.bnf.fr/ark:/12148/cb34359892b",
+    "licence": "Domaine public pour les numéros anciens ; conditions de réutilisation propres à chaque site.",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "La collection sur Archives Autonomies", "url": "https://archivesautonomies.org/spip.php?rubrique601" },
+      { "titre": "La Société future, de Jean Grave", "url": "../livres/la-societe-future.html" }
+    ]
+  },
+  {
+    "id": "ina-louise-michel-haute-marne",
+    "titre": "Louise Michel, son parcours haut-marnais",
+    "auteurs": ["Anne Berger", "Floréal Torralba"],
+    "date": "1993",
+    "type": "documentaire",
+    "themes": ["culture-militante", "anarchisme", "feminisme", "histoire-ouvriere"],
+    "niveau": "decouverte",
+    "langues": ["fr"],
+    "format": "Reportage télévisé en ligne, avec notice",
+    "nature": "historique",
+    "presentation": "Reportage du journal de FR3 Champagne-Ardenne diffusé le 27 février 1993, mis en ligne par l'INA sur sa fresque Panorama Grand Est.",
+    "resume": "À l'occasion d'une exposition de l'association d'historiens locaux Mémoires 52, le reportage suit Louise Michel en Haute-Marne : Vroncourt-la-Côte où elle est née, l'église d'Audeloncourt, puis l'abbaye d'Auberive devenue prison, où elle a été enfermée entre 1871 et 1873. On y entend le fondateur de l'association, Jean-Marie Chirol.",
+    "consultation": "Notice détaillée de l'INA (la vidéo n'a pas été regardée en entier).",
+    "source": "INA",
+    "url": "https://fresques.ina.fr/panorama-grand-est/fiche-media/GRDEST00146/louise-michel-son-parcours-haut-marnais.html",
+    "licence": "",
+    "verifie": "2026-11-02",
+    "complements": [
+      { "titre": "Portrait de Louise Michel", "url": "../figures/louise-michel.html" },
+      { "titre": "Mémoires de Louise Michel, le livre complet", "url": "../livres/memoires-louise-michel.html" }
+    ]
+  }
+]

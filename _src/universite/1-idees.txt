@@ -1,0 +1,374 @@
+=== introduction-anarchisme | Les idées | Introduction à l'anarchisme | Parcours découverte · 5 modules | D'où vient le mot, ce que veulent les anarchistes, comment ils comptent y arriver, et pourquoi ils ne sont pas d'accord entre eux. Le parcours pour commencer.
+<p>Mamie a commencé comme tout le monde : en entendant dire que l'anarchie, c'était le désordre. Ce parcours remet les choses à leur place, sans catéchisme : les idées, leur histoire, et les désaccords qui traversent la famille libertaire depuis le début.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'anarchisme est un ensemble d'idées et de mouvements qui veulent une société sans État ni patrons, organisée par l'entraide, la fédération et la décision collective. Il n'a ni fondateur unique ni texte sacré : c'est une tradition vivante, faite de courants qui se disputent depuis 150 ans.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Expliquer en quelques phrases ce que veulent les anarchistes, et ce qu'ils refusent.</li>
+<li>Situer quelques grandes figures et leurs époques.</li>
+<li>Distinguer les principaux courants : individualiste, communiste libertaire, anarcho-syndicaliste, plateformiste.</li>
+<li>Repérer les débats qui restent ouverts (violence, organisation, élections).</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Les mots de base</b><span>Anarchie, État, autorité, fédéralisme, autogestion : le vocabulaire en deux phrases chacun.</span><a href="../glossaire.html">Le glossaire de Mamie →</a></li>
+<li><b>Le livre pour débuter</b><span>D'où vient l'anarchisme, ce qu'il propose pour l'économie, la démocratie, l'écologie et le féminisme.</span><a href="../livres/dix-questions-anarchisme.html">Dix questions sur l'anarchisme →</a></li>
+<li><b>Cinq textes courts, dans l'ordre</b><span>La Boétie, Kropotkine, Malatesta, Lucy Parsons, Emma Goldman.</span><a href="../commencer.html">Par où commencer ? →</a></li>
+<li><b>Une petite histoire</b><span>De la Première Internationale à aujourd'hui, en quelques pages.</span><a href="../ressources/enckell-toute-petite-histoire-anarchisme.html">Une toute petite histoire de l'anarchisme →</a></li>
+<li><b>Les débats</b><span>Organisation ou spontanéité, violence ou non, voter ou non : les grandes disputes, sans trancher à ta place.</span><a href="../bibliotheque/anarchie-et-organisation.html">Anarchie et organisation, de Malatesta →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/l-anarchie-malatesta.html">L'Anarchie</a>, Errico Malatesta, 1891, en entier.</li>
+<li><a href="../livres/qu-est-ce-que-la-propriete.html">Qu'est-ce que la propriété ?</a>, Pierre-Joseph Proudhon, 1840, en entier.</li>
+<li><a href="../livres/dieu-et-l-etat.html">Dieu et l'État</a>, Mikhaïl Bakounine, en entier.</li>
+<li><a href="../bibliotheque/ce-que-je-crois.html">Ce que je crois</a>, Emma Goldman, 1908, fiche de lecture.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../ressources/pere-peinard-1889-1890.html">Le Père Peinard, 1889-1890</a> : un journal anarchiste d'époque, numérisé.</li>
+<li><a href="../ressources/cira-lausanne.html">Le CIRA de Lausanne</a> et <a href="../ressources/cira-marseille.html">le CIRA de Marseille</a> : les grands centres d'archives libertaires.</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître, une histoire de l'anarchisme</a> : trois épisodes, de 1840 à 1945.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#anarchie">Anarchie</a> <a href="../glossaire.html#federalisme">Fédéralisme</a> <a href="../glossaire.html#autogestion">Autogestion</a> <a href="../glossaire.html#action-directe">Action directe</a> <a href="../glossaire.html#plateforme">Plateformisme</a> <a href="../glossaire.html#individualisme">Individualisme</a> <a href="../glossaire.html#anarchisme-sans-adjectifs">Anarchisme sans adjectifs</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<p class="parcours-aide">Pour vérifier ce qu'on a compris, seul ou en groupe. Pas de note : les pistes indiquent où chercher.</p>
+<ol class="parcours-questions">
+<li>Pourquoi l'anarchie ne veut-elle pas dire « désordre » ? <small>Piste : module 1</small></li>
+<li>Quelle différence fais-tu entre refuser l'État et refuser toute organisation ? <small>Piste : modules 2 et 5</small></li>
+<li>Qu'est-ce qui distingue un anarchiste individualiste d'un communiste libertaire ? <small>Piste : module 4 et le glossaire</small></li>
+<li>Pourquoi Malatesta insiste-t-il sur le fait que les moyens doivent ressembler à la fin ? <small>Piste : module 5</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Dix questions sur l'anarchisme</cite>, Guillaume Davranche, Libertalia, 2020.</li>
+<li><cite>Ni Dieu ni maître, anthologie de l'anarchisme</cite>, Daniel Guérin, La Découverte.</li>
+<li><cite>Histoire de l'anarchisme</cite>, Jean Préposiet, Tallandier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../figures/index.html">Les figures de l'anarchisme</a><span>Portraits, idées et débats.</span></li>
+<li><a href="../ressources/index.html">Le centre de ressources</a><span>Archives, textes et sites vérifiés.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul><li><a href="https://fr.anarchistlibraries.net/" rel="noopener">La Bibliothèque anarchiste</a><span>Des milliers de textes en français.</span></li></ul></section>
+</div>
+
+=== communisme-libertaire | Les idées | Communisme libertaire | Parcours intermédiaire · 4 modules | Une société sans argent ni salaire où chacun reçoit selon ses besoins, sans État : l'idée de Kropotkine, ses mises en pratique et ses critiques.
+<p>« Prendre au tas » : quand Mamie a lu Kropotkine, cette idée l'a fait rire, puis réfléchir. Une société entière qui partage au lieu de vendre, est-ce possible ? Ce parcours raconte l'idée, les endroits où on a essayé, et ce qu'on peut lui objecter.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Le communisme libertaire est le courant anarchiste qui veut abolir à la fois l'État et la propriété privée des moyens de production, et répartir les richesses selon les besoins. Il se distingue du communisme d'État, qui confie ce partage à un parti au pouvoir.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre l'idée de « prise au tas » et de répartition selon les besoins.</li>
+<li>Distinguer le communisme libertaire du collectivisme de Bakounine et du communisme d'État.</li>
+<li>Connaître des expériences historiques qui s'en sont approchées.</li>
+<li>Connaître les objections : rareté, motivation, coordination à grande échelle.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Le livre fondateur</b><span>Kropotkine imagine comment une ville libérée se nourrit, se loge et s'habille.</span><a href="../livres/la-conquete-du-pain.html">La Conquête du pain →</a></li>
+<li><b>Communisme ou collectivisme ?</b><span>Le débat entre « à chacun selon ses besoins » et « à chacun selon son travail ».</span><a href="../bibliotheque/revolution-collectiviste.html">La Révolution sera-t-elle collectiviste ? →</a></li>
+<li><b>Les collectivités espagnoles</b><span>En 1936, des villages abolissent l'argent ou le remplacent par des bons.</span><a href="../experiences/espagne-1936-organisation.html">Collectivités et usines autogérées →</a></li>
+<li><b>La critique des bolcheviks</b><span>Pourquoi les communistes libertaires ont combattu la « dictature du prolétariat ».</span><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../bibliotheque/communisme-et-anarchie.html">Communisme et anarchie</a>, Pierre Kropotkine, 1903, fiche de lecture.</li>
+<li><a href="../livres/anarchie-philosophie-ideal.html">L'Anarchie, sa philosophie, son idéal</a>, Pierre Kropotkine, en entier.</li>
+<li><a href="../bibliotheque/le-communisme-n-existe-pas-en-urss.html">Le communisme n'existe pas en URSS</a>, Emma Goldman, 1935, fiche de lecture.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/temps-nouveaux-notice-bnf.html">Les Temps nouveaux (1895-1921)</a> : le journal de Jean Grave, proche de Kropotkine, avec ses collections numérisées.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître</a>, épisodes 2 et 3 : la révolution russe et l'Espagne.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#communisme-libertaire">Communisme libertaire</a> <a href="../glossaire.html#collectivisation">Collectivisation</a> <a href="../glossaire.html#soviet">Soviet</a> <a href="../glossaire.html#entraide">Entraide</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Que veut dire « prendre au tas » chez Kropotkine ? <small>Piste : module 1</small></li>
+<li>En quoi le collectivisme diffère-t-il du communisme libertaire ? <small>Piste : module 2</small></li>
+<li>Comment les collectivités espagnoles ont-elles géré l'argent ? <small>Piste : module 3</small></li>
+<li>Quelle objection te paraît la plus sérieuse, et quelle réponse les textes y apportent-ils ? <small>Piste : modules 1 et 4</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>La Conquête du pain</cite>, Pierre Kropotkine, 1892 (domaine public, en entier sur le site).</li>
+<li><cite>Espagne libertaire 1936-1939</cite>, Gaston Leval.</li>
+<li><cite>L'Autogestion dans l'Espagne révolutionnaire</cite>, Frank Mintz.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../figures/kropotkine.html">Portrait de Kropotkine</a><span>Sa vie, ses idées, sa zone d'ombre de 1916.</span></li>
+<li><a href="../figures/malatesta.html">Portrait de Malatesta</a><span>Un communiste libertaire pragmatique.</span></li>
+</ul></section>
+</div>
+
+=== entraide-mutualisme | Les idées | Entraide et mutualisme | Parcours découverte · 4 modules | De Proudhon à Kropotkine, deux façons de penser la coopération : l'échange juste entre travailleurs associés, et l'entraide comme force de la nature et de l'histoire.
+<p>Avant même de penser la révolution, les pauvres se sont débrouillés ensemble : caisses de secours, coopératives, sociétés mutuelles. Les anarchistes en ont tiré des théories. Ce parcours met côte à côte les idées et les pratiques d'hier et d'aujourd'hui.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Le mutuellisme de Proudhon imagine une économie de travailleurs associés qui échangent à leur juste valeur, avec du crédit gratuit. L'entraide de Kropotkine affirme que la coopération est un moteur de l'évolution autant que la concurrence. Les deux idées nourrissent encore les caisses de solidarité, les coopératives et les cantines populaires.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Expliquer le mutuellisme de Proudhon et ses limites.</li>
+<li>Comprendre la thèse de Kropotkine sur l'entraide.</li>
+<li>Relier ces idées à des pratiques concrètes d'aujourd'hui.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Proudhon et le mutuellisme</b><span>La propriété, la Banque du peuple, le crédit gratuit, et les vraies taches de Proudhon.</span><a href="../figures/proudhon.html">Portrait de Proudhon →</a></li>
+<li><b>L'entraide, facteur de l'évolution</b><span>Kropotkine répond aux darwinistes sociaux.</span><a href="../bibliotheque/entraide.html">L'Entraide, fiche de lecture →</a></li>
+<li><b>Les pratiques</b><span>Caisses, cantines, coopératives, bibliothèques populaires.</span><a href="../s-entraider.html">Le tiroir S'entraider →</a></li>
+<li><b>À toi de jouer</b><span>Tenir les comptes d'une caisse ou d'une cantine, avec les outils de Mamie.</span><a href="../outils/caisse.html">Calculateur de caisse →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/qu-est-ce-que-la-propriete.html">Qu'est-ce que la propriété ?</a>, Proudhon, 1840, en entier.</li>
+<li><a href="../livres/idee-generale-de-la-revolution.html">Idée générale de la Révolution au XIXe siècle</a>, Proudhon, 1851, en entier.</li>
+<li><a href="../bibliotheque/entraide.html">L'Entraide, un facteur de l'évolution</a>, Kropotkine, 1902, fiche de lecture.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/maitron.html">Le Maitron</a> : son corpus sur les mutualistes et les mutuellistes du mouvement ouvrier.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître</a>, épisode 1 : Proudhon et la naissance du mouvement.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#mutuellisme">Mutuellisme</a> <a href="../glossaire.html#entraide">Entraide</a> <a href="../glossaire.html#cooperative">Coopérative</a> <a href="../glossaire.html#caisse">Caisse de solidarité</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Que reproche Proudhon à la propriété qui permet de vivre du travail des autres ? <small>Piste : module 1</small></li>
+<li>Contre quelle idée Kropotkine écrit-il <cite>L'Entraide</cite> ? <small>Piste : module 2</small></li>
+<li>En quoi une caisse de solidarité est-elle de l'entraide et pas de la charité ? <small>Piste : modules 3 et 4</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Proudhon</cite>, Édouard Jourdain, La Découverte, coll. Repères, 2009.</li>
+<li><cite>L'Entraide, un facteur de l'évolution</cite>, Pierre Kropotkine, 1902.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../agir/caisse-de-solidarite.html">Monter une caisse de solidarité</a><span>La fiche pratique.</span></li>
+<li><a href="../figures/kropotkine.html">Portrait de Kropotkine</a><span>Le prince de l'entraide.</span></li>
+</ul></section>
+</div>
+
+=== feminisme-anarchisme | Les idées | Féminisme et anarchisme | Parcours intermédiaire · 5 modules | Des militantes de la Belle Époque à Mujeres Libres et au MLAC : comment les anarchistes ont pensé la liberté des femmes, et comment les femmes ont bousculé les anarchistes.
+<p>Les révolutionnaires parlaient de liberté, mais c'étaient souvent les femmes qui faisaient la vaisselle après la réunion. Ce parcours raconte celles qui ont refusé ça, et le long débat sur la place du féminisme dans les luttes libertaires.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'anarchisme a produit très tôt des féministes radicales, de Louise Michel à Emma Goldman. Il a aussi eu ses misogynes, à commencer par Proudhon. Ce parcours suit les idées (amour libre, contraception, autonomie des femmes), les organisations (Mujeres Libres) et les luttes (MLAC), avec leurs débats.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Connaître quelques grandes figures féministes du mouvement libertaire.</li>
+<li>Comprendre le débat sur l'organisation autonome des femmes.</li>
+<li>Relier ces idées aux luttes pour l'avortement et contre les violences sexistes.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Les pionnières</b><span>Louise Michel, Voltairine de Cleyre, Emma Goldman, et les militantes du Japon.</span><a href="../figures/index.html#femmes-en-lutte">Les portraits « Femmes en lutte » →</a></li>
+<li><b>Les femmes libres de la Belle Époque</b><span>Union libre, vie communautaire, propagande néo-malthusienne.</span><a href="../ressources/steiner-militantes-individualistes.html">L'article d'Anne Steiner →</a></li>
+<li><b>Mujeres Libres</b><span>Une organisation de femmes anarchistes pendant la révolution espagnole, et le refus de la CNT de la reconnaître.</span><a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes →</a></li>
+<li><b>Avorter en autogestion</b><span>Le MLAC désobéit à la loi avant la loi Veil.</span><a href="../experiences/mlac-histoire.html">Le MLAC →</a></li>
+<li><b>Aujourd'hui dans nos collectifs</b><span>Réagir aux violences sexistes et sexuelles, se défendre.</span><a href="../agir/violences-dans-nos-collectifs.html">La fiche pratique →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../bibliotheque/anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a>, Emma Goldman, 1896.</li>
+<li><a href="../bibliotheque/le-mariage-mauvaise-action.html">Le Mariage est une mauvaise action</a>, Voltairine de Cleyre, 1907.</li>
+<li><a href="../bibliotheque/combahee-river-collective.html">Déclaration du Combahee River Collective</a>, 1977.</li>
+<li><a href="../livres/etre-humain-male-et-femelle.html">De l'être-humain mâle et femelle</a>, Joseph Déjacque, 1857, la réponse à Proudhon.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../ressources/archives-du-feminisme.html">Archives du féminisme</a> : le guide des sources et les fonds numérisés.</li>
+<li><a href="../ressources/ina-louise-michel-haute-marne.html">Louise Michel, son parcours haut-marnais</a> : un reportage de 1993 conservé par l'INA.</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître</a>, épisodes 1 à 3.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#autodefense">Autodéfense</a> <a href="../glossaire.html#desobeissance">Désobéissance civile</a> <a href="../glossaire.html#intersectionnalite">Intersectionnalité</a> <a href="../glossaire.html#individualisme">Individualisme</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Pourquoi Goldman lie-t-elle la liberté sexuelle et la révolution ? <small>Piste : textes de référence</small></li>
+<li>Quels arguments opposait-on à une organisation de femmes au sein du mouvement ? <small>Piste : module 3</small></li>
+<li>En quoi le MLAC est-il une pratique d'action directe ? <small>Piste : module 4</small></li>
+<li>Que dit la déclaration du Combahee River Collective que les autres textes ne disent pas ? <small>Piste : textes de référence</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Vivre ma vie</cite>, Emma Goldman, 1931, rééd. L'Échappée, 2018.</li>
+<li><cite>Free Women of Spain</cite>, Martha Ackelsberg, 1991.</li>
+<li><cite>Mujeres Libres, Espagne 1936-1939</cite>, Mary Nash, La Pensée sauvage, 1977.</li>
+<li><cite>Le Spéculum, la canule et le miroir. Avorter au MLAC, une histoire</cite>, Lucile Ruault, ENS Éditions, 2023.</li>
+<li><cite>Les Pétroleuses</cite>, Édith Thomas, Gallimard, 1963.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../se-defendre.html#feminisme">Féminisme, dans le tiroir Se défendre</a><span>Autodéfense, violences, luttes.</span></li>
+<li><a href="../figures/lucia-sanchez-saornil.html">Portrait de Lucía Sánchez Saornil</a><span>Cofondatrice de Mujeres Libres.</span></li>
+</ul></section>
+</div>
+
+=== ecologie-sociale | Les idées | Écologie sociale | Parcours intermédiaire · 4 modules | De Reclus à Bookchin : l'idée que la destruction de la nature et la domination entre humains ont la même racine.
+<p>Mamie a vu arriver l'écologie dans les années 1970, et ses camarades se demander si c'était une affaire de bourgeois. Les anarchistes y avaient pourtant pensé bien avant. Ce parcours relie les géographes libertaires du XIXe siècle à l'écologie sociale de Bookchin, sans cacher les débats.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>L'écologie sociale, nommée et développée par Murray Bookchin, affirme qu'on ne réglera pas la crise écologique sans abolir les hiérarchies entre humains. Elle prolonge des intuitions d'Élisée Reclus sur l'humanité comme partie de la nature, et de Kropotkine sur la décentralisation de la production.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Énoncer la thèse centrale de l'écologie sociale.</li>
+<li>Connaître ses précurseurs libertaires.</li>
+<li>Distinguer l'écologie sociale d'un environnementalisme gestionnaire.</li>
+<li>Connaître les débats autour de Bookchin.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Reclus, le géographe</b><span>L'humanité, la nature, et le végétarisme.</span><a href="../figures/elisee-reclus.html">Portrait d'Élisée Reclus →</a></li>
+<li><b>Kropotkine et la décentralisation</b><span>Relier champs, usines et ateliers.</span><a href="../bibliotheque/champs-usines-et-ateliers.html">Champs, usines et ateliers →</a></li>
+<li><b>Bookchin et l'écologie sociale</b><span>La domination de la nature naît de la domination entre humains.</span><a href="../ressources/bookchin-ecologie-sociale.html">Qu'est-ce que l'écologie sociale →</a></li>
+<li><b>Les débats</b><span>Sa critique de l'anarchisme « mode de vie », sa rupture avec l'anarchisme en 1999, et ce qu'on lui reproche.</span><a href="../figures/murray-bookchin.html">Portrait de Murray Bookchin →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/sentiment-de-la-nature.html">Du sentiment de la nature dans les sociétés modernes</a>, Élisée Reclus, 1866, en entier.</li>
+<li><a href="../bibliotheque/vegetarisme.html">À propos du végétarisme</a>, Élisée Reclus, 1901.</li>
+<li><a href="../ressources/bookchin-ecologie-sociale.html">Qu'est-ce que l'écologie sociale</a>, Murray Bookchin, 1982.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/bibliotheque-anarchiste.html">La Bibliothèque anarchiste</a> : six textes de Bookchin traduits en français.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../experiences/zapatistes-histoire.html#videos">Les vidéos du dossier zapatiste</a>, dont « Comment sortir du capitalisme ? ».</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#ecologie-sociale">Écologie sociale</a> <a href="../glossaire.html#communalisme">Communalisme</a> <a href="../glossaire.html#zad">ZAD</a> <a href="../glossaire.html#federalisme">Fédéralisme</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Pourquoi, selon Bookchin, un « capitalisme vert » est-il impossible ? <small>Piste : module 3</small></li>
+<li>Qu'est-ce que Reclus apporte à l'écologie avant que le mot existe ? <small>Piste : module 1</small></li>
+<li>Que reproche Bookchin à l'environnementalisme ? <small>Piste : module 3</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>The Ecology of Freedom</cite>, Murray Bookchin, 1982 (traduit en français à l'Atelier de création libertaire).</li>
+<li><cite>Élisée Reclus, géographe de la liberté</cite>, Philippe Pelletier, Atelier de création libertaire, 2013.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../ressources/reporterre-bookchin.html">La pensée essentielle de Murray Bookchin</a><span>Un article de Reporterre.</span></li>
+<li><a href="../experiences/zad-histoire.html">La ZAD de Notre-Dame-des-Landes</a><span>Une lutte écologiste et sociale.</span></li>
+</ul></section>
+</div>
+
+=== communalisme-libertaire | Les idées | Communalisme libertaire | Parcours intermédiaire · 4 modules | Des sections parisiennes et de la Commune au municipalisme de Bookchin et au confédéralisme démocratique kurde : le pouvoir rendu aux assemblées locales.
+<p>Pour Mamie, tout commence en 1871 : une ville qui se gouverne elle-même. Le communalisme part de cette idée simple, faire de la commune et du quartier le lieu de la décision. Ce parcours suit l'idée jusqu'au Rojava, avec ses promesses et ses critiques.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Le communalisme, ou municipalisme libertaire, propose que les habitantes et habitants décident en assemblées locales, et que ces assemblées se fédèrent par des délégués révocables, pour remplacer peu à peu l'État. Murray Bookchin l'a théorisé ; Abdullah Öcalan s'en est inspiré pour le confédéralisme démocratique.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Expliquer le principe des assemblées fédérées et du mandat révocable.</li>
+<li>Connaître les expériences historiques invoquées (Commune de Paris, ronds-points, Rojava).</li>
+<li>Comprendre pourquoi certains anarchistes critiquent la participation aux élections municipales.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>La Commune de Paris</b><span>Élus révocables, commissions, clubs : comment la ville s'organisait.</span><a href="../experiences/commune-de-paris-organisation.html">Comment la Commune s'organisait →</a></li>
+<li><b>Le municipalisme libertaire</b><span>Bookchin rend la politique aux assemblées.</span><a href="../ressources/bookchin-municipalisme-libertaire.html">Le municipalisme libertaire →</a></li>
+<li><b>Le confédéralisme démocratique</b><span>Communes, conseils et co-présidence au Rojava.</span><a href="../experiences/rojava-organisation.html">Le dossier Rojava →</a></li>
+<li><b>Les débats</b><span>Récupération « citoyenniste », élections, rôle d'un parti : les critiques.</span><a href="../ressources/ballast-moment-communaliste.html">Le moment communaliste ? →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../ressources/bookchin-municipalisme-libertaire.html">Le municipalisme libertaire</a>, Murray Bookchin, 1995.</li>
+<li><a href="../bibliotheque/la-federation.html">La Fédération comme moyen d'union</a>, Pierre Kropotkine.</li>
+<li><a href="../bibliotheque/commune-de-paris-kropotkine.html">La Commune de Paris</a>, Pierre Kropotkine, 1881.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/la-contemporaine.html">La Contemporaine</a> : archives des mobilisations et des mouvements sociaux.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul>
+<li><a href="../videos.html#damnes-de-la-commune">Les Damnés de la Commune</a>, documentaire.</li>
+<li><a href="../experiences/rojava-histoire.html#videos">Les vidéos du dossier Rojava</a>, dont « Rojava : que vaut l'expérience politique kurde ? ».</li>
+</ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#communalisme">Communalisme</a> <a href="../glossaire.html#confederalisme-democratique">Confédéralisme démocratique</a> <a href="../glossaire.html#mandat">Mandat révocable</a> <a href="../glossaire.html#democratie-directe">Démocratie directe</a> <a href="../glossaire.html#commune">Commune</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Qu'est-ce qu'un mandat révocable, et pourquoi la Commune y tenait-elle ? <small>Piste : module 1</small></li>
+<li>Sur quels exemples Bookchin s'appuie-t-il pour défendre les assemblées ? <small>Piste : module 2</small></li>
+<li>Pourquoi des anarchistes refusent-ils de présenter des listes aux élections municipales ? <small>Piste : module 4</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Un autre futur pour le Kurdistan ? Municipalisme libertaire et confédéralisme démocratique</cite>, Pierre Bance, Noir et Rouge, 2017.</li>
+<li><cite>L'Imaginaire de la Commune</cite>, Kristin Ross, La Fabrique, 2015.</li>
+<li><cite>Pour un municipalisme libertaire</cite>, Murray Bookchin, Atelier de création libertaire.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../figures/abdullah-ocalan.html">Portrait d'Abdullah Öcalan</a><span>Et les débats qu'il suscite.</span></li>
+<li><a href="../experiences/gilets-jaunes-organisation.html">Les assemblées des Gilets jaunes</a><span>Une tentative récente de démocratie directe.</span></li>
+</ul></section>
+</div>

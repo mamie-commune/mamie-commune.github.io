@@ -59,6 +59,10 @@ figure-ito-noe | 497 x 684 | Unknown photographer | Public domain | https://comm
 figure-sanchez-saornil | 700 x 1040 | Photographe inconnu / Domaine public | CC0 | https://commons.wikimedia.org/wiki/File:Lucia_Sanchez_Saornil.jpg
 figure-durruti | 1200 x 1911 | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Jose_Buenaventura_Durruti_Dumange_1936.jpg
 figure-sail-mohamed | 358 x 412 | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Mohamed_Sa%C3%AFl_(d%C3%A9tail).jpg
+figure-rocker | 322 x 429 | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Rudolf_Rocker.jpg
+figure-landauer | 1169 x 1646 | Oscar Suck | Public domain | https://commons.wikimedia.org/wiki/File:Gustav_Landauer_(cropped).jpg
+figure-bookchin | 1200 x 1450 | Janet Biehl | Public domain | https://commons.wikimedia.org/wiki/File:Murray_Bookchin_(cropped).jpg
+figure-ocalan | 469 x 637 | Halil Uysal | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Abdullah_%C3%96calan.png
 ad-courrieres-1906 | 1200 x 765 | JÄNNICK Jérémy | Public domain | https://commons.wikimedia.org/wiki/File:Catastrophe_de_Courri%C3%A8res_-_Les_mineurs_en_gr%C3%A8ve.jpg
 ad-iww-paterson-1913 | 400 x 593 | Robert Edmond Jones | Public domain | https://commons.wikimedia.org/wiki/File:IWW_Paterson_Silk_Strike_Poster_1913.jpg
 ad-seattle-1919 | 700 x 558 | Webster & Stevens | Public domain | https://commons.wikimedia.org/wiki/File:General_strike_participants_leaving_shipyards,_Seattle,_February_1919_(MOHAI_11087).jpg

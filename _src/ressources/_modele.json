@@ -1,0 +1,23 @@
+{
+  "id": "identifiant-en-minuscules-sans-accents",
+  "titre": "Titre exact, tel qu'il apparaît à la source",
+  "auteurs": ["Prénom Nom", "ou le nom du collectif"],
+  "date": "1995",
+  "type": "livre | brochure | article | archive | podcast | documentaire | site | logiciel | guide",
+  "themes": ["anarchisme", "voir la liste dans LISEZMOI.md"],
+  "niveau": "decouverte | intermediaire | approfondi",
+  "langues": ["fr"],
+  "format": "Page web, PDF, EPUB, audio, vidéo…",
+  "nature": "militante | historique | universitaire | temoignage | institutionnelle",
+  "presentation": "Ce qu'est la ressource, en une ou deux phrases : qui la publie, quand, sous quelle forme.",
+  "resume": "Ce qu'elle dit ou contient, écrit uniquement à partir de ce qui a été lu (voir « consultation »). Laisser vide si on n'a pas lu le contenu.",
+  "consultation": "Ce que la bande a lu pour écrire la fiche : « texte intégral », « page de présentation », « sommaire »…",
+  "source": "Nom du site ou de l'institution qui publie la ressource d'origine",
+  "url": "https://adresse-de-la-source-originale",
+  "licence": "Licence si elle est indiquée à la source, sinon vide",
+  "verifie": "2026-11-02",
+  "complements": [
+    { "titre": "Une fiche ou un livre du site", "url": "../bibliotheque/une-fiche.html" },
+    { "titre": "Une autre ressource externe", "url": "https://…" }
+  ]
+}

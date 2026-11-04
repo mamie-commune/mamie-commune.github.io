@@ -14,6 +14,11 @@
 <link rel="icon" href="{{R}}assets/icone-48.png" sizes="48x48" type="image/png">
 <link rel="icon" href="{{R}}assets/icone-192.png" sizes="192x192" type="image/png">
 <link rel="apple-touch-icon" href="{{R}}assets/icone-180.png">
+<link rel="manifest" href="{{R}}manifest.webmanifest">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Mamie">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
 <link rel="stylesheet" href="{{R}}assets/fonts.css">
 <link rel="stylesheet" href="{{R}}assets/style.css">
 <script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
@@ -65,12 +70,13 @@
     <div class="foot__in">{{PIED}}</div>
     <div class="foot__legal">
       <p><b>Sources et licences.</b> Livres complets du domaine public ou diffusés avec l'accord de leurs ayants droit. Fiches de lecture rédigées avec nos mots, libres de reproduction. Guides numériques adaptés de « Libérons nos ordis » (CC BY-SA). Photos d'archives de Wikimedia Commons, avec leurs crédits. Schémas et carte de La Horde avec son accord. Fond de carte © contributeurs OpenStreetMap.</p>
-      <p class="foot__liens"><a href="{{R}}mentions-legales.html">Mentions légales</a><a href="{{R}}contribuer.html">Signaler une erreur</a><a href="{{R}}rejoindre.html">Rejoindre la bande</a><a href="{{R}}recherche.html">Recherche</a></p>
+      <p class="foot__liens"><a href="{{R}}mentions-legales.html">Mentions légales</a><a href="{{R}}contribuer.html">Signaler une erreur</a><a href="{{R}}rejoindre.html">Rejoindre la bande</a><a href="{{R}}recherche.html">Recherche</a><a href="{{R}}hors-ligne.html">Hors ligne</a><a href="{{R}}confidentialite.html">Confidentialité</a></p>
     </div>
   </div>
 </footer>
 <script src="{{R}}assets/site.js"></script>
 <script src="{{R}}assets/recherche.js"></script>
+<script src="{{R}}assets/hors-ligne.js"></script>
 {{SCRIPTS}}
 </body>
 </html>

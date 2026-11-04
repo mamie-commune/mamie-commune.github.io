@@ -1,7 +1,7 @@
 === faire-un-tract | Faire passer le message | Faire un tract qu'on a envie de lire | D'après le guide du droit d'affichage de la MAIF et les pratiques militantes · 2026 | Un message, un titre qui claque, un appel à agir, les mentions à ne pas oublier, et comment le distribuer sans finir à la poubelle.
 <p>Mamie a distribué des tracts devant des usines, des facs et des marchés pendant des décennies. Sa règle : <strong>un tract, c'est une seule idée et un rendez-vous</strong>. Tout le reste va dans la brochure, le site ou la discussion qui suit.</p>
 
-<h2 id="contenu">Ce qu'on met dedans</h2>
+<h2 id="ce-qu-on-met-dedans">Ce qu'on met dedans</h2>
 <ol class="principes">
 <li><b>Un titre</b>qui dit le problème en cinq mots</li>
 <li><b>Trois paragraphes</b>ce qui se passe, pourquoi c'est injuste, ce qu'on propose</li>

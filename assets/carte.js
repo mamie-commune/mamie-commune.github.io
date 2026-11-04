@@ -52,7 +52,7 @@
     const c = CATS[p.c] || { label: p.c, color: "#999" }, fr = fraicheur(p);
     const res = [...(p.res || []), ...(RES_CAT[p.c] || [])];
     return `<div class="fiche-lieu"><span class="pcat" style="border-left-color:${c.color}">${esc(c.label)}</span>
-      <h4>${esc(p.n)}</h4>${p.org ? `<p class="fiche-lieu__org">${esc(p.org)}</p>` : ""}<p class="fiche-lieu__lieu">${esc(lieuDe(p) || (p.portee === "national" ? "Réseau national" : ""))}</p>
+      <h2 class="fiche-lieu__nom">${esc(p.n)}</h2>${p.org ? `<p class="fiche-lieu__org">${esc(p.org)}</p>` : ""}<p class="fiche-lieu__lieu">${esc(lieuDe(p) || (p.portee === "national" ? "Réseau national" : ""))}</p>
       <p>${esc(p.d)}</p>
       <dl class="fiche-lieu__dl">${p.site ? `<dt>Site officiel</dt><dd>${lien(p.site, p.site.replace(/^https?:\/\/(www\.)?/, "").replace(/\/$/, ""))}</dd>` : ""}
         ${p.annuaire ? `<dt>Près de chez toi</dt><dd>${lien(p.annuaire, "Annuaire local officiel")}</dd>` : ""}
@@ -205,7 +205,7 @@
     if (!msg && !URL_OK(v("#pSite"))) msg = "Le site officiel doit commencer par http:// ou https://.";
     if (!msg && PERSO(`${v("#pContact")} ${v("#pDesc")} ${v("#pVille")}`)) msg = "Pas de numéro de portable ni d'adresse de rue : seulement une ville et les contacts publics de la structure (site, adresse de contact du collectif).";
     if (!msg && !($("#pOk1").checked && $("#pOk2").checked)) msg = "Coche les deux engagements : structure publique, coordonnées publiées par la structure.";
-    err.hidden = !msg; err.textContent = msg; if (msg) return;
+    err.hidden = !msg; err.textContent = msg; if (msg) { $("#pResultat").hidden = true; return; }   // pas d'ancienne proposition à côté de l'erreur
     const objet = { type: "Feature", geometry: draft ? { type: "Point", coordinates: [draft.lng, draft.lat] } : null, properties: { nom: v("#pNom"), categorie: v("#pCat"), ville: v("#pVille"), departement: v("#pDep"), site: v("#pSite"), contact: v("#pContact"), description: v("#pDesc"), source: v("#pSource"), etat: "proposition", proposeLe: new Date().toISOString().slice(0, 10) } };
     const texte = `PROPOSITION POUR LA CARTE DE MAMIE COMMUNE\nNom : ${v("#pNom")}\nCatégorie : ${CATS[v("#pCat")].label}\nVille : ${v("#pVille")}${v("#pDep") ? ` (${v("#pDep")})` : ""}\nSite officiel : ${v("#pSite") || "—"}\nContact public : ${v("#pContact") || "—"}\nCe qu'elle fait : ${v("#pDesc")}\nSource : ${v("#pSource")}${draft ? `\nPosition (arrondie) : ${draft.lat}, ${draft.lng}` : ""}`;
     resultat($("#pResultat"), texte, objet, "proposition-" + norm(v("#pNom")).replace(/[^a-z0-9]+/g, "-").slice(0, 40) + ".json");

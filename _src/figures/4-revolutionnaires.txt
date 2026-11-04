@@ -141,6 +141,6 @@
 </ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/Sa%C3%AFl_Mohamed" rel="noopener">Saïl Mohamed sur Wikipédia</a><span>Repères biographiques.</span></li>
-<li><a href="https://maitron.fr/spip.php?page=recherche_avancee&amp;recherche=Sa%C3%AFl+Mohamed" rel="noopener">Le Maitron</a><span>Le dictionnaire biographique du mouvement ouvrier.</span></li>
+<li><a href="https://maitron.fr/sail-mohamed-sail-mohand-ameziane-dit-dictionnaire-des-anarchistes/" rel="noopener">Le Maitron</a><span>Sa notice dans le Dictionnaire des anarchistes.</span></li>
 </ul></section>
 </div>

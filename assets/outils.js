@@ -36,7 +36,8 @@
     clearTimeout(bouton._t); bouton._t = setTimeout(() => { bouton.textContent = avant; }, 2200);
   }
   // CSV au point-virgule avec BOM : s'ouvre directement dans LibreOffice Calc et Excel en français.
-  const csv = (lignes) => "﻿" + lignes.map((l) => l.map((c) => { const s = String(c ?? ""); return /[";\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; }).join(";")).join("\r\n");
+  // Une cellule qui commence par =, @ ou + (hors numéro) serait lue comme une formule par le tableur : on la neutralise.
+  const csv = (lignes) => "﻿" + lignes.map((l) => l.map((c) => { let s = String(c ?? ""); if (/^[=@]|^\+(?![\d ])/.test(s)) s = "'" + s; return /[";\n]/.test(s) ? `"${s.replace(/"/g, '""')}"` : s; }).join(";")).join("\r\n");
   function lireFichier(accept) {
     return new Promise((ok) => {
       const i = document.createElement("input"); i.type = "file"; i.accept = accept;
@@ -261,11 +262,17 @@
     barre.append(
       bouton("Enregistrer le brouillon (fichier)", "", () => { telecharger(`brouillon-${def.id}-${nomFichier()}.json`, JSON.stringify({ outil: def.id, version: 1, valeurs: etat }, null, 2), "application/json"); modifie = false; racineEl.classList.remove("is-modifie"); }),
       bouton("Ouvrir un brouillon", "", async (e) => {
+        const b = e.currentTarget;   // à lire avant l'attente : après, l'événement n'a plus de bouton
         const f = await lireFichier(".json,application/json"); if (!f) return;
         try {
           const d = JSON.parse(f.contenu); if (d.outil !== def.id) throw new Error("autre outil");
-          champsTous.forEach((c) => { if (d.valeurs && c.id in d.valeurs) etat[c.id] = d.valeurs[c.id]; });
-          dessinerFormulaire(); rendre(); signaler(e.currentTarget, "Brouillon ouvert");
+          // On ne reprend que les champs connus, et seulement si la valeur a le bon type (texte, liste, tableau…).
+          champsTous.forEach((c) => {
+            if (!d.valeurs || !Object.prototype.hasOwnProperty.call(d.valeurs, c.id)) return;
+            const v = d.valeurs[c.id], vide = valeurVide(c);
+            if (Array.isArray(vide) ? Array.isArray(v) && v.every((x) => x !== null && typeof x === (vide.length ? typeof vide[0] : typeof x) && (typeof x !== "object" || !Array.isArray(x))) : typeof v === typeof vide) etat[c.id] = v;
+          });
+          dessinerFormulaire(); rendre(); signaler(b, "Brouillon ouvert");
         } catch (err) { alert("Ce fichier n'est pas un brouillon de cet outil."); }
       }),
       bouton("Tout effacer", "outil-btn--danger", () => {

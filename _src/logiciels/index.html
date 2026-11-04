@@ -1,0 +1,35 @@
+<!-- Annuaire des logiciels libres · Mamie Commune | Dix-huit logiciels libres pour s'organiser sans les géants du numérique : Linux, Firefox, Signal, CryptPad, Nextcloud, Mobilizon, Jitsi, Loomio, Mastodon, OpenStreetMap, Tor Browser, KeePassXC, LibreOffice, GIMP, Inkscape, Scribus, Audacity, OBS Studio. Licence, plateformes, difficulté, documentation et limites, vérifiées. | logiciels | <script src="../assets/logiciels.js"></script> -->
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../guides/index.html">Protection numérique</a><span>/</span><span>Logiciels libres</span></p>
+  <p class="eyebrow">L'atelier de la bande à Mamie</p>
+  <h1>Annuaire des logiciels libres</h1>
+  <p class="lead">Mamie ne laisserait pas la clé de la cave au propriétaire. Pour l'ordinateur, c'est pareil : la bande a choisi {{LOGI_NB}} logiciels libres qu'elle utilise pour écrire, se parler, s'organiser et créer. Pour chacun : à quoi il sert, sa licence, où il marche, s'il est facile, où apprendre, et surtout ses limites. Aucun logiciel ne protège de tout : ce sont des outils, pas des boucliers.</p>
+</div></header>
+<section class="sec" style="border-top:0">
+  <div class="wrap">
+    <h2 class="sr">Filtrer les logiciels</h2>
+    <div class="logi-filtres" id="logiFiltres">
+      <div><p class="logi-filtres__tit">Pour quoi faire ?</p><div class="chips" role="group" aria-label="Filtrer par usage">{{LOGI_CATS}}</div></div>
+      <div><p class="logi-filtres__tit">Sur quel appareil ?</p><div class="chips" role="group" aria-label="Filtrer par plateforme">{{LOGI_PF}}</div></div>
+      <div><p class="logi-filtres__tit">Quel niveau ?</p><div class="chips" role="group" aria-label="Filtrer par difficulté">{{LOGI_DIF}}</div></div>
+    </div>
+    <p class="res-compte" id="logiCompte" aria-live="polite">{{LOGI_NB}} logiciels</p>
+    <nav class="logi-sommaire" aria-label="Aller à un logiciel" id="logiSommaire"></nav>
+    <div class="logi-liste" id="logiListe">
+{{LOGI_FICHES}}
+    </div>
+    <p class="logi-vide" id="logiVide" hidden>Aucun logiciel ne correspond à tous ces filtres. Enlève-en un.</p>
+  </div>
+</section>
+<section class="sec sec--alt" id="methode">
+  <div class="wrap">
+    <header class="sec__head"><p class="eyebrow">// comment on a fait</p><h2>Comment la bande vérifie</h2></header>
+    <div class="rubriques">
+      <div class="rubrique"><span class="rubrique__n">1</span><h3>La licence à la source</h3><p>Chaque licence est relevée sur le dépôt de code officiel ou sur la fiche Wikidata du logiciel, avec un lien « (source) » pour aller voir.</p></div>
+      <div class="rubrique"><span class="rubrique__n">2</span><h3>Les adresses testées</h3><p>Le site officiel et chaque lien de documentation ont été ouverts le jour de la vérification. La date est écrite sous chaque fiche.</p></div>
+      <div class="rubrique"><span class="rubrique__n">3</span><h3>Les limites d'abord</h3><p>Pas de promesse : chaque fiche dit ce que le logiciel ne fait pas, et contre quoi il ne protège pas.</p></div>
+      <div class="rubrique"><span class="rubrique__n">4</span><h3>Données ouvertes</h3><p>L'annuaire entier se télécharge au format JSON, réutilisable par d'autres collectifs : <a href="../data/logiciels.json" download>logiciels.json</a>.</p></div>
+    </div>
+    <div class="callout"><p><strong>Une information a changé, un logiciel manque ?</strong> Écris à la bande en message privé : elle revérifie et corrige la fiche.</p><div class="callout__links"><a href="../contribuer.html">Proposer une correction →</a><a href="../guides/utiliser-des-logiciels-libres.html">Utiliser des logiciels libres →</a></div></div>
+  </div>
+</section>

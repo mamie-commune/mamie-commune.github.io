@@ -1,0 +1,27 @@
+{
+  "name": "Mamie Commune",
+  "short_name": "Mamie",
+  "description": "La boîte à outils militante de Mamie et de sa bande : bibliothèque, guides, outils, carte des collectifs. Fonctionne aussi hors ligne.",
+  "lang": "fr",
+  "dir": "ltr",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ebe3d1",
+  "theme_color": "#141110",
+  "categories": ["education", "books", "social"],
+  "icons": [
+    { "src": "assets/icone-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icone-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icone-masquable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "assets/icone-masquable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Les outils de Mamie", "short_name": "Outils", "url": "outils/", "icons": [{ "src": "assets/icone-192.png", "sizes": "192x192" }] },
+    { "name": "Tes droits en manif", "short_name": "Droits", "url": "manif/legal-team", "icons": [{ "src": "assets/icone-192.png", "sizes": "192x192" }] },
+    { "name": "Packs hors ligne", "short_name": "Packs", "url": "hors-ligne#packs", "icons": [{ "src": "assets/icone-192.png", "sizes": "192x192" }] },
+    { "name": "Chercher", "short_name": "Chercher", "url": "recherche", "icons": [{ "src": "assets/icone-192.png", "sizes": "192x192" }] }
+  ]
+}

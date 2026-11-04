@@ -2,7 +2,7 @@ param([string]$Root = ".", [int]$Port = 8765)
 # Petit serveur de prévisualisation : fichiers lus en flux, avec prise en charge des requêtes Range (avance rapide vidéo).
 if ($env:PORT) { $Port = [int]$env:PORT }
 $root = (Resolve-Path $Root).Path
-$types = @{ ".html"="text/html; charset=utf-8"; ".css"="text/css; charset=utf-8"; ".js"="application/javascript; charset=utf-8"; ".json"="application/json"; ".svg"="image/svg+xml"; ".webp"="image/webp"; ".pdf"="application/pdf"; ".mp4"="video/mp4"; ".png"="image/png"; ".jpg"="image/jpeg" }
+$types = @{ ".html"="text/html; charset=utf-8"; ".css"="text/css; charset=utf-8"; ".js"="application/javascript; charset=utf-8"; ".json"="application/json"; ".svg"="image/svg+xml"; ".webp"="image/webp"; ".pdf"="application/pdf"; ".mp4"="video/mp4"; ".png"="image/png"; ".jpg"="image/jpeg"; ".webmanifest"="application/manifest+json"; ".woff2"="font/woff2" }
 $l = New-Object System.Net.HttpListener
 $l.Prefixes.Add("http://localhost:$Port/")
 $l.Start()

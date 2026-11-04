@@ -77,7 +77,7 @@
     setCurrent(n);
   }
 
-  pdfjsLib.getDocument(url).promise.then(async (doc) => {
+  pdfjsLib.getDocument({ url, isEvalSupported: false }).promise.then(async (doc) => {
     pdf = doc;
     msg.remove();
     $("rCount").textContent = "/ " + pdf.numPages;

@@ -1,0 +1,299 @@
+=== utiliser-des-logiciels-libres | Ordinateur | Utiliser des logiciels libres | Ce qu'est un logiciel libre, où le télécharger sans se faire piéger, quels formats choisir et où trouver de l'aide.
+<p>Mamie dit toujours : un outil dont on ne peut pas ouvrir le capot finit par te conduire où il veut. Un logiciel libre, c'est un outil dont le capot s'ouvre. Pas besoin de savoir programmer pour en profiter : il suffit de savoir le choisir et l'installer proprement.</p>
+
+<h2 id="libre">Libre, ça veut dire quoi ?</h2>
+<p>Un logiciel est libre quand sa licence te donne quatre libertés : <strong>l'utiliser</strong> pour ce que tu veux, <strong>étudier</strong> comment il marche (son code source est public), <strong>le modifier</strong>, et <strong>le partager</strong>, modifié ou non. Libre ne veut pas toujours dire gratuit, mais presque tous ceux de l'<a href="../logiciels/index.html">annuaire de la bande</a> le sont.</p>
+<ul>
+<li><strong>Pourquoi c'est important pour un collectif</strong> : personne ne peut fermer le robinet, augmenter le prix ou changer les règles du jour au lendemain. Si l'équipe d'origine arrête, d'autres peuvent reprendre le code.</li>
+<li><strong>Ce que ça ne veut pas dire</strong> : libre n'est pas synonyme de « sans défaut » ni de « sans risque ». Un logiciel libre a des bugs, comme les autres ; la différence, c'est que tout le monde peut les chercher et les corriger.</li>
+</ul>
+
+<h2 id="installer">Installer proprement</h2>
+<ol>
+<li><strong>Télécharge sur le site officiel</strong>, celui indiqué dans l'annuaire. Les moteurs de recherche affichent parfois en premier des sites de téléchargement qui ajoutent des publicités ou des logiciels indésirables.</li>
+<li><strong>Sous Linux</strong>, passe par la logithèque (le « Gestionnaire de logiciels » de Linux Mint) : les logiciels y sont vérifiés et mis à jour automatiquement.</li>
+<li><strong>Sur Android</strong>, le magasin F-Droid ne propose que des applications libres : voir <a href="android.html">le guide Android</a>.</li>
+<li><strong>Fais les mises à jour</strong>. Elles corrigent des failles de sécurité : c'est le geste le plus utile de tous.</li>
+</ol>
+<div class="note"><p>Commence sans tout casser : la plupart de ces logiciels marchent aussi sous Windows et macOS. Installe LibreOffice, Firefox ou KeePassXC sur ton ordinateur actuel. Le jour où tu passes à <a href="installer-linux-mint.html">Linux Mint</a>, tu connais déjà tes outils.</p></div>
+
+<h2 id="formats">Choisir des formats ouverts</h2>
+<p>Un format ouvert est un type de fichier dont la description est publique : n'importe quel logiciel peut le lire, aujourd'hui comme dans vingt ans. C'est la mémoire du collectif.</p>
+<div class="tbl"><table>
+<thead><tr><th>Pour…</th><th>Préfère</th><th>Remarque</th></tr></thead>
+<tbody>
+<tr><td>Un texte à modifier</td><td>ODT (LibreOffice)</td><td>Pour l'envoyer à quelqu'un qui n'a que Word, le DOCX marche aussi.</td></tr>
+<tr><td>Un texte à lire ou imprimer</td><td>PDF</td><td>La mise en page reste la même partout.</td></tr>
+<tr><td>Des comptes, une liste</td><td>ODS ou CSV</td><td>Le CSV s'ouvre partout ; c'est l'export des outils de Mamie.</td></tr>
+<tr><td>Des notes simples</td><td>Texte brut ou Markdown</td><td>Lisible même sans logiciel particulier.</td></tr>
+<tr><td>Une image</td><td>PNG, JPEG, SVG</td><td>SVG pour un logo dessiné dans Inkscape.</td></tr>
+</tbody></table></div>
+
+<h2 id="aide">Trouver de l'aide</h2>
+<ul>
+<li>Chaque fiche de l'<a href="../logiciels/index.html">annuaire</a> renvoie vers la documentation officielle.</li>
+<li>Les « install parties » et les associations d'entraide informatique de ta ville aident à installer Linux ou des logiciels libres : cherche dans la <a href="../carte.html">carte des collectifs</a> ou auprès de l'April.</li>
+<li>Framalibre, l'annuaire de Framasoft, recense des centaines d'autres logiciels libres.</li>
+</ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul>
+<li><a href="../logiciels/index.html">Annuaire des logiciels libres</a><span>Dix-huit logiciels vérifiés, avec leurs limites.</span></li>
+<li><a href="pourquoi-le-libre.html">Pourquoi passer au libre ?</a><span>Les raisons de changer.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>L'annuaire des logiciels libres de Framasoft.</span></li>
+<li><a href="https://www.april.org" rel="noopener">April</a><span>L'association de promotion et de défense du logiciel libre.</span></li>
+</ul></section>
+</div>
+<p class="credit">Guide écrit par la bande à Mamie (novembre 2026). Libre de reproduction et de modification sous licence Creative Commons BY-SA, en citant la source.</p>
+
+=== proteger-ses-donnees | Sécurité | Protéger ses données | Savoir contre quoi on se protège, verrouiller ses appareils, faire les mises à jour, nettoyer ses photos, séparer ses identités : l'hygiène numérique de base.
+<p>Mamie n'a jamais cru aux serrures magiques. Elle croit aux habitudes : fermer derrière soi, ne pas laisser traîner les papiers, savoir qui a les clés. Pour les données, c'est pareil. Aucun logiciel ne protège de tout : ce guide donne les gestes qui réduisent vraiment les risques.</p>
+
+<h2 id="contre-quoi">D'abord : contre quoi ?</h2>
+<p>On ne se protège pas de la même façon contre une publicité qui piste, un ex jaloux, un groupe d'extrême droite qui cherche des noms ou une enquête de police. Avant de tout changer, pose-toi quatre questions, seule ou en collectif :</p>
+<ol>
+<li>Qu'est-ce que je veux protéger ? (des messages, une liste de contacts, des photos, mon adresse…)</li>
+<li>De qui ?</li>
+<li>Que se passe-t-il si ça fuit ?</li>
+<li>Quels efforts suis-je prête ou prêt à faire, et les autres membres du groupe ?</li>
+</ol>
+<p>Le guide d'autodéfense numérique et le guide de l'EFF (liens plus bas) détaillent cette méthode.</p>
+
+<h2 id="appareils">Verrouiller ses appareils</h2>
+<ul>
+<li><strong>Un vrai code</strong> sur le téléphone : au moins six chiffres, mieux une phrase de passe. Pas de schéma : il se devine aux traces de doigts.</li>
+<li><strong>Chiffrer le disque</strong> de l'ordinateur : l'option se coche pendant l'installation de Linux Mint ; sous Windows et macOS, elle s'appelle BitLocker ou FileVault. Un téléphone récent verrouillé par un code est chiffré. Voir <a href="comprendre-le-chiffrement.html">Comprendre le chiffrement</a>.</li>
+<li><strong>Les mises à jour</strong>, toujours, sur le téléphone, l'ordinateur et les applications : elles bouchent les failles connues.</li>
+<li><strong>Un mot de passe différent par compte</strong>, rangé dans un gestionnaire : voir <a href="gerer-ses-mots-de-passe.html">Gérer ses mots de passe</a>.</li>
+</ul>
+
+<h2 id="traces">Limiter les traces</h2>
+<ul>
+<li><strong>Les photos</strong> contiennent des métadonnées : date, modèle d'appareil, parfois la position GPS. Avant de publier, fais une capture d'écran de la photo, ou exporte-la depuis GIMP sans les métadonnées. Floute les visages de celles et ceux qui n'ont pas dit oui.</li>
+<li><strong>Le navigateur</strong> : Firefox avec uBlock Origin, voir <a href="ublock-origin.html">le guide</a>. Pour cacher ton adresse IP à un site, Tor Browser.</li>
+<li><strong>Les autorisations des applications</strong> : refuse l'accès aux contacts, à la position et au micro quand ce n'est pas nécessaire.</li>
+<li><strong>Le nettoyage</strong> : supprime les comptes que tu n'utilises plus, et les vieilles conversations de groupe qui ne servent plus.</li>
+</ul>
+
+<h2 id="identites">Séparer ses identités</h2>
+<p>Ton compte militant n'a pas à connaître ta famille, ni ton compte pro tes collectifs. Une adresse e-mail différente, un pseudonyme, et pas de photo de toi : ce sont des cloisons simples. Elles ne tiennent que si on ne les mélange pas (même photo de profil, même pseudo qu'ailleurs, même numéro).</p>
+
+<h2 id="collectif">En collectif</h2>
+<ul>
+<li>Moins on garde de données, moins il y en a à protéger : pas de liste nominative si un prénom suffit, pas d'adresse si elle ne sert à rien.</li>
+<li>Décidez ensemble ce qui se dit sur Signal, ce qui se dit seulement de vive voix, et ce qui ne s'écrit nulle part.</li>
+<li>Avant une manif, lis la fiche <a href="../manif/legal-team.html">Tes droits en manif</a> : elle dit quoi faire de son téléphone.</li>
+<li>Quelqu'un perd son téléphone ? Retirez-le des groupes Signal et changez les mots de passe partagés.</li>
+</ul>
+<div class="note"><p>Personne n'est invulnérable, et ce n'est pas le but. Le but, c'est de ne pas faciliter le travail de celles et ceux qui nous surveillent, et de protéger les camarades autant que soi.</p></div>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Guides</h3><ul>
+<li><a href="https://guide.boum.org" rel="noopener">Guide d'autodéfense numérique</a><span>Le grand classique en français, pour comprendre en profondeur.</span></li>
+<li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Le guide de l'Electronic Frontier Foundation, en français.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="sauvegardes.html">Faire des sauvegardes</a><span>Protéger ses données, c'est aussi ne pas les perdre.</span></li>
+<li><a href="../logiciels/index.html">Annuaire des logiciels libres</a><span>Tor Browser, KeePassXC, Signal et les autres, avec leurs limites.</span></li>
+</ul></section>
+</div>
+<p class="credit">Guide écrit par la bande à Mamie (novembre 2026). Libre de reproduction et de modification sous licence Creative Commons BY-SA, en citant la source.</p>
+
+=== gerer-ses-mots-de-passe | Sécurité | Gérer ses mots de passe | Une phrase de passe solide, un mot de passe différent par compte, un coffre comme KeePassXC et la double authentification.
+<p>Mamie a gardé longtemps le même code pour sa porte, sa carte bleue et son cadenas de vélo. Le jour où quelqu'un l'a trouvé, il avait tout. Sur internet, c'est la même histoire en plus rapide : quand un site se fait voler sa base de données, les mots de passe sont essayés partout ailleurs.</p>
+
+<h2 id="regles">Les trois règles</h2>
+<ol>
+<li><strong>Un mot de passe différent pour chaque compte.</strong> C'est la règle la plus importante.</li>
+<li><strong>Des mots de passe longs.</strong> La longueur compte plus que les signes bizarres.</li>
+<li><strong>Un endroit sûr pour les ranger</strong> : un gestionnaire de mots de passe, pas un carnet dans le sac ni un fichier « mdp.txt ».</li>
+</ol>
+
+<h2 id="phrase">La phrase de passe</h2>
+<p>Pour les quelques mots de passe que tu dois retenir (le code de l'ordinateur, le mot de passe maître du coffre), prends une <strong>phrase de passe</strong> : cinq ou six mots tirés au hasard, par exemple avec des dés et une liste de mots, ou avec le générateur de KeePassXC. Elle est longue, donc solide, et facile à retenir avec une petite histoire.</p>
+<ul>
+<li>Ne prends pas une phrase connue (citation, paroles de chanson) : elles sont dans les listes des pirates.</li>
+<li>Pas de date de naissance, de nom d'animal ou de ville : ça se trouve sur les réseaux.</li>
+</ul>
+
+<h2 id="coffre">Le coffre : KeePassXC</h2>
+<p><a href="../logiciels/index.html#keepassxc">KeePassXC</a> range tous tes mots de passe dans un fichier chiffré, sur ton ordinateur. Tu ne retiens que le mot de passe maître.</p>
+<ol>
+<li>Installe KeePassXC depuis son site officiel ou la logithèque de Linux.</li>
+<li>Crée une nouvelle base de données et choisis une phrase de passe comme mot de passe maître.</li>
+<li>Pour chaque compte, ajoute une entrée et utilise le générateur pour créer un mot de passe long.</li>
+<li>Change en priorité les mots de passe de ta boîte e-mail (elle sert à réinitialiser tout le reste), puis des comptes importants.</li>
+<li><strong>Sauvegarde le fichier</strong> (une copie sur une clé USB rangée ailleurs) : voir <a href="sauvegardes.html">Faire des sauvegardes</a>.</li>
+</ol>
+<div class="note"><p>Si tu oublies le mot de passe maître, personne ne pourra ouvrir le coffre, pas même la bande. Écris-le une fois sur papier et range-le dans un endroit vraiment sûr, le temps de le retenir.</p></div>
+
+<h2 id="double">La double authentification</h2>
+<p>La double authentification (ou « 2FA ») demande, en plus du mot de passe, un code à usage unique. Même si ton mot de passe fuit, le compte reste fermé.</p>
+<ul>
+<li>Préfère un code donné par une application (Aegis sur Android, par exemple) plutôt qu'un code par SMS : un numéro de téléphone peut être détourné.</li>
+<li>Garde les codes de secours fournis par le site, dans ton coffre KeePassXC.</li>
+</ul>
+
+<h2 id="collectif">Les mots de passe du collectif</h2>
+<ul>
+<li>Un compte partagé (le compte Instagram du collectif, la boîte e-mail commune) : une base KeePassXC à part, partagée seulement avec les personnes mandatées.</li>
+<li>Quand quelqu'un quitte le groupe, on change les mots de passe qu'il ou elle connaissait. Ce n'est pas de la méfiance, c'est de l'hygiène.</li>
+<li>Jamais de mot de passe envoyé dans un groupe de discussion : de vive voix, ou dans un message Signal éphémère.</li>
+</ul>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Documentation</h3><ul>
+<li><a href="https://keepassxc.org/docs/KeePassXC_GettingStarted" rel="noopener">Prise en main de KeePassXC</a><span>Le guide officiel, en anglais.</span></li>
+<li><a href="https://www.cnil.fr/fr/les-conseils-de-la-cnil-pour-un-bon-mot-de-passe" rel="noopener">Les conseils de la CNIL pour un bon mot de passe</a><span>La recommandation officielle française.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="proteger-ses-donnees.html">Protéger ses données</a><span>Les autres gestes de base.</span></li>
+</ul></section>
+</div>
+<p class="credit">Guide écrit par la bande à Mamie (novembre 2026). Libre de reproduction et de modification sous licence Creative Commons BY-SA, en citant la source.</p>
+
+=== comprendre-le-chiffrement | Sécurité | Comprendre le chiffrement | Le cadenas du navigateur, le chiffrement de bout en bout, le disque chiffré, les métadonnées : ce que chacun protège et ce qu'il ne protège pas.
+<p>Chiffrer, c'est transformer un message en charabia que seule la personne qui a la bonne clé peut remettre en clair. Mamie a connu les codes écrits à l'encre sympathique ; les maths d'aujourd'hui sont bien plus solides. Mais il y a plusieurs sortes de chiffrement, qui ne protègent pas la même chose.</p>
+
+<h2 id="transport">Le cadenas du navigateur (HTTPS)</h2>
+<p>Le petit cadenas à côté de l'adresse veut dire que la connexion entre ton appareil et le site est chiffrée. Le wifi du café ou ton fournisseur d'accès ne peuvent pas lire ce que tu tapes.</p>
+<ul>
+<li><strong>Ce qu'il protège</strong> : le trajet.</li>
+<li><strong>Ce qu'il ne protège pas</strong> : le site lui-même lit tout ce que tu lui envoies. Un site d'arnaque peut très bien avoir un cadenas. Et ton fournisseur d'accès voit quand même le nom du site visité.</li>
+</ul>
+
+<h2 id="bout-en-bout">Le chiffrement de bout en bout</h2>
+<p>Le message est chiffré sur ton téléphone et déchiffré seulement sur celui de la personne qui le reçoit. Le service au milieu (Signal, par exemple) transporte du charabia qu'il ne peut pas lire.</p>
+<ul>
+<li><strong>Ce qu'il protège</strong> : le contenu des messages, même contre l'entreprise qui fait marcher le service.</li>
+<li><strong>Ce qu'il ne protège pas</strong> : les deux bouts. Sur un téléphone déverrouillé, saisi ou infecté, les messages se lisent en clair. Et la personne qui reçoit peut toujours faire une capture d'écran.</li>
+<li><strong>Qui le fait</strong> : Signal, par défaut, pour tout. CryptPad pour les documents. Pas Mastodon pour les messages privés, pas les e-mails ordinaires.</li>
+</ul>
+
+<h2 id="disque">Le disque chiffré</h2>
+<p>Les fichiers sont chiffrés sur l'appareil lui-même. Sans le mot de passe, un ordinateur volé ou saisi ne livre rien… tant qu'il est éteint.</p>
+<ul>
+<li><strong>Où l'activer</strong> : pendant l'installation de Linux Mint (une case propose de chiffrer la nouvelle installation), BitLocker sous Windows, FileVault sous macOS. Les téléphones récents sont chiffrés dès qu'un code de verrouillage est défini.</li>
+<li><strong>Ce qu'il ne protège pas</strong> : un appareil allumé et déverrouillé. Et un mot de passe faible se casse.</li>
+</ul>
+
+<h2 id="metadonnees">Les métadonnées</h2>
+<p>Le chiffrement cache ce que tu dis, rarement à qui, quand et d'où. Ces informations (les métadonnées) racontent déjà beaucoup : qui parle à qui, à quelle heure, combien de fois. Signal en garde très peu ; les e-mails et les réseaux sociaux en gardent beaucoup.</p>
+
+<h2 id="limites">Les limites</h2>
+<ul>
+<li>Le chiffrement ne remplace pas la prudence : ce qui ne doit pas être su ne s'écrit pas.</li>
+<li>Il dépend des mises à jour et de la solidité de tes mots de passe.</li>
+<li>Face à la police, ton code de téléphone pose une question juridique : lis la fiche <a href="../manif/legal-team.html">Tes droits en manif</a>.</li>
+</ul>
+<div class="tbl"><table>
+<thead><tr><th>Quoi</th><th>Protège</th><th>Ne protège pas</th></tr></thead>
+<tbody>
+<tr><td>HTTPS (cadenas)</td><td>Le trajet jusqu'au site</td><td>Ce que le site fait de tes données</td></tr>
+<tr><td>Bout en bout (Signal)</td><td>Le contenu, même contre le service</td><td>Un téléphone ouvert, une capture d'écran</td></tr>
+<tr><td>Disque chiffré</td><td>Un appareil éteint, volé ou saisi</td><td>Un appareil allumé et déverrouillé</td></tr>
+</tbody></table></div>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Guides</h3><ul>
+<li><a href="https://guide.boum.org" rel="noopener">Guide d'autodéfense numérique</a><span>Les explications détaillées sur le chiffrement et ses limites.</span></li>
+<li><a href="https://ssd.eff.org/fr" rel="noopener">Autodéfense contre la surveillance</a><span>Fiches de l'EFF en français.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="signal.html">S'organiser sur Signal</a><span>Le chiffrement de bout en bout au quotidien.</span></li>
+<li><a href="gerer-ses-mots-de-passe.html">Gérer ses mots de passe</a><span>Un chiffrement ne vaut que par sa clé.</span></li>
+</ul></section>
+</div>
+<p class="credit">Guide écrit par la bande à Mamie (novembre 2026). Libre de reproduction et de modification sous licence Creative Commons BY-SA, en citant la source.</p>
+
+=== heberger-des-services | Collectif | Héberger des services | Chez un hébergeur alternatif ou sur sa propre machine avec YunoHost : ce que ça demande, ce que ça coûte et les responsabilités qui vont avec.
+<p>Avoir son propre local, Mamie sait ce que ça vaut : personne ne te met dehors du jour au lendemain. Mais il faut payer le loyer, réparer la chaudière et tenir les clés. Héberger les outils numériques d'un collectif, c'est pareil.</p>
+
+<h2 id="trois-choix">Trois façons de faire</h2>
+<div class="tbl"><table>
+<thead><tr><th>Choix</th><th>Pour qui</th><th>À savoir</th></tr></thead>
+<tbody>
+<tr><td><strong>Un service libre déjà en ligne</strong> (CryptPad, une instance Jitsi, Mobilizon…)</td><td>Tout le monde, tout de suite</td><td>Aucune technique ; tu dépends de l'équipe qui le fait tourner.</td></tr>
+<tr><td><strong>Un hébergeur du collectif CHATONS</strong></td><td>Un collectif qui veut un Nextcloud, des e-mails, une visio à lui</td><td>Souvent payant (petite cotisation), mais quelqu'un d'autre fait la technique. Les CHATONS s'engagent sur la transparence et la neutralité.</td></tr>
+<tr><td><strong>Sa propre machine</strong> (vieil ordinateur, petit serveur) avec YunoHost</td><td>Un groupe avec au moins deux personnes à l'aise en informatique</td><td>Indépendance maximale ; il faut assurer les mises à jour, les sauvegardes et les pannes.</td></tr>
+</tbody></table></div>
+
+<h2 id="yunohost">YunoHost en bref</h2>
+<p>YunoHost est un système libre qui simplifie l'auto-hébergement : on l'installe sur une machine, puis on ajoute des applications (Nextcloud, un site, un agenda, une liste de diffusion…) depuis une interface web. Il ne supprime pas la technique, il la rend abordable.</p>
+<ol>
+<li>Lis la documentation officielle et vérifie le matériel conseillé.</li>
+<li>Installe sur une machine dédiée, pas sur l'ordinateur de tous les jours.</li>
+<li>Commence avec une seule application, et apprends à la sauvegarder et à la restaurer avant d'en ajouter d'autres.</li>
+</ol>
+
+<h2 id="responsabilites">Les responsabilités</h2>
+<ul>
+<li><strong>Les mises à jour</strong> : un serveur pas à jour est une porte ouverte. Désignez qui s'en charge, et qui remplace.</li>
+<li><strong>Les sauvegardes</strong>, sur une autre machine, dans un autre lieu, et testées : voir <a href="sauvegardes.html">Faire des sauvegardes</a>.</li>
+<li><strong>Les données des autres</strong> : en hébergeant les fichiers ou les adresses de personnes, le collectif doit respecter le RGPD (informer, ne garder que le nécessaire, supprimer sur demande).</li>
+<li><strong>L'accès administrateur</strong> : la personne qui administre peut techniquement lire beaucoup de choses. Elle doit avoir la confiance du groupe, et ne pas être seule.</li>
+<li><strong>La relève</strong> : notez les accès et la procédure dans un document protégé, pour que le collectif ne dépende pas d'une seule personne.</li>
+</ul>
+<div class="note"><p>Le conseil de la bande : commencez par un CHATON. Si un jour le collectif a les bras et l'envie, passez à l'auto-hébergement. Un service hébergé à moitié, mal sauvegardé, est plus dangereux qu'un bon service extérieur.</p></div>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Le collectif des hébergeurs alternatifs, transparents, ouverts, neutres et solidaires.</span></li>
+<li><a href="https://doc.yunohost.org/fr/" rel="noopener">Documentation YunoHost</a><span>Pour installer et entretenir son serveur, en français.</span></li>
+<li><a href="https://degooglisons-internet.org/fr/" rel="noopener">Dégooglisons Internet</a><span>La campagne de Framasoft et ses alternatives.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../logiciels/index.html#nextcloud">Nextcloud dans l'annuaire</a><span>Le nuage du collectif, et ses limites.</span></li>
+<li><a href="choisir-des-outils-collaboratifs.html">Choisir des outils collaboratifs</a><span>Quel outil pour quel besoin.</span></li>
+</ul></section>
+</div>
+<p class="credit">Guide écrit par la bande à Mamie (novembre 2026). Libre de reproduction et de modification sous licence Creative Commons BY-SA, en citant la source.</p>
+
+=== choisir-des-outils-collaboratifs | Collectif | Choisir des outils collaboratifs | Quel outil libre pour quel besoin du collectif : se parler, écrire ensemble, partager des fichiers, se réunir à distance, décider, annoncer.
+<p>Mamie a vu des collectifs mourir d'un groupe WhatsApp à 300 messages par jour, et d'autres revivre avec trois outils bien choisis. Le bon outil, c'est celui que tout le monde sait utiliser et qui ne livre pas vos échanges à une multinationale.</p>
+
+<h2 id="besoins">Partir des besoins</h2>
+<p>Avant de choisir, faites la liste en réunion : de quoi a-t-on besoin vraiment ? Qui doit y avoir accès ? Qu'est-ce qui est sensible ? Qui a un ordinateur, qui n'a qu'un téléphone, qui n'a ni l'un ni l'autre ?</p>
+<div class="tbl"><table>
+<thead><tr><th>Besoin</th><th>Outil libre</th><th>Attention</th></tr></thead>
+<tbody>
+<tr><td>Se parler, se coordonner</td><td><a href="../logiciels/index.html#signal">Signal</a></td><td>Un groupe par usage (infos, organisation), messages éphémères.</td></tr>
+<tr><td>Écrire un texte à plusieurs, faire un tableau</td><td><a href="../logiciels/index.html#cryptpad">CryptPad</a></td><td>Le lien donne l'accès : partage-le dans Signal.</td></tr>
+<tr><td>Partager des fichiers, un agenda</td><td><a href="../logiciels/index.html#nextcloud">Nextcloud</a> chez un CHATON</td><td>Choisir un hébergeur de confiance.</td></tr>
+<tr><td>Se réunir à distance</td><td><a href="../logiciels/index.html#jitsi">Jitsi Meet</a></td><td>Le serveur voit passer la vidéo : pas de sujet sensible.</td></tr>
+<tr><td>Décider entre deux réunions</td><td><a href="../logiciels/index.html#loomio">Loomio</a>, ou un sondage CryptPad</td><td>Ne remplace pas l'assemblée.</td></tr>
+<tr><td>Trouver une date</td><td>Framadate, ou un sondage CryptPad</td><td>Pas de noms complets dans un sondage public.</td></tr>
+<tr><td>Annoncer un événement public</td><td><a href="../logiciels/index.html#mobilizon">Mobilizon</a></td><td>Pas d'adresse privée, pas de noms.</td></tr>
+<tr><td>Préparer une AG, un compte rendu, un tract</td><td><a href="../outils/index.html">Les outils de Mamie</a></td><td>Rien n'est envoyé : télécharge ton brouillon.</td></tr>
+</tbody></table></div>
+
+<h2 id="regles">Quelques règles qui sauvent</h2>
+<ul>
+<li><strong>Peu d'outils</strong> : trois bien utilisés valent mieux que dix abandonnés.</li>
+<li><strong>Une personne référente</strong> par outil, qui aide les autres et tient les accès, avec quelqu'un en relève.</li>
+<li><strong>Former tout le monde</strong> : un atelier de vingt minutes en début de réunion vaut mieux qu'un mode d'emploi que personne ne lit.</li>
+<li><strong>Ne laisser personne dehors</strong> : ce qui se décide en ligne est relu en réunion, et les infos importantes passent aussi sur papier.</li>
+<li><strong>Faire le ménage</strong> : archivez et supprimez ce qui ne sert plus.</li>
+</ul>
+<div class="note"><p>Les outils ne font pas un collectif. Ils servent à préparer les réunions, pas à les remplacer : c'est en se voyant qu'on se fait confiance.</p></div>
+
+<h2 id="sources">Liens utiles et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Documentation</h3><ul>
+<li><a href="https://docs.cryptpad.org/fr/" rel="noopener">Documentation CryptPad</a><span>En français : documents, formulaires, équipes.</span></li>
+<li><a href="https://framadate.org" rel="noopener">Framadate</a><span>Le sondage de dates de Framasoft.</span></li>
+<li><a href="https://www.chatons.org" rel="noopener">CHATONS</a><span>Trouver un hébergeur alternatif.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../logiciels/index.html">Annuaire des logiciels libres</a><span>Toutes les fiches, avec leurs limites.</span></li>
+<li><a href="../agir/monter-un-collectif.html">Monter un collectif</a><span>L'organisation avant les outils.</span></li>
+</ul></section>
+</div>
+<p class="credit">Guide écrit par la bande à Mamie (novembre 2026). Libre de reproduction et de modification sous licence Creative Commons BY-SA, en citant la source.</p>

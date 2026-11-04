@@ -44,7 +44,7 @@
 <li><b><cite>Je vous écris de ma nuit</cite></b>, correspondance réunie par Xavière Gauthier, 1999.<span>Ses lettres, de la prison à l'exil.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
-<li><a href="https://maitron.fr/spip.php?page=recherche_avancee&amp;recherche=Louise+Michel" rel="noopener">Le Maitron</a><span>Le dictionnaire biographique du mouvement ouvrier.</span></li>
+<li><a href="https://maitron.fr/michel-louise-dictionnaire-des-anarchistes/" rel="noopener">Le Maitron</a><span>Sa notice dans le Dictionnaire des anarchistes.</span></li>
 <li><a href="https://fr.wikipedia.org/wiki/Louise_Michel" rel="noopener">Louise Michel sur Wikipédia</a><span>Une chronologie détaillée et des références.</span></li>
 </ul></section>
 </div>
@@ -239,7 +239,7 @@
 <li><b><cite>The Bluestockings of Japan</cite></b>, Jan Bardsley, 2007 (en anglais).<span>Les textes de la revue.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
-<li><a href="https://fr.wikipedia.org/wiki/It%C5%8D_Noe" rel="noopener">Itō Noe sur Wikipédia</a><span>Repères biographiques.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Noe_It%C5%8D" rel="noopener">Itō Noe sur Wikipédia</a><span>Repères biographiques.</span></li>
 <li><a href="https://fr.wikipedia.org/wiki/Incident_d%27Amakasu" rel="noopener">L'incident d'Amakasu</a><span>L'assassinat de 1923.</span></li>
 </ul></section>
 </div>

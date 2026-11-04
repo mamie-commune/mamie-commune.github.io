@@ -66,6 +66,8 @@ $familles = @(
     @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, ses codes, et agir contre elle", "antifascisme/"),
     @("feminisme", "se-defendre.html#feminisme", "Féminisme", "Autodéfense féministe, violences sexistes et sexuelles", "manif/autodefense-feministe|agir/violences-dans-nos-collectifs"),
     @("outils", "guides/index.html", "Protection numérique", "Signal, vie privée, Linux et logiciels libres", "guides/"),
+    @("logiciels", "logiciels/index.html", "Logiciels libres", "L'annuaire : à quoi ils servent, licences et limites", "logiciels/"),
+    @("hors-ligne", "hors-ligne.html", "Hors ligne", "Installer le site, packs à imprimer, confidentialité", "hors-ligne|packs/|confidentialite"),
     @("secours", "manif/street-medic.html", "Premiers secours", "Street medic : se préparer, soigner, et après", "manif/street-medic|manif/se-preparer-soin|manif/soigner-en-manif|manif/apres-la-manif")) },
   [ordered]@{ id = "creer"; nom = "Créer"; page = "creer.html"; dit = "Faire parler les murs"; rubriques = @(
     @("affiches", "agir/affiches-et-tracts.html", "Affiches", "À imprimer, à coller, à sérigraphier", "agir/affiches|agir/coller-des-affiches|agir/serigraphie"),
@@ -138,7 +140,7 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
 
 # Empreinte des sources : change dès qu'un texte, un style, un script ou une donnée change.
 $sha = [Security.Cryptography.SHA1]::Create()
-$verFiles = @(Get-ChildItem $src -Recurse -File -Include *.txt, *.html, *.muse | Where-Object { $_.FullName -notmatch '\\textes\\print\\' }) + @(Get-ChildItem (Join-Path $site "assets") -File -Include *.js, *.css -Recurse) + @(Get-Item (Join-Path $site "data\lieux.geojson"), (Join-Path $site "data\videos.js"), (Join-Path $site "data\mobilisations.js"))
+$verFiles = @(Get-ChildItem $src -Recurse -File -Include *.txt, *.html, *.muse, *.json, *.js | Where-Object { $_.FullName -notmatch '\\textes\\print\\' }) + @(Get-ChildItem (Join-Path $site "assets") -File -Include *.js, *.css -Recurse) + @(Get-Item (Join-Path $site "data\lieux.geojson"), (Join-Path $site "data\videos.js"), (Join-Path $site "data\mobilisations.js"))
 $verBytes = New-Object System.IO.MemoryStream
 foreach ($vf in ($verFiles | Sort-Object FullName)) { $bytes = [IO.File]::ReadAllBytes($vf.FullName); $verBytes.Write($bytes, 0, $bytes.Length) }
 $ver = ([BitConverter]::ToString($sha.ComputeHash($verBytes.ToArray())) -replace '-', '').Substring(0, 8).ToLower()
@@ -503,6 +505,60 @@ $js += "window.RESSOURCES = [`n" + (($ressources | ForEach-Object {
 }) -join ",`n") + "`n];`n"
 Write-Utf8 (Join-Path $site "data\ressources.js") $js
 
+# ---------- annuaire des logiciels libres (logiciels/) ----------
+# Source : _src/logiciels/logiciels.json (une fiche par logiciel, vérifiée : licence, plateformes, site, documentation, limites).
+# Tout est écrit dans la page (lisible sans JavaScript et hors ligne) ; assets/logiciels.js ne fait que filtrer.
+# Les données sont aussi publiées telles quelles dans data/logiciels.json (format ouvert, réutilisable).
+$logCats = [ordered]@{ systeme = "Système"; naviguer = "Naviguer"; communiquer = "Communiquer"; ensemble = "Travailler ensemble"; organiser = "S'organiser"; publier = "Publier et cartographier"; proteger = "Se protéger"; creer = "Créer" }
+$logPf = [ordered]@{ ordinateur = "Ordinateur (PC)"; windows = "Windows"; macos = "macOS"; linux = "Linux"; android = "Android"; ios = "iPhone et iPad"; web = "Navigateur web"; serveur = "Serveur à héberger" }
+$logDif = [ordered]@{ facile = "Facile"; moyen = "Demande un peu de pratique"; avance = "Avancé" }
+$fLog = Join-Path $src "logiciels\logiciels.json"
+$logiciels = @(); foreach ($o in ((Read-Utf8 $fLog) | ConvertFrom-Json)) { $logiciels += $o }
+$vusL = @{}
+foreach ($l in $logiciels) {
+  $quoi = "Logiciel « $($l.id) »"
+  foreach ($champ in "id", "nom", "categorie", "fonction", "description", "licence", "licenceSource", "site", "documentation", "difficulte", "limites", "verifie") { if (-not $l.$champ) { Write-Warning "$quoi : champ « $champ » vide" } }
+  if ($vusL[$l.id]) { Write-Warning "$quoi : identifiant en double" }; $vusL[$l.id] = 1
+  if (-not $logCats.Contains([string]$l.categorie)) { Write-Warning "$quoi : catégorie inconnue « $($l.categorie) »" }
+  if (-not $logDif.Contains([string]$l.difficulte)) { Write-Warning "$quoi : difficulté inconnue « $($l.difficulte) »" }
+  foreach ($p in @($l.plateformes)) { if (-not $logPf.Contains([string]$p)) { Write-Warning "$quoi : plateforme inconnue « $p »" } }
+  if ($l.verifie -notmatch '^\d{4}-\d{2}-\d{2}$') { Write-Warning "$quoi : date de vérification à écrire AAAA-MM-JJ" }
+  # Règle de l'annuaire : aucun logiciel ne « garantit » la sécurité. On refuse ces mots dans les fiches.
+  if ("$($l.description) $($l.fonction) $($l.limites)" -match '(?i)garanti|100 ?%|inviolable|totalement s[ûu]r|s[ée]curit[ée] (absolue|totale)') { Write-Warning "$quoi : promesse de sécurité absolue à retirer" }
+}
+New-Item -ItemType Directory -Force (Join-Path $site "logiciels") | Out-Null
+$lien = { param($t, $u) "<a href=""$(Esc $u)"" rel=""noopener"">$(Esc $t)</a>" }
+$fiches = foreach ($l in $logiciels) {
+  $verifie = Date-Fr ([datetime]::ParseExact($l.verifie, "yyyy-MM-dd", $null)) $false
+  $pfs = (@($l.plateformes) | ForEach-Object { "<li>$(Esc $logPf[[string]$_])</li>" }) -join ""
+  $sites = (@($l.site) | ForEach-Object { & $lien $_[0] $_[1] }) -join " · "
+  $docs = (@($l.documentation) | ForEach-Object { "<li>$(& $lien $_[0] $_[1])</li>" }) -join ""
+  $guide = if ($l.guide) { "<p class=""logi__guide""><a href=""$(Esc $l.guide[0])"">$(Esc $l.guide[1]) →</a></p>" } else { "" }
+  $index += [pscustomobject]@{ u = "logiciels/index.html#$($l.id)"; k = "Logiciels libres"; y = "Guide numérique"; t = "$($l.nom) · logiciel libre"; d = $l.fonction; x = "$($l.remplace) $($l.description) $($logCats[[string]$l.categorie])" }
+  @"
+<article class="logi" id="$($l.id)" data-cat="$($l.categorie)" data-pf="$((@($l.plateformes)) -join ' ')" data-dif="$($l.difficulte)">
+  <header class="logi__tete"><p class="logi__cat">$(Esc $logCats[[string]$l.categorie])</p><h3>$(Esc $l.nom)</h3><p class="logi__fonction">$(Esc $l.fonction)</p>$(if ($l.remplace) { "<p class=""logi__remplace"">À la place de : $(Esc $l.remplace)</p>" })</header>
+  <p>$(Esc $l.description)</p>
+  <dl class="logi__fiche">
+    <dt>Licence</dt><dd>$(Esc $l.licence) <a class="logi__src" href="$(Esc $l.licenceSource)" rel="noopener">(source)</a></dd>
+    <dt>Plateformes</dt><dd><ul class="logi__pf">$pfs</ul></dd>
+    <dt>Site officiel</dt><dd>$sites</dd>
+    <dt>Difficulté</dt><dd><span class="logi__dif logi__dif--$($l.difficulte)">$(Esc $logDif[[string]$l.difficulte])</span> $(Esc $l.difficulteDit)</dd>
+    <dt>Documentation</dt><dd><ul>$docs</ul></dd>
+  </dl>
+  <div class="logi__limites"><p><b>Limites, à savoir avant de s'y mettre</b></p><p>$(Esc $l.limites)</p></div>
+  $guide
+  <p class="logi__verif">Fiche vérifiée le $verifie sur le site officiel et la source de la licence.</p>
+</article>
+"@
+}
+$puces = { param($nom, $m) (($m.Keys | ForEach-Object { $k = $_; $n = @($logiciels | Where-Object { ($nom -eq "pf" -and @($_.plateformes) -contains $k) -or ($nom -eq "cat" -and $_.categorie -eq $k) -or ($nom -eq "dif" -and $_.difficulte -eq $k) }).Count; if ($n) { "<button class=""chip"" type=""button"" data-$nom=""$k"" aria-pressed=""false"">$(Esc $m[$k]) · $n</button>" } }) -join "") }
+$annu = (Read-Utf8 (Join-Path $src "logiciels\index.html"))
+$m = [regex]::Match($annu, '^<!--\s*(.*?)\s*-->\s*', 'Singleline'); $meta = $m.Groups[1].Value -split "\s\|\s"
+$body = $annu.Substring($m.Length).Replace("{{LOGI_FICHES}}", ($fiches -join "`n")).Replace("{{LOGI_NB}}", "$($logiciels.Count)").Replace("{{LOGI_CATS}}", (& $puces "cat" $logCats)).Replace("{{LOGI_PF}}", (& $puces "pf" $logPf)).Replace("{{LOGI_DIF}}", (& $puces "dif" $logDif))
+Write-Utf8 (Join-Path $site "logiciels\index.html") (Render-Page "../" "logiciels" $meta[0] $meta[1] $body $meta[3])
+Copy-Item $fLog (Join-Path $site "data\logiciels.json") -Force
+
 # ---------- carte des collectifs : data/lieux.geojson → data/lieux.js ----------
 # La source est data/lieux.geojson (une structure par ligne, données publiques téléchargeables). On en tire data/lieux.js,
 # chargé par la carte et la recherche, et on contrôle la qualité : catégories, champs, doublons, coordonnées personnelles.
@@ -540,6 +596,129 @@ Write-Utf8 (Join-Path $site "data\lieux.js") $jsL
 
 # Compteurs de l'accueil ({{NB_LIEUX}}, {{NB_LIVRES}}, {{NB_FICHES}}), calculés à chaque génération.
 $compteurs = @{ NB_LIEUX = @($lieux | Where-Object { $_.geometry }).Count; NB_LIVRES = $livres.Count; NB_RESSOURCES = $ressources.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
+
+# ---------- packs hors ligne (packs/<id>.html) ----------
+# Un pack = plusieurs pages du site réunies dans UN fichier HTML autonome (styles dedans, aucune ressource externe,
+# liens vers le site écrits en entier, photos retirées) : il s'ouvre sans connexion, s'imprime et se transmet sur une clé USB.
+# Les PDF des packs se font en local avec _src/packs-pdf.ps1 (Windows + Edge). Contenu des packs : uniquement des pages existantes.
+$collections = @{ agir = $agir; manif = $manif; guides = $guides; universite = $universite; experiences = $exp; antifascisme = $antifa; figures = $figures }
+$creditsCol = @{ agir = "Fiche rédigée par la bande à Mamie. Libre de reproduction."; manif = "Fiche rédigée par la bande à Mamie. Elle ne remplace pas l'avis d'une avocate ou d'un avocat."
+  guides = "Guide adapté des articles du blog « Libérons nos ordis » (licence Creative Commons BY-SA)."; universite = "Parcours préparé par la bande à Mamie. Libre de reproduction."
+  experiences = "Dossier rédigé par la bande à Mamie. Libre de reproduction."; antifascisme = "Fiche rédigée par la bande à Mamie d'après les ressources de La Horde."; figures = "Portrait écrit par la bande à Mamie. Libre de reproduction." }
+$packs = @(
+  [ordered]@{ id = "organisation-collective"; nom = "Organisation collective"; dit = "Monter un collectif, tenir une caisse, lancer une grève, prendre soin les uns des autres."; pages = @("agir/monter-un-collectif", "agir/tenir-une-ag", "agir/decider-sans-chef", "agir/caisse-de-solidarite", "agir/lancer-une-greve", "agir/eviter-l-epuisement-militant", "agir/violences-dans-nos-collectifs", "agir/accueillir-personnes-trans") },
+  [ordered]@{ id = "assemblee-generale"; nom = "Assemblée générale"; dit = "Préparer, animer et conclure une AG, avec les quatre façons de décider et des feuilles vierges à photocopier."; pages = @("agir/tenir-une-ag", "agir/decider-sans-chef", "special/methodes", "special/feuilles-ag") },
+  [ordered]@{ id = "education-populaire"; nom = "Éducation populaire"; dit = "Quatre parcours de l'université populaire et le glossaire, pour animer un atelier ou lire en groupe."; pages = @("universite/education-populaire", "universite/introduction-anarchisme", "universite/entraide-mutualisme", "universite/autogestion", "special/glossaire") },
+  [ordered]@{ id = "droits-et-libertes"; nom = "Droits et libertés"; dit = "Tes droits en manif et en garde à vue (droit français), les gestes de premiers secours et l'autodéfense."; pages = @("manif/legal-team", "manif/personnes-trans-police", "agir/lyceens-face-aux-sanctions", "manif/street-medic", "manif/se-preparer-soin", "manif/soigner-en-manif", "manif/apres-la-manif", "manif/autodefense-feministe") },
+  [ordered]@{ id = "autonomie-numerique"; nom = "Autonomie numérique"; dit = "Signal, mots de passe, chiffrement, logiciels libres et outils collaboratifs, avec l'annuaire complet."; pages = @("guides/signal", "guides/proteger-ses-donnees", "guides/gerer-ses-mots-de-passe", "guides/comprendre-le-chiffrement", "guides/stop-gafam", "guides/utiliser-des-logiciels-libres", "guides/choisir-des-outils-collaboratifs", "guides/heberger-des-services", "special/annuaire") },
+  [ordered]@{ id = "culture-militante"; nom = "Culture militante"; dit = "Faire un tract, coller des affiches, sérigraphier, et la chronologie des mouvements sociaux."; pages = @("agir/faire-un-tract", "agir/coller-des-affiches", "agir/serigraphie", "universite/histoire-mouvement-anarchiste", "experiences/action-directe-pratique", "special/chronologie") }
+)
+$siteUrl = "https://mamiecommune.org/"
+# Liens d'une page placée dans « dossier/ » : écrits en entier vers le site en ligne, en adresses propres.
+function Liens-Absolus($html, $dossier) {
+  $baseUri = [Uri]"$siteUrl$dossier"
+  return [regex]::Replace($html, '\b(href|src)="([^"]*)"', {
+    param($m) $v = [Net.WebUtility]::HtmlDecode($m.Groups[2].Value)
+    if ($v -match '^(https?:|mailto:|tel:|data:|#)') { return $m.Value }
+    $u = ([Uri]::new($baseUri, $v)).AbsoluteUri -replace '/index\.html(?=$|[?#])', '/' -replace '\.html(?=$|[?#])', ''
+    "$($m.Groups[1].Value)=""$(Esc $u)"""
+  })
+}
+# Retire ce qui ne marche pas hors ligne ou alourdit le fichier : photos, vidéos, cadres, scripts, boutons.
+function Nettoyer-Pack($html) {
+  $html = [regex]::Replace($html, '(?s)<figure class="(photo|horde|yt)[^"]*".*?</figure>', '')
+  $html = [regex]::Replace($html, '(?s)<div class="ytwall".*?</div>\s*(?=<h2|<p|<div class="ressources"|$)', '')
+  $html = [regex]::Replace($html, '(?s)<(iframe|script|button|video)\b.*?</\1>', '')
+  $html = [regex]::Replace($html, '<img\b[^>]*>', '')
+  return $html
+}
+$feuillesAG = @"
+<p>Feuilles à photocopier ou à recopier au tableau. Elles reprennent les rubriques des outils « Préparer une AG », « Compte rendu » et « Mandat » du site, à remplir à la main.</p>
+<h3>Ordre du jour</h3>
+<div class="tbl"><table class="vierge"><thead><tr><th>Point</th><th>Qui le présente</th><th>Temps prévu</th><th>Décision attendue ?</th></tr></thead><tbody>$("<tr><td></td><td></td><td></td><td></td></tr>" * 6)</tbody></table></div>
+<p class="ligne">Date : ……………… Lieu : ……………………… Animation : ……………… Prise de notes : ……………… Gardien ou gardienne du temps : ………………</p>
+<p class="ligne">Façon de décider choisie : ☐ vote (majorité : ……) ☐ consensus ☐ consentement ☐ mandat</p>
+<h3>Compte rendu</h3>
+<div class="tbl"><table class="vierge"><thead><tr><th>Point</th><th>Ce qui a été dit (résumé)</th><th>Décision</th></tr></thead><tbody>$("<tr><td></td><td></td><td></td></tr>" * 6)</tbody></table></div>
+<div class="tbl"><table class="vierge"><thead><tr><th>Qui fait quoi</th><th>Pour quand</th></tr></thead><tbody>$("<tr><td></td><td></td></tr>" * 5)</tbody></table></div>
+<p class="ligne">Personnes présentes : …… Prochaine AG : ………………</p>
+<h3>Mandat</h3>
+<p class="ligne">L'assemblée du ……………… confie à : ………………………………………</p>
+<p class="ligne">La mission : ……………………………………………………………………………………</p>
+<p class="ligne">Ce que la personne peut décider seule : ………………………………………………</p>
+<p class="ligne">Ce qu'elle doit ramener à l'assemblée : ………………………………………………</p>
+<p class="ligne">Jusqu'au : ……………… Compte rendu à faire le : ……………… Révocable à tout moment par l'assemblée.</p>
+"@
+$logoPack = "data:image/png;base64," + [Convert]::ToBase64String([IO.File]::ReadAllBytes((Join-Path $site "assets\icone-masquable-192.png")))
+$cssPack = Read-Utf8 (Join-Path $src "packs\pack.css")
+New-Item -ItemType Directory -Force (Join-Path $site "packs") | Out-Null
+$listePacks = ""
+foreach ($p in $packs) {
+  $sections = @(); $sommaire = ""; $n = 0
+  foreach ($ref in $p.pages) {
+    $dossier, $slug = $ref -split '/'
+    $n++; $ancre = "s$n"
+    if ($dossier -eq "special") {
+      switch ($slug) {
+        "methodes" { $t = "Quatre façons de décider"; $d = "Vote, consensus, consentement, mandat : ce que chacun permet et ses pièges."; $u = "${siteUrl}outils/#decider"
+          $h = [regex]::Match((Read-Utf8 (Join-Path $src "outils\index.html")), '(?s)<div class="methodes">.*?</div>\s*(?=<div class="callout">)').Value }
+        "feuilles-ag" { $t = "Feuilles vierges pour l'AG"; $d = "Ordre du jour, compte rendu et mandat, à remplir à la main."; $u = "${siteUrl}outils/"; $h = $feuillesAG }
+        "glossaire" { $t = "Glossaire"; $d = "Les mots de l'anarchisme, expliqués simplement."; $u = "${siteUrl}glossaire"
+          $g = Read-Utf8 (Join-Path $src "pages\glossaire.html"); $g = $g.Substring([regex]::Match($g, '^<!--.*?-->\s*', 'Singleline').Length)
+          $h = Liens-Absolus ([regex]::Replace($g, '(?s)<header class="gtitle">.*?</header>', '')) "" }
+        "annuaire" { $t = "Annuaire des logiciels libres"; $d = "Les $($logiciels.Count) logiciels de la bande, avec leurs limites. Vérifié en $((Date-Fr ([datetime]::ParseExact(($logiciels | Sort-Object verifie | Select-Object -First 1).verifie, 'yyyy-MM-dd', $null)) $false))."; $u = "${siteUrl}logiciels/"
+          $h = ($logiciels | ForEach-Object { "<section class=""logi-pack""><h3>$(Esc $_.nom)</h3><p><b>$(Esc $_.fonction)</b> $(Esc $_.description)</p><p><b>Licence :</b> $(Esc $_.licence) <b>Plateformes :</b> $(Esc ((@($_.plateformes) | ForEach-Object { $logPf[[string]$_] }) -join ', ')). <b>Difficulté :</b> $(Esc $logDif[[string]$_.difficulte]). <b>Site :</b> $(Esc (@($_.site)[0][1]))</p><p><b>Limites :</b> $(Esc $_.limites)</p></section>" }) -join "`n" }
+        "chronologie" { $t = "Chronologie des mouvements sociaux"; $d = "Les grandes dates, chacune avec sa source."; $u = "${siteUrl}universite/chronologie"
+          $evs = @(((Read-Utf8 (Join-Path $src "universite\chronologie.json")) | ConvertFrom-Json).evenements)
+          $h = "<ol class=""chrono-pack"">" + (($evs | Sort-Object date | ForEach-Object { "<li><b>$(Esc $_.quand)</b> · $(Esc $_.titre). $(Esc $_.texte) <small>Source : $(Esc $_.source[0])</small></li>" }) -join "") + "</ol>" }
+      }
+    } else {
+      $g = @($collections[$dossier] | Where-Object { $_.slug -eq $slug })[0]
+      if (-not $g) { Write-Warning "Pack « $($p.id) » : la page « $ref » n'existe pas"; continue }
+      $t = $g.title; $d = $g.sum; $u = "$siteUrl$dossier/$slug"
+      $h = Liens-Absolus (Nettoyer-Pack $g.html) "$dossier/"
+      if ($h -notmatch 'class="credit"') { $h += "<p class=""credit"">$(Esc $creditsCol[$dossier])</p>" }
+    }
+    # Les identifiants de titres sont préfixés pour rester uniques dans le pack.
+    $h = [regex]::Replace($h, '\bid="([^"]+)"', "id=""$ancre-`$1""")
+    $h = [regex]::Replace($h, 'href="#([^"]+)"', "href=""#$ancre-`$1""")   # les liens internes suivent
+    $h = $h -replace '<h1\b', '<h2' -replace '</h1>', '</h2>'           # un seul titre principal : celui du pack
+    $sommaire += "<li><a href=""#$ancre"">$(Esc $t)</a></li>"
+    $sections += "<section class=""partie"" id=""$ancre""><p class=""partie__n"">$n / $($p.pages.Count)</p><h2>$(Esc $t)</h2><p class=""partie__dit"">$(Esc $d)</p>$h<p class=""partie__source"">En ligne, à jour : <a href=""$(Esc $u)"">$(Esc $u)</a></p></section>"
+  }
+  $html = @"
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pack $(Esc $p.nom) · Mamie Commune</title>
+<meta name="description" content="$(Esc $p.dit)">
+<style>$cssPack</style>
+</head>
+<body>
+<header class="couv">
+  <img src="$logoPack" alt="" width="120" height="120">
+  <p class="couv__eyebrow">Pack hors ligne de Mamie Commune</p>
+  <h1>$(Esc $p.nom)</h1>
+  <p class="couv__dit">$(Esc $p.dit)</p>
+  <p class="couv__ed">Édition du $edition · <a href="${siteUrl}hors-ligne#packs">${siteUrl}hors-ligne</a></p>
+  <p class="couv__mode">Ce fichier marche sans connexion : garde-le sur ton téléphone ou une clé USB, imprime-le (Ctrl + P ou « Imprimer »), fais-le circuler. Les textes changent : la version en ligne est toujours la plus à jour.</p>
+</header>
+<nav class="sommaire" aria-label="Sommaire"><h2>Sommaire</h2><ol>$sommaire</ol></nav>
+<main>
+$($sections -join "`n")
+</main>
+<footer class="pied"><p>Mamie Commune · la boîte à outils militante de Mamie et de sa bande · <a href="$siteUrl">mamiecommune.org</a>. Sans pub, sans traqueur. Chaque partie garde sa licence, indiquée à sa fin.</p></footer>
+</body>
+</html>
+"@
+  Write-Utf8 (Join-Path $site "packs\$($p.id).html") $html
+  $pdf = Test-Path (Join-Path $site "packs\$($p.id).pdf")
+  $btnPdf = if ($pdf) { "<a class=`"btn`" href=`"packs/$($p.id).pdf`" download=`"mamie-pack-$($p.id).pdf`">PDF à imprimer</a>" } else { "" }
+  $listePacks += "<article class=""pack""><h3>$(Esc $p.nom)</h3><p>$(Esc $p.dit)</p><p class=""pack__nb"">$($p.pages.Count) parties · $([Math]::Round(([Text.Encoding]::UTF8.GetByteCount($html)) / 1024)) Ko</p><div class=""pack__actions""><a class=""btn btn--main"" href=""packs/$($p.id).html"" download=""mamie-pack-$($p.id).html"">Télécharger (HTML)</a>$btnPdf<a class=""btn"" href=""packs/$($p.id).html"">Lire</a><button class=""btn"" type=""button"" data-garder=""packs/$($p.id)"" data-libelle=""Garder dans le navigateur"">Garder dans le navigateur</button></div></article>"
+}
+$compteurs["PACKS"] = $listePacks
 # ---------- pages ----------
 foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $raw = Read-Utf8 $f.FullName
@@ -549,11 +728,11 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
   if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures", "ressources", "universite")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
-  if ($f.BaseName -eq "404") { $root = "/" }   # servie à n'importe quelle adresse : liens absolus
+  if ($f.BaseName -in @("404", "sans-connexion")) { $root = "/" }   # servies à n'importe quelle adresse : liens absolus   # servie à n'importe quelle adresse : liens absolus
   # La rubrique (menu, fil d'Ariane, tiroir) se déduit de l'adresse ; à défaut, de la clé de l'en-tête.
   $navKey = (Famille-De-Adresse ($out -replace '\\', '/'))[2]; if (-not $navKey) { $navKey = $meta[2] }
   Write-Utf8 (Join-Path $site $out) (Render-Page $root $navKey $meta[0] $meta[1] $body $scripts)
-  if ($f.BaseName -notin @("lecteur", "recherche", "404")) {
+  if ($f.BaseName -notin @("lecteur", "recherche", "404", "sans-connexion")) {
     $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Rubrique"; y = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = "$(Heads $body) $([regex]::Matches($body, '<h3[^>]*>(.*?)</h3>') | ForEach-Object { Plain $_.Groups[1].Value 120 })" }
   }
 }
@@ -641,4 +820,21 @@ $js += "window.RECHERCHE = [`n"
 $js += ($index | ForEach-Object { $fr = Famille-De-Adresse ($_.u -replace '\\', '/'); "  { u: $(JsStr (Clean-Url $_.u)), f: $(JsStr $fr[0]), r: $(JsStr $fr[1]), k: $(JsStr $_.k), y: $(JsStr $_.y), t: $(JsStr $_.t), d: $(JsStr $_.d), x: $(JsStr (($_.x -replace '\s+', ' ').Trim())) }" }) -join ",`n"
 $js += "`n];`n"
 Write-Utf8 (Join-Path $site "data\recherche.js") $js
+# ---------- mode hors ligne : sw.js (service worker) ----------
+# Modèle : _src/sw.js. La version suit l'empreinte des sources : à chaque changement, le navigateur voit un nouveau sw.js
+# et propose « Mettre à jour ». La liste de départ (la « coquille ») reste petite : le reste est gardé au fil des visites
+# ou à la demande (page Hors ligne). Les adresses doivent exister, sinon l'installation échoue : on vérifie ici.
+$depart = @("./", "hors-ligne", "sans-connexion", "recherche", "confidentialite", "manifest.webmanifest",
+  "assets/style.css?v=$ver", "assets/fonts.css?v=$ver", "assets/site.js?v=$ver", "assets/recherche.js?v=$ver", "assets/hors-ligne.js?v=$ver",
+  "data/recherche.js?v=$ver", "data/lieux.js?v=$ver", "assets/mamie-logo-192.webp", "assets/icone-32.png", "assets/icone-192.png")
+$depart += @(Get-ChildItem (Join-Path $site "assets\fonts") -Filter *.woff2 | ForEach-Object { "assets/fonts/$($_.Name)" })
+foreach ($d in $depart) {
+  $chemin = ($d -replace '\?.*$', '') -replace '/', '\'
+  if ($chemin -eq ".\") { $chemin = "index.html" } elseif (-not [IO.Path]::GetExtension($chemin)) { $chemin += ".html" }
+  if (-not (Test-Path (Join-Path $site $chemin))) { Write-Warning "Hors ligne : « $d » n'existe pas (sw.js)" }
+}
+$sw = (Read-Utf8 (Join-Path $src "sw.js")).Replace("__VERSION__", $ver).Replace("__PRECACHE__", "[`n  " + (($depart | ForEach-Object { JsStr $_ }) -join ",`n  ") + "`n]")
+$sw = "// Généré par _src/build.ps1 depuis _src/sw.js — ne pas modifier à la main.`n" + $sw
+Write-Utf8 (Join-Path $site "sw.js") $sw
+
 Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres, $($ressources.Count) ressources et $($exp.Count) pages de dossiers générés."

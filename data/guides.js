@@ -8,5 +8,11 @@ window.GUIDES = [
   { slug: "ios", cat: "Téléphone", t: "Libérer (un peu) un iPhone ou un iPad", by: "", d: "Ce qu'on peut faire selon la version d'iOS : navigateur, bloqueur, moteur de recherche et applications libres." },
   { slug: "pourquoi-le-libre", cat: "Ordinateur", t: "Pourquoi passer au libre ?", by: "", d: "Sécurité, économies, durée de vie des machines, vie privée et pouvoir collectif : les raisons de changer." },
   { slug: "installer-linux-mint", cat: "Ordinateur", t: "Installer Linux Mint pas à pas", by: "", d: "De la clé USB au premier démarrage : télécharger, préparer la clé, tester en live, installer." },
-  { slug: "sauvegardes", cat: "Ordinateur", t: "Faire des sauvegardes", by: "", d: "Pourquoi, quoi, quand, sur quel support et avec quels logiciels libres sauvegarder ses données." }
+  { slug: "sauvegardes", cat: "Ordinateur", t: "Faire des sauvegardes", by: "", d: "Pourquoi, quoi, quand, sur quel support et avec quels logiciels libres sauvegarder ses données." },
+  { slug: "utiliser-des-logiciels-libres", cat: "Ordinateur", t: "Utiliser des logiciels libres", by: "", d: "Ce qu'est un logiciel libre, où le télécharger sans se faire piéger, quels formats choisir et où trouver de l'aide." },
+  { slug: "proteger-ses-donnees", cat: "Sécurité", t: "Protéger ses données", by: "", d: "Savoir contre quoi on se protège, verrouiller ses appareils, faire les mises à jour, nettoyer ses photos, séparer ses identités : l'hygiène numérique de base." },
+  { slug: "gerer-ses-mots-de-passe", cat: "Sécurité", t: "Gérer ses mots de passe", by: "", d: "Une phrase de passe solide, un mot de passe différent par compte, un coffre comme KeePassXC et la double authentification." },
+  { slug: "comprendre-le-chiffrement", cat: "Sécurité", t: "Comprendre le chiffrement", by: "", d: "Le cadenas du navigateur, le chiffrement de bout en bout, le disque chiffré, les métadonnées : ce que chacun protège et ce qu'il ne protège pas." },
+  { slug: "heberger-des-services", cat: "Collectif", t: "Héberger des services", by: "", d: "Chez un hébergeur alternatif ou sur sa propre machine avec YunoHost : ce que ça demande, ce que ça coûte et les responsabilités qui vont avec." },
+  { slug: "choisir-des-outils-collaboratifs", cat: "Collectif", t: "Choisir des outils collaboratifs", by: "", d: "Quel outil libre pour quel besoin du collectif : se parler, écrire ensemble, partager des fichiers, se réunir à distance, décider, annoncer." }
 ];

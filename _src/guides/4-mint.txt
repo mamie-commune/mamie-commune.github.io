@@ -53,7 +53,6 @@
 <div class="ressources">
 <section><h3>Sites officiels</h3><ul>
 <li><a href="https://linuxmint.com" rel="noopener">Linux Mint</a><span>Le site officiel : téléchargement et notes de version.</span></li>
-<li><a href="https://www.linuxmint-fr.org" rel="noopener">Linux Mint FR</a><span>La communauté francophone, avec son forum d'entraide.</span></li>
 </ul></section>
 <section><h3>Pour aller plus loin</h3><ul>
 <li><a href="https://doc.ubuntu-fr.org" rel="noopener">Documentation Ubuntu-fr</a><span>Une immense documentation en français, valable aussi pour Mint, qui est basée sur Ubuntu.</span></li>

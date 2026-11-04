@@ -1,0 +1,56 @@
+<!-- Confidentialité · Mamie Commune | Ce que Mamie Commune fait et ne fait pas de tes données : aucun compte, aucun traqueur, aucun envoi des outils, aucune synchronisation cachée. La liste complète de chaque échange avec internet et de ce que ton navigateur garde. | hors-ligne |  -->
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="index.html">Accueil</a><span>/</span><span>Confidentialité</span></p>
+  <p class="eyebrow">Ce que Mamie ne fait pas</p>
+  <h1>Confidentialité</h1>
+  <p class="lead">Mamie a toujours dit : moins on en sait sur les camarades, moins on peut en dire. Le site est construit pareil. Voici, sans jargon, tout ce qui sort de ton appareil quand tu lis Mamie Commune, et tout ce qui y reste.</p>
+</div></header>
+<div class="wrap gseule">
+  <article class="prose">
+    <h2 id="engagements">Les engagements</h2>
+    <ol class="principes">
+      <li><b>Aucun compte</b>tout se lit et s'utilise sans inscription ni identifiant.</li>
+      <li><b>Aucun traqueur</b>ni publicité, ni mesure d'audience, ni cookie, ni bouton de réseau social qui piste.</li>
+      <li><b>Rien n'est envoyé</b>les champs des outils de Mamie restent dans ton navigateur ; tu gardes ton travail en téléchargeant un fichier.</li>
+      <li><b>Pas de synchronisation cachée</b>pas de sauvegarde en ligne, pas de tâche en arrière-plan, pas de notification.</li>
+    </ol>
+
+    <h2 id="reseau">Chaque échange avec internet</h2>
+    <p>Voici la liste complète des serveurs que ton navigateur contacte en utilisant le site, et quand. Les polices, les scripts, la bibliothèque de carte (Leaflet) et le lecteur PDF sont hébergés sur le site lui-même.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Serveur</th><th>Quand</th><th>Ce qu'il reçoit</th></tr></thead>
+      <tbody>
+        <tr><td><b>mamiecommune.org</b> (hébergeur IONOS)</td><td>À chaque page ou fichier du site chargé depuis internet, et quand ton navigateur vérifie s'il existe une nouvelle version du site.</td><td>Ce que reçoit tout site : ton adresse IP, la page demandée, l'heure, le type de navigateur. L'hébergeur les garde dans ses journaux techniques ; la bande ne les analyse pas.</td></tr>
+        <tr><td><b>mamie-commune.github.io</b> (GitHub)</td><td>Seulement si tu lis la copie du site à cette adresse, ou si le film ne se charge pas depuis IONOS (copie de secours sur GitHub).</td><td>Pareil : GitHub enregistre l'adresse IP des visites pour la sécurité, selon sa propre politique.</td></tr>
+        <tr><td><b>tile.openstreetmap.org</b></td><td>Quand tu ouvres la carte des collectifs ou la carte du mouvement du 17 Octobre : le fond de carte.</td><td>Ton adresse IP et la zone de carte affichée.</td></tr>
+        <tr><td><b>api-adresse.data.gouv.fr</b> (Base adresse nationale)</td><td>Seulement si tu cliques sur « Placer » dans le formulaire de proposition de la carte.</td><td>Le nom de la ville que tu as écrit, et ton adresse IP.</td></tr>
+        <tr><td><b>youtube-nocookie.com</b></td><td>Seulement après un clic sur une vidéo YouTube.</td><td>Ce que YouTube reçoit d'un lecteur intégré, selon ses règles.</td></tr>
+        <tr><td><b>tiktok.com</b></td><td>Seulement après un clic sur une vidéo TikTok de Mamie.</td><td>Ce que TikTok reçoit de son lecteur, selon ses règles.</td></tr>
+        <tr><td><b>calameo.com</b></td><td>Seulement après un clic sur « Ouvrir le livre ici » (livres des Éditions Divergences).</td><td>Ce que Calaméo reçoit de sa liseuse, cookies compris, selon ses règles.</td></tr>
+      </tbody>
+    </table></div>
+    <p>Un lien vers un autre site (une source, une documentation, Instagram ou TikTok) t'emmène chez lui : à partir de là, ce sont ses règles. Les données de la carte du 17 Octobre sont recopiées par la bande sur son propre serveur : ton navigateur ne contacte pas leur site.</p>
+
+    <h2 id="appareil">Ce que ton navigateur garde</h2>
+    <p>Quelques petites choses restent sur ton appareil, et seulement là. La bande n'y a pas accès.</p>
+    <div class="tbl"><table>
+      <thead><tr><th>Quoi</th><th>Pourquoi</th><th>Comment l'effacer</th></tr></thead>
+      <tbody>
+        <tr><td><code>mamie-theme</code>, <code>mamie-facile</code></td><td>Ton choix du mode sombre et de la lecture facile, si tu as cliqué sur ces boutons.</td><td>Recliquer sur le bouton, ou effacer les données du site dans le navigateur.</td></tr>
+        <tr><td><code>mamie-reprise:…</code></td><td>Où une vidéo de plus de dix minutes s'est arrêtée, pour proposer « Reprendre ».</td><td>S'efface quand la vidéo est finie, ou avec les données du site.</td></tr>
+        <tr><td><code>Mamie Commune.lecteur.…</code></td><td>La page où tu en étais dans un livre PDF.</td><td>Effacer les données du site dans le navigateur.</td></tr>
+        <tr><td><code>Mamie Commune.lieux</code></td><td>Seulement si tu avais ajouté des lieux sur l'ancienne carte : ils restent lisibles et la carte propose de les effacer.</td><td>Bouton « Effacer » sur la carte.</td></tr>
+        <tr><td>Pages gardées hors ligne (caches <code>mamie-coquille</code>, <code>mamie-pages</code>, <code>mamie-garde</code>)</td><td>Pour lire le site sans connexion : l'accueil et les pages communes, les pages que tu as ouvertes (300 fichiers au plus), celles que tu as demandé à garder.</td><td>Bouton « Tout effacer sur cet appareil » de la page <a href="hors-ligne.html#gerer">Hors ligne</a>.</td></tr>
+        <tr><td>Le service worker (<code>sw.js</code>)</td><td>Le petit programme qui sert les pages gardées quand le réseau manque. Il ne s'occupe que des pages de ce site, n'envoie rien et ne tourne pas en arrière-plan.</td><td>Même bouton : il est arrêté et désinscrit.</td></tr>
+      </tbody>
+    </table></div>
+    <div class="note"><p>Les outils de Mamie (AG, compte rendu, tract, caisse…) <b>n'enregistrent rien tout seuls</b> : ni sur ton appareil, ni ailleurs. Tes saisies disparaissent quand tu fermes la page, sauf si tu télécharges ton brouillon. Le navigateur te prévient avant de quitter une page remplie.</p></div>
+
+    <h2 id="contact">Quand tu écris à la bande</h2>
+    <p>Pour proposer un lieu, signaler une erreur ou une information dangereuse, tu passes par un message privé Instagram ou TikTok. Les formulaires du site ne font que préparer le texte : c'est toi qui l'envoies, depuis ton compte, et ce sont les règles de ces plateformes qui s'appliquent au message. La bande garde le moins possible et ne publie jamais de coordonnées personnelles.</p>
+
+    <h2 id="verifier">Vérifier par toi-même</h2>
+    <p>Pas besoin de nous croire sur parole : dans Firefox ou Chrome, la touche F12 ouvre les outils de développement. L'onglet « Réseau » montre chaque échange avec internet, l'onglet « Stockage » ou « Application » montre ce que le navigateur garde.</p>
+    <p class="credit">Page tenue à jour par la bande à Mamie à chaque nouvelle fonction du site. Dernière vérification : novembre 2026. Voir aussi les <a href="mentions-legales.html">mentions légales</a>.</p>
+  </article>
+</div>

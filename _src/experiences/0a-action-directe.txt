@@ -134,6 +134,6 @@
 </ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/Action_directe_(groupe_arm%C3%A9)" rel="noopener">Action directe (groupe armé) sur Wikipédia</a><span>La chronologie détaillée.</span></li>
-<li><a href="https://fr.wikipedia.org/wiki/Loi_du_9_septembre_1986_relative_%C3%A0_la_lutte_contre_le_terrorisme" rel="noopener">La loi antiterroriste de 1986</a><span>Les lois d'exception nées de cette période.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Loi_relative_%C3%A0_la_lutte_contre_le_terrorisme_et_aux_atteintes_%C3%A0_la_s%C3%BBret%C3%A9_de_l%27%C3%89tat" rel="noopener">La loi antiterroriste de 1986</a><span>Les lois d'exception nées de cette période.</span></li>
 </ul></section>
 </div>

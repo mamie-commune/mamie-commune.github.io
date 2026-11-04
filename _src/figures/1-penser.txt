@@ -121,7 +121,6 @@
 </ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/%C3%89lis%C3%A9e_Reclus" rel="noopener">Élisée Reclus sur Wikipédia</a><span>Repères biographiques.</span></li>
-<li><a href="https://raforum.info/reclus/" rel="noopener">Le site Reclus du RA-Forum</a><span>Textes, lettres et études.</span></li>
 </ul></section>
 </div>
 

@@ -1,0 +1,62 @@
+/* Style des packs hors ligne (copié dans chaque fichier packs/<id>.html par _src/build.ps1). Aucune ressource externe :
+   les polices du site sont utilisées si elles sont installées, sinon les polices du système. Lisible à l'écran, propre à l'impression (A4). */
+:root { --papier: #ebe3d1; --encre: #171414; --rouge: #c22a17; --rose: #ff5aa8; --jaune: #f5b63b; }
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--papier); color: var(--encre); font: 17px/1.6 Archivo, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; }
+a { color: var(--rouge); overflow-wrap: anywhere; }
+h1, h2, h3 { font-family: "Archivo Black", "Arial Black", Impact, sans-serif; font-weight: 400; line-height: 1.15; text-transform: uppercase; }
+.couv, .sommaire, main, .pied { max-width: 780px; margin: 0 auto; padding: 0 16px; }
+.couv { padding-top: 40px; padding-bottom: 28px; border-bottom: 6px solid var(--encre); }
+.couv img { display: block; width: 120px; height: 120px; border: 3px solid var(--encre); }
+.couv__eyebrow { display: inline-block; margin: 18px 0 0; padding: 5px 10px; background: var(--encre); color: var(--papier); font: 400 13px/1 "Archivo Black", sans-serif; text-transform: uppercase; }
+.couv h1 { margin: 10px 0 8px; font-size: clamp(34px, 8vw, 60px); }
+.couv__dit { font-size: 20px; margin: 0 0 12px; }
+.couv__ed { font: 400 14px/1.4 "Special Elite", "Courier New", monospace; margin: 0 0 12px; }
+.couv__mode { background: var(--jaune); padding: 12px 14px; margin: 0; font-size: 15px; }
+.sommaire { padding-top: 20px; padding-bottom: 20px; }
+.sommaire h2 { font-size: 22px; margin: 0 0 8px; }
+.sommaire ol { margin: 0; padding-left: 1.4em; }
+.partie { padding: 28px 0; border-top: 3px dashed rgba(23, 20, 20, .35); }
+.partie__n { margin: 0; font: 400 13px/1 "Special Elite", "Courier New", monospace; color: var(--rouge); }
+.partie > h2 { font-size: clamp(24px, 5vw, 34px); margin: 6px 0 6px; }
+.partie__dit { font-weight: 700; margin: 0 0 16px; }
+.partie h2 { font-size: 24px; margin: 1.6em 0 .5em; }
+.partie h3 { font-size: 18px; margin: 1.3em 0 .4em; }
+.partie__source { font: 400 13.5px/1.4 "Special Elite", "Courier New", monospace; margin-top: 18px; }
+.note, .couv__mode { border-left: 6px solid var(--encre); }
+.note { background: #fff7df; padding: 4px 14px; margin: 1em 0; }
+blockquote { margin: 1em 0; padding: 10px 16px; background: var(--encre); color: var(--papier); }
+.tbl { overflow-x: auto; margin: 1em 0; }
+table { border-collapse: collapse; width: 100%; font-size: 15px; }
+th, td { border: 1.5px solid var(--encre); padding: 6px 8px; text-align: left; vertical-align: top; }
+th { background: rgba(23, 20, 20, .08); }
+table.vierge td { height: 2.4em; }
+.ligne { margin: .9em 0; }
+.timeline, .principes { padding-left: 1.2em; }
+.timeline b, .principes b { margin-right: .4em; }
+.ressources section { margin: .8em 0; }
+.ressources span { display: block; font-size: 14px; color: #4a4340; }
+.credit { font-size: 14px; font-style: italic; }
+svg { max-width: 100%; height: auto; }
+.schema__scroll { overflow-x: auto; }
+.schema text { font-family: Archivo, Arial, sans-serif; }
+.schema .bx, .schema .bx-d { fill: #fff; stroke: var(--encre); stroke-width: 2; } .schema .bx-r { fill: var(--rose); stroke: var(--encre); stroke-width: 2; } .schema .bx-d { stroke-dasharray: 6 4; }
+.schema .ln, .schema .ld, .schema .ar { stroke: var(--encre); stroke-width: 2; fill: none; } .schema .ld { stroke-dasharray: 5 4; } .schema .ar { stroke: var(--rouge); }
+.schema .tb { font-weight: 700; } .schema .s { font-size: 12px; } .schema .sr { fill: var(--rouge); }
+.methode, .logi-pack { border: 2px solid var(--encre); padding: 4px 14px; margin: 12px 0; background: #fff7df; }
+.chrono-pack li { margin-bottom: .6em; }
+.chrono-pack small { display: block; color: #4a4340; }
+.pied { padding: 24px 16px 40px; border-top: 6px solid var(--encre); font-size: 14px; }
+@media print {
+  @page { size: A4; margin: 16mm 14mm; }
+  body { background: #fff; font-size: 11pt; }
+  .couv { border-bottom-width: 3px; break-after: page; }
+  .couv__mode, .note, .methode, .logi-pack { background: #fff; }
+  .sommaire { break-after: page; }
+  .partie { break-before: page; border-top: 0; }
+  .partie h2, .partie h3 { break-after: avoid; }
+  table, figure, .methode, .logi-pack, li { break-inside: avoid; }
+  a { color: var(--encre); }
+  blockquote { background: #fff; color: var(--encre); border-left: 6px solid var(--encre); }
+}

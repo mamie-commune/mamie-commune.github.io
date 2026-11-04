@@ -41,6 +41,7 @@ AddType image/webp .webp
 AddType image/svg+xml .svg
 AddType video/mp4 .mp4
 AddType application/pdf .pdf
+AddType application/manifest+json .webmanifest
 AddDefaultCharset utf-8
 AddCharset utf-8 .html .css .js
 
@@ -66,6 +67,10 @@ AddCharset utf-8 .html .css .js
 </IfModule>
 
 <IfModule mod_headers.c>
+  # Mode hors ligne : le navigateur doit toujours revérifier sw.js et le manifeste, sinon les mises à jour du site tardent.
+  <FilesMatch "^(sw\.js|manifest\.webmanifest)$">
+    Header set Cache-Control "no-cache"
+  </FilesMatch>
   Header always set X-Content-Type-Options "nosniff"
   Header always set Referrer-Policy "strict-origin-when-cross-origin"
 </IfModule>

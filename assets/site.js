@@ -22,6 +22,11 @@
       const open = nav.classList.toggle("open");
       btn.setAttribute("aria-expanded", String(open));
       fams.forEach((b) => b.setAttribute("aria-expanded", String(open)));
+      if (open) { const premier = nav.querySelector("a, button"); if (premier) premier.focus(); }
+    });
+    document.addEventListener("keydown", (e) => {
+      if (e.key !== "Escape" || !mobile() || !nav.classList.contains("open")) return;
+      nav.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); fermer(); btn.focus();
     });
     nav.addEventListener("click", (e) => {
       if (e.target.closest("a")) { nav.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); fermer(); }

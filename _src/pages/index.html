@@ -1,4 +1,6 @@
 <!-- Mamie Commune | Boîte à outils militante : histoires de luttes, bibliothèque libre, documentaires, fiches pour s'organiser, carte des collectifs, droits en manif et protection numérique. | accueil | <script src="data/videos.js"></script><script src="assets/videos.js"></script> -->
+<!-- L'accueil est rangé comme un journal : une section = un but. Ne pas en faire un catalogue : chaque section garde
+     quatre à six éléments au plus, et renvoie vers sa rubrique. La « Sélection de la bande » se change à la main ici. -->
 <section class="manchette">
   <div class="wrap">
     <div class="manchette__grid">
@@ -9,7 +11,7 @@
         <p class="manchette__pres">Mamie en a vu d'autres. Avec sa bande, elle a vidé ses poches, ses carnets et ses souvenirs de barricade dans une grande boîte : des histoires de luttes, une bibliothèque libre, des fiches pour tenir une AG ou une grève, une carte des collectifs, tes droits face à la police. Sers-toi, c'est fait pour ça.</p>
         <div class="cta">
           <a class="btn btn--main" href="commencer.html">Par où commencer ?</a>
-          <a class="btn" href="#une">Quoi de neuf ?</a>
+          <a class="btn" href="#nouveau">Quoi de neuf ?</a>
         </div>
       </div>
       <div class="hero__art">
@@ -18,253 +20,109 @@
         <p class="hero__say bubble" data-tags>Ah, la Commune.</p>
       </div>
     </div>
-    <ul class="piliers piliers--6">
-      <li class="pilier fam--apprendre"><a href="apprendre.html"><span class="pilier__n">I</span><b>Apprendre</b><span>Bibliothèque, théorie, histoire des luttes, figures, glossaire.</span></a></li>
-      <li class="pilier fam--organiser"><a href="s-organiser.html"><span class="pilier__n">II</span><b>S'organiser</b><span>AG, collectifs, syndicalisme, autogestion, grèves.</span></a></li>
-      <li class="pilier fam--entraide"><a href="s-entraider.html"><span class="pilier__n">III</span><b>S'entraider</b><span>Mutualisme, caisses de solidarité, cantines, coopératives.</span></a></li>
-      <li class="pilier fam--defendre"><a href="se-defendre.html"><span class="pilier__n">IV</span><b>Se défendre</b><span>Droits, juridique, antifascisme, féminisme, numérique, secours.</span></a></li>
-      <li class="pilier fam--creer"><a href="creer.html"><span class="pilier__n">V</span><b>Créer</b><span>Affiches, tracts, fanzines, journaux, médias.</span></a></li>
-      <li class="pilier fam--allies"><a href="trouver-des-allies.html"><span class="pilier__n">VI</span><b>Trouver des alliés</b><span>Carte des collectifs, syndicats, librairies, lieux, médias.</span></a></li>
-    </ul>
-    <nav class="acces" aria-label="Accès rapide aux outils">
-      <p class="acces__tit">Accès rapide</p>
-      <ul>
-        <li><a href="manif/legal-team.html">Tes droits en manif</a></li>
-        <li><a href="carte.html">La carte des collectifs</a></li>
-        <li><a href="agir/affiches-et-tracts.html">Affiches à imprimer</a></li>
-        <li><a href="agir/lancer-une-greve.html">Lancer une grève</a></li>
-        <li><a href="agir/caisse-de-solidarite.html">Caisse de solidarité</a></li>
-        <li><a href="manif/soigner-en-manif.html">Premiers secours</a></li>
-        <li><a href="guides/signal.html">Signal</a></li>
-        <li><a href="glossaire.html">Glossaire</a></li>
-        <li><a href="outils/index.html">Les outils de Mamie</a></li>
-      </ul>
-    </nav>
   </div>
 </section>
 
-<section class="sec" id="une">
+<section class="sec" id="selection">
   <div class="wrap">
     <header class="sec__head">
-      <h2>À la une</h2>
+      <p class="eyebrow">la bande a choisi pour toi</p>
+      <h2>La sélection de la bande</h2>
+      <p class="sec__intro">Trois pages que Mamie mettrait dans toutes les poches en ce moment.</p>
     </header>
-    <!-- Généré par _src/build.ps1 d'après _src/textes/apparitions.txt : la page arrivée le plus récemment, puis les suivantes. -->
+    <div class="selection">
+      <a class="selection__item" href="manif/legal-team.html"><span class="kicker">Se défendre</span><h3>Tes droits en manif et en garde à vue</h3><p>Contrôle d'identité, garde à vue, droit au silence, lettres pour contester un PV.</p><span class="selection__mot">« Lis-la avant le cortège, pas après. »</span></a>
+      <a class="selection__item" href="logiciels/index.html"><span class="kicker">Protection numérique</span><h3>L'annuaire des logiciels libres</h3><p>Dix-huit logiciels pour s'organiser sans les géants du numérique, avec leurs limites.</p><span class="selection__mot">« Nos outils façonnent nos luttes. »</span></a>
+      <a class="selection__item" href="experiences/commune-de-paris-histoire.html"><span class="kicker">Histoire des luttes</span><h3>La Commune de Paris : 72 jours</h3><p>Le printemps 1871, quand Paris s'est gouverné lui-même.</p><span class="selection__mot">« Ah, la Commune. Tout part de là. »</span></a>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--alt" id="nouveau">
+  <div class="wrap">
+    <header class="sec__head">
+      <p class="eyebrow">tout chaud</p>
+      <h2>Dernières publications</h2>
+    </header>
+    <!-- Généré par _src/build.ps1 d'après _src/textes/apparitions.txt : la page arrivée le plus récemment, puis les quatre suivantes. -->
     {{NOUVEAUTES}}
-  </div>
-</section>
-
-<section class="sec sec--alt" id="luttes">
-  <div class="wrap">
-    <header class="sec__head">
-      <p class="eyebrow">Mamie raconte</p>
-      <h2>Histoires de luttes</h2>
-      <p class="sec__intro">Onze histoires où des gens ordinaires ont pris en main leur vie et leurs luttes, de la Commune aux ronds-points : l'histoire, l'organisation en schémas, et les débats qui agitent encore la bande.</p>
-    </header>
-    <ol class="frise">
-      <li><a href="experiences/commune-de-paris-histoire.html"><span class="frise__an">1871</span><b>La Commune de Paris</b><span>72 jours d'autogouvernement.</span></a></li>
-      <li><a href="experiences/action-directe-pratique.html"><span class="frise__an">depuis 1890</span><b>L'action directe</b><span>Grève, boycott, sabotage, occupation.</span></a></li>
-      <li><a href="experiences/makhno-histoire.html"><span class="frise__an">1917-1921</span><b>La Makhnovtchina</b><span>La révolution paysanne d'Ukraine.</span></a></li>
-      <li><a href="experiences/espagne-1936-histoire.html"><span class="frise__an">1936-1939</span><b>Espagne : la CNT-FAI</b><span>Collectivités, milices, Mujeres Libres.</span></a></li>
-      <li><a href="experiences/black-panthers-histoire.html"><span class="frise__an">1966-1982</span><b>Black Panthers</b><span>Se défendre et servir le peuple.</span></a></li>
-      <li><a href="experiences/mai-68-histoire.html"><span class="frise__an">1968</span><b>Mai 68</b><span>Dix millions de grévistes.</span></a></li>
-      <li><a href="experiences/stonewall-fhar-histoire.html"><span class="frise__an">1969-1974</span><b>De Stonewall au FHAR</b><span>La révolte homosexuelle.</span></a></li>
-      <li><a href="experiences/mlac-histoire.html"><span class="frise__an">1973-1975</span><b>Le MLAC</b><span>Avorter en autogestion.</span></a></li>
-      <li><a href="experiences/zapatistes-histoire.html"><span class="frise__an">depuis 1994</span><b>Les zapatistes</b><span>Commander en obéissant.</span></a></li>
-      <li><a href="experiences/zad-histoire.html"><span class="frise__an">depuis 2009</span><b>La ZAD</b><span>Un bocage occupé, un aéroport abandonné.</span></a></li>
-      <li><a href="experiences/rojava-histoire.html"><span class="frise__an">depuis 2012</span><b>Le Rojava</b><span>Communes et révolution des femmes.</span></a></li>
-      <li><a href="experiences/gilets-jaunes-histoire.html"><span class="frise__an">2018-2019</span><b>Gilets jaunes</b><span>La révolte des ronds-points.</span></a></li>
-      <li><a href="videos.html#ni-dieu-ni-maitre"><span class="frise__an">1840-1945</span><b>Ni Dieu ni maître</b><span>Le documentaire, en trois livres.</span></a></li>
-    </ol>
   </div>
 </section>
 
 <section class="sec" id="lire">
   <div class="wrap">
     <header class="sec__head">
-      <p class="eyebrow">Mamie a lu pour toi</p>
+      <p class="eyebrow">les livres se prêtent, les idées se partagent</p>
       <h2>La bibliothèque</h2>
     </header>
-    <div class="vedette">
+    <div class="vedette vedette--court">
       <a class="couv" href="livres/dix-questions-anarchisme.html" aria-label="Lire Dix questions sur l'anarchisme, de Guillaume Davranche"><span>Guillaume Davranche</span><b>Dix questions sur l'anarchisme</b><small>Livre complet · PDF</small></a>
       <div class="vedette__txt">
         <p class="kicker">Le livre pour commencer</p>
         <h3>Si tu ne lis qu'un livre, c'est celui-là</h3>
-        <p>D'où vient l'anarchisme, ce qu'il propose pour l'économie, la démocratie, l'écologie et le féminisme, comment il compte y arriver, et ce qu'il a fait dans les révolutions. Cent vingt pages, sans jargon.</p>
-        <p>À côté, <b>{{NB_LIVRES}} livres</b> à lire en ligne ou en PDF, des classiques du domaine public aux livres d'aujourd'hui, et des fiches de lecture qui vont à l'essentiel.</p>
-        <div class="cta"><a class="btn btn--main" href="livres/dix-questions-anarchisme.html">Lire le livre</a><a class="btn" href="bibliotheque/index.html">Toute la bibliothèque</a></div>
-      </div>
-      <div class="liste-bloc">
-        <h3 class="liste__tit">Cinq textes courts, dans l'ordre</h3>
-        <ol class="liste">
-          <li><a href="bibliotheque/servitude-volontaire.html"><span>La Boétie · vers 1550</span><b>Discours de la servitude volontaire</b></a></li>
-          <li><a href="bibliotheque/aux-jeunes-gens.html"><span>Kropotkine · 1880</span><b>Aux jeunes gens</b></a></li>
-          <li><a href="bibliotheque/au-cafe.html"><span>Malatesta · 1920</span><b>Au café</b></a></li>
-          <li><a href="bibliotheque/principes-anarchisme-parsons.html"><span>Lucy Parsons · 1905</span><b>Les Principes de l'anarchisme</b></a></li>
-          <li><a href="bibliotheque/anarchisme-et-question-sexuelle.html"><span>Emma Goldman · 1896</span><b>L'Anarchisme et la question sexuelle</b></a></li>
-        </ol>
+        <p>D'où vient l'anarchisme, ce qu'il propose pour l'économie, la démocratie, l'écologie et le féminisme, comment il compte y arriver, et ce qu'il a fait dans les révolutions. Cent vingt pages, sans jargon. À côté, <b>{{NB_LIVRES}} livres</b> à lire en ligne ou en PDF.</p>
+        <div class="cta"><a class="btn btn--main" href="livres/dix-questions-anarchisme.html">Lire le livre</a></div>
       </div>
     </div>
-  </div>
-</section>
-
-<section class="sec sec--alt" id="guides">
-  <div class="wrap">
-    <header class="sec__head">
-      <p class="eyebrow">la bande à Mamie s'organise</p>
-      <h2>Guides pratiques</h2>
-      <p class="sec__intro">Des fiches courtes, testées sur le terrain, pour passer de la colère à l'action. Sers-toi, imprime, fais tourner.</p>
-    </header>
-    <div class="colonnes">
-      <section class="colonne colonne--fam fam--organiser">
-        <p class="kicker">S'organiser</p>
-        <h3>Agir ensemble</h3>
-        <ul>
-          <li><a href="agir/tenir-une-ag.html">Tenir une AG qui ne tourne pas en rond</a></li>
-          <li><a href="agir/monter-un-collectif.html">Monter un collectif qui tient</a></li>
-          <li><a href="agir/lancer-une-greve.html">Lancer une grève et tenir un piquet</a></li>
-          <li><a href="agir/caisse-de-solidarite.html">Monter une caisse de solidarité</a></li>
-          <li><a href="agir/affiches-et-tracts.html">Affiches et tracts à imprimer</a></li>
-        </ul>
-      </section>
-      <section class="colonne colonne--fam fam--defendre">
-        <p class="kicker">Se défendre</p>
-        <h3>Manif et police</h3>
-        <ul>
-          <li><a href="manif/legal-team.html">Tes droits en manif et en garde à vue</a></li>
-          <li><a href="agir/lyceens-face-aux-sanctions.html">Lycéennes et lycéens face aux sanctions</a></li>
-          <li><a href="manif/street-medic.html">Street medics : le soin entre camarades</a></li>
-          <li><a href="manif/autodefense-feministe.html">L'autodéfense féministe</a></li>
-          <li><a href="manif/personnes-trans-police.html">Personnes trans face à la police</a></li>
-        </ul>
-      </section>
-      <section class="colonne colonne--fam fam--defendre">
-        <p class="kicker">Se défendre</p>
-        <h3>Protection numérique</h3>
-        <ul>
-          <li><a href="guides/signal.html">Signal : discuter sans être écouté</a></li>
-          <li><a href="guides/android.html">Protéger son téléphone Android</a></li>
-          <li><a href="guides/ublock-origin.html">Bloquer les pubs et les pisteurs</a></li>
-          <li><a href="guides/installer-linux-mint.html">Passer à Linux</a></li>
-          <li><a href="guides/index.html">Tous les guides numériques</a></li>
-        </ul>
-      </section>
-    </div>
-  </div>
-</section>
-
-<section class="sec sec--noir" id="agir">
-  <div class="wrap">
-    <header class="sec__head">
-      <h2>Agir maintenant</h2>
-      <p class="sec__intro">Lire, c'est bien ; se retrouver, c'est mieux. Trouve celles et ceux qui s'organisent près de chez toi, rejoins une mobilisation, ou lance la tienne.</p>
-    </header>
-    <div class="agir-grille">
-      <a href="carte.html"><span class="kicker">Près de chez toi</span><span class="agir-gros">{{NB_LIEUX}}</span><b>collectifs, syndicats, librairies et lieux sur la carte</b><em>Ouvrir la carte →</em></a>
-      <a href="mouvement-17-octobre.html"><span class="kicker">En ce moment</span><b>Les mobilisations, jour par jour</b><span>Blocages, rassemblements et manifestations du mouvement du 17 Octobre, mis à jour toutes les heures.</span><em>Où agir →</em></a>
-      <a href="agir/index.html"><span class="kicker">Lancer la tienne</span><b>Organiser une action</b><span>Tenir une AG, faire un tract, coller des affiches, organiser un blocus ou une grève : tout est dans le tiroir.</span><em>Agir ensemble →</em></a>
-    </div>
-  </div>
-</section>
-
-<section class="sec" id="parcours">
-  <div class="wrap">
-    <header class="sec__head">
-      <p class="eyebrow">des fils à tirer</p>
-      <h2>Parcours</h2>
-      <p class="sec__intro">Certains sujets traversent toute la boîte. Mamie a tiré des fils pour toi : suis-en un, de fiche en dossier.</p>
-    </header>
-    <div class="colonnes">
-      <section class="colonne">
-        <p class="kicker">Parcours 1</p>
-        <h3>Débuter dans l'anarchisme</h3>
-        <ul>
-          <li><a href="livres/dix-questions-anarchisme.html">Dix questions sur l'anarchisme</a></li>
-          <li><a href="commencer.html">Par où commencer : cinq textes</a></li>
-          <li><a href="bibliotheque/l-anarchie-malatesta.html">L'Anarchie, de Malatesta</a></li>
-          <li><a href="bibliotheque/entraide.html">L'Entraide, de Kropotkine</a></li>
-          <li><a href="experiences/commune-de-paris-histoire.html">La Commune de Paris</a></li>
-          <li><a href="agir/decider-sans-chef.html">Décider sans chef</a></li>
-        </ul>
-      </section>
-      <section class="colonne">
-        <p class="kicker">Parcours 2</p>
-        <h3>Féminismes et luttes queer</h3>
-        <ul>
-          <li><a href="experiences/mlac-histoire.html">Le MLAC : avorter en autogestion</a></li>
-          <li><a href="experiences/stonewall-fhar-histoire.html">De Stonewall au FHAR</a></li>
-          <li><a href="experiences/espagne-1936-milices-debats.html">Mujeres Libres, Espagne 1936</a></li>
-          <li><a href="bibliotheque/combahee-river-collective.html">Le Combahee River Collective</a></li>
-          <li><a href="bibliotheque/femme-en-lutte-pour-ses-droits.html">Madeleine Pelletier</a></li>
-          <li><a href="agir/violences-dans-nos-collectifs.html">Les violences dans nos collectifs</a></li>
-          <li><a href="agir/accueillir-personnes-trans.html">Accueillir les personnes trans</a></li>
-          <li><a href="manif/autodefense-feministe.html">L'autodéfense féministe</a></li>
-        </ul>
-      </section>
-      <section class="colonne">
-        <p class="kicker">Parcours 3</p>
-        <h3>Contre l'extrême droite</h3>
-        <ul>
-          <li><a href="antifascisme/extreme-droite-familles.html">Les familles de l'extrême droite</a></li>
-          <li><a href="antifascisme/extreme-droite-implantation.html">Où elle s'implante</a></li>
-          <li><a href="antifascisme/symboles-extreme-droite.html">Reconnaître leurs symboles</a></li>
-          <li><a href="antifascisme/agir-antifasciste.html">Agir contre l'extrême droite</a></li>
-          <li><a href="livres/dix-questions-antifascisme.html">Dix questions sur l'antifascisme</a></li>
-          <li><a href="experiences/black-panthers-debats.html">Les Black Panthers et le front antifasciste</a></li>
-        </ul>
-      </section>
-      <section class="colonne">
-        <p class="kicker">Parcours 4</p>
-        <h3>Lycéennes et lycéens en lutte</h3>
-        <ul>
-          <li><a href="agir/lutter-au-lycee.html">Lutter au lycée : par où commencer</a></li>
-          <li><a href="agir/organiser-un-blocus.html">Organiser un blocus</a></li>
-          <li><a href="agir/lyceens-face-aux-sanctions.html">Face aux sanctions et à la police</a></li>
-          <li><a href="agir/tenir-une-ag.html">Tenir une AG</a></li>
-          <li><a href="agir/affiches-et-tracts.html">Affiches et tracts à imprimer</a></li>
-          <li><a href="experiences/mai-68-histoire.html">Mai 68 : quand les lycées s'y sont mis</a></li>
-        </ul>
-      </section>
-    </div>
-  </div>
-</section>
-
-<section class="sec" id="manif">
-  <div class="wrap">
-    <header class="sec__head">
-      <p class="eyebrow">se défendre</p>
-      <h2>Avant d'aller en manif</h2>
-      <p class="sec__intro">Mamie le répète avant chaque cortège : quatre choses à savoir avant de partir, et à faire circuler autour de toi.</p>
-    </header>
-    <ol class="steps">
-      <li class="step"><span class="step__n">01</span><h3>Connaître tes droits</h3><p>Contrôle d'identité, garde à vue, droit au silence : ce que la police peut faire, et ce que tu peux refuser.</p><a href="manif/legal-team.html">Tes droits en manif</a></li>
-      <li class="step"><span class="step__n">02</span><h3>Protéger ton téléphone</h3><p>Signal bien réglé, messages éphémères, téléphone verrouillé, ou laissé à la maison.</p><a href="guides/signal.html">Le guide Signal</a></li>
-      <li class="step"><span class="step__n">03</span><h3>Contester un PV</h3><p>Une amende pour avoir manifesté ? Ne la paie pas : trois lettres toutes prêtes pour la contester.</p><a href="manif/legal-team.html#contester">Les modèles de lettres</a></li>
-      <li class="step"><span class="step__n">04</span><h3>Prendre soin</h3><p>Se protéger des gaz, soigner un camarade, ne laisser personne seul, savoir se défendre.</p><a href="manif/street-medic.html">Street medic</a><a href="manif/autodefense-feministe.html">L'autodéfense féministe</a></li>
-    </ol>
+    <ul class="portes">
+      <li><a href="bibliotheque/index.html"><b>Livres et fiches de lecture</b><span>Les classiques en entier, l'essentiel en quelques pages.</span></a></li>
+      <li><a href="experiences/index.html"><b>Histoire des luttes</b><span>Douze dossiers, de la Commune aux ronds-points.</span></a></li>
+      <li><a href="universite/index.html"><b>Université populaire</b><span>Des parcours pour apprendre à ton rythme.</span></a></li>
+    </ul>
   </div>
 </section>
 
 <section class="sec sec--alt" id="videos">
   <div class="wrap">
     <header class="sec__head">
-      <p class="eyebrow">@mamie_commune</p>
-      <h2>Mamie sur TikTok</h2>
-      <p class="sec__intro">Mamie et sa bande racontent les luttes d'hier pour gagner celles de demain, en vidéos.</p>
+      <p class="eyebrow">la vidéothèque</p>
+      <h2>À regarder</h2>
+      <p class="sec__intro">Les documentaires qu'on se repasse entre camarades, et les vidéos de Mamie et de sa bande.</p>
     </header>
+    <a class="docvedette" href="videos.html#damnes-de-la-commune"><span class="kicker">Documentaire</span><b>Les Damnés de la Commune</b><span>Le film de Raphaël Meyssan, en entier, avec l'accord de ses ayants droit.</span><em>Le regarder →</em></a>
     <div class="vwall" data-videos data-limit="4"></div>
-    <div class="cta"><a class="btn btn--main" href="videos.html">Toutes les vidéos</a><a class="btn" href="https://www.tiktok.com/@mamie_commune" rel="noopener me">Suivre Mamie sur TikTok ↗</a><a class="btn" href="https://www.instagram.com/mamie_commune/" rel="noopener me">Et sur Instagram ↗</a></div>
+    <div class="cta"><a class="btn btn--main" href="videos.html">Toute la vidéothèque</a><a class="btn" href="https://www.tiktok.com/@mamie_commune" rel="noopener me">Mamie sur TikTok ↗</a></div>
   </div>
 </section>
 
-<section class="sec" id="faq">
+<section class="sec sec--noir" id="agir">
   <div class="wrap">
-    <header class="sec__head"><p class="eyebrow">on demande souvent à mamie</p><h2>Questions</h2></header>
-    <div class="faq">
-      <details><summary>C'est qui, Mamie et sa bande ?</summary><p>Mamie, c'est la camarade qui a tout vu, de la Commune aux ronds-points. Sa bande, ce sont celles et ceux qui écrivent, vérifient et rangent avec elle : une équipe militante anonyme, sans chef. Ensemble, on raconte la lutte et on fabrique des outils pour la suite. Tu veux en être ? Mamie <a href="rejoindre.html">cherche des camarades</a>.</p></details>
-      <details><summary>C'est quoi, l'anarchisme ?</summary><p>L'idée qu'on peut vivre ensemble sans maîtres : sans État qui commande, sans patron qui exploite, en s'organisant librement par l'entraide. Pour commencer, lis <a href="bibliotheque/l-anarchie-malatesta.html">L'Anarchie de Malatesta</a> ou <a href="bibliotheque/au-cafe.html">Au café</a>.</p></details>
-      <details><summary>Les livres sont vraiment gratuits ?</summary><p>Oui. Les classiques sont dans le domaine public : tu peux les lire, les imprimer et les distribuer. Les livres récents sont en ligne avec l'accord de leurs ayants droit, ou dans la liseuse de leur éditeur : si tu peux, achète-les en librairie. Les fiches de lecture sont libres de reproduction.</p></details>
-      <details><summary>Comment ajouter un lieu sur la carte ?</summary><p>Sur la <a href="carte.html">carte des collectifs</a>, bouton « Ajouter un lieu ». Exporte ensuite ton fichier et envoie-le à la bande : tout est expliqué sur la page <a href="contribuer.html#lieu">Contribuer</a>. Pour une mobilisation du 17 Octobre, c'est sur la carte du mouvement.</p></details>
-      <details><summary>Pourquoi des guides sur Linux ici ?</summary><p>Parce que nos outils façonnent nos luttes. S'organiser sur les plateformes des géants du numérique, c'est leur confier nos discussions, nos listes de contacts et nos rendez-vous.</p></details>
+    <header class="sec__head">
+      <p class="eyebrow">lieux et mobilisations</p>
+      <h2>Trouver la bande près de chez toi</h2>
+      <p class="sec__intro">Lire, c'est bien ; se retrouver, c'est mieux. Trouve celles et ceux qui s'organisent près de chez toi, ou rejoins une mobilisation.</p>
+    </header>
+    <div class="agir-grille agir-grille--2">
+      <a href="carte.html"><span class="kicker">Près de chez toi</span><span class="agir-gros">{{NB_LIEUX}}</span><b>collectifs, syndicats, librairies et lieux sur la carte</b><em>Ouvrir la carte →</em></a>
+      <a href="mouvement-17-octobre.html"><span class="kicker">En ce moment</span><b>Les mobilisations, jour par jour</b><span>Blocages, rassemblements et manifestations du mouvement du 17 Octobre, mis à jour toutes les heures.</span><em>Où agir →</em></a>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="guides">
+  <div class="wrap">
+    <header class="sec__head">
+      <p class="eyebrow">sers-toi, imprime, fais tourner</p>
+      <h2>Guides pratiques</h2>
+      <p class="sec__intro">Des fiches courtes, testées sur le terrain, pour passer de la colère à l'action.</p>
+    </header>
+    <ul class="portes portes--4">
+      <li><a href="agir/tenir-une-ag.html"><span class="kicker">S'organiser</span><b>Tenir une AG qui ne tourne pas en rond</b></a></li>
+      <li><a href="agir/lancer-une-greve.html"><span class="kicker">S'organiser</span><b>Lancer une grève et tenir un piquet</b></a></li>
+      <li><a href="manif/street-medic.html"><span class="kicker">Se défendre</span><b>Premiers secours entre camarades</b></a></li>
+      <li><a href="guides/signal.html"><span class="kicker">Se défendre</span><b>S'organiser sur Signal</b></a></li>
+    </ul>
+    <div class="cta"><a class="btn" href="s-organiser.html">Tout pour s'organiser</a><a class="btn" href="se-defendre.html">Tout pour se défendre</a><a class="btn" href="s-entraider.html">L'entraide</a></div>
+  </div>
+</section>
+
+<section class="sec sec--alt" id="contribuer">
+  <div class="wrap">
+    <div class="appel">
+      <p class="eyebrow">mamie cherche sa bande</p>
+      <h2>Une ressource, un lieu, une erreur ?</h2>
+      <p>La boîte à outils grandit avec celles et ceux qui s'en servent. Envoie à la bande ce qui manque, ce qui a changé ou ce qui cloche, en message privé sur Instagram ou TikTok : elle vérifie, puis elle publie.</p>
+      <div class="cta"><a class="btn btn--main" href="contribuer.html">Contribuer</a><a class="btn" href="rejoindre.html">Rejoins la bande</a></div>
     </div>
   </div>
 </section>

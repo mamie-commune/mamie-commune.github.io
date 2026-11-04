@@ -19,6 +19,8 @@ ws.addEventListener("message", (m) => { const d = JSON.parse(m.data); if (d.id &
 const cmd = (method, params = {}) => new Promise((r) => { const i = ++id; attente.set(i, r); ws.send(JSON.stringify({ id: i, method, params })); });
 await cmd("Page.enable"); await cmd("Runtime.enable"); await cmd("Network.enable"); await cmd("Log.enable");
 await cmd("Network.setCacheDisabled", { cacheDisabled: true });
+// Edge sans fenêtre impose une largeur minimale (environ 500 px) : on simule la vraie largeur d'écran demandée.
+await cmd("Emulation.setDeviceMetricsOverride", { width: +largeur, height: 900, deviceScaleFactor: 1, mobile: +largeur < 800 });
 const CONTROLES = `(() => {
   const r = {}; const vis = (e) => !!(e.offsetWidth || e.offsetHeight || e.getClientRects().length);
   r.lang = document.documentElement.lang;

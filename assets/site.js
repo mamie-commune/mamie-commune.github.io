@@ -2,36 +2,52 @@
 (function () {
   "use strict";
   const nav = document.getElementById("nav"), btn = document.getElementById("menuBtn");
-  // Familles du menu : sur ordinateur, chaque bouton déplie ses rubriques ; sur téléphone, le menu montre tout.
+  // Menu : sept entrées ; certaines déplient un petit menu (un seul ouvert à la fois), sur ordinateur comme en accordéon
+  // sur téléphone. Clavier : Entrée ou Espace ouvre, flèches haut et bas parcourent les liens, Échap referme.
   const fams = [...document.querySelectorAll(".nav__btn")];
   const mobile = () => window.matchMedia("(max-width: 860px)").matches;
   const fermer = () => fams.forEach((b) => b.setAttribute("aria-expanded", "false"));
-  fams.forEach((b) => b.addEventListener("click", () => {
-    if (mobile()) return;
-    const ouvert = b.getAttribute("aria-expanded") === "true";
-    fermer(); b.setAttribute("aria-expanded", String(!ouvert));
+  const liensDe = (b) => [...document.getElementById(b.getAttribute("aria-controls")).querySelectorAll("a")];
+  fams.forEach((b) => {
+    b.addEventListener("click", () => {
+      const ouvert = b.getAttribute("aria-expanded") === "true";
+      fermer(); b.setAttribute("aria-expanded", String(!ouvert));
+    });
+    b.addEventListener("keydown", (e) => {
+      if (e.key !== "ArrowDown") return;
+      e.preventDefault(); fermer(); b.setAttribute("aria-expanded", "true"); liensDe(b)[0].focus();
+    });
+  });
+  document.querySelectorAll(".nav__panel").forEach((p) => p.addEventListener("keydown", (e) => {
+    if (e.key !== "ArrowDown" && e.key !== "ArrowUp") return;
+    const l = [...p.querySelectorAll("a")], i = l.indexOf(document.activeElement);
+    e.preventDefault(); l[(i + (e.key === "ArrowDown" ? 1 : l.length - 1)) % l.length].focus();
   }));
   document.addEventListener("click", (e) => { if (!mobile() && !e.target.closest(".nav__fam")) fermer(); });
   document.addEventListener("keydown", (e) => {
-    if (e.key !== "Escape" || mobile()) return;
+    if (e.key !== "Escape") return;
     const ouvert = fams.find((b) => b.getAttribute("aria-expanded") === "true");
-    if (ouvert) { fermer(); ouvert.focus(); }
+    if (ouvert) { fermer(); ouvert.focus(); return; }
+    if (mobile() && nav && nav.classList.contains("open")) { nav.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); btn.focus(); }
   });
   if (nav && btn) {
     btn.addEventListener("click", () => {
       const open = nav.classList.toggle("open");
       btn.setAttribute("aria-expanded", String(open));
-      fams.forEach((b) => b.setAttribute("aria-expanded", String(open)));
+      fermer();
       if (open) { const premier = nav.querySelector("a, button"); if (premier) premier.focus(); }
-    });
-    document.addEventListener("keydown", (e) => {
-      if (e.key !== "Escape" || !mobile() || !nav.classList.contains("open")) return;
-      nav.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); fermer(); btn.focus();
     });
     nav.addEventListener("click", (e) => {
       if (e.target.closest("a")) { nav.classList.remove("open"); btn.setAttribute("aria-expanded", "false"); fermer(); }
     });
   }
+  // Recherche sur téléphone : la barre est repliée derrière la loupe de l'en-tête.
+  const loupe = document.getElementById("loupeBtn");
+  if (loupe) loupe.addEventListener("click", () => {
+    const ouverte = document.body.classList.toggle("recherche-ouverte");
+    loupe.setAttribute("aria-expanded", String(ouverte));
+    if (ouverte) document.getElementById("q").focus();
+  });
 
   // Lecture facile : gros texte, police simple, rien de penché ; le choix est gardé dans le navigateur.
   const facile = document.getElementById("facileBtn");

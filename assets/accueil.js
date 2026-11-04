@@ -1,5 +1,6 @@
 // Listes filtrables (guides, fiches de la bibliothèque) + compteurs de l'accueil.
 // Chaque liste : <div data-list="GUIDES|BIBLIO" data-base="…"> et ses filtres <div data-filters="…">.
+// data-plie="9" : seules les 9 premières cartes s'affichent, un bouton déplie le reste (pages longues comme la Bibliothèque).
 (function () {
   "use strict";
   const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
@@ -16,6 +17,10 @@
     const filters = document.querySelector(`[data-filters="${key}"]`);
     const base = grid.dataset.base ?? "";
     const limit = Number(grid.dataset.limit) || Infinity;
+    const plie = Number(grid.dataset.plie) || 0; let deplie = false;
+    const plus = document.createElement("button"); plus.type = "button"; plus.className = "btn liste-plus";
+    plus.addEventListener("click", () => { deplie = true; render(); const c = grid.children[plie]; if (c) c.focus(); });
+    if (plie) grid.after(plus);
     const cta = { BIBLIO: "Lire la fiche →", LIVRES: "Lire le livre →", EXPERIENCES: "Lire le dossier →", ANTIFA: "Lire la fiche →", MANIF: "Lire la fiche →", AGIR: "Lire la fiche →", FIGURES: "Lire le portrait →", UNIVERSITE: "Suivre le parcours →" }[key] || "Lire le guide →";
     const cats = ["Tout", ...new Set(items.map((g) => g.cat))];
     let active = cats.find((c) => slugify(c) === location.hash.slice(1)) || "Tout";
@@ -25,7 +30,9 @@
         const n = c === "Tout" ? items.length : items.filter((g) => g.cat === c).length;
         return `<button class="chip" type="button" data-cat="${esc(c)}" aria-pressed="${c === active}">${esc(c)} · ${n}</button>`;
       }).join("");
-      const list = (active === "Tout" ? items : items.filter((g) => g.cat === active)).slice(0, limit);
+      const tous = (active === "Tout" ? items : items.filter((g) => g.cat === active)).slice(0, limit);
+      const list = plie && !deplie ? tous.slice(0, plie) : tous;
+      if (plie) { plus.hidden = list.length === tous.length; plus.textContent = `Voir les ${tous.length - list.length} autres`; }
       // Étiquette = la rubrique ; signature (autrice ou auteur, date) sous le titre, sauf les « D'après… » des fiches pratiques.
       const signe = (by) => (by && !/^(d['’]après|faits? par)/i.test(by) ? `<span class="card__by">${esc(by)}</span>` : "");
       grid.innerHTML = list.map((g) => `

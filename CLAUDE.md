@@ -171,7 +171,26 @@ Ton des textes : simple, direct, tutoiement, pas de jargon, phrases courtes. éc
 
 Accessibilité : un seul `<h1>` par page et pas de saut de niveau de titre ; texte alternatif sur chaque image ; contraste suffisant (texte clair sur `--red-hi`, pas sur `--red`). Le bouton « Aa Lecture facile » (barre de recherche) ajoute la classe `facile` à `<html>` : police simple, texte plus grand, titres sans lettres de rançon, rien de penché. Tout nouvel élément penché (`rotate`) doit être ajouté à la liste `.facile … { transform: none }` de `assets/style.css`. Logo : Mamie **détourée, sans fond** (``assets/mamie-logo-192.webp`` dans l'en-tête et le pied de page, ``mamie-logo-480.webp`` sur l'accueil, original transparent ``mamie-logo-1080.png`` pour les visuels). On les refait avec ``powershell -ExecutionPolicy Bypass -File _src/logo-detoure.ps1``. Jamais ``mamie.webp`` (300 Ko, avec fond) dans les pages. Plus d'image de Mamie en entier.
 
-## Organisation du site : six tiroirs
+## Navigation principale : sept entrées (novembre 2026)
+
+Le menu, le pied de page, le fil d'Ariane et le bloc de bas de page suivent `$menu` dans `_src/build.ps1` : **Accueil, Bibliothèque, Vidéothèque, S'organiser, Se défendre, Lieux et mobilisations, Entraide**. Chaque entrée a sa page d'accueil (`bibliotheque/`, `videos`, `s-organiser`, `se-defendre`, `trouver-des-allies`, `s-entraider` : adresses inchangées), une phrase, un menu déroulant de **5 liens au plus** (ou aucun : lien direct) et la liste des clés de `$familles` qui lui appartiennent (`cles`). Pour rattacher une nouvelle rubrique, ajouter sa clé dans `cles` de la bonne entrée.
+
+- **Fil d'Ariane** : l'entrée s'insère après « Accueil », sauf si le fil la nomme déjà. Une page dont le fil s'arrête sur le nom de l'entrée (`Accueil / Se défendre`) est la page d'accueil de la rubrique : pas d'ajout ni de bas de page.
+- **Bas de page** (`<nav class="suite">`) : 4 portes de la rubrique et « ← Retour à la rubrique ». Il remplace l'ancien « Dans le même tiroir ».
+- **Pages de rubrique** : un sommaire court sous le titre (`<nav class="sommaire-rubrique">`, liens vers les sections). Les longues listes de cartes se replient avec `data-plie="9"` (`assets/accueil.js`).
+- **En-tête** : sur ordinateur, le logo mène à l'accueil ; sur téléphone, bandeau d'édition masqué, recherche derrière la loupe (`#loupeBtn`), menu en accordéon (une entrée ouverte à la fois). Clavier : flèche bas ouvre et parcourt, Échap referme (`assets/site.js`).
+- **Accueil** façon journal (`_src/pages/index.html`) : présentation, sélection de la bande (3 pages choisies à la main), dernières publications (1 + 4), bibliothèque, vidéothèque, lieux et mobilisations, guides pratiques, appel à contribution. Ne pas en refaire un catalogue : 4 à 6 éléments par section.
+- Blocs déplacés de l'ancien accueil : frise des luttes → `apprendre.html` ; « Avant d'aller en manif » → `se-defendre.html` ; quatre parcours transversaux → `universite.html` (#fils) ; questions fréquentes → `commencer.html` (#faq).
+
+## Identité graphique (novembre 2026)
+
+Pas de nouvelles illustrations de Mamie (demande expresse) : l'identité tient au portrait existant, à la typographie et à des éléments faits en code, sans image générée.
+- **Tampon** (`.tampon`) en haut des fiches, selon leur type (`$tampons` dans `build.ps1` : « Fais tourner », « Lu par la bande », « Mémoire des luttes », « Droit français »…), ajouté par `Render-Page`.
+- **Mamie dit** (`.mamie-dit`) : portrait et phrase sous l'introduction des pages sans fiche (rubriques, outils, contribution), phrase par entrée du menu dans `$mamieDit`. Le ton seulement, jamais une information.
+- **Grain de photocopie** (`--grain`, filtre SVG) sur les en-têtes, **note de marge** (`.annot`), **scotch** (`.scotch`).
+- Page **La boîte à images** (`boite-a-images.html`) : couleurs, polices, éléments, portrait de Mamie à télécharger, et toutes les archives de `assets/img/revolutions/credits.txt` (générées dans `{{ARCHIVES}}`). Une image d'archive sans ligne de crédit déclenche un avertissement.
+
+## Organisation du site : six tiroirs (catégories internes)
 
 Tout le site se range en six familles (« tiroirs » de la boîte à outils), définies **une seule fois** dans `_src/build.ps1` (`$familles`). Chacune a sa page de tiroir (`_src/pages/<page>.html`) qui présente ses rubriques avec des cartes vers les ressources existantes :
 - **Apprendre** (`apprendre.html`) : Bibliothèque, Université populaire (`universite/`), Théorie politique, Histoire des luttes, Figures historiques, Glossaire (`glossaire.html`), Culture militante ;

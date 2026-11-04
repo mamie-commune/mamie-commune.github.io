@@ -40,10 +40,11 @@
       <span class="brand__name" data-ransom>Mamie Commune</span>
     </a>
     <nav class="nav" id="nav" aria-label="Navigation principale">{{NAV}}</nav>
+    <button class="loupe" id="loupeBtn" type="button" aria-expanded="false" aria-controls="rechercheBarre"><svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true" focusable="false"><circle cx="10" cy="10" r="6.5" fill="none" stroke="currentColor" stroke-width="3"/><path d="M15 15l6 6" stroke="currentColor" stroke-width="3.2" stroke-linecap="round"/></svg><span class="sr">Chercher</span></button>
     <button class="menu" id="menuBtn" type="button" aria-expanded="false" aria-controls="nav">Menu</button>
   </div>
 </header>
-<div class="search">
+<div class="search" id="rechercheBarre">
   <form class="wrap search__in" role="search" action="{{R}}recherche.html" data-root="{{R}}">
     <label class="sr" for="q">Rechercher sur le site</label>
     <input class="search__input" id="q" name="q" type="search" placeholder="Une révolution, un droit, un livre, une ville…" autocomplete="off" aria-controls="searchRes" aria-expanded="false">

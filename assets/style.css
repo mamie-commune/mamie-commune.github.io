@@ -1564,3 +1564,5 @@ html.facile {
 .archive a:hover img, .archive a:focus-visible img { filter: none; }
 .archive figcaption { margin-top: 8px; font: 400 13px/1.4 var(--mono); }
 .nuancier b, .nuancier code { justify-self: start; padding: 2px 5px; background: #171414; color: #f6f0e3; }
+/* fiche documentaire pas encore relue par la bande */
+.doc__relire { font: 400 14px/1.4 var(--mono); border-left: 4px solid var(--red); padding: 4px 0 4px 10px; }

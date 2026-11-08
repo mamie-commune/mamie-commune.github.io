@@ -91,9 +91,12 @@ jobs:
           #   et suppression sur IONOS de ce qui n'existe plus dans le site.
           # 2e passage : pages, styles et scripts renvoyés à chaque fois (une petite modif peut garder la même taille).
           # Le dossier films/ (envoyé par film-ionos.yml) n'est jamais touché ici.
+          # Les brouillons ChatGPT sont exclus de _site par robocopy ; le 1er passage les exclut aussi, par sécurité.
+          # Le 2e passage n'envoie que des fichiers inclus explicitement (le 1er filtre est un « include ») : ne pas y
+          # placer d'« --exclude » en tête, cela inverserait le filtre et renverrait tout le site.
           lftp --env-password -u "$UTILISATEUR" "sftp://$HOTE" -e "
             set sftp:auto-confirm yes; set net:max-retries 3; set net:timeout 30;
             mkdir -p -f $DOSSIER;
-            mirror -R --ignore-time --delete --exclude ^films/ --parallel=4 --verbose=1 _site/ $DOSSIER;
+            mirror -R --ignore-time --delete --exclude ^films/ --exclude ^_brouillons-chatgpt/ --parallel=4 --verbose=1 _site/ $DOSSIER;
             mirror -R --parallel=4 --verbose=1 --include-glob '*.html' --include-glob '*.css' --include-glob '*.js' --include-glob '.htaccess' _site/ $DOSSIER;
             bye"

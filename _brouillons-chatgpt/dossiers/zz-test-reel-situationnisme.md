@@ -21,3 +21,5 @@ Les situationnistes défendent les conseils ouvriers et participent à l'agitati
 
 - Guy Debord, *La Société du spectacle*, Buchet-Chastel, 1967.
 - Raoul Vaneigem, *Traité de savoir-vivre à l'usage des jeunes générations*, Gallimard, 1967.
+
+<!-- relance du test : diagnostic de l erreur -->

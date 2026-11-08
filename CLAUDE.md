@@ -8,6 +8,71 @@ Site en ligne : https://mamiecommune.org (hébergement IONOS Web Plus) · copie 
 
 Chaque envoi sur `main` publie aux deux endroits (`.github/workflows/publier.yml`) : GitHub Pages, et IONOS par SFTP avec les secrets `IONOS_HOTE`, `IONOS_UTILISATEUR`, `IONOS_MOT_DE_PASSE` et la variable `IONOS_DOSSIER`. Ne jamais écrire ces accès dans le dépôt ni les demander en clair : la personne les saisit elle-même dans GitHub. Réglages Apache d'IONOS (HTTPS, sans www, cache) : `.htaccess` à la racine.
 
+## Consignes permanentes (à relire avant chaque mission)
+
+Ces principes valent pour toutes les missions. Les règles pratiques plus bas (droits, images, outils, carte, confidentialité) en sont l'application détaillée : en cas de doute, c'est la règle la plus prudente qui s'applique.
+
+### 1. Présentation
+
+Mamie Commune est une boîte à outils libertaire, une bibliothèque populaire et un espace d'éducation populaire. Le but est de rendre accessibles les savoirs, les expériences historiques et les outils nécessaires à l'autonomie collective.
+
+Le projet est organisé en six espaces : **Apprendre, S'organiser, S'entraider, Se défendre, Créer, Trouver des alliés** (les six tiroirs de `$familles`, voir « Organisation du site » plus bas ; le menu principal en sept entrées les regroupe autrement, voir « Navigation principale »).
+
+### 2. Orientation éditoriale
+
+Le projet assume une orientation libertaire. Principes de référence : autonomie, autogestion, entraide, fédéralisme, démocratie directe, éducation populaire, antiautoritarisme, émancipation collective, libre partage des savoirs.
+
+- Ne pas transformer le site en propagande caricaturale.
+- Ne pas présenter tous les courants libertaires comme identiques.
+- Exposer les divergences, les débats et les contradictions historiques.
+- Le site doit rester accessible aux personnes qui découvrent ces idées.
+
+### 3. Aucune intelligence artificielle dans le site
+
+Aucune IA générative ne doit être intégrée au site. Interdits : API de génération de texte, chatbot, rédaction automatique, résumé automatique par IA, génération automatique de décisions ou de stratégies, analyse automatisée des opinions politiques.
+
+Les outils reposent exclusivement sur des formulaires, des modèles prédéfinis, des champs personnalisables, des listes de choix, des calculs simples, une mise en page dynamique, des exports et des sauvegardes locales. **La personne qui utilise l'outil écrit, choisit et décide.**
+
+### 4. Confidentialité
+
+- Aucun compte obligatoire, aucune publicité, aucun traqueur publicitaire, aucune collecte superflue.
+- Aucun envoi des champs remplis dans les outils.
+- Aucun stockage automatique non expliqué (tout ce qui est gardé dans le navigateur est listé dans `confidentialite.html`).
+- Priorité au traitement local, protection des informations sensibles, pas d'adresse privée sur la carte.
+- Les contributions sont vérifiées avant publication.
+
+### 5. Technologies
+
+Avant toute modification, étudier les technologies déjà utilisées (site statique généré par `_src/build.ps1`, HTML, CSS et JavaScript écrits à la main, plus quelques bibliothèques libres copiées dans `assets/vendor/` : Leaflet pour la carte, pdf.js pour le lecteur ; rien n'est chargé depuis un autre site). Ne pas remplacer une technologie qui fonctionne sans raison. Privilégier : logiciels libres, formats ouverts, standards web, architecture simple, composants réutilisables, performance, accessibilité, compatibilité mobile, fonctionnement hors ligne.
+
+### 6. Contenus
+
+- Ne jamais inventer une source ou une citation.
+- Chaque ressource comporte autant que possible : titre, auteur, date, type de source, nature de la source, langue, licence, lien original, date de vérification.
+- Distinguer faits, analyses, témoignages et opinions.
+- Ne pas republier d'œuvres protégées sans autorisation.
+
+### 7. Identité graphique
+
+Mamie Commune doit évoquer une bibliothèque populaire, un infokiosque, un journal militant, un atelier collectif, une culture graphique issue des affiches et des fanzines (le collage décrit dans « Direction artistique »).
+
+À éviter : design corporate, interface SaaS générique, surenchère de symboles politiques, décoration inutile, animations excessives. **La lisibilité prime sur la décoration.**
+
+### 8. Méthode de travail
+
+Travailler par missions successives.
+
+Avant de modifier : 1. examiner l'existant ; 2. identifier les dépendances ; 3. comprendre les conséquences ; 4. préserver les données ; 5. proposer une approche (et attendre l'accord).
+
+Après chaque mission : 1. tester les fonctionnalités ; 2. vérifier les pages ; 3. contrôler les erreurs ; 4. vérifier le mobile ; 5. documenter les changements.
+
+- Ne jamais prétendre avoir testé quelque chose qui ne l'a pas été.
+- Ne jamais supprimer une fonctionnalité sans validation.
+
+### 9. Principe général
+
+Mamie Commune est un outil mis à disposition de celles et ceux qui veulent apprendre, s'organiser, s'entraider, se défendre et créer. Le site ne décide pas à leur place : il leur donne des ressources et des moyens pour agir ensemble.
+
 ## Raccourcis (`.claude/skills/`)
 
 - `/ajouter-video <adresse TikTok>` : nouvelle publication TikTok.

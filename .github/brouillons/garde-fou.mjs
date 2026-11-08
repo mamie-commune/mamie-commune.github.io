@@ -11,7 +11,9 @@ import path from "node:path";
 const racine = path.resolve(process.argv[2] || ".");
 const sortie = path.resolve(process.argv[3] || "resultat");
 fs.mkdirSync(sortie, { recursive: true });
-const git = (...a) => execFileSync("git", a, { cwd: racine, maxBuffer: 64 * 1024 * 1024 }).toString();
+// git sans mécanisme d'exécution automatique (moniteur de fichiers, crochets, diff externe, pager).
+const SUR = ["-c", "core.fsmonitor=false", "-c", "core.hooksPath=/dev/null", "-c", "core.pager=cat", "--no-pager"];
+const git = (...a) => execFileSync("git", [...SUR, ...a], { cwd: racine, maxBuffer: 64 * 1024 * 1024, env: { ...process.env, GIT_EXTERNAL_DIFF: "", GIT_CONFIG_NOSYSTEM: "1" } }).toString();
 
 const problemes = [], nouveaux = [], modifies = [];
 const NOUVEAU_OK = /^_src\/encyclopedie\/\d+[a-z]?-[a-z0-9-]+\.txt$/;
@@ -20,7 +22,8 @@ const FAMILLES = "_src/encyclopedie/familles.json";
 for (const ligne of git("status", "--porcelain", "--untracked-files=all").split("\n").filter(Boolean)) {
   const code = ligne.slice(0, 2);
   const p = ligne.slice(3).replace(/^"|"$/g, "");
-  if (code === "??") { (NOUVEAU_OK.test(p) ? nouveaux : problemes).push(NOUVEAU_OK.test(p) ? p : `Fichier créé hors du périmètre autorisé : ${p}`); continue; }
+  // « ?? » : fichier nouveau ; « A » : nouveau fichier déjà annoncé à git (git add -N d'un passage précédent).
+  if (code === "??" || code.includes("A")) { (NOUVEAU_OK.test(p) ? nouveaux : problemes).push(NOUVEAU_OK.test(p) ? p : `Fichier créé hors du périmètre autorisé : ${p}`); continue; }
   if (code.includes("D")) { problemes.push(`Suppression interdite : ${p}`); continue; }
   if (code.includes("R") || code.includes("C")) { problemes.push(`Renommage ou copie interdit : ${p}`); continue; }
   if (p === FAMILLES) { modifies.push(p); continue; }
@@ -43,7 +46,7 @@ if (familles && modifies.includes(FAMILLES)) {
 
 // Nouveaux dossiers : en-têtes au bon format, identifiants libres, mouvement rangé dans une famille.
 const existants = new Set();
-for (const f of git("ls-files", "_src/encyclopedie").split("\n").filter((x) => x.endsWith(".txt"))) {
+for (const f of git("ls-tree", "-r", "--name-only", "HEAD", "--", "_src/encyclopedie").split("\n").filter((x) => x.endsWith(".txt"))) {
   for (const m of git("show", `HEAD:${f}`).matchAll(/^=== ([^|\s]+) \|/gm)) existants.add(m[1]);
 }
 const mouvements = new Set((familles || []).flatMap((f) => f.mouvements.map((m) => m.nom)));
@@ -66,7 +69,8 @@ if (!nouveaux.length && !problemes.length) problemes.push("Aucun nouveau dossier
 const ok = problemes.length === 0;
 if (ok) {
   for (const f of nouveaux) git("add", "-N", f);
-  fs.writeFileSync(path.join(sortie, "correctif.patch"), git("diff", "--binary"));
+  fs.writeFileSync(path.join(sortie, "correctif.patch"), git("diff", "--binary", "--no-ext-diff", "--no-textconv"));
+  git("reset", "-q", "--", ...nouveaux); // remet l'index dans son état d'origine
 }
 fs.writeFileSync(path.join(sortie, "garde.json"), JSON.stringify({ ok, problemes, nouveaux, modifies, pages }, null, 2));
 console.log(ok ? `Garde-fou : conforme (${nouveaux.length} nouveau(x) fichier(s), ${pages.length} page(s)).` : `Garde-fou : NON conforme\n- ${problemes.join("\n- ")}`);

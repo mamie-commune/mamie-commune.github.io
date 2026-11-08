@@ -89,6 +89,8 @@ jobs:
           cp -r _entree/.github/brouillons "$O"
           rm -rf _entree
           git rev-parse HEAD > "$R/base.txt"
+          # Empreinte de la configuration git avant Claude : toute modification sera refusée par le garde-fou.
+          { sha256sum .git/config; find .git/hooks -type f -exec sha256sum {} \; | sort; } > "$RUNNER_TEMP/git-avant.txt"
           node -e '
             const fs = require("fs"), e = process.env;
             let t = fs.readFileSync(e.O + "/consigne-claude.md", "utf8");
@@ -125,7 +127,7 @@ jobs:
             --max-turns 200
             --add-dir ${{ runner.temp }}/brouillon
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(ls:*),Bash(git status:*),Bash(git diff:*),Bash(git log:*),Bash(git show:*)"
-            --disallowedTools "Skill,Bash(git push:*),Bash(git commit:*),Bash(git remote:*),Bash(gh:*)"
+            --disallowedTools "Skill,Bash(curl:*),Bash(wget:*),Bash(git push:*),Bash(git commit:*),Bash(git remote:*),Bash(git config:*),Bash(gh:*)"
             --json-schema '{"type":"object","properties":{"decision":{"type":"string","enum":["integrer","bloquer"]},"mouvement":{"type":"string"},"resume":{"type":"string"},"raisons_blocage":{"type":"array","items":{"type":"string"}}},"required":["decision","mouvement","resume","raisons_blocage"]}'
       - name: Enregistrer la décision de Claude
         if: always()
@@ -134,12 +136,25 @@ jobs:
         run: |
           if [ -n "$SORTIE" ]; then printf '%s' "$SORTIE" > "$R/decision.json"; fi
           if [ -f "$B/rapport.md" ]; then cp "$B/rapport.md" "$R/rapport-claude.md"; fi
+      # Les scripts de contrôle sont repris à neuf depuis contenus-chatgpt : jamais ceux présents pendant l'analyse.
+      - name: Outils de contrôle (copie fraîche, non modifiable par Claude)
+        if: always() && steps.claude.outcome == 'success'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.detecter.outputs.sha }}
+          path: _outils
+          sparse-checkout: .github/brouillons
+          persist-credentials: false
       - name: Garde-fou (périmètre des changements, sans IA)
         if: always() && steps.claude.outcome == 'success'
-        run: node "$O/garde-fou.mjs" . "$R"
-      - name: Conserver les résultats
-        if: always()
-        run: cp -r "$O" "$R/outils"
+        run: |
+          set -euo pipefail
+          mv _outils/.github/brouillons "$RUNNER_TEMP/outils-surs"; rm -rf _outils
+          if ! sha256sum --quiet -c <(head -n 1 "$RUNNER_TEMP/git-avant.txt") || [ "$(find .git/hooks -type f -exec sha256sum {} \; | sort)" != "$(tail -n +2 "$RUNNER_TEMP/git-avant.txt")" ]; then
+            echo '{"ok":false,"problemes":["La configuration git (.git/config ou .git/hooks) a été modifiée pendant l analyse : rien n est proposé."],"nouveaux":[],"modifies":[],"pages":[]}' > "$R/garde.json"
+            echo "::error::Configuration git modifiée pendant l'analyse."; exit 0
+          fi
+          node "$RUNNER_TEMP/outils-surs/garde-fou.mjs" . "$R"
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -185,13 +200,22 @@ jobs:
         with:
           ref: ${{ steps.faut.outputs.base }}
           persist-credentials: false
+      - name: Outils de test (copie fraîche depuis contenus-chatgpt)
+        if: steps.faut.outputs.ok == 'true'
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.detecter.outputs.sha }}
+          path: _outils
+          sparse-checkout: .github/brouillons
+          persist-credentials: false
       - name: Appliquer le correctif et tester
         if: steps.faut.outputs.ok == 'true'
         shell: powershell
         run: |
+          Move-Item _outils/.github/brouillons "$env:RUNNER_TEMP/outils-surs"; Remove-Item -Recurse -Force _outils
           git apply --whitespace=nowarn "$env:RUNNER_TEMP/resultat/correctif.patch"
           if ($LASTEXITCODE -ne 0) { Write-Host "::error::Le correctif ne s'applique pas sur main."; exit 1 }
-          powershell -NoProfile -ExecutionPolicy Bypass -File "$env:RUNNER_TEMP/resultat/outils/verifier-site.ps1" -Garde "$env:RUNNER_TEMP/resultat/garde.json" -Sortie "$env:RUNNER_TEMP/tests"
+          powershell -NoProfile -ExecutionPolicy Bypass -File "$env:RUNNER_TEMP/outils-surs/verifier-site.ps1" -Garde "$env:RUNNER_TEMP/resultat/garde.json" -Sortie "$env:RUNNER_TEMP/tests"
       - uses: actions/upload-artifact@v4
         if: steps.faut.outputs.ok == 'true'
         with:
@@ -219,6 +243,13 @@ jobs:
       BLOB: ${{ matrix.dossier.blob }}
       GH_TOKEN: ${{ github.token }}
     steps:
+      - name: Outils de décision (copie fraîche depuis contenus-chatgpt)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.detecter.outputs.sha }}
+          path: _outils
+          sparse-checkout: .github/brouillons
+          persist-credentials: false
       - uses: actions/download-artifact@v4
         continue-on-error: true
         with:
@@ -233,13 +264,11 @@ jobs:
         id: decider
         run: |
           R="$RUNNER_TEMP/resultat"; mkdir -p "$R"
-          if [ -f "$R/outils/decider.mjs" ]; then
-            S=$(node "$R/outils/decider.mjs" "$R" "$ID" "$FICHIER" "$BLOB")
-          else
-            S="echec-technique"; echo "$S" > "$R/statut.txt"
-          fi
+          mv _outils/.github/brouillons "$RUNNER_TEMP/outils-surs"; rm -rf _outils
+          S=$(node "$RUNNER_TEMP/outils-surs/decider.mjs" "$R" "$ID" "$FICHIER" "$BLOB") || { S="echec-technique"; echo "$S" > "$R/statut.txt"; }
           echo "statut=$S" >> "$GITHUB_OUTPUT"
-          [ -f "$R/base.txt" ] && echo "base=$(cat "$R/base.txt")" >> "$GITHUB_OUTPUT" || true
+          BASE=$(cat "$R/base.txt" 2>/dev/null || true)
+          if [[ "$BASE" =~ ^[0-9a-f]{40}$ ]]; then echo "base=$BASE" >> "$GITHUB_OUTPUT"; elif [ "$S" = "propose" ]; then S="echec-technique"; echo "$S" > "$R/statut.txt"; echo "statut=$S" >> "$GITHUB_OUTPUT"; fi
           echo "Statut : $S"
       - uses: actions/checkout@v4
         if: steps.decider.outputs.statut == 'propose'

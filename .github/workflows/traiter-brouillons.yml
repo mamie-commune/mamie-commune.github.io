@@ -1,0 +1,325 @@
+# Traite automatiquement les dossiers déposés par ChatGPT dans _brouillons-chatgpt/dossiers/ (branche contenus-chatgpt) :
+# Claude les analyse et prépare leur intégration, un garde-fou vérifie le périmètre, le site est généré et testé sur Windows,
+# puis une Pull Request EN BROUILLON est ouverte vers main. Rien n'est jamais publié ni fusionné automatiquement :
+# la publication n'a lieu que si une personne relit, sort la PR du mode brouillon et la fusionne dans main.
+#
+# Sécurité :
+# - Déclenché uniquement par un envoi sur contenus-chatgpt qui touche _brouillons-chatgpt/dossiers/ (les rapports déposés
+#   par ce workflow ne le relancent pas : envoyés avec GITHUB_TOKEN, et hors de ce chemin).
+# - Claude tourne en lecture seule, sans aucun jeton GitHub, sans identifiants git (persist-credentials: false), et sans
+#   accès aux secrets IONOS (jamais référencés ici). Il ne peut ni pousser, ni ouvrir de PR, ni déclencher de workflow.
+# - Seuls des scripts de ce dépôt (sans IA) créent la branche integration/<id> et la PR en brouillon, ou déposent le rapport.
+# - Aucune permission pages, actions, deployments ni environnement github-pages : ce workflow ne peut pas publier.
+# - Mode d'emploi : _brouillons-chatgpt/instructions/AUTOMATISATION.md
+name: Traiter les brouillons ChatGPT
+
+on:
+  push:
+    branches: [contenus-chatgpt]
+    paths:
+      - "_brouillons-chatgpt/dossiers/**"
+
+permissions: {}
+
+concurrency:
+  group: traiter-brouillons-chatgpt
+  cancel-in-progress: false
+
+env:
+  # Modèle utilisé par Claude. Pour en changer sans modifier ce fichier : variable de dépôt MODELE_CLAUDE
+  # (Settings > Secrets and variables > Actions > Variables).
+  MODELE_CLAUDE: ${{ vars.MODELE_CLAUDE || 'claude-opus-5-5' }}
+
+jobs:
+  detecter:
+    name: Repérer les brouillons à traiter
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    outputs:
+      liste: ${{ steps.liste.outputs.liste }}
+      nombre: ${{ steps.liste.outputs.nombre }}
+      sha: ${{ steps.liste.outputs.sha }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: contenus-chatgpt # état le plus récent : rapports déjà déposés compris
+          persist-credentials: false
+      - id: liste
+        run: |
+          node .github/brouillons/detecter.mjs .
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+  analyser:
+    name: Analyse par Claude (${{ matrix.dossier.id }})
+    needs: detecter
+    if: needs.detecter.outputs.nombre != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        dossier: ${{ fromJSON(needs.detecter.outputs.liste) }}
+    env:
+      FICHIER: ${{ matrix.dossier.fichier }}
+      ID: ${{ matrix.dossier.id }}
+    steps:
+      - name: Site tel qu'il est publié (main)
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          persist-credentials: false
+      - name: Brouillon et outils (contenus-chatgpt)
+        uses: actions/checkout@v4
+        with:
+          ref: ${{ needs.detecter.outputs.sha }}
+          path: _entree
+          persist-credentials: false
+      - name: Préparer l'espace de travail
+        run: |
+          set -euo pipefail
+          B="$RUNNER_TEMP/brouillon"; R="$RUNNER_TEMP/resultat"; O="$RUNNER_TEMP/outils"
+          mkdir -p "$B" "$R"
+          cp "_entree/$FICHIER" "$B/dossier.md"
+          cp -r _entree/_brouillons-chatgpt/instructions "$B/instructions"
+          cp -r _entree/.github/brouillons "$O"
+          rm -rf _entree
+          git rev-parse HEAD > "$R/base.txt"
+          node -e '
+            const fs = require("fs"), e = process.env;
+            let t = fs.readFileSync(e.O + "/consigne-claude.md", "utf8");
+            t = t.replaceAll("{{BROUILLON}}", e.B).replaceAll("{{FICHIER}}", e.FICHIER);
+            fs.writeFileSync(e.RUNNER_TEMP + "/consigne.md", t);'
+          echo "B=$B" >> "$GITHUB_ENV"; echo "R=$R" >> "$GITHUB_ENV"; echo "O=$O" >> "$GITHUB_ENV"
+        env:
+          B: ${{ runner.temp }}/brouillon
+          O: ${{ runner.temp }}/outils
+      - name: Vérifier qu'un secret d'authentification existe
+        id: auth
+        env:
+          K: ${{ secrets.ANTHROPIC_API_KEY }}
+          T: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          if [ -z "$K" ] && [ -z "$T" ]; then
+            echo "absente" > "$R/auth.txt"
+            echo "::error::Aucun secret ANTHROPIC_API_KEY ni CLAUDE_CODE_OAUTH_TOKEN : Claude ne peut pas être lancé."
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+      - name: Claude analyse et prépare l'intégration
+        id: claude
+        if: steps.auth.outputs.ok == 'true'
+        continue-on-error: true
+        uses: anthropics/claude-code-action/base-action@v1
+        with:
+          prompt_file: ${{ runner.temp }}/consigne.md
+          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          claude_args: |
+            --model ${{ env.MODELE_CLAUDE }}
+            --max-turns 200
+            --add-dir ${{ runner.temp }}/brouillon
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(curl:*),Bash(ls:*),Bash(git status:*),Bash(git diff:*),Bash(git log:*),Bash(git show:*)"
+            --disallowedTools "Bash(git push:*),Bash(git commit:*),Bash(git remote:*),Bash(gh:*)"
+            --json-schema '{"type":"object","properties":{"decision":{"type":"string","enum":["integrer","bloquer"]},"mouvement":{"type":"string"},"resume":{"type":"string"},"raisons_blocage":{"type":"array","items":{"type":"string"}}},"required":["decision","mouvement","resume","raisons_blocage"]}'
+      - name: Enregistrer la décision de Claude
+        if: always()
+        env:
+          SORTIE: ${{ steps.claude.outputs.structured_output }}
+        run: |
+          if [ -n "$SORTIE" ]; then printf '%s' "$SORTIE" > "$R/decision.json"; fi
+          if [ -f "$B/rapport.md" ]; then cp "$B/rapport.md" "$R/rapport-claude.md"; fi
+      - name: Garde-fou (périmètre des changements, sans IA)
+        if: always() && steps.claude.outcome == 'success'
+        run: node "$O/garde-fou.mjs" . "$R"
+      - name: Conserver les résultats
+        if: always()
+        run: cp -r "$O" "$R/outils"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: analyse-${{ matrix.dossier.id }}
+          path: ${{ runner.temp }}/resultat
+          retention-days: 30
+
+  tester:
+    name: Tests du site sur Windows (${{ matrix.dossier.id }})
+    needs: [detecter, analyser]
+    if: always() && needs.detecter.outputs.nombre != '0'
+    runs-on: windows-latest
+    timeout-minutes: 30
+    permissions:
+      contents: read
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        dossier: ${{ fromJSON(needs.detecter.outputs.liste) }}
+    steps:
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: analyse-${{ matrix.dossier.id }}
+          path: ${{ runner.temp }}/resultat
+      - name: Faut-il tester ?
+        id: faut
+        shell: pwsh
+        run: |
+          $r = "$env:RUNNER_TEMP/resultat"
+          $ok = $false; $base = ""
+          if ((Test-Path "$r/decision.json") -and (Test-Path "$r/garde.json") -and (Test-Path "$r/correctif.patch")) {
+            $d = Get-Content "$r/decision.json" -Raw | ConvertFrom-Json
+            $g = Get-Content "$r/garde.json" -Raw | ConvertFrom-Json
+            $ok = ($d.decision -eq "integrer") -and $g.ok
+            $base = (Get-Content "$r/base.txt" -Raw).Trim()
+          }
+          "ok=$($ok.ToString().ToLower())" >> $env:GITHUB_OUTPUT
+          "base=$base" >> $env:GITHUB_OUTPUT
+      - uses: actions/checkout@v4
+        if: steps.faut.outputs.ok == 'true'
+        with:
+          ref: ${{ steps.faut.outputs.base }}
+          persist-credentials: false
+      - name: Appliquer le correctif et tester
+        if: steps.faut.outputs.ok == 'true'
+        shell: powershell
+        run: |
+          git apply --whitespace=nowarn "$env:RUNNER_TEMP/resultat/correctif.patch"
+          if ($LASTEXITCODE -ne 0) { Write-Host "::error::Le correctif ne s'applique pas sur main."; exit 1 }
+          powershell -NoProfile -ExecutionPolicy Bypass -File "$env:RUNNER_TEMP/resultat/outils/verifier-site.ps1" -Garde "$env:RUNNER_TEMP/resultat/garde.json" -Sortie "$env:RUNNER_TEMP/tests"
+      - uses: actions/upload-artifact@v4
+        if: steps.faut.outputs.ok == 'true'
+        with:
+          name: tests-${{ matrix.dossier.id }}
+          path: ${{ runner.temp }}/tests
+          retention-days: 30
+
+  proposer:
+    name: Branche et Pull Request en brouillon (${{ matrix.dossier.id }})
+    needs: [detecter, analyser, tester]
+    if: always() && needs.detecter.outputs.nombre != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write # pour pousser la branche integration/<id> uniquement (garde-fou ci-dessous)
+      pull-requests: write # pour ouvrir la PR en brouillon ; aucune fusion n'est faite
+    strategy:
+      fail-fast: false
+      max-parallel: 1
+      matrix:
+        dossier: ${{ fromJSON(needs.detecter.outputs.liste) }}
+    env:
+      FICHIER: ${{ matrix.dossier.fichier }}
+      ID: ${{ matrix.dossier.id }}
+      BLOB: ${{ matrix.dossier.blob }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: analyse-${{ matrix.dossier.id }}
+          path: ${{ runner.temp }}/resultat
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          name: tests-${{ matrix.dossier.id }}
+          path: ${{ runner.temp }}/resultat
+      - name: Décider (sans IA)
+        id: decider
+        run: |
+          R="$RUNNER_TEMP/resultat"; mkdir -p "$R"
+          if [ -f "$R/outils/decider.mjs" ]; then
+            S=$(node "$R/outils/decider.mjs" "$R" "$ID" "$FICHIER" "$BLOB")
+          else
+            S="echec-technique"; echo "$S" > "$R/statut.txt"
+          fi
+          echo "statut=$S" >> "$GITHUB_OUTPUT"
+          [ -f "$R/base.txt" ] && echo "base=$(cat "$R/base.txt")" >> "$GITHUB_OUTPUT" || true
+          echo "Statut : $S"
+      - uses: actions/checkout@v4
+        if: steps.decider.outputs.statut == 'propose'
+        with:
+          ref: ${{ steps.decider.outputs.base }}
+      - name: Pousser la branche integration et ouvrir la PR en brouillon
+        if: steps.decider.outputs.statut == 'propose'
+        run: |
+          set -euo pipefail
+          R="$RUNNER_TEMP/resultat"
+          BRANCHE="integration/$ID"
+          # Garde-fous : jamais main, jamais autre chose qu'une branche integration/<identifiant simple>.
+          [[ "$BRANCHE" =~ ^integration/[a-z0-9-]+$ ]] || { echo "::error::Nom de branche refusé : $BRANCHE"; exit 1; }
+          if git ls-remote --exit-code --heads origin "$BRANCHE" >/dev/null; then
+            echo "La branche $BRANCHE existe déjà : rien n'est recréé." | tee -a "$R/rapport-final.md"
+            PR=$(gh pr list --head "$BRANCHE" --state all --json url -q '.[0].url' || true)
+            [ -n "$PR" ] && echo "$PR" > "$R/pr.txt"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git switch -c "$BRANCHE"
+          git apply --whitespace=nowarn "$R/correctif.patch"
+          git add -A _src/encyclopedie
+          git diff --cached --name-only | grep -qvE '^_src/encyclopedie/' && { echo "::error::Fichier hors encyclopédie dans le commit"; exit 1; } || true
+          git commit -q -m "$(cat "$R/titre.txt")" -m "Préparé automatiquement à partir de $FICHIER (empreinte $BLOB). Rapport complet dans la description de la Pull Request."
+          git push origin "HEAD:refs/heads/$BRANCHE"
+          if PR=$(gh pr create --draft --base main --head "$BRANCHE" --title "$(cat "$R/titre.txt")" --body-file "$R/rapport-final.md" 2>"$R/erreur-pr.txt"); then
+            echo "$PR" > "$R/pr.txt"; echo "Pull Request en brouillon : $PR"
+          else
+            echo "::warning::La branche $BRANCHE est poussée mais la PR n'a pas pu être créée : $(cat "$R/erreur-pr.txt")"
+            printf '\n## Pull Request non créée\n\nLa branche `%s` est prête, mais GitHub a refusé la création automatique de la Pull Request :\n\n```\n%s\n```\n\nCause probable : le réglage « Allow GitHub Actions to create and approve pull requests » est désactivé (Settings > Actions > General > Workflow permissions).\n' "$BRANCHE" "$(cat "$R/erreur-pr.txt")" >> "$R/rapport-final.md"
+          fi
+      - name: Résumé de l'exécution
+        if: always()
+        run: |
+          R="$RUNNER_TEMP/resultat"
+          [ -f "$R/rapport-final.md" ] && head -c 60000 "$R/rapport-final.md" >> "$GITHUB_STEP_SUMMARY" || true
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: final-${{ matrix.dossier.id }}
+          path: |
+            ${{ runner.temp }}/resultat/statut.txt
+            ${{ runner.temp }}/resultat/rapport-final.md
+            ${{ runner.temp }}/resultat/pr.txt
+          if-no-files-found: ignore
+          retention-days: 30
+
+  rapporter:
+    name: Déposer les rapports dans contenus-chatgpt
+    needs: [detecter, proposer]
+    if: always() && needs.detecter.outputs.nombre != '0'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write # pour pousser les rapports sur contenus-chatgpt uniquement
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: contenus-chatgpt
+      - uses: actions/download-artifact@v4
+        continue-on-error: true
+        with:
+          pattern: final-*
+          path: ${{ runner.temp }}/finaux
+      - name: Écrire et envoyer les rapports
+        env:
+          LISTE: ${{ needs.detecter.outputs.liste }}
+        run: |
+          set -euo pipefail
+          node .github/brouillons/rapporter.mjs . "$RUNNER_TEMP/finaux" "$LISTE"
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _brouillons-chatgpt/rapports
+          git diff --cached --name-only | grep -qvE '^_brouillons-chatgpt/rapports/' && { echo "::error::Fichier hors rapports"; exit 1; } || true
+          git diff --cached --quiet && { echo "Aucun rapport à déposer."; exit 0; }
+          git commit -q -m "Rapports de traitement des brouillons ChatGPT (exécution $GITHUB_RUN_ID)"
+          for essai in 1 2 3 4 5; do
+            git push origin "HEAD:refs/heads/contenus-chatgpt" && exit 0
+            sleep $((essai * 5)); git pull --rebase -q origin contenus-chatgpt
+          done
+          echo "::error::Impossible d'envoyer les rapports après 5 essais."; exit 1

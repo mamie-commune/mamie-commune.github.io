@@ -129,6 +129,19 @@ jobs:
             --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(ls:*),Bash(git status:*),Bash(git diff:*),Bash(git log:*),Bash(git show:*)"
             --disallowedTools "Skill,Bash(curl:*),Bash(wget:*),Bash(git push:*),Bash(git commit:*),Bash(git remote:*),Bash(git config:*),Bash(gh:*)"
             --json-schema '{"type":"object","properties":{"decision":{"type":"string","enum":["integrer","bloquer"]},"mouvement":{"type":"string"},"resume":{"type":"string"},"raisons_blocage":{"type":"array","items":{"type":"string"}}},"required":["decision","mouvement","resume","raisons_blocage"]}'
+      - name: Diagnostic si Claude échoue (message d'erreur seul, jamais la clé)
+        if: always() && steps.claude.outcome == 'failure'
+        run: |
+          F="$RUNNER_TEMP/claude-execution-output.json"
+          [ -f "$F" ] || { echo "Pas de fichier d'exécution."; exit 0; }
+          node -e '
+            const fs = require("fs"); const t = fs.readFileSync(process.argv[1], "utf8");
+            let msgs; try { msgs = JSON.parse(t); } catch { msgs = t.split("\n").filter(Boolean).map((l) => { try { return JSON.parse(l); } catch { return null; } }).filter(Boolean); }
+            if (!Array.isArray(msgs)) msgs = [msgs];
+            const r = [...msgs].reverse().find((m) => m && m.type === "result") || {};
+            let txt = [r.subtype, r.is_error ? "erreur" : "", typeof r.result === "string" ? r.result : "", (r.errors || []).join(" ")].filter(Boolean).join(" · ");
+            txt = txt.replace(/sk-ant-[A-Za-z0-9_-]+/g, "[clé masquée]").slice(0, 600) || "Erreur sans message.";
+            fs.writeFileSync(process.env.R + "/erreur-claude.txt", txt); console.log("Erreur de Claude : " + txt);' "$F"
       - name: Enregistrer la décision de Claude
         if: always()
         env:

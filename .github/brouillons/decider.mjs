@@ -17,7 +17,7 @@ const auth = lire("auth.txt");
 
 let statut, raison;
 if (auth && auth.trim() === "absente") { statut = "echec-technique"; raison = "Aucun secret ANTHROPIC_API_KEY ni CLAUDE_CODE_OAUTH_TOKEN n'est configuré : Claude n'a pas pu être lancé."; }
-else if (!decision || !decision.decision) { statut = "echec-technique"; raison = "Claude n'a pas rendu de décision (interruption, limite atteinte ou erreur d'authentification). Relancer le workflow depuis l'onglet Actions."; }
+else if (!decision || !decision.decision) { const err = (lire("erreur-claude.txt") || "").trim(); statut = "echec-technique"; raison = `Claude n'a pas rendu de décision (interruption, limite atteinte ou erreur d'authentification). Relancer le workflow depuis l'onglet Actions.${err ? `\n\nMessage d'erreur de Claude : \`${err.replace(/`/g, "'")}\`` : ""}`; }
 else if (decision.decision === "bloquer") { statut = "bloque"; raison = "Claude a jugé que le dossier demande une décision humaine avant toute intégration."; }
 else if (!garde) { statut = "echec-technique"; raison = "Le garde-fou n'a pas produit de résultat."; }
 else if (!garde.ok) { statut = "non-conforme"; raison = "Les changements préparés sortent du périmètre autorisé : rien n'est proposé."; }

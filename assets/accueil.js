@@ -21,7 +21,7 @@
     const plus = document.createElement("button"); plus.type = "button"; plus.className = "btn liste-plus";
     plus.addEventListener("click", () => { deplie = true; render(); const c = grid.children[plie]; if (c) c.focus(); });
     if (plie) grid.after(plus);
-    const cta = { BIBLIO: "Lire la fiche →", LIVRES: "Lire le livre →", EXPERIENCES: "Lire le dossier →", ANTIFA: "Lire la fiche →", MANIF: "Lire la fiche →", AGIR: "Lire la fiche →", FIGURES: "Lire le portrait →", UNIVERSITE: "Suivre le parcours →" }[key] || "Lire le guide →";
+    const cta = { BIBLIO: "Lire la fiche →", LIVRES: "Lire le livre →", EXPERIENCES: "Lire le dossier →", ANTIFA: "Lire la fiche →", MANIF: "Lire la fiche →", AGIR: "Lire la fiche →", FIGURES: "Lire le portrait →", UNIVERSITE: "Suivre le parcours →", ENCYCLOPEDIE: "Lire le dossier →" }[key] || "Lire le guide →";
     const cats = ["Tout", ...new Set(items.map((g) => g.cat))];
     let active = cats.find((c) => slugify(c) === location.hash.slice(1)) || "Tout";
 

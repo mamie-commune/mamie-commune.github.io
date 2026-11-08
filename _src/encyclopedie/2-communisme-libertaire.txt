@@ -1,0 +1,406 @@
+=== communisme-libertaire-histoire | Communisme libertaire | Le communisme libertaire : naissance et diffusion | Monde · depuis 1876 | Né dans l'Internationale anti-autoritaire à la fin des années 1870, le communisme libertaire veut mettre toutes les richesses en commun, sans État. De Genève à Buenos Aires, de Tokyo à Saragosse, l'histoire d'un courant qui a dominé l'anarchisme pendant un demi-siècle.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande. Les faits viennent des sources citées en bas de page ; les jugements sont signalés comme tels.</p>
+<p>Le <strong>communisme libertaire</strong>, qu'on appelle aussi <strong>communisme anarchiste</strong> ou anarcho-communisme, est le courant de l'anarchisme qui veut abolir à la fois l'État, la propriété capitaliste et le <strong>salariat</strong> : les terres, les usines, les logements et les produits deviennent des biens communs, et chacun reçoit selon ses besoins. Il se distingue de deux voisins avec lesquels on le confond souvent :</p>
+<ul>
+<li>du <strong>communisme d'État</strong>, celui des partis marxistes-léninistes, qui confie la propriété commune et sa répartition à un État dirigé par un parti. Ce n'est qu'une des traditions issues de Marx : le dossier <a href="anarchisme-idees.html#marxismes">Anarchisme</a> présente les autres, dont certaines sont proches des libertaires ;</li>
+<li>du <strong>collectivisme anarchiste</strong> de Bakounine et de l'Internationale anti-autoritaire, qui mettait en commun les moyens de production mais laissait, le plus souvent, la répartition des produits se faire selon le travail fourni (voir <a href="#racines">plus bas</a> les nuances).</li>
+</ul>
+<p>Cette page raconte d'où vient ce courant et comment il s'est répandu. La <a href="communisme-libertaire-idees.html">deuxième page</a> détaille ses idées et ses débats, la <a href="communisme-libertaire-heritages.html">troisième</a> les expériences où on a essayé de le vivre. Pour l'anarchisme en général, voir le dossier <a href="anarchisme-histoire.html">Anarchisme</a>.</p>
+
+<div class="note"><p><strong>Faits et interprétations.</strong> Les dates, les congrès et les textes cités sont établis par les sources en bas de page. Quand un chiffre varie selon les historiens, ou quand une « première fois » n'est affirmée que par une seule source, la page le dit.</p></div>
+
+<h2 id="mots">Les mots : anarchiste ou libertaire ?</h2>
+<p>Au XIX<sup>e</sup> siècle, on dit surtout « communisme anarchiste ». L'expression « communisme libertaire » se répand ensuite, en particulier en Espagne (<em>comunismo libertario</em>) et en France, où elle devient le nom de plusieurs organisations après 1945. Les deux expressions désignent le même courant, et ce dossier les emploie l'une pour l'autre. Il ne faut pas les confondre avec le « marxisme libertaire » de Daniel Guérin, qui cherche à réunir anarchisme et marxisme (voir <a href="communisme-libertaire-idees.html#voisins">les idées</a>).</p>
+
+<h2 id="racines">Les racines : utopies communistes et Internationale</h2>
+<p>L'idée de mettre les biens en commun est bien plus ancienne que l'anarchisme. Au milieu du XIX<sup>e</sup> siècle, en France, les disciples d'Étienne Cabet, les <strong>Icariens</strong>, rêvent d'une communauté égalitaire et partent même la fonder en Amérique. Mais leur communisme est autoritaire : tout y est réglé par une administration centrale.</p>
+<p>Dans les années 1850, l'ouvrier exilé <strong>Joseph Déjacque</strong>, celui qui a forgé le mot « libertaire », publie dans son journal new-yorkais une utopie, <cite>L'Humanisphère</cite>, où une humanité sans gouvernement partage librement les produits de son travail. Il reste isolé, mais beaucoup d'historiens voient en lui un précurseur direct du communisme anarchiste.</p>
+<p>Dans l'<strong>Association internationale des travailleurs</strong> (fondée en 1864), les débats sur la propriété aboutissent en 1869, au congrès de Bâle, à un vote en faveur de la propriété collective du sol. Les anti-autoritaires regroupés autour de <a href="../figures/bakounine.html">Bakounine</a> se disent alors <strong>collectivistes</strong>. Le mot recouvre en réalité plusieurs positions :</p>
+<ul>
+<li><strong>la propriété</strong> : la terre et les instruments de travail deviennent la propriété collective des communes et des associations de travailleurs, et non de l'État. Au même congrès de Bâle, Bakounine défend aussi l'abolition de l'héritage, afin que chacun parte du même point ; sa motion arrive devant celle des partisans de Marx, sans obtenir la majorité absolue ;</li>
+<li><strong>la répartition</strong> : la plupart des collectivistes veulent que chacun reçoive le produit de son travail, ou sa valeur, ce qui suppose de mesurer le travail ; mais ils ne disent pas tous comment, et laissent souvent la décision aux associations. Bakounine et Proudhon se méfiaient de ceux qui vivraient du travail des autres, ce qui explique leur attachement au lien entre travail et rétribution ;</li>
+<li><strong>l'évolution</strong> : en 1876, le Suisse <strong>James Guillaume</strong>, dans ses <cite>Idées sur l'organisation sociale</cite>, laisse la question ouverte et envisage qu'avec l'abondance on passe d'une répartition selon le travail à une répartition selon les besoins. Pour lui, le collectivisme est un point de départ, pas un dogme.</li>
+</ul>
+<p>En Espagne, où le collectivisme reste majoritaire jusqu'aux années 1880, des militants comme Ricardo Mella défendent le droit de chaque travailleur au produit de son travail, contre les communistes. Pour compliquer encore les choses, en France, les marxistes de Jules Guesde se nomment eux aussi « collectivistes » dans les années 1880 : quand Kropotkine critique le « collectivisme », il vise à la fois ces marxistes et une partie des anarchistes (<a href="../bibliotheque/revolution-collectiviste.html">La Révolution sera-t-elle collectiviste ?</a>).</p>
+
+<h2 id="1876-1880">1876-1880 : le passage au communisme</h2>
+<p>En quelques années, une partie de l'Internationale anti-autoritaire va plus loin :</p>
+<ul>
+<li><strong>Février 1876</strong> : à Genève, un groupe de réfugiés de la Commune de Lyon, dont <strong>François Dumartheray</strong>, ancien icarien, publie une brochure, <cite>Aux travailleurs manuels partisans de l'action politique</cite>. Elle est souvent présentée comme le premier texte imprimé à employer l'expression « communisme anarchiste » ; cette « première » repose sur des sources militantes et n'a pas été vérifiée sur l'original par la bande.</li>
+<li><strong>Octobre 1876</strong> : la fédération italienne de l'Internationale, réunie près de Florence avec <a href="../figures/malatesta.html">Errico Malatesta</a> et Carlo Cafiero, se prononce pour la mise en commun des produits du travail, et pas seulement des moyens de production.</li>
+<li><strong>Octobre 1880</strong> : au congrès de la <strong>Fédération jurassienne</strong>, à La Chaux-de-Fonds, en Suisse, le courant l'emporte. Cafiero y présente un texte, <cite>Anarchie et communisme</cite>, publié en novembre 1880 dans <cite>Le Révolté</cite> de Genève : pour lui, anarchie et communisme sont les deux faces de la liberté et de l'égalité, et ne peuvent pas aller l'une sans l'autre.</li>
+</ul>
+
+<h2 id="kropotkine">Kropotkine, le grand théoricien</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-kropotkine.jpg" alt="Portrait de Pierre Kropotkine par l'atelier Nadar, grande barbe." width="1200" height="1861" loading="lazy"><figcaption>Pierre Kropotkine, photographié par l'atelier Nadar. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Atelier_Nadar_-_Pierre_Kropotkine.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Prince russe devenu géographe, puis révolutionnaire, <a href="../figures/kropotkine.html">Pierre Kropotkine</a> fonde <cite>Le Révolté</cite> à Genève en 1879, avec Dumartheray et Georg Herzig. Expulsé de Suisse, condamné en France au procès de Lyon (1883), il passe trois ans à la prison de Clairvaux, puis s'installe en Angleterre. Pendant trente ans, il donne au communisme anarchiste ses textes les plus lus :</p>
+<ul>
+<li><a href="../bibliotheque/paroles-d-un-revolte.html"><cite>Paroles d'un révolté</cite></a> (1885), recueil d'articles du <cite>Révolté</cite>, publié par <a href="../figures/elisee-reclus.html">Élisée Reclus</a> ;</li>
+<li><a href="../bibliotheque/la-conquete-du-pain.html"><cite>La Conquête du pain</cite></a> (1892), le livre-programme : comment une ville insurgée peut nourrir, loger et vêtir tout le monde ;</li>
+<li><a href="../bibliotheque/anarchie-philosophie-ideal.html"><cite>L'Anarchie, sa philosophie, son idéal</cite></a> (1896) ;</li>
+<li><a href="../bibliotheque/champs-usines-et-ateliers.html"><cite>Champs, usines et ateliers</cite></a> (1899), sur le mélange du travail agricole et industriel ;</li>
+<li><a href="../bibliotheque/entraide.html"><cite>L'Entraide</cite></a> (1902), qui fait de la coopération un facteur de l'évolution ;</li>
+<li><a href="../bibliotheque/communisme-et-anarchie.html"><cite>Communisme et anarchie</cite></a> (1903), sur le communisme qui élargit la liberté au lieu de l'écraser.</li>
+</ul>
+<p>Autour de lui, Élisée Reclus, Jean Grave (<a href="../bibliotheque/la-societe-future.html">La Société future</a>, 1895) et <a href="../figures/louise-michel.html">Louise Michel</a> (<a href="../bibliotheque/prise-de-possession.html">Prise de possession</a>, 1890) font du communisme anarchiste le courant dominant de l'anarchisme francophone.</p>
+
+<h2 id="diffusion">1880-1914 : un courant qui fait le tour du monde</h2>
+<ul>
+<li><strong>Espagne</strong> : le mouvement espagnol, organisé dans la Fédération des travailleurs de la région espagnole (1881-1888), reste longtemps collectiviste. Le communisme gagne du terrain dans les années 1880-1890, au prix de vifs débats. C'est pour les apaiser que Fernando Tarrida del Mármol et Ricardo Mella proposent l'« anarchisme sans adjectifs » : ne pas fixer à l'avance l'économie de la société future.</li>
+<li><strong>Italie</strong> : Malatesta défend un communisme anarchiste qui accepte la coexistence de plusieurs formes d'organisation, tant qu'aucune n'est imposée.</li>
+<li><strong>Argentine</strong> : en 1905, la <strong>FORA</strong>, grande fédération ouvrière, inscrit le « communisme anarchique » comme but dans ses statuts.</li>
+<li><strong>États-Unis</strong> : <a href="../figures/emma-goldman.html">Emma Goldman</a> et Alexander Berkman diffusent ces idées dans les milieux immigrés ; Berkman en donne en 1929 un exposé simple, connu sous le titre <cite>L'ABC de l'anarchisme</cite>.</li>
+<li><strong>Japon</strong> : <strong>Kōtoku Shūsui</strong> traduit <cite>La Conquête du pain</cite> en japonais ; l'édition, publiée en 1909, circule parmi les étudiants et les ouvriers, deux ans avant son exécution (voir <a href="anarchisme-histoire.html#asie">l'anarchisme en Asie</a>).</li>
+<li><strong>Chine</strong> : en 1914, <strong>Liu Shifu</strong>, dit Shifu, fonde à Shanghai une Société des camarades anarchistes communistes et publie un programme très inspiré de Kropotkine. Il meurt en 1915, mais son journal paraît jusqu'en 1922.</li>
+</ul>
+
+<h2 id="russie">1917-1926 : la révolution russe et la Plateforme</h2>
+<p>En Russie, les communistes anarchistes participent à la révolution de 1917. En Ukraine, <a href="../figures/nestor-makhno.html">Nestor Makhno</a> vient d'un groupe anarchiste-communiste de Houliaïpole, et les makhnovistes défendent des « soviets libres » (dossier <a href="../experiences/makhno-histoire.html">Makhnovtchina</a>). Kropotkine rentre en Russie en 1917, critique la dictature bolchevik et meurt en février 1921.</p>
+<p>En exil à Paris, Makhno, Piotr Archinov et le groupe <cite>Dielo Trouda</cite> tirent les leçons de la défaite. En 1926, ils publient la <strong>Plateforme</strong> : pour eux, les anarchistes ont perdu faute d'organisation. Ils proposent une union générale des anarchistes communistes, avec une ligne théorique et tactique commune, une responsabilité collective et un fonctionnement fédéraliste. Le texte divise le mouvement (voir <a href="communisme-libertaire-idees.html#organisation">les idées</a>) et reste, cent ans plus tard, une référence pour de nombreuses organisations communistes libertaires.</p>
+
+<h2 id="espagne">1931-1936 : l'Espagne, le communisme libertaire à l'ordre du jour</h2>
+<p>C'est en Espagne que le communisme libertaire devient un programme de masse. Sous la Seconde République (1931), la <strong>CNT</strong> compte des centaines de milliers d'adhérents :</p>
+<ul>
+<li>en <strong>1932</strong>, le médecin basque <strong>Isaac Puente</strong> publie une brochure, <cite>El comunismo libertario</cite>, très diffusée, qui refuse de dessiner un modèle utopique détaillé et compte sur l'organisation des travailleurs eux-mêmes ;</li>
+<li>en <strong>janvier 1932</strong>, des mineurs du Haut-Llobregat, en Catalogne, proclament le communisme libertaire à <strong>Fígols</strong> et dans plusieurs villages voisins ; l'insurrection dure quelques jours avant d'être écrasée par l'armée ;</li>
+<li>en <strong>janvier et décembre 1933</strong>, de nouvelles insurrections échouent ; à <strong>Casas Viejas</strong>, en Andalousie, en janvier 1933, des paysans de la CNT sont massacrés par les gardes d'assaut, un scandale qui ébranle le gouvernement républicain ;</li>
+<li>en <strong>mai 1936</strong>, le congrès de la CNT à <strong>Saragosse</strong> (649 délégués, 982 syndicats, plus de 550 000 adhérents selon les chiffres de la CNT) adopte une longue motion, le <strong>« Concept confédéral du communisme libertaire »</strong>, en grande partie rédigée d'après Puente : communes libres, fédérations, fin de l'argent et du salariat, éducation, amour libre.</li>
+</ul>
+<p>Deux mois plus tard, le coup d'État militaire du 17-18 juillet 1936 déclenche la révolution, et le programme de Saragosse est mis à l'épreuve (voir <a href="communisme-libertaire-heritages.html#espagne">les expériences</a>).</p>
+
+<h2 id="apres-1945">Après 1945 : des organisations « communistes libertaires »</h2>
+<ul>
+<li><strong>France, 1953</strong> : sous l'impulsion de <strong>Georges Fontenis</strong>, la Fédération anarchiste prend le nom de <strong>Fédération communiste libertaire</strong> (FCL). Fontenis rédige un <cite>Manifeste du communisme libertaire</cite>. La FCL prend position contre la guerre d'Algérie. En janvier 1956, elle présente des candidats aux élections législatives, ce qui scandalise une grande partie des anarchistes ; elle disparaît peu après.</li>
+<li><strong>Uruguay, 1956</strong> : naît la <strong>Fédération anarchiste uruguayenne</strong> (FAU). Avec des militants brésiliens, elle développe plus tard l'<strong>especifismo</strong> : une organisation politique anarchiste spécifique, qui agit en même temps dans les mouvements sociaux larges.</li>
+<li><strong>Années 1960-1970</strong> : <strong>Daniel Guérin</strong> défend un « marxisme libertaire » ; en France se succèdent l'Organisation révolutionnaire anarchiste (ORA), l'Union des travailleurs communistes libertaires (UTCL, 1978), <strong>Alternative libertaire</strong> (1991), puis l'<strong>Union communiste libertaire</strong> (UCL, 2019).</li>
+<li><strong>Depuis 2005</strong>, le réseau international <strong>Anarkismo</strong> relie des organisations plateformistes et especifistes d'Europe, d'Amérique latine et d'Afrique du Sud.</li>
+</ul>
+
+<h2 id="chronologie">Chronologie</h2>
+<ol class="timeline">
+<li><b>1858-1859</b><span>Déjacque publie <cite>L'Humanisphère</cite> à New York.</span></li>
+<li><b>1869</b><span>Congrès de Bâle de l'Internationale : vote pour la propriété collective du sol.</span></li>
+<li><b>Février 1876</b><span>Brochure des réfugiés lyonnais de Genève, dont Dumartheray.</span></li>
+<li><b>Octobre 1876</b><span>La fédération italienne adopte le communisme.</span></li>
+<li><b>1879</b><span>Kropotkine fonde <cite>Le Révolté</cite> à Genève.</span></li>
+<li><b>Octobre 1880</b><span>Congrès de La Chaux-de-Fonds ; <cite>Anarchie et communisme</cite> de Cafiero.</span></li>
+<li><b>1892</b><span><cite>La Conquête du pain</cite>.</span></li>
+<li><b>1905</b><span>La FORA argentine adopte le communisme anarchique.</span></li>
+<li><b>1909</b><span>Traduction japonaise de <cite>La Conquête du pain</cite> par Kōtoku Shūsui.</span></li>
+<li><b>1914</b><span>Shifu fonde à Shanghai la Société des camarades anarchistes communistes.</span></li>
+<li><b>1926</b><span>La Plateforme de <cite>Dielo Trouda</cite>.</span></li>
+<li><b>Janvier 1932</b><span>Fígols : le communisme libertaire proclamé pour quelques jours.</span></li>
+<li><b>Mai 1936</b><span>Congrès de Saragosse : le « Concept confédéral du communisme libertaire ».</span></li>
+<li><b>1936-1939</b><span>Collectivisations pendant la révolution espagnole.</span></li>
+<li><b>1953-1956</b><span>Fédération communiste libertaire en France.</span></li>
+<li><b>1956</b><span>Fondation de la Fédération anarchiste uruguayenne.</span></li>
+<li><b>2019</b><span>Fondation de l'Union communiste libertaire en France.</span></li>
+</ol>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communisme-libertaire-idees.html">Idées et théories</a> : besoins contre travail, prise au tas, abolition de l'argent, communes et fédérations, liberté individuelle, et les débats.</li>
+<li><a href="communisme-libertaire-heritages.html">Expériences et héritages</a> : l'Espagne de 1936, l'Ukraine, ce qui a marché, ce qui a échoué, et ce qu'il en reste.</li>
+<li>Pour apprendre pas à pas : le parcours <a href="../universite/communisme-libertaire.html">Communisme libertaire</a> de l'université populaire.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Anarchocommunism</cite></b>, Jesse Cohn, dans <cite>The International Encyclopedia of Revolution and Protest</cite>, Immanuel Ness (dir.), Wiley-Blackwell, 2009.<span>En anglais : une synthèse historique et théorique courte et précise.</span></li>
+<li><b><cite>L'Anarchisme</cite></b>, Édouard Jourdain, La Découverte, coll. Repères, 2013.<span>Pour situer le communisme libertaire parmi les autres courants.</span></li>
+<li><b><cite>Le Mouvement anarchiste en France</cite></b>, Jean Maitron, Maspero, 1975 (rééd. Gallimard, coll. Tel).<span>Le communisme anarchiste français, de Kropotkine à Grave.</span></li>
+<li><b><cite>Histoire mondiale de l'anarchie</cite></b>, Gaetano Manfredonia, Textuel et Arte éditions, 2014.<span>La diffusion internationale du courant.</span></li>
+</ul></section>
+<section><h3>Textes originaux</h3><ul>
+<li><a href="../bibliotheque/la-conquete-du-pain.html">La Conquête du pain</a><span>Kropotkine, 1892, en fiche et en livre complet.</span></li>
+<li><a href="../bibliotheque/communisme-et-anarchie.html">Communisme et anarchie</a><span>Kropotkine, 1903.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/library/carlo-cafiero-communisme-et-anarchie" rel="noopener">Anarchie et communisme</a><span>Carlo Cafiero, 1880, sur la Bibliothèque anarchiste.</span></li>
+<li><a href="https://theanarchistlibrary.org/library/francois-dumartheray-to-manual-workers-supporters-of-political-action" rel="noopener">La brochure de 1876</a><span>Dumartheray et les réfugiés lyonnais, en traduction anglaise.</span></li>
+<li><a href="https://theanarchistlibrary.org/library/the-confederal-concept-of-libertarian-communism" rel="noopener">Le « Concept confédéral du communisme libertaire »</a><span>La motion de Saragosse, 1936, en traduction anglaise.</span></li>
+<li><a href="https://theanarchistlibrary.org/library/georges-fontenis-manifesto-of-libertarian-communism" rel="noopener">Manifeste du communisme libertaire</a><span>Georges Fontenis, 1953, en traduction anglaise.</span></li>
+</ul></section>
+<section><h3>Textes et archives en ligne</h3><ul>
+<li><a href="https://theanarchistlibrary.org/library/jesse-cohn-anarchocommunism" rel="noopener">L'article de Jesse Cohn</a><span>En anglais, sur The Anarchist Library.</span></li>
+<li><a href="https://theanarchistlibrary.org/library/andrew-flood-shifu-and-the-possibilities-for-chinese-anarchism" rel="noopener">Shifu et l'anarchisme chinois</a><span>En anglais, par Andrew Flood.</span></li>
+<li><a href="https://maitron.fr/" rel="noopener">Le Maitron</a><span>Les biographies de Dumartheray, Grave, Fontenis et des autres.</span></li>
+</ul></section>
+<section><h3>Pour s'orienter</h3><ul>
+<li>Wikipédia<span>Un point de départ pour se repérer, pas une référence : les faits de ce dossier s'appuient sur les ouvrages et les textes cités plus haut.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Communisme_libertaire" rel="noopener">Le communisme libertaire sur Wikipédia</a><span>Une vue d'ensemble.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Plateformisme" rel="noopener">Le plateformisme</a><span>La Plateforme de 1926 et ses suites.</span></li>
+</ul></section>
+</div>
+
+=== communisme-libertaire-idees | Communisme libertaire | Les idées du communisme libertaire : besoins, liberté et fédérations | Monde · depuis 1876 | De chacun selon ses forces, à chacun selon ses besoins : pourquoi les communistes libertaires refusent le salaire, l'argent et l'État, comment ils imaginent la production et la répartition, et ce sur quoi ils ne sont pas d'accord.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande. Les faits viennent des sources citées en bas de page ; les jugements sont signalés comme tels.</p>
+<p>Le communisme libertaire n'est pas un plan tout fait. C'est un ensemble de principes, et une longue discussion sur la façon de les appliquer. Cette page présente les principes, puis la manière d'organiser l'économie et la décision, puis les grands débats. L'<a href="communisme-libertaire-histoire.html">histoire du courant</a> et ses <a href="communisme-libertaire-heritages.html">expériences</a> sont dans les deux autres pages.</p>
+
+<h2 id="besoins">« À chacun selon ses besoins »</h2>
+<p>La formule « de chacun selon ses facultés, à chacun selon ses besoins » circule dans le socialisme français dès les années 1840, avant d'être reprise par Marx en 1875 dans sa <cite>Critique du programme de Gotha</cite>. Marx et les communistes libertaires partagent donc le but. Ils se séparent sur le chemin :</p>
+<ul>
+<li>pour Marx, cette répartition n'arrivera que dans une « phase supérieure » du communisme, après une période de transition où l'on paiera encore chacun selon son travail, sous un pouvoir ouvrier ;</li>
+<li>pour les communistes libertaires, elle doit commencer <strong>dès la révolution</strong>, sans État de transition : sinon, disent-ils, la transition s'installe pour toujours.</li>
+</ul>
+<p>Les héritiers de Marx ne lisent pas tous ce texte de la même manière. Pour les marxistes-léninistes, la « première phase » justifiait un État fort dirigé par le parti, et l'URSS se présentait comme un pays « socialiste » en route vers le communisme. Pour les communistes de conseils, c'étaient les conseils ouvriers eux-mêmes, et non un parti, qui devaient organiser la production et la répartition ; un groupe néerlandais, le GIK, propose en 1930 de le faire en comptant le temps de travail de chacun. Sur ce dernier point, ils sont plus proches des collectivistes que des communistes libertaires.</p>
+
+<h2 id="contre-le-salaire">Pourquoi pas « à chacun selon son travail » ?</h2>
+<p>C'est le cœur du désaccord avec les collectivistes. Kropotkine, dans <a href="../bibliotheque/la-conquete-du-pain.html">La Conquête du pain</a>, avance plusieurs arguments :</p>
+<ul>
+<li>la richesse est le produit de tout le travail passé et présent de l'humanité : il est impossible de dire quelle part revient à chacun ;</li>
+<li>payer chaque heure de travail avec des « bons » revient à garder le <strong>salariat</strong> sous un autre nom, et donc une administration pour mesurer, contrôler et payer ;</li>
+<li>les enfants, les malades, les personnes âgées ne produisent pas, et ont pourtant des besoins.</li>
+</ul>
+<p>Les collectivistes répondent que, sans lien entre le travail et la rétribution, certains profiteront du travail des autres : Proudhon et Bakounine s'en méfiaient déjà. Kropotkine compte sur l'entraide, la pression morale de la communauté et un travail rendu plus court et plus agréable.</p>
+
+<h2 id="prise-au-tas">La prise au tas et le rationnement</h2>
+<p>Comment répartir concrètement ? Kropotkine propose une règle simple :</p>
+<ul>
+<li>ce qui existe en <strong>abondance</strong>, chacun le prend librement, sans compter : c'est la <strong>prise au tas</strong> ;</li>
+<li>ce qui est <strong>rare</strong> est partagé à parts égales, avec une priorité pour les enfants, les personnes âgées et les malades : c'est le <strong>rationnement</strong>.</li>
+</ul>
+<p>L'argent disparaît, puisque plus rien ne se vend. Pendant la révolution espagnole, des collectivités ont appliqué ces idées de façons très différentes : abolition pure et simple de l'argent, carnets de consommation, bons locaux, ou salaire familial calculé selon la taille du foyer (voir <a href="communisme-libertaire-heritages.html#repartition">les expériences</a>).</p>
+
+<h2 id="organisation-sociale">Produire et décider sans État</h2>
+<p>La société communiste libertaire repose sur deux types d'organisation, reliés par le fédéralisme :</p>
+<ul>
+<li>la <strong>commune libre</strong> : l'assemblée des habitantes et des habitants d'un village ou d'un quartier, qui gère la vie locale, le logement, l'école, la distribution ;</li>
+<li>les <strong>associations de producteurs</strong> : les travailleurs de chaque atelier, usine ou exploitation, regroupés en fédérations par branche.</li>
+</ul>
+<p>Communes et associations se fédèrent à l'échelle de la région, puis au-delà, par des <strong>délégués mandatés et révocables</strong>. La motion de Saragosse de la CNT (1936) décrit ce schéma : commune libre et autonome, syndicat, fédérations régionales et nationale, avec des statistiques pour connaître les besoins et les capacités de production. Kropotkine insiste aussi sur la <strong>décentralisation</strong> : rapprocher les champs, les usines et les ateliers pour que chaque région vive autant que possible de ses propres forces (<a href="../bibliotheque/champs-usines-et-ateliers.html">Champs, usines et ateliers</a>).</p>
+
+<h2 id="travail">Le travail</h2>
+<ul>
+<li>Tout le monde participe au travail nécessaire, ce qui permet de <strong>réduire fortement sa durée</strong> : Kropotkine estime qu'avec les techniques de son temps, quelques heures par jour suffiraient.</li>
+<li>Le travail manuel et le travail intellectuel ne sont plus séparés (<a href="../bibliotheque/travail-intellectuel-et-manuel.html">Travail intellectuel et travail manuel</a>), et l'éducation est « intégrale » (<a href="../bibliotheque/education-integrale.html">L'éducation intégrale</a>).</li>
+<li>Le travail ne se fait plus sous la contrainte d'un patron ou de la faim, mais par association volontaire.</li>
+</ul>
+
+<h2 id="liberte">Communisme et liberté individuelle</h2>
+<p>Les communistes libertaires savent que le mot « communisme » fait peur : il évoque la caserne, le travail forcé, l'individu écrasé. Kropotkine consacre un texte entier à cette question (<a href="../bibliotheque/communisme-et-anarchie.html">Communisme et anarchie</a>, 1903) : un communisme imposé par l'autorité serait une prison ; seul un communisme librement accepté peut élargir la liberté, en libérant chacun de la peur du lendemain.</p>
+<p>Malatesta va plus loin : personne ne doit être forcé d'entrer dans une communauté. Celles et ceux qui préfèrent travailler seuls ou échanger autrement doivent pouvoir le faire, tant qu'ils n'exploitent personne. Les individualistes, eux, jugent que toute communauté finit par contraindre ses membres, et refusent le communisme (voir <a href="#debats">les débats</a>).</p>
+
+<h2 id="voisins">Ce qui le distingue de ses voisins</h2>
+<div class="tbl"><table>
+<thead><tr><th>Courant</th><th>Propriété</th><th>Répartition</th><th>État</th></tr></thead>
+<tbody>
+<tr><td><strong>Communisme libertaire</strong></td><td>Commune à tous</td><td>Selon les besoins, dès la révolution</td><td>Aboli tout de suite</td></tr>
+<tr><td>Collectivisme anarchiste</td><td>Collective (moyens de production), aux communes et associations</td><td>Le plus souvent selon le travail ; décidée par les associations ; communisme possible plus tard (Guillaume)</td><td>Aboli tout de suite</td></tr>
+<tr><td>Mutuellisme</td><td>Associations et petits producteurs</td><td>Échange égal, crédit gratuit</td><td>Remplacé par des contrats</td></tr>
+<tr><td>Marx et Engels</td><td>Commune, après la conquête du pouvoir</td><td>Selon le travail dans une première phase, puis selon les besoins</td><td>Dictature du prolétariat, puis dépérissement de l'État</td></tr>
+<tr><td>Social-démocratie</td><td>Socialisation progressive, ou réformes dans le capitalisme</td><td>Selon le travail, avec protection sociale</td><td>Conquête par les élections</td></tr>
+<tr><td>Communisme d'État (marxisme-léninisme)</td><td>D'État</td><td>Selon le travail, puis selon les besoins « plus tard »</td><td>Dictature exercée par le parti, censée dépérir</td></tr>
+<tr><td>Communisme de conseils, « marxisme libertaire »</td><td>Commune, gérée par les conseils ouvriers</td><td>Débattue ; souvent selon le temps de travail</td><td>Pouvoir des conseils, sans parti dirigeant</td></tr>
+<tr><td>Anarcho-syndicalisme</td><td>Commune, gérée par les syndicats</td><td>Souvent communiste libertaire</td><td>Aboli par la grève générale</td></tr>
+</tbody>
+</table></div>
+<p>Ces frontières sont poreuses : la CNT espagnole était anarcho-syndicaliste <em>et</em> communiste libertaire, et des marxistes antiléninistes comme les communistes de conseils sont, sur bien des points, proches des libertaires.</p>
+
+<h2 id="debats">Les débats internes</h2>
+
+<h3 id="organisation">Faut-il une organisation spécifique ?</h3>
+<p>C'est le débat le plus durable. La <strong>Plateforme</strong> de 1926 veut une organisation communiste libertaire unie, avec une ligne commune et une responsabilité collective. La <strong>Synthèse</strong> de Voline et Sébastien Faure (1928) préfère rassembler tous les anarchistes, communistes, syndicalistes et individualistes, sans ligne unique. L'<strong>especifismo</strong> latino-américain propose une organisation politique anarchiste qui agit à l'intérieur des mouvements sociaux sans s'y substituer. Les critiques de la Plateforme, dès 1926, y voient un parti qui ne dit pas son nom ; ses défenseurs répondent que l'absence d'organisation laisse le terrain aux partis autoritaires.</p>
+
+<h3 id="syndicats">Le syndicat ou la commune ?</h3>
+<p>Pour les anarcho-syndicalistes, la société future s'organise à partir des syndicats. Pour d'autres communistes libertaires, comme Malatesta, le syndicat défend les intérêts immédiats des salariés et ne peut pas être la base de toute la société, qui inclut aussi les non-salariés, les paysans, les enfants. La motion de Saragosse de 1936 cherche un compromis entre syndicat et commune libre.</p>
+
+<h3 id="transition">Transition et défense de la révolution</h3>
+<p>Si l'on refuse l'État, comment défendre une révolution contre une armée ? Les makhnovistes ont formé une armée de volontaires qui élisait ses commandants ; en Espagne, les milices confédérales ont dû accepter en 1937 d'être militarisées dans l'armée républicaine. Comment, aussi, coordonner une économie complexe sans pouvoir central ? Le débat n'a jamais été tranché (voir <a href="communisme-libertaire-heritages.html#limites">les limites</a>).</p>
+
+<h3 id="rarete">Abondance et rareté</h3>
+<p>Kropotkine écrit à une époque où l'industrie semble promettre l'abondance. Ses critiques, y compris anarchistes, font remarquer que la prise au tas suppose des biens en quantité suffisante. Au XX<sup>e</sup> siècle, l'Américain <strong>Murray Bookchin</strong> défend l'idée d'une société « post-rareté » (<cite>Post-Scarcity Anarchism</cite>, 1971), avant que l'écologie ne remette en cause la course à la production. Aujourd'hui, beaucoup de communistes libertaires associent le partage selon les besoins à une <strong>sobriété choisie</strong> (voir le parcours <a href="../universite/ecologie-sociale.html">Écologie sociale</a>).</p>
+
+<h3 id="femmes">Les femmes : l'économie suffit-elle ?</h3>
+<p>La politologue Martha Ackelsberg a montré qu'il existait deux visions dans l'anarchisme espagnol : pour la CNT, l'oppression des femmes venait surtout de leur dépendance économique, et le travail salarié devait les libérer ; pour <strong>Mujeres Libres</strong>, ses racines étaient aussi culturelles, et il fallait un programme d'éducation et d'émancipation propre aux femmes. Ce débat sur la place du patriarcat dans un projet communiste reste actuel (voir le parcours <a href="../universite/feminisme-anarchisme.html">Féminisme et anarchisme</a>).</p>
+
+<h3 id="calcul">Peut-on se passer des prix ?</h3>
+<p>En 1920, l'économiste libéral autrichien Ludwig von Mises soutient qu'une économie sans marché ni prix ne peut pas savoir ce qui est rare ni où placer ses ressources : c'est le « débat sur le calcul économique ». Les communistes libertaires répondent par les statistiques des besoins, la décentralisation et la délibération. Depuis les années 1990, des propositions comme l'« économie participative » de Michael Albert et Robin Hahnel cherchent des mécanismes précis de planification démocratique sans État ni marché ; elles sont discutées, et pas toutes acceptées, dans les milieux libertaires.</p>
+
+<h2 id="a-lire">Textes pour aller au fond des idées</h2>
+<ul>
+<li><a href="../bibliotheque/la-conquete-du-pain.html">La Conquête du pain</a>, Kropotkine : la prise au tas, le rationnement, la critique des bons de travail.</li>
+<li><a href="../bibliotheque/communisme-et-anarchie.html">Communisme et anarchie</a>, Kropotkine : communisme et liberté.</li>
+<li><a href="../bibliotheque/revolution-collectiviste.html">La Révolution sera-t-elle collectiviste ?</a>, Kropotkine : le débat avec les collectivistes.</li>
+<li><a href="../bibliotheque/la-societe-future.html">La Société future</a>, Jean Grave : un tableau complet de la société communiste anarchiste.</li>
+<li><a href="../bibliotheque/l-anarchie-malatesta.html">L'Anarchie</a>, Malatesta : la liberté avant tout modèle.</li>
+<li><a href="../bibliotheque/l-individualisme.html">L'Individualisme</a> : le point de vue de ceux qui refusent le communisme.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Anarchocommunism</cite></b>, Jesse Cohn, dans <cite>The International Encyclopedia of Revolution and Protest</cite>, Wiley-Blackwell, 2009.<span>En anglais : besoins, salaire, « passagers clandestins », de Kropotkine à Berkman.</span></li>
+<li><b><cite>Models of Revolution: Rural Women and Anarchist Collectivisation in Civil War Spain</cite></b>, Martha Ackelsberg, <cite>The Journal of Peasant Studies</cite>, vol. 20, n° 3, 1993.<span>Les deux visions de l'émancipation des femmes dans l'anarchisme espagnol.</span></li>
+<li><b><cite>L'Anarchisme</cite></b>, Édouard Jourdain, La Découverte, coll. Repères, 2013.<span>Les courants de l'anarchisme et leurs différences.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/communisme-libertaire.html">Le parcours Communisme libertaire</a><span>Quatre modules pour apprendre à son rythme.</span></li>
+<li><a href="../glossaire.html#communisme-libertaire">Le glossaire</a><span>Communisme libertaire, collectivisation, fédéralisme, mandat impératif.</span></li>
+<li><a href="anarchisme-idees.html">Les idées anarchistes</a><span>Tous les courants de l'anarchisme, côte à côte.</span></li>
+</ul></section>
+<section><h3>Textes et archives en ligne</h3><ul>
+<li><a href="https://fr.anarchistlibraries.net/library/martha-a-ackelsberg-modeles-de-revolution" rel="noopener">Modèles de révolution, Martha Ackelsberg</a><span>La traduction française de l'article, sur la Bibliothèque anarchiste.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/library/pierre-kropotkine-communisme-et-anarchie" rel="noopener">Communisme et anarchie, texte intégral</a><span>Sur la Bibliothèque anarchiste.</span></li>
+</ul></section>
+<section><h3>Pour s'orienter</h3><ul>
+<li>Wikipédia<span>Un point de départ pour se repérer, pas une référence : les faits de ce dossier s'appuient sur les ouvrages et les textes cités plus haut.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Synth%C3%A8se_anarchiste" rel="noopener">La synthèse anarchiste</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Plateformisme" rel="noopener">Le plateformisme</a><span>Sur Wikipédia.</span></li>
+</ul></section>
+</div>
+
+=== communisme-libertaire-heritages | Communisme libertaire | Le communisme libertaire en actes : expériences et héritages | Monde · depuis 1876 | Des villages d'Aragon qui abolissent l'argent, des usines de Barcelone gérées par leurs ouvriers, des oranges de Valence exportées par les syndicats : ce que le communisme libertaire a réellement tenté, ses réussites, ses contradictions et ce qu'il en reste.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande. Les faits viennent des sources citées en bas de page ; les jugements sont signalés comme tels.</p>
+<p>Le communisme libertaire a été vécu, pendant quelques jours ou pendant des mois, par des centaines de milliers de personnes. La plus grande de ces expériences, l'Espagne de 1936-1939, est aussi l'une des plus discutées par les historiens. Cette page présente ce qui a été fait, en distinguant ce qui est établi de ce qui reste débattu, puis les limites, les critiques et ce qu'il en reste. Elle complète l'<a href="communisme-libertaire-histoire.html">histoire</a> et les <a href="communisme-libertaire-idees.html">idées</a> du courant.</p>
+
+<h2 id="ukraine">Ukraine, 1917-1921 : les communes makhnovistes</h2>
+<p>Dans la région libre de Houliaïpole, les paysans reprennent les terres des grands domaines. Selon les récits de militants makhnovistes, comme Piotr Archinov, quelques <strong>communes agricoles</strong> se forment sur d'anciens domaines, où l'on travaille et mange en commun, tandis que la plupart des paysans préfèrent cultiver leur part de terre en famille. Les makhnovistes n'imposent pas la commune. L'expérience, très courte et menée en pleine guerre, est mal documentée par des sources indépendantes (dossier <a href="../experiences/makhno-organisation.html">Soviets libres, congrès et armée insurrectionnelle</a>).</p>
+
+<h2 id="espagne">Espagne, 1936-1939 : la plus grande expérience</h2>
+<p>Le 19 juillet 1936, à Barcelone et à Valence, le soulèvement militaire est vaincu par les ouvriers en armes, avec une partie des forces de l'ordre. Dans les semaines qui suivent, les travailleurs prennent en main les entreprises abandonnées par leurs patrons, et les paysans les terres des grands propriétaires. La CNT, la FAI et, dans une moindre mesure, le syndicat socialiste UGT animent ces <strong>collectivisations</strong> (dossier <a href="../experiences/espagne-1936-organisation.html">CNT, FAI et collectivités</a>).</p>
+<figure class="photo"><img src="../assets/img/revolutions/espagne-cooperative-cnt.jpg" alt="Un atelier coopératif de Barcelone géré par la CNT-FAI." width="640" height="382" loading="lazy"><figcaption>Un atelier coopératif de Barcelone géré par la CNT-FAI, pendant la révolution. <small>auteur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:CNT-FAI_Cooperative_Barcelona.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h3 id="catalogne">Catalogne : surtout l'industrie</h3>
+<p>En Catalogne, la collectivisation touche surtout l'<strong>industrie et les services</strong> : transports, textile, eau, gaz, électricité, spectacles. Le gouvernement régional, la Generalitat, tente d'encadrer le mouvement par un décret de collectivisation, en octobre 1936. L'historien Albert Balcells souligne que la collectivisation y fut plus importante dans l'industrie que dans l'agriculture, et que les récits de propagande attribuaient tous les défauts du processus à ses adversaires : les témoignages critiques, venus d'autres antifascistes, obligent à nuancer.</p>
+
+<h3 id="aragon">Aragon : les villages collectivisés</h3>
+<p>En Aragon, libéré par les colonnes de miliciens venues de Catalogne, la collectivisation agricole va le plus loin. Un <strong>Conseil régional de défense d'Aragon</strong>, à majorité libertaire, est créé en octobre 1936 et reconnu par le gouvernement républicain. Le nombre de collectivités varie selon les sources : environ 450 au moment de la création du Conseil d'après certains décomptes, 280 regroupant près de 142 000 membres au congrès de Caspe de février 1937 d'après d'autres. En <strong>août 1937</strong>, le gouvernement Negrín dissout le Conseil ; la 11<sup>e</sup> division du communiste Enrique Líster occupe la région, et de nombreuses collectivités sont démantelées, avant que certaines se reforment.</p>
+
+<h3 id="levant">Le Levant : les oranges de la révolution</h3>
+<p>Dans la région de Valence, la CNT et l'UGT créent ensemble, en octobre 1936, un Conseil levantin unifié d'exportation agricole (CLUEA), qui prend en charge l'exportation des agrumes, principale richesse de la région. Son fonctionnement est contesté dès le départ, y compris à l'intérieur du camp républicain, où des dirigeants socialistes s'opposent à la collectivisation.</p>
+
+<h3 id="repartition">Comment on répartissait</h3>
+<p>Les témoignages et les études décrivent des pratiques très diverses, qui montrent que le programme de Saragosse a été adapté au terrain plutôt qu'appliqué à la lettre :</p>
+<ul>
+<li>dans certains villages, l'argent est <strong>aboli</strong> : on se sert au magasin communal, avec ou sans carnet ;</li>
+<li>ailleurs, la collectivité émet des <strong>bons locaux</strong> ou une monnaie propre ;</li>
+<li>souvent, un <strong>salaire familial</strong> est versé selon le nombre de personnes à nourrir, et non selon le travail ;</li>
+<li>les biens rares (viande, vin, tabac) sont <strong>rationnés</strong> ;</li>
+<li>les petits propriétaires qui refusent la collectivité, les « individualistes », gardent dans de nombreux cas leur terre, à condition de la travailler sans salarié.</li>
+</ul>
+
+<h3 id="femmes-espagne">Les femmes et Mujeres Libres</h3>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/espagne-mujeres-libres.jpg" alt="Le premier numéro de la revue Mujeres Libres, en mai 1936." width="282" height="360" loading="lazy"><figcaption>Le premier numéro de la revue <cite>Mujeres Libres</cite>, mai 1936. <small>auteur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Mujeres_libres_n%C2%B01.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Les collectivités améliorent la vie de beaucoup de femmes (crèches, écoles, cantines), mais reproduisent souvent la division des tâches : dans plusieurs villages, le salaire familial est versé au chef de famille, et les femmes sont moins rémunérées ou absentes des assemblées. <strong>Mujeres Libres</strong>, fondée en 1936 par Lucía Sánchez Saornil, Mercedes Comaposada et Amparo Poch, organise des écoles, des formations professionnelles et une lutte contre la prostitution, en estimant que la révolution économique ne suffit pas à abolir le patriarcat (Martha Ackelsberg, voir les sources ; portrait de <a href="../figures/lucia-sanchez-saornil.html">Lucía Sánchez Saornil</a>).</p>
+
+<h3 id="debat-historiens">Ce que débattent les historiens</h3>
+<p>Les collectivisations espagnoles ont donné lieu à deux grandes lectures :</p>
+<ul>
+<li>des auteurs libertaires, comme <strong>Gaston Leval</strong> (<cite>Espagne libertaire 1936-1939</cite>, 1971) ou <strong>Frank Mintz</strong> (<cite>L'Autogestion dans l'Espagne révolutionnaire</cite>, 1976), insistent sur leur caractère volontaire, leur efficacité et leur créativité ;</li>
+<li>d'autres historiens, comme <strong>Julián Casanova</strong> pour l'Aragon, montrent le rôle de la présence armée des colonnes de miliciens et des pressions exercées sur les paysans réticents, et des résultats économiques inégaux.</li>
+</ul>
+<p>Ce que la bande en retient : les deux lectures s'appuient sur des faits réels. Selon les villages et les moments, les collectivités ont été des choix libres, des compromis ou des contraintes. C'est précisément ce qui en fait un terrain d'étude irremplaçable.</p>
+
+<h3 id="acteurs">Les acteurs du camp républicain</h3>
+<p>Le camp opposé à Franco n'est pas un bloc. Les collectivisations se font au milieu de forces qui ont des projets très différents, et dont les rapports changent pendant la guerre :</p>
+<div class="tbl"><table>
+<thead><tr><th>Acteur</th><th>Qui c'est</th><th>Position pendant la révolution</th></tr></thead>
+<tbody>
+<tr><td><strong>CNT</strong></td><td>Confédération anarcho-syndicaliste, la plus forte en Catalogne, en Aragon et dans le Levant.</td><td>Anime la plupart des collectivisations ; entre au gouvernement catalan fin septembre 1936, puis au gouvernement central le 4 novembre 1936, au nom de l'unité antifasciste.</td></tr>
+<tr><td><strong>FAI</strong></td><td>Fédération anarchiste ibérique, fondée en 1927, dont les militants agissent dans la CNT.</td><td>Souvent présentée par ses adversaires comme la direction cachée de la CNT ; les historiens jugent aujourd'hui son influence réelle mais exagérée par la propagande.</td></tr>
+<tr><td><strong>UGT</strong></td><td>Syndicat socialiste, majoritaire à Madrid et dans plusieurs régions.</td><td>Participe à des collectivités, parfois avec la CNT (CLUEA dans le Levant) ; en Catalogne, il passe sous l'influence du PSUC.</td></tr>
+<tr><td><strong>PSOE</strong></td><td>Parti socialiste, divisé entre une aile gauche (Francisco Largo Caballero) et une aile modérée (Indalecio Prieto, Juan Negrín).</td><td>Largo Caballero dirige le gouvernement de septembre 1936 à mai 1937 et y fait entrer la CNT ; Negrín lui succède.</td></tr>
+<tr><td><strong>PCE et PSUC</strong></td><td>Le Parti communiste d'Espagne et le Parti socialiste unifié de Catalogne, né en juillet 1936 de la fusion de partis socialistes et communistes catalans, membre de l'Internationale communiste.</td><td>Priorité à la guerre, à une armée régulière et à un État fort ; défendent les petits propriétaires et les classes moyennes contre les collectivisations ; leur poids grandit avec l'aide militaire soviétique.</td></tr>
+<tr><td><strong>POUM</strong></td><td>Parti ouvrier d'unification marxiste, fondé en 1935, marxiste et antistalinien (Andreu Nin).</td><td>Pour la révolution immédiate, proche des positions de la base de la CNT ; accusé de « trotskisme » par les communistes, interdit en juin 1937.</td></tr>
+<tr><td><strong>Generalitat et ERC</strong></td><td>Le gouvernement autonome de Catalogne, présidé par Lluís Companys, de la Gauche républicaine de Catalogne.</td><td>Partage d'abord le pouvoir avec le Comité central des milices antifascistes (juillet-octobre 1936), puis encadre les collectivisations par décret.</td></tr>
+<tr><td><strong>Gouvernement de la République</strong></td><td>Siège à Madrid, puis à Valence à partir de novembre 1936.</td><td>Reconstruit progressivement l'État, la police et l'armée, et reprend le contrôle des pouvoirs locaux nés de la révolution.</td></tr>
+<tr><td><strong>Amis de Durruti</strong></td><td>Groupe de militants de la CNT et de la FAI, formé en 1937.</td><td>Critique la participation au gouvernement et appelle à poursuivre la révolution.</td></tr>
+<tr><td><strong>URSS</strong></td><td>Principal fournisseur d'armes de la République, à cause de la « non-intervention » des démocraties.</td><td>Pèse sur la politique républicaine ; ses services secrets participent à la répression contre le POUM.</td></tr>
+</tbody>
+</table></div>
+
+<h3 id="mai-1937">Mai 1937 à Barcelone</h3>
+<p><strong>Les faits établis.</strong> Depuis juillet 1936, le central téléphonique de Barcelone, la Telefónica, est contrôlé par un comité où domine la CNT. Le <strong>3 mai 1937</strong>, des gardes d'assaut conduits par le commissaire à l'ordre public Eusebio Rodríguez Salas, membre du PSUC, tentent de l'occuper. Les ouvriers résistent, et des barricades se dressent dans toute la ville : d'un côté une partie de la base de la CNT, les jeunesses libertaires, les Amis de Durruti et le POUM ; de l'autre les forces de la Generalitat, le PSUC et les gardes d'assaut. Les ministres anarchistes, dont Juan García Oliver et Federica Montseny, viennent de Valence et appellent à la radio à cesser le feu. Le gouvernement central envoie des renforts et prend en main l'ordre public en Catalogne. Les combats cessent vers le 7 mai. Le nombre de morts varie selon les sources : plusieurs centaines, environ 500 selon les estimations les plus citées.</p>
+<p><strong>Les conséquences.</strong> Mi-mai, Largo Caballero quitte la tête du gouvernement ; Juan Negrín lui succède, et la CNT n'y participe plus. Le <strong>16 juin 1937</strong>, le POUM est interdit et ses dirigeants arrêtés ; Andreu Nin est enlevé, torturé et assassiné par des agents soviétiques. En août, le Conseil d'Aragon est dissous. La gestion décentralisée par les travailleurs recule, et de nombreux militants libertaires sont emprisonnés.</p>
+<p><strong>Les interprétations.</strong></p>
+<ul>
+<li>Pour les libertaires dissidents et le POUM, et pour George Orwell, qui était à Barcelone (<cite>Hommage à la Catalogne</cite>, 1938), mai 1937 est une provocation des communistes et le début de la contre-révolution dans le camp républicain.</li>
+<li>Pour le PCE, le PSUC et l'Internationale communiste de l'époque, il s'agissait d'un « putsch » d'éléments incontrôlés et « trotskistes ». L'accusation selon laquelle le POUM aurait agi pour Franco est rejetée par les historiens comme sans fondement.</li>
+<li>Burnett Bolloten (<cite>The Spanish Civil War: Revolution and Counterrevolution</cite>, 1991) décrit une contre-révolution méthodiquement conduite par les communistes. Helen Graham (<cite>The Spanish Republic at War</cite>, 2002) replace l'événement dans la reconstruction de l'autorité de l'État républicain en guerre et les tensions sociales qui la traversent, sans en faire le résultat d'un seul complot. Chris Ealham (<cite>Anarchism and the City</cite>, 2010) l'inscrit dans une longue histoire des luttes pour le contrôle de la rue à Barcelone depuis 1898. Julián Casanova souligne aussi les divisions et les choix de la CNT elle-même.</li>
+</ul>
+<p><strong>Les responsabilités.</strong> Ce que la bande retient, en séparant les faits des jugements : l'attaque de la Telefónica a été décidée par les autorités catalanes, dans un climat de rivalité où le PSUC et le PCE, soutenus par l'URSS, cherchaient à affaiblir la CNT et à éliminer le POUM ; la répression du POUM et l'assassinat de Nin sont des crimes établis. Mais la direction de la CNT avait elle-même choisi de participer aux gouvernements et, en mai, a choisi d'arrêter les combats plutôt que de les étendre ; et les abus commis à l'arrière par certains comités et patrouilles libertaires en 1936 avaient nourri les méfiances. Aucune de ces forces n'a, à elle seule, perdu la révolution, et c'est Franco qui a gagné la guerre.</p>
+
+<h2 id="ailleurs">Ailleurs et après</h2>
+<ul>
+<li><strong>Fígols, janvier 1932</strong> : quelques jours de communisme libertaire proclamé par des mineurs catalans, avant la répression (voir <a href="communisme-libertaire-histoire.html#espagne">l'histoire</a>).</li>
+<li><strong>Mandchourie, fin des années 1920</strong> : des récits militants décrivent une région coréenne autogérée inspirée par le communisme anarchiste. Son ampleur reste mal établie (voir le dossier <a href="anarchisme-histoire.html#asie">Anarchisme</a>).</li>
+<li><strong>France, années 1950</strong> : la Fédération communiste libertaire relie le courant aux luttes anticoloniales, au prix de grandes divisions.</li>
+<li><strong>Amérique latine, depuis les années 1950</strong> : l'especifismo uruguayen et brésilien s'implante dans les syndicats, les quartiers et les mouvements paysans.</li>
+<li><strong>Aujourd'hui</strong> : des organisations communistes libertaires existent sur tous les continents, souvent petites, souvent actives dans les syndicats, l'antifascisme, le féminisme et l'écologie.</li>
+</ul>
+
+<h2 id="limites">Limites et contradictions</h2>
+<ul>
+<li><strong>La guerre</strong> : en Ukraine comme en Espagne, les expériences ont eu lieu en pleine guerre civile, avec des pénuries, des réquisitions et des violences, ce qui rend impossible de savoir ce qu'elles auraient donné en temps de paix.</li>
+<li><strong>Le pouvoir</strong> : à l'automne 1936, la CNT entre aux gouvernements catalan et espagnol pour défendre la révolution, ce qui contredit ses principes. En mai 1937, à Barcelone, les affrontements qui opposent une partie de la base libertaire et le POUM aux forces de la Generalitat et au PSUC marquent le recul de la gestion décentralisée par les travailleurs (voir <a href="#mai-1937">mai 1937</a>).</li>
+<li><strong>La contrainte</strong> : dans certains villages, la collectivité a été imposée à des paysans qui n'en voulaient pas, contre le principe même d'association libre.</li>
+<li><strong>La coordination</strong> : les collectivités ont souvent eu du mal à se coordonner entre elles ; des villages riches et pauvres coexistaient, et des fédérations régionales ont tenté de créer des caisses de compensation.</li>
+<li><strong>Les femmes</strong> : l'égalité économique proclamée ne s'est pas traduite automatiquement par l'égalité entre femmes et hommes.</li>
+<li><strong>L'insurrection prématurée</strong> : les insurrections de 1932-1933, lancées en espérant un soulèvement général, ont fait des morts et des milliers de prisonniers sans rien changer ; beaucoup de militants de la CNT les ont critiquées à l'époque.</li>
+</ul>
+
+<h2 id="critiques">Les critiques</h2>
+<ul>
+<li><strong>Libérales</strong> : sans prix ni marché, une économie ne peut pas savoir quoi produire (Mises, 1920) ; sans intérêt personnel, les gens travailleraient moins.</li>
+<li><strong>Marxistes-léninistes</strong> : sans État centralisé ni parti, une révolution est écrasée par ses ennemis, ce que montrerait l'Espagne. Les libertaires répondent que la révolution espagnole a aussi été combattue de l'intérieur par le Parti communiste.</li>
+<li><strong>Individualistes</strong> : la communauté risque toujours de contraindre ses membres.</li>
+<li><strong>Collectivistes et syndicalistes</strong> : la prise au tas est trop optimiste ; il faut un lien entre travail et rétribution, au moins dans un premier temps.</li>
+<li><strong>Féministes</strong> : un projet centré sur la production et le travail salarié oublie le travail domestique et la domination masculine.</li>
+</ul>
+
+<h2 id="heritage">Ce qu'il en reste</h2>
+<p>Le communisme libertaire continue d'inspirer des pratiques bien au-delà des organisations qui s'en réclament :</p>
+<ul>
+<li>l'<strong>autogestion</strong> des lieux de travail et les coopératives (parcours <a href="../universite/autogestion.html">Autogestion</a>) ;</li>
+<li>les <strong>communs</strong> : jardins, logiciels libres, ressources partagées ;</li>
+<li>la <strong>gratuité</strong> : cantines à prix libre, magasins gratuits, zones de gratuité ;</li>
+<li>les <strong>assemblées</strong> et la démocratie directe (<a href="../agir/tenir-une-ag.html">Tenir une AG</a>) ;</li>
+<li>les <strong>caisses de solidarité</strong>, qui partagent selon les besoins (<a href="../agir/caisse-de-solidarite.html">Caisse de solidarité</a>) ;</li>
+<li>le <strong>fédéralisme</strong> et le municipalisme (<a href="../universite/communalisme-libertaire.html">Communalisme libertaire</a>).</li>
+</ul>
+<p>Ce ne sont pas des réalisations du communisme libertaire, mais des pratiques qui en partagent l'esprit : partager selon les besoins, décider ensemble, sans patron ni État. La bande à Mamie pense que c'est là, dans la vie quotidienne des luttes, que l'idée reste la plus vivante.</p>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Le communisme libertaire fait partie de la famille <a href="anarchistes-libertaires.html">anarchistes et libertaires</a>. Voir aussi le dossier <a href="anarchisme-histoire.html">Anarchisme</a>. Voir aussi les dossiers <a href="anarcho-syndicalisme-histoire.html">Anarcho-syndicalisme</a>, <a href="communalisme-libertaire-histoire.html">Communalisme libertaire</a> et <a href="mouvement-autonome-histoire.html">Mouvement autonome</a>. Pour le débat avec le marxisme, voir la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>.</p>
+
+<h2 id="lectures">Lectures et ressources complémentaires</h2>
+<ol>
+<li><a href="../livres/la-conquete-du-pain.html">La Conquête du pain</a>, en entier sur le site.</li>
+<li>Le parcours <a href="../universite/communisme-libertaire.html">Communisme libertaire</a> de l'université populaire.</li>
+<li>Le dossier <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>, avec ses schémas.</li>
+<li>La série <a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître</a>, épisodes sur la révolution russe et l'Espagne.</li>
+<li>Le portrait de <a href="../figures/durruti.html">Buenaventura Durruti</a>.</li>
+</ol>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Collectivisations in Catalonia and the Region of Valencia during the Spanish Civil War, 1936-1939</cite></b>, Albert Balcells, <cite>Catalan Historical Review</cite>, n° 10, 2017.<span>En anglais : l'industrie collectivisée, et pourquoi il faut se méfier des récits de propagande.</span></li>
+<li><b><cite>Models of Revolution: Rural Women and Anarchist Collectivisation in Civil War Spain</cite></b>, Martha Ackelsberg, <cite>The Journal of Peasant Studies</cite>, vol. 20, n° 3, 1993.<span>Les femmes dans les collectivités rurales, et l'approche de Mujeres Libres.</span></li>
+<li><b><cite>L'Autogestion dans l'Espagne révolutionnaire</cite></b>, Frank Mintz, Maspero, 1976.<span>Une étude libertaire détaillée, avec des chiffres.</span></li>
+<li><b><cite>Espagne libertaire 1936-1939</cite></b>, Gaston Leval, Éditions du Cercle, 1971.<span>Le témoignage d'un militant qui a parcouru les collectivités.</span></li>
+<li><b><cite>Anarquismo y revolución en la sociedad rural aragonesa, 1936-1938</cite></b>, Julián Casanova, Siglo XXI, 1985.<span>En espagnol : l'étude universitaire de référence sur l'Aragon, plus critique.</span></li>
+<li><b><cite>Anarchism, the Republic and Civil War in Spain, 1931-1939</cite></b>, Julián Casanova, Routledge, 2005.<span>En anglais : la CNT, ses choix et ses divisions.</span></li>
+<li><b><cite>The Spanish Civil War: Revolution and Counterrevolution</cite></b>, Burnett Bolloten, University of North Carolina Press, 1991.<span>En anglais : la thèse d'une contre-révolution conduite par les communistes, très documentée.</span></li>
+<li><b><cite>The Spanish Republic at War, 1936-1939</cite></b>, Helen Graham, Cambridge University Press, 2002.<span>En anglais : la reconstruction de l'État républicain et les conflits de la gauche.</span></li>
+<li><b><cite>Anarchism and the City: Revolution and Counter-revolution in Barcelona, 1898-1937</cite></b>, Chris Ealham, AK Press, 2010.<span>En anglais : la CNT dans les quartiers de Barcelone, jusqu'à mai 1937.</span></li>
+<li><b><cite>Hommage à la Catalogne</cite></b>, George Orwell, 1938.<span>Le témoignage d'un milicien du POUM, présent à Barcelone en mai 1937.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../experiences/espagne-1936-organisation.html">CNT, FAI et collectivités</a><span>L'organisation libertaire en schémas.</span></li>
+<li><a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes</a><span>Le débat sur la participation au gouvernement.</span></li>
+<li><a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a><span>La mémoire de la révolution espagnole.</span></li>
+</ul></section>
+<section><h3>Textes et archives en ligne</h3><ul>
+<li><a href="https://revistes.iec.cat/index.php/CHR/article/view/143735" rel="noopener">L'article d'Albert Balcells</a><span>En accès libre, en anglais.</span></li>
+<li><a href="https://fr.anarchistlibraries.net/library/martha-a-ackelsberg-modeles-de-revolution" rel="noopener">Modèles de révolution, Martha Ackelsberg</a><span>En français, sur la Bibliothèque anarchiste.</span></li>
+</ul></section>
+<section><h3>Pour s'orienter</h3><ul>
+<li>Wikipédia<span>Un point de départ pour se repérer, pas une référence : les faits de ce dossier s'appuient sur les ouvrages et les textes cités plus haut.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mujeres_Libres" rel="noopener">Mujeres Libres</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_en_Espagne" rel="noopener">L'anarchisme en Espagne</a><span>Sur Wikipédia.</span></li>
+</ul></section>
+</div>

@@ -1,0 +1,346 @@
+=== mouvement-autonome-histoire | Mouvement autonome | Le mouvement autonome : histoire et origines | Europe · depuis les années 1960 | Le mouvement autonome désigne un ensemble de pratiques, de collectifs et de mouvements sociaux qui cherchent à construire leur capacité d'action en dehors des institutions politiques traditionnelles, des partis et des organisations considérées comme hiérarchiques.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le mouvement autonome désigne un ensemble de pratiques, de collectifs et de mouvements sociaux qui cherchent à construire leur capacité d'action en dehors des institutions politiques traditionnelles, des partis et des organisations considérées comme hiérarchiques. Il ne constitue ni un parti, ni une fédération internationale, ni une doctrine homogène. Il rassemble des traditions parfois proches, parfois contradictoires : autonomie ouvrière, opéraïsme italien, mouvements de squats, centres sociaux autogérés, mouvements antifascistes, féministes, écologistes et mobilisations de la jeunesse.</p>
+<p>Le terme « autonomie » renvoie à la capacité des personnes et des groupes à déterminer eux-mêmes leurs objectifs, leurs formes d'organisation et leurs moyens d'action. Cette autonomie peut être revendiquée face au patronat, à l'État, aux partis, aux syndicats institutionnalisés, aux normes sociales ou aux rapports de domination présents jusque dans les organisations militantes.</p>
+<p>Le mouvement autonome s'est particulièrement développé en Europe occidentale à partir des années 1960 et 1970. L'Italie a vu émerger l'opéraïsme et l'Autonomia Operaia, tandis que la République fédérale d'Allemagne a connu, à partir de la fin des années 1970 et surtout dans les années 1980, le développement des Autonomen. Des mouvements de squats et de centres sociaux ont également pris de l'ampleur aux Pays-Bas, en Espagne, en France, au Danemark et dans d'autres pays.</p>
+<p>Il faut toutefois éviter de confondre ces expériences. L'autonomie ouvrière italienne est issue d'une réflexion marxiste sur la lutte des classes et l'organisation du travail. Les Autonomen allemands sont davantage associés à une culture politique anti-autoritaire, aux luttes urbaines, aux mouvements antifascistes et aux espaces autogérés. Les squats et centres sociaux constituent quant à eux des formes d'organisation et des lieux de lutte qui peuvent être autonomes sans nécessairement appartenir à un mouvement autonome au sens historique.</p>
+<p>Le mouvement autonome pose une question centrale : comment lutter contre les dominations sans reproduire, dans nos propres organisations, les rapports de pouvoir que nous voulons abolir ?</p>
+
+<h2 id="racines">1. Les racines de l'autonomie ouvrière</h2>
+<p>L'idée d'autonomie ouvrière ne naît pas dans les années 1970. Elle s'inscrit dans une histoire plus longue de l'auto-organisation des travailleurs : conseils ouvriers, comités de grève, assemblées d'usine, syndicats de base et organisations révolutionnaires indépendantes.</p>
+<p>Au début du XX<sup>e</sup> siècle, différentes traditions socialistes, <a href="anarcho-syndicalisme-histoire.html#syndicalisme-revolutionnaire">syndicalistes révolutionnaires</a> et communistes ont défendu l'idée que les travailleurs devaient pouvoir diriger eux-mêmes leurs luttes et, au-delà, la production. Les <a href="anarchisme-idees.html#marxismes">conseils ouvriers</a> apparus dans plusieurs révolutions et mouvements révolutionnaires ont constitué une référence importante pour les courants qui refusent la confiscation du pouvoir par les appareils politiques.</p>
+<p>Dans l'Italie de l'après-guerre, cette question prend une nouvelle importance. Le pays connaît une industrialisation rapide, une concentration ouvrière dans les grandes usines et des transformations profondes du monde du travail. Les grandes organisations de gauche et les syndicats sont contestés par des militants qui leur reprochent de privilégier la négociation institutionnelle au détriment de l'initiative directe des travailleurs.</p>
+<p>L'autonomie ouvrière ne signifie pas simplement l'indépendance individuelle d'un salarié. Elle désigne la capacité collective des travailleurs à définir leurs revendications, leurs méthodes de lutte et leurs formes d'organisation sans se soumettre aux intérêts des directions syndicales, des partis ou du patronat.</p>
+
+<h2 id="operaisme">2. L'opéraïsme italien : comprendre les luttes depuis les travailleurs</h2>
+<p>Au début des années 1960 apparaît en Italie un courant intellectuel et politique appelé <em>operaismo</em>, généralement traduit par « opéraïsme » ou « ouvriérisme ».</p>
+<p>Il se développe notamment autour de la revue <cite>Quaderni Rossi</cite>, fondée en 1961 autour de Raniero Panzieri, et de la revue <cite>Classe Operaia</cite>, lancée en 1964. Des intellectuels et militants comme Mario Tronti, Romano Alquati et Antonio Negri participent à ces débats, malgré des trajectoires et des désaccords importants.</p>
+<p>L'opéraïsme propose de partir des expériences concrètes des travailleurs pour comprendre le fonctionnement du capitalisme. Il ne s'agit pas seulement d'étudier les décisions des patrons ou les transformations économiques, mais d'observer comment les travailleurs résistent, s'organisent et modifient les rapports de force dans les entreprises.</p>
+<p>Une méthode importante est celle de l'« enquête ouvrière » : des militants et des chercheurs cherchent à comprendre les conditions de travail et les formes de résistance à partir de discussions et d'enquêtes menées avec les travailleurs eux-mêmes. L'objectif est de produire une connaissance utile à la lutte, plutôt que de parler à la place des personnes concernées.</p>
+<p>L'opéraïsme développe notamment les notions de composition de classe, de refus du travail et de travailleur-masse. Ces concepts cherchent à analyser les transformations de la classe ouvrière industrielle et les nouvelles formes de conflictualité dans les grandes usines.</p>
+<p>Cette approche ne constitue pas une doctrine anarchiste. Elle vient d'une relecture hétérodoxe du marxisme et entretient des rapports complexes avec le mouvement communiste, les syndicats et les organisations révolutionnaires.</p>
+<p>Voir aussi : <a href="anarchisme-idees.html#marxismes">les différents marxismes et leurs rapports avec les libertaires</a>, dans le dossier Anarchisme.</p>
+
+<h2 id="automne-chaud">3. Les luttes ouvrières italiennes et l'Automne chaud de 1969</h2>
+<p>Les années 1960 sont marquées par une intensification des conflits sociaux en Italie. Dans les grandes usines du Nord, notamment chez Fiat, les travailleurs contestent les cadences, la discipline industrielle, les hiérarchies et les conditions de travail.</p>
+<p>Les grèves ne sont pas toujours organisées par les structures syndicales traditionnelles. Des assemblées, des comités de base et des collectifs de travailleurs jouent un rôle important. Les formes d'action comprennent les grèves sauvages, les occupations, les manifestations internes aux usines et différentes formes de ralentissement ou de perturbation de la production.</p>
+<p>L'Automne chaud de 1969 constitue un moment majeur de cette séquence. Des millions de travailleurs participent à des grèves et à des mobilisations qui débordent les cadres habituels de la négociation sociale.</p>
+<p>Les revendications portent sur les salaires, les horaires, les conditions de travail, la dignité et le pouvoir dans l'entreprise. Les luttes contribuent à transformer le rapport de force entre les travailleurs, les directions patronales et les organisations syndicales.</p>
+<p>L'autonomie ouvrière se développe dans cette dynamique, sans être réductible à une organisation unique. Les débats portent notamment sur la relation entre les assemblées de travailleurs, les syndicats, les groupes révolutionnaires et les organisations politiques.</p>
+<p>Voir aussi : <a href="../experiences/mai-68-histoire.html">Mai 68</a>, la grande grève française de l'année précédente, dans Histoire des luttes.</p>
+
+<h2 id="autonomia">4. De l'opéraïsme à l'Autonomia des années 1970</h2>
+<p>Au cours des années 1970, les luttes autonomes italiennes dépassent progressivement le seul espace de l'usine.</p>
+<p>La contestation s'étend aux universités, aux quartiers, au logement, aux transports, aux rapports de genre et aux conditions de vie. Les personnes précaires, les étudiants, les chômeurs, les jeunes et les femmes prennent une place croissante dans les mobilisations.</p>
+<p>Autonomia Operaia se constitue en 1973 comme un ensemble organisé et décentralisé de groupes et de militants issus de cette histoire. Le terme Autonomia désigne cependant un champ beaucoup plus large que cette organisation : il renvoie à des collectifs, des revues, des radios, des comités de quartier et des expériences militantes diverses.</p>
+<p>La contestation s'oriente de plus en plus vers la critique de l'ensemble de la vie sociale. Le travail salarié n'est plus le seul lieu où se joue la domination capitaliste. Le logement, la consommation, la famille, l'éducation et les loisirs sont également considérés comme des terrains de conflit.</p>
+<p>Les pratiques de réappropriation, les occupations de logements, les autoréductions de factures et les expériences de communication indépendante participent à cette extension du champ politique.</p>
+
+<h2 id="1977">5. Le mouvement de 1977 en Italie</h2>
+<p>L'année 1977 constitue un moment important, mais particulièrement complexe, de l'histoire de l'autonomie italienne.</p>
+<p>Un mouvement étudiant et social se développe dans plusieurs villes, notamment à Bologne et à Rome. Il rassemble des étudiants, des jeunes précaires, des militants issus de la gauche extra-parlementaire, des collectifs féministes, des travailleurs et des acteurs de la contre-culture.</p>
+<p>Le mouvement exprime une critique des institutions politiques, du travail salarié, de la discipline sociale et des formes traditionnelles de représentation. Il est aussi traversé par des pratiques culturelles nouvelles : radios libres, musique, humour politique, performances, journaux et occupations de lieux.</p>
+<p>À Bologne, Radio Alice devient l'un des symboles de cette culture de communication indépendante.</p>
+<p>Il serait cependant erroné de présenter le mouvement de 1977 comme un bloc homogène. Les sensibilités politiques et les stratégies divergent. Les tensions entre autonomie organisée, spontanéité, lutte armée, action collective et pratiques créatives sont importantes.</p>
+<p>La répression étatique, les affrontements avec les forces de l'ordre et la montée de la violence politique contribuent à l'épuisement de cette séquence. À partir de 1979, une vaste répression vise la gauche révolutionnaire italienne. Des milliers de personnes sont arrêtées ou poursuivies dans un contexte où les autorités associent parfois abusivement des milieux militants très différents à la lutte armée clandestine.</p>
+<p>Il faut distinguer les organisations autonomes des groupes armés clandestins, même si des circulations militantes, des conflits et des rapprochements ont existé. Assimiler l'ensemble de l'autonomie aux Brigades rouges serait historiquement faux.</p>
+<p>Voir aussi : <a href="../experiences/action-directe-groupe.html">le groupe Action directe et la critique libertaire de la lutte armée</a>, dans Histoire des luttes.</p>
+
+<h2 id="autonomen">6. Les Autonomen en Allemagne de l'Ouest</h2>
+<p>En Allemagne de l'Ouest, une mouvance autonome se développe à la fin des années 1970 et au début des années 1980.</p>
+<p>Elle est issue de plusieurs histoires : les mobilisations de 1968, les groupes anti-autoritaires, les mouvements écologistes et antinucléaires, les luttes contre les projets d'infrastructures, les mouvements féministes, les scènes punk et les mobilisations pour le logement.</p>
+<p>Le congrès de Tunix, organisé à Berlin-Ouest en 1978, est souvent considéré comme un moment important de réorientation d'une partie de la gauche radicale. De nombreux militants cherchent alors à sortir des formes organisationnelles centralisées et des stratégies politiques traditionnelles.</p>
+<p>Les Autonomen ne disposent pas d'une direction centrale ou d'une organisation nationale unifiée. Ils fonctionnent à travers des groupes locaux, des assemblées, des collectifs et des réseaux informels.</p>
+<p>Leurs luttes portent notamment sur :</p>
+<ul>
+<li>Les occupations de logements et la défense des squats.</li>
+<li>La lutte contre le nucléaire.</li>
+<li>L'<a href="../antifascisme/index.html">antifascisme</a> et l'opposition aux mouvements néonazis.</li>
+<li>Les mobilisations féministes et contre les violences sexistes.</li>
+<li>La défense des espaces culturels et politiques indépendants.</li>
+<li>La critique de l'État, du capitalisme et des normes sociales autoritaires.</li>
+</ul>
+<p>Les occupations de maisons à Berlin-Ouest, notamment dans le quartier de Kreuzberg, deviennent un symbole de cette période. Elles s'opposent à la spéculation immobilière, aux opérations de rénovation urbaine destructrices et à l'expulsion des habitants.</p>
+<p>Les Autonomen développent une culture politique qui associe autonomie individuelle et collective, <a href="../experiences/action-directe-pratique.html">action directe</a>, vie alternative et refus des hiérarchies. Cette culture est diverse et ne se limite pas à une esthétique ou à une méthode d'affrontement.</p>
+
+<h2 id="squats">7. Le développement des squats et des centres sociaux</h2>
+<p>À partir des années 1970 et surtout dans les années 1980, les occupations de bâtiments se développent dans plusieurs villes européennes.</p>
+<p>Les squats répondent à des situations diverses : logements vacants, crise du logement, spéculation immobilière, destruction de quartiers populaires, manque d'espaces culturels et volonté de créer des lieux indépendants.</p>
+<p>Certains squats sont principalement des lieux d'habitation. D'autres deviennent des centres sociaux, des espaces culturels ou des bases d'organisation politique.</p>
+<p>Ces lieux peuvent accueillir des <a href="../s-entraider.html#cantines">cantines populaires</a>, des <a href="../s-entraider.html#bibliotheques-populaires">bibliothèques</a>, des ateliers, des concerts, des réunions, des permanences, des activités de solidarité et des projets autogérés.</p>
+<p>Le mouvement des squats n'est pas exclusivement autonome ou anarchiste. Il rassemble des personnes et des collectifs de sensibilités différentes. Certains lieux recherchent une légalisation ou un accord avec les autorités, tandis que d'autres défendent une occupation sans reconnaissance institutionnelle.</p>
+<p>Les expériences de Berlin, Amsterdam, Copenhague, Rome, Barcelone, Madrid, Paris et d'autres villes montrent que les mouvements d'occupation ont des trajectoires locales très différentes.</p>
+
+<h2 id="europe">8. La diffusion européenne et les transformations contemporaines</h2>
+<p>Les mouvements autonomes et les expériences de centres sociaux se développent dans plusieurs pays européens, mais sans suivre un modèle unique.</p>
+<p>En Italie, les centres sociaux autogérés deviennent des lieux importants de la gauche radicale. En Allemagne, des espaces comme la Rote Flora à Hambourg incarnent la persistance de lieux autonomes. Aux Pays-Bas, les mouvements de squats ont une histoire particulièrement visible, notamment à Amsterdam. En Espagne, les centres sociaux occupés s'inscrivent dans des traditions de luttes urbaines, libertaires et populaires.</p>
+<p>En France, des expériences de squats politiques, de lieux autogérés, de collectifs antifascistes et de mobilisations écologistes se développent selon des contextes propres. Il faut toutefois éviter de présenter toute occupation ou toute lutte de terrain comme appartenant automatiquement au mouvement autonome.</p>
+<p>À partir des années 1990 et 2000, les pratiques autonomes se recomposent autour de nouvelles mobilisations : mouvements altermondialistes, luttes contre les sommets internationaux, mobilisations contre les politiques néolibérales, mouvements de précaires, défense des lieux occupés et résistances écologistes.</p>
+<p>Les mouvements contemporains héritent de certaines pratiques autonomes, mais ne sont pas nécessairement leurs prolongements directs.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="mouvement-autonome-idees.html">Idées et théories</a></li>
+<li><a href="mouvement-autonome-heritages.html">Expériences et héritages</a>, avec la conclusion, la bibliographie et les précautions historiques du dossier.</li>
+<li>Dans la même famille : <a href="anarchisme-histoire.html#apres-1945">l'anarchisme après 1945</a>, <a href="communisme-libertaire-histoire.html#apres-1945">les organisations communistes libertaires</a>, <a href="anarcho-syndicalisme-histoire.html">l'anarcho-syndicalisme</a> et <a href="communalisme-libertaire-heritages.html#municipalismes">les municipalismes contemporains</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="mouvement-autonome-heritages.html#sources">Bibliographie et ressources</a><span>Ouvrages, travaux universitaires et ressources en ligne, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../experiences/mai-68-histoire.html">Mai 68</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../experiences/action-directe-pratique.html">L'action directe</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../antifascisme/index.html">Antifascisme</a><span>La rubrique faite avec La Horde.</span></li>
+</ul></section>
+</div>
+
+=== mouvement-autonome-idees | Mouvement autonome | Le mouvement autonome : idées et théories | Europe · depuis les années 1960 | L'autonomie désigne d'abord la capacité d'un groupe à décider de ses propres affaires.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="capacite-collective">1. L'autonomie comme capacité collective</h2>
+<p>L'autonomie désigne d'abord la capacité d'un groupe à décider de ses propres affaires.</p>
+<p>Elle s'oppose à la délégation permanente du pouvoir à des représentants, à des directions ou à des institutions extérieures. Elle implique que les personnes concernées puissent participer directement à la définition des objectifs, des décisions et des moyens d'action.</p>
+<p>Cette conception ne signifie pas que toute organisation, toute coordination ou toute délégation serait nécessairement autoritaire. La question est plutôt de savoir comment organiser la coordination sans créer une couche dirigeante séparée de celles et ceux qui agissent.</p>
+<p>L'autonomie suppose donc des pratiques concrètes : <a href="../glossaire.html#assemblee-generale">assemblées</a>, <a href="../glossaire.html#mandat">mandats contrôlables</a>, rotation des responsabilités, transparence des décisions et possibilité de révoquer les personnes mandatées.</p>
+
+<h2 id="auto-organisation">2. L'auto-organisation</h2>
+<p>L'auto-organisation est l'un des principes les plus importants des mouvements autonomes.</p>
+<p>Elle consiste à construire les structures de lutte à partir des personnes directement concernées, plutôt que de confier leur représentation à une organisation extérieure.</p>
+<p>Dans une entreprise, elle peut prendre la forme d'assemblées de travailleurs ou de comités de grève. Dans un quartier, elle peut se traduire par des collectifs d'habitants. Dans un mouvement étudiant, elle peut s'organiser autour d'<a href="../agir/tenir-une-ag.html">assemblées générales</a> et de commissions.</p>
+<p>L'auto-organisation n'est pas synonyme d'absence d'organisation. Elle peut nécessiter des structures durables, des règles collectives et une répartition précise des tâches.</p>
+<p>Elle pose néanmoins une question permanente : comment éviter que les personnes les plus disponibles, les plus expérimentées ou les plus à l'aise à l'oral monopolisent les décisions ?</p>
+<p>Voir aussi : <a href="../agir/decider-sans-chef.html">Décider sans chef</a> et <a href="../agir/monter-un-collectif.html">Monter un collectif</a>, dans les fiches pratiques.</p>
+
+<h2 id="action-directe">3. L'action directe</h2>
+<p>L'<a href="../glossaire.html#action-directe">action directe</a> consiste à intervenir soi-même sur une situation, sans attendre qu'une autorité ou un représentant agisse à sa place.</p>
+<p>Elle peut prendre des formes très diverses :</p>
+<ul>
+<li>La grève et le blocage d'une activité économique.</li>
+<li>L'occupation d'un lieu.</li>
+<li>La création d'un espace autogéré.</li>
+<li>La mise en place d'une cantine ou d'une <a href="../agir/caisse-de-solidarite.html">caisse de solidarité</a>.</li>
+<li>L'organisation collective d'une défense contre une expulsion.</li>
+<li>La désobéissance collective à une décision jugée injuste.</li>
+</ul>
+<p>L'action directe ne se réduit pas à la confrontation physique. Elle peut être constructive, défensive, sociale, culturelle ou économique.</p>
+<p>Elle se distingue d'une simple manifestation de mécontentement par sa volonté d'agir directement sur les rapports de force et sur les conditions matérielles de la vie collective.</p>
+
+<h2 id="representation">4. Le refus de la représentation politique</h2>
+<p>Une partie importante des mouvements autonomes critique la délégation du pouvoir politique aux partis et aux institutions représentatives.</p>
+<p>Cette critique ne signifie pas que tous les autonomes refusent de participer à toute élection ou à toute institution. Les positions sont variables. Certains défendent une rupture complète avec les institutions, tandis que d'autres acceptent des formes de négociation ou de reconnaissance juridique lorsqu'elles permettent de préserver des espaces de lutte.</p>
+<p>La critique porte surtout sur le risque de substitution : une organisation prétend représenter un mouvement, puis finit par décider à sa place.</p>
+<p>L'autonomie cherche au contraire à préserver la capacité des personnes mobilisées à définir elles-mêmes leurs priorités.</p>
+
+<h2 id="refus-du-travail">5. L'autonomie ouvrière et le refus du travail</h2>
+<p>Dans la tradition opéraïste italienne, le refus du travail désigne une critique de la place centrale accordée au travail salarié dans la société capitaliste.</p>
+<p>Il ne signifie pas nécessairement le refus de toute activité utile ou de toute contribution à la vie collective. Il vise notamment la discipline imposée par le travail capitaliste, la subordination à l'employeur, l'intensification des cadences et la transformation du temps de vie en temps productif.</p>
+<p>Cette réflexion a contribué à élargir la critique du capitalisme au-delà de l'usine. Les activités domestiques, le travail reproductif, les études, les transports et la vie quotidienne sont également étudiés comme des dimensions de l'organisation sociale.</p>
+<p>Les débats féministes ont joué un rôle essentiel dans cette extension. Les luttes autour du travail domestique ont notamment montré que l'économie capitaliste dépend d'activités souvent invisibilisées et inégalement réparties.</p>
+<p>Il faut néanmoins éviter de réduire toutes les traditions autonomes à cette théorie du travail. Les Autonomen allemands et de nombreux collectifs de squats ont développé des préoccupations et des pratiques différentes.</p>
+
+<h2 id="espaces-autonomes">6. Les espaces autonomes et les communs</h2>
+<p>Les lieux autonomes sont des espaces où des personnes cherchent à organiser collectivement des activités en dehors des logiques marchandes ou institutionnelles dominantes.</p>
+<p>Un centre social autogéré peut accueillir des activités culturelles, des réunions politiques, des ateliers, des repas collectifs et des permanences de solidarité.</p>
+<p>Ces lieux ne sont pas seulement des infrastructures militantes. Ils peuvent constituer des expériences concrètes d'une autre organisation de la vie quotidienne.</p>
+<p>Ils soulèvent néanmoins des questions essentielles :</p>
+<ul>
+<li>Qui peut utiliser le lieu ?</li>
+<li>Qui prend les décisions ?</li>
+<li>Comment répartir les tâches ?</li>
+<li>Comment financer les activités ?</li>
+<li>Comment éviter la concentration du pouvoir ?</li>
+<li>Comment assurer l'accessibilité aux personnes qui ne font pas partie du milieu militant ?</li>
+</ul>
+<p>Un lieu occupé n'est pas automatiquement un commun. Pour devenir un espace réellement collectif, il doit construire des règles d'accès, de décision et de responsabilité qui ne reposent pas sur l'appropriation privée d'un petit groupe.</p>
+<p>Voir aussi : <a href="../bibliotheque/zone-autonome-temporaire.html">TAZ, Zone autonome temporaire</a>, dans la bibliothèque, et le parcours <a href="../universite/autogestion.html">Autogestion</a> de l'université populaire.</p>
+
+<h2 id="vie-quotidienne">7. La politique de la vie quotidienne</h2>
+<p>Une caractéristique de nombreuses expériences autonomes est de ne pas séparer strictement la politique de la vie quotidienne.</p>
+<p>Le logement, les relations affectives, les pratiques culturelles, l'alimentation, les loisirs, les rapports de genre et les modes de consommation sont considérés comme des espaces où s'exercent des rapports de pouvoir.</p>
+<p>L'objectif n'est pas seulement de transformer les institutions à l'avenir, mais de commencer à modifier les relations sociales dans le présent.</p>
+<p>Cette approche peut se traduire par des cantines collectives, des ateliers, des espaces féministes, des bibliothèques indépendantes, des formes d'habitat partagé et des pratiques de solidarité.</p>
+<p>Elle comporte cependant un risque : celui de considérer que la création d'espaces alternatifs suffit à transformer la société. Des lieux autogérés peuvent rester socialement isolés, dépendre de ressources extérieures ou reproduire des inégalités.</p>
+
+<h2 id="antiautoritarisme">8. L'antiautoritarisme et les rapports de domination</h2>
+<p>Les mouvements autonomes se sont souvent construits contre les hiérarchies politiques, économiques et sociales.</p>
+<p>Ils ont contribué à développer des pratiques de lutte contre le racisme, le sexisme, l'homophobie, les violences policières et les discriminations.</p>
+<p>Les mouvements féministes autonomes ont notamment insisté sur la nécessité de construire des espaces où les femmes puissent définir leurs propres revendications et leurs formes d'organisation.</p>
+<p>Mais l'antiautoritarisme proclamé ne garantit pas l'égalité réelle. Des collectifs sans hiérarchie officielle peuvent être dominés par des personnes disposant de davantage de temps, de ressources, d'expérience ou de reconnaissance.</p>
+<p>Les mouvements autonomes ont donc été traversés par des conflits internes autour du sexisme, de la répartition des tâches, des comportements autoritaires et de la place des personnes minorisées.</p>
+<p>L'autonomie ne doit pas être comprise comme une absence de règles, mais comme la capacité collective à construire des règles discutées, contrôlées et transformables.</p>
+<p>Voir aussi : <a href="../agir/violences-dans-nos-collectifs.html">Les violences dans nos collectifs</a> et <a href="../agir/eviter-l-epuisement-militant.html">Éviter l'épuisement militant</a>, dans les fiches pratiques.</p>
+
+<h2 id="debats">9. Les débats stratégiques et les limites</h2>
+<p>Le mouvement autonome est traversé par plusieurs tensions.</p>
+<p><strong>Autonomie et organisation durable.</strong> Une organisation trop centralisée peut confisquer les décisions, mais une organisation trop informelle peut rendre les responsabilités invisibles et favoriser les rapports de pouvoir personnels.</p>
+<p><strong>Autonomie et coordination.</strong> Les collectifs locaux peuvent préserver leur liberté d'action, mais les luttes à grande échelle nécessitent des formes de coordination et de solidarité dépassant le quartier ou la ville.</p>
+<p><strong>Autonomie et institutions.</strong> La légalisation d'un lieu peut garantir sa continuité, mais aussi entraîner des contraintes administratives, financières ou politiques.</p>
+<p><strong>Autonomie et violence.</strong> Les mouvements autonomes ont connu des débats importants sur la confrontation, la défense collective et l'usage de la violence. Il serait faux de présenter ces débats comme résolus ou de réduire tout le mouvement à ses formes les plus visibles d'affrontement.</p>
+<p><strong>Autonomie et transformation sociale.</strong> La création d'espaces alternatifs peut permettre d'expérimenter d'autres rapports sociaux, mais elle ne remplace pas nécessairement une stratégie de transformation des structures économiques et politiques.</p>
+<p>Ces tensions ne sont pas des accidents extérieurs au mouvement. Elles constituent une partie de son histoire et de ses débats.</p>
+<p>Voir aussi : <a href="anarchisme-idees.html#organisation">Comment s'organiser sans chefs</a> et <a href="anarchisme-idees.html#violence">le débat sur la violence</a>, dans le dossier Anarchisme ; <a href="communalisme-libertaire-idees.html#debats">les débats du communalisme</a> sur l'échelle et les institutions.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="mouvement-autonome-histoire.html">Histoire et origines</a></li>
+<li><a href="mouvement-autonome-heritages.html">Expériences et héritages</a>, avec la conclusion, la bibliographie et les précautions historiques du dossier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="mouvement-autonome-heritages.html#sources">Bibliographie et ressources</a><span>Ouvrages, travaux universitaires et ressources en ligne, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/autogestion.html">Le parcours Autogestion</a><span>L'université populaire.</span></li>
+<li><a href="../agir/tenir-une-ag.html">Tenir une AG</a><span>La fiche pratique.</span></li>
+<li><a href="../glossaire.html#autogestion">Le glossaire</a><span>Autogestion, action directe, mandat, assemblée générale.</span></li>
+</ul></section>
+</div>
+
+=== mouvement-autonome-heritages | Mouvement autonome | Le mouvement autonome : expériences et héritages | Europe · depuis les années 1960 | Le mouvement autonome a contribué à renouveler les formes de lutte et d'organisation politique en Europe depuis les années 1960.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="assemblees-ouvrieres">1. Les assemblées et comités ouvriers italiens</h2>
+<p>Les expériences d'auto-organisation ouvrière des années 1960 et 1970 constituent l'un des héritages majeurs de l'autonomie.</p>
+<p>Dans les grandes entreprises italiennes, les assemblées, les comités de base et les collectifs de travailleurs permettent de construire des mobilisations qui échappent parfois aux négociations syndicales habituelles.</p>
+<p>Ces pratiques donnent une place centrale aux travailleurs dans la définition des revendications et des stratégies.</p>
+<p>Elles ne sont pas uniformes et ne s'opposent pas toujours aux syndicats. Les relations entre comités autonomes et organisations syndicales varient selon les lieux, les périodes et les rapports de force.</p>
+<p>L'expérience italienne montre qu'une lutte peut développer ses propres structures de décision sans dépendre entièrement d'un appareil politique préexistant.</p>
+
+<h2 id="radios-libres">2. Le mouvement de 1977 et les radios libres</h2>
+<p>Le mouvement italien de 1977 a également marqué l'histoire des formes de communication indépendantes.</p>
+<p>Les radios libres permettent à des collectifs de diffuser leurs informations, leurs analyses et leurs expressions culturelles en dehors des médias dominants.</p>
+<p>Radio Alice, à Bologne, devient un symbole de cette expérience. Elle associe information militante, création culturelle, humour et participation de ses auditeurs.</p>
+<p>Ces expériences posent une question toujours actuelle : comment construire des moyens de communication indépendants, accessibles et contrôlés collectivement ?</p>
+<p>Les médias autonomes ne sont pas seulement des outils de diffusion. Ils peuvent devenir des espaces de production collective de connaissances et de récits.</p>
+<p>Voir aussi : <a href="../creer.html#medias">les médias indépendants</a>, dans le tiroir Créer.</p>
+
+<h2 id="berlin">3. Les squats de Berlin-Ouest</h2>
+<p>Les occupations de logements à Berlin-Ouest au début des années 1980 constituent une expérience importante des mouvements autonomes européens.</p>
+<p>Dans des quartiers menacés par les opérations de rénovation urbaine, des habitants et des militants occupent des bâtiments vacants pour empêcher leur destruction et créer des lieux de vie alternatifs.</p>
+<p>Le quartier de Kreuzberg devient l'un des principaux espaces de ces mobilisations. Les occupations se multiplient et donnent lieu à des conflits avec les autorités.</p>
+<p>Certaines maisons sont évacuées, d'autres obtiennent des accords ou des formes de reconnaissance. Cette évolution montre les difficultés rencontrées par les mouvements d'occupation lorsqu'ils doivent choisir entre la continuité matérielle des lieux et le refus de leur intégration institutionnelle.</p>
+<p>L'expérience berlinoise est importante pour comprendre la manière dont un mouvement peut transformer durablement un quartier tout en restant traversé par des contradictions.</p>
+
+<h2 id="rote-flora">4. La Rote Flora à Hambourg</h2>
+<p>La Rote Flora est un ancien théâtre situé dans le quartier de Sternschanze, à Hambourg, occupé en 1989.</p>
+<p>Le lieu devient un espace culturel et politique autonome, associé aux mouvements antifascistes, anticapitalistes et anti-autoritaristes.</p>
+<p>Il accueille des activités culturelles, des réunions, des événements et des initiatives militantes. Il est également devenu un symbole des conflits autour de la propriété privée, de la spéculation immobilière et du droit à la ville.</p>
+<p>Son histoire illustre la capacité d'un lieu à devenir un point d'ancrage pour des mouvements sociaux au-delà de sa fonction initiale.</p>
+<p>La Rote Flora ne représente pas à elle seule l'ensemble du mouvement autonome allemand, mais elle en constitue un exemple durable et particulièrement visible.</p>
+
+<h2 id="centres-sociaux">5. Les centres sociaux autogérés italiens</h2>
+<p>En Italie, les centres sociaux autogérés deviennent des lieux essentiels de la gauche radicale à partir des années 1980.</p>
+<p>Ils occupent parfois d'anciens bâtiments industriels ou des locaux abandonnés et développent des activités culturelles, politiques et sociales.</p>
+<p>Certains accueillent des concerts, des ateliers, des cantines, des bibliothèques, des radios, des espaces de réunion et des initiatives de solidarité.</p>
+<p>Ces lieux ne sont pas tous identiques. Certains entretiennent des relations conflictuelles avec les autorités, d'autres négocient des formes de reconnaissance ou de conventionnement.</p>
+<p>Leur histoire permet de comprendre comment les pratiques d'occupation peuvent devenir des infrastructures durables de mobilisation et de vie collective.</p>
+
+<h2 id="pays-bas">6. Les mouvements de squats aux Pays-Bas et en Europe</h2>
+<p>Les Pays-Bas, et particulièrement Amsterdam, ont connu un mouvement de squats important.</p>
+<p>Les occupations ont été liées à la crise du logement, à la spéculation, à la vacance immobilière et aux transformations urbaines.</p>
+<p>Les mouvements de squats ont également contribué à créer des espaces culturels et politiques alternatifs. Leur histoire montre que l'occupation peut être à la fois une réponse à un besoin matériel et une critique politique de la propriété immobilière.</p>
+<p>Dans d'autres villes européennes, les mouvements de squats ont développé des formes similaires, mais avec des contextes juridiques et politiques différents.</p>
+<p>Les recherches comparatives sur Amsterdam, Berlin, Paris, Barcelone, Madrid, Rome, Copenhague et Rotterdam montrent que ces mouvements ne suivent pas une trajectoire unique. Les possibilités de légalisation, les rapports avec les autorités et les liens avec les mouvements sociaux varient considérablement.</p>
+
+<h2 id="feminismes">7. Les luttes féministes autonomes</h2>
+<p>Les mouvements féministes autonomes ont joué un rôle important dans la remise en cause des hiérarchies présentes dans les organisations politiques traditionnelles.</p>
+<p>En Allemagne de l'Ouest, des groupes de femmes issus des mobilisations de la fin des années 1960 développent des centres autonomes, des librairies, des maisons d'accueil, des publications et des structures de santé.</p>
+<p>Ces initiatives cherchent à créer des espaces où les femmes puissent définir leurs priorités et développer leurs propres outils de lutte.</p>
+<p>Elles contestent également la tendance de certaines organisations de gauche à considérer les questions féministes comme secondaires par rapport à la lutte des classes.</p>
+<p>Les féminismes autonomes ne sont pas homogènes. Ils sont traversés par des débats sur les rapports entre femmes, les classes sociales, les sexualités, les mouvements mixtes et les formes d'organisation.</p>
+<p>Ils rappellent que l'autonomie doit aussi être pensée à l'intérieur des mouvements eux-mêmes.</p>
+<p>Voir aussi : <a href="../experiences/mlac-histoire.html">Le MLAC : avorter en autogestion</a>, dans Histoire des luttes, et la famille <a href="feministes-liberation.html">féministes et libération</a> de l'encyclopédie.</p>
+
+<h2 id="antifascisme">8. Les luttes antifascistes</h2>
+<p>Les réseaux autonomes ont joué un rôle dans le développement de pratiques <a href="../antifascisme/agir-antifasciste.html">antifascistes</a>, notamment en Allemagne à partir des années 1980.</p>
+<p>Des groupes locaux organisent des campagnes contre les organisations néonazies, des mobilisations publiques et des initiatives de solidarité avec les personnes ciblées par le racisme.</p>
+<p>Les formes d'action varient selon les contextes. Elles peuvent inclure l'information, les manifestations, les contre-rassemblements, le soutien aux victimes et la construction de réseaux locaux.</p>
+<p>Le terme Black Bloc apparaît dans le contexte des mouvements de squats de Berlin-Ouest au début des années 1980. Il désigne une forme d'action collective et de présentation dans la rue, et non une organisation politique permanente.</p>
+<p>Le Black Bloc ne doit donc pas être confondu avec l'ensemble du mouvement autonome, ni avec une idéologie ou une organisation centralisée.</p>
+
+<h2 id="ecologie">9. Les mouvements écologistes et antinucléaires</h2>
+<p>Les mouvements autonomes ont également participé à des luttes écologistes et antinucléaires.</p>
+<p>En Allemagne de l'Ouest, les mobilisations contre les centrales nucléaires et certains grands projets d'infrastructures rassemblent des militants issus de traditions politiques différentes.</p>
+<p>Des collectifs autonomes prennent part à ces mobilisations en défendant des formes d'organisation indépendantes et des pratiques de résistance directe.</p>
+<p>Ces luttes montrent que l'autonomie peut dépasser les questions du travail et du logement pour s'étendre aux choix énergétiques, à l'aménagement du territoire et aux conséquences sociales et écologiques du développement industriel.</p>
+<p>Elles ne sont pas pour autant exclusivement autonomes : elles reposent souvent sur des coalitions larges entre habitants, associations, syndicats, écologistes et organisations politiques.</p>
+<p>Voir aussi : <a href="../experiences/zad-histoire.html">La ZAD de Notre-Dame-des-Landes</a>, une coalition de ce type, dans Histoire des luttes.</p>
+
+<h2 id="contemporains">10. Les mouvements autonomes contemporains</h2>
+<p>Depuis les années 1990, les pratiques autonomes se recomposent dans de nouveaux contextes.</p>
+<p>Les mouvements altermondialistes, les mobilisations contre les politiques d'austérité, les luttes pour le logement, les collectifs antifascistes, les réseaux de solidarité avec les personnes migrantes et les mouvements écologistes ont parfois repris des méthodes issues des expériences autonomes précédentes.</p>
+<p>Les centres sociaux, les lieux occupés, les cantines populaires, les bibliothèques militantes et les collectifs locaux continuent d'être des espaces d'organisation.</p>
+<p>Cependant, il ne faut pas établir une filiation automatique entre toutes ces expériences. Un collectif peut pratiquer l'auto-organisation sans se revendiquer du mouvement autonome. Une occupation peut être avant tout une lutte pour le logement. Une mobilisation écologiste peut être autonome dans son fonctionnement sans appartenir à la tradition historique des Autonomen.</p>
+<p>Les mouvements contemporains héritent de pratiques, de débats et de références, mais les réinventent selon leurs propres conditions.</p>
+
+<h2 id="limites">11. Les limites et contradictions des expériences autonomes</h2>
+<p>L'histoire des mouvements autonomes ne doit pas être racontée comme une succession de réussites exemplaires.</p>
+<p>Les espaces autogérés peuvent être fragilisés par le manque de ressources, l'épuisement militant, les conflits internes et la répression.</p>
+<p>L'informalité peut permettre une grande souplesse, mais elle peut aussi masquer des hiérarchies. Les personnes disposant de davantage de temps, de compétences ou de ressources peuvent finir par exercer un pouvoir disproportionné.</p>
+<p>Les lieux autonomes peuvent devenir socialement fermés, fonctionner principalement pour un milieu militant déjà constitué et rencontrer des difficultés à s'ouvrir aux habitants qui ne partagent pas les mêmes codes.</p>
+<p>La question de la durée est également centrale. La légalisation peut protéger un lieu, mais aussi le soumettre à des contraintes administratives et financières. Le refus de toute reconnaissance peut préserver une indépendance politique, mais exposer les activités à une précarité permanente.</p>
+<p>Enfin, l'autonomie locale ne suffit pas à transformer les structures économiques et politiques à grande échelle. La coordination entre lieux, la solidarité matérielle et la capacité à construire des rapports de force plus larges restent des enjeux fondamentaux.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Le mouvement autonome a contribué à renouveler les formes de lutte et d'organisation politique en Europe depuis les années 1960.</p>
+<p>Son histoire montre que l'émancipation ne passe pas uniquement par la conquête des institutions ou par la représentation politique. Elle peut aussi se construire à travers l'auto-organisation, l'action directe, les assemblées, les occupations, les espaces autogérés et les solidarités concrètes.</p>
+<p>Mais l'autonomie n'est pas une garantie automatique d'émancipation. Les collectifs autonomes doivent eux aussi affronter les rapports de pouvoir, les inégalités, les conflits stratégiques et les difficultés de coordination.</p>
+<p>Son héritage principal réside peut-être dans cette exigence : ne pas attendre qu'une organisation décide à notre place, et construire collectivement les moyens de transformer nos conditions d'existence.</p>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Le mouvement autonome est rangé dans la famille <a href="anarchistes-libertaires.html">anarchistes et libertaires</a>, mais, comme le dit ce dossier, il n'est pas exclusivement anarchiste : une partie de ses racines est marxiste hétérodoxe. Il croise la famille <a href="etudiants-autonomes.html">étudiants et autonomes</a> (autonomie ouvrière, mouvement squat) et la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>. Voir aussi les dossiers <a href="anarchisme-histoire.html">Anarchisme</a>, <a href="communisme-libertaire-histoire.html">Communisme libertaire</a>, <a href="anarcho-syndicalisme-histoire.html">Anarcho-syndicalisme</a> et <a href="communalisme-libertaire-histoire.html">Communalisme libertaire</a>.</p>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Ouvrages et travaux universitaires</h3><ul>
+<li><b><cite>Storming Heaven: Class Composition and Struggle in Italian Autonomist Marxism</cite></b>, Steve Wright, Pluto Press, 2002.<span>Une histoire de l'opéraïsme et de l'autonomie italienne.</span></li>
+<li><b><cite>The City Is Ours: Squatting and Autonomous Movements in Europe from the 1970s to the Present</cite></b>, Bart van der Steen, Ask Katzeff et Leendert van Hoogenhuijze (dir.), PM Press, 2014.<span>Études de mouvements de squats et d'autonomie dans plusieurs villes européennes.</span></li>
+<li><b><cite>The Urban Politics of Squatters' Movements</cite></b>, Miguel A. Martínez López (dir.), Palgrave Macmillan, 2018.<span>Étude comparative des mouvements d'occupation dans neuf villes européennes.</span></li>
+<li><b><cite>Metropolitan Preoccupations: The Spatial Politics of Squatting in Berlin</cite></b>, Alexander Vasudevan, Wiley-Blackwell, 2015.</li>
+<li><b>« Organized Spontaneity: Class Struggle, Workers' Autonomy, and Soviets in Italy »</b>, Gigi Roggero, <cite>Critical Sociology</cite>, 2010.<span><a href="https://doi.org/10.1111/j.1743-4580.2010.00283.x" rel="noopener">doi.org/10.1111/j.1743-4580.2010.00283.x</a></span></li>
+<li><b>« Italy, Operaism and Post-Operaism »</b>, Sandro Mezzadra, <cite>The International Encyclopedia of Revolution and Protest</cite>, 2009.</li>
+<li><b>« The Revolution of a/Autonomia. Conceptual itineraries and political practice in Italy (1973–1979) »</b>, Virginia Fusco, 2023.<span><a href="https://doi.org/10.5209/ltdl.84900" rel="noopener">doi.org/10.5209/ltdl.84900</a></span></li>
+<li><b><cite>Spatial Sovereignties: Autonomous Subjectivity and Political Resistance in Hamburg’s Rote Flora, 1989–2017</cite></b>, Allison Jones, thèse universitaire, University of Cambridge.<span><a href="https://www.repository.cam.ac.uk/items/2a2bf29f-09c8-4fe7-85e0-19572a0c3ce5" rel="noopener">La notice sur le dépôt de l'université de Cambridge</a>.</span></li>
+</ul></section>
+<section><h3>Articles et ressources en ligne</h3><ul>
+<li><b>« Autonomia Operaia »</b>, Steven Manicastri, 2012.<span><a href="https://doi.org/10.1002/9781405198073.wbierp1814" rel="noopener">doi.org/10.1002/9781405198073.wbierp1814</a></span></li>
+<li><b>« From autonomous to autonomist geographies »</b>, <cite>Progress in Human Geography</cite>, 2022.<span><a href="https://doi.org/10.1177/03091325221114347" rel="noopener">doi.org/10.1177/03091325221114347</a></span></li>
+<li><b>« Gefühl und Härte – die Autonomen »</b>, Klaus Farin, Bundeszentrale für politische Bildung, 2010.<span><a href="https://www.bpb.de/themen/zeit-kulturgeschichte/jugendkulturen-in-deutschland/36246/gefuehl-und-haerte-die-autonomen/" rel="noopener">Lire l'article sur bpb.de</a> (en allemand).</span></li>
+<li><b>« Die Autonomen zwischen Anarchie und Bewegung, Gewaltfixiertheit und Lebensgefühl »</b>, Bundeszentrale für politische Bildung.<span><a href="https://www.bpb.de/themen/linksextremismus/dossier-linksextremismus/33632/die-autonomen-zwischen-anarchie-und-bewegung-gewaltfixiertheit-und-lebensgefuehl/" rel="noopener">Lire l'article sur bpb.de</a> (en allemand).</span></li>
+<li><b>« Penser l'action directe des Black Blocs »</b>, <cite>Polix</cite>, 2004.</li>
+</ul></section>
+<section><h3>Notions à approfondir</h3><ul>
+<li>Opéraïsme et autonomie ouvrière.</li>
+<li>Composition de classe.</li>
+<li>Refus du travail.</li>
+<li>Enquête ouvrière et co-recherche.</li>
+<li><a href="mouvement-autonome-idees.html#auto-organisation">Auto-organisation</a>.</li>
+<li><a href="../glossaire.html#action-directe">Action directe</a>.</li>
+<li>Centres sociaux autogérés.</li>
+<li>Mouvements de squats.</li>
+<li>Autonomes allemands (Autonomen).</li>
+<li>Black Bloc.</li>
+<li>Espaces autonomes et communs.</li>
+<li>Féminismes autonomes.</li>
+<li><a href="../antifascisme/index.html">Antifascisme</a>.</li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../experiences/action-directe-pratique.html">L'action directe</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../experiences/zad-organisation.html">Vivre et décider sur la ZAD</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../universite/autogestion.html">Le parcours Autogestion</a><span>L'université populaire.</span></li>
+</ul></section>
+</div>
+
+<h2 id="precautions">Précautions historiques</h2>
+<div class="note"><p>Ce dossier distingue volontairement l'opéraïsme italien, l'Autonomia des années 1970, les Autonomen allemands et les mouvements de squats. Ces histoires se croisent, mais elles ne sont pas interchangeables.</p>
+<p>Le mouvement autonome n'est pas une organisation internationale unifiée. Les expériences mentionnées ne sont pas toutes anarchistes, et certaines sont issues de traditions marxistes hétérodoxes. Enfin, l'existence d'un espace autogéré ou d'une organisation horizontale ne garantit pas l'absence de domination interne.</p></div>

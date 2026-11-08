@@ -1,0 +1,493 @@
+=== communalisme-libertaire-histoire | Communalisme libertaire | Le communalisme libertaire : histoire et origines | Communes et fédérations · depuis le XIXe siècle | Le communalisme libertaire est un courant de pensée et de pratique politique qui cherche à construire une société fondée sur l'autonomie des communes, la démocratie directe, la coopération et la fédération libre des collectivités.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le communalisme libertaire est un courant de pensée et de pratique politique qui cherche à construire une société fondée sur l'autonomie des communes, la <a href="../glossaire.html#democratie-directe">démocratie directe</a>, la coopération et la fédération libre des collectivités.</p>
+<p>Il repose sur une idée fondamentale : les habitants doivent pouvoir reprendre collectivement le contrôle de la vie politique, économique et sociale de leurs territoires.</p>
+<p>Dans cette perspective, la commune ne doit pas être simplement une circonscription administrative de l'État. Elle constitue un espace politique dans lequel les personnes peuvent se réunir, débattre, décider et organiser directement les affaires communes.</p>
+<p>Le communalisme libertaire s'oppose ainsi à la concentration du pouvoir dans les institutions étatiques, les administrations centralisées et les structures économiques capitalistes.</p>
+<p>Il défend une organisation sociale dans laquelle les décisions sont prises au plus près des personnes concernées, tout en étant coordonnées à une échelle plus large par des mécanismes fédéralistes.</p>
+<p>Le communalisme libertaire possède plusieurs racines historiques dans les traditions socialistes et anarchistes du XIX<sup>e</sup> siècle. Les idées de <a href="../figures/proudhon.html">Pierre-Joseph Proudhon</a>, de <a href="../figures/bakounine.html">Mikhaïl Bakounine</a> et de <a href="../figures/kropotkine.html">Pierre Kropotkine</a> ont notamment contribué à développer une réflexion sur la fédération des communes et l'organisation décentralisée de la société.</p>
+<p>Au XX<sup>e</sup> siècle, <a href="../figures/murray-bookchin.html">Murray Bookchin</a> développe une conception contemporaine du municipalisme libertaire, étroitement liée à l'<a href="../universite/ecologie-sociale.html">écologie sociale</a>. Il propose de reconstruire une vie politique démocratique à partir des municipalités et des assemblées populaires, puis de les fédérer.</p>
+<p>Le communalisme libertaire ne désigne cependant pas une doctrine historiquement uniforme. Les traditions communales, le fédéralisme anarchiste et le municipalisme libertaire de Bookchin possèdent des points communs, mais aussi des différences importantes.</p>
+<p>Il convient donc de distinguer les expériences historiques de gouvernement communal, les projets fédéralistes anarchistes et les propositions théoriques contemporaines.</p>
+
+<h2 id="traditions">1. Les traditions communales et fédéralistes du XIX<sup>e</sup> siècle</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-proudhon.jpg" alt="Portrait de Pierre-Joseph Proudhon par Nadar, barbe et lunettes." width="1200" height="1601" loading="lazy"><figcaption>Pierre-Joseph Proudhon, photographié par Nadar. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Portrait_Pierre-Joseph_Proudhon_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Les idées communales et fédéralistes occupent une place importante dans l'histoire des mouvements socialistes et libertaires.</p>
+<p>Au XIX<sup>e</sup> siècle, les débats sur l'émancipation sociale ne portent pas uniquement sur la propriété des moyens de production ou l'organisation du travail. Ils concernent également la manière dont les populations peuvent décider collectivement de leurs affaires.</p>
+<p>Plusieurs penseurs socialistes et anarchistes défendent une organisation politique décentralisée, fondée sur l'autonomie des collectivités et leur association volontaire.</p>
+<p>Pierre-Joseph Proudhon développe notamment une pensée fédéraliste qui cherche à limiter la concentration du pouvoir politique et économique.</p>
+<p>Mikhaïl Bakounine défend une fédération de communes, d'associations et de collectivités autonomes, organisée de bas en haut.</p>
+<p>Pierre Kropotkine développe également une réflexion sur les communes libres, la coopération et la décentralisation économique.</p>
+<p>Ces traditions ne constituent pas encore le communalisme libertaire au sens contemporain du terme. Elles fournissent cependant plusieurs de ses références historiques.</p>
+<p>L'idée commune est que l'émancipation ne doit pas dépendre d'un pouvoir central prétendant représenter l'ensemble de la population.</p>
+<p>Elle doit être construite à partir des collectivités elles-mêmes, associées librement dans des structures fédérales.</p>
+
+<h2 id="commune-de-paris">2. La Commune de Paris de 1871</h2>
+<figure class="photo"><img src="../assets/img/revolutions/commune-canons-montmartre.jpg" alt="Les canons de la Garde nationale rassemblés sur la butte Montmartre, en mars 1871. C'est pour les reprendre que l'armée monte à l'aube du 18 mars." width="1200" height="836" loading="lazy"><figcaption>Les canons de la Garde nationale sur la butte Montmartre, en mars 1871. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Commune_de_Paris_Canons_%C3%A0_Montmartre_le_18_mars.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>La <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a> constitue une expérience historique majeure pour les traditions révolutionnaires et fédéralistes.</p>
+<p>Après la défaite française face à la Prusse et la crise politique qui suit la chute du Second Empire, une insurrection éclate à Paris en mars 1871.</p>
+<p>Le 18 mars, une partie de la population parisienne et de la Garde nationale s'oppose à la tentative du gouvernement de reprendre les canons de la capitale.</p>
+<p>Un pouvoir communal révolutionnaire est ensuite mis en place.</p>
+<p>La Commune développe plusieurs mesures politiques et sociales, notamment :</p>
+<ul>
+<li>L'élection de représentants révocables.</li>
+<li>La limitation de certains privilèges politiques.</li>
+<li>La séparation de l'Église et de l'État.</li>
+<li>Des mesures en faveur des travailleurs.</li>
+<li>La réorganisation de certains services publics.</li>
+<li>La défense de l'autonomie communale.</li>
+</ul>
+<p>La Commune ne constitue pas une expérience exclusivement anarchiste. Elle rassemble des républicains révolutionnaires, des socialistes, des blanquistes, des proudhoniens et d'autres sensibilités.</p>
+<p>Cependant, son existence nourrit durablement les réflexions sur la démocratie communale et le fédéralisme révolutionnaire.</p>
+<p>Dans le mouvement anarchiste, elle devient une référence importante pour penser une société organisée à partir de communes autonomes et fédérées.</p>
+<p>La Commune est écrasée en mai 1871 lors de la Semaine sanglante. La répression entraîne des milliers de morts, d'arrestations et de déportations.</p>
+<p>Son héritage dépasse néanmoins largement sa courte existence.</p>
+<p>Voir aussi : <a href="../experiences/commune-de-paris-organisation.html">Comment la Commune s'organisait</a> et <a href="../experiences/commune-de-paris-decrets-femmes.html">ses décrets</a>, dans Histoire des luttes, et <a href="../bibliotheque/commune-de-paris-kropotkine.html">La Commune de Paris</a> de Kropotkine, dans la bibliothèque.</p>
+
+<h2 id="federalisme-anarchiste">3. Le fédéralisme anarchiste</h2>
+<p>Le <a href="../glossaire.html#federalisme">fédéralisme</a> anarchiste constitue l'une des principales traditions intellectuelles à l'origine des conceptions communales libertaires.</p>
+<p>Il repose sur l'association libre de collectivités autonomes.</p>
+<p>Contrairement à une organisation centralisée, dans laquelle les décisions descendent d'une autorité supérieure, le fédéralisme cherche à organiser la coopération à partir des unités de base.</p>
+<p>Les communes, les associations, les syndicats et les collectivités peuvent ainsi se coordonner sans abandonner leur autonomie.</p>
+<p>Bakounine défend notamment une organisation de la société dans laquelle les individus s'associent au sein de communes, puis les communes au sein de fédérations plus larges.</p>
+<p>Cette conception s'oppose à la souveraineté d'un État centralisé.</p>
+<p>Elle ne signifie pas que chaque commune doit vivre isolée. Au contraire, l'autonomie locale doit être articulée à une coopération organisée entre les territoires.</p>
+<p>Le fédéralisme constitue ainsi un principe politique, économique et social.</p>
+
+<h2 id="kropotkine">4. Kropotkine : la commune, la coopération et l'entraide</h2>
+<p>Pierre Kropotkine développe une réflexion importante sur les relations entre organisation sociale, coopération et liberté.</p>
+<p>Dans <a href="../bibliotheque/la-conquete-du-pain.html"><cite>La Conquête du pain</cite></a>, publié en 1892, il envisage une société dans laquelle les besoins humains sont satisfaits par une organisation collective de la production et de la distribution.</p>
+<p>Il défend une organisation décentralisée, fondée sur les communes, les associations et la coopération entre producteurs.</p>
+<p>Dans <a href="../bibliotheque/entraide.html"><cite>L'Entraide, un facteur de l'évolution</cite></a>, publié en 1902, il étudie les formes de coopération présentes dans le monde animal et dans les sociétés humaines.</p>
+<p>Il cherche à montrer que la solidarité et l'entraide constituent des dimensions importantes de l'évolution et de l'organisation collective.</p>
+<p>Ces réflexions contribuent à nourrir une conception de la société dans laquelle les collectivités peuvent organiser leurs besoins sans dépendre d'une autorité étatique centralisée.</p>
+<p>Kropotkine ne développe toutefois pas le municipalisme libertaire contemporain de Bookchin. Il appartient à une tradition anarchiste antérieure dont certaines idées seront reprises et transformées par la suite.</p>
+
+<h2 id="traditions-revolutionnaires">5. Le communalisme dans les traditions révolutionnaires</h2>
+<p>Les projets de communes libres et de fédérations communales traversent plusieurs mouvements révolutionnaires.</p>
+<p>Ils apparaissent notamment dans les débats de la <a href="anarchisme-histoire.html#internationale">Première Internationale</a>, dans les mouvements anarchistes et dans les expériences révolutionnaires du début du XX<sup>e</sup> siècle.</p>
+<p>L'idée de « commune des communes » exprime la volonté de dépasser l'organisation étatique centralisée sans supprimer la coordination entre collectivités.</p>
+<p>Dans cette perspective, les communes ne sont pas des unités administratives dépendant d'un gouvernement national.</p>
+<p>Elles constituent les bases d'une organisation politique reposant sur l'autonomie, la solidarité et la fédération.</p>
+<p>Cette tradition est diverse et ne se limite pas à un seul pays ou à une seule école de pensée.</p>
+
+<h2 id="bookchin">6. Murray Bookchin et l'écologie sociale</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-bookchin.jpg" alt="Murray Bookchin en 1999, cheveux blancs et lunettes." width="1200" height="1450" loading="lazy"><figcaption>Murray Bookchin en 1999. <small>Janet Biehl · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Murray_Bookchin_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p><a href="../figures/murray-bookchin.html">Murray Bookchin</a> (1921-2006) est l'un des principaux théoriciens du municipalisme libertaire contemporain.</p>
+<p>Il développe ses réflexions à partir des années 1960, en établissant des liens entre la critique du capitalisme, la domination sociale et la crise écologique.</p>
+<p>Bookchin considère que la domination exercée par les humains sur la nature est étroitement liée aux formes de domination présentes dans les sociétés humaines.</p>
+<p>Il développe ainsi le concept d'<a href="../glossaire.html#ecologie-sociale">écologie sociale</a>.</p>
+<p>Selon cette approche, les problèmes écologiques ne peuvent pas être résolus uniquement par des changements techniques ou individuels. Ils nécessitent une transformation des rapports sociaux, politiques et économiques.</p>
+<p>Bookchin s'intéresse particulièrement à la ville et à la municipalité comme espaces possibles de reconstruction démocratique.</p>
+<p>Il critique la transformation des villes en espaces dominés par l'urbanisation capitaliste, la bureaucratie et la concentration du pouvoir.</p>
+<p>Il propose de réhabiliter la dimension politique de la commune en permettant aux habitants de participer directement aux décisions collectives.</p>
+<p>Ses réflexions évoluent progressivement vers le municipalisme libertaire, puis vers le communalisme, qu'il présente comme une synthèse politique plus large.</p>
+
+<h2 id="municipalisme">7. Le municipalisme libertaire</h2>
+<p>Le municipalisme libertaire est développé par Bookchin comme une stratégie de transformation sociale à partir des municipalités.</p>
+<p>Il ne s'agit pas simplement de défendre davantage de compétences pour les collectivités territoriales.</p>
+<p>Le projet consiste à transformer les institutions municipales pour en faire des espaces de démocratie directe.</p>
+<p>Les habitants pourraient participer à des assemblées populaires chargées de débattre et de décider des affaires communes.</p>
+<p>Ces assemblées seraient ensuite fédérées avec celles d'autres communes.</p>
+<p>L'objectif est de construire progressivement une forme de pouvoir populaire capable de s'opposer à la domination de l'État et du capitalisme.</p>
+<p>Bookchin distingue la politique, entendue comme activité collective des citoyens, de la gestion étatique exercée par des institutions spécialisées et des professionnels du pouvoir.</p>
+<p>Il envisage ainsi une reconstruction de la vie politique à partir des assemblées communales.</p>
+<p>Le municipalisme libertaire constitue l'une des expressions contemporaines les plus structurées de la tradition communale libertaire.</p>
+
+<h2 id="communalisme">8. Du municipalisme libertaire au communalisme</h2>
+<p>Au cours de son parcours intellectuel, Bookchin développe et précise sa pensée.</p>
+<p>Il utilise progressivement le terme de <a href="../glossaire.html#communalisme">communalisme</a> pour désigner une orientation politique plus générale.</p>
+<p>Le communalisme cherche à articuler plusieurs dimensions :</p>
+<ul>
+<li>La démocratie directe.</li>
+<li>L'autonomie des communes.</li>
+<li>Le fédéralisme.</li>
+<li>L'écologie sociale.</li>
+<li>La transformation de l'économie.</li>
+<li>La critique de la domination.</li>
+<li>La reconstruction d'une vie politique populaire.</li>
+</ul>
+<p>Bookchin considère que le communalisme ne doit pas se limiter à une stratégie municipale.</p>
+<p>Il doit proposer une conception globale de l'organisation sociale, politique et économique.</p>
+<p>Il affirme également que les traditions anarchistes et marxistes possèdent des apports importants, mais qu'elles doivent être repensées à la lumière des transformations contemporaines.</p>
+<p>Cette évolution provoque des débats avec d'autres anarchistes, notamment sur la question de la participation électorale aux institutions municipales et sur le rapport entre pouvoir populaire et État.</p>
+
+<h2 id="contemporain">9. Les mouvements contemporains et les nouvelles expériences communales</h2>
+<p>À partir de la fin du XX<sup>e</sup> siècle, différentes expériences politiques s'intéressent aux formes de démocratie locale, de fédéralisme et d'autonomie territoriale.</p>
+<p>Certaines se réclament directement du municipalisme libertaire ou du communalisme.</p>
+<p>D'autres développent des pratiques proches sans reprendre exactement le vocabulaire ou les conceptions de Bookchin.</p>
+<p>Le mouvement kurde autour du <a href="../glossaire.html#confederalisme-democratique">confédéralisme démocratique</a> constitue l'un des exemples contemporains les plus étudiés.</p>
+<p>Les écrits de Murray Bookchin ont influencé <a href="../figures/abdullah-ocalan.html">Abdullah Öcalan</a>, qui développe une conception de l'autonomie démocratique et du confédéralisme démocratique.</p>
+<p>Cependant, le mouvement kurde possède sa propre histoire politique, ses propres traditions et ses propres évolutions.</p>
+<p>Il serait donc incorrect de présenter le confédéralisme démocratique comme une simple application du municipalisme libertaire.</p>
+<p>Ces rapprochements doivent être étudiés avec précision, en distinguant les influences intellectuelles des pratiques politiques réelles.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communalisme-libertaire-idees.html">Idées et théories</a></li>
+<li><a href="communalisme-libertaire-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie complète du dossier.</li>
+<li>Pour apprendre pas à pas : le parcours <a href="../universite/communalisme-libertaire.html">Communalisme libertaire</a> de l'université populaire.</li>
+<li>Les portraits de <a href="../figures/proudhon.html">Proudhon</a>, <a href="../figures/bakounine.html">Bakounine</a>, <a href="../figures/kropotkine.html">Kropotkine</a>, <a href="../figures/murray-bookchin.html">Murray Bookchin</a> et <a href="../figures/abdullah-ocalan.html">Abdullah Öcalan</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="communalisme-libertaire-heritages.html#sources">Bibliographie et ressources</a><span>Textes, travaux universitaires, archives et ressources en ligne, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="anarchisme-histoire.html">Anarchisme</a><span>Le dossier de référence de la famille.</span></li>
+<li><a href="communisme-libertaire-idees.html#organisation-sociale">Produire et décider sans État</a><span>Communes libres et fédérations, dans le dossier Communisme libertaire.</span></li>
+<li><a href="../bibliotheque/la-federation.html">La Fédération comme moyen d'union</a><span>Kropotkine, 1918, dans la bibliothèque.</span></li>
+</ul></section>
+</div>
+
+=== communalisme-libertaire-idees | Communalisme libertaire | Le communalisme libertaire : idées et théories | Communes et fédérations · depuis le XIXe siècle | Le communalisme libertaire considère la commune comme un espace fondamental de la vie politique.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="commune-espace-politique">1. La commune comme espace politique</h2>
+<p>Le communalisme libertaire considère la <a href="../glossaire.html#commune">commune</a> comme un espace fondamental de la vie politique.</p>
+<p>Elle représente un territoire dans lequel les habitants peuvent se rencontrer, débattre et décider collectivement des questions qui les concernent.</p>
+<p>La commune ne doit pas être réduite à une administration chargée d'appliquer des décisions prises par un gouvernement central.</p>
+<p>Elle doit devenir un espace de participation populaire.</p>
+<p>Les décisions relatives aux services collectifs, aux infrastructures, à l'environnement, à l'aménagement du territoire et à l'organisation économique doivent pouvoir faire l'objet de débats publics et de décisions démocratiques.</p>
+<p>Cette conception s'oppose à la professionnalisation permanente de la politique.</p>
+<p>Elle cherche à rendre aux habitants la capacité d'agir directement sur leur environnement social.</p>
+
+<h2 id="democratie-directe">2. La démocratie directe</h2>
+<p>La <a href="../glossaire.html#democratie-directe">démocratie directe</a> constitue l'un des principes centraux du communalisme libertaire.</p>
+<p>Elle repose sur la participation des personnes concernées aux décisions collectives.</p>
+<p>Les assemblées populaires doivent permettre de discuter des problèmes communs, de formuler des propositions et de prendre des décisions.</p>
+<p>Cette conception s'oppose à un système dans lequel les citoyens délèguent l'essentiel de leur pouvoir à des représentants qui décident ensuite en leur nom.</p>
+<p>Dans la pratique, la démocratie directe peut prendre plusieurs formes :</p>
+<ul>
+<li>Assemblées de quartier.</li>
+<li>Assemblées communales.</li>
+<li>Réunions publiques.</li>
+<li>Délibérations collectives.</li>
+<li><a href="../glossaire.html#mandat">Mandats impératifs</a> ou précisément définis.</li>
+<li>Contrôle régulier des délégués.</li>
+<li>Possibilité de révocation des mandats.</li>
+</ul>
+<p>La démocratie directe ne signifie pas nécessairement que chaque décision doit être prise par l'ensemble de la population.</p>
+<p>Certaines tâches peuvent être confiées à des personnes mandatées, à condition que leur mission soit définie et contrôlée collectivement.</p>
+
+<h2 id="federalisme-communal">3. Le fédéralisme communal</h2>
+<p>Le fédéralisme permet aux communes de coopérer sans perdre leur autonomie.</p>
+<p>Une commune ne peut pas répondre seule à tous les besoins de ses habitants.</p>
+<p>Les transports, l'énergie, l'eau, l'alimentation, les infrastructures et les activités économiques dépassent souvent les limites d'un territoire local.</p>
+<p>Le communalisme libertaire cherche donc à organiser la coopération entre plusieurs collectivités.</p>
+<p>Les communes peuvent former des fédérations territoriales et participer à des structures de coordination.</p>
+<p>Ces structures ne doivent pas devenir des autorités politiques séparées disposant d'un pouvoir permanent sur les communes.</p>
+<p>Leur rôle consiste à mettre en œuvre les décisions communes, à coordonner les activités et à permettre la coopération.</p>
+<p>Le fédéralisme cherche ainsi à concilier autonomie locale et interdépendance.</p>
+
+<h2 id="mandats">4. La révocabilité et le contrôle des mandats</h2>
+<p>Le communalisme libertaire critique la séparation durable entre les personnes qui décident et celles qui exécutent.</p>
+<p>Les délégués peuvent être chargés de représenter une assemblée dans une structure de coordination.</p>
+<p>Mais ils ne doivent pas devenir des dirigeants indépendants de ceux qui les ont mandatés.</p>
+<p>Leurs missions doivent être définies et contrôlées.</p>
+<p>La révocabilité permet à une assemblée de retirer un mandat lorsqu'un délégué ne respecte plus les décisions collectives.</p>
+<p>Cette conception cherche à empêcher la formation d'une classe politique séparée.</p>
+<p>Elle ne supprime pas la nécessité de compétences techniques ou organisationnelles.</p>
+<p>Elle vise plutôt à faire en sorte que les compétences ne deviennent pas une source de pouvoir politique incontrôlé.</p>
+
+<h2 id="societe-politique-etat">5. La distinction entre société, politique et État</h2>
+<p>Bookchin développe une distinction importante entre les activités sociales, la politique et l'État.</p>
+<p>La société comprend les relations humaines, les activités économiques, les relations familiales, les associations et les formes de vie collective.</p>
+<p>La politique désigne, dans sa conception, l'activité publique par laquelle les habitants délibèrent et décident des affaires communes.</p>
+<p>L'État correspond à un ensemble d'institutions centralisées, bureaucratiques et coercitives qui concentrent le pouvoir politique.</p>
+<p>Bookchin considère que la démocratie doit être reconstruite dans la sphère politique locale, au lieu de se limiter à la participation périodique aux élections nationales.</p>
+<p>Cette distinction lui permet de défendre une conception de la politique qui ne se confond pas avec la gestion administrative de l'État.</p>
+<p>Elle constitue l'un des éléments théoriques caractéristiques du municipalisme libertaire.</p>
+
+<h2 id="etat-capitalisme">6. La critique de l'État et du capitalisme</h2>
+<p>Le communalisme libertaire critique la concentration du pouvoir dans les institutions étatiques et les structures économiques capitalistes.</p>
+<p>Il considère que la démocratie reste limitée lorsque les décisions économiques échappent largement aux populations.</p>
+<p>Une société dans laquelle les habitants peuvent voter, mais ne disposent d'aucun contrôle sur les grandes décisions économiques, demeure profondément inégalitaire.</p>
+<p>Le communalisme cherche donc à transformer les rapports entre pouvoir politique et pouvoir économique.</p>
+<p>Il propose de replacer les ressources et les activités économiques sous le contrôle des collectivités et de leurs structures fédérales.</p>
+<p>Cette orientation ne signifie pas que chaque commune doit produire seule tout ce dont elle a besoin.</p>
+<p>Elle implique que la coopération économique soit organisée démocratiquement et orientée vers les besoins sociaux.</p>
+
+<h2 id="ecologie-sociale">7. L'écologie sociale</h2>
+<p>L'<a href="../universite/ecologie-sociale.html">écologie sociale</a> constitue l'un des fondements théoriques du communalisme de Bookchin.</p>
+<p>Elle part du principe que les problèmes écologiques ne peuvent pas être séparés des rapports sociaux.</p>
+<p>Les sociétés fondées sur la domination, la hiérarchie et la recherche permanente du profit produisent des formes de destruction environnementale.</p>
+<p>La crise écologique ne peut donc pas être résolue uniquement par des innovations techniques ou par des changements de comportements individuels.</p>
+<p>Elle nécessite une transformation des structures économiques et politiques.</p>
+<p>L'écologie sociale défend notamment :</p>
+<ul>
+<li>La décentralisation des activités économiques.</li>
+<li>La démocratie locale.</li>
+<li>La coopération entre collectivités.</li>
+<li>La réduction des rapports de domination.</li>
+<li>La satisfaction des besoins sociaux.</li>
+<li>Une relation non dominatrice entre les sociétés humaines et la nature.</li>
+</ul>
+<p>Bookchin considère que la liberté humaine et la préservation écologique sont liées.</p>
+
+<h2 id="economie-communale">8. L'économie communale</h2>
+<p>Le communalisme libertaire ne se limite pas à la transformation des institutions politiques.</p>
+<p>Il pose également la question de l'organisation économique.</p>
+<p>Dans cette perspective, les activités économiques doivent être orientées vers les besoins collectifs plutôt que vers la recherche du profit privé.</p>
+<p>Les ressources, les infrastructures et les activités productives peuvent être placées sous le contrôle démocratique des collectivités et de leurs structures fédérales.</p>
+<p>Il ne s'agit pas nécessairement de rendre chaque commune économiquement autosuffisante.</p>
+<p>Une telle conception serait difficilement compatible avec l'interdépendance des territoires et la complexité des sociétés contemporaines.</p>
+<p>L'objectif est plutôt de démocratiser les relations économiques et de permettre aux collectivités de décider de l'utilisation de leurs ressources.</p>
+<p>Cette conception s'inscrit dans une réflexion plus large sur le commun, la propriété collective et l'<a href="../universite/autogestion.html">autogestion</a>.</p>
+
+<h2 id="subsidiarite">9. Le principe de subsidiarité et la décision au plus près des personnes concernées</h2>
+<p>Le communalisme libertaire défend l'idée que les décisions doivent être prises à l'échelle la plus proche possible des personnes concernées.</p>
+<p>Une question concernant un quartier peut être discutée dans une assemblée de quartier.</p>
+<p>Une décision concernant plusieurs communes nécessite une coordination plus large.</p>
+<p>Une question touchant une fédération de territoires doit être traitée à cette échelle.</p>
+<p>Ce principe permet de limiter la concentration des décisions.</p>
+<p>Cependant, il ne faut pas confondre proximité géographique et démocratie réelle.</p>
+<p>Une décision prise localement peut elle aussi reproduire des rapports de domination ou exclure certaines personnes.</p>
+<p>La démocratie communale doit donc s'accompagner de garanties d'égalité, de participation et de liberté.</p>
+
+<h2 id="pluralite">10. La pluralité et les limites de l'autonomie locale</h2>
+<p>L'autonomie locale ne signifie pas que chaque commune peut décider de tout sans tenir compte des droits des autres.</p>
+<p>Une commune ne doit pas pouvoir justifier des discriminations ou des formes de domination au nom de sa liberté collective.</p>
+<p>La liberté communale doit être articulée à des principes d'égalité et de solidarité.</p>
+<p>Le fédéralisme permet de construire des mécanismes de coopération et de résolution des conflits entre collectivités.</p>
+<p>Cette question est essentielle : une organisation décentralisée n'est pas automatiquement émancipatrice.</p>
+<p>Elle doit également lutter contre les inégalités économiques, les discriminations et les formes locales de domination.</p>
+
+<h2 id="debats">11. Les critiques et les débats internes</h2>
+<p>Le communalisme libertaire a suscité des débats importants, notamment autour des propositions de Murray Bookchin.</p>
+
+<h3 id="localisme">Le risque de localisme</h3>
+<p>Une organisation trop centrée sur les communes peut avoir des difficultés à traiter les problèmes qui dépassent largement les frontières locales.</p>
+<p>Les crises économiques, écologiques et politiques nécessitent des formes de coordination étendues.</p>
+<p>Le fédéralisme cherche à répondre à cette difficulté, mais son fonctionnement concret demeure une question importante.</p>
+
+<h3 id="elections">La question de la participation électorale</h3>
+<p>Bookchin propose notamment de participer aux élections municipales pour transformer les institutions locales et ouvrir des espaces de démocratie directe.</p>
+<p>Cette stratégie a été critiquée par certains anarchistes, qui considèrent que la participation aux élections risque de renforcer les institutions étatiques plutôt que de les dépasser.</p>
+<p>Le débat porte sur la possibilité d'utiliser des institutions existantes pour construire un pouvoir populaire autonome.</p>
+
+<h3 id="domination-locale">Le risque de domination locale</h3>
+<p>Une assemblée locale n'est pas automatiquement démocratique.</p>
+<p>Des groupes dominants peuvent exercer une influence disproportionnée sur les débats et les décisions.</p>
+<p>Les rapports de classe, de genre, de race et de pouvoir économique peuvent continuer d'exister dans une organisation décentralisée.</p>
+<p>Le communalisme doit donc prévoir des mécanismes permettant de garantir la participation de toutes et tous.</p>
+
+<h3 id="echelle">La question de l'échelle économique</h3>
+<p>Les sociétés contemporaines sont caractérisées par des réseaux de production, de transport et d'approvisionnement très étendus.</p>
+<p>Il est difficile d'organiser certaines activités uniquement à l'échelle communale.</p>
+<p>Le défi consiste à construire une coordination économique démocratique sans recréer une bureaucratie centralisée.</p>
+
+<h3 id="pouvoir">La question du pouvoir</h3>
+<p>Le municipalisme libertaire cherche à construire un pouvoir populaire capable de remplacer progressivement les institutions étatiques.</p>
+<p>Certains anarchistes considèrent toutefois que cette approche conserve une conception trop institutionnelle de la politique.</p>
+<p>D'autres estiment qu'elle offre une stratégie concrète pour transformer les rapports de pouvoir.</p>
+
+<h3 id="pluralite-anarchiste">La question de la pluralité anarchiste</h3>
+<p>Le communalisme de Bookchin entretient des relations complexes avec l'<a href="anarchisme-idees.html#courants">anarchisme</a>.</p>
+<p>Bookchin critique certaines tendances qu'il juge trop individualistes ou insuffisamment organisées politiquement.</p>
+<p>Ses positions ont provoqué des désaccords avec des anarchistes qui refusent de considérer le municipalisme comme une stratégie générale de l'émancipation.</p>
+<p>Ces débats montrent que le communalisme libertaire ne représente pas l'ensemble du mouvement anarchiste.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communalisme-libertaire-histoire.html">Histoire et origines</a></li>
+<li><a href="communalisme-libertaire-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie complète du dossier.</li>
+<li>Pour décider ensemble aujourd'hui : <a href="../agir/tenir-une-ag.html">Tenir une AG</a> et <a href="../agir/decider-sans-chef.html">Décider sans chef</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="communalisme-libertaire-heritages.html#sources">Bibliographie et ressources</a><span>Textes, travaux universitaires, archives et ressources en ligne, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/communalisme-libertaire.html">Le parcours Communalisme libertaire</a><span>Pour apprendre à son rythme.</span></li>
+<li><a href="../universite/ecologie-sociale.html">Le parcours Écologie sociale</a><span>Les idées de Bookchin sur la nature et la société.</span></li>
+<li><a href="anarcho-syndicalisme-idees.html#societe-future">La société future selon les anarcho-syndicalistes</a><span>Syndicats ou communes : l'autre façon d'organiser la production.</span></li>
+</ul></section>
+</div>
+
+=== communalisme-libertaire-heritages | Communalisme libertaire | Le communalisme libertaire : expériences et héritages | Communes et fédérations · depuis le XIXe siècle | L'histoire du communalisme libertaire montre que la décentralisation ne suffit pas à garantir la liberté.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="commune-de-paris">1. La Commune de Paris : une référence historique</h2>
+<p>La <a href="../experiences/commune-de-paris-histoire.html">Commune de Paris de 1871</a> demeure une référence essentielle pour les traditions communales et fédéralistes.</p>
+<p>Elle montre qu'une insurrection populaire peut conduire à la création d'institutions politiques locales distinctes de l'État central.</p>
+<p>Son expérience est marquée par la participation de différentes sensibilités révolutionnaires et par des tentatives de transformation politique et sociale.</p>
+<p>Elle ne constitue pas une application du communalisme libertaire contemporain.</p>
+<p>Elle représente cependant un précédent historique majeur dans les réflexions sur l'autonomie communale et la démocratie populaire.</p>
+
+<h2 id="espagne">2. Les communes et collectivités de la révolution espagnole</h2>
+<p>La <a href="../experiences/espagne-1936-histoire.html">révolution espagnole de 1936-1939</a> constitue une expérience importante d'organisation collective.</p>
+<p>Dans plusieurs territoires, des collectivités agricoles et des structures de gestion locale se développent.</p>
+<p>En Aragon, en Catalogne et dans le Levant, des travailleurs et des paysans organisent collectivement certaines activités économiques.</p>
+<p>Ces expériences sont principalement associées à l'<a href="anarchisme-heritages.html#experiences">anarchisme</a> et à l'<a href="anarcho-syndicalisme-heritages.html#collectivites">anarcho-syndicalisme</a>.</p>
+<p>Elles peuvent être rapprochées de certaines aspirations communales libertaires, notamment en raison de leur volonté de construire une organisation sociale fondée sur l'autonomie et la coopération.</p>
+<p>Il faut toutefois éviter de les présenter comme des réalisations du programme de Bookchin, développé plusieurs décennies plus tard.</p>
+<p>Les collectivités espagnoles connaissent des situations très différentes selon les territoires.</p>
+<p>Elles sont confrontées à la guerre, aux pénuries, aux conflits politiques et à des désaccords sur les modalités de collectivisation.</p>
+<p>Leur étude permet de comprendre les possibilités et les contradictions de l'organisation économique et politique décentralisée.</p>
+<p>Voir aussi : les collectivités, les acteurs et les <a href="communisme-libertaire-heritages.html#debat-historiens">débats entre historiens</a> dans le dossier Communisme libertaire.</p>
+
+<h2 id="zapatistes">3. Les communautés zapatistes au Chiapas</h2>
+<figure class="photo"><img src="../assets/img/revolutions/zapatistes-mural.jpg" alt="Peinture murale zapatiste au Chiapas, en 2006, racontant une histoire en espagnol et en langue maya." width="1200" height="764" loading="lazy"><figcaption>Peinture murale zapatiste au Chiapas, en 2006. <small>Matthew T Rader · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:An_EZLN_mural_in_Chiapas,_Mexico.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Le mouvement zapatiste se développe dans le sud du Mexique, notamment au Chiapas.</p>
+<p>Le 1<sup>er</sup> janvier 1994, l'Armée zapatiste de libération nationale (EZLN) se soulève contre le gouvernement mexicain.</p>
+<p>Le mouvement dénonce notamment les inégalités sociales, la marginalisation des populations indigènes, le racisme et les politiques économiques néolibérales.</p>
+<p>Les communautés zapatistes développent progressivement des formes d'autonomie politique et sociale.</p>
+<p>Elles mettent en place des structures locales de décision, des assemblées et des mécanismes de coordination entre communautés.</p>
+<p>Leurs expériences accordent une place importante à la participation communautaire, à l'autonomie indigène et à la défense des territoires.</p>
+<p>Le zapatisme ne doit pas être assimilé automatiquement au communalisme libertaire.</p>
+<p>Il possède sa propre histoire, ses références politiques et ses formes d'organisation.</p>
+<p>Il constitue néanmoins une expérience contemporaine importante pour étudier les pratiques d'autonomie collective, de démocratie communautaire et de fédéralisme territorial.</p>
+<p>Voir aussi le dossier <a href="../experiences/zapatistes-histoire.html">Les zapatistes</a> et <a href="../experiences/zapatistes-organisation.html">l'autogouvernement zapatiste</a>, dans Histoire des luttes.</p>
+
+<h2 id="rojava">4. Le confédéralisme démocratique et le Rojava</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/rojava-assemblee-femmes.jpg" alt="Une assemblée de femmes près de Qamichli, en décembre 2014." width="1029" height="1035" loading="lazy"><figcaption>Une assemblée de femmes près de Qamichli, en décembre 2014. <small>Janet Biehl · CC BY-SA 2.0 · <a href="https://commons.wikimedia.org/wiki/File:Women%27s_assembly_near_Qamislo.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Le <a href="../glossaire.html#confederalisme-democratique">confédéralisme démocratique</a> est associé à l'évolution politique du mouvement kurde et aux écrits d'<a href="../figures/abdullah-ocalan.html">Abdullah Öcalan</a>.</p>
+<p>Il propose une organisation sociale reposant sur des structures locales, des assemblées, des conseils et des mécanismes de coordination confédérale.</p>
+<p>Cette conception cherche à dépasser la centralisation étatique et à construire des formes d'autonomie démocratique.</p>
+<p>Le mouvement s'intéresse également à l'émancipation des femmes, à la pluralité culturelle et à la transformation des rapports sociaux.</p>
+<p>Dans le nord et l'est de la Syrie, les transformations politiques engagées à partir de 2012 donnent lieu à des expériences d'administration autonome et d'organisation communautaire.</p>
+<p>Les idées de Bookchin ont joué un rôle dans l'évolution intellectuelle d'Öcalan.</p>
+<p>Cependant, le confédéralisme démocratique ne constitue pas une simple reproduction du municipalisme libertaire.</p>
+<p>Le mouvement kurde possède une histoire propre, marquée par la lutte nationale, les transformations idéologiques du PKK et les conditions spécifiques du conflit syrien.</p>
+<p>Les structures mises en place dans le nord et l'est de la Syrie sont également confrontées à des difficultés importantes : guerre, pressions extérieures, contraintes économiques, tensions politiques et écarts entre les principes affichés et les pratiques institutionnelles.</p>
+<p>Cette expérience doit être étudiée à la fois comme une tentative d'autonomie démocratique et comme une construction politique confrontée à des contradictions réelles.</p>
+<p>Voir aussi le dossier <a href="../experiences/rojava-histoire.html">Le Rojava</a>, <a href="../experiences/rojava-organisation.html">son organisation</a> et <a href="../experiences/rojava-femmes-debats.html">les critiques qui lui sont faites</a>, dans Histoire des luttes.</p>
+
+<h2 id="municipalismes">5. Les municipalismes contemporains</h2>
+<p>Au XXI<sup>e</sup> siècle, plusieurs mouvements politiques et sociaux développent des pratiques municipales et territoriales.</p>
+<p>Certains cherchent à transformer les institutions locales par la participation citoyenne, les assemblées populaires et la gestion collective des ressources.</p>
+<p>D'autres privilégient des formes d'autonomie territoriale et de coopération entre communautés.</p>
+<p>Ces expériences ne sont pas toutes libertaires.</p>
+<p>Le terme de municipalisme recouvre aujourd'hui des orientations très différentes, allant de projets de démocratisation municipale à des mouvements explicitement anticapitalistes et fédéralistes.</p>
+<p>Il faut donc distinguer le municipalisme électoral, les mouvements municipalistes populaires et le municipalisme libertaire.</p>
+<p>Leur point commun éventuel réside dans l'importance accordée à l'échelle locale et à la participation des habitants.</p>
+<p>Leurs objectifs politiques et leurs conceptions du pouvoir peuvent toutefois être très différents.</p>
+
+<h2 id="luttes-sociales">6. Les pratiques communales dans les luttes sociales</h2>
+<p>Les aspirations communales libertaires peuvent également être observées dans certaines pratiques militantes et collectives.</p>
+<p>Les <a href="../agir/tenir-une-ag.html">assemblées de quartier</a>, les occupations, les collectifs territoriaux et les expériences d'autogestion cherchent parfois à organiser directement des activités et des décisions communes.</p>
+<p>Ces pratiques ne constituent pas nécessairement des expériences communalistes au sens strict.</p>
+<p>Elles peuvent néanmoins contribuer à développer des capacités collectives d'organisation.</p>
+<p>Elles permettent d'expérimenter des formes de décision horizontales, de solidarité et de coopération.</p>
+<p>Leur portée dépend de leur capacité à construire des structures durables, à associer les personnes concernées et à dépasser les limites d'une mobilisation ponctuelle.</p>
+<p>Voir aussi : <a href="../experiences/zad-organisation.html">Vivre et décider sur la ZAD</a> et <a href="../experiences/gilets-jaunes-organisation.html">l'Assemblée des assemblées des Gilets jaunes</a>, dans Histoire des luttes.</p>
+
+<h2 id="femmes">7. Les femmes et la démocratie communale</h2>
+<p>Une organisation communale ne devient pas automatiquement égalitaire.</p>
+<p>Les rapports patriarcaux peuvent se maintenir dans les assemblées, les structures de décision et les activités collectives.</p>
+<p>L'expérience de différentes traditions féministes et libertaires montre que la participation formelle ne garantit pas une égalité réelle.</p>
+<p>Le communalisme libertaire doit donc être étudié en tenant compte des conditions matérielles de la participation.</p>
+<p>La répartition du travail domestique, les responsabilités familiales, les inégalités économiques et les violences sexistes peuvent empêcher certaines personnes de participer pleinement à la vie collective.</p>
+<p>La démocratie communale suppose ainsi une réflexion sur l'organisation du travail reproductif, la lutte contre les discriminations et la possibilité effective de prendre part aux décisions.</p>
+
+<h2 id="limites">8. Les limites et les contradictions des expériences communales</h2>
+<p>Les expériences d'autonomie locale rencontrent plusieurs difficultés.</p>
+
+<h3 id="ressources-economiques">Les ressources économiques</h3>
+<p>Une commune peut disposer d'une autonomie politique limitée par sa dépendance économique envers des structures extérieures.</p>
+<p>Les ressources financières, les infrastructures et les réseaux de production peuvent être contrôlés par des acteurs privés ou des institutions centralisées.</p>
+
+<h3 id="inegalites">Les inégalités territoriales</h3>
+<p>Les communes ne disposent pas toutes des mêmes ressources.</p>
+<p>Une fédération démocratique doit donc organiser des mécanismes de solidarité et de redistribution.</p>
+<p>Sans cela, l'autonomie locale risque de renforcer les inégalités entre territoires.</p>
+
+<h3 id="coordination">La coordination</h3>
+<p>Les décisions locales peuvent entrer en contradiction avec les besoins d'autres collectivités.</p>
+<p>La construction de structures fédérales efficaces est donc indispensable.</p>
+
+<h3 id="participation">La participation réelle</h3>
+<p>Les assemblées peuvent être dominées par les personnes disposant du plus de temps, de ressources ou de compétences.</p>
+<p>Il est nécessaire de créer des conditions permettant une participation réelle et égalitaire.</p>
+
+<h3 id="pressions">Les pressions extérieures</h3>
+<p>Les expériences autonomes peuvent être confrontées à la répression, à l'isolement économique ou aux interventions d'institutions étatiques.</p>
+<p>Leur survie dépend souvent de leur capacité à construire des solidarités au-delà de leur territoire.</p>
+
+<h2 id="heritage">9. L'héritage contemporain du communalisme libertaire</h2>
+<p>Le communalisme libertaire continue d'alimenter les réflexions sur l'organisation démocratique des sociétés.</p>
+<p>Il contribue notamment aux débats sur :</p>
+<ul>
+<li>Les assemblées populaires.</li>
+<li>La démocratie directe.</li>
+<li>L'autonomie territoriale.</li>
+<li>Le fédéralisme.</li>
+<li>La gestion collective des ressources.</li>
+<li>L'écologie sociale.</li>
+<li>L'autogestion.</li>
+<li>La coopération entre collectivités.</li>
+<li>La transformation des institutions municipales.</li>
+<li>Les rapports entre pouvoir populaire et État.</li>
+</ul>
+<p>Son apport principal est de rappeler que la démocratie ne devrait pas être limitée au choix périodique de représentants.</p>
+<p>Elle peut devenir une activité collective permanente, organisée à partir des lieux où les personnes vivent et construisent leurs relations sociales.</p>
+<p>Le communalisme libertaire pose ainsi une question fondamentale : comment organiser une société dans laquelle les personnes concernées disposent réellement du pouvoir de décider de leurs conditions d'existence ?</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Le communalisme libertaire constitue une tradition politique qui cherche à construire une société fondée sur l'autonomie des communes, la démocratie directe et la fédération libre des collectivités.</p>
+<p>Ses racines se trouvent notamment dans les traditions fédéralistes du mouvement anarchiste et socialiste du XIX<sup>e</sup> siècle.</p>
+<p>La Commune de Paris, les réflexions de Proudhon, Bakounine et Kropotkine, puis les travaux de Murray Bookchin ont contribué à développer différentes conceptions de l'organisation communale et de la démocratie populaire.</p>
+<p>Le municipalisme libertaire de Bookchin propose une stratégie de transformation sociale fondée sur la reconstruction de la vie politique à partir des assemblées communales et de leur fédération.</p>
+<p>Les expériences zapatistes et celles du confédéralisme démocratique kurde permettent également d'étudier les possibilités et les difficultés de l'autonomie territoriale contemporaine, sans les assimiler à une doctrine unique.</p>
+<p>L'histoire du communalisme libertaire montre que la décentralisation ne suffit pas à garantir la liberté.</p>
+<p>Une société véritablement émancipatrice doit également lutter contre les inégalités économiques, les rapports patriarcaux, les discriminations et toutes les formes de domination.</p>
+<p>Son ambition demeure de construire une organisation collective dans laquelle les communes coopèrent librement, les décisions sont prises démocratiquement et les ressources sont gérées au service des besoins communs.</p>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Le communalisme libertaire fait partie de la famille <a href="anarchistes-libertaires.html">anarchistes et libertaires</a>. Voir aussi les dossiers <a href="anarchisme-histoire.html">Anarchisme</a>, <a href="communisme-libertaire-histoire.html">Communisme libertaire</a> et <a href="anarcho-syndicalisme-histoire.html">Anarcho-syndicalisme</a>, et la famille <a href="ecologistes.html">écologistes</a>.</p>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Textes et références historiques</h3><ul>
+<li><b><cite>Du principe fédératif et de la nécessité de reconstituer le parti de la révolution</cite></b>, Pierre-Joseph Proudhon, 1863.<span>Voir aussi le portrait de <a href="../figures/proudhon.html">Proudhon</a>.</span></li>
+<li><b><cite>Catéchisme révolutionnaire</cite></b>, Mikhaïl Bakounine, 1866.<span><a href="../bibliotheque/catechisme-revolutionnaire.html">La fiche de lecture</a> dans la bibliothèque.</span></li>
+<li><b><cite>La Conquête du pain</cite></b>, Pierre Kropotkine, 1892.<span><a href="../bibliotheque/la-conquete-du-pain.html">La fiche de lecture</a> et <a href="../livres/la-conquete-du-pain.html">le livre complet</a> sur le site.</span></li>
+<li><b><cite>L'Entraide, un facteur de l'évolution</cite></b>, Pierre Kropotkine, 1902.<span><a href="../bibliotheque/entraide.html">La fiche de lecture</a> dans la bibliothèque.</span></li>
+<li><b><cite>Post-Scarcity Anarchism</cite></b>, Murray Bookchin, 1971.</li>
+<li><b><cite>The Ecology of Freedom</cite></b>, Murray Bookchin, 1982.</li>
+<li><b><cite>From Urbanization to Cities</cite></b>, Murray Bookchin, 1987.</li>
+<li><b><cite>The Next Revolution: Popular Assemblies and the Promise of Direct Democracy</cite></b>, Murray Bookchin, 2015.</li>
+</ul></section>
+<section><h3>Travaux universitaires et critiques</h3><ul>
+<li><b>« The city in libertarian thought: From Élisée Reclus to Murray Bookchin—and beyond »</b>, Marcelo Lopes de Souza, <cite>City</cite>, vol. 16, 2012.<span><a href="https://doi.org/10.1080/13604813.2012.662376" rel="noopener">doi.org/10.1080/13604813.2012.662376</a></span></li>
+<li><b>« Libertarian Municipalism, or on the Greatness of the Civil Society »</b>, Dorota Sepczyńska, <cite>Res Publica. Revista de Historia de las Ideas Políticas</cite>, vol. 19, 2016.<span><a href="https://doi.org/10.5209/RPUB.53869" rel="noopener">doi.org/10.5209/RPUB.53869</a></span></li>
+<li><b>« The ambiguities of democratic autonomy: the Kurdish movement in Turkey and Rojava »</b>, Michiel Leezenberg, <cite>Southeast European and Black Sea Studies</cite>, vol. 16, 2016.<span><a href="https://doi.org/10.1080/14683857.2016.1246529" rel="noopener">doi.org/10.1080/14683857.2016.1246529</a></span></li>
+<li><b>« From the October Revolution to Revolutionary Rojava: An Ecosocialist Reading »</b>, <cite>Capitalism Nature Socialism</cite>, 2017.</li>
+<li><b>« Moving towards a world without frontiers: How Rojava and the ideas of Murray Bookchin propose a democratic and sustainable alternative to the Nation-State »</b>, Miguel Rodriguez Ruiz, <cite>Groundings</cite>, University of Glasgow.</li>
+</ul></section>
+<section><h3>Organisations, archives et ressources à consulter</h3><ul>
+<li>Murray Bookchin Legacy Foundation.</li>
+<li>Institute for Social Ecology.</li>
+<li><a href="https://iisg.amsterdam/" rel="noopener">International Institute of Social History, Amsterdam</a></li>
+<li><a href="https://www.cira.ch/" rel="noopener">Centre international de recherches sur l'anarchisme (CIRA)</a></li>
+<li>Archives de la Commune de Paris.</li>
+<li>Archives et publications du mouvement zapatiste.</li>
+<li>Publications et documents sur le confédéralisme démocratique et l'administration autonome du nord et de l'est de la Syrie.</li>
+</ul></section>
+<section><h3>Ressources en ligne vérifiables</h3><ul>
+<li><a href="https://murraybookchin.org/" rel="noopener">Murray Bookchin Legacy Foundation</a></li>
+<li><a href="https://murraybookchin.org/essays/libertarian-municipalism-the-new-municipal-agenda/" rel="noopener">Murray Bookchin, « Libertarian Municipalism: The New Municipal Agenda »</a></li>
+<li><a href="https://social-ecology.org/wp/1999/01/the-politics-of-social-ecology-libertarian-municipalism/" rel="noopener">Institute for Social Ecology, « The Politics of Social Ecology: Libertarian Municipalism »</a></li>
+<li><a href="https://social-ecology.org/wp/2001/10/harbinger-vol-2-no-1-%E2%80%94-murray-bookchin-interview/" rel="noopener">Institute for Social Ecology, entretien avec Murray Bookchin</a></li>
+<li><a href="https://doi.org/10.1080/13604813.2012.662376" rel="noopener">Marcelo Lopes de Souza, « The city in libertarian thought »</a></li>
+<li><a href="https://doi.org/10.5209/RPUB.53869" rel="noopener">Dorota Sepczyńska, « Libertarian Municipalism, or on the Greatness of the Civil Society »</a></li>
+<li><a href="https://doi.org/10.1080/14683857.2016.1246529" rel="noopener">Michiel Leezenberg, « The ambiguities of democratic autonomy »</a></li>
+<li><a href="https://solidarityresearch.org/project/municipalism-a-critical-review/" rel="noopener">Linda Quiquivix, Haley Roeser, Dani Knoll et Eleanor Finley, « Municipalism: A Critical Review », 2023</a></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/communalisme-libertaire.html">Le parcours Communalisme libertaire</a><span>L'université populaire.</span></li>
+<li><a href="../figures/murray-bookchin.html">Murray Bookchin</a><span>Le portrait.</span></li>
+<li><a href="../figures/elisee-reclus.html">Élisée Reclus</a><span>Le portrait du géographe communard.</span></li>
+<li><a href="../videos.html#damnes-de-la-commune">Les Damnés de la Commune</a><span>Le documentaire, dans la vidéothèque.</span></li>
+</ul></section>
+</div>

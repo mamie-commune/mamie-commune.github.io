@@ -1,0 +1,354 @@
+=== anarcho-syndicalisme-histoire | Anarcho-syndicalisme | L'anarcho-syndicalisme : histoire et origines | Mouvement ouvrier · depuis la fin du XIXe siècle | L'anarcho-syndicalisme est un courant du mouvement ouvrier qui associe la lutte contre le capitalisme à la lutte contre l'État et les rapports de domination.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>L'anarcho-syndicalisme est un courant du mouvement ouvrier qui associe la lutte contre le capitalisme à la lutte contre l'État et les rapports de domination. Il considère que les travailleurs et les travailleuses peuvent construire leur émancipation par leur propre organisation, leur action collective et la prise en main directe de la production.</p>
+<p>Son ambition ne se limite pas à améliorer les conditions de travail dans le cadre du capitalisme. Il cherche également à développer, dès les luttes quotidiennes, les capacités d'organisation nécessaires à une transformation révolutionnaire de la société.</p>
+<p>L'anarcho-syndicalisme défend notamment l'<a href="../experiences/action-directe-pratique.html">action directe</a>, l'autonomie syndicale, le <a href="../glossaire.html#federalisme">fédéralisme</a>, la solidarité de classe et la <a href="../glossaire.html#greve-generale">grève générale</a>. Il refuse que l'émancipation des travailleurs soit confiée à un parti politique, à une élite dirigeante ou à un État prétendant agir en leur nom.</p>
+<p>Le syndicat n'est donc pas seulement conçu comme un instrument de négociation salariale : il peut devenir un moyen d'organisation collective et, dans certaines conceptions anarcho-syndicalistes, une structure fondamentale de la société future.</p>
+<p>Ce courant a connu un développement particulièrement important au début du XX<sup>e</sup> siècle. Il a marqué l'histoire ouvrière de nombreux pays, notamment l'Espagne, l'Argentine, l'Italie, le Portugal, la France et l'Allemagne.</p>
+
+<h2 id="racines">1. Les racines dans le mouvement ouvrier international</h2>
+<p>L'anarcho-syndicalisme ne naît pas soudainement avec la création d'une organisation particulière. Il se développe progressivement à partir des débats qui traversent le mouvement ouvrier international au XIX<sup>e</sup> siècle.</p>
+<p>L'<a href="anarchisme-histoire.html#internationale">Association internationale des travailleurs (AIT), fondée en 1864</a>, rassemble des courants socialistes, ouvriers et révolutionnaires aux conceptions différentes. Les conflits entre les partisans de Marx et ceux de <a href="../figures/bakounine.html">Bakounine</a> portent notamment sur la question de l'État, l'organisation politique et les moyens de parvenir à l'émancipation sociale.</p>
+<p>La tendance antiautoritaire défend l'autonomie des travailleurs, le fédéralisme et l'organisation de la société par les associations ouvrières et les communes libres.</p>
+<p>Après la rupture de l'AIT, les traditions anarchistes continuent de développer leurs liens avec les organisations ouvrières. Des militants libertaires participent à la création de syndicats, de fédérations professionnelles, de journaux et de mouvements de grève.</p>
+<p>L'idée centrale est que les travailleurs ne doivent pas attendre qu'une organisation politique prenne le pouvoir pour commencer à transformer leurs conditions d'existence. Ils doivent pouvoir s'organiser eux-mêmes, dans leurs lieux de travail et leurs communautés.</p>
+
+<h2 id="syndicalisme-revolutionnaire">2. La naissance du syndicalisme révolutionnaire</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-pouget.jpg" alt="Fiche anthropométrique d'Émile Pouget en 1892, de face et de profil." width="1200" height="1724" loading="lazy"><figcaption>Émile Pouget, l'un des animateurs du syndicalisme révolutionnaire à la CGT, fiché par la police en 1892. <small>Alphonse Bertillon · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Pouget._%C3%89mile,_Jean,_Joseph._31_ans,_n%C3%A9_le_12-10-60_%C3%A0_Rodez_(Aveyron)._Publiciste._Anarchiste._26-4-92._MET_DP290755.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>À la fin du XIX<sup>e</sup> siècle, le <a href="../glossaire.html#syndicalisme-revolutionnaire">syndicalisme révolutionnaire</a> se développe notamment en France. Il apparaît dans un contexte de conflits sociaux, de croissance industrielle et de contestation des formes traditionnelles de représentation politique.</p>
+<p>La Confédération générale du travail (CGT), fondée en 1895, devient un important foyer de développement de cette orientation.</p>
+<p>Les militants révolutionnaires défendent l'autonomie du mouvement syndical par rapport aux partis politiques. Ils considèrent que les travailleurs doivent mener leurs luttes par leurs propres organisations et leurs propres moyens.</p>
+<p>La grève, le boycott, le <a href="../glossaire.html#sabotage">sabotage</a> au sens historique de certaines formes de résistance ouvrière, le refus de collaboration et l'action collective constituent différents moyens de lutte.</p>
+<p>Le syndicalisme révolutionnaire ne se confond cependant pas entièrement avec l'anarchisme. Il rassemble des militants de sensibilités diverses, dont certains sont anarchistes et d'autres ne se revendiquent pas de cette tradition.</p>
+
+<h2 id="charte-amiens">3. La Charte d'Amiens de 1906</h2>
+<p>Le congrès de la CGT réuni à Amiens en octobre 1906 adopte un texte devenu célèbre sous le nom de Charte d'Amiens.</p>
+<p>Ce texte affirme l'indépendance du syndicalisme à l'égard des partis politiques et reconnaît au syndicat une double fonction : défendre les intérêts immédiats des travailleurs et préparer leur émancipation intégrale.</p>
+<p>La Charte d'Amiens devient une référence importante du syndicalisme révolutionnaire français.</p>
+<p>Elle ne constitue toutefois pas un manifeste exclusivement anarchiste. Elle exprime un compromis entre différentes sensibilités présentes dans la CGT et ne définit pas à elle seule l'ensemble des principes de l'anarcho-syndicalisme.</p>
+<p>Cette distinction est essentielle : le syndicalisme révolutionnaire et l'anarcho-syndicalisme partagent de nombreuses pratiques et références, mais leurs conceptions politiques ne sont pas toujours identiques.</p>
+
+<h2 id="essor">4. L'essor international au début du XX<sup>e</sup> siècle</h2>
+<p>Les idées du syndicalisme révolutionnaire et de l'anarcho-syndicalisme se diffusent dans de nombreux pays.</p>
+
+<h3 id="espagne-cnt">Espagne : la CNT</h3>
+<p>La Confederación Nacional del Trabajo (CNT) est fondée à Barcelone en 1910. Elle devient progressivement l'une des principales organisations ouvrières espagnoles.</p>
+<p>Son implantation est particulièrement importante en Catalogne, en Andalousie, dans le Levant et dans plusieurs centres industriels.</p>
+<p>La CNT défend l'action directe, le fédéralisme syndical et l'émancipation des travailleurs par leur propre organisation.</p>
+<p>Elle rassemble des courants et des sensibilités différentes. Ses débats internes portent notamment sur les rapports entre action syndicale, anarchisme organisé, révolution et stratégie face à l'État.</p>
+
+<h3 id="argentine-fora">Argentine : la FORA</h3>
+<p>La Federación Obrera Regional Argentina (FORA) constitue une expérience majeure du mouvement ouvrier libertaire latino-américain.</p>
+<p>Fondée en 1901, elle se développe dans un pays marqué par une forte immigration, une industrialisation inégale et des conflits sociaux importants.</p>
+<p>L'influence anarchiste y est considérable. La FORA connaît cependant des divisions internes, notamment autour de son orientation idéologique.</p>
+<p>La FORA du V<sup>e</sup> Congrès adopte explicitement le <a href="communisme-libertaire-histoire.html">communisme anarchiste</a> comme finalité. Cette orientation la distingue d'autres organisations syndicales qui privilégient une conception plus large du syndicalisme révolutionnaire.</p>
+
+<h3 id="italie-usi">Italie : l'USI</h3>
+<p>L'Unione Sindacale Italiana (USI), fondée en 1912, devient une organisation importante du syndicalisme révolutionnaire italien.</p>
+<p>Elle participe aux luttes ouvrières et aux mouvements sociaux de la période, notamment dans le contexte de l'agitation antimilitariste et des conflits industriels.</p>
+<p>Elle est ensuite confrontée à la montée du fascisme, qui détruit progressivement les organisations ouvrières indépendantes.</p>
+
+<h3 id="portugal-cgt">Portugal : la CGT</h3>
+<p>La Confederação Geral do Trabalho portugaise, fondée en 1919, rassemble des syndicats révolutionnaires et libertaires.</p>
+<p>Elle joue un rôle important dans les mobilisations ouvrières portugaises avant la consolidation de la dictature militaire et de l'Estado Novo.</p>
+
+<h3 id="allemagne-faud">Allemagne : la FAUD</h3>
+<p>La Freie Arbeiter-Union Deutschlands (FAUD) se développe après la Première Guerre mondiale dans la tradition du syndicalisme révolutionnaire antiautoritaire.</p>
+<p>Elle défend le fédéralisme, l'autonomie ouvrière et la transformation révolutionnaire de la société.</p>
+<p>Elle est progressivement écrasée par la répression nazie après 1933.</p>
+
+<h2 id="ait-1922">5. La création de l'Association internationale des travailleurs en 1922</h2>
+<p>La Première Guerre mondiale et la révolution russe de 1917 provoquent de profonds débats dans le mouvement ouvrier international.</p>
+<p>Une partie des syndicalistes révolutionnaires se rapproche du bolchevisme. D'autres refusent la subordination des syndicats à un parti ou à un État révolutionnaire.</p>
+<p>Cette seconde orientation contribue à la fondation, à Berlin en 1922, de l'Association internationale des travailleurs, généralement désignée par le sigle AIT ou IWA.</p>
+<p>Cette internationale rassemble des organisations syndicales révolutionnaires et anarcho-syndicalistes de plusieurs pays.</p>
+<p>Elle défend l'indépendance des organisations ouvrières, le fédéralisme et l'objectif d'une réorganisation libertaire de la société.</p>
+<p>L'AIT de Berlin devient une référence historique majeure de l'anarcho-syndicalisme international.</p>
+
+<h2 id="espagne-1936">6. La révolution espagnole de 1936</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/espagne-manifestation-cnt.jpg" alt="Manifestation à Barcelone derrière la banderole de Solidaridad Obrera, le quotidien de la CNT, en 1936-1937." width="620" height="674" loading="lazy"><figcaption>Manifestation à Barcelone derrière la banderole de <cite>Solidaridad Obrera</cite>, le quotidien de la CNT, en 1936-1937. <small>auteur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:CNT-AIT-FAI.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>En juillet 1936, une partie de l'armée espagnole se soulève contre la République. Le soulèvement échoue dans plusieurs régions, notamment à Barcelone, où les organisations ouvrières jouent un rôle déterminant dans la résistance.</p>
+<p>La CNT et la FAI participent à l'insurrection contre le coup d'État militaire.</p>
+<p>Dans les territoires où le soulèvement est repoussé, les travailleurs prennent le contrôle de nombreuses entreprises, tandis que des <a href="communisme-libertaire-heritages.html#espagne">collectivités agricoles</a> se mettent en place dans plusieurs régions.</p>
+<p>Les syndicats jouent un rôle central dans l'organisation de la production, des transports, des services et de la vie économique.</p>
+<p>La <a href="../experiences/espagne-1936-histoire.html">révolution espagnole</a> représente l'une des expériences les plus importantes de l'histoire anarcho-syndicaliste.</p>
+<p>Elle révèle les possibilités de l'organisation ouvrière autonome, mais également les difficultés d'une transformation sociale menée dans un contexte de guerre, de pénuries et de conflits politiques.</p>
+<p>Les débats sur la <a href="anarchisme-idees.html#participation">participation de militants anarchistes aux institutions républicaines</a>, les <a href="communisme-libertaire-heritages.html#acteurs">relations entre CNT, FAI, UGT et POUM</a>, ainsi que les <a href="communisme-libertaire-heritages.html#mai-1937">affrontements de mai 1937 à Barcelone</a> constituent des questions essentielles pour comprendre cette période.</p>
+
+<h2 id="repression">7. Répression, clandestinité et recomposition</h2>
+<p>La victoire franquiste en 1939 entraîne l'interdiction des organisations anarchistes et syndicales indépendantes en Espagne.</p>
+<p>Des milliers de militants sont emprisonnés, exécutés, contraints à l'exil ou à la clandestinité.</p>
+<p>En Italie, en Allemagne et au Portugal, les régimes fascistes ont également détruit les organisations syndicales révolutionnaires.</p>
+<p>La Seconde Guerre mondiale et la consolidation des régimes autoritaires affaiblissent considérablement le mouvement anarcho-syndicaliste international.</p>
+<p>Après la guerre, les organisations survivantes poursuivent leur activité, notamment dans l'exil et la clandestinité. L'AIT continue d'exister, mais son influence est désormais beaucoup plus limitée que celle des grandes organisations de l'entre-deux-guerres.</p>
+<p>À partir des années 1970, de nouvelles recompositions apparaissent, notamment avec la reconstruction de la CNT espagnole après la mort de Franco.</p>
+<p>L'anarcho-syndicalisme demeure aujourd'hui une tradition présente dans plusieurs pays, même si ses organisations n'ont généralement plus l'implantation de masse qu'elles avaient connue au début du XX<sup>e</sup> siècle.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="anarcho-syndicalisme-idees.html">Idées et théories</a></li>
+<li><a href="anarcho-syndicalisme-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie complète du dossier.</li>
+<li>Pour apprendre pas à pas : le parcours <a href="../universite/anarchosyndicalisme.html">Anarchosyndicalisme</a> de l'université populaire.</li>
+<li>Les portraits d'<a href="../figures/emile-pouget.html">Émile Pouget</a> et de <a href="../figures/rudolf-rocker.html">Rudolf Rocker</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="anarcho-syndicalisme-heritages.html#sources">Bibliographie et ressources</a><span>Textes, travaux historiques et archives, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="anarchisme-histoire.html#syndicalisme">L'entrée dans les syndicats</a><span>Le dossier Anarchisme, de la CGT au congrès d'Amsterdam.</span></li>
+<li><a href="../experiences/action-directe-pratique.html">L'action directe</a><span>Le dossier d'Histoire des luttes.</span></li>
+<li><a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a><span>La révolution de la CNT-FAI.</span></li>
+</ul></section>
+</div>
+
+=== anarcho-syndicalisme-idees | Anarcho-syndicalisme | L'anarcho-syndicalisme : idées et théories | Mouvement ouvrier · depuis la fin du XIXe siècle | L'anarcho-syndicalisme défend notamment l'action directe, l'autonomie syndicale, le fédéralisme, la solidarité de classe et la grève générale.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-rocker.jpg" alt="Portrait de Rudolf Rocker vers 1930, moustache et cheveux en arrière." width="322" height="429" loading="lazy"><figcaption>Rudolf Rocker, théoricien de l'anarcho-syndicalisme et animateur de l'AIT de Berlin. <small>auteur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Rudolf_Rocker.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="syndicat-emancipation">1. Le syndicat comme outil d'émancipation</h2>
+<p>Pour l'anarcho-syndicalisme, les travailleurs doivent être capables de défendre eux-mêmes leurs intérêts.</p>
+<p>Le syndicat est un lieu d'organisation collective qui permet de dépasser l'isolement des individus face aux employeurs.</p>
+<p>Il constitue également un espace d'apprentissage de la solidarité, de la décision collective et de l'action autonome.</p>
+<p>La lutte syndicale ne doit pas uniquement chercher à obtenir des améliorations immédiates. Elle doit contribuer à développer la capacité des travailleurs à organiser eux-mêmes la société.</p>
+<p>Le syndicat peut ainsi être considéré à la fois comme un outil de résistance dans le présent et comme une structure potentielle de transformation révolutionnaire.</p>
+
+<h2 id="action-directe">2. L'action directe</h2>
+<p>L'<a href="../glossaire.html#action-directe">action directe</a> désigne les formes d'action par lesquelles les personnes concernées interviennent elles-mêmes pour défendre leurs intérêts, sans déléguer leur lutte à des représentants extérieurs.</p>
+<p>Elle peut prendre de nombreuses formes :</p>
+<ul>
+<li>La grève.</li>
+<li>Le boycott.</li>
+<li>Le piquet de grève.</li>
+<li>La solidarité entre travailleurs.</li>
+<li>L'occupation d'un lieu de travail.</li>
+<li>Le refus collectif d'exécuter une décision patronale.</li>
+<li>Les assemblées et mobilisations autonomes.</li>
+</ul>
+<p>L'action directe ne signifie pas nécessairement une action individuelle ou spontanée. Elle peut être préparée, organisée et coordonnée collectivement.</p>
+<p>Elle repose sur l'idée que l'émancipation ne peut être obtenue par la simple délégation du pouvoir à des professionnels de la politique ou de la représentation.</p>
+
+<h2 id="greve-generale">3. La grève générale</h2>
+<p>La <a href="../glossaire.html#greve-generale">grève générale</a> occupe une place centrale dans la tradition syndicaliste révolutionnaire.</p>
+<p>Elle consiste à interrompre simultanément l'activité dans plusieurs secteurs économiques et sociaux afin de créer un rapport de force capable de dépasser les revendications d'une entreprise ou d'une profession particulière.</p>
+<p>Pour les révolutionnaires syndicalistes, la grève générale peut devenir un moyen de transformer profondément les rapports sociaux.</p>
+<p>Dans certaines conceptions anarcho-syndicalistes, elle constitue un moment de rupture avec le pouvoir capitaliste et étatique.</p>
+<p>La grève générale ne doit cependant pas être considérée comme une formule magique. Son succès dépend de conditions sociales, politiques et organisationnelles précises : solidarité entre secteurs, capacité de coordination, implantation syndicale et participation populaire.</p>
+
+<h2 id="federalisme">4. Le fédéralisme syndical</h2>
+<p>L'anarcho-syndicalisme défend généralement une organisation fédéraliste.</p>
+<p>Les syndicats de base doivent conserver leur autonomie tout en participant à des structures de coordination plus larges.</p>
+<p>Ces structures permettent de coordonner les luttes, de partager les informations et d'organiser la solidarité entre professions et territoires.</p>
+<p>Le <a href="../glossaire.html#federalisme">fédéralisme</a> repose notamment sur :</p>
+<ul>
+<li>L'autonomie des syndicats de base.</li>
+<li>La libre association.</li>
+<li>La coordination entre organisations.</li>
+<li>Les mandats définis par les assemblées.</li>
+<li>La responsabilité des délégués devant les personnes qui les mandatent.</li>
+<li>La <a href="../glossaire.html#mandat">révocabilité des mandats</a>.</li>
+</ul>
+<p>Il s'oppose à la concentration permanente du pouvoir dans une direction séparée de la base.</p>
+<p>Le fédéralisme ne signifie toutefois pas l'absence de coordination ou de règles communes. Il cherche à organiser la coopération sans transformer les structures de coordination en autorités autonomes.</p>
+
+<h2 id="assemblee">5. L'assemblée générale et la démocratie ouvrière</h2>
+<p>L'<a href="../glossaire.html#assemblee-generale">assemblée générale</a> constitue un espace central de décision.</p>
+<p>Elle permet aux travailleurs de discuter des revendications, de définir les actions collectives et de contrôler les mandats confiés aux délégués.</p>
+<p>L'objectif est de limiter la séparation entre ceux qui décident et ceux qui exécutent.</p>
+<p>Cette conception s'oppose aux formes de représentation dans lesquelles les décisions échappent progressivement aux personnes concernées.</p>
+<p>Les pratiques réelles ont cependant varié selon les organisations, les périodes et les contextes. Les syndicats anarcho-syndicalistes n'ont pas toujours réussi à appliquer intégralement leurs principes démocratiques.</p>
+
+<h2 id="autonomie">6. L'autonomie ouvrière</h2>
+<p>L'autonomie ouvrière signifie que les travailleurs doivent pouvoir définir leurs objectifs et leurs moyens de lutte sans dépendre des intérêts d'un parti, d'un gouvernement ou d'une institution extérieure.</p>
+<p>Cette autonomie ne suppose pas un isolement du reste de la société.</p>
+<p>Elle implique au contraire la capacité de construire des solidarités avec les autres mouvements d'émancipation.</p>
+<p>Les syndicats doivent pouvoir collaborer avec des mouvements féministes, anticolonialistes, <a href="../antifascisme/index.html">antifascistes</a>, écologistes et populaires sans perdre leur capacité de décision indépendante.</p>
+
+<h2 id="partis">7. Le rapport aux partis politiques</h2>
+<p>L'anarcho-syndicalisme refuse généralement que les syndicats deviennent les instruments d'un parti politique.</p>
+<p>Cette position repose sur une critique de la délégation du pouvoir : les travailleurs ne doivent pas abandonner leur autonomie à une organisation prétendant représenter leurs intérêts.</p>
+<p>Les conceptions varient toutefois sur la place des organisations politiques libertaires.</p>
+<p>Certains courants considèrent que le syndicat doit réunir les travailleurs autour de leurs intérêts communs sans exiger une adhésion idéologique particulière.</p>
+<p>D'autres estiment qu'une organisation syndicale révolutionnaire doit assumer explicitement un projet <a href="communisme-libertaire-idees.html">communiste libertaire</a> et refuser les structures qui défendent un autre projet politique.</p>
+<p>Ces débats ont traversé l'histoire de la CNT et de l'AIT.</p>
+
+<h2 id="societe-future">8. La société future : l'organisation de la production</h2>
+<p>L'anarcho-syndicalisme ne se limite pas à la critique du capitalisme. Il réfléchit également à la manière dont la production pourrait être organisée après une révolution sociale.</p>
+<p>Dans cette perspective, les travailleurs prennent collectivement en charge les entreprises et les infrastructures.</p>
+<p>Les syndicats, les fédérations professionnelles et les collectivités territoriales peuvent participer à la coordination de la production et de la distribution.</p>
+<p>Cette organisation doit permettre de répondre aux besoins sociaux plutôt que de produire pour le profit.</p>
+<p>Les conceptions précises diffèrent selon les traditions anarcho-syndicalistes et leurs rapports au <a href="communisme-libertaire-idees.html#syndicats">communisme libertaire</a>.</p>
+<p>Il faut notamment distinguer les conceptions qui accordent une place centrale aux organisations syndicales de celles qui privilégient davantage les communes, les assemblées territoriales et les fédérations de producteurs.</p>
+
+<h2 id="critiques">9. Les critiques et les débats internes</h2>
+<p>L'anarcho-syndicalisme a fait l'objet de critiques importantes, y compris au sein du mouvement anarchiste.</p>
+
+<h3 id="bureaucratisation">Le risque de bureaucratisation</h3>
+<p>Une organisation syndicale peut progressivement développer une direction permanente, des intérêts institutionnels et des habitudes bureaucratiques.</p>
+<p>Les militants peuvent alors se retrouver séparés des travailleurs qu'ils sont censés représenter.</p>
+
+<h3 id="reformisme">Le risque de réformisme</h3>
+<p>Les revendications immédiates sont indispensables pour améliorer les conditions de vie.</p>
+<p>Mais une organisation peut finir par se limiter à la négociation de compromis avec les employeurs et abandonner progressivement ses objectifs de transformation sociale.</p>
+
+<h3 id="syndicalisme-exclusif">Le risque de syndicalisme exclusif</h3>
+<p>Certains anarchistes ont critiqué la tendance à considérer le syndicat comme l'unique forme d'organisation révolutionnaire.</p>
+<p>La société ne se réduit pas au monde du travail salarié. Les rapports de domination traversent également les familles, les quartiers, les institutions, les rapports de genre et les structures coloniales.</p>
+
+<h3 id="productivisme">Le risque de productivisme</h3>
+<p>L'émancipation ne peut pas être réduite à la prise de contrôle de l'appareil industriel.</p>
+<p>Une société libertaire doit également interroger les finalités de la production, les besoins sociaux, les limites écologiques et les formes de division du travail.</p>
+
+<h3 id="femmes">La question des femmes</h3>
+<p>Les organisations ouvrières ont historiquement reproduit des inégalités de genre.</p>
+<p>Des militantes anarchistes ont dénoncé la marginalisation des femmes dans les syndicats et les organisations révolutionnaires.</p>
+<p>En Espagne, <a href="../figures/lucia-sanchez-saornil.html">Mujeres Libres</a> a notamment développé des pratiques d'éducation, d'organisation et d'émancipation des femmes pendant la révolution.</p>
+<p>L'histoire anarcho-syndicaliste doit donc être étudiée aussi à travers les luttes contre le patriarcat.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="anarcho-syndicalisme-histoire.html">Histoire et origines</a></li>
+<li><a href="anarcho-syndicalisme-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie complète du dossier.</li>
+<li>Textes à lire dans la bibliothèque : <a href="../bibliotheque/l-action-directe-pouget.html">L'Action directe</a> d'Émile Pouget et <a href="../bibliotheque/de-l-action-directe.html">De l'action directe</a> de Voltairine de Cleyre.</li>
+<li>Pour s'organiser aujourd'hui : <a href="../agir/tenir-une-ag.html">Tenir une AG</a>, <a href="../agir/decider-sans-chef.html">Décider sans chef</a>, <a href="../agir/lancer-une-greve.html">Lancer une grève</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="anarcho-syndicalisme-heritages.html#sources">Bibliographie et ressources</a><span>Textes, travaux historiques et archives, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/anarchosyndicalisme.html">Le parcours Anarchosyndicalisme</a><span>Pour apprendre à son rythme, module par module.</span></li>
+<li><a href="anarchisme-idees.html#syndicats">Anarchistes et syndicats</a><span>Le débat d'Amsterdam en 1907, dans le dossier Anarchisme.</span></li>
+<li><a href="communisme-libertaire-idees.html#syndicats">Le syndicat ou la commune ?</a><span>Le débat dans le dossier Communisme libertaire.</span></li>
+</ul></section>
+</div>
+
+=== anarcho-syndicalisme-heritages | Anarcho-syndicalisme | L'anarcho-syndicalisme : expériences et héritages | Mouvement ouvrier · depuis la fin du XIXe siècle | Son histoire montre les possibilités de l'organisation ouvrière autonome, mais aussi ses limites, ses contradictions et les difficultés de la transformation révolutionnaire.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="cnt">1. La CNT espagnole : une organisation ouvrière de masse</h2>
+<p>La CNT constitue l'une des expériences les plus importantes de l'anarcho-syndicalisme.</p>
+<p>Son implantation dans les secteurs industriels, les transports, les métiers urbains et les campagnes lui permet de jouer un rôle majeur dans les conflits sociaux espagnols.</p>
+<p>Elle organise des grèves, des campagnes de solidarité, des activités culturelles et des structures d'entraide.</p>
+<p>La CNT ne doit pas être présentée comme une organisation parfaitement homogène. Ses débats internes opposent différentes conceptions de la stratégie révolutionnaire, du fonctionnement syndical et des rapports avec les autres forces politiques.</p>
+<p>Les divergences entre les syndicalistes regroupés autour des positions dites treintistes et les courants révolutionnaires proches de la FAI illustrent ces tensions.</p>
+
+<h2 id="collectivites">2. Les collectivités de 1936-1939</h2>
+<figure class="photo"><img src="../assets/img/revolutions/espagne-cooperative-cnt.jpg" alt="Un atelier coopératif de Barcelone géré par la CNT-FAI." width="640" height="382" loading="lazy"><figcaption>Un atelier coopératif de Barcelone géré par la CNT-FAI, pendant la révolution. <small>auteur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:CNT-FAI_Cooperative_Barcelona.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Pendant la révolution espagnole, de nombreuses entreprises sont collectivisées.</p>
+<p>Les travailleurs prennent en charge l'organisation de secteurs tels que les transports, les industries, les services et certaines activités commerciales.</p>
+<p>Dans les campagnes, des collectivités agricoles se développent notamment en Aragon, en Catalogne et dans le Levant.</p>
+<p>Ces expériences cherchent à remplacer la propriété capitaliste et la direction patronale par une gestion collective.</p>
+<p>Les résultats sont variables selon les territoires et les secteurs.</p>
+<p>Certaines collectivités reposent sur une participation volontaire, tandis que d'autres connaissent des formes de contrainte et des conflits autour de la collectivisation.</p>
+<p>Les conditions de guerre, les pénuries, les tensions politiques et les difficultés économiques limitent également leur fonctionnement.</p>
+<p>Ces expériences constituent un terrain d'étude essentiel pour comprendre les possibilités et les contradictions de l'<a href="../universite/autogestion.html">autogestion</a>.</p>
+<p>Voir aussi : le dossier <a href="communisme-libertaire-heritages.html#espagne">Communisme libertaire</a> détaille les collectivités et <a href="communisme-libertaire-heritages.html#debat-historiens">les débats entre historiens</a> ; les schémas sont dans <a href="../experiences/espagne-1936-organisation.html">CNT, FAI et collectivités</a>.</p>
+
+<h2 id="fora">3. La FORA argentine</h2>
+<p>La FORA constitue une expérience importante de syndicalisme anarchiste en Amérique latine.</p>
+<p>Elle participe à des mouvements de grève, à des mobilisations ouvrières et à la diffusion d'une culture militante libertaire.</p>
+<p>L'histoire de la FORA montre que l'anarcho-syndicalisme et les traditions syndicalistes libertaires ne se sont pas développés uniquement en Europe.</p>
+<p>Elle permet également d'étudier les liens entre immigration, internationalisme, répression étatique et organisation ouvrière.</p>
+<p>Les divisions internes de la FORA rappellent que le mouvement libertaire n'a jamais constitué un ensemble parfaitement homogène.</p>
+<p>Voir aussi <a href="anarchisme-histoire.html#amerique-latine">l'anarchisme en Amérique latine</a>, dans le dossier Anarchisme.</p>
+
+<h2 id="iww">4. Les IWW aux États-Unis</h2>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/ad-iww-paterson-1913.jpg" alt="Affiche de 1913 : un ouvrier géant se dresse au-dessus d'une usine, avec les lettres IWW." width="400" height="593" loading="lazy"><figcaption>Affiche des IWW pour la grève de la soie de Paterson, en 1913. <small>Robert Edmond Jones · domaine public · <a href="https://commons.wikimedia.org/wiki/File:IWW_Paterson_Silk_Strike_Poster_1913.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Les Industrial Workers of the World (IWW), fondés en 1905 à Chicago, constituent une expérience majeure de syndicalisme révolutionnaire et d'organisation industrielle.</p>
+<p>Les IWW cherchent à réunir les travailleurs au-delà des divisions professionnelles et corporatives.</p>
+<p>Leur objectif est de construire une organisation capable de rassembler les salariés de différentes industries et de lutter contre le pouvoir patronal.</p>
+<p>Ils organisent notamment des travailleurs migrants, agricoles, forestiers, miniers et industriels.</p>
+<p>Leur histoire est marquée par des grèves importantes, une forte répression patronale et étatique et des débats idéologiques internes.</p>
+<p>Les IWW partagent de nombreux principes avec les traditions anarcho-syndicalistes, notamment l'action directe et la solidarité ouvrière.</p>
+<p>Ils ne doivent cependant pas être automatiquement classés comme une organisation anarcho-syndicaliste : leur histoire intellectuelle et organisationnelle est plus diverse, avec des influences socialistes, syndicalistes et anarchistes.</p>
+<p>Voir aussi le portrait de <a href="../figures/lucy-parsons.html">Lucy Parsons</a>, présente à la fondation des IWW.</p>
+
+<h2 id="europe">5. Les organisations italiennes, allemandes et portugaises</h2>
+<p>L'USI italienne, la FAUD allemande et la CGT portugaise illustrent la diversité géographique de l'anarcho-syndicalisme européen.</p>
+<p>Ces organisations défendent des formes d'autonomie ouvrière et de syndicalisme révolutionnaire adaptées à leurs contextes nationaux.</p>
+<p>Elles sont confrontées à des conditions politiques différentes, mais partagent une opposition aux organisations syndicales contrôlées par l'État et aux régimes autoritaires.</p>
+<p>Leur destruction par les régimes fascistes constitue une rupture majeure dans l'histoire du mouvement ouvrier libertaire.</p>
+
+<h2 id="femmes">6. Les femmes dans le mouvement ouvrier libertaire</h2>
+<p>L'histoire anarcho-syndicaliste ne peut être racontée uniquement à travers les organisations dominées par les hommes.</p>
+<p>Les travailleuses ont participé aux luttes ouvrières, aux grèves, aux organisations syndicales et aux mouvements révolutionnaires.</p>
+<p>Mais leur participation s'est souvent heurtée à des discriminations dans les organisations elles-mêmes.</p>
+<p>En Espagne, <a href="../figures/lucia-sanchez-saornil.html">Mujeres Libres</a> développe une organisation autonome qui cherche à combattre simultanément l'exploitation économique et la domination patriarcale.</p>
+<p>Cette expérience rappelle qu'une révolution sociale ne suffit pas à abolir automatiquement les rapports de domination.</p>
+
+<h2 id="repression">7. Répression et limites historiques</h2>
+<p>Les organisations anarcho-syndicalistes ont été confrontées à une répression particulièrement violente.</p>
+<p>Les arrestations, les interdictions syndicales, les assassinats de militants, les violences patronales et les dictatures ont profondément marqué leur histoire.</p>
+<p>En Espagne, les années du pistolerismo sont notamment caractérisées par des affrontements violents entre militants ouvriers, groupes patronaux armés et forces de l'État.</p>
+<p>Ces violences ont contribué à radicaliser les conflits et à fragiliser le mouvement.</p>
+<p>Il est nécessaire d'étudier les responsabilités des différents acteurs et les formes de violence sans réduire cette histoire à une opposition simpliste entre bons et mauvais acteurs.</p>
+<p>Les organisations libertaires ont également connu des difficultés internes : divisions, conflits stratégiques, bureaucratisation, marginalisation de certaines catégories de travailleurs et désaccords sur la participation aux institutions.</p>
+
+<h2 id="heritage">8. L'héritage contemporain</h2>
+<p>L'anarcho-syndicalisme continue d'influencer des organisations syndicales libertaires et des mouvements de travailleurs.</p>
+<p>Ses principes se retrouvent notamment dans :</p>
+<ul>
+<li>Les syndicats autogérés.</li>
+<li>Les <a href="../agir/tenir-une-ag.html">assemblées de travailleurs</a>.</li>
+<li>Les pratiques de <a href="../agir/lancer-une-greve.html">grève</a> et d'<a href="../experiences/action-directe-pratique.html">action directe</a>.</li>
+<li>Les formes de <a href="../agir/caisse-de-solidarite.html">solidarité interprofessionnelle</a>.</li>
+<li>Les organisations fédéralistes.</li>
+<li>Les luttes contre la précarité.</li>
+<li>Les expériences de gestion collective des lieux de travail.</li>
+</ul>
+<p>Il continue également d'alimenter les débats sur l'organisation du mouvement ouvrier, la démocratie syndicale et les rapports entre luttes immédiates et transformation révolutionnaire.</p>
+<p>Son héritage ne doit pas être réduit à une nostalgie des grandes organisations du passé.</p>
+<p>Il constitue une réflexion toujours actuelle sur la capacité des travailleurs à s'organiser sans domination, à défendre leurs intérêts et à prendre collectivement en main leurs conditions d'existence.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>L'anarcho-syndicalisme constitue une tradition importante du mouvement ouvrier libertaire.</p>
+<p>Il a cherché à faire du syndicat un instrument d'émancipation collective, capable de lutter contre l'exploitation capitaliste tout en développant les formes d'organisation nécessaires à une société sans État ni domination.</p>
+<p>Son histoire montre les possibilités de l'organisation ouvrière autonome, mais aussi ses limites, ses contradictions et les difficultés de la transformation révolutionnaire.</p>
+<p>De la CNT espagnole à la FORA argentine, de l'USI italienne aux organisations syndicalistes révolutionnaires européennes, l'anarcho-syndicalisme a participé à une histoire internationale de luttes, de solidarités et d'expérimentations sociales.</p>
+<p>Son apport principal réside peut-être dans cette conviction : l'émancipation des travailleurs ne peut être réalisée à leur place. Elle doit être construite par leur propre action collective.</p>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>L'anarcho-syndicalisme fait partie de la famille <a href="anarchistes-libertaires.html">anarchistes et libertaires</a>. Voir aussi les dossiers <a href="anarchisme-histoire.html">Anarchisme</a> et <a href="communisme-libertaire-histoire.html">Communisme libertaire</a>, et la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>.</p>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Textes et références historiques</h3><ul>
+<li><b><cite>Charte d'Amiens</cite></b>, Confédération générale du travail, 1906.</li>
+<li><b><cite>Anarcho-Syndicalism: Theory and Practice</cite></b>, Rudolf Rocker, 1938.<span>Voir aussi le portrait de <a href="../figures/rudolf-rocker.html">Rudolf Rocker</a>.</span></li>
+<li><b><cite>Histoire des Bourses du travail</cite></b>, Fernand Pelloutier, 1902.<span><a href="https://fr.anarchistlibraries.net/library/fernand-pelloutier-histoire-des-bourses-du-travail" rel="noopener">Lire le texte sur la Bibliothèque anarchiste</a>.</span></li>
+<li><b><cite>After the Revolution</cite></b>, Diego Abad de Santillán, 1937.<span><a href="https://theanarchistlibrary.org/library/diego-abad-de-santillan-after-the-revolution" rel="noopener">Lire le texte sur The Anarchist Library</a> (en anglais).</span></li>
+<li><b><cite>Les Syndicats ouvriers et la révolution sociale</cite></b>, Pierre Besnard, 1930.</li>
+</ul></section>
+<section><h3>Travaux historiques et universitaires</h3><ul>
+<li><b>« The Birth of an International Anarcho-syndicalist Current »</b>, François Guinchard, <cite>Workers of the World</cite>, vol. 1, n<sup>o</sup> 4, 2014.<span><a href="https://theanarchistlibrary.org/library/francois-guinchard-the-birth-of-an-international-anarcho-syndicalist-current" rel="noopener">Lire l'article sur The Anarchist Library</a> (en anglais).</span></li>
+<li><b>« Anarchism and Syndicalism in the United States »</b>, chapitre 19 de <cite>The Cambridge History of Socialism</cite>, vol. 1, Cambridge University Press, 2022.<span>Attribué à Kenyon Zimmer dans la bibliographie d'origine ; la notice de l'éditeur ne permet pas de confirmer l'auteur du chapitre.</span></li>
+<li><b><cite>The Road to Anarchy: The CNT under the Spanish Second Republic (1931–1936)</cite></b>, Ángel Herrerín, Sussex Academic Press et Liverpool University Press, 2020.<span>Les catalogues indiquent l'un ou l'autre de ces éditeurs selon l'édition.</span></li>
+<li><b><cite>Anarchism and Political Change in Spain: Schism, Polarisation and Reconstruction of the Confederación Nacional del Trabajo, 1939–1979</cite></b>, Maggie Torres, Sussex Academic Press et Liverpool University Press, 2019.<span>Les catalogues indiquent l'un ou l'autre de ces éditeurs selon l'édition.</span></li>
+<li><b>« The Limitations of Ideology in the Early Argentine Labour Movement: Anarchism in the Trade Unions, 1890–1920 »</b>, Ruth Thompson, <cite>Journal of Latin American Studies</cite>, vol. 16, n<sup>o</sup> 1, 1984.</li>
+<li><b><cite>Free Women of Spain: Anarchism and the Struggle for the Emancipation of Women</cite></b>, Martha A. Ackelsberg, AK Press, 2005.</li>
+</ul></section>
+<section><h3>Organisations et archives à consulter</h3><ul>
+<li><a href="https://www.iwa-ait.org/" rel="noopener">Association internationale des travailleurs (AIT)</a></li>
+<li><a href="https://www.cnt.es/" rel="noopener">Confederación Nacional del Trabajo (CNT)</a></li>
+<li>Federación Obrera Regional Argentina (FORA).</li>
+<li>Industrial Workers of the World (IWW).</li>
+<li><a href="https://iisg.amsterdam/" rel="noopener">International Institute of Social History, Amsterdam</a></li>
+<li><a href="https://www.cira.ch/" rel="noopener">Centre international de recherches sur l'anarchisme (CIRA)</a></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/anarchosyndicalisme.html">Le parcours Anarchosyndicalisme</a><span>L'université populaire.</span></li>
+<li><a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a><span>La révolution de la CNT-FAI, dans Histoire des luttes.</span></li>
+<li><a href="../figures/emile-pouget.html">Émile Pouget</a><span>Le portrait.</span></li>
+<li><a href="../figures/durruti.html">Buenaventura Durruti</a><span>Le portrait.</span></li>
+</ul></section>
+</div>

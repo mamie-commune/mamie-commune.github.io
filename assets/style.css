@@ -1566,3 +1566,50 @@ html.facile {
 .nuancier b, .nuancier code { justify-self: start; padding: 2px 5px; background: #171414; color: #f6f0e3; }
 /* fiche documentaire pas encore relue par la bande */
 .doc__relire { font: 400 14px/1.4 var(--mono); border-left: 4px solid var(--red); padding: 4px 0 4px 10px; }
+
+/* ---------- Encyclopédie des mouvements (encyclopedie/) ---------- */
+/* Barre des trois pages d'un dossier : étiquettes de papier numérotées, la page ouverte en noir. */
+.dossier-nav { margin-top: 22px; }
+.dossier-nav ol { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 10px; }
+.dossier-nav a { display: flex; align-items: center; gap: 10px; min-height: 46px; padding: 8px 14px 8px 8px; border: 3px solid var(--ink); background: var(--paper-2); color: var(--ink); text-decoration: none; font: 400 15px/1.2 var(--display); text-transform: uppercase; box-shadow: 3px 3px 0 var(--shadow); }
+.dossier-nav a span { display: inline-grid; place-items: center; min-width: 30px; height: 30px; background: var(--red-hi); color: var(--on-dark); font: 400 17px/1 var(--slab); }
+.dossier-nav a:hover, .dossier-nav a:focus-visible { background: var(--yellow); color: var(--on-color); }
+.dossier-nav a[aria-current="page"] { background: var(--ink); color: var(--paper-2); }
+@media (max-width: 620px) { .dossier-nav ol { display: grid; } .dossier-nav a { font-size: 14px; } }
+/* Renvoi depuis une page du site vers les dossiers qui la citent. */
+.ency-renvoi { margin-top: 2.6em; padding: 18px 18px 6px; border: 3px dashed var(--ink); }
+.prose .ency-renvoi__tit { margin: 0 0 12px; font: 400 17px/1.2 var(--display); text-transform: uppercase; }
+.ency-renvoi ul { list-style: none; padding: 0; margin: 0; }
+.ency-renvoi li { margin: 0 0 12px !important; }
+.ency-renvoi a { display: grid; gap: 4px; text-decoration: none; color: var(--ink); }
+.ency-renvoi a b { font: 400 16px/1.25 var(--display); color: var(--red-txt); }
+.ency-renvoi a:hover b { text-decoration: underline; }
+.ency-renvoi a span { font-size: 15px; line-height: 1.45; }
+/* Accueil de l'encyclopédie : une fiche par famille, ses mouvements dedans. */
+.ency-fams { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr)); gap: 22px; }
+.ency-fam { background: var(--paper-2); padding: 22px 22px 20px; clip-path: var(--torn); display: flex; flex-direction: column; gap: 10px; min-width: 0; }
+.ency-fam__n { margin: 0; font: 400 13px/1 var(--mono); }
+.ency-fam h3 { margin: 0; font: 400 21px/1.15 var(--display); text-transform: uppercase; }
+.ency-fam h3 a { color: var(--ink); text-decoration: none; }
+.ency-fam h3 a:hover { color: var(--red-txt); }
+.ency-fam > p { margin: 0; }
+.ency-fam__go { margin-top: auto; font: 400 14px/1.2 var(--display); text-transform: uppercase; color: var(--red-txt); }
+.ency-mvs { list-style: none; margin: 4px 0 0; padding: 0; display: grid; gap: 8px; }
+.ency-mv { border-top: 2px solid rgba(var(--ink-rgb), .2); padding-top: 8px; }
+.ency-mv__nom { font: 400 17px/1.2 var(--display); color: var(--red-txt); }
+.ency-mv ol { list-style: none; margin: 6px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.ency-mv ol a { display: inline-flex; align-items: center; gap: 6px; padding: 4px 8px 4px 4px; border: 2px solid var(--ink); color: var(--ink); text-decoration: none; font-size: 14px; }
+.ency-mv ol a:hover { background: var(--yellow); color: var(--on-color); }
+.ency-mv ol span { display: inline-grid; place-items: center; width: 22px; height: 22px; background: var(--ink); color: var(--paper-2); font: 400 13px/1 var(--slab); }
+.ency-mv--prevu b { font: 400 16px/1.2 var(--display); }
+.ency-mv--prevu span { display: block; font: 400 13.5px/1.4 var(--mono); }
+/* Page d'une famille */
+.ency-page { padding: 34px 0 10px; display: grid; gap: 34px; max-width: 860px; }
+.ency-bloc h2 { font: 400 26px/1.1 var(--display); text-transform: uppercase; margin: 0 0 14px; }
+.ency-page .ency-mvs { gap: 12px; }
+.ency-deja { list-style: none; margin: 0; padding: 0; display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 240px), 1fr)); gap: 14px; }
+.ency-deja a { display: grid; gap: 6px; height: 100%; padding: 14px 16px; background: var(--paper-2); color: var(--ink); text-decoration: none; clip-path: var(--torn); }
+.ency-deja a:hover { background: var(--yellow); color: var(--on-color); }
+.ency-deja b { font: 400 16px/1.25 var(--display); }
+.ency-deja span { font-size: 14.5px; line-height: 1.45; }
+.ency-methode { max-width: 820px; }

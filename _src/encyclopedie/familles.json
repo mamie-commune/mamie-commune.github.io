@@ -1,0 +1,147 @@
+{
+  "_lisezmoi": "Les sept familles de l'Encyclopédie des mouvements. Pour chaque famille : id (adresse de sa page encyclopedie/<id>), rang, nom, court (étiquette des filtres), dit (une phrase), presentation (HTML), mouvements (nom = exactement la catégorie des pages du dossier dans _src/encyclopedie/*.txt ; voir = [adresse, texte] d'une page existante quand le dossier n'est pas encore écrit), deja (pages existantes du site : [adresse, titre, phrase]). Un mouvement sans pages s'affiche « Dossier en préparation », sans lien.",
+  "familles": [
+    {
+      "id": "anarchistes-libertaires", "rang": 1,
+      "nom": "Mouvements anarchistes et libertaires", "court": "Anarchistes et libertaires",
+      "dit": "Abolir l'État et le capitalisme ensemble, et s'organiser dès maintenant sans chefs.",
+      "presentation": "<p>Cette famille regroupe les mouvements qui refusent à la fois l'exploitation économique et l'autorité politique de l'État, et qui veulent que les moyens de la lutte ressemblent à la société qu'ils visent : assemblées, fédérations, action directe. Elle naît dans le mouvement ouvrier du XIX<sup>e</sup> siècle, en Europe, mais se répand très vite en Amérique latine, en Asie orientale, autour de la Méditerranée et en Afrique australe.</p><p>Ce n'est pas un bloc. Les individualistes, les communistes libertaires, les anarcho-syndicalistes, les plateformistes ou les communalistes se sont souvent opposés durement, sur l'organisation, la violence, les syndicats ou les élections. Chaque dossier de la famille présente ces désaccords plutôt que de les cacher.</p>",
+      "mouvements": [
+        { "nom": "Anarchisme" },
+        { "nom": "Communisme libertaire", "voir": ["universite/communisme-libertaire.html", "Le parcours de l'université populaire"] },
+        { "nom": "Anarcho-syndicalisme" },
+        { "nom": "Communalisme libertaire" },
+        { "nom": "Mouvement autonome" }
+      ],
+      "deja": [
+        ["universite/introduction-anarchisme.html", "Introduction à l'anarchisme", "Le parcours pour débuter, module par module."],
+        ["universite/histoire-mouvement-anarchiste.html", "Histoire du mouvement anarchiste", "Le parcours d'histoire de l'université populaire."],
+        ["experiences/makhno-histoire.html", "La Makhnovtchina", "La révolution paysanne d'Ukraine, 1917-1921."],
+        ["experiences/espagne-1936-histoire.html", "Espagne 1936", "La révolution de la CNT-FAI."],
+        ["figures/index.html", "Figures de l'anarchisme", "Portraits de penseuses, penseurs, militantes et militants."],
+        ["livres/dix-questions-anarchisme.html", "Dix questions sur l'anarchisme", "Le livre pour débuter, en entier."]
+      ]
+    },
+    {
+      "id": "socialistes-ouvriers", "rang": 2,
+      "nom": "Mouvements socialistes et ouvriers", "court": "Socialistes et ouvriers",
+      "dit": "Les travailleuses et les travailleurs s'organisent pour ne plus être exploités.",
+      "presentation": "<p>Cette famille rassemble les mouvements nés de la révolution industrielle pour défendre celles et ceux qui vivent de leur travail : sociétés de secours mutuel, coopératives, syndicats, partis ouvriers, conseils d'usine. Ils partagent la critique de l'exploitation capitaliste, mais pas la façon d'en sortir.</p><p>Les grandes fractures de la famille traversent tout le XX<sup>e</sup> siècle : réforme ou révolution, parti ou syndicat, conquête de l'État ou autogestion, centralisme ou démocratie des conseils. Les anarchistes sont nés de ce même mouvement ouvrier, et beaucoup de leurs débats sont des débats avec les socialistes et les marxistes.</p>",
+      "mouvements": [
+        { "nom": "Socialisme" },
+        { "nom": "Marxisme" },
+        { "nom": "Communisme" },
+        { "nom": "Communisme de conseils" },
+        { "nom": "Trotskisme" },
+        { "nom": "Mouvement coopératif", "voir": ["s-entraider.html#cooperatives", "Les coopératives dans le tiroir S'entraider"] }
+      ],
+      "deja": [
+        ["universite/histoire-ouvriere.html", "Histoire ouvrière", "Le parcours de l'université populaire."],
+        ["experiences/commune-de-paris-histoire.html", "La Commune de Paris", "1871 : soixante-douze jours d'autogouvernement."],
+        ["experiences/mai-68-histoire.html", "Mai 68", "La plus grande grève de l'histoire de France."],
+        ["bibliotheque/le-1er-mai.html", "Le 1er Mai", "D'où vient la journée internationale des travailleurs."],
+        ["agir/lancer-une-greve.html", "Lancer une grève", "La fiche pratique."]
+      ]
+    },
+    {
+      "id": "feministes-liberation", "rang": 3,
+      "nom": "Mouvements féministes et de libération", "court": "Féministes et libération",
+      "dit": "Ni patriarcat, ni ordre moral : la libération des femmes et des minorités de genre et de sexualité.",
+      "presentation": "<p>Cette famille regroupe les mouvements qui combattent la domination des hommes sur les femmes et l'ordre qui impose une seule façon d'aimer et de vivre son genre : luttes pour le droit de vote et l'éducation, pour le contrôle de son corps, contre les violences, mouvements homosexuels, lesbiens, trans et intersexes.</p><p>Les courants s'y opposent sur des questions de fond : faut-il réformer les lois ou renverser tout le système ? D'où vient l'oppression, de la culture, de l'économie, ou des deux ? Comment tenir ensemble le genre, la classe et la race ? Les féministes ont aussi souvent dû se battre contre le sexisme de leurs propres camarades, anarchistes compris.</p>",
+      "mouvements": [
+        { "nom": "Féminisme" },
+        { "nom": "Féminisme radical" },
+        { "nom": "Féminisme matérialiste" },
+        { "nom": "Féminisme anarchiste", "voir": ["universite/feminisme-anarchisme.html", "Le parcours de l'université populaire"] },
+        { "nom": "Mouvement de libération des femmes", "voir": ["experiences/mlac-histoire.html", "Le dossier sur le MLAC"] },
+        { "nom": "Mouvements LGBTQIA+", "voir": ["experiences/stonewall-fhar-histoire.html", "Le dossier De Stonewall au FHAR"] }
+      ],
+      "deja": [
+        ["experiences/mlac-histoire.html", "Le MLAC", "Avorter en autogestion, 1973-1975."],
+        ["experiences/stonewall-fhar-histoire.html", "De Stonewall au FHAR", "La révolte homosexuelle, 1969-1974."],
+        ["bibliotheque/combahee-river-collective.html", "Le Combahee River Collective", "La déclaration des féministes noires de Boston."],
+        ["figures/index.html#femmes-en-lutte", "Femmes en lutte", "Les portraits de Louise Michel, Emma Goldman, Kanno Sugako…"],
+        ["manif/autodefense-feministe.html", "Autodéfense féministe", "La fiche pratique."]
+      ]
+    },
+    {
+      "id": "anticoloniaux-internationalistes", "rang": 4,
+      "nom": "Mouvements anticoloniaux et internationalistes", "court": "Anticoloniaux et internationalistes",
+      "dit": "Les peuples colonisés se libèrent, et les luttes ne s'arrêtent pas aux frontières.",
+      "presentation": "<p>Cette famille regroupe les mouvements qui ont combattu les empires coloniaux et leurs suites, et ceux qui ont voulu unir les luttes par-delà les frontières : résistances aux conquêtes, partis et fronts de libération, mouvements panafricains, solidarités internationales, conférences des pays du Sud.</p><p>Là aussi, les chemins divergent. Libérer une nation, est-ce créer un nouvel État ou abolir aussi la domination à l'intérieur ? Faut-il s'allier aux grandes puissances de la guerre froide ? Plusieurs indépendances ont donné naissance à des régimes autoritaires, et les dossiers de cette famille le disent aussi.</p>",
+      "mouvements": [
+        { "nom": "Anticolonialisme" },
+        { "nom": "Panafricanisme" },
+        { "nom": "Internationalisme", "voir": ["universite/internationalisme.html", "Le parcours de l'université populaire"] },
+        { "nom": "Mouvement des non-alignés" },
+        { "nom": "Mouvements de libération nationale" }
+      ],
+      "deja": [
+        ["figures/sail-mohamed.html", "Saïl Mohamed", "Anarchiste et anticolonialiste algérien."],
+        ["figures/ricardo-flores-magon.html", "Ricardo Flores Magón", "Terre et liberté, au Mexique."],
+        ["bibliotheque/la-colonisation.html", "La Colonisation", "La fiche de lecture."],
+        ["experiences/zapatistes-histoire.html", "Les zapatistes", "La rébellion maya du Chiapas, depuis 1994."],
+        ["experiences/rojava-histoire.html", "Le Rojava", "Communes et révolution des femmes en Syrie du Nord."]
+      ]
+    },
+    {
+      "id": "antiracistes-antifascistes", "rang": 5,
+      "nom": "Mouvements antiracistes et antifascistes", "court": "Antiracistes et antifascistes",
+      "dit": "Contre le racisme et l'extrême droite, hier et aujourd'hui.",
+      "presentation": "<p>Cette famille regroupe les mouvements qui combattent le racisme, la ségrégation et l'extrême droite : abolitionnistes, mouvements des droits civiques, Black Power, antifascistes des années 1920 à nos jours, collectifs contre les violences policières et pour l'égalité.</p><p>Ils ne sont pas d'accord sur tout : non-violence ou autodéfense, alliance large ou action autonome, réformes juridiques ou transformation de toute la société. Sur Mamie Commune, l'antifascisme a déjà sa propre rubrique, faite avec La Horde : les dossiers de l'encyclopédie y renvoient sans la recopier.</p>",
+      "mouvements": [
+        { "nom": "Antiracisme" },
+        { "nom": "Antifascisme", "voir": ["antifascisme/index.html", "La rubrique Antifascisme"] },
+        { "nom": "Black Power", "voir": ["experiences/black-panthers-histoire.html", "Le dossier sur les Black Panthers"] },
+        { "nom": "Mouvement des droits civiques" },
+        { "nom": "Mouvements décoloniaux" }
+      ],
+      "deja": [
+        ["antifascisme/index.html", "La rubrique Antifascisme", "Connaître l'extrême droite et agir contre elle."],
+        ["universite/antifascisme.html", "Antifascisme", "Le parcours de l'université populaire."],
+        ["experiences/black-panthers-histoire.html", "Les Black Panthers", "Se défendre et servir le peuple, 1966-1982."],
+        ["livres/dix-questions-antifascisme.html", "Dix questions sur l'antifascisme", "Le livre de La Horde, en entier."],
+        ["bibliotheque/john-brown.html", "John Brown", "La fiche de lecture sur l'abolitionniste."]
+      ]
+    },
+    {
+      "id": "ecologistes", "rang": 6,
+      "nom": "Mouvements écologistes", "court": "Écologistes",
+      "dit": "Défendre la terre, et ceux qui en vivent, contre ce qui l'épuise.",
+      "presentation": "<p>Cette famille regroupe les mouvements qui lient la destruction de la nature à l'organisation de la société : écologie sociale, luttes antinucléaires, défense des terres paysannes et des territoires autochtones, écoféminisme, occupations contre les grands projets.</p><p>Les désaccords sont profonds : faut-il réformer l'économie ou en sortir ? Défendre la nature pour elle-même ou parce que les humains en dépendent ? Passer par les élections, les tribunaux ou l'action directe ? Les dossiers de cette famille présentent ces écoles sans les confondre.</p>",
+      "mouvements": [
+        { "nom": "Écologie sociale", "voir": ["universite/ecologie-sociale.html", "Le parcours de l'université populaire"] },
+        { "nom": "Écologie radicale" },
+        { "nom": "Écoféminisme" },
+        { "nom": "Mouvement antinucléaire" },
+        { "nom": "Luttes paysannes", "voir": ["experiences/zad-histoire.html", "Le dossier sur la ZAD"] }
+      ],
+      "deja": [
+        ["universite/ecologie-sociale.html", "Écologie sociale", "Le parcours de l'université populaire."],
+        ["figures/murray-bookchin.html", "Murray Bookchin", "De l'écologie sociale au communalisme."],
+        ["figures/elisee-reclus.html", "Élisée Reclus", "Le géographe communard."],
+        ["experiences/zad-histoire.html", "La ZAD de Notre-Dame-des-Landes", "Un aéroport qui n'a jamais vu le jour."],
+        ["bibliotheque/sentiment-de-la-nature.html", "Du sentiment de la nature", "La fiche de lecture du texte de Reclus."]
+      ]
+    },
+    {
+      "id": "etudiants-autonomes", "rang": 7,
+      "nom": "Mouvements étudiants et autonomes", "court": "Étudiants et autonomes",
+      "dit": "La jeunesse, les squats et les mouvements sans parti qui bousculent l'ordre établi.",
+      "presentation": "<p>Cette famille regroupe des mouvements qui se sont souvent construits en dehors des partis et des grands syndicats : révoltes étudiantes, autonomie ouvrière, situationnistes, squats et lieux occupés, mouvements altermondialistes, assemblées des places.</p><p>Leur force, l'auto-organisation et l'invention de nouvelles formes de lutte, est aussi leur difficulté : durer, se coordonner, ne pas être récupérés. Les dossiers de cette famille montrent ce que ces mouvements ont inventé, et ce sur quoi ils se sont divisés.</p>",
+      "mouvements": [
+        { "nom": "Mouvement étudiant", "voir": ["experiences/mai-68-histoire.html", "Le dossier sur Mai 68"] },
+        { "nom": "Autonomie ouvrière", "voir": ["encyclopedie/mouvement-autonome-histoire.html#operaisme", "L'opéraïsme dans le dossier Mouvement autonome"] },
+        { "nom": "Situationnisme" },
+        { "nom": "Mouvement squat", "voir": ["encyclopedie/mouvement-autonome-histoire.html#squats", "Les squats dans le dossier Mouvement autonome"] },
+        { "nom": "Altermondialisme" }
+      ],
+      "deja": [
+        ["experiences/mai-68-histoire.html", "Mai 68", "Des barricades étudiantes à la grève générale."],
+        ["experiences/gilets-jaunes-histoire.html", "Les Gilets jaunes", "Une révolte sans chefs, 2018-2019."],
+        ["bibliotheque/zone-autonome-temporaire.html", "TAZ, Zone autonome temporaire", "La fiche de lecture du texte d'Hakim Bey."],
+        ["agir/lutter-au-lycee.html", "Lutter au lycée", "Le guide pratique."]
+      ]
+    }
+  ]
+}

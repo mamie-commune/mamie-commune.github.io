@@ -1,0 +1,501 @@
+=== anarchisme-histoire | Anarchisme | L'anarchisme : naissance et diffusion d'un mouvement mondial | Monde · depuis 1840 | Né dans le mouvement ouvrier du XIXe siècle, l'anarchisme devient en quelques décennies un mouvement mondial, de Barcelone à Buenos Aires, de Tokyo à Alexandrie. Ses origines, ses organisations, ses journaux, ses scissions et ses grandes périodes.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande. Les faits viennent des sources citées en bas de page ; les jugements sont signalés comme tels.</p>
+<p>L'anarchisme est un mouvement politique et social qui veut abolir l'État et le capitalisme <strong>en même temps</strong>, et les remplacer par une société d'égales et d'égaux organisée de bas en haut, par libre association et fédération. Il ne naît pas d'un seul penseur ni d'un seul pays. Il se forme dans les années 1840-1880, au sein du mouvement ouvrier européen, puis il se répand à une vitesse étonnante : à la veille de la Première Guerre mondiale, il est l'une des principales forces du mouvement ouvrier en Espagne, en Argentine ou au Brésil, et compte des groupes de l'Égypte au Japon.</p>
+<p>Cette page raconte cette histoire. La <a href="anarchisme-idees.html">deuxième page</a> présente les idées et les débats, la <a href="anarchisme-heritages.html">troisième</a> les expériences et ce qu'il en reste.</p>
+
+<div class="note"><p><strong>Faits et interprétations.</strong> Les dates, les organisations et les événements de cette page sont établis par les travaux d'histoire cités en sources. Quand les historiennes et les historiens ne sont pas d'accord, ou quand un chiffre est incertain, la page le dit. Ce que les anarchistes pensent d'eux-mêmes est présenté comme leur point de vue.</p></div>
+
+<h2 id="avant">Avant l'anarchisme : un mot, des précurseurs</h2>
+<p>Le mot vient du grec <em>an-arkhia</em>, « absence de commandement ». Pendant des siècles, il veut dire désordre. Pendant la Révolution française, « anarchiste » est une insulte que les modérés lancent aux révolutionnaires les plus radicaux, comme les Enragés.</p>
+<p>Plusieurs auteurs sont considérés après coup comme des précurseurs, même s'ils ne se disaient pas anarchistes :</p>
+<ul>
+<li><strong>Étienne de La Boétie</strong>, au XVI<sup>e</sup> siècle, se demande pourquoi des peuples entiers obéissent à un seul homme, et répond que le pouvoir tient par le consentement de ceux qu'il domine (<a href="../bibliotheque/servitude-volontaire.html">Discours de la servitude volontaire</a>).</li>
+<li><strong>William Godwin</strong>, en Angleterre, publie en 1793 une <cite>Enquête sur la justice politique</cite> qui critique le gouvernement, la loi et la propriété au nom de la raison.</li>
+<li>Des courants religieux et paysans, en Europe comme ailleurs, ont rêvé de communautés sans seigneurs ni maîtres. Les historiens discutent de savoir s'il faut les ranger dans l'histoire de l'anarchisme : la plupart les traitent comme une préhistoire, pas comme le mouvement lui-même.</li>
+</ul>
+
+<h2 id="proudhon">1840 : « Je suis anarchiste »</h2>
+<p>En <strong>1840</strong>, un typographe de Besançon, <a href="../figures/proudhon.html">Pierre-Joseph Proudhon</a>, publie <a href="../bibliotheque/qu-est-ce-que-la-propriete.html"><cite>Qu'est-ce que la propriété ?</cite></a>. Il y répond : « La propriété, c'est le vol », et il se déclare anarchiste. C'est la première fois que quelqu'un revendique le mot dans un sens positif : une société sans maître, ordonnée par des contrats libres entre producteurs.</p>
+<p>D'autres pistes s'ouvrent au même moment :</p>
+<ul>
+<li>En Allemagne, <strong>Max Stirner</strong> publie fin 1844 <a href="../bibliotheque/l-unique-et-sa-propriete.html"><cite>L'Unique et sa propriété</cite></a>, qui rejette l'État, la religion, la morale et même l'idée d'humanité au nom de l'individu. Il ne se dit pas anarchiste, mais l'anarchisme individualiste s'en réclamera.</li>
+<li>En <strong>1857</strong>, l'ouvrier français <strong>Joseph Déjacque</strong>, exilé, reproche à Proudhon son mépris des femmes dans une lettre publique (<a href="../bibliotheque/etre-humain-male-et-femelle.html">De l'être-humain mâle et femelle</a>) et y emploie le mot <strong>« libertaire »</strong>. À New York, il publie de 1858 à 1861 un journal intitulé <cite>Le Libertaire</cite>.</li>
+<li>Pendant la révolution de 1848, Proudhon est élu député et tente une <strong>Banque du peuple</strong>, crédit gratuit entre producteurs, qui échoue en 1849. L'idée de <strong>mutuellisme</strong> (échange égal entre travailleurs associés) marquera le mouvement ouvrier français.</li>
+</ul>
+
+<h2 id="internationale">1864-1872 : l'Internationale et la grande scission</h2>
+<p>Le <strong>28 septembre 1864</strong>, des ouvriers anglais, français et d'autres pays fondent à Londres l'<strong>Association internationale des travailleurs</strong> (AIT), la Première Internationale. Les mutuellistes proudhoniens y sont nombreux au début. Karl Marx rédige ses statuts et pèse lourd dans son Conseil général.</p>
+<p>Le révolutionnaire russe <a href="../figures/bakounine.html">Mikhaïl Bakounine</a> y adhère en <strong>1868</strong>. Autour de lui se rassemblent ceux qu'on appelle alors les <strong>collectivistes</strong> ou <strong>anti-autoritaires</strong> : ils veulent que la terre et les instruments de travail deviennent propriété collective, comme les marxistes, mais refusent de passer par la conquête de l'État et par un parti politique. La même année, un envoyé de Bakounine, <strong>Giuseppe Fanelli</strong>, fait connaître ces idées en Espagne, où elles prennent très vite.</p>
+<p>Le conflit entre Marx et Bakounine mêle des désaccords de fond (faut-il un État ouvrier ? un parti ? une direction centrale de l'Internationale ?) et une guerre de personnes, de manœuvres et d'accusations. Au <strong>congrès de La Haye</strong>, en <strong>septembre 1872</strong>, la majorité réunie par le Conseil général exclut Bakounine et le Suisse <strong>James Guillaume</strong>.</p>
+<p>Quelques jours plus tard, les <strong>15 et 16 septembre 1872</strong>, les fédérations opposées se retrouvent à <strong>Saint-Imier</strong>, dans le Jura suisse : Espagnols, Italiens, Jurassiens, une partie des Français. Elles refusent l'exclusion et adoptent des <a href="../bibliotheque/congres-de-saint-imier.html">résolutions</a> qui affirment que « la destruction de tout pouvoir politique est le premier devoir du prolétariat ». Beaucoup d'historiens datent de ce congrès la naissance d'un mouvement anarchiste organisé, distinct du socialisme marxiste. L'Internationale « anti-autoritaire » tient encore des congrès jusqu'en 1877.</p>
+<p>Entre-temps, la <strong>Commune de Paris</strong> (mars-mai 1871) a eu lieu. Elle n'est pas anarchiste, mais des internationalistes y jouent un grand rôle, comme <strong>Eugène Varlin</strong>, et <a href="../figures/louise-michel.html">Louise Michel</a> devient anarchiste pendant sa déportation en Nouvelle-Calédonie. Les anarchistes en tireront l'idée de la commune libre fédérée (voir le dossier <a href="../experiences/commune-de-paris-histoire.html">La Commune de Paris</a>, et <a href="../bibliotheque/commune-de-paris-kropotkine.html">le texte de Kropotkine</a>).</p>
+
+<h2 id="communisme-anarchiste">1876-1881 : le communisme anarchiste et la propagande par le fait</h2>
+<p>À la fin des années 1870, une partie du mouvement va plus loin que le collectivisme. Les collectivistes mettaient en commun la terre et les instruments de travail, et laissaient le plus souvent la répartition des produits se faire selon le travail fourni, avec des variantes selon les fédérations ; les <strong>communistes anarchistes</strong> veulent que chacun reçoive selon ses besoins. La fédération italienne adopte cette position en 1876, la Fédération jurassienne en <strong>1880</strong>. <a href="../figures/kropotkine.html">Pierre Kropotkine</a>, qui a fondé à Genève en 1879 le journal <cite>Le Révolté</cite>, en devient le grand théoricien (<a href="../bibliotheque/la-conquete-du-pain.html"><cite>La Conquête du pain</cite></a>, 1892), avec <a href="../figures/elisee-reclus.html">Élisée Reclus</a>, Carlo Cafiero et <a href="../figures/malatesta.html">Errico Malatesta</a>.</p>
+<p>Au même moment naît l'idée de <strong>« propagande par le fait »</strong> : l'expression est popularisée en 1877 par le militant <strong>Paul Brousse</strong>. Elle désigne d'abord l'insurrection exemplaire, comme la tentative de Malatesta et Cafiero dans la région de Bénévent, en Italie, en 1877, qui échoue en quelques jours. Un congrès anarchiste réuni à <strong>Londres en juillet 1881</strong> l'approuve. Dans les années suivantes, l'expression finira par désigner des attentats individuels (voir plus bas).</p>
+
+<h2 id="ere-des-attentats">1880-1900 : répression, attentats, lois scélérates</h2>
+<p>Dans les années 1880-1890, l'anarchisme devient pour les gouvernements l'ennemi numéro un. C'est la période la plus connue, et la plus déformée par la légende :</p>
+<ul>
+<li>Le <strong>4 mai 1886</strong>, à Chicago, une bombe explose pendant un meeting sur la place de <strong>Haymarket</strong>, au milieu de la lutte pour la journée de huit heures. Sans preuve contre eux, huit anarchistes sont condamnés ; quatre sont pendus le <strong>11 novembre 1887</strong>, dont Albert Parsons, compagnon de <a href="../figures/lucy-parsons.html">Lucy Parsons</a>. Le 1<sup>er</sup> Mai naît de cette lutte (<a href="../bibliotheque/le-1er-mai.html">Le 1er Mai</a>).</li>
+<li>En France, entre <strong>1892 et 1894</strong>, une série d'attentats (Ravachol, la bombe d'Auguste Vaillant à la Chambre des députés en décembre 1893, celle d'Émile Henry au café Terminus en février 1894) se termine par l'assassinat du président <strong>Sadi Carnot</strong> par l'Italien Sante Caserio, à Lyon, en juin 1894.</li>
+<li>Le Parlement vote les <a href="../bibliotheque/lois-scelerates.html">lois scélérates</a> (1893-1894), qui punissent la propagande et « l'association de malfaiteurs ». Au <strong>procès des Trente</strong>, en août 1894, intellectuels et cambrioleurs sont jugés ensemble ; la plupart sont acquittés.</li>
+<li>Ailleurs, des anarchistes tuent le Premier ministre espagnol Cánovas (1897), l'impératrice Élisabeth d'Autriche (1898), le roi d'Italie Umberto I<sup>er</sup> (1900), le président américain McKinley (1901). Les États organisent une coopération policière contre les anarchistes, à la conférence de Rome de 1898.</li>
+</ul>
+<p>Ces attentats sont l'œuvre d'individus ou de tout petits groupes, et ils divisent profondément le mouvement. Une grande partie des anarchistes en tire la conclusion qu'il faut revenir vers les masses ouvrières, et donc vers les syndicats. La <a href="anarchisme-idees.html#violence">deuxième page</a> revient sur ce débat.</p>
+
+<h2 id="syndicalisme">1890-1914 : l'entrée dans les syndicats</h2>
+<p>À partir des années 1890, beaucoup d'anarchistes s'engagent dans le mouvement syndical. En France, <strong>Fernand Pelloutier</strong> anime la Fédération des Bourses du travail, née en 1892 ; <a href="../figures/emile-pouget.html">Émile Pouget</a>, auteur du journal <cite>Le Père Peinard</cite>, devient l'un des dirigeants de la <strong>CGT</strong>, fondée en 1895. Leur doctrine, le <strong>syndicalisme révolutionnaire</strong>, compte sur l'<a href="../experiences/action-directe-pratique.html">action directe</a>, le sabotage, le boycott et la <strong>grève générale</strong> pour renverser le capitalisme, et refuse que le syndicat dépende d'un parti. La <strong>Charte d'Amiens</strong> (1906) inscrit cette indépendance.</p>
+<p>Le <strong>congrès anarchiste international d'Amsterdam</strong> (août 1907) met en scène le débat : le jeune syndicaliste <strong>Pierre Monatte</strong> défend un syndicalisme qui se suffit à lui-même ; Malatesta répond que le syndicat, utile, reste un outil de défense des intérêts immédiats et ne remplace pas l'organisation anarchiste. Ce débat traverse tout le XX<sup>e</sup> siècle (voir <a href="anarchisme-idees.html#syndicats">les idées</a>).</p>
+<p>Partout, des syndicats d'inspiration libertaire se forment :</p>
+<ul>
+<li>en <strong>Argentine</strong>, la Fédération ouvrière argentine (1901), qui devient la <strong>FORA</strong> en 1904 et se donne pour but le communisme anarchiste à son 5<sup>e</sup> congrès, en 1905 ;</li>
+<li>en <strong>Espagne</strong>, la <strong>CNT</strong> (Confédération nationale du travail), fondée en 1910 ;</li>
+<li>en <strong>Italie</strong>, l'Union syndicale italienne (USI), en 1912 ;</li>
+<li>aux <strong>États-Unis</strong>, les <strong>IWW</strong> (Industrial Workers of the World), fondés en 1905 à Chicago, syndicalistes révolutionnaires où se côtoient anarchistes et socialistes ;</li>
+<li>au <strong>Mexique</strong>, la Casa del Obrero Mundial, en 1912.</li>
+</ul>
+
+<h2 id="monde">Un mouvement mondial avant 1914</h2>
+<p>Pendant longtemps, l'histoire de l'anarchisme a été racontée depuis Paris, Genève et Barcelone. Les travaux d'histoire des trente dernières années ont montré qu'il s'agissait d'un mouvement <strong>mondial</strong>, porté par les migrations ouvrières, les exilés, les marins, les imprimeurs et les étudiants. Quelques repères, sans prétendre à l'exhaustivité :</p>
+
+<h3 id="amerique-latine">Amérique latine</h3>
+<ul>
+<li>Des centaines de milliers d'ouvriers italiens et espagnols émigrent vers l'Argentine, l'Uruguay et le Brésil. Malatesta lui-même vit à Buenos Aires de 1885 à 1889. Le journal <cite>La Protesta</cite> (fondé en 1897 sous le titre <cite>La Protesta Humana</cite>) devient l'un des grands quotidiens anarchistes du monde.</li>
+<li>À Buenos Aires, en 1896-1897, des ouvrières publient <cite>La Voz de la Mujer</cite>, l'un des premiers journaux anarcha-féministes, avec pour devise « Ni dieu, ni patron, ni mari ».</li>
+<li>Au <strong>Mexique</strong>, <a href="../figures/ricardo-flores-magon.html">Ricardo Flores Magón</a> et le journal <cite>Regeneración</cite> (fondé en 1900) passent du libéralisme à l'anarchisme ; le manifeste du Parti libéral mexicain de septembre 1911 appelle à la terre commune, en s'appuyant sur les traditions des communautés indigènes. En 1911, des insurgés magonistes prennent plusieurs villes de Basse-Californie.</li>
+<li>Au <strong>Brésil</strong>, la grève générale de São Paulo, en juillet 1917, est largement animée par des militants anarchistes et syndicalistes révolutionnaires.</li>
+</ul>
+
+<h3 id="asie">Asie orientale</h3>
+<ul>
+<li><strong>Japon</strong> : la journaliste <a href="../figures/kanno-sugako.html">Kanno Sugako</a> et le traducteur de Kropotkine <strong>Kōtoku Shūsui</strong> sont accusés en 1910 d'avoir comploté contre l'empereur. Douze accusés sont exécutés en janvier 1911, dont Kanno, le 25 janvier : c'est l'« affaire de haute trahison ». Le 16 septembre 1923, après le grand séisme du Kantō, la police militaire assassine <strong>Ōsugi Sakae</strong>, <a href="../figures/ito-noe.html">Itō Noe</a> et un neveu d'Ōsugi âgé de six ans. En 1926 naissent une fédération syndicale libertaire nationale (Zenjiren) et une Ligue noire de la jeunesse (Kokuren).</li>
+<li><strong>Chine</strong> : en 1906-1907, deux groupes d'étudiants chinois exilés se forment, l'un à Paris autour du journal <cite>Xin Shiji</cite> (<cite>Le Nouveau Siècle</cite>), l'autre à Tokyo, où la féministe <strong>He Zhen</strong> publie des textes contre la domination des hommes. À Canton, <strong>Liu Shifu</strong> fonde en 1912 un groupe communiste anarchiste. Les anarchistes jouent un rôle important dans le mouvement du 4 mai 1919, avant d'être dépassés par le Parti communiste chinois, fondé en 1921.</li>
+<li><strong>Corée</strong> : sous l'occupation japonaise, des militants exilés mêlent lutte pour l'indépendance et anarchisme. L'historien et journaliste <strong>Shin Chae-ho</strong> écrit en 1923 une <cite>Déclaration de la révolution coréenne</cite> qui appelle à une révolution faite par le peuple lui-même ; il meurt en prison en 1936. Des récits militants décrivent, en Mandchourie, une région autogérée par des Coréens à la fin des années 1920 (dite « préfecture de Shinmin ») ; son ampleur et son caractère anarchiste sont encore mal établis par les travaux universitaires.</li>
+<li><strong>Philippines</strong> : emprisonné à Barcelone à la fin des années 1890, où il côtoie des anarchistes, <strong>Isabelo de los Reyes</strong> rentre à Manille et fonde en février 1902 l'Unión Obrera Democrática, premier grand syndicat du pays, avant d'être arrêté en août.</li>
+</ul>
+
+<h3 id="mediterranee-afrique">Méditerranée orientale et Afrique</h3>
+<ul>
+<li><strong>Égypte</strong> : des ouvriers et artisans italiens et grecs d'Alexandrie fondent une section de l'Internationale anti-autoritaire en 1876, puis d'autres au Caire, à Port-Saïd et à Ismaïlia. Les historiens ont montré que ces réseaux reliaient Alexandrie, Beyrouth, Istanbul et l'Europe, et touchaient aussi des intellectuels arabes (Ilham Khuri-Makdisi, voir les sources).</li>
+<li><strong>Afrique du Sud</strong> : en septembre 1917, à Johannesburg, des groupes d'étude organisés par des syndicalistes révolutionnaires deviennent l'<strong>Industrial Workers of Africa</strong>, un syndicat de travailleurs noirs sur le modèle des IWW. L'historien Lucien van der Walt y voit l'un des premiers mouvements ouvriers du pays à refuser la ségrégation raciale.</li>
+<li><strong>Algérie et colonies françaises</strong> : quelques militants comme <a href="../figures/sail-mohamed.html">Saïl Mohamed</a> lient anarchisme et anticolonialisme. Dans l'ensemble, le mouvement anarchiste français de l'époque dénonce la colonisation (<a href="../bibliotheque/la-colonisation.html">La Colonisation</a> de Jean Grave) mais compte très peu de colonisés dans ses rangs.</li>
+</ul>
+
+<h2 id="guerre-revolution-russe">1914-1921 : la guerre, la révolution russe et la rupture</h2>
+<p>La Première Guerre mondiale brise le mouvement. En 1916, Kropotkine, Jean Grave et une quinzaine de militants signent le <strong>Manifeste des Seize</strong>, qui soutient les Alliés contre l'Allemagne. Malatesta leur répond en avril 1916 dans le journal londonien <cite>Freedom</cite>, en les traitant d'« anarchistes de gouvernement ». La grande majorité du mouvement reste opposée à la guerre, et le manifeste laisse des traces durables (voir <a href="anarchisme-idees.html#guerre">les débats</a>).</p>
+<p>La <strong>révolution russe de 1917</strong> suscite d'abord l'enthousiasme. Les anarchistes y participent, dans les soviets, les comités d'usine et l'insurrection d'Octobre. Puis le nouveau pouvoir bolchevik les réprime : raids de la Tchéka contre les groupes anarchistes de Moscou en avril 1918, écrasement de la <a href="../experiences/makhno-histoire.html">Makhnovtchina</a> en Ukraine (1918-1921), écrasement des marins de <strong>Cronstadt</strong> en mars 1921 (<a href="../bibliotheque/orage-a-petrograd.html">1921, l'orage éclate à Petrograd</a>). Kropotkine meurt en février 1921 ; ses funérailles, à Moscou, sont la dernière manifestation anarchiste autorisée en Russie soviétique. <a href="../figures/emma-goldman.html">Emma Goldman</a>, expulsée des États-Unis vers la Russie fin 1919, en repart en décembre 1921 et publie ses critiques.</p>
+<p>Pour le mouvement anarchiste, c'est un tournant : beaucoup de syndicalistes et d'anciens anarchistes, éblouis par la victoire bolchevik, rejoignent les nouveaux partis communistes ; ceux qui restent anarchistes deviennent les premiers critiques de gauche de l'URSS (<a href="../bibliotheque/le-communisme-n-existe-pas-en-urss.html">Le communisme n'existe pas en URSS</a>).</p>
+
+<h2 id="entre-deux-guerres">1922-1939 : réorganisation, fascisme et Espagne</h2>
+<ul>
+<li>Fin 1922 et début 1923, des syndicats libertaires d'une dizaine de pays fondent à Berlin une nouvelle <strong>Association internationale des travailleurs</strong> (AIT-IWA), autour de <a href="../figures/rudolf-rocker.html">Rudolf Rocker</a>. Elle existe toujours.</li>
+<li>En exil à Paris, Makhno, Piotr Archinov et le groupe <cite>Dielo Trouda</cite> publient en 1926 la <strong>Plateforme</strong>, qui propose une organisation anarchiste unie, avec une ligne commune et une responsabilité collective. Voline et Sébastien Faure lui opposent la <strong>Synthèse</strong> (1928), qui veut réunir les différents courants. Ce débat dure encore (voir <a href="anarchisme-idees.html#organisation">les idées</a>).</li>
+<li>Le fascisme écrase les mouvements libertaires en Italie à partir de 1922, puis en Allemagne en 1933. Des anarchistes participent à la résistance armée, comme les Arditi del Popolo en Italie.</li>
+<li>En <strong>Espagne</strong>, la CNT, interdite sous la dictature de Primo de Rivera, renaît en 1930 et compte des centaines de milliers de membres. La <strong>FAI</strong> (Fédération anarchiste ibérique) est fondée en 1927. En <strong>juillet 1936</strong>, face au coup d'État militaire, la CNT et la FAI prennent les armes et lancent la plus vaste révolution libertaire de l'histoire : collectivisations des terres et des usines, milices, <a href="../figures/lucia-sanchez-saornil.html">Mujeres Libres</a>. Elle se heurte aux autres forces du camp républicain, qui veulent d'abord reconstruire l'État et gagner la guerre : républicains, socialistes, et surtout le Parti communiste et son homologue catalan, le PSUC, soutenus par l'URSS. La CNT elle-même entre aux gouvernements catalan et espagnol à l'automne 1936. Les affrontements de mai 1937 à Barcelone marquent un tournant, avant la victoire de Franco en 1939. Les acteurs et leurs responsabilités sont présentés dans le dossier <a href="communisme-libertaire-heritages.html#acteurs">Communisme libertaire</a> et dans <a href="../experiences/espagne-1936-histoire.html">Espagne 1936</a>.</li>
+</ul>
+
+<h2 id="apres-1945">1945-1990 : un mouvement minoritaire qui se renouvelle</h2>
+<p>Après 1945, l'anarchisme est très affaibli : écrasé par les fascismes et le stalinisme, concurrencé par des partis communistes puissants, il se maintient en petites organisations. En France, la Fédération anarchiste se reconstitue en 1945 et publie <cite>Le Monde libertaire</cite> à partir de 1954 ; l'Internationale des fédérations anarchistes est fondée à Carrare, en Italie, en 1968. Les exilés espagnols maintiennent la CNT en France pendant toute la dictature franquiste.</p>
+<p>Mais les idées libertaires reviennent par d'autres chemins : les mouvements contre la guerre et pour les droits civiques aux États-Unis, la contre-culture, <a href="../experiences/mai-68-histoire.html">Mai 68</a>, les luttes féministes et homosexuelles, l'écologie (<a href="../figures/murray-bookchin.html">Murray Bookchin</a>), les squats et l'autonomie. Des anarchistes noirs, comme Lorenzo Kom'boa Ervin, issu des mouvements de libération noire, croisent anarchisme et lutte contre le racisme (voir le dossier <a href="../experiences/black-panthers-debats.html">Black Panthers</a>). En Afrique, l'Awareness League nigériane des années 1990 et le livre <cite>African Anarchism</cite> de Sam Mbah et I. E. Igariwey (1997) cherchent des racines africaines aux pratiques libertaires.</p>
+
+<h2 id="aujourdhui">Depuis 1990 : altermondialisme, places occupées, territoires autonomes</h2>
+<p>À partir des années 1990, les pratiques libertaires (assemblées, décisions au consensus, refus des porte-parole, action directe) se retrouvent dans des mouvements qui ne se disent pas toujours anarchistes :</p>
+<ul>
+<li>le soulèvement <a href="../experiences/zapatistes-histoire.html">zapatiste</a> au Chiapas en 1994, qui n'est pas anarchiste mais inspire beaucoup les libertaires ;</li>
+<li>le mouvement altermondialiste, du contre-sommet de Seattle en 1999 aux forums sociaux ;</li>
+<li>la révolte grecque de décembre 2008, après la mort du lycéen Alexandros Grigoropoulos, tué par un policier à Athènes ;</li>
+<li>les mouvements des places de 2011 (Indignés en Espagne, Occupy aux États-Unis) ;</li>
+<li>le <a href="../experiences/rojava-histoire.html">Rojava</a>, en Syrie du Nord, dont le projet de « confédéralisme démocratique » s'inspire en partie de Bookchin (<a href="../figures/abdullah-ocalan.html">Abdullah Öcalan</a>) ;</li>
+<li>en France, la <a href="../experiences/zad-histoire.html">ZAD de Notre-Dame-des-Landes</a> et les débats suscités par les <a href="../experiences/gilets-jaunes-debats.html">Gilets jaunes</a>.</li>
+</ul>
+<p>Les historiens discutent de la place de l'anarchisme dans ces mouvements : certains parlent d'un « retour » de l'anarchisme, d'autres d'une diffusion de pratiques libertaires bien au-delà des organisations anarchistes, qui restent petites. La <a href="anarchisme-heritages.html#influence">troisième page</a> revient sur cette question.</p>
+
+<h2 id="chronologie">Chronologie</h2>
+<ol class="timeline">
+<li><b>1840</b><span>Proudhon, <cite>Qu'est-ce que la propriété ?</cite> : le mot « anarchiste » est revendiqué.</span></li>
+<li><b>1857</b><span>Joseph Déjacque emploie le mot « libertaire ».</span></li>
+<li><b>28 septembre 1864</b><span>Fondation de l'Association internationale des travailleurs à Londres.</span></li>
+<li><b>1868</b><span>Bakounine rejoint l'Internationale ; Fanelli en Espagne.</span></li>
+<li><b>Mars-mai 1871</b><span>La Commune de Paris.</span></li>
+<li><b>15-16 septembre 1872</b><span>Congrès de Saint-Imier : l'Internationale anti-autoritaire.</span></li>
+<li><b>1880</b><span>La Fédération jurassienne adopte le communisme anarchiste.</span></li>
+<li><b>Juillet 1881</b><span>Congrès de Londres : la propagande par le fait.</span></li>
+<li><b>1886-1887</b><span>Haymarket : quatre anarchistes pendus à Chicago.</span></li>
+<li><b>1892-1894</b><span>Attentats en France, lois scélérates, procès des Trente.</span></li>
+<li><b>1895</b><span>Fondation de la CGT en France.</span></li>
+<li><b>1905</b><span>La FORA argentine adopte le communisme anarchiste ; fondation des IWW.</span></li>
+<li><b>1907</b><span>Congrès anarchiste international d'Amsterdam ; groupes chinois de Paris et de Tokyo.</span></li>
+<li><b>1910-1911</b><span>Fondation de la CNT espagnole ; affaire de haute trahison au Japon ; magonistes en Basse-Californie.</span></li>
+<li><b>1916</b><span>Manifeste des Seize, réponse de Malatesta.</span></li>
+<li><b>1917</b><span>Grève générale de São Paulo ; Industrial Workers of Africa ; révolution russe.</span></li>
+<li><b>Mars 1921</b><span>Écrasement de Cronstadt.</span></li>
+<li><b>1922-1923</b><span>Fondation de l'AIT anarcho-syndicaliste à Berlin.</span></li>
+<li><b>1923</b><span>Assassinat d'Ōsugi Sakae et d'Itō Noe ; déclaration de Shin Chae-ho.</span></li>
+<li><b>1926-1928</b><span>La Plateforme et la Synthèse.</span></li>
+<li><b>1936-1939</b><span>La révolution espagnole.</span></li>
+<li><b>1968</b><span>Mai 68 ; fondation de l'Internationale des fédérations anarchistes à Carrare.</span></li>
+<li><b>1994-1999</b><span>Soulèvement zapatiste ; contre-sommet de Seattle.</span></li>
+<li><b>2011</b><span>Mouvements des places.</span></li>
+</ol>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="anarchisme-idees.html">Idées et théories</a> : les principes, les courants, l'organisation, l'économie, le rapport à l'État, et les grands débats internes.</li>
+<li><a href="anarchisme-heritages.html">Expériences et héritages</a> : ce que les anarchistes ont construit, leurs échecs et leurs contradictions, les critiques qu'on leur a faites, et ce qu'il en reste.</li>
+<li>Pour apprendre pas à pas : le parcours <a href="../universite/histoire-mouvement-anarchiste.html">Histoire du mouvement anarchiste</a> de l'université populaire.</li>
+<li>À regarder : la série documentaire <a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître</a>, dans la vidéothèque.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Histoire mondiale de l'anarchie</cite></b>, Gaetano Manfredonia, Textuel et Arte éditions, 2014.<span>Une histoire illustrée, du XIX<sup>e</sup> siècle à nos jours et sur tous les continents, liée à la série <cite>Ni Dieu ni maître</cite>.</span></li>
+<li><b><cite>Le Mouvement anarchiste en France</cite></b>, Jean Maitron, Maspero, 1975 (rééd. Gallimard, coll. Tel).<span>La thèse fondatrice sur le mouvement français, des origines à nos jours.</span></li>
+<li><b><cite>L'Anarchisme</cite></b>, Édouard Jourdain, La Découverte, coll. Repères, 2013.<span>Une synthèse courte et claire sur l'histoire et les courants.</span></li>
+<li><b><cite>L'Anarchisme. De la doctrine à l'action</cite></b>, Daniel Guérin, Gallimard, 1965.<span>Un classique de vulgarisation, centré sur l'anarchisme social.</span></li>
+<li><b><cite>Anarchism and Syndicalism in the Colonial and Postcolonial World, 1870-1940</cite></b>, Steven Hirsch et Lucien van der Walt (dir.), Brill, 2010.<span>En anglais : l'anarchisme en Égypte, en Afrique du Sud, en Asie et en Amérique latine.</span></li>
+<li><b><cite>Les Bannières de la révolte</cite></b>, Benedict Anderson, La Découverte, 2009.<span>Comment l'anarchisme a circulé entre l'Europe, Cuba et les Philippines à la fin du XIX<sup>e</sup> siècle.</span></li>
+<li><b><cite>The Eastern Mediterranean and the Making of Global Radicalism, 1860-1914</cite></b>, Ilham Khuri-Makdisi, University of California Press, 2010.<span>En anglais : les réseaux radicaux d'Alexandrie, du Caire et de Beyrouth.</span></li>
+<li><b><cite>Anarchism in the Chinese Revolution</cite></b>, Arif Dirlik, University of California Press, 1991.<span>En anglais : la référence sur l'anarchisme chinois.</span></li>
+<li><b><cite>African Anarchism: The History of a Movement</cite></b>, Sam Mbah et I. E. Igariwey, See Sharp Press, 1997.<span>En anglais : le point de vue de militants nigérians.</span></li>
+<li><b><cite>Anarchism in Korea: Independence, Transnationalism, and the Question of National Development, 1919-1984</cite></b>, Dongyoun Hwang, SUNY Press, 2016.<span>En anglais : l'anarchisme coréen, entre lutte pour l'indépendance et réseaux en Chine et au Japon.</span></li>
+<li><b><cite>The Russian Anarchists</cite></b>, Paul Avrich, Princeton University Press, 1967.<span>En anglais : la référence universitaire sur les anarchistes russes jusqu'à la révolution.</span></li>
+<li><b><cite>The Haymarket Tragedy</cite></b>, Paul Avrich, Princeton University Press, 1984.<span>En anglais : l'étude de référence sur Haymarket et le procès de Chicago.</span></li>
+</ul></section>
+<section><h3>Textes originaux dans la bibliothèque</h3><ul>
+<li><a href="../bibliotheque/qu-est-ce-que-la-propriete.html">Qu'est-ce que la propriété ?</a><span>Proudhon, 1840.</span></li>
+<li><a href="../bibliotheque/congres-de-saint-imier.html">Résolutions du congrès de Saint-Imier</a><span>1872, l'acte de naissance de l'Internationale anti-autoritaire.</span></li>
+<li><a href="../bibliotheque/la-conquete-du-pain.html">La Conquête du pain</a><span>Kropotkine, 1892 : le communisme anarchiste.</span></li>
+<li><a href="../bibliotheque/le-1er-mai.html">Le 1er Mai</a><span>Haymarket et la journée de huit heures.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître, une histoire de l'anarchisme</a><span>La série de Tancrède Ramonet, dans la vidéothèque du site.</span></li>
+<li><a href="../videos.html#damnes-de-la-commune">Les Damnés de la Commune</a><span>1871, l'événement qui a marqué toute l'histoire libertaire.</span></li>
+</ul></section>
+<section><h3>Archives et dictionnaires</h3><ul>
+<li><a href="https://maitron.fr/" rel="noopener">Le Maitron</a><span>Le dictionnaire biographique du mouvement ouvrier, avec son dictionnaire des anarchistes.</span></li>
+<li><a href="https://www.cira.ch/" rel="noopener">CIRA de Lausanne</a><span>Centre international de recherches sur l'anarchisme, fondé en 1957.</span></li>
+<li><a href="https://cira-marseille.info/" rel="noopener">CIRA de Marseille</a><span>Bibliothèque et archives libertaires.</span></li>
+<li><a href="https://iisg.amsterdam/" rel="noopener">Institut international d'histoire sociale (Amsterdam)</a><span>Les archives de Bakounine, de Kropotkine, de la CNT et de bien d'autres.</span></li>
+</ul></section>
+<section><h3>Textes et archives en ligne</h3><ul>
+<li><a href="https://theanarchistlibrary.org/library/lucien-van-der-walt-fight-for-africa-which-you-deserve" rel="noopener">Lucien van der Walt sur l'Industrial Workers of Africa</a><span>En anglais, sur The Anarchist Library.</span></li>
+</ul></section>
+<section><h3>Pour s'orienter</h3><ul>
+<li>Wikipédia<span>Un point de départ pour se repérer, pas une référence : les faits de ce dossier s'appuient sur les ouvrages et les textes cités plus haut.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme" rel="noopener">L'anarchisme sur Wikipédia</a><span>Une vue d'ensemble, avec ses débats.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Internationale_antiautoritaire" rel="noopener">L'Internationale anti-autoritaire</a><span>Saint-Imier et la suite.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_au_Japon" rel="noopener">L'anarchisme au Japon</a><span>De Kōtoku Shūsui aux fédérations de 1926.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_en_Chine" rel="noopener">L'anarchisme en Chine</a><span>Les groupes de Paris et de Tokyo, Liu Shifu, le 4 mai 1919.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_ouvri%C3%A8re_r%C3%A9gionale_argentine" rel="noopener">La FORA argentine</a><span>Le grand syndicat communiste anarchiste.</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Anarchism_in_Egypt" rel="noopener">L'anarchisme en Égypte</a><span>En anglais.</span></li>
+</ul></section>
+</div>
+
+=== anarchisme-idees | Anarchisme | Les idées anarchistes : principes, courants et grands débats | Monde · depuis 1840 | Refus de l'État et du capitalisme, fédéralisme, action directe : ce que les anarchistes ont en commun. Et tout ce qui les divise : individualistes et communistes, syndicats, organisation, violence, élections, guerre.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande. Les faits viennent des sources citées en bas de page ; les jugements sont signalés comme tels.</p>
+<p>Il n'existe pas de « doctrine anarchiste » officielle, ni de livre qui ferait autorité pour tous. L'anarchisme est une famille d'idées qui partagent quelques refus et quelques principes, et qui se disputent sur presque tout le reste. Cette page présente d'abord ce qui est commun, puis les courants, puis les grands débats. L'<a href="anarchisme-histoire.html">histoire</a> et les <a href="anarchisme-heritages.html">expériences</a> sont dans les deux autres pages.</p>
+
+<h2 id="principes">Ce que les anarchistes ont en commun</h2>
+<p>Les synthèses citées en sources (Daniel Guérin, Gaetano Manfredonia, Édouard Jourdain) ne donnent pas exactement la même définition, mais on y retrouve ces éléments :</p>
+<ul>
+<li><strong>Le refus de l'État.</strong> Pour les anarchistes, l'État n'est pas un outil neutre qu'on pourrait conquérir : c'est une machine de domination, qui reproduit une minorité de dirigeants, même quand elle se dit ouvrière (<a href="../bibliotheque/le-principe-de-l-etat.html">Le Principe de l'État</a> de Bakounine, <a href="../bibliotheque/l-etat-son-role-historique.html">L'État, son rôle historique</a> de Kropotkine).</li>
+<li><strong>Le refus du capitalisme et de la propriété privée des moyens de production.</strong> C'est la position de l'anarchisme social, majoritaire dans l'histoire du mouvement ouvrier, et la ligne de ce site. Tous les anarchistes n'ont pourtant pas pensé la propriété, le marché ou l'échange de la même façon : les mutuellistes et les individualistes américains, par exemple, ne voulaient pas tout mettre en commun (voir <a href="#propriete">plus bas</a>). Ce qu'ils partageaient, c'est le refus de l'exploitation, du profit sans travail et des monopoles protégés par l'État. Il ne faut pas confondre ces courants avec l'<a href="#anarcho-capitalisme">« anarcho-capitalisme »</a>.</li>
+<li><strong>Liberté et égalité ensemble.</strong> L'une ne va pas sans l'autre : la liberté sans égalité est le privilège des riches, l'égalité sans liberté est la caserne.</li>
+<li><strong>La cohérence des moyens et des fins.</strong> On ne construit pas une société libre avec des chefs, une armée disciplinée et un parti qui décide pour tous. Les formes de la lutte doivent déjà ressembler à la société visée : c'est ce qu'on appelle aujourd'hui la <strong>préfiguration</strong> (voir le <a href="../glossaire.html">glossaire</a>).</li>
+<li><strong>Le fédéralisme.</strong> La société s'organise de bas en haut : des groupes de base (commune, atelier, quartier) qui s'associent librement en fédérations, avec des délégués mandatés et révocables (<a href="../bibliotheque/la-federation.html">La Fédération comme moyen d'union</a>).</li>
+<li><strong>L'action directe.</strong> Agir soi-même, collectivement, au lieu de déléguer à des représentants : grève, boycott, occupation, entraide (<a href="../bibliotheque/de-l-action-directe.html">De l'action directe</a> de Voltairine de Cleyre).</li>
+<li><strong>Le refus des autres dominations</strong> : l'Église, l'armée, la patrie, et, de plus en plus clairement au fil du temps, la domination des hommes sur les femmes et le racisme. Sur ces points, la pratique des anarchistes n'a pas toujours suivi leurs principes (voir <a href="#feminisme">plus bas</a>).</li>
+</ul>
+
+<h2 id="courants">Les grands courants</h2>
+<p>Ces courants se sont formés à des moments différents et se recoupent. Beaucoup de militants sont passés de l'un à l'autre, ou en ont combiné plusieurs.</p>
+<div class="tbl"><table>
+<thead><tr><th>Courant</th><th>Idée centrale</th><th>Figures et textes</th></tr></thead>
+<tbody>
+<tr><td><strong>Mutuellisme</strong></td><td>Échange égal entre producteurs associés, crédit gratuit, contrats libres entre communes.</td><td>Proudhon (<a href="../bibliotheque/idee-generale-de-la-revolution.html">Idée générale de la Révolution</a>, 1851).</td></tr>
+<tr><td><strong>Collectivisme</strong></td><td>La terre et les outils deviennent propriété collective des associations de travailleurs ; la répartition des produits est laissée à ces associations, le plus souvent selon le travail fourni, mais les collectivistes ne sont pas d'accord entre eux sur ce point (voir <a href="#propriete">plus bas</a>).</td><td>Bakounine, James Guillaume, l'Internationale anti-autoritaire (<a href="../bibliotheque/trois-conferences-saint-imier.html">Trois conférences de Saint-Imier</a>).</td></tr>
+<tr><td><strong>Communisme anarchiste</strong> (ou libertaire)</td><td>Tout est mis en commun : « de chacun selon ses forces, à chacun selon ses besoins ».</td><td>Kropotkine, Reclus, Malatesta, Cafiero (<a href="../bibliotheque/communisme-et-anarchie.html">Communisme et anarchie</a>).</td></tr>
+<tr><td><strong>Anarcho-syndicalisme</strong> et syndicalisme révolutionnaire</td><td>Le syndicat est à la fois l'outil de la lutte et la cellule de la société future ; grève générale.</td><td>Pelloutier, Pouget (<a href="../bibliotheque/l-action-directe-pouget.html">L'Action directe</a>), Rocker, la CNT.</td></tr>
+<tr><td><strong>Individualisme anarchiste</strong></td><td>L'émancipation de l'individu passe avant tout ; méfiance envers les organisations ; « milieux libres », amour libre, illégalisme pour certains.</td><td>Stirner (précurseur), Libertad, É. Armand, <a href="../figures/zo-d-axa.html">Zo d'Axa</a> (<a href="../bibliotheque/l-individualisme.html">L'Individualisme</a>).</td></tr>
+<tr><td><strong>Anarchisme sans adjectifs</strong></td><td>Ne pas fixer à l'avance l'économie future : chaque communauté choisira ; s'unir sur le refus de l'État.</td><td>Fernando Tarrida del Mármol et Ricardo Mella (Espagne, fin des années 1880), <a href="../figures/voltairine-de-cleyre.html">Voltairine de Cleyre</a>, Malatesta.</td></tr>
+<tr><td><strong>Plateformisme</strong></td><td>Une organisation anarchiste unie, avec une ligne théorique et tactique commune et une responsabilité collective.</td><td>Archinov, Makhno, <cite>Dielo Trouda</cite> (1926).</td></tr>
+<tr><td><strong>Synthésisme</strong></td><td>Réunir communistes, syndicalistes et individualistes dans une même fédération, sans ligne unique.</td><td>Voline, Sébastien Faure (1928).</td></tr>
+<tr><td><strong>Insurrectionnalisme</strong></td><td>Refus des organisations formelles et des syndicats ; petits groupes affinitaires et attaque directe.</td><td>Luigi Galleani au début du XX<sup>e</sup> siècle, puis des courants italiens et grecs depuis les années 1980.</td></tr>
+<tr><td><strong>Anarchisme pacifiste et chrétien</strong></td><td>Refus de toute violence, y compris révolutionnaire ; la non-coopération avec l'État.</td><td>Léon Tolstoï, le Catholic Worker américain.</td></tr>
+<tr><td><strong>Anarcha-féminisme</strong></td><td>Le patriarcat est une domination aussi fondamentale que l'État et le capital.</td><td><a href="../figures/emma-goldman.html">Emma Goldman</a>, <cite>La Voz de la Mujer</cite>, <a href="../figures/lucia-sanchez-saornil.html">Mujeres Libres</a>, He Zhen.</td></tr>
+<tr><td><strong>Écologie sociale et communalisme</strong></td><td>La domination de la nature vient de la domination entre humains ; municipalités libres fédérées.</td><td><a href="../figures/elisee-reclus.html">Élisée Reclus</a> (précurseur), <a href="../figures/murray-bookchin.html">Murray Bookchin</a>.</td></tr>
+</tbody>
+</table></div>
+<p>Depuis les années 1970-1990, d'autres courants se sont ajoutés : l'<strong>anarchisme noir</strong>, né des mouvements de libération noire aux États-Unis ; des anarchismes <strong>autochtones</strong>, qui lient autonomie, terre et refus de l'État colonial ; l'<strong>anarchisme queer</strong> ; l'<strong>anarcho-primitivisme</strong>, qui critique la civilisation industrielle et l'agriculture elles-mêmes (John Zerzan), très contesté par la plupart des anarchistes ; le <strong>post-anarchisme</strong>, qui croise l'anarchisme et la philosophie de Foucault ou Deleuze.</p>
+
+<h3 id="propriete">Propriété, économie, individu : pas une seule réponse</h3>
+<p>Sur la propriété et l'économie, les anarchistes du XIX<sup>e</sup> et du début du XX<sup>e</sup> siècle ont donné des réponses réellement différentes, qu'il ne faut pas effacer :</p>
+<ul>
+<li><strong>Proudhon</strong> distingue la <em>propriété</em>, qui permet de toucher un revenu sans travailler (rente, loyer, intérêt), et la <em>possession</em>, l'usage de ce qu'on travaille soi-même. Il condamne la première, défend la seconde, et sa pensée évolue : dans un ouvrage publié après sa mort, en 1866, il voit même dans la petite propriété un contrepoids au pouvoir de l'État.</li>
+<li><strong>Les collectivistes</strong> de l'Internationale (Bakounine, James Guillaume, les Espagnols de la Fédération régionale) veulent la propriété collective de la terre et des instruments de travail. Ils discutent de la répartition : rétribution selon le travail, selon des règles fixées par chaque association, ou passage progressif au communisme quand l'abondance le permettra. Le mot « collectiviste » est d'ailleurs aussi employé, dans la France des années 1880, par les marxistes de Jules Guesde, ce qui ajoute à la confusion.</li>
+<li><strong>Les communistes anarchistes</strong> veulent tout mettre en commun, produits compris, et répartir selon les besoins (voir le dossier <a href="communisme-libertaire-idees.html">Communisme libertaire</a>).</li>
+<li><strong>Les individualistes européens</strong> se réclament souvent de Stirner, pour qui la « propriété » de l'individu est ce dont il dispose par sa propre force, et non un droit garanti par la loi. En France, autour d'É. Armand ou d'Albert Libertad, ils fondent des « milieux libres », défendent l'amour libre et l'éducation, et se méfient des syndicats et des fédérations. Une petite minorité pratique l'« illégalisme » (vol, fausse monnaie), jusqu'à la bande à Bonnot en 1911-1912, que la plupart des anarchistes condamnent.</li>
+<li><strong>Les individualistes américains</strong>, comme Josiah Warren, Lysander Spooner ou Benjamin Tucker (journal <cite>Liberty</cite>, 1881-1908), acceptent le marché, la concurrence et la possession du produit de son travail. Mais ils combattent l'intérêt, la rente et le profit, qu'ils attribuent aux monopoles garantis par l'État sur la monnaie, la terre, les droits de douane et les brevets, et Tucker se dit socialiste. Les « anarcho-capitalistes » se réclament d'eux, ce que contestent la plupart des historiens de l'anarchisme.</li>
+</ul>
+<p>Ces désaccords portent aussi sur l'<strong>organisation</strong> : les individualistes refusent le plus souvent les organisations durables, les collectivistes et les communistes construisent des fédérations, les anarcho-syndicalistes misent sur le syndicat (voir <a href="#organisation">Comment s'organiser sans chefs</a>). La ligne éditoriale de Mamie Commune est celle de l'anarchisme social et anticapitaliste ; ce dossier présente les autres courants pour ce qu'ils ont été, sans les annexer ni les caricaturer.</p>
+
+<h3 id="anarcho-capitalisme">Une confusion à éviter : l'« anarcho-capitalisme »</h3>
+<p>Depuis les années 1960-1970, aux États-Unis, des économistes ultralibéraux comme Murray Rothbard se disent « anarcho-capitalistes » : ils veulent supprimer l'État mais garder, et même étendre, la propriété privée et le marché. Le mouvement anarchiste historique les rejette : pour lui, la propriété capitaliste est elle-même une domination, protégée par l'État, et l'anarchisme est né dans le mouvement ouvrier contre elle. Cette encyclopédie suit l'usage des historiens du mouvement, qui ne rangent pas ce courant dans l'anarchisme.</p>
+
+<h2 id="organisation">Comment s'organiser sans chefs</h2>
+<p>Contrairement à une idée répandue, la plupart des anarchistes ne refusent pas l'organisation : ils refusent l'organisation <strong>autoritaire</strong>. Leurs formes habituelles :</p>
+<ul>
+<li>le <strong>groupe affinitaire</strong> : quelques personnes qui se connaissent et se font confiance, base de l'action et du journal ;</li>
+<li>la <strong>fédération</strong> de groupes, régionale puis nationale, avec des congrès où chaque groupe envoie des délégués ;</li>
+<li>le <strong>mandat impératif</strong> et révocable : le délégué porte la décision de son groupe, et peut être rappelé ;</li>
+<li>le <strong>syndicat</strong> pour les anarcho-syndicalistes : sections d'atelier, fédérations d'industrie et unions locales ;</li>
+<li>les <strong>athénées</strong>, cercles d'études, écoles et bibliothèques ouvrières, très nombreux en Espagne et en Amérique latine.</li>
+</ul>
+<p>Le désaccord porte sur le degré d'organisation. Les <strong>anti-organisationnels</strong> (une partie des individualistes et des insurrectionnalistes) craignent que toute structure durable crée des chefs et une bureaucratie. Malatesta leur répond que sans organisation, ce sont les plus forts et les plus bavards qui commandent (<a href="../bibliotheque/anarchie-et-organisation.html">Anarchie et organisation</a>). Les <strong>plateformistes</strong> veulent une organisation unie sur une ligne commune ; les <strong>synthésistes</strong> les accusent de recréer un parti. Ces trois positions existent encore aujourd'hui dans les organisations libertaires.</p>
+
+<h2 id="economie">Quelle économie après le capitalisme ?</h2>
+<p>Les anarchistes ont proposé plusieurs modèles, qui se sont succédé et opposés :</p>
+<ul>
+<li><strong>mutuellisme</strong> : des producteurs indépendants ou associés échangent à égalité, grâce à un crédit gratuit ;</li>
+<li><strong>collectivisme</strong> : propriété collective des moyens de production, rémunération selon le travail fourni ;</li>
+<li><strong>communisme libertaire</strong> : abolition de l'argent et du salariat, distribution selon les besoins, travail organisé par les communes et les fédérations de producteurs (Kropotkine, <a href="../bibliotheque/la-conquete-du-pain.html">La Conquête du pain</a> ; <a href="../bibliotheque/champs-usines-et-ateliers.html">Champs, usines et ateliers</a>) ;</li>
+<li><strong>syndicalisme</strong> : les syndicats reprennent la gestion de la production après la grève générale expropriatrice.</li>
+</ul>
+<p>Pendant la révolution espagnole, les collectivités ont expérimenté plusieurs de ces modèles en même temps : certaines ont aboli l'argent, d'autres ont créé des bons locaux ou gardé un salaire familial (voir <a href="../experiences/espagne-1936-organisation.html">CNT, FAI et collectivités</a>). Le débat sur la façon de coordonner une économie complexe sans marché ni État central reste ouvert.</p>
+
+<h2 id="pouvoir">Le rapport au pouvoir et aux institutions</h2>
+<h3 id="elections">Les élections</h3>
+<p>Pour la plupart des anarchistes, voter revient à donner à d'autres le pouvoir de décider pour soi, et à légitimer l'État (<a href="../bibliotheque/voter-c-est-abdiquer.html">Voter c'est abdiquer</a> de Reclus, <a href="../bibliotheque/criminel-electeur.html">Le criminel, c'est l'électeur !</a>). Mais la règle a connu des exceptions et des débats : Proudhon a été député en 1848 ; en février 1936, en Espagne, la CNT ne mène pas sa campagne habituelle d'abstention, ce qui contribue à la victoire du Front populaire qui promettait d'amnistier les prisonniers (<a href="../bibliotheque/anarchistes-electoralistes.html">Anarchistes électoralistes</a>).</p>
+<h3 id="syndicats">Les syndicats</h3>
+<p>Le syndicat est-il l'outil de la révolution, ou seulement un moyen de défense qui finit par négocier avec les patrons ? Au congrès d'Amsterdam de 1907, Monatte défend le premier point de vue, Malatesta le second. Les anarcho-syndicalistes de la CNT ou de la FORA ont fait du syndicat le cœur de leur projet ; d'autres anarchistes s'en méfient, ou militent dans les syndicats existants sans les confondre avec le mouvement anarchiste.</p>
+<h3 id="etat-transition">Pas d'État de transition</h3>
+<p>C'est la grande différence avec Marx et Engels. Ils prévoient une période de « dictature du prolétariat » pendant laquelle les travailleurs utilisent l'État avant qu'il ne dépérisse. Bakounine répond, dès les années 1870, qu'un tel État créera une nouvelle classe dirigeante de savants et de fonctionnaires. Les anarchistes ont vu dans l'histoire de l'URSS la confirmation de cette critique ; les marxistes-léninistes leur répondent que sans pouvoir centralisé, une révolution est écrasée par ses ennemis (voir les <a href="anarchisme-heritages.html#critiques">critiques</a>).</p>
+
+<h3 id="marxismes">Anarchistes et marxistes : il y a plusieurs marxismes</h3>
+<p>On parle souvent « des marxistes » comme d'un bloc. C'est une erreur : le marxisme est une famille aussi divisée que l'anarchisme, et les libertaires n'ont pas les mêmes rapports avec chacune de ses branches.</p>
+<div class="tbl"><table>
+<thead><tr><th>Tradition</th><th>Ce qui la caractérise</th><th>Rapport aux libertaires</th></tr></thead>
+<tbody>
+<tr><td><strong>Marx et Engels</strong></td><td>Critique du capitalisme, lutte des classes, conquête du pouvoir politique par le prolétariat, puis dépérissement de l'État.</td><td>Adversaires dans l'Internationale. Mais Marx salue en 1871 la Commune et ses élus révocables (<cite>La Guerre civile en France</cite>), que les anarchistes revendiquent aussi.</td></tr>
+<tr><td><strong>Social-démocratie</strong> (II<sup>e</sup> Internationale, 1889-1914)</td><td>Partis de masse, élections, syndicats liés au parti ; débat entre révolutionnaires (Kautsky) et réformistes (Bernstein).</td><td>Les anarchistes sont exclus de ses congrès, définitivement à Londres en 1896 ; ils critiquent le parlementarisme et la discipline de parti.</td></tr>
+<tr><td><strong>Marxisme-léninisme</strong></td><td>Parti d'avant-garde centralisé, prise du pouvoir d'État, dictature du prolétariat exercée par le parti ; modèle de l'URSS, puis du stalinisme.</td><td>Opposition frontale après 1918 : répression des anarchistes en Russie, en Ukraine, puis en Espagne.</td></tr>
+<tr><td><strong>Trotskisme</strong></td><td>Opposition de gauche au stalinisme, au nom du léninisme ; révolution permanente, IV<sup>e</sup> Internationale (1938).</td><td>Critique commune du stalinisme, mais Trotsky, chef de l'Armée rouge, a ordonné l'assaut contre Cronstadt et mis Makhno hors-la-loi en 1919 ; la méfiance reste forte.</td></tr>
+<tr><td><strong>Rosa Luxemburg</strong></td><td>Révolutionnaire marxiste qui critique dès 1918 la suppression des libertés par les bolcheviks (<cite>La Révolution russe</cite>, publiée en 1922).</td><td>Respectée par beaucoup de libertaires pour sa défense de la démocratie ouvrière et de la spontanéité des masses.</td></tr>
+<tr><td><strong>Communisme de conseils</strong></td><td>Marxistes allemands et néerlandais des années 1920 (Anton Pannekoek, Herman Gorter, Otto Rühle) : contre le parti dirigeant et le parlement, pour le pouvoir direct des conseils ouvriers.</td><td>Très proches sur l'auto-organisation et la critique de l'URSS ; restent marxistes par leur analyse de l'histoire et de l'économie.</td></tr>
+<tr><td><strong>Marxismes hétérodoxes d'après-guerre</strong></td><td>Socialisme ou Barbarie en France, opéraïsme et autonomie en Italie, « marxisme libertaire » de Daniel Guérin.</td><td>Échanges nombreux avec les libertaires, notamment autour de l'autogestion et de Mai 68.</td></tr>
+</tbody>
+</table></div>
+<p><strong>Ce qui rapproche</strong> les libertaires de nombreux marxistes : la critique du capitalisme et de l'exploitation, la lutte des classes, l'internationalisme, la fin de l'État comme but lointain, et l'idée inscrite dans les statuts de l'Internationale en 1864 que l'émancipation des travailleurs doit être leur œuvre propre. <strong>Ce qui sépare</strong> : l'usage de l'État et des élections, le rôle d'un parti dirigeant, le centralisme, et la question de la transition. Le dossier <a href="communisme-libertaire-idees.html#voisins">Communisme libertaire</a> compare ces traditions sur la propriété et la répartition. Les dossiers de la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a> les présenteront chacune de l'intérieur.</p>
+
+<h2 id="debats">Les grands débats internes</h2>
+
+<h3 id="violence">La violence</h3>
+<p>C'est le débat le plus douloureux. Dans les années 1880-1890, une minorité pratique les attentats individuels au nom de la « propagande par le fait ». Beaucoup d'anarchistes, comme Malatesta ou Kropotkine, refusent de condamner publiquement les auteurs, qu'ils voient comme des révoltés poussés par la misère et la répression, tout en jugeant ces actes inutiles ou nuisibles. Les tolstoïens refusent toute violence ; d'autres distinguent la violence de masse de l'insurrection et l'attentat individuel ; d'autres encore défendent l'autodéfense armée, comme en Ukraine ou en Espagne. Le dossier <a href="../experiences/action-directe-groupe.html">Le groupe Action directe</a> montre comment ce débat a ressurgi en France dans les années 1980.</p>
+
+<h3 id="guerre">La guerre et la patrie</h3>
+<p>L'antimilitarisme est un principe central (<a href="../bibliotheque/la-guerre-kropotkine.html">La Guerre</a> de Kropotkine, <a href="../bibliotheque/betail-patriotique.html">Le Bétail patriotique</a>). Pourtant, en 1916, Kropotkine et Jean Grave signent le Manifeste des Seize en faveur des Alliés, pour qui une victoire allemande serait pire que tout. Malatesta leur répond qu'aucun anarchiste ne peut soutenir un gouvernement en guerre. La grande majorité du mouvement lui donne raison, mais la rupture entre vieux amis est définitive.</p>
+
+<h3 id="participation">Participer au pouvoir pour sauver la révolution ?</h3>
+<p>Fin septembre 1936, la CNT entre au gouvernement de la Generalitat de Catalogne. Le 4 novembre 1936, en pleine guerre contre Franco, quatre militants de la CNT, dont <strong>Federica Montseny</strong> et <strong>Juan García Oliver</strong>, entrent au gouvernement de la République dirigé par le socialiste Francisco Largo Caballero. Pour leurs défenseurs, c'était le seul moyen d'obtenir des armes, de protéger les collectivités et de ne pas laisser le pouvoir aux communistes ; pour leurs critiques, comme le groupe des Amis de Durruti, c'était abandonner la révolution. Les historiens restent partagés : certains y voient une capitulation qui a désarmé la révolution, d'autres un choix contraint par une guerre que la CNT ne pouvait pas gagner seule. Le dossier <a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes de la révolution</a> présente ces positions.</p>
+
+<h3 id="nation">Libération nationale et anticolonialisme</h3>
+<p>Les anarchistes refusent l'État-nation, mais de nombreux militants des pays colonisés ont combattu pour l'indépendance. Faut-il soutenir une lutte de libération nationale qui risque de créer un nouvel État ? Des militants comme Shin Chae-ho en Corée, Flores Magón au Mexique ou Saïl Mohamed en Algérie ont cherché à lier libération du peuple et refus de nouveaux maîtres ; d'autres anarchistes européens se sont contentés de dénoncer la colonisation de loin. Les travaux récents (Anderson, Hirsch et van der Walt) montrent que la place de l'anticolonialisme dans l'anarchisme a longtemps été sous-estimée.</p>
+
+<h3 id="feminisme">Le féminisme et les contradictions</h3>
+<p>Proudhon défendait l'autorité du père et du mari, et voyait la femme comme « ménagère ou courtisane » ; Déjacque le lui reproche dès 1857. Au XX<sup>e</sup> siècle, Emma Goldman, les rédactrices de <cite>La Voz de la Mujer</cite> ou <strong>Mujeres Libres</strong> en Espagne dénoncent le sexisme de leurs propres camarades, qui renvoient souvent la libération des femmes à « après la révolution » (<a href="../bibliotheque/anarchisme-et-question-sexuelle.html">L'Anarchisme et la question sexuelle</a>, <a href="../bibliotheque/le-mariage-mauvaise-action.html">Le Mariage est une mauvaise action</a>). Voir le parcours <a href="../universite/feminisme-anarchisme.html">Féminisme et anarchisme</a>.</p>
+
+<h3 id="zones-ombre">Les zones d'ombre des fondateurs</h3>
+<p>Les carnets de Proudhon et plusieurs textes de Bakounine contiennent des passages antisémites, et l'antisémitisme a eu des échos dans une partie de la gauche du XIX<sup>e</sup> siècle, anarchistes compris. Ces passages ne sont pas des détails : les historiens et les anarchistes d'aujourd'hui les étudient et les condamnent, sans en faire le cœur de ces pensées. Les portraits des <a href="../figures/index.html">Figures</a> ont chacun une partie « zones d'ombre ».</p>
+
+<h2 id="a-lire">Textes pour aller au fond des idées</h2>
+<ul>
+<li><a href="../bibliotheque/l-anarchie-malatesta.html">L'Anarchie</a> de Malatesta : la meilleure introduction en quelques pages.</li>
+<li><a href="../bibliotheque/dieu-et-l-etat.html">Dieu et l'État</a> de Bakounine : l'autorité religieuse et politique.</li>
+<li><a href="../bibliotheque/entraide.html">L'Entraide</a> de Kropotkine : la coopération comme facteur de l'évolution.</li>
+<li><a href="../bibliotheque/principes-anarchisme-parsons.html">Les Principes de l'anarchisme</a> de Lucy Parsons : l'anarchisme expliqué aux plus pauvres.</li>
+<li><a href="../bibliotheque/l-unique-et-sa-propriete.html">L'Unique et sa propriété</a> de Stirner : l'individualisme radical.</li>
+<li><a href="../livres/dix-questions-anarchisme.html">Dix questions sur l'anarchisme</a> : le livre d'aujourd'hui pour débuter, en entier sur le site.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>L'Anarchisme</cite></b>, Édouard Jourdain, La Découverte, coll. Repères, 2013.<span>Les « dénominateurs communs » de l'anarchisme et ses courants, en peu de pages.</span></li>
+<li><b><cite>L'Anarchisme. De la doctrine à l'action</cite></b>, Daniel Guérin, Gallimard, 1965.<span>Les idées du mouvement social, de Proudhon à l'Espagne.</span></li>
+<li><b><cite>Ni Dieu ni Maître. Anthologie de l'anarchisme</cite></b>, Daniel Guérin (dir.).<span>Les textes fondateurs, de Stirner aux anarchistes espagnols.</span></li>
+<li><b><cite>Demanding the Impossible: A History of Anarchism</cite></b>, Peter Marshall, HarperCollins, 1992.<span>En anglais : une histoire des idées très complète, courant par courant.</span></li>
+<li><b><cite>Black Flame</cite></b>, Michael Schmidt et Lucien van der Walt, AK Press, 2009.<span>En anglais : une thèse discutée, qui place le syndicalisme et le monde colonial au centre de l'histoire anarchiste.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/introduction-anarchisme.html">Introduction à l'anarchisme</a><span>Le parcours de l'université populaire, module par module.</span></li>
+<li><a href="../universite/communisme-libertaire.html">Communisme libertaire</a><span>Le parcours sur le courant de Kropotkine.</span></li>
+<li><a href="../universite/anarchosyndicalisme.html">Anarchosyndicalisme</a><span>Le parcours sur les syndicats libertaires.</span></li>
+<li><a href="../glossaire.html">Le glossaire</a><span>Mandat impératif, plateformisme, préfiguration, action directe…</span></li>
+</ul></section>
+<section><h3>Textes et archives en ligne</h3><ul>
+<li><a href="https://theanarchistlibrary.org/library/errico-malatesta-pro-government-anarchists" rel="noopener">« Pro-Government Anarchists », Malatesta, 1916</a><span>La réponse au Manifeste des Seize, en anglais.</span></li>
+</ul></section>
+<section><h3>Pour s'orienter</h3><ul>
+<li>Wikipédia<span>Un point de départ pour se repérer, pas une référence : les faits de ce dossier s'appuient sur les ouvrages et les textes cités plus haut.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Communisme_libertaire" rel="noopener">Le communisme libertaire</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_individualiste" rel="noopener">L'anarchisme individualiste</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mutuellisme" rel="noopener">Le mutuellisme</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarcho-syndicalisme" rel="noopener">L'anarcho-syndicalisme</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarchisme_sans_adjectif" rel="noopener">L'anarchisme sans adjectifs</a><span>Tarrida del Mármol, Mella, de Cleyre.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Plateformisme" rel="noopener">Le plateformisme</a><span>La Plateforme de 1926 et ses suites.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Synth%C3%A8se_anarchiste" rel="noopener">La synthèse anarchiste</a><span>Voline et Sébastien Faure.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Propagande_par_le_fait" rel="noopener">La propagande par le fait</a><span>L'histoire de l'expression et de ses usages.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Manifeste_des_Seize" rel="noopener">Le Manifeste des Seize</a><span>1916, et la réponse de Malatesta.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Anarcho-capitalisme" rel="noopener">L'anarcho-capitalisme</a><span>Pour comprendre la confusion, sur Wikipédia.</span></li>
+</ul></section>
+</div>
+
+=== anarchisme-heritages | Anarchisme | L'anarchisme en actes : expériences, échecs et héritages | Monde · depuis 1840 | Communes, collectivités, écoles libres, syndicats, journaux : ce que les anarchistes ont réellement construit. Leurs défaites, leurs contradictions, les critiques qu'on leur a faites, et ce qu'il en reste dans les luttes d'aujourd'hui.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande. Les faits viennent des sources citées en bas de page ; les jugements sont signalés comme tels.</p>
+<p>On reproche souvent à l'anarchisme d'être une belle idée jamais appliquée. C'est faux : des millions de personnes ont vécu, parfois pendant des années, dans des structures organisées selon des principes libertaires. Mais ces expériences ont presque toutes été écrasées, et plusieurs ont révélé de vraies contradictions. Cette page fait le bilan, sans rien cacher. Elle complète l'<a href="anarchisme-histoire.html">histoire</a> et les <a href="anarchisme-idees.html">idées</a>.</p>
+
+<h2 id="experiences">Les grandes expériences</h2>
+<p>Chacune a son dossier complet dans <a href="../experiences/index.html">Histoire des luttes</a>. Ici, ce qui compte pour comprendre l'anarchisme.</p>
+<div class="tbl"><table>
+<thead><tr><th>Où et quand</th><th>Ce qui a été fait</th><th>Comment ça a fini</th></tr></thead>
+<tbody>
+<tr><td><a href="../experiences/commune-de-paris-histoire.html">Commune de Paris</a>, 1871</td><td>Élus révocables payés comme des ouvriers, ateliers coopératifs, rôle des femmes. Pas anarchiste, mais une source d'inspiration majeure.</td><td>Semaine sanglante, des milliers de morts.</td></tr>
+<tr><td>Basse-Californie, 1911</td><td>Insurrection magoniste, avec l'appui d'IWW américains, au nom de « Terre et liberté ».</td><td>Défaite militaire en quelques mois ; les dirigeants finissent en prison aux États-Unis.</td></tr>
+<tr><td><a href="../experiences/makhno-histoire.html">Ukraine</a>, 1917-1921</td><td>Terres reprises, congrès régionaux libres, armée insurrectionnelle de volontaires.</td><td>Écrasée par l'Armée rouge.</td></tr>
+<tr><td><a href="../experiences/espagne-1936-histoire.html">Espagne</a>, 1936-1939</td><td>Collectivisation de terres et d'usines en Catalogne, en Aragon, au Levant, milices, Mujeres Libres. Des centaines de milliers de personnes concernées, selon des estimations très variables.</td><td>Affaiblie par les conflits du camp républicain (journées de mai 1937, dissolution du Conseil d'Aragon), par les compromis de la CNT et par la guerre ; victoire de Franco (voir <a href="communisme-libertaire-heritages.html#mai-1937">mai 1937</a>).</td></tr>
+<tr><td>Mandchourie, fin des années 1920</td><td>Région coréenne autogérée décrite par des sources militantes.</td><td>Disparaît vers 1931, après l'assassinat de ses animateurs et l'invasion japonaise. Faits encore mal établis.</td></tr>
+<tr><td><a href="../experiences/mai-68-histoire.html">Mai 68</a> et après</td><td>Assemblées, comités d'action, occupations. Pas un mouvement anarchiste, mais imprégné de pratiques libertaires.</td><td>Retour à l'ordre après Grenelle et les élections de juin.</td></tr>
+<tr><td><a href="../experiences/zapatistes-histoire.html">Chiapas</a>, depuis 1994 ; <a href="../experiences/rojava-histoire.html">Rojava</a>, depuis 2012</td><td>Territoires autogouvernés qui ne se disent pas anarchistes mais dialoguent avec l'anarchisme.</td><td>Toujours debout, sous la menace.</td></tr>
+</tbody>
+</table></div>
+
+<h2 id="realisations">Ce que les anarchistes ont construit au quotidien</h2>
+<p>Au-delà des révolutions, le mouvement a créé un monde de structures durables, souvent oubliées :</p>
+<ul>
+<li><strong>Des écoles libres.</strong> L'orphelinat de Cempuis, dirigé par Paul Robin de 1880 à 1894, pratique la coéducation des filles et des garçons et l'<a href="../bibliotheque/education-integrale.html">éducation intégrale</a>. L'<strong>École moderne</strong> de Francisco Ferrer, ouverte à Barcelone en 1901, inspire des dizaines d'écoles ; Ferrer est fusillé en 1909, ce qui provoque des manifestations dans toute l'Europe. Sébastien Faure fonde La Ruche (1904-1917) près de Rambouillet.</li>
+<li><strong>Des syndicats</strong> qui ont organisé des millions de travailleuses et de travailleurs : CGT d'avant 1914, CNT, FORA, USI, et des grèves qui ont arraché la journée de huit heures.</li>
+<li><strong>Une presse immense</strong>, en des dizaines de langues (voir le tableau plus bas).</li>
+<li><strong>Des athénées, bibliothèques et universités populaires</strong>, qui ont appris à lire et à penser à des générations d'ouvriers (voir le parcours <a href="../universite/education-populaire.html">Éducation populaire</a>).</li>
+<li><strong>Des coopératives, des colonies et des « milieux libres »</strong>, plus ou moins durables, en Europe et en Amérique.</li>
+<li><strong>Des caisses de solidarité</strong> pour les grévistes, les prisonniers et les exilés : la pratique de l'<a href="../bibliotheque/entraide.html">entraide</a> concrète (voir la fiche <a href="../agir/caisse-de-solidarite.html">Caisse de solidarité</a>).</li>
+</ul>
+
+<h2 id="organisations">Organisations et journaux qui ont compté</h2>
+<div class="tbl"><table>
+<thead><tr><th>Nom</th><th>Où</th><th>Dates</th><th>Ce que c'est</th></tr></thead>
+<tbody>
+<tr><td>Internationale anti-autoritaire</td><td>Europe</td><td>1872-1877</td><td>Les fédérations qui refusent l'exclusion de Bakounine.</td></tr>
+<tr><td><cite>Le Révolté</cite>, puis <cite>La Révolte</cite> et <cite>Les Temps nouveaux</cite></td><td>Genève, Paris</td><td>à partir de 1879</td><td>Le journal de Kropotkine, puis de Jean Grave.</td></tr>
+<tr><td><cite>Freedom</cite></td><td>Londres</td><td>depuis 1886</td><td>Journal fondé par Kropotkine et Charlotte Wilson.</td></tr>
+<tr><td><cite>Le Père Peinard</cite></td><td>Paris</td><td>à partir de 1889</td><td>Le journal en argot d'Émile Pouget.</td></tr>
+<tr><td><cite>Le Libertaire</cite></td><td>Paris</td><td>à partir de 1895</td><td>Fondé par Sébastien Faure et Louise Michel.</td></tr>
+<tr><td><cite>La Protesta</cite></td><td>Buenos Aires</td><td>depuis 1897</td><td>Grand journal communiste anarchiste, lié à la FORA.</td></tr>
+<tr><td><cite>Regeneración</cite></td><td>Mexique, puis États-Unis</td><td>à partir de 1900</td><td>Le journal des frères Flores Magón.</td></tr>
+<tr><td>FORA</td><td>Argentine</td><td>depuis 1901</td><td>Fédération syndicale communiste anarchiste.</td></tr>
+<tr><td>IWW</td><td>États-Unis, puis monde</td><td>depuis 1905</td><td>Syndicalisme révolutionnaire « un seul grand syndicat ».</td></tr>
+<tr><td><cite>Mother Earth</cite></td><td>New York</td><td>1906-1917</td><td>La revue d'Emma Goldman et d'Alexander Berkman.</td></tr>
+<tr><td>CNT</td><td>Espagne</td><td>depuis 1910</td><td>La plus grande organisation anarcho-syndicaliste de l'histoire.</td></tr>
+<tr><td><cite>Umanità Nova</cite></td><td>Italie</td><td>depuis 1920</td><td>Quotidien fondé par Malatesta.</td></tr>
+<tr><td>AIT (anarcho-syndicaliste)</td><td>Berlin, puis monde</td><td>depuis 1922-1923</td><td>L'internationale des syndicats libertaires.</td></tr>
+<tr><td>FAI</td><td>Espagne et Portugal</td><td>depuis 1927</td><td>Fédération anarchiste ibérique.</td></tr>
+<tr><td>Mujeres Libres</td><td>Espagne</td><td>1936-1939</td><td>Organisation de femmes libertaires ; environ 20 000 membres selon l'estimation la plus citée.</td></tr>
+<tr><td>Fédération anarchiste, <cite>Le Monde libertaire</cite></td><td>France</td><td>depuis 1945 et 1954</td><td>La principale fédération synthésiste française.</td></tr>
+<tr><td>Internationale des fédérations anarchistes</td><td>Europe, Amérique latine</td><td>depuis 1968</td><td>Fondée à Carrare.</td></tr>
+</tbody>
+</table></div>
+
+<h2 id="echecs">Échecs et contradictions</h2>
+<p>La bande à Mamie ne veut pas d'une histoire de saints. Voici ce que les historiens, et beaucoup d'anarchistes eux-mêmes, retiennent comme faiblesses :</p>
+<ul>
+<li><strong>La défaite militaire.</strong> Presque toutes les grandes expériences ont été écrasées par des armées mieux organisées, souvent avec l'aide d'autres révolutionnaires (bolcheviks en Ukraine, communistes en Espagne). La question de la défense d'une révolution sans armée hiérarchique n'a jamais été résolue.</li>
+<li><strong>Les attentats des années 1890</strong> ont tué des innocents, comme les clients du café Terminus, ont servi de prétexte aux lois scélérates et ont durablement associé l'anarchisme à la bombe.</li>
+<li><strong>Les compromis de 1936-1937.</strong> La participation de la CNT au gouvernement n'a ni sauvé la révolution ni gagné la guerre. Pendant les journées de mai 1937 à Barcelone, ses ministres et ses dirigeants appellent à déposer les armes, contre une partie de leur propre base. Pour les uns, ils ont évité une guerre civile dans la guerre civile ; pour les autres, ils ont laissé faire la répression qui a suivi (voir <a href="communisme-libertaire-heritages.html#mai-1937">mai 1937</a>).</li>
+<li><strong>Des violences dans les révolutions.</strong> En Espagne, à l'été 1936, des milliers de personnes, dont beaucoup de prêtres et de religieux, sont tuées à l'arrière par des groupes révolutionnaires de toutes tendances, anarchistes compris, dans la zone républicaine. Des militants anarchistes, comme Joan Peiró, les ont dénoncées à l'époque. Les historiens (Paul Preston, Julián Casanova) discutent de la part de violence spontanée et de violence organisée par des comités ; ils rappellent aussi que la répression dans le camp franquiste fut plus massive et plus systématique, ce qui n'excuse pas les crimes commis dans le camp républicain. En Ukraine, les accusations de pogroms contre les makhnovistes viennent surtout des historiographies soviétique et nationaliste ; les militants makhnovistes (Archinov, Voline) et le biographe Alexandre Skirda soulignent que les makhnovistes ont fusillé des auteurs de pogroms, comme le chef de guerre Grigoriev en juillet 1919. Les études universitaires (Michael Malet, 1982) ont réexaminé la question, mais tous les épisodes ne sont pas éclaircis.</li>
+<li><strong>Le sexisme dans les rangs</strong>, dénoncé par Mujeres Libres et les anarcha-féministes (voir <a href="anarchisme-idees.html#feminisme">les idées</a>).</li>
+<li><strong>La faiblesse dans les colonies</strong> : le mouvement européen a souvent dénoncé la colonisation sans s'organiser avec les colonisés.</li>
+<li><strong>Les divisions</strong> : le mouvement s'est souvent épuisé en querelles entre courants et entre personnes, au point de laisser le terrain à d'autres.</li>
+</ul>
+
+<h2 id="critiques">Les critiques faites à l'anarchisme</h2>
+<p>Pour comprendre un mouvement, il faut aussi connaître les arguments de ses adversaires. Les principales critiques :</p>
+<ul>
+<li><strong>La critique marxiste.</strong> Dans <cite>De l'autorité</cite> (écrit en 1872), Engels soutient qu'une usine moderne et une révolution exigent toutes deux de l'autorité, et que les anarchistes refusent de voir cette réalité. Lénine, dans <cite>L'État et la Révolution</cite> (1917), leur reproche de vouloir abolir l'État du jour au lendemain. Les anarchistes répondent que l'histoire de l'URSS leur a donné raison (<a href="../bibliotheque/bolchevisme-et-anarchisme.html">Bolchevisme et anarchisme</a>). Tous les marxistes ne partagent pas ces critiques : Rosa Luxemburg et les communistes de conseils ont eux-mêmes reproché aux bolcheviks d'étouffer l'auto-organisation ouvrière (voir <a href="anarchisme-idees.html#marxismes">les différents marxismes</a>).</li>
+<li><strong>La critique libérale et conservatrice</strong> : sans État, la société retomberait dans la loi du plus fort. Kropotkine répond par <a href="../bibliotheque/entraide.html">L'Entraide</a> : la coopération est aussi naturelle que la lutte.</li>
+<li><strong>La critique de l'utopie</strong> : l'anarchisme décrirait une société idéale sans dire comment y arriver, ni comment gérer une économie complexe. Les anarchistes répondent par l'exemple des collectivités espagnoles et par la préfiguration.</li>
+<li><strong>Les critiques internes</strong> : féministes contre le sexisme du mouvement, militants des colonies contre son eurocentrisme, plateformistes contre son désordre, individualistes contre ses organisations.</li>
+<li><strong>La critique de la « tyrannie de l'absence de structure »</strong> : dans un texte écrit au début des années 1970 et devenu célèbre, la féministe américaine Jo Freeman montre que les groupes sans règles écrites ont quand même des chefs, mais invisibles et sans contrôle. Ce texte est très discuté dans les milieux libertaires.</li>
+</ul>
+
+<h2 id="influence">Ce qu'il en reste aujourd'hui</h2>
+<p>Les organisations anarchistes sont aujourd'hui petites. Mais beaucoup de pratiques nées dans le mouvement libertaire sont devenues courantes dans les luttes, souvent sans qu'on sache d'où elles viennent :</p>
+<ul>
+<li>les <strong>assemblées générales</strong> souveraines, les mandats, la rotation des tâches (voir <a href="../agir/tenir-une-ag.html">Tenir une AG</a> et <a href="../agir/decider-sans-chef.html">Décider sans chef</a>) ;</li>
+<li>l'<strong>action directe</strong> et la désobéissance, des grèves aux occupations (<a href="../experiences/action-directe-pratique.html">L'action directe</a>) ;</li>
+<li>les <strong>groupes affinitaires</strong> des manifestations et des mouvements écologistes ;</li>
+<li>l'<strong>autogestion</strong> et les coopératives (<a href="../universite/autogestion.html">Autogestion</a>) ;</li>
+<li>le <strong>municipalisme</strong> et le confédéralisme démocratique inspirés de Bookchin (<a href="../universite/communalisme-libertaire.html">Communalisme libertaire</a>) ;</li>
+<li>les <strong>zones autonomes</strong>, squats et ZAD (<a href="../bibliotheque/zone-autonome-temporaire.html">TAZ</a>, <a href="../experiences/zad-histoire.html">la ZAD</a>) ;</li>
+<li>une partie des sciences sociales : l'anthropologue David Graeber (<cite>Pour une anthropologie anarchiste</cite>, Lux, 2006) ou le politiste James C. Scott (<cite>Zomia, ou l'art de ne pas être gouverné</cite>, Seuil, 2013) ont relu l'histoire avec des questions anarchistes.</li>
+</ul>
+<p>Ce qui fait débat : pour certains, ces pratiques sont la preuve de la vitalité des idées anarchistes ; pour d'autres, elles se sont diluées dans des mouvements qui ne remettent en cause ni l'État ni le capitalisme. La bande à Mamie pense qu'on peut retenir les deux : les idées circulent, et c'est tant mieux, mais une idée qui oublie d'où elle vient perd souvent ce qu'elle avait de plus radical.</p>
+
+<h2 id="heritage">L'héritage politique</h2>
+<p>Ce que l'anarchisme a apporté au mouvement d'émancipation, au-delà de ses propres organisations :</p>
+<ul>
+<li>la critique du pouvoir <strong>dans les mouvements eux-mêmes</strong> : partis, syndicats, avant-gardes ;</li>
+<li>l'idée que <strong>les moyens doivent ressembler aux fins</strong> ;</li>
+<li>une critique précoce du <strong>totalitarisme soviétique</strong>, faite depuis la gauche ;</li>
+<li>la défense de l'<strong>amour libre</strong>, de la contraception et de l'éducation sans punitions, bien avant qu'elles soient acceptées ;</li>
+<li>un <strong>internationalisme</strong> concret, porté par des migrants qui n'avaient pas de patrie à défendre.</li>
+</ul>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>L'anarchisme est la porte d'entrée de la famille <a href="anarchistes-libertaires.html">anarchistes et libertaires</a>. La famille compte aussi les dossiers <a href="communisme-libertaire-histoire.html">Communisme libertaire</a>, <a href="anarcho-syndicalisme-histoire.html">Anarcho-syndicalisme</a>, <a href="communalisme-libertaire-histoire.html">Communalisme libertaire</a> et <a href="mouvement-autonome-histoire.html">Mouvement autonome</a>. L'anarchisme a aussi des cousins et des adversaires dans d'autres familles : <a href="socialistes-ouvriers.html">socialistes et ouvriers</a> (le débat avec Marx), <a href="feministes-liberation.html">féministes</a>, <a href="anticoloniaux-internationalistes.html">anticoloniaux et internationalistes</a>, <a href="ecologistes.html">écologistes</a>, <a href="etudiants-autonomes.html">étudiants et autonomes</a>.</p>
+
+<h2 id="lectures">Lectures et ressources complémentaires</h2>
+<p>Pour aller plus loin, dans l'ordre où la bande te le conseille :</p>
+<ol>
+<li><a href="../livres/dix-questions-anarchisme.html">Dix questions sur l'anarchisme</a>, en entier sur le site.</li>
+<li><a href="../bibliotheque/l-anarchie-malatesta.html">L'Anarchie</a> de Malatesta, en fiche de lecture et en texte original.</li>
+<li>Le parcours <a href="../universite/introduction-anarchisme.html">Introduction à l'anarchisme</a> de l'université populaire.</li>
+<li>La série <a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître</a>, dans la vidéothèque, à regarder à plusieurs.</li>
+<li>Les portraits des <a href="../figures/index.html">Figures de l'anarchisme</a>.</li>
+<li>Pour les archives : le <a href="../ressources/index.html">Centre de ressources</a> du site.</li>
+</ol>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>Histoire mondiale de l'anarchie</cite></b>, Gaetano Manfredonia, Textuel et Arte éditions, 2014.<span>Les expériences, sur tous les continents.</span></li>
+<li><b><cite>Le Mouvement anarchiste en France</cite></b>, Jean Maitron, Maspero, 1975 (rééd. Gallimard, coll. Tel).<span>Les attentats, les syndicats, la presse et les milieux libres en France.</span></li>
+<li><b><cite>Pour une anthropologie anarchiste</cite></b>, David Graeber, Lux, 2006.<span>Un court essai sur ce que l'anthropologie apprend aux anarchistes, et l'inverse.</span></li>
+<li><b><cite>Zomia, ou l'art de ne pas être gouverné</cite></b>, James C. Scott, Seuil, 2013.<span>Les peuples des montagnes d'Asie du Sud-Est qui ont fui l'État pendant des siècles.</span></li>
+<li><b><cite>Les Bannières de la révolte</cite></b>, Benedict Anderson, La Découverte, 2009.<span>L'anarchisme et les luttes anticoloniales à Cuba et aux Philippines.</span></li>
+<li><b><cite>The Spanish Holocaust</cite></b>, Paul Preston, HarperPress, 2012.<span>En anglais : les violences dans les deux camps de la guerre d'Espagne, y compris dans la zone républicaine.</span></li>
+<li><b><cite>Anarchism, the Republic and Civil War in Spain, 1931-1939</cite></b>, Julián Casanova, Routledge, 2005.<span>En anglais : la CNT, ses choix et ses divisions, par un historien de l'université de Saragosse.</span></li>
+<li><b><cite>Nestor Makhno in the Russian Civil War</cite></b>, Michael Malet, Macmillan, 1982.<span>En anglais : l'étude universitaire du mouvement makhnoviste.</span></li>
+<li><b><cite>Free Women of Spain</cite></b>, Martha Ackelsberg, Indiana University Press, 1991.<span>En anglais : Mujeres Libres et la critique du sexisme dans le mouvement.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes de la révolution</a><span>Le débat sur la participation au gouvernement.</span></li>
+<li><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks</a><span>Cronstadt, la Tchéka et la dictature du parti.</span></li>
+<li><a href="../experiences/action-directe-groupe.html">Le groupe Action directe et la critique libertaire</a><span>La violence armée vue par les libertaires.</span></li>
+<li><a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a><span>La mémoire de la révolution espagnole.</span></li>
+</ul></section>
+<section><h3>Textes et archives en ligne</h3><ul>
+<li><a href="https://maitron.fr/" rel="noopener">Le Maitron</a><span>Pour retrouver la biographie des militantes et militants cités.</span></li>
+</ul></section>
+<section><h3>Pour s'orienter</h3><ul>
+<li>Wikipédia<span>Un point de départ pour se repérer, pas une référence : les faits de ce dossier s'appuient sur les ouvrages et les textes cités plus haut.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Escuela_Moderna" rel="noopener">L'École moderne de Ferrer</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Mujeres_Libres" rel="noopener">Mujeres Libres</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Internationale_des_f%C3%A9d%C3%A9rations_anarchistes" rel="noopener">L'Internationale des fédérations anarchistes</a><span>Sur Wikipédia.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Le_Libertaire" rel="noopener">Le Libertaire</a><span>Le journal de Sébastien Faure et Louise Michel.</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Shinmin_Prefecture" rel="noopener">La « préfecture de Shinmin »</a><span>En anglais : ce qu'on en sait et ce qui reste incertain.</span></li>
+</ul></section>
+</div>

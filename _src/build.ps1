@@ -42,6 +42,7 @@ $familles = @(
     @("bibliotheque", "bibliotheque/index.html", "Bibliothèque", "Livres en entier, fiches de lecture et centre de ressources", "bibliotheque/|livres/|lecteur|ressources/"),
     @("theorie", "apprendre.html#theorie", "Théorie politique", "Par où commencer, l'État, la propriété, la révolution", "commencer"),
     @("luttes", "experiences/index.html", "Histoire des luttes", "Commune, Espagne 36, Mai 68, MLAC, ZAD, action directe…", "experiences/"),
+    @("encyclopedie", "encyclopedie/index.html", "Encyclopédie des mouvements", "Anarchistes, socialistes, féministes, anticoloniaux… : histoire, idées, héritages", "encyclopedie/"),
     @("universite", "universite/index.html", "Université populaire", "Parcours, chronologie, figures et glossaire", "universite/"),
     @("figures", "figures/index.html", "Figures historiques", "Portraits de penseuses, penseurs, militantes et militants", "figures/"),
     @("glossaire", "glossaire.html", "Glossaire", "Les mots de l'anarchisme, expliqués simplement", "glossaire"),
@@ -102,9 +103,9 @@ $menu = @(
     @("bibliotheque/index.html", "Livres et fiches de lecture", "Les classiques en entier, et l'essentiel en quelques pages"),
     @("experiences/index.html", "Histoire des luttes", "De la Commune aux ronds-points"),
     @("universite/index.html", "Université populaire", "Des parcours pour apprendre à son rythme"),
-    @("ressources/index.html", "Centre de ressources", "Archives, brochures, podcasts, sites"),
+    @("encyclopedie/index.html", "Encyclopédie des mouvements", "Histoire, idées et héritages des mouvements"),
     @("apprendre.html", "Tout pour apprendre", "Théorie, figures, glossaire, culture militante"))
-    cles = "apprendre bibliotheque theorie luttes universite figures glossaire" },
+    cles = "apprendre bibliotheque theorie luttes encyclopedie universite figures glossaire" },
   [ordered]@{ id = "videotheque"; nom = "Vidéothèque"; page = "videos.html"; dit = "Documentaires et vidéos de Mamie"; liens = @(); cles = "videos" },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; page = "s-organiser.html"; dit = "Une lutte, ça se prépare à plusieurs"; liens = @(
     @("agir/tenir-une-ag.html", "Tenir une AG", "Et décider sans chef"),
@@ -134,7 +135,7 @@ $mamieDit = @{ bibliotheque = "Les livres se prêtent, les idées se partagent."
   organiser = "Une lutte, ça se prépare à plusieurs."; defendre = "Connaître ses droits, c'est déjà se défendre."
   lieux = "On s'organise entre camarades, souvent à deux rues de chez soi."; entraide = "Sers-toi, et rends quand tu peux."; "" = "Sers-toi, imprime, fais tourner." }
 $tampons = @{ "Guide numérique" = "Fais tourner"; "Fiche de lecture" = "Lu par la bande"; "Histoire de lutte" = "Mémoire des luttes"; "Fiche pratique" = "Sers-toi"
-  "Guide pratique" = "Dans le cabas"; "Guide juridique" = "Droit français"; "Dossier antifasciste" = "No pasarán"; "Portrait" = "Portrait"; "Parcours" = "Université populaire" }
+  "Guide pratique" = "Dans le cabas"; "Guide juridique" = "Droit français"; "Dossier antifasciste" = "No pasarán"; "Portrait" = "Portrait"; "Parcours" = "Université populaire"; "Dossier encyclopédique" = "Encyclopédie" }
 function Entree-De($cle) { foreach ($e in $menu) { if (($e.cles -split ' ') -contains $cle) { return $e } }; return $null }
 
 # Les trois familles en grandes colonnes, pour l'accueil.
@@ -233,13 +234,33 @@ function Read-Collection($dir) {
   return $items
 }
 
+# ---------- encyclopédie des mouvements : lue avant les autres rubriques ----------
+# Dossiers : _src/encyclopedie/*.txt (même format que les Histoires de luttes ; la catégorie = le nom du mouvement,
+# trois pages par mouvement, dans l'ordre Histoire, Idées, Héritages). Familles : _src/encyclopedie/familles.json.
+# Chaque page du site vers laquelle un dossier renvoie (portrait, lutte, fiche, parcours…) reçoit en retour
+# un encadré « Dans l'encyclopédie des mouvements » : les liens vont dans les deux sens, sans les écrire deux fois.
+$ency = @(Read-Collection "encyclopedie")
+$encyFam = @(((Read-Utf8 (Join-Path $src "encyclopedie\familles.json")) | ConvertFrom-Json).familles)
+$encyRetour = @{}
+foreach ($g in $ency) {
+  foreach ($m in [regex]::Matches($g.html, 'href="\.\./((?:figures|experiences|bibliotheque|universite|antifascisme|agir|manif|guides)/[a-z0-9-]+)\.html')) {
+    $cible = "$($m.Groups[1].Value).html"
+    if (-not $encyRetour[$cible]) { $encyRetour[$cible] = [ordered]@{} }
+    $encyRetour[$cible][$g.slug] = $g
+  }
+}
+function Famille-De-Mouvement($nom) { foreach ($f in $encyFam) { foreach ($mv in $f.mouvements) { if ($mv.nom -eq $nom) { return $f } } }; return $null }
+# Onglets d'un dossier : <!-- onglet : Nom --> en tête du texte, sinon le nom habituel selon la place de la page.
+$ongletsDefaut = @("Histoire et origines", "Idées et théories", "Expériences et héritages")
+function Onglet-De($g, $rang) { $o = [regex]::Match($g.html, '^\s*<!--\s*onglet\s*:\s*(.*?)\s*-->'); if ($o.Success) { return $o.Groups[1].Value }; if ($rang -lt 3) { return $ongletsDefaut[$rang] }; return $g.title }
+
 # La voix du site : Mamie et sa bande présentent chaque fiche (petite accroche au-dessus du titre, une par rubrique).
 $accroches = @{
   "guides" = "L'atelier de la bande à Mamie"; "bibliotheque" = "Mamie a lu pour toi"; "experiences" = "Mamie raconte"
-  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"; "universite" = "L'université populaire de Mamie"; "figures" = "Mamie les a connus (ou presque)"
+  "antifascisme" = "La bande à Mamie contre l'extrême droite"; "manif" = "Dans le cabas de Mamie"; "agir" = "La bande à Mamie s'organise"; "universite" = "L'université populaire de Mamie"; "figures" = "Mamie les a connus (ou presque)"; "encyclopedie" = "L'encyclopédie de la bande à Mamie"
 }
 # Type de contenu affiché sur chaque page (et dans la recherche) : chaque rubrique a son modèle de page (classe gpage--dossier).
-$types = @{ "universite" = "Parcours"; "figures" = "Portrait"; "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
+$types = @{ "encyclopedie" = "Dossier encyclopédique"; "universite" = "Parcours"; "figures" = "Portrait"; "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
 function Type-De($folder, $g) { if ($folder -eq "manif" -and $g.cat -eq "Legal Team") { return "Guide juridique" }; return $types[$folder] }
 function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
   $accroche = $accroches[$folder]
@@ -263,6 +284,24 @@ function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar)
     $aussi = ""
     if ($voisins.Count) { $aussi = "<section class=""aussi"" aria-labelledby=""aussi-tit""><h2 id=""aussi-tit"" class=""aussi__tit"">À lire aussi · $(Esc $g.cat)</h2><ul>" + (($voisins | ForEach-Object { "<li><a href=""$($_.slug).html""><b>$(Esc $_.title)</b><span>$(Esc $_.sum)</span></a></li>" }) -join "") + "</ul></section>" }
     $navPage = (Famille-De-Adresse "$folder/$($g.slug).html")[2]; if (-not $navPage) { $navPage = $nav }
+    # Encyclopédie : barre 1 · 2 · 3 entre les pages du même mouvement, et famille dans les étiquettes.
+    $ongletsHtml = ""
+    if ($folder -eq "encyclopedie") {
+      $soeurs = @($items | Where-Object { $_.cat -eq $g.cat })
+      $ongletsHtml = "<nav class=""dossier-nav"" aria-label=""Les pages du dossier $(Esc $g.cat)""><ol>"
+      for ($k = 0; $k -lt $soeurs.Count; $k++) {
+        $o = Esc (Onglet-De $soeurs[$k] $k)
+        if ($soeurs[$k].slug -eq $g.slug) { $ongletsHtml += "<li><a href=""$($g.slug).html"" aria-current=""page""><span>$($k + 1)</span>$o</a></li>" }
+        else { $ongletsHtml += "<li><a href=""$($soeurs[$k].slug).html""><span>$($k + 1)</span>$o</a></li>" }
+      }
+      $ongletsHtml += "</ol></nav>"
+      $fm = Famille-De-Mouvement $g.cat
+      if ($fm) { $meta = $meta.Replace("<span>$(Esc $g.cat)</span>", "<span>$(Esc $fm.court)</span><span>$(Esc $g.cat)</span>") }
+    }
+    # Retour depuis l'encyclopédie : les dossiers qui renvoient vers cette page.
+    $retour = ""
+    $rv = $encyRetour["$folder/$($g.slug).html"]
+    if ($rv) { $retour = "<aside class=""ency-renvoi"" aria-labelledby=""ency-$($g.slug)""><h2 id=""ency-$($g.slug)"" class=""ency-renvoi__tit"">Dans l'encyclopédie des mouvements</h2><ul>" + (($rv.Values | ForEach-Object { "<li><a href=""../encyclopedie/$($_.slug).html""><b>$(Esc $_.cat) · $(Esc $_.title)</b><span>$(Esc $_.sum)</span></a></li>" }) -join "") + "</ul></aside>" }
     $body = @"
 <header class="gtitle gtitle--$folder"><div class="wrap">
   <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">$label</a><span>/</span><a href="index.html#$(Slug $g.cat)">$(Esc $g.cat)</a></p>
@@ -270,10 +309,12 @@ function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar)
   <h1>$(Esc $g.title)</h1>
   <p class="lead">$(Esc $g.sum)</p>
   <div class="gmeta">$meta</div>
+  $ongletsHtml
 </div></header>
 <div class="wrap glayout gpage--$folder">
   <article class="prose">
 $($g.html)
+  $retour
 $(if ($g.html -match 'class="credit"') { "" } else { $credit })
   $aussi
   <nav class="gnext" aria-label="Pages voisines">$nav2</nav>
@@ -281,7 +322,7 @@ $(if ($g.html -match 'class="credit"') { "" } else { $credit })
   <aside class="toc"><h2>Dans cette page</h2><ol>$toc</ol></aside>
 </div>
 "@
-    $title = $g.title; if ($g.by) { $title += " — " + ($g.by -split ' · ')[0] }
+    $title = $g.title; if ($folder -eq "encyclopedie") { $title += " · Encyclopédie des mouvements" } elseif ($g.by) { $title += " — " + ($g.by -split ' · ')[0] }
     Write-Utf8 (Join-Path $site "$folder\$($g.slug).html") (Render-Page "../" $navPage "$title · Mamie Commune" $g.sum $body "")
   }
   $js = "// Généré par _src/build.ps1 — ne pas modifier à la main.`nwindow.$jsVar = [`n"
@@ -444,14 +485,67 @@ Build-Collection $figures "figures" "figures" "Figures de l'anarchisme" "Portrai
 $universite = @(Read-Collection "universite")
 Build-Collection $universite "universite" "universite" "Université populaire" "Parcours" '<p class="credit">Parcours préparé par la bande à Mamie à partir des pages, livres et ressources vérifiées du site. Libre de reproduction.</p>' "UNIVERSITE"
 
+# ---------- encyclopédie des mouvements : dossiers, pages de famille, données des filtres ----------
+Build-Collection $ency "encyclopedie" "encyclopedie" "Encyclopédie des mouvements" "Dossier" '<p class="credit">Dossier rédigé par la bande à Mamie à partir des textes originaux et des travaux d''historiennes et d''historiens cités en sources. Libre de reproduction.</p>' "ENCYCLOPEDIE"
+# Les filtres de la page d'accueil de l'encyclopédie se font par famille (le mouvement reste dans la signature de la carte).
+$jsE = "// Généré par _src/build.ps1 depuis _src/encyclopedie/ — ne pas modifier à la main.`nwindow.ENCYCLOPEDIE = [`n"
+$jsE += ($ency | ForEach-Object { $fm = Famille-De-Mouvement $_.cat; if (-not $fm) { Write-Warning "Encyclopédie : le mouvement « $($_.cat) » n'est dans aucune famille de familles.json" }
+  "  { slug: $(JsStr $_.slug), cat: $(JsStr $(if ($fm) { $fm.court } else { 'Autres' })), t: $(JsStr $_.title), by: $(JsStr $_.cat), d: $(JsStr $_.sum) }" }) -join ",`n"
+Write-Utf8 (Join-Path $site "data\encyclopedie.js") ($jsE + "`n];`n")
+function Liens-Mouvement($mv, $root) {
+  # Un mouvement écrit : ses pages ; sinon « en préparation », sans lien (pas de rubrique fictive).
+  $pages = @($ency | Where-Object { $_.cat -eq $mv.nom })
+  if (-not $pages.Count) {
+    $vers = if ($mv.voir) { " <a href=""$root$($mv.voir[0])"">$(Esc $mv.voir[1]) →</a>" } else { "" }
+    return "<li class=""ency-mv ency-mv--prevu""><b>$(Esc $mv.nom)</b><span>Dossier en préparation.$vers</span></li>"
+  }
+  $h = "<li class=""ency-mv"" id=""$(Slug $mv.nom)""><a class=""ency-mv__nom"" href=""$root" + "encyclopedie/$($pages[0].slug).html"">$(Esc $mv.nom)</a><ol>"
+  for ($k = 0; $k -lt $pages.Count; $k++) { $h += "<li><a href=""$root" + "encyclopedie/$($pages[$k].slug).html""><span>$($k + 1)</span>$(Esc (Onglet-De $pages[$k] $k))</a></li>" }
+  return $h + "</ol></li>"
+}
+$encyIndex = "<div class=""ency-fams"">"
+foreach ($f in $encyFam) {
+  $nb = @($ency | Where-Object { (Famille-De-Mouvement $_.cat).id -eq $f.id } | ForEach-Object { $_.cat } | Select-Object -Unique).Count
+  $encyIndex += "<section class=""ency-fam"" aria-labelledby=""fam-$($f.id)""><p class=""ency-fam__n"">Famille $($f.rang)</p><h3 id=""fam-$($f.id)""><a href=""$($f.id).html"">$(Esc $f.nom)</a></h3><p>$(Esc $f.dit)</p><ul class=""ency-mvs"">"
+  foreach ($mv in $f.mouvements) { $encyIndex += Liens-Mouvement $mv "../" }
+  $encyIndex += "</ul><a class=""ency-fam__go"" href=""$($f.id).html"">Présentation de la famille →</a></section>"
+}
+$encyIndex += "</div>"
+# Une page de présentation par famille : texte de familles.json, mouvements, et ce que le site a déjà sur le sujet.
+foreach ($f in $encyFam) {
+  $mvs = ($f.mouvements | ForEach-Object { Liens-Mouvement $_ "../" }) -join ""
+  $deja = ($f.deja | ForEach-Object { "<li><a href=""../$($_[0])""><b>$(Esc $_[1])</b><span>$(Esc $_[2])</span></a></li>" }) -join ""
+  $autres = ($encyFam | Where-Object { $_.id -ne $f.id } | ForEach-Object { "<a href=""$($_.id).html"">$(Esc $_.court)</a>" }) -join ""
+  $ecrits = @($f.mouvements | Where-Object { $nm = $_.nom; @($ency | Where-Object { $_.cat -eq $nm }).Count })
+  $attente = if ($ecrits.Count -lt @($f.mouvements).Count) { "<div class=""note""><p><strong>Pas encore de dossier pour tous ces mouvements.</strong> La bande les écrit un par un, chacun vérifié avant le suivant. En attendant, le site a déjà de quoi lire sur le sujet, juste en dessous. Tu veux aider ? <a href=""../contribuer.html"">Contribuer</a>.</p></div>" } else { "" }
+  $bodyF = @"
+<header class="gtitle gtitle--encyclopedie"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Encyclopédie des mouvements</a><span>/</span><span>$(Esc $f.court)</span></p>
+  <p class="eyebrow">Famille $($f.rang) sur $($encyFam.Count)</p>
+  <h1>$(Esc $f.nom)</h1>
+  <p class="lead">$(Esc $f.dit)</p>
+  <nav class="tiroir-nav" aria-label="Les autres familles">$autres</nav>
+</div></header>
+<div class="wrap ency-page">
+  <div class="prose">
+$($f.presentation)
+  <p class="doc__relire">Présentation à relire par la bande.</p>
+  </div>
+  <section class="ency-bloc" aria-labelledby="mvs"><h2 id="mvs">Les mouvements</h2><ul class="ency-mvs">$mvs</ul>$attente</section>
+  <section class="ency-bloc" aria-labelledby="deja"><h2 id="deja">Déjà sur le site</h2><ul class="ency-deja">$deja</ul></section>
+</div>
+"@
+  Write-Utf8 (Join-Path $site "encyclopedie\$($f.id).html") (Render-Page "../" "encyclopedie" "$($f.nom) · Encyclopédie des mouvements · Mamie Commune" $f.dit $bodyF "")
+}
+
 # ---------- nouveautés de l'accueil ({{NOUVEAUTES}}) ----------
 # « À la une » : la page arrivée le plus récemment en grand, puis le fil des suivantes. Une seule entrée par dossier d'Histoires de luttes.
 $neuf = @(); $rang = 0; $dossiers = @{}
-foreach ($set in @(@($guides, "guides", "Protection numérique"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"), @($universite, "universite", "Université populaire"))) {
+foreach ($set in @(@($guides, "guides", "Protection numérique"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"), @($universite, "universite", "Université populaire"), @($ency, "encyclopedie", "Encyclopédie des mouvements"))) {
   foreach ($g in $set[0]) {
     $u = "$($set[1])/$($g.slug).html"; $rang++
     if (-not $app.Contains($u)) { $app[$u] = $maintenant }
-    if ($set[1] -eq "experiences") { if ($dossiers[$g.cat]) { continue }; $dossiers[$g.cat] = 1 }
+    if ($set[1] -in @("experiences", "encyclopedie")) { if ($dossiers["$($set[1])/$($g.cat)"]) { continue }; $dossiers["$($set[1])/$($g.cat)"] = 1 }
     $neuf += [pscustomobject]@{ u = $u; d = $app[$u]; r = $rang; k = $set[2]; t = $g.title; s = $g.sum }
   }
 }
@@ -474,10 +568,13 @@ function Plain($html, $max) {
 }
 function Heads($html) { ([regex]::Matches($html, '<h[23][^>]*>(.*?)</h[23]>') | ForEach-Object { Plain $_.Groups[1].Value 200 }) -join ' · ' }
 $index = @()
-foreach ($set in @(@($guides, "guides", "Protection numérique"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"), @($universite, "universite", "Université populaire"))) {
+foreach ($set in @(@($guides, "guides", "Protection numérique"), @($biblio, "bibliotheque", "Fiche de lecture"), @($exp, "experiences", "Histoires de luttes"), @($antifa, "antifascisme", "Antifascisme"), @($manif, "manif", "Guide de manif"), @($agir, "agir", "Agir ensemble"), @($figures, "figures", "Figures de l'anarchisme"), @($universite, "universite", "Université populaire"), @($ency, "encyclopedie", "Encyclopédie des mouvements"))) {
   foreach ($g in $set[0]) {
     $index += [pscustomobject]@{ u = "$($set[1])/$($g.slug).html"; k = $set[2]; y = (Type-De $set[1] $g); t = $g.title; d = $g.sum; x = "$($g.cat) $($g.by) $(Heads $g.html) $(Plain $g.html 600)" }
   }
+}
+foreach ($f in $encyFam) {
+  $index += [pscustomobject]@{ u = "encyclopedie/$($f.id).html"; k = "Encyclopédie des mouvements"; y = "Rubrique"; t = $f.nom; d = $f.dit; x = "$(($f.mouvements | ForEach-Object { $_.nom }) -join ' ') $(Plain $f.presentation 400)" }
 }
 foreach ($l in $livres) {
   $index += [pscustomobject]@{ u = "livres/$($l.id).html"; k = "Livre complet"; y = "Livre"; t = $l.title; d = $l.d; x = "$($l.author) $($l.date) $($l.cat)" }
@@ -653,7 +750,7 @@ $jsL += "window.LIEUX_MAJ = $(JsStr $geo.metadata.misAJour);`nwindow.LIEUX = [`n
 Write-Utf8 (Join-Path $site "data\lieux.js") $jsL
 
 # Compteurs de l'accueil ({{NB_LIEUX}}, {{NB_LIVRES}}, {{NB_FICHES}}), calculés à chaque génération.
-$compteurs = @{ NB_LIEUX = @($lieux | Where-Object { $_.geometry }).Count; NB_LIVRES = $livres.Count; NB_RESSOURCES = $ressources.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
+$compteurs = @{ ENCY_FAMILLES = $encyIndex; NB_ENCY = @($ency | ForEach-Object { $_.cat } | Select-Object -Unique).Count; NB_LIEUX = @($lieux | Where-Object { $_.geometry }).Count; NB_LIVRES = $livres.Count; NB_RESSOURCES = $ressources.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
 
 # ---------- packs hors ligne (packs/<id>.html) ----------
 # Un pack = plusieurs pages du site réunies dans UN fichier HTML autonome (styles dedans, aucune ressource externe,
@@ -796,7 +893,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $body = $raw.Substring($m.Length)
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
-  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures", "ressources", "universite")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures", "ressources", "universite", "encyclopedie")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   if ($f.BaseName -in @("404", "sans-connexion")) { $root = "/" }   # servies à n'importe quelle adresse : liens absolus   # servie à n'importe quelle adresse : liens absolus
   # La rubrique (menu, fil d'Ariane, tiroir) se déduit de l'adresse ; à défaut, de la clé de l'en-tête.
   $navKey = (Famille-De-Adresse ($out -replace '\\', '/'))[2]; if (-not $navKey) { $navKey = $meta[2] }

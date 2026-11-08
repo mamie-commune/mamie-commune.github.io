@@ -124,7 +124,7 @@ jobs:
             --model ${{ env.MODELE_CLAUDE }}
             --max-turns 200
             --add-dir ${{ runner.temp }}/brouillon
-            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(curl:*),Bash(ls:*),Bash(git status:*),Bash(git diff:*),Bash(git log:*),Bash(git show:*)"
+            --allowedTools "Read,Write,Edit,Glob,Grep,WebSearch,WebFetch,Bash(ls:*),Bash(git status:*),Bash(git diff:*),Bash(git log:*),Bash(git show:*)"
             --disallowedTools "Skill,Bash(git push:*),Bash(git commit:*),Bash(git remote:*),Bash(gh:*)"
             --json-schema '{"type":"object","properties":{"decision":{"type":"string","enum":["integrer","bloquer"]},"mouvement":{"type":"string"},"resume":{"type":"string"},"raisons_blocage":{"type":"array","items":{"type":"string"}}},"required":["decision","mouvement","resume","raisons_blocage"]}'
       - name: Enregistrer la décision de Claude

@@ -26,9 +26,10 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  # Modèle utilisé par Claude. Pour en changer sans modifier ce fichier : variable de dépôt MODELE_CLAUDE
+  # Modèle utilisé par Claude. Sonnet 5.5 par défaut : il ménage la réserve de l abonnement Claude Pro.
+  # Pour en changer sans modifier ce fichier (par exemple claude-opus-5-5) : variable de dépôt MODELE_CLAUDE
   # (Settings > Secrets and variables > Actions > Variables).
-  MODELE_CLAUDE: ${{ vars.MODELE_CLAUDE || 'claude-opus-5-5' }}
+  MODELE_CLAUDE: ${{ vars.MODELE_CLAUDE || 'claude-sonnet-5-5' }}
 
 jobs:
   detecter:
@@ -106,6 +107,8 @@ jobs:
           K: ${{ secrets.ANTHROPIC_API_KEY }}
           T: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
+          # Le jeton de l abonnement (CLAUDE_CODE_OAUTH_TOKEN) passe en priorité ; la clé API ne sert que s il est absent.
+          if [ -n "$T" ]; then echo "Authentification : jeton de l abonnement Claude (CLAUDE_CODE_OAUTH_TOKEN)."; elif [ -n "$K" ]; then echo "Authentification : clé API (ANTHROPIC_API_KEY), facturée au crédit."; fi
           if [ -z "$K" ] && [ -z "$T" ]; then
             echo "absente" > "$R/auth.txt"
             echo "::error::Aucun secret ANTHROPIC_API_KEY ni CLAUDE_CODE_OAUTH_TOKEN : Claude ne peut pas être lancé."
@@ -120,7 +123,9 @@ jobs:
         uses: anthropics/claude-code-action/base-action@v1
         with:
           prompt_file: ${{ runner.temp }}/consigne.md
-          anthropic_api_key: ${{ secrets.ANTHROPIC_API_KEY }}
+          # Claude Code donne la priorité à ANTHROPIC_API_KEY sur CLAUDE_CODE_OAUTH_TOKEN (documentation « Authentication »,
+          # mode non interactif) : la clé n est donc transmise que si le jeton de l abonnement est absent.
+          anthropic_api_key: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN == '' && secrets.ANTHROPIC_API_KEY || '' }}
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           claude_args: |
             --model ${{ env.MODELE_CLAUDE }}

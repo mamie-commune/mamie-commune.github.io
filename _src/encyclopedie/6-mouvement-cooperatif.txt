@@ -1,0 +1,130 @@
+=== mouvement-cooperatif-histoire | Mouvement coopératif | Le mouvement coopératif : histoire et origines | Europe, monde · depuis le XIXe siècle | Histoire des organisations par lesquelles des personnes mettent en commun des ressources et contrôlent démocratiquement une activité économique afin de répondre à des besoins partagés.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le mouvement coopératif réunit des organisations par lesquelles des personnes mettent en commun des ressources et contrôlent démocratiquement une activité économique afin de répondre à des besoins partagés. Il se structure au XIX<sup>e</sup> siècle, dans le contexte de l'industrialisation, du salariat et de l'urbanisation, et il traverse ensuite toute l'histoire du mouvement ouvrier.</p>
+<p>Ce n'est pas une doctrine unique : on y trouve des réformistes, des socialistes, des mutualistes, des anarchistes, des républicains. Une question les divise : la coopérative est-elle un moyen d'améliorer la vie dans le marché, ou un premier pas vers une autre économie ?</p>
+
+<h2 id="pratiques-anciennes">1. Des pratiques anciennes à la coopération moderne</h2>
+<p>La coopération économique n'a pas une origine unique. Des communautés rurales, associations artisanales, confréries, mutuelles et formes d'entraide ont organisé collectivement des ressources bien avant le XIX<sup>e</sup> siècle. Il faut distinguer ces pratiques historiques du mouvement coopératif moderne, qui se structure dans le contexte de l'industrialisation, du salariat et de l'urbanisation.</p>
+<p>En Écosse, la Fenwick Weavers' Society est fondée en 1761 par des tisserands qui organisent notamment l'achat et la vente collective de produits. Au tournant du XIX<sup>e</sup> siècle, Robert Owen transforme l'environnement industriel de New Lanark et défend des réformes sociales, l'éducation et la coopération. En France, des associations ouvrières de production apparaissent notamment à Paris dans les années 1830. Les courants socialistes, mutualistes et républicains débattent de la possibilité de remplacer la concurrence par l'association.</p>
+<p>Les coopératives ne sont pas toutes issues du même courant politique. Certaines sont fondées pour améliorer le pouvoir d'achat, d'autres pour donner aux travailleurs le contrôle de leur activité, d'autres encore pour mutualiser le crédit ou les risques agricoles. Le mouvement coopératif se développe à partir d'expériences locales, et non d'un modèle unique exporté partout.</p>
+
+<h2 id="rochdale">2. Rochdale, 1844 : une référence fondatrice</h2>
+<p>En 1844, vingt-huit artisans de Rochdale, dans le Lancashire anglais, fondent la Rochdale Equitable Pioneers Society. Ils ouvrent un magasin coopératif pour permettre à leurs membres d'accéder à des denrées de qualité à des prix accessibles. Le groupe est marqué par plusieurs traditions, notamment le chartisme, l'owenisme et le syndicalisme. Les premières marchandises sont peu nombreuses : farine, avoine, sucre et beurre.</p>
+<p>La coopérative repose sur des règles qui deviendront célèbres : adhésion ouverte, contrôle démocratique, participation économique des membres, vente au comptant et éducation. Le principe « une personne, une voix » distingue le contrôle coopératif du pouvoir proportionnel au capital détenu dans une société par actions. Rochdale devient une référence internationale, mais il serait inexact d'en faire l'unique origine de la coopération moderne. Des coopératives et associations similaires existaient déjà dans plusieurs pays et secteurs.</p>
+<p>Les pionniers ne se limitent pas à la vente au détail. Ils envisagent progressivement de développer la production et la distribution afin de construire une économie coopérative plus large. Cette ambition nourrit les débats entre coopérateurs : faut-il améliorer les conditions de vie au sein du marché, construire un secteur économique autonome ou transformer radicalement la propriété et le pouvoir dans l'entreprise ?</p>
+
+<h2 id="xixe-siecle">3. Développement des coopératives au XIX<sup>e</sup> siècle</h2>
+<p>En Allemagne, Friedrich Wilhelm Raiffeisen et Hermann Schulze-Delitzsch contribuent au développement des coopératives de crédit au milieu du XIX<sup>e</sup> siècle. Les caisses de crédit permettent à des artisans, agriculteurs et petites entreprises d'accéder à des financements en mutualisant l'épargne et les garanties. En France, les associations ouvrières de production et les coopératives de consommation se développent, malgré des difficultés juridiques et financières.</p>
+<p>Les coopératives agricoles permettent aux producteurs de mutualiser les achats, le stockage, la transformation et la commercialisation. Les coopératives de logement et de consommation répondent à d'autres besoins. Les formes juridiques diffèrent selon les pays, mais la question de la participation des membres reste centrale.</p>
+<p>En 1895, l'Alliance coopérative internationale (ACI) est fondée à Londres lors du premier Congrès coopératif international. Des représentants de coopératives de plusieurs pays se réunissent pour définir et défendre des principes communs, partager des expériences et développer la coopération internationale. L'ACI devient une institution durable du mouvement coopératif mondial.</p>
+
+<h2 id="mouvement-ouvrier">4. Coopération et mouvement ouvrier</h2>
+<p>La coopération entretient des rapports complexes avec le socialisme et le syndicalisme. Certains socialistes y voient une école de démocratie économique et un moyen de préparer une société d'associations. D'autres estiment que les coopératives isolées ne peuvent pas transformer le système capitaliste et risquent de devenir des entreprises soumises aux mêmes contraintes concurrentielles.</p>
+<p>Les débats sont anciens. Marx reconnaît l'importance des coopératives de production comme preuve que la production peut être organisée sans employeur capitaliste, mais il estime que leur développement isolé ne suffit pas à transformer l'ensemble de la société. Les anarchistes et mutualistes accordent souvent une place plus importante aux associations autonomes, aux fédérations et à la gestion directe. Les syndicalistes révolutionnaires envisagent parfois les coopératives comme un élément d'une économie organisée par les producteurs (voir <a href="anarcho-syndicalisme-histoire.html#syndicalisme-revolutionnaire">la naissance du syndicalisme révolutionnaire</a>).</p>
+<p>Sur le site, la coopération rejoint aussi <a href="../universite/entraide-mutualisme.html">le parcours Entraide et mutualisme</a>, <a href="../universite/histoire-ouvriere.html">l'histoire ouvrière</a> et <a href="../experiences/commune-de-paris-histoire.html">la Commune de Paris</a>.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="mouvement-cooperatif-idees.html">Idées et théories</a></li>
+<li><a href="mouvement-cooperatif-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie du dossier.</li>
+<li>Dans la même famille : <a href="socialistes-ouvriers.html">mouvements socialistes et ouvriers</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="mouvement-cooperatif-heritages.html#sources">Bibliographie et ressources</a><span>Ouvrages et ressources en ligne, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/entraide-mutualisme.html">Entraide et mutualisme</a><span>Le parcours de l'université populaire.</span></li>
+<li><a href="../universite/histoire-ouvriere.html">Histoire ouvrière</a><span>Le parcours de l'université populaire.</span></li>
+</ul></section>
+</div>
+
+=== mouvement-cooperatif-idees | Mouvement coopératif | Le mouvement coopératif : idées et théories | Europe, monde · depuis le XIXe siècle | Démocratiser la propriété et le travail : principes, formes de coopératives, rapport au marché et à l'autogestion.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="definition">1. Définition et principes</h2>
+<p>L'Alliance coopérative internationale définit une coopérative comme une association autonome de personnes réunies volontairement pour répondre à des besoins économiques, sociaux et culturels communs au moyen d'une entreprise détenue collectivement et contrôlée démocratiquement.</p>
+<p>Les principes coopératifs internationaux sont :</p>
+<ol>
+<li>adhésion volontaire et ouverte ;</li>
+<li>contrôle démocratique par les membres ;</li>
+<li>participation économique des membres ;</li>
+<li>autonomie et indépendance ;</li>
+<li>éducation, formation et information ;</li>
+<li>coopération entre coopératives ;</li>
+<li>engagement envers la communauté.</li>
+</ol>
+<p>Ces principes sont des références, mais leur application varie selon les statuts, les pays et les secteurs. La démocratie ne se réduit pas à un vote annuel : elle suppose que les membres disposent d'informations, de temps et de moyens réels pour participer.</p>
+
+<h2 id="formes">2. Les différentes formes de coopératives</h2>
+<p>Les coopératives de consommation sont détenues par les personnes qui achètent des biens ou services. Les coopératives de travail ou de production sont contrôlées par les personnes qui y travaillent. Les coopératives agricoles mutualisent les moyens de production, de transformation ou de commercialisation. Les coopératives de crédit organisent l'épargne et le financement ; les coopératives de logement permettent de mutualiser l'accès à l'habitat.</p>
+<p>Les coopératives multi-sociétaires réunissent plusieurs catégories de membres : salariés, usagers, collectivités et partenaires. Ce modèle peut permettre de prendre en compte plusieurs intérêts, mais il soulève la question de la répartition des droits de décision. Une gouvernance démocratique doit éviter qu'une catégorie domine les autres.</p>
+
+<h2 id="marche-autogestion">3. Coopération, marché et autogestion</h2>
+<p>Une coopérative peut fonctionner dans une économie capitaliste. Elle doit alors acheter des matières premières, trouver des clients, obtenir des financements et faire face à la concurrence. Cette insertion peut limiter les choix démocratiques : pression sur les salaires, intensification du travail, recours à des salariés non membres, hiérarchie managériale et dépendance à des investisseurs.</p>
+<p>La coopérative n'est donc pas automatiquement émancipatrice. Son potentiel dépend du contrôle réel exercé par les membres, de la transparence des comptes, de l'égalité d'accès aux responsabilités et de la capacité à résister aux pressions du marché. Certaines coopératives deviennent des entreprises classiques dans leurs pratiques ; d'autres développent des réseaux de solidarité et de coopération entre structures.</p>
+<p>L'autogestion va plus loin que la seule propriété collective. Elle implique que les personnes concernées participent aux décisions sur le travail, l'organisation, les investissements et les finalités de l'activité. Une entreprise peut être détenue collectivement sans que tous ses travailleurs disposent d'un pouvoir égal. Inversement, des collectifs autogérés peuvent fonctionner sans adopter une forme juridique coopérative. Voir <a href="../universite/autogestion.html">le parcours Autogestion</a> et <a href="mouvement-autonome-idees.html#auto-organisation">l'auto-organisation</a> dans le dossier sur le mouvement autonome.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="mouvement-cooperatif-histoire.html">Histoire et origines</a></li>
+<li><a href="mouvement-cooperatif-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie du dossier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="mouvement-cooperatif-heritages.html#sources">Bibliographie et ressources</a><span>En bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://ica.coop/fr/cooperatives/identite-cooperative" rel="noopener">Alliance coopérative internationale, « Identité, valeurs et principes coopératifs »</a><span>La définition et les sept principes, sur le site de l'ACI.</span></li>
+</ul></section>
+</div>
+
+=== mouvement-cooperatif-heritages | Mouvement coopératif | Le mouvement coopératif : expériences et héritages | Europe, monde · depuis le XIXe siècle | Des coopératives de travail aux réseaux contemporains : expériences, limites et contradictions.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="cooperatives-de-travail">1. Les coopératives de travail</h2>
+<p>Les coopératives de travail cherchent à réunir propriété et pouvoir de décision entre les mains des travailleurs. Elles peuvent être créées par des salariés qui reprennent une entreprise menacée, par des collectifs professionnels ou par des communautés qui souhaitent produire autrement. Elles peuvent stabiliser l'emploi et permettre une maîtrise collective de l'activité, mais elles rencontrent des difficultés de financement, de transmission des savoir-faire et de concurrence.</p>
+<p>Le cas de Mondragón, au Pays basque, est souvent cité comme une expérience importante de coopération industrielle à grande échelle. Le mouvement se développe à partir des années 1950 autour de coopératives de travail, de formation et de financement. Il montre qu'une fédération de coopératives peut construire des institutions complexes, mais il fait aussi l'objet de critiques concernant les écarts de rémunération, la place des salariés non membres et l'internationalisation de certaines activités. Il ne constitue donc ni un modèle parfait ni une expérience à écarter.</p>
+
+<h2 id="mouvements-sociaux">2. Les coopératives et les mouvements sociaux</h2>
+<p>Les coopératives ont été liées à des mouvements ouvriers, paysans, féministes et communautaires. Elles peuvent mutualiser des ressources, offrir des services et créer des espaces d'autonomie. Les coopératives alimentaires, agricoles, énergétiques, de logement et de crédit répondent à des besoins variés. Leur fonctionnement démocratique peut contribuer à l'éducation populaire et à la capacité collective d'organisation.</p>
+<p>Elles peuvent aussi reproduire les inégalités existantes. Les personnes disposant de davantage de temps, de capital culturel ou de ressources économiques participent parfois plus facilement aux assemblées. Le travail domestique et les tâches invisibles peuvent rester inégalement répartis. La démocratie coopérative demande donc un travail continu sur l'accessibilité, la formation, la répartition des tâches et la représentation.</p>
+
+<h2 id="ilots">3. Une économie coopérative ou des îlots dans le capitalisme ?</h2>
+<p>Une question traverse toute l'histoire du mouvement : les coopératives peuvent-elles transformer progressivement l'économie ou restent-elles des îlots soumis à la logique du marché ? Les réponses varient selon les traditions. Les coopérateurs réformistes privilégient souvent la croissance d'un secteur coopératif stable. Les socialistes et anarchistes révolutionnaires peuvent y voir des outils d'autonomie, mais insistent sur la nécessité d'une transformation plus large de la propriété et du pouvoir.</p>
+<p>Sur le site, la rubrique <a href="../s-entraider.html#cooperatives">Coopératives du tiroir S'entraider</a> relie ce qui existe déjà.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>La coopération n'est pas une solution technique neutre. Elle pose une question politique : comment organiser collectivement les ressources, le travail et les décisions ? Son intérêt dépend autant de ses institutions que des rapports sociaux dans lesquels elle s'inscrit.</p>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Le mouvement coopératif est rangé dans la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>. Il touche l'<a href="anarchisme-histoire.html">anarchisme</a>, le <a href="communisme-libertaire-histoire.html">communisme libertaire</a>, l'<a href="anarcho-syndicalisme-histoire.html">anarcho-syndicalisme</a> et le <a href="mouvement-autonome-histoire.html">mouvement autonome</a>. Les dossiers Socialisme et Marxisme sont en préparation.</p>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Ouvrages</h3><ul>
+<li><b><cite>The International Co-operative Movement</cite></b>, Johnston Birchall, Manchester University Press, 1997.<span>Histoire du mouvement coopératif international, avec un chapitre sur l'ACI.</span></li>
+<li><b><cite>A New View of Society</cite></b>, Robert Owen, 1813-1816.<span>Les essais où Owen défend l'éducation et la réforme sociale.</span></li>
+<li><b><cite>La Guerre civile en France</cite></b>, Karl Marx, 1871.<span>Texte où Marx évoque la production coopérative.</span></li>
+</ul></section>
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://www.ccr.ica.coop/fr/coop%C3%A9ratives/histoire-du-mouvement-cooperatif" rel="noopener">Alliance coopérative internationale, « Notre histoire »</a><span>Rochdale 1844 et fondation de l'ACI en 1895.</span></li>
+<li><a href="https://ica.coop/fr/cooperatives/identite-cooperative" rel="noopener">Alliance coopérative internationale, « Identité, valeurs et principes coopératifs »</a><span>Définition et sept principes.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/entraide-mutualisme.html">Entraide et mutualisme</a><span>L'université populaire.</span></li>
+<li><a href="../universite/autogestion.html">Le parcours Autogestion</a><span>L'université populaire.</span></li>
+</ul></section>
+</div>
+
+<h2 id="precautions">Précautions historiques</h2>
+<div class="note"><p>Rochdale est une référence, pas l'unique origine du mouvement. Les coopératives ne sont pas toutes émancipatrices : tout dépend du pouvoir réel des membres. La bibliographie reste courte et sera à compléter par la bande.</p></div>

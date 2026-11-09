@@ -1,0 +1,92 @@
+=== trotskisme-histoire | Trotskisme | Le trotskisme : histoire et origines | Russie, Europe, monde · depuis 1923 | Courant marxiste révolutionnaire issu des oppositions à la bureaucratisation de l'URSS, associé à Léon Trotski, à la révolution permanente et à la construction d'une organisation communiste internationale.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le trotskisme est un courant marxiste révolutionnaire issu des oppositions à la bureaucratisation de l'URSS. Il est associé à Léon Trotski, à la révolution permanente et à la construction d'une organisation communiste internationale. Ce n'est pas une organisation unique : c'est une famille de groupes, souvent petits et rivaux, qui se réclament d'un même héritage. Ce dossier présente son histoire, ses idées, puis ses héritages et les critiques qu'il suscite, notamment du côté libertaire.</p>
+<div class="note"><p><b>Dans ce dossier.</b> <a href="trotskisme-histoire.html">1. Histoire</a> : révolution russe, Opposition de gauche, exil, fondation de la Quatrième Internationale et scissions. <a href="trotskisme-idees.html">2. Idées</a> : révolution permanente, internationalisme, parti, bureaucratie et analyse de l'URSS. <a href="trotskisme-heritages.html">3. Héritages</a> : organisations internationales, mouvements ouvriers, anticolonialisme et débats critiques. La bibliographie complète est à la fin de la <a href="trotskisme-heritages.html#sources">page 3</a>.</p></div>
+
+<h2 id="avant-trotskisme">Trotski avant le trotskisme</h2>
+<p>Léon Trotski (1879-1940), de son nom Lev Davidovitch Bronstein, est un militant révolutionnaire russe. Il participe à la révolution de 1905 et préside le soviet de Saint-Pétersbourg. En 1917, il rejoint les bolcheviks et joue un rôle majeur dans l'insurrection d'Octobre. Comme commissaire du peuple aux Affaires militaires, il organise l'Armée rouge pendant la guerre civile. Son parcours ne peut être séparé des violences de cette période : le pouvoir bolchevik réprime des oppositions politiques et sociales, et Trotski assume des responsabilités importantes dans la défense militaire du nouveau régime.</p>
+<p>Après la mort de Lénine en 1924, une lutte politique s'ouvre au sein du Parti communiste soviétique. Trotski critique la concentration du pouvoir et la montée d'une bureaucratie. Il s'oppose à la théorie du « socialisme dans un seul pays » défendue par Staline et insiste sur le caractère international de la révolution. Ses adversaires lui reprochent son centralisme, son rôle dans la militarisation du parti et sa responsabilité dans la répression de Kronstadt en 1921. Une présentation sérieuse du trotskisme doit mentionner ces controverses, plutôt que de présenter Trotski comme un opposant extérieur à toutes les violences du régime.</p>
+<p>Le point de vue libertaire sur cette période est développé ailleurs sur le site : voir <a href="../experiences/makhno-critique-bolcheviks.html">la critique libertaire des bolcheviks</a> dans le dossier sur la Makhnovtchina et la fiche de lecture <a href="../bibliotheque/orage-a-petrograd.html">« 1921, l'orage éclate à Petrograd »</a> d'Emma Goldman.</p>
+
+<h2 id="opposition-gauche">L'Opposition de gauche</h2>
+<p>À partir de 1923, Trotski et ses alliés constituent l'Opposition de gauche. Ils dénoncent la bureaucratisation, les restrictions du débat interne et les orientations de l'Internationale communiste. L'opposition se divise sur les stratégies à adopter, notamment face à la politique du Komintern en Chine et à l'alliance avec le Kuomintang. En 1927, Trotski est exclu du parti ; en 1928, il est déporté à Alma-Ata, puis expulsé d'Union soviétique en 1929.</p>
+<p>En exil, il poursuit son activité politique et cherche à coordonner les oppositions communistes à Staline. Les groupes qui se réclament de lui se développent dans plusieurs pays, mais ils sont souvent petits, surveillés et divisés. La bureaucratie soviétique mène une répression contre les opposants, y compris leurs familles et leurs réseaux. Les procès de Moscou et les purges des années 1930 détruisent une grande partie des anciennes générations bolcheviques.</p>
+
+<h2 id="allemagne">Allemagne, fascisme et crise de l'Internationale communiste</h2>
+<p>La victoire du nazisme en Allemagne en 1933 constitue un choc pour Trotski. Il considère que la politique du Parti communiste allemand, guidée par la ligne du Komintern, a contribué à la division du mouvement ouvrier et à l'incapacité de construire un front commun contre Hitler. Il conclut que l'Internationale communiste ne peut plus être réformée et appelle à construire de nouveaux partis révolutionnaires.</p>
+<p>Cette analyse est discutée par d'autres communistes, qui estiment que les causes de la défaite allemande sont plus complexes et ne peuvent être attribuées à une seule orientation. Le débat sur le front unique, les alliances avec les partis sociaux-démocrates et la lutte antifasciste reste central dans les traditions trotskistes. Sur l'antifascisme en général, voir <a href="../antifascisme/index.html">la rubrique Antifascisme</a>.</p>
+
+<h2 id="quatrieme-internationale">La Quatrième Internationale, 1938</h2>
+<p>La Quatrième Internationale est fondée en septembre 1938 à Périgny, près de Paris, dans un contexte de montée du fascisme, de guerre civile espagnole et de crise du mouvement communiste international. Son texte programmatique, le <cite>Programme de transition</cite>, propose de relier les revendications immédiates — salaires, emploi, contrôle ouvrier — à une perspective de pouvoir des travailleurs. La nouvelle Internationale est cependant très faible numériquement et subit rapidement la guerre, la répression et les divisions.</p>
+<p>Trotski est assassiné à Mexico en août 1940 par Ramón Mercader, agent du NKVD soviétique, après une première tentative d'assassinat en mai. Sa mort ne met pas fin au mouvement, mais prive la Quatrième Internationale de sa principale figure intellectuelle et politique.</p>
+
+<h2 id="apres-1940">Après 1940 : scissions et recompositions</h2>
+<p>Après la Seconde Guerre mondiale, les organisations trotskistes débattent de la nature des États d'Europe de l'Est, de la Yougoslavie, de la Chine et des révolutions anticoloniales. Michel Pablo et Ernest Mandel jouent des rôles importants dans les débats de l'après-guerre. La Quatrième Internationale connaît des divisions en 1953, puis de nouvelles réunifications et scissions. Les désaccords portent sur l'entrée dans les partis sociaux-démocrates ou communistes, la stratégie envers les mouvements de libération nationale et l'analyse des régimes bureaucratiques.</p>
+<p>Le trotskisme se développe dans plusieurs régions du monde. En Amérique latine, des organisations trotskistes participent à des débats sur la révolution, les syndicats et les mouvements paysans. En Asie du Sud, au Sri Lanka notamment, des partis trotskistes acquièrent une influence électorale et syndicale notable. En France, plusieurs organisations se réclament de cette tradition, avec des histoires distinctes : Ligue communiste révolutionnaire, Lutte ouvrière, courants issus de l'Organisation communiste internationaliste et, plus tard, Nouveau Parti anticapitaliste. Il serait faux de présenter ces organisations comme une seule structure.</p>
+
+<div class="note"><p><b>Pour la bibliographie</b>, voir la fin de la <a href="trotskisme-heritages.html#sources">page 3</a>. <b>Mouvements proches</b> : Marxisme, Socialisme, Communisme, Communisme de conseils (dossiers en préparation) et <a href="mouvement-autonome-histoire.html">Mouvement autonome</a>.</p></div>
+
+=== trotskisme-idees | Trotskisme | Le trotskisme : idées et théories | Russie, Europe, monde · depuis 1923 | Révolution permanente, parti, démocratie ouvrière et analyse de la bureaucratie soviétique : les idées centrales du trotskisme et les débats qu'elles provoquent.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="revolution-permanente">Révolution permanente</h2>
+<p>La théorie de la révolution permanente est développée par Trotski à partir de l'analyse des révolutions de 1905 et des sociétés où le capitalisme est inégalement développé. Il estime que la bourgeoisie nationale de pays dominés ou marqués par des structures agraires ne peut pas nécessairement accomplir de manière indépendante les tâches démocratiques, nationales et agraires. La classe ouvrière peut prendre la tête de ces luttes et les prolonger vers des mesures socialistes.</p>
+<p>La révolution permanente possède également une dimension internationale. Pour Trotski, une révolution isolée dans un seul pays reste vulnérable aux pressions économiques, militaires et politiques du capitalisme mondial. L'internationalisme n'est donc pas seulement une solidarité morale : il est une condition stratégique de la transformation sociale.</p>
+<p>Cette théorie a été discutée et réinterprétée dans des contextes différents. Les révolutions chinoise, cubaine, vietnamienne et les mouvements anticoloniaux ont conduit les trotskistes à débattre du rôle des paysans, des directions nationalistes et des partis révolutionnaires. Sur l'internationalisme, voir aussi <a href="../universite/internationalisme.html">le parcours de l'université populaire</a>.</p>
+
+<h2 id="parti">Parti et classe ouvrière</h2>
+<p>Les trotskistes défendent généralement la nécessité d'un parti révolutionnaire organisé, capable d'intervenir dans les luttes et de coordonner une stratégie. Ils se distinguent ainsi des communistes de conseils, qui refusent qu'un parti dirige les conseils, et des anarchistes, qui rejettent la conquête d'un État centralisé.</p>
+<p>La conception trotskiste du parti ne se confond pas nécessairement avec le modèle stalinien du parti unique. Les trotskistes se réclament du débat interne et de la démocratie ouvrière, mais leurs organisations ont elles-mêmes connu des pratiques de centralisation, des conflits de direction et des exclusions. Il faut étudier les pratiques réelles et pas seulement les principes affichés.</p>
+
+<h2 id="nature-urss">La nature de l'URSS</h2>
+<p>Trotski décrit l'URSS comme un « État ouvrier dégénéré ». Selon lui, les rapports de propriété issus de la révolution d'Octobre ont été maintenus, mais le pouvoir politique a été confisqué par une bureaucratie privilégiée. Il défend une révolution politique pour renverser cette bureaucratie tout en conservant les bases économiques non capitalistes.</p>
+<p>D'autres marxistes contestent cette analyse. Certains parlent de capitalisme d'État, d'autres de nouvelle société de classe ou de collectivisme bureaucratique. Les débats portent sur la propriété, le salariat, l'accumulation, la planification et le pouvoir de décision. Les trotskistes eux-mêmes ne partagent pas tous la même interprétation après la mort de Trotski. Le regard d'une anarchiste sur le même régime : <a href="../bibliotheque/le-communisme-n-existe-pas-en-urss.html">« Le communisme n'existe pas en URSS »</a>, d'Emma Goldman.</p>
+
+<div class="note"><p><b>Pour la bibliographie</b>, voir la fin de la <a href="trotskisme-heritages.html#sources">page 3</a>.</p></div>
+
+=== trotskisme-heritages | Trotskisme | Le trotskisme : expériences et héritages | Monde · XXe-XXIe siècles | Une famille internationale et fragmentée : organisations, anticolonialisme, critiques libertaires et bilan historique, avec la bibliographie du dossier.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="anticolonialisme">Anticolonialisme et mouvements de libération</h2>
+<p>Les organisations trotskistes interviennent dans les luttes anticoloniales, mais leurs positions sont parfois controversées. Elles défendent en général le droit des peuples à l'autodétermination tout en critiquant les directions nationalistes lorsqu'elles subordonnent les travailleurs à une bourgeoisie nationale. Cette position donne lieu à des débats sur les alliances, les fronts et les rapports entre révolution sociale et indépendance nationale.</p>
+<p>Les trajectoires latino-américaines, sri-lankaises, françaises et britanniques montrent que le trotskisme ne se limite pas à l'Europe. L'ouvrage de Robert J. Alexander, <cite>International Trotskyism, 1929–1985</cite>, documente le développement de courants trotskistes dans plus de soixante-cinq pays, avec leurs organisations, journaux, dirigeants et scissions.</p>
+
+<h2 id="critiques-libertaires">Critiques libertaires et bilan historique</h2>
+<p>Les anarchistes et les communistes de conseils critiquent le rôle du parti et de l'État dans la stratégie trotskiste. Ils rappellent que Trotski a participé à la répression de Kronstadt et à la militarisation de l'Armée rouge. Les trotskistes répondent généralement que ces décisions doivent être replacées dans le contexte de la guerre civile et distinguent la défense de la révolution de la bureaucratisation stalinienne. Le désaccord ne peut être résolu par une simple opposition entre « révolutionnaires » et « autoritaires » : il porte sur les institutions, les moyens de défense et la concentration du pouvoir.</p>
+<p>Le trotskisme a contribué à la critique du stalinisme et à la défense de l'internationalisme révolutionnaire. Il a aussi connu des scissions nombreuses, des organisations parfois fermées et des stratégies contestées. Son histoire est celle d'un courant influent dans certains mouvements ouvriers et étudiants, mais minoritaire à l'échelle mondiale.</p>
+
+<h2 id="mouvements-proches">Mouvements proches</h2>
+<ul>
+<li>Marxisme, Socialisme, Communisme, Communisme de conseils : dossiers en préparation.</li>
+<li><a href="mouvement-autonome-histoire.html">Mouvement autonome</a> : voir en particulier <a href="mouvement-autonome-histoire.html#operaisme">l'opéraïsme</a>, autre tradition marxiste née en dehors des partis.</li>
+</ul>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Textes de Trotski</h3><ul>
+<li><b><cite>La Révolution permanente</cite></b>, Léon Trotski, 1930.<span>Exposé de la théorie de la révolution permanente.</span></li>
+<li><b><cite>La Révolution trahie</cite></b>, Léon Trotski, 1936.<span>Son analyse de l'URSS et de la bureaucratie.</span></li>
+<li><b><cite>Programme de transition</cite></b>, Léon Trotski, 1938.<span>Le programme de fondation de la Quatrième Internationale.</span></li>
+</ul></section>
+<section><h3>Histoire et études</h3><ul>
+<li><b><cite>International Trotskyism, 1929–1985: A Documented Analysis of the Movement</cite></b>, Robert J. Alexander, Duke University Press, 1991.<span><a href="https://www.dukeupress.edu/international-trotskyism-1929-1985" rel="noopener">La notice de l'éditeur</a>.</span></li>
+<li><b><cite>Histoire de l'Internationale communiste, 1919-1943</cite></b>, Pierre Broué, Fayard, 1997.<span>Une somme, écrite par un historien lui-même proche du courant trotskiste : à lire avec ce recul.</span></li>
+</ul></section>
+<section><h3>Regards libertaires et conseillistes</h3><ul>
+<li>Pour les débats sur la révolution russe, comparer les textes de Trotski avec les critiques anarchistes et conseillistes, notamment celles d'Emma Goldman, de Voline et d'Anton Pannekoek.<span>Références précises à compléter par la bande.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../bibliotheque/orage-a-petrograd.html">« 1921, l'orage éclate à Petrograd »</a><span>Fiche de lecture, Emma Goldman.</span></li>
+<li><a href="../bibliotheque/le-communisme-n-existe-pas-en-urss.html">« Le communisme n'existe pas en URSS »</a><span>Fiche de lecture, Emma Goldman.</span></li>
+<li><a href="../antifascisme/index.html">La rubrique Antifascisme</a></li>
+</ul></section>
+</div>
+
+<h2 id="precautions">Précautions historiques</h2>
+<div class="note"><p>Le trotskisme n'est pas une organisation unique : les groupes qui se réclament de lui ont des histoires, des analyses et des pratiques distinctes. Il ne faut pas non plus l'assimiler au stalinisme, ni au communisme de conseils, ni à l'anarchisme, dont il se sépare sur le parti et l'État.</p></div>

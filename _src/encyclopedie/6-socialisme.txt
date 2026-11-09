@@ -1,0 +1,120 @@
+=== socialisme-histoire | Socialisme | Le socialisme : histoire et origines | Mouvement ouvrier · depuis le XIXe siècle | Des premières critiques de l'industrialisation aux mouvements ouvriers internationaux : la naissance d'une famille de mouvements qui contestent la domination économique du capital.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le socialisme est une famille de mouvements qui contestent la domination économique du capital et cherchent à organiser la production et la vie collective sur des bases d'égalité, de solidarité et de démocratie. Ce dossier en présente l'histoire, les idées et les héritages, en gardant à l'esprit qu'il faut parler <em>des</em> socialismes plutôt que <em>du</em> socialisme.</p>
+<p>Les dossiers voisins traitent à part l'<a href="anarchisme-histoire.html">anarchisme</a>, le <a href="communisme-libertaire-histoire.html">communisme libertaire</a> et l'<a href="anarcho-syndicalisme-histoire.html">anarcho-syndicalisme</a>, nés du même mouvement ouvrier. La bibliographie complète est en bas de la page <a href="socialisme-heritages.html#sources">Expériences et héritages</a>.</p>
+
+<h2 id="mot-recent">Un mot récent pour une question ancienne</h2>
+<p>Le mot « socialisme » apparaît au début du XIX<sup>e</sup> siècle dans un contexte de transformation profonde des sociétés européennes. La révolution industrielle concentre les moyens de production, développe le salariat et bouleverse les villes. Une partie croissante de la population dépend de la vente de sa force de travail, tandis que les conditions de logement, de santé et de travail restent souvent très dures. Le socialisme naît de la critique de cette organisation sociale, mais aussi de la volonté de construire des institutions capables de répondre collectivement aux besoins.</p>
+<p>Le terme est associé à Robert Owen en Grande-Bretagne au début des années 1820, puis circule en français dans les milieux saint-simoniens au début des années 1830. Il ne désigne pas immédiatement une doctrine unifiée. Il rassemble des projets parfois contradictoires : communautés coopératives, associations de producteurs, réorganisation scientifique de l'industrie, république sociale, propriété collective ou fédération de communes. Le Larousse rappelle que la question de la propriété et celle de l'État se trouvent au cœur du socialisme dès ses premières formulations. Cette pluralité est essentielle : parler du socialisme au singulier ne doit pas masquer les conflits qui l'ont traversé.</p>
+
+<h2 id="question-ouvriere">La question ouvrière et les premières organisations</h2>
+<p>Les premières décennies industrielles voient se multiplier les associations d'entraide, sociétés de secours mutuel, coopératives, caisses de grève, syndicats et journaux ouvriers. Ces organisations ne sont pas toujours socialistes au sens doctrinal, mais elles construisent les capacités collectives sans lesquelles un mouvement ouvrier durable ne peut exister. Les ouvriers et ouvrières ne sont pas seulement les destinataires de théories conçues par des intellectuels : ils et elles produisent leurs propres formes d'organisation, leurs cultures politiques et leurs analyses de l'exploitation.</p>
+<p>En Grande-Bretagne, le chartisme réclame notamment le suffrage masculin, le vote secret et une réforme de la représentation politique. En France, les révoltes des canuts lyonnais de 1831 et 1834 rendent visible le conflit entre travail et propriété. Les journées de juin 1848, après la fermeture des Ateliers nationaux, montrent la violence de la fracture sociale au sein de la jeune République. Dans plusieurs pays, les révolutions de 1848 associent revendications démocratiques, aspirations nationales et demandes sociales, sans déboucher sur une transformation durable des rapports de propriété.</p>
+<p>La révolution de 1848 marque un tournant. Les débats portent désormais sur les moyens de faire converger les luttes démocratiques et les luttes sociales. Certains défendent la coopération et l'association de producteurs ; d'autres veulent conquérir les institutions politiques ; d'autres encore considèrent que l'État est une structure de domination qu'il faut remplacer par des formes fédérales et autonomes.</p>
+<p>Sur l'histoire ouvrière en France, voir le parcours <a href="../universite/histoire-ouvriere.html">Histoire ouvrière</a> de l'université populaire.</p>
+
+<h2 id="premiere-internationale">La Première Internationale : unité et conflit</h2>
+<p>L'Association internationale des travailleurs (AIT), fondée à Londres en 1864, réunit des syndicats, des sociétés ouvrières, des socialistes, des communistes, des mutualistes et des anarchistes. Elle n'est pas un parti doté d'une doctrine unique. Ses sections et ses congrès débattent des grèves, de la propriété, de la coopération, de l'organisation politique et de l'émancipation des travailleurs par eux-mêmes.</p>
+<p>Karl Marx participe à son Conseil général et rédige plusieurs textes importants, mais l'AIT est traversée par de nombreuses tendances. Les conflits entre les partisans d'une action politique organisée et ceux qui défendent l'autonomie fédéraliste des travailleurs deviennent particulièrement vifs. La confrontation entre Marx et Mikhaïl Bakounine (voir son <a href="../figures/bakounine.html">portrait</a>) aboutit à une rupture lors du congrès de La Haye en 1872. Le déplacement du Conseil général à New York contribue ensuite à l'affaiblissement de l'organisation. En parallèle, les fédérations antiautoritaires poursuivent leur propre coordination internationale.</p>
+<p>La Commune de Paris de 1871 devient une référence majeure pour une partie du mouvement socialiste. Pendant quelques semaines, des expériences de démocratie populaire, de contrôle communal et de réorganisation du travail sont tentées dans une ville en guerre. La Commune est écrasée par l'armée versaillaise. Son interprétation divise durablement les socialistes : certains y voient la preuve de la nécessité d'une organisation politique capable de prendre le pouvoir ; d'autres y reconnaissent une forme de fédération populaire et de démocratie directe. Voir le dossier <a href="../experiences/commune-de-paris-histoire.html">La Commune de Paris</a>.</p>
+
+<h2 id="partis-ouvriers">Partis ouvriers et Deuxième Internationale</h2>
+<p>À partir des années 1870 et 1880, les syndicats et partis ouvriers se développent. Le Parti social-démocrate allemand (SPD), fondé en 1875 puis réorganisé après la fin des lois antisocialistes de Bismarck, devient un modèle d'organisation de masse. Il combine presse, associations, syndicats, élus et formation politique. D'autres partis se structurent en France, en Belgique, en Italie, en Autriche et dans les pays nordiques. La croissance de ces organisations fait émerger une question nouvelle : comment concilier une stratégie révolutionnaire proclamée avec une activité quotidienne de réformes, d'élections et de négociations ?</p>
+<p>La Deuxième Internationale est fondée à Paris en 1889. Elle rassemble des partis socialistes et ouvriers de nombreux pays, sans constituer un état-major central. Le congrès de 1889 contribue à faire du 1<sup>er</sup> mai une journée internationale de mobilisation pour la journée de huit heures (voir <a href="../bibliotheque/le-1er-mai.html">Le 1er Mai</a>). La IIe Internationale devient le lieu de débats sur le parlementarisme, les syndicats, le colonialisme, le militarisme, la grève générale et la guerre. Elle est traversée par des conflits entre réformistes, révolutionnaires et courants intermédiaires.</p>
+<p>Eduard Bernstein soutient à la fin du XIX<sup>e</sup> siècle que le développement du capitalisme et les conquêtes démocratiques obligent à réviser certaines prévisions marxistes : le socialisme pourrait progresser par des réformes successives. Rosa Luxemburg répond que les réformes sont indispensables mais ne remplacent pas la transformation des rapports de pouvoir et de propriété. Karl Kautsky défend une position qui évolue au fil des débats. Ces controverses ne se résument pas à une opposition morale entre « modérés » et « radicaux » : elles portent sur les institutions, les rapports de force et les conditions matérielles d'une transformation.</p>
+
+<h2 id="1914">1914 : l'effondrement de l'internationalisme</h2>
+<p>En août 1914, la majorité des dirigeants des grands partis socialistes européens soutient les crédits de guerre de leur gouvernement ou accepte la politique d'union nationale. Cette décision rompt avec les engagements antimilitaristes et internationalistes de la période précédente. Des minorités socialistes s'opposent à la guerre, organisent des conférences internationales et dénoncent l'Union sacrée. Les conférences de Zimmerwald (1915) et de Kienthal (1916) réunissent des opposants de plusieurs pays, sans effacer leurs désaccords stratégiques.</p>
+<p>La révolution russe de 1917 accentue la fracture. Les bolcheviks prennent le pouvoir en octobre et appellent à une révolution internationale. En Allemagne, la révolution de novembre 1918 renverse la monarchie et fait apparaître des conseils d'ouvriers et de soldats. Les divisions sur la guerre, la révolution et l'État conduisent à la séparation durable entre partis sociaux-démocrates et partis communistes dans de nombreux pays.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="socialisme-idees.html">Idées et théories</a></li>
+<li><a href="socialisme-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie du dossier.</li>
+<li>Dans la même famille : <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>. Voir aussi <a href="anarchisme-histoire.html">l'anarchisme</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="socialisme-heritages.html#sources">Bibliographie et ressources</a><span>En bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/histoire-ouvriere.html">Histoire ouvrière</a><span>Le parcours de l'université populaire.</span></li>
+<li><a href="../experiences/commune-de-paris-histoire.html">La Commune de Paris</a><span>Dans Histoire des luttes.</span></li>
+</ul></section>
+</div>
+
+=== socialisme-idees | Socialisme | Le socialisme : idées et théories | Mouvement ouvrier · depuis le XIXe siècle | Propriété, démocratie, État, autogestion et stratégies de transformation : une famille de réponses à la domination économique.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="propriete">Propriété et organisation de la production</h2>
+<p>Le socialisme part d'une interrogation : qui possède les moyens de produire, qui décide de leur usage et qui bénéficie des richesses créées ? Les réponses varient. Certains courants défendent la propriété publique de secteurs stratégiques et une planification démocratique. D'autres privilégient les coopératives, les associations de producteurs, les communes fédérées ou l'autogestion. D'autres encore défendent une combinaison de propriété publique, sociale, coopérative et individuelle.</p>
+<p>La « propriété collective » ne signifie donc pas automatiquement propriété de l'État. Une entreprise nationalisée peut être administrée de manière bureaucratique sans que ses travailleurs disposent d'un pouvoir réel. Inversement, une coopérative peut être démocratique dans son fonctionnement tout en restant soumise à la concurrence et aux contraintes du marché. La question centrale est celle du contrôle effectif : qui décide de l'investissement, des horaires, des salaires, de la production et de la répartition ?</p>
+
+<h2 id="reforme-revolution">Réforme, révolution et démocratie</h2>
+<p>La stratégie socialiste fait l'objet d'un débat permanent. Les courants réformistes considèrent que les droits sociaux, les services publics, les conventions collectives, la fiscalité et la démocratie représentative peuvent transformer progressivement la société. Les courants révolutionnaires estiment que les institutions existantes protègent la propriété capitaliste et que les conquêtes peuvent être limitées ou annulées tant que les rapports de pouvoir fondamentaux demeurent.</p>
+<p>Cette opposition ne doit pas être caricaturée. Les mouvements révolutionnaires ont souvent défendu des revendications immédiates ; les réformistes ont parfois participé à des ruptures importantes. La question est de savoir si les réformes renforcent l'autonomie populaire et le pouvoir des travailleurs ou si elles stabilisent les rapports sociaux qu'elles prétendent corriger.</p>
+<p>La démocratie est un autre enjeu majeur. Pour certains socialistes, le suffrage universel, le pluralisme et les libertés publiques sont des conditions indispensables de l'émancipation. Pour d'autres, la démocratie représentative est insuffisante si les décisions économiques échappent à la population. Les traditions libertaires ajoutent que la délégation permanente et la centralisation peuvent recréer une domination séparée. Les conseils, assemblées, mandats révocables et fédérations sont proposés comme compléments ou alternatives aux institutions représentatives. Voir le parcours <a href="../universite/autogestion.html">Autogestion</a>.</p>
+
+<h2 id="classe-genre-race">Classe, genre, race et colonialisme</h2>
+<p>Le mouvement ouvrier historique n'a jamais été homogène. Les femmes ont participé aux grèves, aux associations et aux organisations socialistes, tout en étant souvent écartées des postes de décision. Flora Tristan relie la condition ouvrière à l'émancipation des femmes ; Clara Zetkin organise le mouvement socialiste féminin ; Alexandra Kollontaï défend la transformation des rapports familiaux et du travail domestique. Les débats sur le travail reproductif, les salaires, les droits politiques et l'autonomie des femmes traversent les traditions socialistes.</p>
+<p>Le colonialisme et le racisme posent également des questions fondamentales. Des organisations ouvrières européennes ont parfois défendu l'internationalisme, mais certaines ont aussi reproduit des préjugés coloniaux ou soutenu des politiques impérialistes. Les mouvements anticoloniaux du XX<sup>e</sup> siècle s'approprient et transforment des idées socialistes dans des contextes spécifiques. Il faut donc étudier les socialismes d'Afrique, d'Asie, des Caraïbes et d'Amérique latine comme des histoires propres, et non comme de simples copies de l'Europe. Voir le parcours <a href="../universite/internationalisme.html">Internationalisme</a>.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="socialisme-histoire.html">Histoire et origines</a></li>
+<li><a href="socialisme-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie du dossier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="socialisme-heritages.html#sources">Bibliographie et ressources</a><span>En bas de la page Expériences et héritages.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/autogestion.html">Le parcours Autogestion</a><span>L'université populaire.</span></li>
+<li><a href="../glossaire.html#internationalisme">Le glossaire</a><span>Internationalisme, Internationale.</span></li>
+</ul></section>
+</div>
+
+=== socialisme-heritages | Socialisme | Le socialisme : expériences et héritages | Mouvement ouvrier · depuis le XIXe siècle | Social-démocratie, socialismes révolutionnaires et libertaires, héritage conflictuel : des socialismes au pluriel.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="social-democratie">Social-démocratie et État social</h2>
+<p>Après 1945, plusieurs partis sociaux-démocrates participent à la construction de systèmes de protection sociale, à l'extension des services publics et à la négociation collective. Les résultats varient selon les pays et les rapports de force. La social-démocratie devient parfois une force de gestion du capitalisme plutôt qu'un mouvement visant son dépassement. À partir des années 1980, plusieurs partis adoptent des politiques de libéralisation et de privatisation, suscitant des débats sur leur identité historique.</p>
+
+<h2 id="revolutionnaires-libertaires">Socialismes révolutionnaires et libertaires</h2>
+<p>Les traditions révolutionnaires se divisent entre marxismes, léninismes, trotskismes, communismes de conseils, courants anarchistes et autres tendances. Elles ne partagent pas la même conception de l'État, du parti, des syndicats ou des conseils. Les socialismes libertaires défendent l'autonomie des mouvements, la fédération, la démocratie directe et la mise en commun des ressources. Les courants marxistes mettent souvent l'accent sur l'analyse des classes, l'organisation politique et les structures économiques. Les frontières restent mouvantes : des militants et des mouvements ont circulé entre ces traditions.</p>
+
+<h2 id="heritage-conflictuel">Un héritage toujours conflictuel</h2>
+<p>Le socialisme a contribué à des conquêtes majeures : réduction du temps de travail, droits syndicaux, protection sociale, suffrage, coopératives, services publics et mouvements anticoloniaux. Mais des régimes et des organisations se réclamant du socialisme ont aussi produit des bureaucraties, des répressions et des monopoles politiques. Une histoire critique ne doit ni idéaliser ces expériences ni réduire toute la tradition à leurs crimes.</p>
+<p>La question demeure ouverte : comment socialiser les décisions économiques sans concentrer le pouvoir dans une administration ? Comment articuler égalité et libertés ? Comment construire une solidarité internationale qui ne reproduise ni impérialisme ni hiérarchies raciales ou patriarcales ? Les réponses se trouvent dans les débats historiques, mais aussi dans les pratiques contemporaines des syndicats, coopératives, mouvements féministes, écologistes, antiracistes et communautés autogérées.</p>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Le socialisme est rangé dans la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>. Les dossiers Marxisme, Communisme, Communisme de conseils, Trotskisme et Mouvement coopératif sont en préparation. Voir déjà, côté libertaire : <a href="anarchisme-histoire.html">Anarchisme</a>, <a href="anarcho-syndicalisme-histoire.html">Anarcho-syndicalisme</a> et <a href="communisme-libertaire-histoire.html">Communisme libertaire</a>.</p>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Ouvrages et textes</h3><ul>
+<li><b>« Socialisme »</b>, <cite>Dictionnaire de la philosophie</cite>, Larousse.<span><a href="https://www.larousse.fr/encyclopedie/philosophie/socialisme/192207" rel="noopener">Lire l'article sur larousse.fr</a>.</span></li>
+<li><b>« Socialism »</b>, John O'Neill, <cite>Routledge Encyclopedia of Philosophy</cite>.<span><a href="https://www.rep.routledge.com/articles/thematic/socialism/v-1" rel="noopener">Notice sur rep.routledge.com</a> (en anglais, accès partiel).</span></li>
+<li><b><cite>Socialisme utopique et socialisme scientifique</cite></b>, Friedrich Engels, 1880.</li>
+<li><b><cite>Réforme sociale ou révolution ?</cite></b>, Rosa Luxemburg, 1899.</li>
+<li><b><cite>A History of Socialist Thought</cite></b>, G. D. H. Cole, Macmillan, 1953-1960.<span>Cinq tomes, publiés en sept volumes.</span></li>
+<li><b><cite>Forging Democracy: The History of the Left in Europe, 1850–2000</cite></b>, Geoff Eley, Oxford University Press, 2002.</li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/histoire-ouvriere.html">Histoire ouvrière</a><span>Le parcours de l'université populaire.</span></li>
+<li><a href="../experiences/commune-de-paris-histoire.html">La Commune de Paris</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../bibliotheque/le-1er-mai.html">Le 1er Mai</a><span>La fiche de lecture.</span></li>
+</ul></section>
+</div>
+
+<h2 id="precautions">Précautions historiques</h2>
+<div class="note"><p>Ce dossier est une première synthèse : il présente les grandes lignes sans épuiser chaque pays ni chaque courant. Les socialismes d'Afrique, d'Asie et d'Amérique latine, les régimes se réclamant du socialisme et les débats de l'après-1945 y sont seulement esquissés et méritent des développements.</p></div>

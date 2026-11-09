@@ -1,0 +1,99 @@
+=== communisme-de-conseils-histoire | Communisme de conseils | Le communisme de conseils : histoire et origines | Russie, Allemagne, Pays-Bas · 1905-années 1950 | Courant communiste antiautoritaire qui défend l'auto-émancipation des travailleurs par des conseils élus, mandatés et révocables, contre la substitution d'un parti ou d'une bureaucratie à l'activité collective.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le communisme de conseils (ou conseillisme) est un courant communiste antiautoritaire. Il défend l'auto-émancipation des travailleurs par des conseils élus, mandatés et révocables, contre la substitution d'un parti ou d'une bureaucratie à l'activité collective. Il est rangé dans la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a> : ses racines sont marxistes, même s'il partage avec l'<a href="anarchisme-histoire.html">anarchisme</a> la méfiance envers le parti dirigeant et l'État.</p>
+
+<h2 id="conseils-avant">Les conseils avant le conseillisme</h2>
+<p>Les conseils ouvriers ne sont pas d'abord une invention théorique. Ils apparaissent dans des situations de lutte et de crise, lorsque des travailleurs, soldats ou habitants créent des assemblées pour coordonner leurs actions. La révolution russe de 1905 voit émerger des soviets, conseils de délégués qui relient les lieux de travail et les quartiers. Le soviet de Saint-Pétersbourg devient un centre de coordination politique et de grève. L'expérience est écrasée, mais elle laisse une mémoire organisationnelle.</p>
+<p>En février 1917, de nouveaux soviets apparaissent en Russie. Ils coexistent d'abord avec le gouvernement provisoire dans une situation de « double pouvoir ». Les soviets sont pluralistes et comprennent des socialistes-révolutionnaires, mencheviks, bolcheviks et autres courants. Après octobre 1917, le nouveau pouvoir bolchevik affirme s'appuyer sur les soviets, mais la guerre civile, la crise économique et les choix du parti conduisent progressivement à leur subordination. Cette évolution devient un objet majeur de critique pour les conseillistes. Les anarchistes l'ont critiquée aussi, et en Ukraine la <a href="../experiences/makhno-organisation.html">Makhnovtchina</a> a défendu des « soviets libres ».</p>
+<p>Voir aussi le mot <a href="../glossaire.html#soviet">soviet, conseil</a> dans le glossaire.</p>
+
+<h2 id="allemagne">Allemagne 1918-1923 : révolution et conseils</h2>
+<p>La révolution allemande commence en novembre 1918 par des mutineries de marins et des soulèvements qui renversent la monarchie. Des conseils d'ouvriers et de soldats se forment dans de nombreuses villes. Le mouvement est traversé par des social-démocrates majoritaires, des socialistes indépendants, des spartakistes et des groupes révolutionnaires. Le gouvernement dirigé par le SPD choisit de s'appuyer sur l'armée et les corps francs pour rétablir l'ordre. Rosa Luxemburg et Karl Liebknecht sont assassinés en janvier 1919 après l'écrasement de l'insurrection berlinoise.</p>
+<p>Le Parti communiste d'Allemagne (KPD) est fondé à la fin de 1918. Une partie de sa gauche rejette la participation électorale et le travail dans les syndicats traditionnels. En 1920, cette opposition fonde le KAPD (Parti communiste ouvrier d'Allemagne), qui défend les organisations d'usine et l'action autonome des conseils. Le KAPD se sépare du KPD et entre rapidement en conflit avec l'Internationale communiste.</p>
+<p>La même période voit apparaître l'AAUD, Union générale des travailleurs d'Allemagne, conçue comme une organisation de lutte liée aux entreprises. Certains militants cherchent à dépasser la séparation entre organisation politique et organisation économique. D'autres défendent une distinction entre les conseils de lutte et les groupes communistes. Ces désaccords montrent que le conseillisme n'a jamais été une doctrine uniforme.</p>
+
+<h2 id="pannekoek-gorter">Pannekoek, Gorter et la gauche germano-néerlandaise</h2>
+<p>Anton Pannekoek (1873-1960), astronome et militant marxiste néerlandais, devient une figure majeure de la tradition. Il insiste sur l'activité autonome des travailleurs et critique les organisations qui prétendent diriger la classe ouvrière de l'extérieur. Herman Gorter (1864-1927), poète et militant, rejoint la gauche communiste allemande et répond à Lénine dans sa <cite>Lettre ouverte au camarade Lénine</cite> (1920). Il estime que les conditions sociales et politiques de l'Europe occidentale ne peuvent être traitées comme une simple répétition de la révolution russe.</p>
+<p>Le débat avec Lénine porte sur le parlementarisme, les syndicats, la centralisation et les compromis tactiques. Dans <cite>La Maladie infantile du communisme (le gauchisme)</cite> (1920), Lénine critique les communistes de gauche qui refusent le travail parlementaire et syndical. Gorter répond que ces institutions sont profondément intégrées à la société capitaliste et que la révolution en Europe occidentale doit s'appuyer sur les organisations autonomes des travailleurs.</p>
+
+<h2 id="apres-1930">Des années 1930 à l'après-guerre</h2>
+<p>La répression nazie détruit ou disperse les organisations communistes de gauche allemandes. Des militants poursuivent leur activité clandestinement ou en exil. Aux Pays-Bas, le Groupe des communistes internationaux (GIK) développe des analyses de l'économie communiste et de la gestion par les conseils. Paul Mattick, émigré aux États-Unis dès 1926, contribue à la diffusion de la critique conseilliste et à l'analyse du capitalisme.</p>
+<p>Après 1945, des groupes comme les Communistenbond Spartacus aux Pays-Bas maintiennent cette tradition. En France, Socialisme ou Barbarie, fondé en 1948 autour notamment de Cornelius Castoriadis et Claude Lefort, développe une critique de la bureaucratie soviétique et du capitalisme occidental. Le groupe ne se réduit pas au conseillisme historique, mais il contribue à renouveler les réflexions sur l'autonomie et l'auto-organisation. Les expériences hongroises de 1956, avec leurs conseils ouvriers, relancent l'intérêt pour cette forme de démocratie révolutionnaire.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communisme-de-conseils-idees.html">Idées et théories</a> : démocratie des conseils, critique du parti, des syndicats intégrés et du capitalisme d'État.</li>
+<li><a href="communisme-de-conseils-heritages.html">Expériences et héritages</a>, avec la conclusion, les mouvements proches et la bibliographie du dossier.</li>
+<li>Dans la même famille de dossiers : <a href="mouvement-autonome-histoire.html#operaisme">l'opéraïsme</a> et <a href="communisme-libertaire-histoire.html">le communisme libertaire</a>.</li>
+</ul>
+<p>La bibliographie complète est à la fin de la page <a href="communisme-de-conseils-heritages.html#sources">Expériences et héritages</a>.</p>
+
+=== communisme-de-conseils-idees | Communisme de conseils | Le communisme de conseils : idées et théories | Russie, Allemagne, Pays-Bas · 1905-années 1950 | Le pouvoir exercé par les travailleurs eux-mêmes : un conseil est une assemblée de délégués mandatés, contrôlés et révocables.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="conseil-organe">Le conseil comme organe de décision</h2>
+<p>Un conseil ouvrier est une assemblée de délégués issus des lieux de travail, des quartiers ou d'autres collectivités. Les délégués sont mandatés, contrôlés et révocables. Ils ne sont pas censés devenir des représentants professionnels séparés de la population. Leur fonction est de transmettre les décisions, coordonner les activités et rendre compte à celles et ceux qui les ont mandatés.</p>
+<p>Le principe central est l'auto-émancipation : les travailleurs ne peuvent être libérés durablement par une organisation qui décide à leur place. Les conseils ne sont pas seulement des organes de revendication salariale ; dans une situation révolutionnaire, ils peuvent devenir des institutions de coordination de la production, de la distribution et de la vie sociale.</p>
+<p>Cette conception pose des questions pratiques. Comment relier les conseils locaux à des niveaux régionaux et internationaux ? Comment éviter que les délégués permanents concentrent l'information ? Comment organiser les activités qui ne se déroulent pas dans une entreprise, comme le soin, l'éducation, le travail domestique ou la vie communautaire ? Le conseillisme ne fournit pas une réponse universelle, mais propose des principes de contrôle démocratique et de révocabilité.</p>
+<p>Sur la pratique de l'autogestion, voir le <a href="../universite/autogestion.html">parcours Autogestion</a> et le mot <a href="../glossaire.html#autogestion">autogestion</a> du glossaire.</p>
+
+<h2 id="parti-syndicat">Parti, syndicat et autonomie</h2>
+<p>Les conseillistes critiquent les partis lorsqu'ils prétendent représenter les intérêts historiques de la classe ouvrière et exercer le pouvoir à sa place. Ils ne rejettent pas nécessairement toute activité politique organisée : certains groupes se donnent pour tâche de diffuser des analyses, de participer aux luttes et de défendre l'autonomie des conseils, sans devenir un gouvernement.</p>
+<p>La critique des syndicats porte sur leur institutionnalisation. Dans les périodes de stabilité capitaliste, les syndicats négocient les salaires et les conditions de travail, mais peuvent aussi intégrer les conflits dans des procédures permanentes et défendre leur propre appareil. Les conseillistes considèrent que l'organisation de lutte doit rester sous le contrôle direct des travailleurs. Cette critique ne signifie pas que tous les syndicats seraient identiques ou inutiles dans toutes les situations. Les <a href="anarcho-syndicalisme-histoire.html">anarcho-syndicalistes</a> font un autre pari : transformer le syndicat lui-même.</p>
+
+<h2 id="capitalisme-etat">Capitalisme d'État et bureaucratie</h2>
+<p>Une thèse importante de la gauche conseilliste est que la nationalisation ne suffit pas à abolir le capitalisme. Si les travailleurs restent séparés des décisions, si le travail est organisé par une hiérarchie et si l'accumulation demeure la priorité, la propriété étatique peut maintenir des rapports de domination. Certains conseillistes qualifient ainsi l'URSS de capitalisme d'État ; d'autres analyses de gauche communiste parlent de société bureaucratique ou de capitalisme bureaucratique.</p>
+<p>Ces interprétations sont contestées par les trotskistes, qui définissent généralement l'URSS comme un État ouvrier dégénéré, et par d'autres marxistes qui défendent des catégories différentes. Le débat porte sur les rapports de propriété, la direction de la production, la place du salariat et la nature de la classe dirigeante.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communisme-de-conseils-histoire.html">Histoire et origines</a></li>
+<li><a href="communisme-de-conseils-heritages.html">Expériences et héritages</a>, avec la bibliographie complète (<a href="communisme-de-conseils-heritages.html#sources">sources</a>).</li>
+</ul>
+
+=== communisme-de-conseils-heritages | Communisme de conseils | Le communisme de conseils : expériences et héritages | Russie, Allemagne, Pays-Bas · 1905-années 1950 | Une tradition minoritaire mais influente, qui a nourri Mai 68, les mouvements autonomes et les débats sur l'autogestion.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="mai-68-autonomes">Mai 1968 et les mouvements autonomes</h2>
+<p>Les idées conseillistes circulent dans les mouvements étudiants et ouvriers des années 1960 et 1970. En France, <a href="../experiences/mai-68-organisation.html">Mai 1968</a> voit des assemblées générales, des comités d'action et une grève massive, mais il ne constitue pas une révolution conseilliste accomplie. Des groupes et revues redécouvrent Pannekoek, Rosa Luxemburg, les conseils allemands et les critiques de la bureaucratie.</p>
+<p>En Italie, l'<a href="mouvement-autonome-histoire.html#operaisme">opéraïsme</a> et l'autonomie ouvrière développent des analyses spécifiques de la composition de classe, du refus du travail et des formes d'organisation indépendantes des partis et syndicats. Ces courants ne sont pas simplement des continuations du communisme de conseils, mais ils partagent certaines interrogations sur l'autonomie et la démocratie directe. Plus près de nous, le <a href="../experiences/rojava-organisation.html">Rojava</a> se réclame de communes et de conseils, dans une tradition différente.</p>
+
+<h2 id="limites">Limites et critiques</h2>
+<p>Les expériences de conseils sont souvent brèves et apparaissent dans des situations de crise. Elles doivent affronter la répression, la guerre, les divisions internes et les difficultés de coordination. La révocabilité des délégués ne garantit pas à elle seule l'égalité : les personnes disposant de plus de temps, de compétences ou de ressources peuvent exercer une influence disproportionnée. Les rapports de genre et la division entre travail salarié et travail domestique peuvent également reproduire des exclusions.</p>
+<p>Le conseillisme est aussi critiqué pour son rapport parfois ambigu aux organisations durables, à la stratégie et à la défense face aux forces contre-révolutionnaires. Les expériences historiques montrent qu'une démocratie directe exige des moyens matériels, une circulation de l'information et des institutions capables de durer sans se transformer en pouvoir séparé.</p>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Le communisme de conseils est rangé dans la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>. Il touche plusieurs autres dossiers :</p>
+<ul>
+<li><a href="anarchisme-histoire.html">Anarchisme</a> et <a href="communisme-libertaire-histoire.html">communisme libertaire</a> : proximité sur l'auto-organisation et la critique du parti d'avant-garde, mais traditions distinctes.</li>
+<li><a href="mouvement-autonome-histoire.html">Mouvement autonome</a> : héritier partiel, avec d'autres sources.</li>
+<li>Marxisme, communisme, socialisme : dossiers en préparation.</li>
+</ul>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Textes de référence</h3><ul>
+<li><b><cite>Les Conseils ouvriers</cite></b>, Anton Pannekoek.<span>Date de première parution à préciser : le brouillon indique 1946-1947, non vérifié.</span></li>
+<li><b>« Workers' Councils »</b>, Anton Pannekoek, <cite>International Council Correspondence</cite>, avril 1936 (signé « J.H. »).<span><a href="https://www.marxists.org/archive/pannekoe/1936/councils.htm" rel="noopener">Lire sur Marxists Internet Archive</a> (en anglais).</span></li>
+<li><b><cite>Lettre ouverte au camarade Lénine</cite></b>, Herman Gorter, 1920.</li>
+<li><b><cite>La Maladie infantile du communisme (le gauchisme)</cite></b>, Lénine, 1920.</li>
+</ul></section>
+<section><h3>Études</h3><ul>
+<li><b><cite>The Dutch and German Communist Left (1900–68)</cite></b>, Philippe Bourrinet, Brill, 2017.<span><a href="https://doi.org/10.1163/9789004325937" rel="noopener">doi.org/10.1163/9789004325937</a> (en anglais).</span></li>
+<li><b>« After council communism: the post-war rediscovery of the council tradition »</b>, James Muldoon, <cite>Intellectual History Review</cite>, vol. 31, n° 2, 2021.<span><a href="https://doi.org/10.1080/17496977.2020.1738762" rel="noopener">doi.org/10.1080/17496977.2020.1738762</a> (en anglais).</span></li>
+<li><b>« The (In)conceivability of Real Workers' Control Under Capitalism »</b>, Saeed Rahnema, <cite>International Labor and Working-Class History</cite>, vol. 103, 2023.<span><a href="https://doi.org/10.1017/S0147547922000308" rel="noopener">doi.org/10.1017/S0147547922000308</a> (en anglais).</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../universite/autogestion.html">Le parcours Autogestion</a><span>L'université populaire.</span></li>
+<li><a href="../glossaire.html#soviet">Soviet, conseil</a><span>Dans le glossaire.</span></li>
+<li><a href="../experiences/mai-68-organisation.html">Assemblées, comités d'action et Atelier populaire</a><span>Dans Histoire des luttes.</span></li>
+</ul></section>
+</div>
+
+<h2 id="precautions">Précautions historiques</h2>
+<div class="note"><p>Le communisme de conseils n'est pas une doctrine unique : les conseils russes, allemands ou hongrois sont des expériences différentes, et les groupes qui s'en réclament ont souvent divergé. Une assemblée de délégués n'est pas non plus, à elle seule, une garantie d'égalité.</p></div>

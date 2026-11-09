@@ -1,0 +1,73 @@
+=== situationnisme-histoire | Situationnisme | Le situationnisme : histoire et origines | France, Europe · 1957-1972 | L'Internationale situationniste est fondée en juillet 1957 à Cosio d'Arroscia, en Italie, par la réunion de plusieurs petits groupes d'avant-garde artistique, dont l'Internationale lettriste de Guy Debord.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le situationnisme désigne les idées et les pratiques de l'Internationale situationniste (1957-1972), un petit groupe d'avant-garde artistique et politique. Ce dossier est volontairement court : il pose les repères de base et signale ce qui reste à documenter (voir la bibliographie, en bas de la page Expériences et héritages).</p>
+
+<h2 id="fondation">Fondation et durée</h2>
+<p>L'Internationale situationniste est fondée en juillet 1957 à Cosio d'Arroscia, en Italie, par la réunion de plusieurs petits groupes d'avant-garde artistique, dont l'Internationale lettriste de Guy Debord.</p>
+<p>Elle publie la revue <cite>Internationale situationniste</cite> de 1958 à 1969 et se dissout en 1972.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="situationnisme-idees.html">Idées et théories</a></li>
+<li><a href="situationnisme-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie du dossier.</li>
+<li>Autres dossiers proches : <a href="mouvement-autonome-histoire.html">Mouvement autonome</a> et <a href="../experiences/mai-68-histoire.html">Mai 68</a>.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="situationnisme-heritages.html#sources">Bibliographie et ressources</a><span>En bas de la page Expériences et héritages.</span></li>
+</ul></section>
+</div>
+
+=== situationnisme-idees | Situationnisme | Le situationnisme : idées et théories | France, Europe · 1957-1972 | Dans La Société du spectacle (1967), Guy Debord critique une société où les rapports sociaux passent par des images.
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="spectacle">Debord et le spectacle</h2>
+<p>Dans <cite>La Société du spectacle</cite> (1967), Guy Debord critique une société où les rapports sociaux passent par des images.</p>
+
+<h2 id="vaneigem">Vaneigem</h2>
+<p>Raoul Vaneigem publie la même année le <cite>Traité de savoir-vivre à l'usage des jeunes générations</cite>.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="situationnisme-histoire.html">Histoire et origines</a></li>
+<li><a href="situationnisme-heritages.html">Expériences et héritages</a>, avec la conclusion et la bibliographie du dossier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="situationnisme-heritages.html#sources">Bibliographie et ressources</a><span>En bas de la page Expériences et héritages.</span></li>
+</ul></section>
+</div>
+
+=== situationnisme-heritages | Situationnisme | Le situationnisme : expériences et héritages | France, Europe · 1957-1972 | Les situationnistes défendent les conseils ouvriers et participent à l'agitation de Mai 68, notamment au sein du Comité pour le maintien des occupations.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="mai-68">Conseils ouvriers et Mai 68</h2>
+<p>Les situationnistes défendent les conseils ouvriers et participent à l'agitation de Mai 68, notamment au sein du Comité pour le maintien des occupations.</p>
+<p>Pour le contexte de Mai 68, voir <a href="../experiences/mai-68-histoire.html">le dossier Mai 68</a>.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+<p>Ce dossier ne donne que des repères. Il ne traite pas encore les débats internes de l'Internationale situationniste, ses exclusions et scissions, ni ses limites et ses critiques.</p>
+<div class="note"><p>Pas de dossier complet pour l'instant : l'histoire détaillée de l'Internationale situationniste reste à écrire sur le site.</p></div>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Le situationnisme est rangé dans la famille <a href="etudiants-autonomes.html">étudiants et autonomes</a>. Voir aussi le dossier <a href="mouvement-autonome-histoire.html">Mouvement autonome</a>.</p>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Ouvrages</h3><ul>
+<li><b><cite>La Société du spectacle</cite></b>, Guy Debord, Buchet-Chastel, 1967.<span>Texte fondateur de la critique du spectacle.</span></li>
+<li><b><cite>Traité de savoir-vivre à l'usage des jeunes générations</cite></b>, Raoul Vaneigem, Gallimard, 1967.<span>Publié la même année.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="../experiences/mai-68-histoire.html">Mai 68</a><span>Le dossier Histoires de luttes.</span></li>
+</ul></section>
+</div>

@@ -33,7 +33,7 @@
         { "nom": "Communisme" },
         { "nom": "Communisme de conseils" },
         { "nom": "Trotskisme" },
-        { "nom": "Mouvement coopératif", "voir": ["s-entraider.html#cooperatives", "Les coopératives dans le tiroir S'entraider"] }
+        { "nom": "Mouvement coopératif" }
       ],
       "deja": [
         ["universite/histoire-ouvriere.html", "Histoire ouvrière", "Le parcours de l'université populaire."],

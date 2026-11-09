@@ -1,0 +1,115 @@
+=== communisme-histoire | Communisme | Le communisme : histoire et origines | Monde · XIXe-XXe siècles | Le communisme ne commence pas avec Marx : des aspirations égalitaires aux révolutions et aux partis du XXe siècle.
+<!-- onglet : Histoire et origines -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="introduction">Introduction</h2>
+<p>Le mot « communisme » désigne à la fois un horizon d'émancipation (une société sans classes), des partis, des États qui s'en sont réclamés, et des courants libertaires ou conseillistes qui s'en réclament aussi et qui se sont souvent combattus. Ce dossier distingue ces traditions plutôt que de les confondre. Les expériences libertaires ont leurs propres dossiers : <a href="communisme-libertaire-histoire.html">communisme libertaire</a> et <a href="anarchisme-histoire.html">anarchisme</a>.</p>
+
+<h2 id="avant-marx">Des aspirations égalitaires avant le marxisme</h2>
+<p>Le communisme ne commence pas avec Marx. Des communautés religieuses, mouvements populaires et projets utopiques ont défendu, dans des contextes très différents, le partage des biens et la mise en commun des ressources. Il serait anachronique de les considérer comme des communistes au sens moderne, mais ils font partie de l'histoire des imaginaires égalitaires.</p>
+<p>Au XVIII<sup>e</sup> siècle, Morelly critique la propriété privée dans le <cite>Code de la nature</cite> (1755). Pendant la Révolution française, Gracchus Babeuf et la Conjuration des Égaux défendent une égalité sociale radicale et une mise en commun des richesses. Au début du XIX<sup>e</sup> siècle, Étienne Cabet imagine une société communautaire dans <cite>Voyage en Icarie</cite> (1840), tandis que Wilhelm Weitling développe un communisme artisanal et chrétien. Ces projets sont très différents : certains reposent sur une communauté planifiée, d'autres sur l'insurrection, la coopération ou une morale de l'égalité.</p>
+
+<h2 id="mouvement-ouvrier">Le communisme dans le mouvement ouvrier</h2>
+<p>Les années 1830 et 1840 voient apparaître des sociétés secrètes, associations d'émigrés et groupes ouvriers qui discutent de la propriété et de la révolution. Marx et Engels rejoignent la Ligue des communistes, pour laquelle ils rédigent le <cite>Manifeste du parti communiste</cite> en 1848. Le texte présente le communisme comme une perspective liée au mouvement réel de la classe ouvrière et non comme la simple réalisation d'un plan idéal imaginé par des réformateurs.</p>
+<p>La révolution de 1848 échoue dans plusieurs pays, mais elle accélère la formation d'organisations ouvrières. L'Association internationale des travailleurs, fondée en 1864, réunit des tendances communistes, socialistes, syndicalistes et anarchistes. Le terme « communisme » n'y désigne pas encore un parti centralisé. Les conflits entre Marx et Bakounine portent sur la stratégie, l'État et l'organisation de l'Internationale. Après <a href="../experiences/commune-de-paris-histoire.html">la Commune de Paris</a> de 1871, la question du pouvoir révolutionnaire devient centrale.</p>
+
+<h2 id="revolution-russe">Révolution russe et construction d'un État communiste</h2>
+<p>En 1917, les bolcheviks prennent le pouvoir dans un pays ravagé par la guerre et la crise sociale. Ils promettent la paix, la terre et le pouvoir aux soviets. La guerre civile de 1918-1921, l'intervention de puissances étrangères, l'effondrement économique et les conflits sociaux contribuent à une centralisation croissante. Le pouvoir passe progressivement des conseils pluralistes à l'appareil du parti bolchevik. La répression des oppositions, l'interdiction de fractions au sein du parti en 1921 et l'écrasement de la révolte de Kronstadt marquent une rupture majeure pour les critiques libertaires et conseillistes (voir <a href="../experiences/makhno-critique-bolcheviks.html">la critique libertaire des bolcheviks</a>).</p>
+<p>L'Internationale communiste est créée en 1919 pour coordonner les partis communistes. Elle devient un instrument important de la politique étrangère soviétique et de l'orientation des partis affiliés. Les partis communistes se développent dans de nombreux pays, parfois au sein de puissants mouvements syndicaux et antifascistes. Leur rapport à Moscou, leur autonomie et leurs stratégies varient selon les périodes et les contextes.</p>
+
+<h2 id="stalinisme">Stalinisme, guerre et expansion du communisme d'État</h2>
+<p>À partir de la fin des années 1920, Staline consolide son pouvoir en URSS. La collectivisation forcée, l'industrialisation accélérée, les famines, les purges et le système concentrationnaire transforment profondément la société soviétique. Les procès de Moscou et les exécutions des années 1930 éliminent une grande partie des anciens cadres révolutionnaires. Le régime se réclame du communisme, mais l'existence d'une classe dirigeante bureaucratique, du parti unique et de la répression devient un sujet de critique au sein même du mouvement communiste.</p>
+<p>Après 1945, des régimes dirigés par des partis communistes s'installent en Europe de l'Est, dans le contexte de l'occupation soviétique et de la recomposition de l'ordre international. La Chine devient une République populaire en 1949 après une longue guerre révolutionnaire. D'autres expériences apparaissent à Cuba (révolution de 1959, régime qui se proclame communiste à partir de 1961), au Vietnam après plusieurs décennies de lutte, puis dans différents pays d'Asie et d'Afrique. Les trajectoires sont très différentes : révolution paysanne, guerre de libération nationale, occupation militaire, coalition ou prise du pouvoir par un parti.</p>
+<p>L'histoire mondiale du communisme ne peut donc pas être réduite à l'URSS. Les travaux collectifs de l'<cite>Oxford Handbook of the History of Communism</cite> (voir la <a href="communisme-heritages.html#sources">bibliographie</a>) insistent sur les différences entre pays, sur les relations entre dirigeants et sociétés et sur l'importance des contextes internationaux.</p>
+
+<h2 id="dissidences">Dissidences, crises et fin des régimes européens</h2>
+<p>Les années 1956, 1968 et 1989 constituent des moments majeurs de contestation. En 1956, le rapport Khrouchtchev au XX<sup>e</sup> congrès du PCUS dénonce une partie des crimes de Staline ; la même année, l'insurrection hongroise est écrasée par les troupes soviétiques. En 1968, le Printemps de Prague tente de réformer le système tchécoslovaque avant l'intervention militaire du Pacte de Varsovie. Des communistes dissidents, des conseils ouvriers et des intellectuels critiques dénoncent la bureaucratie et le monopole politique.</p>
+<p>En 1989, les régimes d'Europe centrale et orientale s'effondrent ou se transforment sous l'effet des mobilisations populaires, des crises économiques et de l'affaiblissement du contrôle soviétique. L'Union soviétique disparaît en 1991. Plusieurs États dirigés par des partis communistes subsistent, mais leurs systèmes économiques et politiques ont évolué de manière très différente.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communisme-idees.html">Idées et théories</a></li>
+<li><a href="communisme-heritages.html">Expériences et héritages</a>, avec la bibliographie complète du dossier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="communisme-heritages.html#sources">Bibliographie et ressources</a><span>Ouvrages et ressources, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+</div>
+
+=== communisme-idees | Communisme | Le communisme : idées et théories | Monde · XIXe-XXe siècles | Abolition des classes, mise en commun, communisme libertaire ou d'État, planification et démocratie économique : que signifie une société communiste ?
+<!-- onglet : Idées et théories -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="abolition-des-classes">Abolition des classes et mise en commun</h2>
+<p>Dans la tradition marxienne, le communisme vise l'abolition des rapports de classe qui organisent l'exploitation. Il ne s'agit pas simplement de redistribuer les revenus tout en maintenant la séparation entre propriétaires et salariés. La transformation concerne les moyens de production, les décisions économiques et les rapports sociaux qui rendent possible l'accumulation du capital.</p>
+<p>La mise en commun ne signifie pas nécessairement que chaque objet personnel serait collectivisé. Le débat porte sur les moyens de production et les ressources qui structurent la vie économique. Les formes concrètes de propriété et de coordination sont discutées : associations, communes, conseils, coopératives, fédérations ou institutions publiques démocratisées.</p>
+<p>Dans la <cite>Critique du programme de Gotha</cite> (1875), Marx distingue une phase inférieure d'une phase supérieure de la société communiste. Il évoque la persistance de contraintes héritées de l'ancienne société dans la première phase, puis formule le principe « de chacun selon ses capacités, à chacun selon ses besoins » pour une société développée. Il ne fournit pas un plan institutionnel détaillé.</p>
+
+<h2 id="libertaire-et-etat">Communisme libertaire et communisme d'État</h2>
+<p>Les communistes libertaires, notamment Pierre Kropotkine (<a href="../livres/la-conquete-du-pain.html"><cite>La Conquête du pain</cite></a>), défendent une société fondée sur la mise en commun des ressources, l'entraide et la fédération libre des communes et associations. Ils refusent qu'un État centralisé ou un parti dirigeant se substitue à la capacité d'organisation de la population. Le communisme libertaire est proche de l'anarchisme social et se distingue de l'individualisme propriétaire (voir le dossier <a href="communisme-libertaire-idees.html">communisme libertaire</a>).</p>
+<p>Les traditions bolcheviques et léninistes défendent au contraire la nécessité d'une organisation politique révolutionnaire et d'un pouvoir de transition. Leurs partisans considèrent que la résistance des classes possédantes et l'encerclement international imposent une centralisation. Les critiques libertaires et conseillistes répondent que cette centralisation risque de créer une nouvelle domination et de détruire l'autonomie des travailleurs.</p>
+<p>Il faut distinguer les débats théoriques des institutions réellement mises en place. Les régimes communistes du XX<sup>e</sup> siècle ont généralement été organisés autour d'un parti unique, d'une économie largement planifiée et d'un appareil d'État puissant. Ils ont connu des transformations économiques et sociales importantes, mais aussi des répressions, des pénuries, des privilèges bureaucratiques et des atteintes aux libertés. Ces expériences ne peuvent être confondues avec toutes les traditions communistes.</p>
+
+<h2 id="planification">Planification, marché et démocratie économique</h2>
+<p>Les communistes ont proposé différentes manières de coordonner la production. La planification centralisée cherche à fixer des objectifs de production et d'investissement à l'échelle nationale. Les critiques soulignent les problèmes d'information, les rigidités administratives et la concentration du pouvoir. D'autres propositions défendent la planification démocratique, les conseils de producteurs et de consommateurs, la coordination fédérale ou des mécanismes hybrides.</p>
+<p>La question ne se réduit pas à choisir entre État et marché. Elle concerne la capacité de la population à décider des priorités collectives, à connaître les ressources disponibles et à contrôler les institutions de coordination. Sans transparence, pluralisme et possibilité de révocation, une planification peut devenir un instrument de domination bureaucratique.</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communisme-histoire.html">Histoire et origines</a></li>
+<li><a href="communisme-heritages.html">Expériences et héritages</a>, avec la bibliographie complète du dossier.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Bibliographie du dossier</h3><ul>
+<li><a href="communisme-heritages.html#sources">Bibliographie et ressources</a><span>Ouvrages et ressources, en bas de la page Expériences et héritages.</span></li>
+</ul></section>
+</div>
+
+=== communisme-heritages | Communisme | Le communisme : expériences et héritages | Monde · XXe-XXIe siècles | Critiques, expériences et recompositions : les communismes du XXe siècle, les critiques libertaires et conseillistes, et un horizon encore discuté.
+<!-- onglet : Expériences et héritages -->
+<p class="doc__relire">Dossier à relire par la bande.</p>
+
+<h2 id="communismes-xxe">Les communismes du XX<sup>e</sup> siècle</h2>
+<p>Les partis communistes ont joué un rôle important dans les luttes antifascistes, les mouvements syndicaux, les mouvements de décolonisation et les mobilisations sociales. Dans plusieurs pays, ils ont participé à la résistance contre le nazisme et les fascismes. Dans d'autres, ils ont construit des organisations de masse ou dirigé des mouvements de libération nationale.</p>
+<p>Mais leur histoire comprend aussi la subordination de partis étrangers à Moscou, les procès politiques, les purges, la répression des anarchistes, socialistes indépendants et communistes dissidents, ainsi que la domination d'appareils bureaucratiques. L'analyse historique doit distinguer les périodes, les pays et les rapports de force plutôt que produire un jugement uniforme.</p>
+
+<h2 id="critiques">Les critiques libertaires et conseillistes</h2>
+<p>Les anarchistes critiquent depuis le XIX<sup>e</sup> siècle la stratégie de conquête de l'État. La révolution russe accentue ce désaccord : la répression des anarchistes, l'écrasement de Kronstadt et la centralisation bolchevique deviennent des références centrales des critiques libertaires (voir <a href="../experiences/makhno-critique-bolcheviks.html">la critique libertaire des bolcheviks</a>). Les communistes de conseils développent une critique marxiste du parti dirigeant et défendent l'auto-organisation des travailleurs par des conseils révocables.</p>
+<p>Ces courants ne se confondent pas. Les anarchistes rejettent généralement l'État comme institution de domination ; les conseillistes peuvent conserver une référence marxiste à la lutte de classes tout en contestant le parti et le parlementarisme. Leurs analyses de la révolution russe, de l'économie et des formes d'organisation diffèrent.</p>
+
+<h2 id="horizon">Un horizon encore discuté</h2>
+<p>Le communisme reste un horizon de critique du capitalisme et de recherche d'une société sans classes, mais ses significations sont disputées. Les mouvements contemporains abordent la propriété commune, les communs, l'autogestion, les services publics, l'écologie et les formes de solidarité. Certains se réclament de Marx, d'autres de Kropotkine, des conseils, des mouvements anticoloniaux ou de traditions féministes.</p>
+<p>L'enjeu est de ne pas confondre l'objectif d'émancipation avec une forme institutionnelle supposée obligatoire. Toute proposition communiste doit être interrogée à partir de questions concrètes : qui décide, comment le pouvoir est contrôlé, comment les minorités sont protégées, comment les besoins sont identifiés et comment empêcher la reconstitution de classes dominantes ?</p>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="communisme-histoire.html">Histoire et origines</a></li>
+<li><a href="communisme-idees.html">Idées et théories</a></li>
+</ul>
+
+<h2 id="mouvements-proches">Mouvements proches dans l'encyclopédie</h2>
+<p>Ce dossier est rangé dans la famille <a href="socialistes-ouvriers.html">socialistes et ouvriers</a>, où le socialisme, le marxisme, le communisme de conseils et le trotskisme sont des dossiers en préparation. Côté libertaire, voir les dossiers <a href="communisme-libertaire-histoire.html">communisme libertaire</a> et <a href="anarchisme-histoire.html">anarchisme</a>.</p>
+
+<h2 id="sources">Bibliographie et ressources</h2>
+<div class="ressources">
+<section><h3>Lire</h3><ul>
+<li><b><cite>The Oxford Handbook of the History of Communism</cite></b>, Stephen A. Smith (dir.), Oxford University Press, 2014.<span>Travail collectif sur les communismes de plusieurs pays et continents. <a href="https://academic.oup.com/edited-volume/35402" rel="noopener">La notice chez Oxford Academic</a>.</span></li>
+<li><b><cite>Lenin</cite></b>, Lars T. Lih, Reaktion Books, 2011.<span>Une biographie courte de Lénine (collection Critical Lives).</span></li>
+<li><b><cite>The Comintern: A History of International Communism from Lenin to Stalin</cite></b>, Kevin McDermott et Jeremy Agnew, Macmillan, 1996.<span>L'histoire de l'Internationale communiste.</span></li>
+<li><b><cite>Critique du programme de Gotha</cite></b>, Karl Marx, 1875.<span>Les deux phases de la société communiste.</span></li>
+<li><b><cite>Manifeste du parti communiste</cite></b>, Karl Marx et Friedrich Engels, 1848.</li>
+<li><b><cite>La Conquête du pain</cite></b>, Pierre Kropotkine, 1892.<span><a href="../livres/la-conquete-du-pain.html">Le livre en entier sur le site</a>.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="communisme-libertaire-histoire.html">Communisme libertaire</a><span>Le dossier de l'encyclopédie, pour les expériences libertaires.</span></li>
+<li><a href="anarchisme-histoire.html">Anarchisme</a><span>Le dossier de l'encyclopédie.</span></li>
+<li><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../experiences/commune-de-paris-histoire.html">La Commune de Paris</a><span>Dans Histoire des luttes.</span></li>
+<li><a href="../glossaire.html#communisme-libertaire">Le glossaire</a><span>Communisme libertaire.</span></li>
+</ul></section>
+</div>

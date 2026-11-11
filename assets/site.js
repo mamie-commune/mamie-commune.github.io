@@ -199,11 +199,14 @@
     f.title = titre; f.allow = "autoplay; encrypted-media; picture-in-picture";
     ecran.prepend(f);
     const envoyer = (func, args = []) => f.contentWindow && f.contentWindow.postMessage(JSON.stringify({ event: "command", func, args }), ORIG);
-    let dur = 0, cur = 0, ecoute, stVoulu = !!st, stPose = false;
+    // YouTube ignore la demande de sous-titres tant que la vidéo n'a pas vraiment commencé (pistes pas encore chargées) :
+    // on la renvoie donc 1,5 s, 4 s et 8 s après le début de la lecture (et à chaque clic sur le bouton ST).
+    let dur = 0, cur = 0, ecoute, stVoulu = !!st, stPose = false, stModule = false, ferme = false;
+    const minuteursSt = [];
     const poserSt = () => {
-      if (!st) return;
-      if (!stVoulu) { envoyer("unloadModule", ["captions"]); return; }
-      envoyer("loadModule", ["captions"]);
+      if (!st || ferme) return;
+      if (!stVoulu) { envoyer("unloadModule", ["captions"]); stModule = false; return; }
+      if (!stModule) { envoyer("loadModule", ["captions"]); stModule = true; }
       envoyer("setOption", ["captions", "track", st.depuis && st.depuis !== st.vers
         ? { languageCode: st.depuis, translationLanguage: { languageCode: st.vers } } : { languageCode: st.vers }]);
     };
@@ -220,8 +223,7 @@
       if (typeof i.videoLoadedFraction === "number") ev.charge(i.videoLoadedFraction);
       if (typeof i.volume === "number") ev.son(i.muted ? 0 : i.volume / 100);
       const s = d.event === "onStateChange" ? d.info : i.playerState;
-      if (d.event === "onReady") poserSt();
-      if (s === 1 && !stPose) { stPose = true; poserSt(); }
+      if (s === 1 && !stPose && st) { stPose = true; [1500, 4000, 8000].forEach((t) => minuteursSt.push(setTimeout(() => { if (stVoulu) poserSt(); }, t))); }
       if (s === 1) { ev.etat("lecture"); ev.attente(false); } else if (s === 2) ev.etat("pause");
       else if (s === 0) ev.etat("fin"); else if (s === 3) ev.attente(true);
       if (d.event === "onError") ev.erreur("YouTube refuse de lire cette vidéo ici. Ouvre-la directement sur YouTube.");
@@ -232,7 +234,7 @@
       volume: (x) => { if (x === 0) envoyer("mute"); else { envoyer("unMute"); envoyer("setVolume", [Math.round(x * 100)]); } },
       vitesse: (r) => envoyer("setPlaybackRate", [r]), pleinIos: () => {},
       sousTitres: (on) => { stVoulu = on; poserSt(); },
-      fermer: () => { clearInterval(ecoute); window.removeEventListener("message", recu); },
+      fermer: () => { ferme = true; clearInterval(ecoute); minuteursSt.forEach(clearTimeout); window.removeEventListener("message", recu); },
     };
   }
 

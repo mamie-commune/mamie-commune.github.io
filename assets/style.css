@@ -602,6 +602,58 @@ html.has-player { overflow: hidden; }
 .doc__poster:hover .doc__photo { filter: none; }
 .doc__poster .vcard__play { z-index: 1; }
 
+/* catalogue des films (videos.html#documentaires) : un rayon de jaquettes, fiche du film dépliable */
+.catalogue__outils { display: grid; gap: 12px; margin-top: 24px; }
+.catalogue__compte { font: 400 15px/1.3 var(--mono); margin: 0; }
+.catalogue { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 48px 34px; margin-top: 32px; align-items: start; }
+.catalogue .doc { display: flex; flex-direction: column; gap: 18px; min-width: 0; scroll-margin-top: 90px; }
+.catalogue .doc[hidden], .catalogue__vide[hidden] { display: none; }
+.catalogue .doc + .doc { margin-top: 0; padding-top: 0; border-top: 0; }
+.catalogue .doc { align-items: stretch; }
+.catalogue .doc__media { width: 100%; }
+.catalogue .doc__poster { width: 100%; box-shadow: 6px 6px 0 var(--shadow); }
+.catalogue .doc:nth-child(even) .doc__poster { transform: rotate(1deg); }
+.catalogue .doc:nth-child(3n) .doc__poster { transform: rotate(-.4deg); }
+.catalogue .doc__ptitle { font-size: clamp(19px, 1.8vw, 24px); }
+.catalogue .doc__photo { top: 47%; }
+.catalogue .doc__pmeta { font-size: 12px; right: 7%; width: max-content; max-width: 86%; }
+.catalogue .doc__text { max-width: none; }
+.catalogue .doc__text > * + * { margin-top: .7em; }
+.catalogue .doc__text h3 { font-size: clamp(21px, 2vw, 25px); line-height: 1.1; }
+.catalogue .doc__text > .cutlist li { font-size: 12px; }
+.doc__langue { position: absolute; right: 5%; bottom: 15%; z-index: 2; font: 400 12px/1 var(--display); background: var(--yellow); color: var(--on-color); border: 2px solid var(--ink); padding: 5px 7px; transform: rotate(4deg); }
+.doc__actions { display: flex; flex-wrap: wrap; gap: 10px; }
+.doc__fiche > summary { display: inline-block; list-style: none; cursor: pointer; font: 400 14px/1 var(--display); text-transform: uppercase; color: var(--ink); background: var(--paper-2); border: 2px solid var(--ink); padding: 9px 12px; }
+.doc__fiche > summary::-webkit-details-marker { display: none; }
+.doc__fiche > summary::after { content: " +"; }
+.doc__fiche[open] > summary { background: var(--ink); color: var(--paper-2); }
+.doc__fiche[open] > summary::after { content: " −"; }
+.doc__fiche > summary:hover, .doc__fiche > summary:focus-visible { background: var(--yellow); color: var(--on-color); }
+.doc__fiche > * + * { margin-top: .9em; }
+.doc__credit { font: 400 13px/1.4 var(--mono); }
+/* fiche ouverte : le film prend toute la largeur du rayon, jaquette à gauche, fiche à droite */
+.catalogue .doc:has(> .doc__text > .doc__fiche[open]) { grid-column: 1 / -1; display: grid; grid-template-columns: minmax(0, 300px) minmax(0, 1fr); gap: 40px; align-items: start;
+  padding: clamp(18px, 3vw, 32px); background: var(--paper-2); border: 3px solid var(--ink); box-shadow: 8px 8px 0 var(--shadow); }
+.catalogue .doc:has(> .doc__text > .doc__fiche[open]) .doc__text { max-width: 70ch; }
+@media (max-width: 760px) {
+  /* téléphone : deux jaquettes par rangée, comme un rayon */
+  .catalogue { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 32px 16px; }
+  .catalogue .doc { gap: 12px; }
+  .catalogue .doc__poster { width: 100%; box-shadow: 4px 4px 0 var(--shadow); border-width: 2px; }
+  .catalogue .doc__ptitle { font-size: 16px; }
+  .catalogue .doc__pmeta { font-size: 10px; padding: 4px 5px; }
+  .catalogue .doc__langue { font-size: 10px; padding: 3px 5px; }
+  .catalogue .doc__photo { border-width: 3px; }
+  .catalogue .doc__poster .vcard__play { transform: translate(-50%, -50%) scale(.7); }
+  .catalogue .doc:not(:has(> .doc__text > .doc__fiche[open])) .doc__text > .cutlist { display: none; }
+  .catalogue .doc__text h3 { font-size: 17px; }
+  .catalogue .doc__actions .btn { padding: 9px 10px; font-size: 13px; }
+  .doc__fiche > summary { font-size: 12px; padding: 8px 9px; }
+  .catalogue .doc:has(> .doc__text > .doc__fiche[open]) { grid-template-columns: 1fr; gap: 20px; }
+  .catalogue .doc:has(> .doc__text > .doc__fiche[open]) .doc__media { width: min(100%, 260px); }
+}
+.facile .doc__langue, .facile .catalogue .doc .doc__poster { transform: none; }
+
 /* listes découpées (« DESSIN · COLLAGE · … ») et slogans */
 .cutlist { list-style: none; margin: 22px 0 0; padding: 0; display: flex; flex-wrap: wrap; gap: 8px; }
 .cutlist li { font: 700 14px/1 var(--mono); text-transform: uppercase; letter-spacing: .06em; background: var(--ink); color: var(--paper-2); padding: 7px 10px; }
@@ -1042,6 +1094,10 @@ html.facile {
 .lec__play svg { width: 22px; height: 22px; }
 .lec__temps { flex: none; font: 400 15px/1 var(--mono); white-space: nowrap; font-variant-numeric: tabular-nums; min-width: 9.5ch; text-align: center; }
 .lec__vit { min-width: 52px; }
+/* sous-titres (vidéos YouTube qui en demandent) : rose quand ils s'affichent, barré quand ils sont masqués */
+.lec__st[hidden] { display: none; }
+.lec__st[aria-pressed="true"] { background: var(--pink); border-color: var(--pink); color: var(--on-color); }
+.lec__st[aria-pressed="false"] { text-decoration: line-through; }
 
 /* barre de progression et volume : piste noire, déjà-chargé gris, déjà-vu rouge, curseur rose carré */
 .lec__barre, .lec__vol { -webkit-appearance: none; appearance: none; height: 14px; margin: 0; border: 2px solid var(--paper-2); border-radius: 0; cursor: pointer; background:

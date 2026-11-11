@@ -100,6 +100,7 @@
 <ul>
 <li>Le dossier <a href="../experiences/espagne-1936-histoire.html">La révolution espagnole</a> et sa partie <a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes de la révolution</a>.</li>
 <li>La fiche <a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a>, l'hommage d'Emma Goldman.</li>
+<li>Le film <a href="../videos.html#libertarias">Libertarias</a> (Vicente Aranda, 1996), où des miliciennes partent avec sa colonne vers le front d'Aragon : une fiction, dans la vidéothèque.</li>
 </ul>
 
 <h2 id="sources">Sources et pour aller plus loin</h2>

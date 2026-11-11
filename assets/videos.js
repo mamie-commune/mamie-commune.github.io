@@ -59,3 +59,63 @@
     });
   });
 })();
+
+// Catalogue des films et documentaires (videos.html, section #documentaires) : filtres par genre et par thème,
+// bouton « Regarder » qui lance l'affiche, et fiche du film dépliable (<details>) qui s'ouvre aussi depuis une adresse #film.
+(function () {
+  "use strict";
+  const grille = document.querySelector(".catalogue");
+  if (!grille) return;
+  document.addEventListener("click", (e) => {
+    const b = e.target.closest(".doc__regarder");
+    if (b) { const p = b.closest(".doc").querySelector(".doc__poster"); if (p) p.click(); }
+  });
+  const doux = () => (matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth");
+  grille.addEventListener("toggle", (e) => {
+    if (e.target.matches && e.target.matches(".doc__fiche") && e.target.open) {
+      const a = e.target.closest(".doc");
+      requestAnimationFrame(() => a.scrollIntoView({ block: "start", behavior: doux() }));
+    }
+  }, true);
+
+  const outils = document.querySelector("[data-catalogue-outils]");
+  const docs = [...grille.querySelectorAll(".doc")];
+  const vide = document.querySelector(".catalogue__vide");
+  let genre = "", theme = "";
+  const appliquer = () => {
+    if (!outils) return;
+    let n = 0;
+    docs.forEach((d) => {
+      const ok = (!genre || d.dataset.type === genre) && (!theme || (d.dataset.themes || "").split(" ").includes(theme));
+      d.hidden = !ok; if (ok) n++;
+    });
+    outils.querySelector(".catalogue__compte").textContent = `${n} ${n > 1 ? "titres" : "titre"} ${genre || theme ? "pour ce choix" : "dans le rayon"}`;
+    if (vide) vide.hidden = n > 0;
+  };
+  const choisir = (groupe, v) => {
+    if (groupe === "genre") genre = v; else theme = v;
+    if (outils) outils.querySelectorAll(`[data-${groupe}]`).forEach((c) => c.setAttribute("aria-pressed", c.dataset[groupe] === v ? "true" : "false"));
+    appliquer();
+  };
+  if (outils) {
+    outils.hidden = false;
+    const liens = document.querySelector(".catalogue__liens");
+    if (liens) liens.hidden = true;
+    outils.addEventListener("click", (e) => {
+      const c = e.target.closest(".chip");
+      if (c) choisir("genre" in c.dataset ? "genre" : "theme", c.dataset.genre ?? c.dataset.theme);
+    });
+    appliquer();
+  }
+  // Adresse videos#libertarias : on montre le film (filtres remis à zéro au besoin) et on ouvre sa fiche.
+  const ouvrir = () => {
+    const id = decodeURIComponent(location.hash.slice(1));
+    const a = id && document.getElementById(id);
+    if (!a || !docs.includes(a)) return;
+    if (a.hidden) { choisir("genre", ""); choisir("theme", ""); }
+    const d = a.querySelector(".doc__fiche");
+    if (d && !d.open) d.open = true; else a.scrollIntoView({ block: "start" });
+  };
+  ouvrir();
+  window.addEventListener("hashchange", ouvrir);
+})();

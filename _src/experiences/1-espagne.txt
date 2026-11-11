@@ -66,6 +66,7 @@
 </ul></section>
 <section><h3>Regarder</h3><ul>
 <li><b><cite>Land and Freedom</cite></b>, Ken Loach, 1995.<span>Le film sur les milices et la révolution, avec la célèbre assemblée sur la collectivisation.</span></li>
+<li><a href="../videos.html#libertarias"><cite>Libertarias</cite></a>, Vicente Aranda, 1996.<span>Le film des miliciennes de Mujeres Libres parties avec la colonne Durruti, à voir dans la vidéothèque de Mamie, sous-titré en français.</span></li>
 <li><b><cite>Vivir la utopía</cite></b>, Juan Gamero, 1997.<span>Un documentaire de la télévision espagnole, fait de témoignages d'anarchistes qui ont vécu la révolution.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
@@ -237,6 +238,9 @@
 <li><b><cite>Hommage à la Catalogne</cite></b>, George Orwell, 1938.<span>Orwell était à Barcelone pendant les journées de mai 1937.</span></li>
 <li><a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a><span>Notre fiche : l'hommage d'Emma Goldman.</span></li>
 <li><a href="../bibliotheque/anarchistes-electoralistes.html">Anarchistes électoralistes</a><span>Notre fiche : Malatesta sur la tentation du pouvoir, dix ans avant.</span></li>
+</ul></section>
+<section><h3>Regarder</h3><ul>
+<li><a href="../videos.html#libertarias"><cite>Libertarias</cite></a>, Vicente Aranda, 1996.<span>Une fiction sur une nonne qui rejoint les miliciennes de Mujeres Libres en route pour le front d'Aragon, dans la vidéothèque de Mamie.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/Mujeres_Libres" rel="noopener">Mujeres Libres</a><span>Vingt mille femmes anarchistes organisées.</span></li>

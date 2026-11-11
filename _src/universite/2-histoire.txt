@@ -36,7 +36,8 @@
 </ul>
 
 <h2 id="videos">Vidéos et documentaires</h2>
-<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître, une histoire de l'anarchisme</a> : La Volupté de la destruction (1840-1906), Terre et liberté (1900-1927), La Mémoire des vaincus (1922-1945).</li></ul>
+<ul><li><a href="../videos.html#ni-dieu-ni-maitre">Ni Dieu ni maître, une histoire de l'anarchisme</a> : La Volupté de la destruction (1840-1906), Terre et liberté (1900-1927), La Mémoire des vaincus (1922-1945).</li>
+<li><a href="../videos.html#libertarias">Libertarias</a>, film de fiction de Vicente Aranda (1996) sur les miliciennes anarchistes de 1936, sous-titré en français.</li></ul>
 
 <h2 id="glossaire">Glossaire</h2>
 <p class="parcours-mots"><a href="../glossaire.html#internationale">Internationale</a> <a href="../glossaire.html#propagande-par-le-fait">Propagande par le fait</a> <a href="../glossaire.html#syndicalisme-revolutionnaire">Syndicalisme révolutionnaire</a> <a href="../glossaire.html#soviet">Soviet</a> <a href="../glossaire.html#collectivisation">Collectivisation</a></p>

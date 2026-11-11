@@ -189,14 +189,24 @@
   }
 
   // Source YouTube : lecteur sans commandes, piloté par postMessage (protocole du lecteur intégré YouTube).
-  function sourceYoutube(ecran, id, titre, ev) {
+  // Sous-titres (st = { vers: "fr", depuis: "en" }) : on demande à YouTube sa traduction automatique de la piste
+  // « depuis » vers la langue « vers » (paramètres de l'adresse, puis commande setOption une fois le lecteur prêt).
+  function sourceYoutube(ecran, id, titre, ev, st) {
     const ORIG = "https://www.youtube-nocookie.com";
     const f = document.createElement("iframe");
-    f.src = `${ORIG}/embed/${encodeURIComponent(id)}?autoplay=1&controls=0&rel=0&modestbranding=1&playsinline=1&iv_load_policy=3&disablekb=1&enablejsapi=1&origin=${encodeURIComponent(location.origin)}`;
+    const cc = st ? `&hl=${encodeURIComponent(st.vers)}&cc_load_policy=1&cc_lang_pref=${encodeURIComponent(st.vers)}` : "";
+    f.src = `${ORIG}/embed/${encodeURIComponent(id)}?autoplay=1&controls=0&rel=0&modestbranding=1&playsinline=1&iv_load_policy=3&disablekb=1&enablejsapi=1${cc}&origin=${encodeURIComponent(location.origin)}`;
     f.title = titre; f.allow = "autoplay; encrypted-media; picture-in-picture";
     ecran.prepend(f);
     const envoyer = (func, args = []) => f.contentWindow && f.contentWindow.postMessage(JSON.stringify({ event: "command", func, args }), ORIG);
-    let dur = 0, cur = 0, ecoute;
+    let dur = 0, cur = 0, ecoute, stVoulu = !!st, stPose = false;
+    const poserSt = () => {
+      if (!st) return;
+      if (!stVoulu) { envoyer("unloadModule", ["captions"]); return; }
+      envoyer("loadModule", ["captions"]);
+      envoyer("setOption", ["captions", "track", st.depuis && st.depuis !== st.vers
+        ? { languageCode: st.depuis, translationLanguage: { languageCode: st.vers } } : { languageCode: st.vers }]);
+    };
     const ecouter = () => f.contentWindow && f.contentWindow.postMessage(JSON.stringify({ event: "listening", id: 1, channel: "widget" }), ORIG);
     f.addEventListener("load", () => { ecouter(); ecoute = setInterval(ecouter, 500); });
     const recu = (e) => {
@@ -210,6 +220,8 @@
       if (typeof i.videoLoadedFraction === "number") ev.charge(i.videoLoadedFraction);
       if (typeof i.volume === "number") ev.son(i.muted ? 0 : i.volume / 100);
       const s = d.event === "onStateChange" ? d.info : i.playerState;
+      if (d.event === "onReady") poserSt();
+      if (s === 1 && !stPose) { stPose = true; poserSt(); }
       if (s === 1) { ev.etat("lecture"); ev.attente(false); } else if (s === 2) ev.etat("pause");
       else if (s === 0) ev.etat("fin"); else if (s === 3) ev.attente(true);
       if (d.event === "onError") ev.erreur("YouTube refuse de lire cette vidéo ici. Ouvre-la directement sur YouTube.");
@@ -219,12 +231,13 @@
       lire: () => envoyer("playVideo"), pause: () => envoyer("pauseVideo"), aller: (t) => envoyer("seekTo", [t, true]),
       volume: (x) => { if (x === 0) envoyer("mute"); else { envoyer("unMute"); envoyer("setVolume", [Math.round(x * 100)]); } },
       vitesse: (r) => envoyer("setPlaybackRate", [r]), pleinIos: () => {},
+      sousTitres: (on) => { stVoulu = on; poserSt(); },
       fermer: () => { clearInterval(ecoute); window.removeEventListener("message", recu); },
     };
   }
 
   let dialog, source = null, cle = "";
-  function player({ title, embed, file, secours, link, linkLabel, vertical }) {
+  function player({ title, embed, file, secours, link, linkLabel, vertical, sousTitres }) {
     if (!dialog) {
       dialog = document.createElement("dialog");
       dialog.className = "player";
@@ -239,6 +252,7 @@
           <input class="lec__barre" type="range" min="0" max="1000" step="1" value="0" aria-label="Position dans la vidéo">
           <button class="lec__btn lec__son" type="button" aria-label="Couper le son">${ICONES.son}</button>
           <input class="lec__vol" type="range" min="0" max="100" step="5" value="100" aria-label="Volume">
+          <button class="lec__btn lec__st" type="button" aria-pressed="true" hidden>ST</button>
           <button class="lec__btn lec__vit" type="button" aria-label="Vitesse de lecture : normale">1×</button>
           <button class="lec__btn lec__plein" type="button" aria-label="Plein écran">${ICONES.plein}</button>
         </div>
@@ -269,7 +283,11 @@
       lec.hidden = false;
       raz();
       const ev = evenements();
-      source = file ? sourceFichier(ecran, file, secours, ev) : sourceYoutube(ecran, yt[1], title, ev);
+      const stYt = !file && sousTitres && sousTitres.vers ? sousTitres : null;
+      const bst = lec.querySelector(".lec__st");
+      bst.hidden = !stYt;
+      if (stYt) { bst.dataset.vers = stYt.vers; etatSt(true); }
+      source = file ? sourceFichier(ecran, file, secours, ev) : sourceYoutube(ecran, yt[1], title, ev, stYt);
     } else {
       // TikTok et autres lecteurs intégrés : leur propre lecteur.
       dialog.classList.remove("player--maison");
@@ -282,6 +300,14 @@
     (lec.hidden ? dialog.querySelector(".player__close") : lec.querySelector(".lec__play")).focus();
   }
   window.mamiePlayer = player;
+
+  // Bouton des sous-titres (vidéos YouTube qui en demandent) : appuyé = sous-titres affichés.
+  function etatSt(on) {
+    const b = dialog.querySelector(".lec__st"), langue = b.dataset.vers === "fr" ? "en français" : "(" + b.dataset.vers + ")";
+    b.setAttribute("aria-pressed", on ? "true" : "false");
+    b.setAttribute("aria-label", (on ? "Masquer les sous-titres " : "Afficher les sous-titres ") + langue);
+    b.title = on ? "Sous-titres affichés (touche C)" : "Sous-titres masqués (touche C)";
+  }
 
   // État affiché par la barre, remis à zéro à chaque vidéo.
   let st = {};
@@ -406,6 +432,13 @@
       e.currentTarget.textContent = String(r).replace(".", ",") + "×";
       e.currentTarget.setAttribute("aria-label", `Vitesse de lecture : ${r === 1 ? "normale" : "× " + String(r).replace(".", ",")}`);
     });
+    const sousTitres = () => {
+      const b = $(".lec__st");
+      if (!source || !source.sousTitres || b.hidden) return;
+      const on = b.getAttribute("aria-pressed") !== "true";
+      source.sousTitres(on); etatSt(on);
+    };
+    $(".lec__st").addEventListener("click", sousTitres);
     $(".lec__plein").addEventListener("click", plein);
     document.addEventListener("fullscreenchange", () => {
       const on = document.fullscreenElement === $(".player__in");
@@ -427,6 +460,7 @@
       else if (k === "arrowdown") { e.preventDefault(); volume(st.vol - 0.1); }
       else if (k === "m") volume(st.vol === 0 ? (st.avant || 1) : 0);
       else if (k === "f") plein();
+      else if (k === "c") sousTitres();
     });
   }
 
@@ -438,7 +472,9 @@
       player({ title: label(cover), embed: `https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&rel=0`, link: `https://www.youtube.com/watch?v=${encodeURIComponent(id)}` });
     } else if (poster && (poster.dataset.embed || poster.dataset.src)) {
       const m = (poster.dataset.embed || "").match(/youtube-nocookie\.com\/embed\/([\w-]{11})/);
-      player({ title: label(poster), embed: poster.dataset.embed, file: poster.dataset.src, secours: poster.dataset.secours, link: m && `https://www.youtube.com/watch?v=${m[1]}` });
+      // data-sous-titres="fr" (langue voulue) et data-sous-titres-source="en" (piste YouTube à traduire).
+      const sousTitres = poster.dataset.sousTitres ? { vers: poster.dataset.sousTitres, depuis: poster.dataset.sousTitresSource || "" } : null;
+      player({ title: label(poster), embed: poster.dataset.embed, file: poster.dataset.src, secours: poster.dataset.secours, link: m && `https://www.youtube.com/watch?v=${m[1]}`, sousTitres });
     }
   });
 })();

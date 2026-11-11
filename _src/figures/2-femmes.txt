@@ -274,6 +274,9 @@
 <li><b><cite>Free Women of Spain</cite></b>, Martha Ackelsberg, 1991, trad. française <cite>La Liberté des femmes</cite>, Atelier de création libertaire.<span>L'histoire de Mujeres Libres.</span></li>
 <li><b><cite>Mujeres Libres, Espagne 1936-1939</cite></b>, Mary Nash, éd. La Pensée sauvage, 1977.<span>Les textes de l'organisation.</span></li>
 </ul></section>
+<section><h3>Regarder</h3><ul>
+<li><a href="../videos.html#libertarias"><cite>Libertarias</cite></a>, Vicente Aranda, 1996.<span>Une fiction sur des miliciennes de Mujeres Libres en 1936, dans la vidéothèque de Mamie.</span></li>
+</ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/Luc%C3%ADa_S%C3%A1nchez_Saornil" rel="noopener">Lucía Sánchez Saornil sur Wikipédia</a><span>Repères biographiques.</span></li>
 <li><a href="https://fr.wikipedia.org/wiki/Mujeres_Libres" rel="noopener">Mujeres Libres sur Wikipédia</a><span>L'organisation.</span></li>

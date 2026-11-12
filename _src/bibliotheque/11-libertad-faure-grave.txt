@@ -1,6 +1,7 @@
 === aux-resignes | Individu & morale | Aux résignés | Albert Libertad · 1905 | La résignation soutient l'ordre établi mieux que la police : un cri pour vivre pleinement, ici et maintenant.
 <h2 id="contexte">Contexte</h2>
 <p>Le 13 avril 1905 paraît le premier numéro de <em>l'anarchie</em>, l'hebdomadaire qu'Albert Libertad vient de fonder à Montmartre avec ses compagnes et compagnons, dont Anna Mahé. Ce texte ouvre le journal comme un manifeste. Libertad, infirme depuis l'enfance, arrivé à Paris sans un sou, a connu la rue, la faim et la prison. Il ne croit pas aux lendemains qui chantent : il veut vivre libre tout de suite.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-l-anarchie-1905.jpg" alt="Première page de l'anarchie, avec le grand titre « Et que crève le vieux monde »." width="645" height="999" loading="lazy"><figcaption><em>L'anarchie</em> du 27 décembre 1905. En une : « Et que crève le vieux monde ». <small>journal l'anarchie · domaine public · <a href="https://commons.wikimedia.org/wiki/File:L%27anarchie-27-12-1905.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Libertad hait la résignation plus encore que la servitude : c'est elle qui maintient l'État, les Églises, le capital et la famille autoritaire. La révolte, c'est la vie ; la passivité, c'est la mort.</p>
@@ -161,6 +162,7 @@
 === les-anarchistes-faure | État & pouvoir | Les Anarchistes : ce qu'ils sont, ce qu'ils ne sont pas | Sébastien Faure · 1920 | Ni rêveurs inoffensifs ni brutes : les anarchistes combattent ensemble l'État, la propriété et la religion.
 <h2 id="contexte">Contexte</h2>
 <p>Sébastien Faure publie cette brochure en 1920. La guerre a décimé le mouvement, la révolution russe attire une partie des anarchistes vers le communisme, et la presse continue de présenter les anarchistes comme des bandits, des poseurs de bombes ou des illuminés. Faure veut reconstruire, avec une présentation claire et accessible.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-la-ruche-fete.jpg" alt="Une foule endimanchée dans un pré, sous les arbres." width="977" height="614" loading="lazy"><figcaption>Un jour de fête à La Ruche, l'école libertaire que Sébastien Faure fait vivre près de Rambouillet de 1904 à 1917 (carte postale). <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:La_Ruche_un_jour_de_f%C3%AAte.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>L'anarchisme, c'est le refus de toute autorité. Celle-ci a trois visages qui se soutiennent : l'État, autorité sur les personnes ; la propriété, autorité sur les biens ; la religion, autorité sur les consciences. Il faut les abattre ensemble.</p>
@@ -238,6 +240,7 @@
 === fetichisme-de-la-loi | État & pouvoir | Le Fétichisme de la loi | Jean Grave · 1895 | La loi exprime les intérêts de celles et ceux qui ont le pouvoir ; dès qu'on la discute, elle ne tient plus que par la force.
 <h2 id="contexte">Contexte</h2>
 <p>Jean Grave publie ce texte en 1895 dans <em>Les Temps nouveaux</em>, le journal qu'il vient de fonder. Il répond au <em>Figaro</em>, grand quotidien conservateur, qui admettait l'existence de lois injustes tout en affirmant qu'il fallait les respecter tant qu'elles n'étaient pas abrogées. C'est l'époque des « lois scélérates », dont Grave lui-même a été victime.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-la-revolte-bureaux-1893.jpg" alt="Gravure : une mansarde encombrée de papiers, une cour et un portrait." width="1200" height="844" loading="lazy"><figcaption>Les bureaux de <em>La Révolte</em>, le journal de Jean Grave, sous les toits du 140 rue Mouffetard à Paris, dessinés en 1893. <small>Jack Abeillé · CC0 · <a href="https://commons.wikimedia.org/wiki/File:L%27anarchie_%C3%A0_Paris.-_Les_bureaux_du_journal_La_R%C3%A9volte,_140_rue_Mouffetard._G.38045.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La loi est arbitraire : elle exprime les intérêts de celles et ceux qui la font. Exiger qu'on s'y soumette sans discuter est un acte de foi, comme on adore un fétiche. Dès qu'on la critique, son autorité vacille, et il ne lui reste que la force.</p>
@@ -316,6 +319,7 @@
 === la-democratie-proudhon | État & pouvoir | La Démocratie | Pierre-Joseph Proudhon · 1848 | En 1848, Proudhon examine le suffrage universel : il ne fait pas parler le peuple, il en fabrique un symbole.
 <h2 id="contexte">Contexte</h2>
 <p>Février 1848 : une révolution renverse le roi Louis-Philippe. Le gouvernement provisoire proclame la République et convoque une Assemblée élue au suffrage universel masculin, une première. L'enthousiasme est immense. Proudhon, lui, reste sceptique. Ce texte est un extrait de <em>Solution du problème social</em>, qu'il publie au printemps 1848, avant les élections d'avril. Celles-ci donneront une assemblée conservatrice, qui écrasera en juin l'insurrection ouvrière.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-proudhon-1848.jpg" alt="Portrait gravé de Proudhon en costume, 1848." width="1200" height="1693" loading="lazy"><figcaption>Proudhon en 1848, l'année où il est élu à l'Assemblée nationale. Lithographie d'Émile Desmaisons. <small>Émile Desmaisons · domaine public · <a href="https://commons.wikimedia.org/wiki/File:P._J._Proudhon_N%C3%A9_%C3%A0_Besan%C3%A7on,_le_15_Janvier_1809_-_estampe_-_btv1b53015371q.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La démocratie représentative ne fait pas parler le peuple ; elle reproduit des privilèges, impose la loi d'une majorité et ne résout pas la question sociale. La vraie République passe par l'organisation économique du travail.</p>

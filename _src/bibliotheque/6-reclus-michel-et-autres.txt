@@ -1,6 +1,7 @@
 === l-anarchie-reclus | État & pouvoir | L'Anarchie | Élisée Reclus · 1894 | Un discours de 1894 : l'anarchie est un idéal ancien devenu mouvement conscient, et l'ordre actuel est bien plus chaotique qu'elle.
 <h2 id="contexte">Contexte</h2>
 <p>Élisée Reclus (1830-1905), géographe célèbre dans toute l'Europe et ancien communard, prononce ce discours le 18 juin 1894 à Bruxelles, devant une loge maçonnique qui l'a invité sans qu'il en soit membre. Il vient d'être nommé professeur à l'Université nouvelle de Bruxelles.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-geographe.jpg" alt="Élisée Reclus âgé, barbe blanche, de face." width="1200" height="1557" loading="lazy"><figcaption>Élisée Reclus dans l'atelier Nadar, vers 1890-1900. Sur le carton, une main a noté « géographe ». <small>atelier Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:M._Elis%C3%A9e_Reclus._G%C3%A9ographe_-_btv1b532261609.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le moment est tendu. En France, une vague d'attentats anarchistes (Ravachol, Vaillant à la Chambre des députés, Henry au café Terminus) a conduit au vote des « lois scélérates », qui permettent de poursuivre toute propagande anarchiste. Une semaine plus tard, le président Sadi Carnot sera poignardé à Lyon. Reclus, homme doux et pacifique, n'en défend pas moins l'idée anarchiste devant un public bourgeois.</p>
 
 <h2 id="these">La thèse</h2>
@@ -48,6 +49,7 @@
 === pourquoi-sommes-nous-anarchistes | État & pouvoir | Pourquoi sommes-nous anarchistes ? | Élisée Reclus · 1889 | Une profession de foi courte et limpide : refus de l'injustice, refus de l'autorité, communisme libre et révolution.
 <h2 id="contexte">Contexte</h2>
 <p>Ce texte paraît en 1889 dans <em>La Société nouvelle</em>, une revue belge qui accueille socialistes et anarchistes. C'est l'année du centenaire de la Révolution française et de la fondation de la Deuxième Internationale, socialiste et parlementaire. Reclus répond en quelques pages à celles et ceux qui jugent la révolution inutile ou dangereuse, et explique simplement pourquoi il est anarchiste.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-vers-1890.jpg" alt="Élisée Reclus, les bras croisés." width="1200" height="1595" loading="lazy"><figcaption>Élisée Reclus vers 1890, à l'époque où il vit en Suisse. <small>F. Thévoz et J. Lacroix, Genève · CC0 · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_RP-F-2001-7-1103A-16_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Être anarchiste, c'est refuser l'injustice et l'autorité, et vouloir une société de libres associations, sans État ni maître, où les biens sont communs. Ce changement passe par une révolution, car les privilégiés ne céderont pas d'eux-mêmes.</p>
@@ -94,6 +96,7 @@
 === voter-c-est-abdiquer | État & pouvoir | Voter c'est abdiquer | Élisée Reclus · 1885 | Une lettre de 1885 : voter, c'est se donner des maîtres, être dupe, et finir trahi. Il faut agir soi-même.
 <h2 id="contexte">Contexte</h2>
 <p>En 1885, des élections législatives approchent. Des camarades demandent à Élisée Reclus son avis sur le vote. Il répond par une lettre écrite à Clarens, en Suisse, le 26 septembre 1885, adressée à Jean Grave, qui la publie dans <em>Le Révolté</em> du 11 octobre. Elle deviendra le texte anti-électoral le plus diffusé de l'anarchisme français, réimprimé à chaque élection depuis plus d'un siècle.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-1878.jpg" alt="Portrait ovale d'Élisée Reclus à la quarantaine." width="943" height="1511" loading="lazy"><figcaption>Élisée Reclus photographié par Nadar en 1878, pour la Société de géographie. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_by_Nadar,_1878,_original.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Voter, c'est renoncer à sa propre souveraineté. Rien de bon ne sort de la délégation du pouvoir ; il faut défendre soi-même ses intérêts, avec d'autres.</p>
@@ -186,6 +189,7 @@
 === memoires-louise-michel | Révolution & stratégie | Mémoires | Louise Michel · 1886 | L'enfance en Haute-Marne, l'institutrice républicaine, la Commune, la déportation et les procès, racontés par elle-même.
 <h2 id="contexte">Contexte</h2>
 <p>Louise Michel (1830-1905) a été condamnée en 1883 à six ans de prison pour avoir mené, drapeau noir en tête, une manifestation de chômeuses et chômeurs à Paris. Graciée début 1886, elle publie la même année le premier tome de ses <em>Mémoires</em>. Elle a alors 56 ans, une célébrité immense, et une vie déjà extraordinaire derrière elle : la Commune, sept ans de déportation en Nouvelle-Calédonie, l'amnistie de 1880 et le retour triomphal.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-michel-commune.jpg" alt="Louise Michel debout, les bras croisés, en 1871." width="1200" height="1958" loading="lazy"><figcaption>Louise Michel en 1871, photographiée par Ernest Appert après son arrestation. <small>Ernest Appert · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Portrait_de_Louise_Michel_(1830-1905),_pendant_la_Commune_de_Paris_1871._PH15064.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="projet">Le projet</h2>
 <p>Ce sont des souvenirs écrits à la demande de ses proches, dans un style libre qui procède par associations d'idées, mêlant récit, réflexions, poèmes et chansons. Elle y revendique le droit des femmes à exprimer leur sensibilité, et refuse d'écrire un récit lisse de « grande figure ».</p>
@@ -236,6 +240,7 @@
 === l-ere-nouvelle | Révolution & stratégie | L'Ère nouvelle | Louise Michel · 1887 | Le vieux monde s'effondre ; machines, science et terre reviendront à tout le monde dans une société sans maîtres.
 <h2 id="contexte">Contexte</h2>
 <p>Louise Michel publie cette brochure en 1887, peu après sa libération de prison. L'actualité est brûlante : la grande grève des mineurs de Decazeville en 1886, où un ingénieur est jeté par la fenêtre par des grévistes, les grèves et la répression sanglante en Belgique (le Borinage), les guerres coloniales au Tonkin, et toujours la mémoire de la Commune écrasée.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-michel-ere-nouvelle.jpg" alt="Couverture d'une brochure de 1887 : L'Ère nouvelle, par Louise Michel." width="760" height="1313" loading="lazy"><figcaption>La couverture de <em>L'Ère nouvelle</em> en 1887, vendue 50 centimes. <small>Louise Michel · domaine public · <a href="https://commons.wikimedia.org/wiki/File:L%27%C3%88re_nouvelle._Pens%C3%A9e_derni%C3%A8re._Souvenirs_de_Cal%C3%A9donie_(Chant_des_captifs).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Capitalisme et État appartiennent à un monde condamné. La révolution est inévitable et ouvrira une société libre, sans classes, où la science et les machines profiteront à tout le monde au lieu d'enrichir quelques-uns.</p>
@@ -281,6 +286,7 @@
 === idee-generale-de-la-revolution | Révolution & stratégie | Idée générale de la Révolution au XIXe siècle | Pierre-Joseph Proudhon · 1851 | Écrit en prison après 1848 : la question sociale prime sur la question politique, et le gouvernement doit se dissoudre dans l'organisation économique.
 <h2 id="contexte">Contexte</h2>
 <p>En 1848, Proudhon est élu député de la Seine. Il assiste à l'écrasement de l'insurrection ouvrière de juin 1848, puis tente de fonder une « Banque du peuple » de crédit gratuit, qui échoue. En 1849, il est condamné à trois ans de prison pour ses articles contre le président Louis-Napoléon Bonaparte. C'est en prison qu'il écrit ce livre, publié en 1851, quelques mois avant le coup d'État du 2 décembre qui mettra fin à la République.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-proudhon-courbet.jpg" alt="Photographie ancienne d'un tableau : Proudhon assis sur des marches, ses deux filles jouant à côté de lui." width="1200" height="1019" loading="lazy"><figcaption><em>Proudhon et ses enfants en 1853</em>, le tableau de son ami Gustave Courbet (1865), sur une photographie ancienne annotée à la main. <small>Jacques-Ernest Bulloz (attribué), d'après Gustave Courbet · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Courbet,_Proudhon_et_ses_enfants,_PPPH00634(3).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La révolution est une nécessité historique : plus on la comprime, plus elle grandit. 1789 n'a fait que la moitié du travail : abolir le féodalisme sans bâtir l'organisation économique qui devait suivre. La question sociale prime sur la question politique ; le gouvernement doit se dissoudre dans l'organisation économique.</p>
@@ -372,6 +378,7 @@
 === douze-preuves | Individu & morale | Douze preuves de l'inexistence de Dieu | Sébastien Faure · 1908 | Créateur, gouverneur, juge : Faure examine le Dieu des religions et montre que ses attributs se contredisent.
 <h2 id="contexte">Contexte</h2>
 <p>Sébastien Faure (1858-1942) a été élevé chez les jésuites et a commencé un noviciat avant de perdre la foi. Devenu anarchiste, il est l'un des plus grands orateurs de son temps : il parcourt la France pendant des décennies pour des conférences payantes qui financent ses journaux et ses projets. Il fonde avec Louise Michel <em>Le Libertaire</em> en 1895, l'école libertaire La Ruche en 1904, puis dirigera l'<em>Encyclopédie anarchiste</em>.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-faure-nadar.jpg" alt="Sébastien Faure, moustache relevée, en costume." width="1200" height="1732" loading="lazy"><figcaption>Sébastien Faure dans l'atelier Nadar. <small>atelier Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Faure_studio_portrait.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte est la transcription d'une conférence qu'il a donnée des centaines de fois. Elle est publiée en 1908, trois ans après la loi de séparation des Églises et de l'État, dans un pays où le combat entre cléricaux et anticléricaux reste très vif.</p>
 
 <h2 id="these">La thèse</h2>
@@ -432,6 +439,7 @@
 === electeur-ecoute | État & pouvoir | Électeur, écoute | Sébastien Faure · 1919 | Après la boucherie de 14-18 et l'Union sacrée, un appel à l'abstention : le Parlement fait partie de l'appareil qu'il prétend réformer.
 <h2 id="contexte">Contexte</h2>
 <p>Novembre 1919 : un an après l'armistice, la France compte 1,4 million de morts et des millions de blessés. En 1914, les députés socialistes ont voté les crédits de guerre et soutenu l'« Union sacrée » ; certains sont même entrés au gouvernement. Les élections législatives approchent. Sébastien Faure, qui s'était opposé à la guerre, publie cette brochure pour appeler à l'abstention.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-faure-police.jpg" alt="Photographie d'identité de Sébastien Faure, avec un numéro et son nom écrit à la main." width="646" height="987" loading="lazy"><figcaption>Sébastien Faure fiché par la police, sur une photographie anthropométrique. <small>préfecture de police · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Fauresebastien_police.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Voter, c'est accepter sa propre soumission. Le Parlement fait partie de l'État, qu'il faut détruire et non conquérir. L'abstention, si elle est massive et consciente, est un acte de lutte.</p>
@@ -477,6 +485,7 @@
 === l-anarchie-grave | État & pouvoir | L'Anarchie, son but, ses moyens | Jean Grave · 1899 | Une synthèse de 1899 par l'éditeur des Temps nouveaux : l'individu libre dans l'humanité libre, et comment y parvenir.
 <h2 id="contexte">Contexte</h2>
 <p>Jean Grave (1854-1939) est cordonnier, autodidacte, devenu l'éditeur des grands journaux anarchistes français : <em>Le Révolté</em>, puis <em>La Révolte</em>, puis <em>Les Temps nouveaux</em> (1895-1914), auxquels collaborent Kropotkine, Reclus et de nombreux artistes. Il a été condamné à deux ans de prison en 1894 pour son livre <em>La Société mourante et l'anarchie</em>, et jugé lors du « procès des Trente ».</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-grave-steinlen.jpg" alt="Dessin au crayon : le visage rond de Jean Grave, moustache tombante." width="1200" height="1582" loading="lazy"><figcaption>Jean Grave dessiné par Théophile Steinlen en 1907. <small>Théophile Steinlen · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Jean_Grave_by_Th%C3%A9ophile_Steinlen.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce livre paraît en 1899, en pleine affaire Dreyfus, alors que les « lois scélérates » pèsent encore sur les anarchistes. Grave répond à celles et ceux qui assimilent anarchie et crime, en exposant posément le but et les moyens du mouvement.</p>
 
 <h2 id="these">La thèse</h2>
@@ -530,6 +539,7 @@
 === la-societe-future | Économie & propriété | La Société future | Jean Grave · 1895 | À quoi ressemblerait une société anarchiste ? Entraide plutôt que lutte de tous contre tous, révolution continue et internationale.
 <h2 id="contexte">Contexte</h2>
 <p>Jean Grave publie ce gros livre en 1895, à sa sortie de prison. Proche de Kropotkine, il veut répondre à deux adversaires : les économistes et sociologues qui utilisent Darwin pour justifier les inégalités (les riches seraient les « plus aptes »), et celles et ceux qui demandent aux anarchistes de décrire concrètement la société qu'ils veulent.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-grave-1893.jpg" alt="Photographie d'identité de Jean Grave, cheveux en désordre." width="599" height="874" loading="lazy"><figcaption>Jean Grave fiché par la préfecture de police en 1893. <small>préfecture de police · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Gravejean_police.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La révolution sociale est un long processus de luttes, qui commence dès qu'un individu affirme son indépendance. Elle doit venir de l'initiative libre et de l'entraide, pas d'un pouvoir central, et ne peut réussir qu'à l'échelle internationale.</p>
@@ -573,6 +583,7 @@
 === a-bas-les-chefs | État & pouvoir | À bas les chefs ! | Joseph Déjacque · 1859 | Contre toute dictature, même « révolutionnaire » : la liberté ne se décrète pas et ne se délègue pas.
 <h2 id="contexte">Contexte</h2>
 <p>Joseph Déjacque (1821-1865) est ouvrier colleur de papiers peints et poète. Il se bat sur les barricades de juin 1848, est emprisonné, puis s'exile après le coup d'État de 1851 : Londres, Jersey, La Nouvelle-Orléans, New York. Là, il publie de 1858 à 1861 <em>Le Libertaire, journal du mouvement social</em>, l'un des premiers journaux anarchistes au monde. Il rentre à Paris en 1861 et y meurt dans la misère.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-dejacque-libertaire.jpg" alt="Première page du journal Le Libertaire, journal du mouvement social, New York." width="577" height="832" loading="lazy"><figcaption><em>Le Libertaire</em>, le journal que Joseph Déjacque publie à New York de 1858 à 1861 (numéro du 17 août 1860). <small>journal Le Libertaire · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Le_libertaire_25.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>« À bas les chefs ! » paraît dans son journal en 1859. Déjacque y répond aux blanquistes et à toutes celles et ceux qui, parmi les révolutionnaires, rêvent d'une dictature de salut public pour imposer la révolution.</p>
 
 <h2 id="these">La thèse</h2>

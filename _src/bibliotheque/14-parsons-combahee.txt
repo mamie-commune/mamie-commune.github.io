@@ -48,6 +48,7 @@
 === principes-anarchisme-parsons | Révolution & stratégie | Les Principes de l'anarchisme | Lucy Parsons · 1905 | Liberté, possession par l'usage, associations libres de travailleurs et refus du vote : Lucy Parsons expose son anarchisme communiste, vingt ans après Haymarket.
 <h2 id="contexte">Contexte</h2>
 <p>En 1905, Lucy Parsons (vers 1853-1942) est l'une des anarchistes les plus connues des États-Unis. Veuve d'Albert Parsons, pendu en 1887 après l'affaire de Haymarket, elle parcourt le pays pour donner des conférences, souvent interrompues par la police. La même année, elle participe à Chicago au congrès fondateur des Industrial Workers of the World (IWW), le syndicat révolutionnaire qui veut réunir tous les travailleurs, quels que soient leur métier, leur sexe ou leur couleur.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-parsons-1920.jpg" alt="Lucy Parsons âgée, une écharpe blanche sur les épaules." width="1200" height="1765" loading="lazy"><figcaption>Lucy Parsons vers 1920. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Lucy_Parsons.1920.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p><em>Les Principes de l'anarchisme</em> est une conférence, qu'elle commence par « Camarades et amis ». Elle y explique simplement ce qu'est l'anarchisme à un public qui n'en connaît souvent que les caricatures.</p>
 
 <h2 id="these">La thèse</h2>

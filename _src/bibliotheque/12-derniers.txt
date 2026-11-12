@@ -124,6 +124,7 @@
 === le-principe-anarchiste | État & pouvoir | Le Principe anarchiste | Pierre Kropotkine · 1913 | Né comme refus, l'anarchisme est devenu une vision du monde : la lutte de la liberté contre la contrainte.
 <h2 id="contexte">Contexte</h2>
 <p>Ce court texte paraît en 1913 dans les publications des <em>Temps nouveaux</em>. Kropotkine, à 70 ans, revient sur quarante ans d'histoire du mouvement. Les anarchistes ont été accusés de ne savoir que détruire ; il veut montrer que l'anarchisme est devenu une pensée complète.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-kropotkine-temps-nouveaux-1921.jpg" alt="Dessin à l'encre : le visage de Kropotkine, grande barbe et lunettes." width="810" height="926" loading="lazy"><figcaption>Kropotkine dessiné dans <em>Les Temps nouveaux</em> du 1er mars 1921, au lendemain de sa mort. <small>dessinateur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Pierre_Kropotkine_dans_Les_Temps_nouveaux_du_1er_mars_1921.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>L'anarchie n'est pas qu'un rejet de l'État : c'est une lecture globale de l'histoire, des sciences et des rapports humains. Le conflit central de l'histoire oppose la liberté et la coercition.</p>
@@ -315,6 +316,7 @@
 === revolution-et-darwinisme | Révolution & stratégie | La Révolution et le darwinisme | Jean Grave · 1895 | Retourner Darwin contre les darwinistes sociaux : si la victoire revient aux plus aptes, elle revient à celles et ceux qui produisent.
 <h2 id="contexte">Contexte</h2>
 <p>Jean Grave publie ce texte en 1895, l'année de <em>La Société future</em>, dont il forme un chapitre. Depuis Darwin, des savants et des économistes, comme le biologiste allemand Ernst Haeckel, transposent la « lutte pour l'existence » à la société : la misère des pauvres serait la sélection naturelle à l'œuvre, et la richesse des riches la preuve de leur supériorité.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-darwin-1881.jpg" alt="Charles Darwin âgé, longue barbe blanche et chapeau noir." width="1200" height="1646" loading="lazy"><figcaption>Charles Darwin en 1881, photographié par Elliott &amp; Fry. <small>Elliott & Fry · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Charles_Darwin_1880.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La compétition n'explique qu'une petite part de l'évolution ; l'entraide est la règle. La bourgeoisie, devenue parasite, n'a aucun titre à dominer. Si la victoire revient aux plus aptes, elle revient aux travailleuses et travailleurs, qui produisent tout.</p>

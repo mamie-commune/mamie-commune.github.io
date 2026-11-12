@@ -80,6 +80,7 @@
 === sentiment-moral | Individu & morale | Les anarchistes et le sentiment moral | Errico Malatesta · 1904 | Refuser les règles imposées n'est pas renoncer à toute morale : il faut opposer une morale plus haute, celle de la solidarité.
 <h2 id="contexte">Contexte</h2>
 <p>Malatesta publie ce texte en 1904 dans <em>Le Réveil</em>, journal anarchiste de Genève ; il est traduit en 1906 dans <em>Les Temps nouveaux</em>. À l'époque, le mot « anarchie » recouvre des doctrines si différentes que le public s'y perd : à côté des communistes et des syndicalistes, certains individualistes affirment que tout est permis, que la morale n'est qu'un préjugé bourgeois, et justifient le vol entre camarades ou le mépris des autres.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-malatesta-1902.jpg" alt="Dessin de presse : Malatesta en chapeau melon." width="622" height="846" loading="lazy"><figcaption>Malatesta dessiné dans un journal américain en 1902. <small>dessinateur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Errico_Malatesta_The_silver_messenger.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Un anarchiste ne peut pas rejeter la morale en bloc. Toute société a une morale ; il s'agit de remplacer la morale bourgeoise, fondée sur l'intérêt et l'obéissance, par celle de l'entraide et de la solidarité. Et l'excuse « c'est la faute du milieu » ne tient pas : sans révolte individuelle, le milieu ne change jamais.</p>
@@ -119,6 +120,7 @@
 === bolchevisme-et-anarchisme | Révolution & stratégie | Bolchevisme et anarchisme | Errico Malatesta · 1923 | La « dictature du prolétariat » est la dictature d'un parti. Une révolution qui tue la liberté tue son propre but.
 <h2 id="contexte">Contexte</h2>
 <p>En 1917, la révolution russe enthousiasme les révolutionnaires du monde entier, anarchistes compris. Mais très vite arrivent les nouvelles de la répression des anarchistes, de l'écrasement de Kronstadt et de l'Ukraine makhnoviste, de la police politique. Luigi Fabbri, ami de Malatesta, écrit un livre, <em>Dictature et révolution</em>, pour en tirer les leçons. Malatesta en rédige la préface pour l'édition espagnole de 1923.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-malatesta-illava-1920.jpg" alt="Dessin de presse : Malatesta âgé, en chapeau, le regard sombre." width="1200" height="1663" loading="lazy"><figcaption>Malatesta croqué par Karl Illava pour la presse américaine, vers 1920. La légende d'origine le présente comme un poseur de bombes : c'est ainsi que les grands journaux parlaient de lui. <small>Karl Illava · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Enrico_Malatesta_illustration_-_Karl_Illava.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La dictature, même « prolétarienne », est le pouvoir d'un parti sur toute la société, prolétariat compris. Elle est incompatible avec une révolution dont le but est la liberté et l'égalité. Les révolutionnaires d'Europe ne doivent pas imiter les bolcheviks.</p>
@@ -159,6 +161,7 @@
 === concevoir-la-revolution | Révolution & stratégie | Comment concevoir la révolution | Errico Malatesta · années 1920 | Pas de grand soir miraculeux : l'anarchie se construit pas à pas, par des conquêtes qui affaiblissent l'autorité dès aujourd'hui.
 <h2 id="contexte">Contexte</h2>
 <p>Ce texte appartient aux dernières années de Malatesta, sous le fascisme. Il a vu l'occupation des usines en 1920 s'éteindre faute d'aller plus loin, puis le fascisme écraser le mouvement ouvrier. Il a vu la révolution russe accoucher d'une dictature. Il en tire une réflexion sur la façon de concevoir le changement, en visant deux dérives opposées : un dogmatisme coupé du réel, qui attend le grand soir, et un opportunisme qui oublie le but.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-malatesta-1898.jpg" alt="Deux photographies d'identité de Malatesta, de profil et de face." width="1050" height="687" loading="lazy"><figcaption>Malatesta fiché par la police italienne en 1898. Toute sa vie, il a connu la prison, l'exil et la surveillance. <small>police italienne · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Malatesta_1898.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>L'anarchie avance avec la conscience, l'organisation et la solidarité. Chaque recul de l'autorité, chaque bien soustrait à la propriété privée en rapproche. La violence reste légitime tant que le pouvoir impose sa loi par la force, mais elle ne construit rien par elle-même.</p>
@@ -198,6 +201,7 @@
 === catechisme-revolutionnaire | État & pouvoir | Catéchisme révolutionnaire | Mikhaïl Bakounine · 1866 | Un programme : remplacer l'État centralisé par une fédération qui part d'en bas, des communes aux nations.
 <h2 id="contexte">Contexte</h2>
 <p>Bakounine rédige ce texte en 1865-1866 en Italie, où il vit alors, pour une société secrète qu'il a fondée, la Fraternité internationale. C'est un programme d'action plus qu'un traité. Bakounine n'est pas encore tout à fait anarchiste : il garde parfois le mot « État » pour désigner une unité fédérative, ambiguïté qu'il abandonnera dans les années suivantes.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-bakounine-1866.jpg" alt="Photographie de groupe : trois hommes debout, quatre femmes et une enfant assises." width="856" height="687" loading="lazy"><figcaption>Naples, juin 1866, l'année du <em>Catéchisme</em>. Debout : Giuseppe Fanelli, Bakounine et Saverio Friscia. Assise à gauche, un livre à la main, Antonia Kwiatkowska, la compagne de Bakounine. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Mikhail_Bakunin_1866-1.2_V01-1.1.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <div class="note"><p><strong>À ne pas confondre</strong> avec le <em>Catéchisme du révolutionnaire</em> écrit en 1869 par Serguéi Netchaïev, un texte de conspirateur sans scrupules (« le révolutionnaire est un homme perdu d'avance »), longtemps attribué à tort à Bakounine, qui a rompu avec Netchaïev en le découvrant.</p></div>
 
 <h2 id="these">La thèse</h2>
@@ -318,6 +322,7 @@
 === qui-suis-je | État & pouvoir | Qui suis-je ? | Mikhaïl Bakounine · vers 1870 | Un autoportrait politique : partisan de la liberté réelle, de l'égalité, et ennemi de l'État même « socialiste ».
 <h2 id="contexte">Contexte</h2>
 <p>Ce court texte reprend le début d'un écrit de Bakounine rédigé juste après l'écrasement de la Commune de Paris, en 1871, <em>La Commune de Paris et la notion de l'État</em>. Au même moment, la rupture avec Marx dans l'Internationale devient définitive. Bakounine y clarifie sa position face aux libéraux d'un côté, et aux socialistes autoritaires de l'autre.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-bakounine-jeune-1843.jpg" alt="Portrait gravé de Bakounine jeune, cheveux bouclés et moustache." width="791" height="1055" loading="lazy"><figcaption>Bakounine à 29 ans, en 1843, d'après un dessin de Heinrich Mitreuter. <small>Heinrich Mitreuter · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Young_Bakunin_with_signature.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>L'égalité sociale doit naître d'un travail organisé librement par des associations fédérées. Conquérir l'État pour faire le socialisme, c'est reconduire la domination : il faut le détruire.</p>
@@ -359,6 +364,7 @@
 === congres-de-saint-imier | Histoire & luttes | Résolutions du Congrès de Saint-Imier | Congrès de l'Internationale anti-autoritaire · 1872 | L'acte de naissance du mouvement anarchiste organisé : autonomie des fédérations, pacte de solidarité, destruction de tout pouvoir politique.
 <h2 id="contexte">Contexte</h2>
 <p>Depuis 1864, l'Association internationale des travailleurs (la « Première Internationale ») réunit des ouvrières et ouvriers de toute l'Europe. Deux conceptions s'y opposent : celle de Marx et du Conseil général de Londres, qui veulent des partis ouvriers luttant pour conquérir le pouvoir politique ; celle des fédérations du Jura, d'Espagne et d'Italie, autour de Bakounine, qui refusent toute conquête du pouvoir.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-saint-imier-hotel-de-ville.jpg" alt="La place de Saint-Imier et ses grands bâtiments, vers 1900." width="942" height="610" loading="lazy"><figcaption>La place de Saint-Imier, dans le Jura suisse, sur une carte postale ancienne. C'est dans cette petite ville horlogère que se réunit le congrès de septembre 1872. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Ville_%C3%A0_Saint_Imier.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Au congrès de La Haye, début septembre 1872, la majorité marxiste exclut Bakounine et James Guillaume. Quelques jours plus tard, les 15 et 16 septembre, une quinzaine de délégués d'Italie, d'Espagne, de France, du Jura et d'Amérique se réunissent à Saint-Imier, dans le Jura suisse, et refondent une Internationale sans centre.</p>
 
 <h2 id="these">La thèse</h2>

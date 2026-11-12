@@ -1,6 +1,7 @@
 === anarchie-philosophie-ideal | Révolution & stratégie | L'Anarchie, sa philosophie, son idéal | Pierre Kropotkine · 1896 | L'anarchie n'est pas une utopie destructrice mais une philosophie cohérente, en accord avec les sciences de son temps.
 <h2 id="contexte">Contexte</h2>
 <p>Pierre Kropotkine (1842-1921) est un prince russe qui a tout quitté. Officier en Sibérie, il y mène des explorations géographiques remarquées. En 1872, un voyage en Suisse chez les horlogers anarchistes du Jura le convertit. Emprisonné en Russie, il s'évade en 1876, puis vit en exil en Suisse, en France (où il fait trois ans de prison) et surtout à Londres. Il devient la grande voix du communisme anarchiste.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-kropotkine-1900.jpg" alt="Pierre Kropotkine âgé, grande barbe blanche et petites lunettes." width="1200" height="1729" loading="lazy"><figcaption>Pierre Kropotkine photographié par Nadar, vers 1900. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Peter_Kropotkin_circa_1900.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte est une conférence préparée pour Paris en 1896 et publiée en brochure la même année. Après l'écrasement de la Commune, puis la vague d'attentats de 1892-1894 et les « lois scélérates », la presse réduit l'anarchisme à la bombe. Kropotkine, savant reconnu, veut montrer qu'il s'agit d'une pensée sérieuse, appuyée sur les sciences.</p>
 
 <h2 id="these">La thèse</h2>
@@ -51,6 +52,7 @@
 === commune-de-paris-kropotkine | Révolution & stratégie | La Commune de Paris | Pierre Kropotkine · 1881 | Dix ans après 1871, Kropotkine tire les leçons de la Commune : abolir propriété et gouvernement dès le premier jour, et rallier les campagnes.
 <h2 id="contexte">Contexte</h2>
 <p>Kropotkine écrit ce texte en mars 1881 pour <em>Le Révolté</em>, le journal qu'il anime à Genève, à l'occasion des dix ans de la Commune. Née le 18 mars 1871 dans un Paris épuisé par le siège prussien, la Commune a été écrasée dans le sang fin mai, pendant la « Semaine sanglante » : des milliers de morts, des dizaines de milliers d'arrestations, des déportations. En 1881, le mouvement socialiste se reconstruit à peine, et les communards amnistiés rentrent d'exil.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-montmartre-18-mars.jpg" alt="Des dizaines de canons alignés sur un terrain vague, en haut d'une colline." width="1200" height="816" loading="lazy"><figcaption>Le parc d'artillerie de la butte Montmartre. C'est en voulant reprendre ces canons, le 18 mars 1871, que le gouvernement déclenche la Commune. <small>photographe inconnu · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Parc_d%27artillerie_de_la_Butte_Montmartre._18_mars_1871._PH4142-175.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le texte est repris en 1885 dans <em>Paroles d'un révolté</em>, le recueil de ses articles.</p>
 
 <h2 id="these">La thèse</h2>
@@ -103,6 +105,7 @@
 === evolution-revolution-ideal | Révolution & stratégie | L'Évolution, la révolution et l'idéal anarchique | Élisée Reclus · 1898 | Évolution et révolution ne s'opposent pas : la lente maturation prépare le basculement. Reclus défend une révolution consciente.
 <h2 id="contexte">Contexte</h2>
 <p>Élisée Reclus (1830-1905), géographe de renommée mondiale et ancien communard, développe dans ce livre une conférence qu'il donnait depuis 1880 sous le titre <em>Évolution et révolution</em> (voir <a href="evolution-et-revolution.html">notre fiche</a>). Le livre paraît en 1898, après la vague d'attentats anarchistes et la répression qui a suivi. Reclus enseigne alors à l'Université nouvelle de Bruxelles, une université libre fondée par des professeurs dissidents.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-gide.jpg" alt="Élisée Reclus âgé, assis devant une fenêtre, les mains dans les poches." width="646" height="887" loading="lazy"><figcaption>Élisée Reclus vers 1900. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Elis%C3%A9e_Reclus_vers_1900_arch_C_Gide.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le mouvement ouvrier se transforme : les syndicats, les coopératives et les bourses du travail se multiplient. Reclus veut montrer aux anarchistes comme aux réformistes que le changement lent et la rupture ne sont pas ennemis.</p>
 
 <h2 id="these">La thèse</h2>
@@ -152,6 +155,7 @@
 === au-cafe | Révolution & stratégie | Au café | Errico Malatesta · 1920 | Un dialogue de bistrot entre un rentier, un juge, un négociant, un étudiant et un anarchiste. Toutes les objections à l'anarchie y passent.
 <h2 id="contexte">Contexte</h2>
 <p>Errico Malatesta (1853-1932) est un révolutionnaire italien qui a passé sa vie à expliquer l'anarchisme au plus grand nombre. Il aime la forme du dialogue : en 1884 déjà, sa brochure <em>Entre paysans</em> avait été lue dans toute l'Europe. <em>Au café</em> reprend le procédé. Les premiers dialogues paraissent avant la Première Guerre mondiale dans un journal qu'il dirige, puis sont complétés et réunis au début des années 1920.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-malatesta-bologne-1920.jpg" alt="Cinq personnes posent : trois debout, deux assises." width="721" height="500" loading="lazy"><figcaption>Bologne, 1920. Debout : Adalgisa Romagnoli, Errico Malatesta et Clodoveo Bonazzi. Assis : Virgilia D'Andrea et Armando Borghi. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Malatesta_D%27Andrea_Borghi.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>L'Italie vit alors les « deux années rouges » (1919-1920) : grèves massives, occupations d'usines, terres prises par les paysans. Malatesta, rentré d'exil, dirige le quotidien anarchiste <em>Umanità Nova</em>. Quelques mois plus tard, le fascisme écrase tout.</p>
 
 <h2 id="personnages">Les personnages</h2>
@@ -257,6 +261,7 @@
 === comment-nous-ferons-la-revolution | Révolution & stratégie | Comment nous ferons la Révolution | Émile Pataud et Émile Pouget · 1909 | Un roman d'anticipation syndicaliste : la grève générale, racontée au passé, comme si elle avait déjà eu lieu.
 <h2 id="contexte">Contexte</h2>
 <p>Le livre paraît en 1909. La CGT, alors syndicaliste révolutionnaire, est au sommet de son influence : elle a adopté en 1906 la Charte d'Amiens, qui fait du syndicat à la fois l'outil des luttes d'aujourd'hui et la base de la société de demain. Les grèves sont nombreuses et durement réprimées (Draveil-Villeneuve-Saint-Georges, 1908 : des ouvriers tués par la troupe), et le parlementarisme est discrédité.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-pataud-1910.jpg" alt="Portrait rond d'Émile Pataud, grosse moustache." width="1200" height="1200" loading="lazy"><figcaption>Émile Pataud en 1910, photographié par Henri Manuel. Secrétaire du syndicat des électriciens, il avait plongé Paris dans le noir lors de la grève de mars 1907. <small>Henri Manuel · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89mile_Pataud_1910.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Les auteurs sont deux militants de la CGT. Émile Pataud, électricien, a plongé Paris dans le noir en 1907 en organisant la grève des centrales électriques : la presse le surnomme « le roi de la lumière ». Émile Pouget, ancien anarchiste devenu numéro deux de la CGT, est le journaliste du mouvement, fondateur du <em>Père Peinard</em>.</p>
 
 <h2 id="forme">La forme</h2>

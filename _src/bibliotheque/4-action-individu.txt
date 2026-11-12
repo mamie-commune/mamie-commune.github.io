@@ -1,6 +1,7 @@
 === l-action-directe-pouget | Action directe & syndicalisme | L'Action directe | Émile Pouget · 1904 | L'émancipation des travailleuses et travailleurs sera leur œuvre à eux-mêmes, organisés dans leurs syndicats, sans intermédiaire.
 <h2 id="contexte">Contexte</h2>
 <p>Émile Pouget (1860-1931) est employé de magasin à Paris quand il fonde, à 19 ans, le premier syndicat des employés. Anarchiste, il lance en 1889 <em>Le Père Peinard</em>, un journal écrit en argot des faubourgs, drôle et féroce, qui connaît un grand succès. Poursuivi lors du « procès des Trente » en 1894, il s'exile à Londres puis revient en France.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-pouget-delannoy.jpg" alt="Couverture de la revue Les Hommes du jour : portrait dessiné d'Émile Pouget." width="1147" height="1600" loading="lazy"><figcaption>Émile Pouget en couverture des <em>Hommes du jour</em>, dessiné par Aristide Delannoy. <small>Aristide Delannoy · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89mile_Pouget.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Il pousse alors les anarchistes à entrer dans les syndicats, plutôt que de rester entre eux. Il devient l'un des dirigeants de la CGT et le rédacteur de son journal, <em>La Voix du peuple</em>. Cette brochure est l'un des textes de doctrine du syndicalisme révolutionnaire, à un moment où le débat fait rage : faut-il passer par les partis et le Parlement, ou agir directement ?</p>
 
 <h2 id="these">La thèse</h2>
@@ -53,6 +54,7 @@
 === de-l-action-directe | Action directe & syndicalisme | De l'action directe | Voltairine de Cleyre · 1912 | L'action directe n'est ni la violence ni la non-violence : c'est agir soi-même au lieu de déléguer. Et l'histoire est faite de ça.
 <h2 id="contexte">Contexte</h2>
 <p>Voltairine de Cleyre (1866-1912) grandit dans une famille pauvre du Michigan ; son père, admirateur de Voltaire, lui donne son prénom. Placée dans un couvent, elle en sort libre-penseuse. La pendaison des anarchistes de Chicago en 1887 fait d'elle une anarchiste. Elle vit ensuite à Philadelphie, où elle enseigne l'anglais aux immigrées et immigrés juifs. En 1902, un ancien élève lui tire dessus ; elle survit et refuse de porter plainte contre lui.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-de-cleyre-1901.jpg" alt="Voltairine de Cleyre de profil, une fleur blanche au corsage." width="1200" height="1795" loading="lazy"><figcaption>Voltairine de Cleyre en 1901, à 35 ans. <small>M. Herbert Bridle · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre_(Age_35).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte, d'abord une conférence, paraît en 1912 dans la revue <em>Mother Earth</em> d'Emma Goldman, quelques mois avant sa mort. Après l'attentat contre le journal <em>Los Angeles Times</em> en 1910, la presse américaine réduit l'« action directe » aux bombes. De Cleyre veut rendre au mot son vrai sens, et répond aussi aux socialistes qui ne jurent que par les élections.</p>
 
 <h2 id="these">La thèse</h2>
@@ -100,6 +102,7 @@
 === l-unique-et-sa-propriete | Individu & morale | L'Unique et sa propriété | Max Stirner · 1844 | Dieu, la Patrie, l'Humanité, la Morale : autant d'idoles qui exigent qu'on se sacrifie. Stirner ne fonde sa cause que sur lui-même.
 <h2 id="contexte">Contexte</h2>
 <p>Max Stirner est le pseudonyme de Johann Caspar Schmidt (1806-1856), professeur dans une école de jeunes filles à Berlin. Il fréquente le cercle des « Affranchis », des jeunes philosophes disciples de Hegel devenus très critiques : Bruno Bauer, Ludwig Feuerbach, le jeune Engels, et parfois Marx. Feuerbach vient de montrer que Dieu n'est qu'une projection de l'Homme ; Stirner va plus loin : l'Homme lui-même est une nouvelle idole.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-stirner-engels.jpg" alt="Croquis à la plume : un profil d'homme à lunettes, une cigarette aux lèvres." width="501" height="525" loading="lazy"><figcaption>Max Stirner dessiné de mémoire par Friedrich Engels. On ne connaît aucune photographie de lui. <small>Friedrich Engels · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Max_Stirner-k.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le livre paraît à Leipzig fin 1844. Il est interdit, puis autorisé par la censure, qui le juge trop absurde pour être dangereux. Marx et Engels lui consacrent des centaines de pages furieuses (« Saint Max ») dans <em>L'Idéologie allemande</em>. Puis il est oublié, et redécouvert à la fin du siècle. Stirner meurt dans la misère. Le livre est traduit en français en 1899 et 1900.</p>
 
 <h2 id="these">La thèse</h2>
@@ -204,6 +207,7 @@
 === education-integrale | Individu & morale | L'éducation intégrale | Mikhaïl Bakounine · 1869 | Tant que le savoir sera inégal, une minorité dominera. Il faut une instruction complète et égale pour tout le monde, manuelle et intellectuelle.
 <h2 id="contexte">Contexte</h2>
 <p>En 1869, Bakounine vit en Suisse et milite dans l'Association internationale des travailleurs, la Première Internationale. Il publie quatre articles en juillet-août dans <em>L'Égalité</em>, journal des sections de Suisse romande. L'Internationale débat alors de l'instruction : faut-il seulement demander un peu plus d'écoles pour le peuple, comme le veulent les républicains, ou changer la nature même de l'éducation ?</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-congres-bale-1869.jpg" alt="Un groupe d'hommes pose devant un bâtiment et sur son balcon, à Bâle." width="1200" height="786" loading="lazy"><figcaption>Les délégués du congrès de Bâle de l'Internationale, en septembre 1869. Bakounine y participe, juste après avoir publié ces articles. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Baselerkongress_1869.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>L'idée d'« éducation intégrale » est portée à la même époque par Paul Robin, un pédagogue français membre de l'Internationale, qui l'appliquera plus tard à l'orphelinat de Cempuis.</p>
 
 <h2 id="these">La thèse</h2>
@@ -250,6 +254,7 @@
 === le-culte-de-la-charogne | Individu & morale | Le culte de la charogne | Albert Libertad · 1907 | Nos sociétés vénèrent les morts au détriment des vivants. Libertad appelle à tourner le dos au passé pour vivre le présent.
 <h2 id="contexte">Contexte</h2>
 <p>Albert Libertad (1875-1908), figure de l'anarchisme individualiste parisien, publie ce texte dans son journal <em>l'anarchie</em> le 31 octobre 1907, à la veille de la Toussaint, quand la France entière se presse dans les cimetières. Militant antireligieux, infirme se déplaçant avec des béquilles, il meurt l'année suivante à 32 ans.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-l-anarchie-1907.jpg" alt="La première page du journal l'anarchie en 1907." width="1200" height="1697" loading="lazy"><figcaption>Une du journal <em>l'anarchie</em> en 1907, l'hebdomadaire de Libertad. <small>journal l'anarchie · domaine public · <a href="https://commons.wikimedia.org/wiki/File:L%27anarchie_(1907).png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Le culte des morts pèse sur la vie. Guidées par le passé, les sociétés figent leurs idées et bloquent le progrès. Il faut remettre les vivants au centre, et consacrer aux vivants l'énergie et l'argent qu'on dépense pour les morts.</p>

@@ -1,6 +1,7 @@
 === le-communisme-n-existe-pas-en-urss | État & pouvoir | Le communisme n'existe pas en URSS | Emma Goldman · 1935 | Nationaliser n'est pas socialiser : le régime soviétique est un capitalisme d'État autoritaire.
 <h2 id="contexte">Contexte</h2>
 <p>Expulsée des États-Unis en 1919 avec son compagnon Alexander Berkman, Emma Goldman arrive en Russie soviétique pleine d'espoir. Elle y vit deux ans, voit la faim, la police politique, la répression des anarchistes et de Kronstadt, et repart désespérée fin 1921. Elle publie dès 1923 <em>Mon désillusionnement en Russie</em>, qui lui vaut d'être traitée de traîtresse par une grande partie de la gauche.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-goldman-berkman.jpg" alt="Emma Goldman et Alexandre Berkman assis côte à côte ; lui tient des béquilles." width="1200" height="927" loading="lazy"><figcaption>Emma Goldman et Alexandre Berkman, vers 1917-1919. Expulsés ensemble des États-Unis vers la Russie fin 1919, ils en repartent deux ans plus tard. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Emma_Goldman_and_Alexander_Berkman.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Cet article paraît en 1935 dans une revue américaine, <em>The American Mercury</em>. Staline est au pouvoir, la collectivisation forcée des campagnes a provoqué une famine meurtrière, et beaucoup d'intellectuels occidentaux continuent pourtant de célébrer l'URSS comme la patrie du socialisme.</p>
 
 <h2 id="these">La thèse</h2>
@@ -44,6 +45,7 @@
 === anarchisme-et-question-sexuelle | Féminisme & société | L'Anarchisme et la question sexuelle | Emma Goldman · 1896 | Mariage sans amour et prostitution viennent du même système : il faut l'abolir, pas punir ses victimes.
 <h2 id="contexte">Contexte</h2>
 <p>Emma Goldman a 27 ans. Elle a travaillé dans des ateliers de confection, sort d'un an de prison pour un discours aux chômeurs, et s'est formée comme infirmière et sage-femme dans les quartiers pauvres de New York, où elle voit de près les grossesses non désirées, les avortements clandestins et la prostitution. Ce texte paraît en 1896 dans le journal anarchiste américain <em>The Alarm</em>. Au même moment, des ligues de vertu partent en croisade contre la prostitution, en pourchassant les femmes sans jamais interroger les causes.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-goldman-union-square-1916.jpg" alt="Une foule très dense, en chapeaux, vue de haut." width="1136" height="784" loading="lazy"><figcaption>New York, Union Square, 21 mai 1916 : la foule venue écouter Emma Goldman. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Emma_Goldman_-_Union_Square,_New_York,_1916.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Le mariage contraint et la prostitution sont deux faces d'un même mal, imposé par l'argent, la religion et l'État. Tant que la propriété privée et la dépendance économique des femmes existeront, des femmes devront vendre leur corps ou leur liberté.</p>
@@ -86,6 +88,7 @@
 === durruti-n-est-pas-mort | Histoire & luttes | Durruti n'est pas mort ! | Emma Goldman · 1936 | L'hommage d'Emma Goldman au milicien anarchiste tombé à Madrid, qui commandait sans contraindre.
 <h2 id="contexte">Contexte</h2>
 <p>Juillet 1936 : un coup d'État militaire mené par Franco se heurte en Espagne à une résistance populaire. À Barcelone, les ouvrières et ouvriers de la CNT, la grande confédération anarcho-syndicaliste, battent les militaires et lancent une révolution sociale : usines et terres collectivisées, milices volontaires. Buenaventura Durruti, ouvrier mécanicien et militant légendaire, prend la tête d'une colonne de milliers de volontaires qui part libérer l'Aragon.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-durruti-funerailles.jpg" alt="Un cercueil couvert de couronnes de fleurs, entouré de miliciens." width="907" height="1262" loading="lazy"><figcaption>Barcelone, novembre 1936 : la chapelle ardente de Durruti, dans le hall de l'immeuble de la CNT, via Laietana. <small>Pablo Luis Torrents · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Durruti_funeral,_Via_Laietana.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Emma Goldman, 67 ans, rejoint l'Espagne en septembre 1936 pour soutenir la révolution ; elle rencontre Durruti sur le front d'Aragon. En novembre, la colonne part défendre Madrid assiégée. Durruti y est tué le 20 novembre 1936, dans des circonstances jamais complètement éclaircies. Goldman écrit cet hommage.</p>
 
 <h2 id="these">La thèse</h2>
@@ -130,6 +133,7 @@
 === orage-a-petrograd | Histoire & luttes | 1921, l'orage éclate à Petrograd | Emma Goldman · 1921 | Grèves ouvrières affamées, marins de Kronstadt solidaires, puis l'écrasement : le témoignage qui a rompu Goldman avec les bolcheviks.
 <h2 id="contexte">Contexte</h2>
 <p>Hiver 1920-1921. La guerre civile est presque gagnée par les bolcheviks, mais le pays est exsangue. Expulsés des États-Unis, Emma Goldman et Alexander Berkman vivent à Petrograd. La faim, le froid et les fermetures d'usines provoquent des grèves ouvrières en février 1921. Les marins de Kronstadt, la forteresse navale face à la ville, héros de la révolution de 1917, se solidarisent avec les grévistes et adoptent une résolution réclamant des soviets librement élus.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-kronstadt-1921.jpg" alt="Vue générale d'une ville portuaire, avec une cathédrale à coupole." width="1200" height="890" loading="lazy"><figcaption>Kronstadt en mars 1921, sur une photographie de l'agence Rol. <small>Agence Rol · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Kronstadt_general_view,_1921.jpeg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte est un chapitre du témoignage de Goldman sur ces semaines décisives.</p>
 
 <h2 id="these">La thèse</h2>
@@ -170,6 +174,7 @@
 === le-mariage-mauvaise-action | Féminisme & société | Le Mariage est une mauvaise action | Voltairine de Cleyre · 1907 | Le mariage, c'est la dépendance durable, sexuelle et économique, qui use l'amour et freine chacune et chacun.
 <h2 id="contexte">Contexte</h2>
 <p>Voltairine de Cleyre (1866-1912), anarchiste américaine, donne cette conférence en avril 1907 à Philadelphie, en réponse à un plaidoyer pour le mariage prononcé juste avant elle par un autre orateur. Elle-même a vécu plusieurs relations sans jamais se marier, a eu un fils, élevé par le père de l'enfant, et a toujours tenu à vivre seule.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-de-cleyre-1906.jpg" alt="Portrait rond de Voltairine de Cleyre, paru dans un journal." width="1200" height="1157" loading="lazy"><figcaption>Voltairine de Cleyre dans la presse en 1906. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre_(1906).png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Le mariage, ce n'est pas la cérémonie ni le papier : c'est la relation permanente de dépendance entre deux personnes qui partagent tout, maison, argent, corps. Cette relation entrave le développement de chacune et de chacun et finit par détruire le désir et la tendresse.</p>
@@ -211,6 +216,7 @@
 === fabrication-d-une-anarchiste | Individu & morale | La Fabrication d'une anarchiste | Voltairine de Cleyre · 1914 | Du couvent à l'anarchisme : le chemin intime d'une révoltée, et ce qu'elle a appris des ouvriers immigrés et des militants.
 <h2 id="contexte">Contexte</h2>
 <p>Voltairine de Cleyre écrit ce texte autobiographique au début des années 1900. Il est repris en 1914, deux ans après sa mort, dans le recueil de ses œuvres choisies édité par Alexander Berkman. Elle y raconte sa jeunesse dans un pensionnat catholique du Canada où son père l'avait placée, ses débuts de conférencière libre-penseuse, puis son chemin vers l'anarchisme.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-de-cleyre-1898.jpg" alt="Voltairine de Cleyre assise sur un perron, un chaton dans les bras." width="1200" height="1917" loading="lazy"><figcaption>Voltairine de Cleyre en août 1898, photographiée par Adelaide Thayer. <small>Adelaide D. Thayer · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre,_August_1898.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>L'anarchisme ne s'apprend pas d'un coup : il prolonge un tempérament rebelle et une longue quête de liberté. Et l'idée centrale qu'elle en tire : la liberté fonde l'ordre, et non l'inverse.</p>
@@ -250,6 +256,7 @@
 === l-idee-dominante | Individu & morale | L'Idée dominante | Voltairine de Cleyre · 1910 | Contre le déterminisme : l'esprit n'est pas un miroir, la volonté peut refaçonner les circonstances.
 <h2 id="contexte">Contexte</h2>
 <p>Voltairine de Cleyre publie ce texte en 1910 dans <em>Mother Earth</em>. Malade, pauvre, elle a passé sa vie à militer malgré tout. Elle s'en prend à une idée répandue chez les socialistes comme chez bien des anarchistes de son temps : les idées et la volonté ne seraient qu'un reflet des conditions matérielles. Il suffirait d'attendre que l'économie change pour que les gens changent.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-de-cleyre-frontispice.jpg" alt="Portrait ovale de Voltairine de Cleyre, avec sa signature." width="1200" height="1836" loading="lazy"><figcaption>Le portrait placé en tête de ses œuvres choisies, publiées en 1914 par les éditions de <em>Mother Earth</em>, deux ans après sa mort. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre_frontispiece.tiff" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Les conditions extérieures sont elles-mêmes le produit de l'action humaine passée. Une idée tenue avec fermeté, une « idée dominante » qui oriente toute une vie, peut l'emporter sur les circonstances.</p>
@@ -288,6 +295,7 @@
 === la-revanche-c-est-la-revolution | Révolution & stratégie | La Revanche, c'est la révolution | Louise Michel · 1886 | Plus on réprime, plus les rangs grossissent : un appel à la jeunesse sous les drapeaux rouge et noir.
 <h2 id="contexte">Contexte</h2>
 <p>Ce passage vient des <em>Mémoires</em> de Louise Michel, publiées en 1886. Il est écrit après l'enterrement de Jules Vallès, ancien communard et écrivain, en février 1885 : une foule immense suit le cercueil à travers Paris, avec des drapeaux rouges et noirs, et des bagarres éclatent avec la police. À l'époque, toute la France officielle parle de « revanche » contre l'Allemagne, qui a pris l'Alsace et la Moselle en 1871.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-michel-conference-1880.jpg" alt="Gravure : Louise Michel parle à une tribune devant une salle comble." width="1200" height="1796" loading="lazy"><figcaption>Une conférence de Louise Michel à la salle Graffard, à Paris, dans <em>Le Monde illustré</em> du 11 décembre 1880. <small>Frédéric de Haenen et Auguste Lepère · domaine public · <a href="https://commons.wikimedia.org/wiki/File:1880-12-11,_Le_Monde_illustr%C3%A9,_Une_conf%C3%A9rence_de_Louise_Michel_%C3%A0_la_salle_Graffard.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La seule vraie revanche, c'est la révolution. La répression, loin d'éteindre la contestation, la renforce. Chacune et chacun doit choisir son camp.</p>
@@ -327,6 +335,7 @@
 === anarchie-louise-michel | État & pouvoir | Anarchie | Louise Michel · 1883 | Un court poème en prose : l'anarchie comme espérance, une lampe dans la nuit qui annonce le droit à la place de la force.
 <h2 id="contexte">Contexte</h2>
 <p>Ce texte paraît en mars 1883, le mois où Louise Michel mène, drapeau noir en tête, une manifestation de chômeuses et chômeurs à Paris, qui lui vaudra six ans de prison. C'est une méditation brève et lyrique plutôt qu'un exposé : Louise Michel est aussi poétesse, elle a correspondu avec Victor Hugo et écrit des centaines de poèmes.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-michel-vierge-1880.jpg" alt="Gravure : une femme en noir est embrassée par des hommes en haut-de-forme, au milieu de la foule." width="1200" height="802" loading="lazy"><figcaption>Paris, gare Saint-Lazare, 9 novembre 1880 : Louise Michel rentre du bagne, accueillie par la foule. Dessin de Daniel Vierge. <small>Daniel Vierge · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Louise_Michel_1880.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Le mot « anarchie » n'est pas une menace mais une promesse : un temps où la domination ne gouvernera plus les esprits, où le droit remplacera la force.</p>
@@ -365,6 +374,7 @@
 === les-rapaces | Féminisme & société | Les Rapaces | Louise Michel · 1887 | Un roman inachevé : sous couvert de charité, une marquise dévote livre de jeunes Bretonnes à un réseau de prostitution.
 <h2 id="contexte">Contexte</h2>
 <p>Louise Michel a écrit de nombreux romans, souvent oubliés. <em>Les Rapaces</em> paraît en feuilleton en 1887 dans <em>La Révolution cosmopolite</em>, un journal anarchiste, et s'interrompt quand le journal est interdit. À l'époque, des milliers de jeunes femmes de province, notamment bretonnes, montent à Paris pour être domestiques ; beaucoup finissent dans la misère ou la prostitution. Les « rapaces » du titre, ce sont les capitalistes et leurs complices.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-michel-caricature-1887.jpg" alt="Caricature : Louise Michel en oiseau de proie aux ailes noires." width="1200" height="1749" loading="lazy"><figcaption>Louise Michel caricaturée en oiseau de proie par Manuel Luque, dans <em>La Caricature</em> du 3 septembre 1887. Pour la grande presse, les rapaces, c'étaient les anarchistes. <small>Manuel Luque · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Manuel_Luque_-_La_Caricature_du_3_septembre_1887_-_Louise_Michel.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Louise Michel dénonce le commerce des corps et l'hypocrisie d'une bourgeoisie pieuse qui en profite, couverte par la presse catholique. La charité est souvent le masque de l'exploitation.</p>

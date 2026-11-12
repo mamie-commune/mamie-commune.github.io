@@ -1,6 +1,7 @@
 === servitude-volontaire | État & pouvoir | Discours de la servitude volontaire | Étienne de La Boétie · vers 1550 | Pourquoi des peuples entiers obéissent-ils à un seul ? Parce qu'ils y consentent. Il suffit de cesser de servir pour que le tyran tombe.
 <h2 id="contexte">Contexte</h2>
 <p>Étienne de La Boétie (1530-1563) est un jeune juriste du Périgord, futur magistrat au parlement de Bordeaux et grand ami de Montaigne. Il écrit ce discours très jeune, entre 16 et 25 ans selon les sources, vers le milieu du XVIe siècle. La France sort d'une révolte contre l'impôt du sel, la gabelle, écrasée en 1548 dans le sang à Bordeaux.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-boetie-manuscrit.jpg" alt="Page d'un manuscrit ancien, couverte d'une écriture serrée." width="627" height="793" loading="lazy"><figcaption>Une copie manuscrite du <em>Discours</em>, vers 1575. Le texte a d'abord circulé de main en main, avant d'être imprimé après la mort de son auteur. <small>copiste inconnu, bibliothèque municipale de Bordeaux · domaine public · <a href="https://commons.wikimedia.org/wiki/File:La_Bo%C3%A9tie_-_Manuscript_du_Discours_de_la_servitude_volontaire,_sd.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le texte circule d'abord en copies manuscrites. Des protestants en publient un extrait en 1574, puis le texte entier en 1576, sous le titre de combat <em>Le Contr'Un</em> : après le massacre de la Saint-Barthélemy, ils cherchent des arguments contre le roi. Montaigne, gêné par cet usage, renonce à l'insérer dans ses <em>Essais</em>.</p>
 <p>La Boétie ne cherche pas le meilleur régime politique. Il pose une question plus dérangeante : comment un million de personnes peuvent-elles se laisser dominer par une seule, qui n'a que deux yeux, deux mains et un seul corps ?</p>
 
@@ -58,6 +59,7 @@
 === dieu-et-l-etat | État & pouvoir | Dieu et l'État | Mikhaïl Bakounine · 1882 | Si Dieu existe, l'humain est esclave. Bakounine attaque ensemble la religion, l'autorité et le gouvernement des savants.
 <h2 id="contexte">Contexte</h2>
 <p>Mikhaïl Bakounine (1814-1876) est un noble russe devenu révolutionnaire professionnel. Il a combattu sur les barricades de 1848, passé huit ans en forteresse puis en Sibérie, s'est évadé par le Japon et l'Amérique. À partir de 1868, il rejoint l'Association internationale des travailleurs et devient le grand adversaire de Marx.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-bakounine-1863.jpg" alt="Bakounine assis dans un fauteuil, barbe fournie, en 1863." width="720" height="920" loading="lazy"><figcaption>Mikhaïl Bakounine en 1863, deux ans après son évasion de Sibérie. <small>Sergueï Levitski · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Bakunin_Lewitski_1863.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte est un fragment d'un livre jamais achevé, <em>L'Empire knouto-germanique et la Révolution sociale</em>, écrit en 1870-1871, au moment de la guerre franco-prussienne et de la Commune. Après sa mort, ses amis Carlo Cafiero et Élisée Reclus le publient à Genève en 1882 et lui donnent son titre. Il devient l'un des textes anarchistes les plus lus au monde.</p>
 
 <h2 id="these">La thèse</h2>
@@ -112,6 +114,7 @@
 === l-anarchie-malatesta | État & pouvoir | L'Anarchie | Errico Malatesta · 1891 | Une société sans gouvernement est possible et souhaitable. Malatesta répond, une à une, aux objections.
 <h2 id="contexte">Contexte</h2>
 <p>Errico Malatesta (1853-1932) est l'une des grandes figures de l'anarchisme italien et international. Électricien de métier, il passe sa vie entre l'action, la prison et l'exil : Londres, l'Argentine, l'Égypte. Il meurt en 1932 à Rome, surveillé jour et nuit par la police de Mussolini.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-malatesta-1891.jpg" alt="Portrait d'Errico Malatesta jeune, barbe et moustache noires." width="1200" height="1546" loading="lazy"><figcaption>Errico Malatesta en 1891, l'année où paraît <em>L'Anarchie</em>. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Malatesta,_1891.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Il écrit <em>L'Anarchie</em> en italien, à Londres, en 1891. La brochure est rééditée et traduite des dizaines de fois, en français notamment au début du XXe siècle. Elle s'adresse à un public populaire et répond à deux adversaires : les socialistes qui veulent conquérir l'État, et les libéraux qui défendent la liberté sans toucher à la propriété. Malatesta veut aussi réhabiliter un mot devenu synonyme de chaos.</p>
 
 <h2 id="these">La thèse</h2>
@@ -163,6 +166,7 @@
 === criminel-electeur | État & pouvoir | Le criminel, c'est l'électeur ! | Albert Libertad · 1906 | Un pamphlet anti-électoral : en votant, le peuple choisit lui-même ses maîtres et consacre sa propre servitude.
 <h2 id="contexte">Contexte</h2>
 <p>Albert Libertad, de son vrai nom Joseph Albert (1875-1908), arrive à Paris à 21 ans, sans argent, les jambes paralysées depuis l'enfance : il se déplace avec des béquilles, qui lui servent aussi d'arme dans les bagarres avec la police. Orateur redouté, il fonde les « Causeries populaires », des soirées de discussion ouvertes à toutes et à tous, puis en 1905, avec Anna Mahé et d'autres, le journal hebdomadaire <em>l'anarchie</em>.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-libertad.jpg" alt="Albert Libertad, barbu, tient devant lui un exemplaire du journal l'anarchie." width="500" height="726" loading="lazy"><figcaption>Albert Libertad et son journal, <em>l'anarchie</em>, qu'il fonde en 1905. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Libertad_01.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte paraît en 1906, l'année d'élections législatives. Le journal en tire une affiche placardée sur les murs, au milieu des affiches des candidats. Libertad est la figure centrale de l'anarchisme individualiste parisien de la Belle Époque, qui mise moins sur la révolution future que sur le changement de soi et la révolte immédiate.</p>
 
 <h2 id="these">La thèse</h2>
@@ -213,6 +217,7 @@
 === ce-que-je-crois | État & pouvoir | Ce que je crois | Emma Goldman · 1908 | Propriété, gouvernement, armée, presse, Église, mariage : Emma Goldman expose sa vision de l'anarchisme point par point.
 <h2 id="contexte">Contexte</h2>
 <p>Emma Goldman (1869-1940) naît dans l'Empire russe, dans une famille juive de Kaunas (aujourd'hui en Lituanie). Elle émigre aux États-Unis à 16 ans et travaille en usine. La pendaison de quatre anarchistes de Chicago en 1887, après l'affaire de Haymarket, fait d'elle une révolutionnaire. Oratrice infatigable, elle fonde en 1906 la revue <em>Mother Earth</em>.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-goldman-assise.jpg" alt="Emma Goldman assise, la main au menton, lunettes rondes." width="879" height="1236" loading="lazy"><figcaption>Emma Goldman vers 1911, photographiée par Takuma Kajiwara. <small>Takuma Kajiwara · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Emma_Goldman_seated.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte paraît le 19 juillet 1908 dans le <em>New York World</em>, un grand quotidien. La presse américaine présente alors Goldman comme « la femme la plus dangereuse d'Amérique ». Peu avant, un soldat, William Buwalda, a été condamné par un tribunal militaire pour lui avoir serré la main après une conférence. Elle répond par un exposé calme et précis de ses idées.</p>
 
 <h2 id="these">La thèse</h2>

@@ -1,6 +1,7 @@
 === entraide | Individu & morale | L'Entraide, un facteur de l'évolution | Pierre Kropotkine · 1902 | L'entraide est une loi de la nature et un moteur de l'évolution plus décisif que la lutte entre individus d'une même espèce.
 <h2 id="contexte">Contexte</h2>
 <p>En 1888, le biologiste Thomas Huxley, grand défenseur de Darwin, publie un article qui décrit la nature comme un combat de gladiateurs, chacun contre tous. Le « darwinisme social » est à la mode : il sert à justifier la concurrence économique, la colonisation et la misère des pauvres, présentée comme naturelle.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-entraide-1902.jpg" alt="Page de titre : Mutual Aid, a factor of evolution, by P. Kropotkin, New York, 1902." width="1200" height="1833" loading="lazy"><figcaption>La page de titre de l'édition américaine de <em>L'Entraide</em>, en 1902. <small>McClure, Phillips & Co · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Mutual_Aid_by_Peter_Kropotkin_cover.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Kropotkine, géographe et naturaliste qui a observé pendant des années la faune de Sibérie, répond par une série d'articles dans la revue britannique <em>The Nineteenth Century</em>, entre 1890 et 1896. Il s'appuie aussi sur un zoologiste russe, Karl Kessler, qui avait parlé dès 1880 d'une « loi de l'aide mutuelle ». Le livre paraît en 1902 et est traduit en français en 1906.</p>
 
 <h2 id="these">La thèse</h2>
@@ -49,6 +50,7 @@
 === memoires-d-un-revolutionnaire | Histoire & luttes | Mémoires d'un révolutionnaire | Pierre Kropotkine · 1898 | Comment un prince russe, page du tsar et officier en Sibérie, est devenu l'un des grands penseurs de l'anarchisme.
 <h2 id="contexte">Contexte</h2>
 <p>Kropotkine écrit ce livre en anglais, à la demande d'un éditeur américain, et le publie d'abord en feuilleton à la fin des années 1890 dans la revue <em>The Atlantic Monthly</em>. Il est ensuite traduit en français et revu par l'auteur. Exilé en Angleterre, Kropotkine a alors une cinquantaine d'années et raconte sa vie depuis son enfance à Moscou. Le livre est un succès dans le monde entier.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-kropotkine-1864.jpg" alt="Kropotkine jeune, barbe sombre, en uniforme." width="1034" height="1337" loading="lazy"><figcaption>Kropotkine en 1864, à 21 ans, en uniforme d'officier. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Peter_Kropotkin_1864.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Le servage, la discipline militaire et la vanité aristocratique façonnent toute une société. Kropotkine raconte comment, pas à pas, au contact des injustices et des gens, il en est venu à la rejeter et à mettre sa vie au service de l'émancipation.</p>
@@ -228,6 +230,7 @@
 === ameliorer-les-prisons | État & pouvoir | On ne peut pas améliorer les prisons | Pierre Kropotkine · 1887 | Après Clairvaux, Kropotkine en témoigne : la prison ne corrige personne et fabrique des délinquants. Il faut la démolir.
 <h2 id="contexte">Contexte</h2>
 <p>Kropotkine a connu deux ans de forteresse en Russie, puis trois ans à la centrale de Clairvaux, en France, de 1883 à 1886, réputée l'une des prisons les plus « modernes » d'Europe. Il y a observé de près la vie des détenus, discuté avec eux, et même donné des cours. À sa libération, il publie un livre de témoignage, <em>Dans les prisons russes et françaises</em>, puis donne cette conférence à Paris le 20 décembre 1887.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-clairvaux.jpg" alt="Carte postale : la cour d'honneur d'une prison, avec des gardiens en uniforme." width="1200" height="781" loading="lazy"><figcaption>La maison centrale de Clairvaux, sur une carte postale vers 1910. Kropotkine y est enfermé de 1883 à 1886. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Prison_de_Clairvaux_La_maison-centrale_et_la_cour_d%27honneur.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Aucune réforme ne rendra la prison utile. Elle ne corrige pas, ne réduit pas le crime et produit de nouveaux délinquants. Le problème n'est pas la façon de la diriger, mais l'institution elle-même.</p>
@@ -361,9 +364,11 @@
 === la-federation | État & pouvoir | La Fédération comme moyen d'union | Pierre Kropotkine · 1918 | En pleine révolution russe : seule la fédération peut unir des peuples, la centralisation produit la division.
 <h2 id="contexte">Contexte</h2>
 <p>Après 41 ans d'exil, Kropotkine rentre en Russie en juin 1917, à 74 ans, accueilli par des foules. Il refuse le poste de ministre que lui propose le gouvernement provisoire. Les bolcheviks prennent le pouvoir en octobre. Le 7 janvier 1918, à Moscou, il prononce ce discours devant la Ligue des fédéralistes qu'il vient de fonder. L'empire russe se disloque : la Finlande, l'Ukraine, les pays baltes proclament leur indépendance, et la guerre civile commence.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-kropotkine-haparanda-1917.jpg" alt="Un vieil homme à barbe blanche, de dos, sur un quai de gare, entouré de voyageurs." width="729" height="490" loading="lazy"><figcaption>Kropotkine à Haparanda, à la frontière entre la Suède et la Finlande, en 1917 : après quarante ans d'exil, il rentre en Russie. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Krapotkin_in_Haparanda.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La fédération mène à l'union ; la centralisation engendre toujours la discorde. Pour garder ensemble les peuples de l'ancien empire, il faut leur donner une autonomie réelle, pas un nouveau centre.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-kropotkine-funerailles.jpg" alt="Une foule compacte marche dans une rue enneigée." width="1200" height="754" loading="lazy"><figcaption>Moscou, février 1921 : la tête du cortège funèbre de Kropotkine. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Kropotkin%27s_funerals._Head_of_the_Funeral_Procession.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>

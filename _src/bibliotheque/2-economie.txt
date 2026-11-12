@@ -1,6 +1,7 @@
 === qu-est-ce-que-la-propriete | Économie & propriété | Qu'est-ce que la propriété ? | Pierre-Joseph Proudhon · 1840 | Ni l'occupation, ni le travail, ni la loi ne peuvent fonder la propriété. Le livre qui a lancé la formule « la propriété, c'est le vol ».
 <h2 id="contexte">Contexte</h2>
 <p>Pierre-Joseph Proudhon (1809-1865) est un enfant du peuple de Besançon : fils d'un tonnelier et d'une cuisinière, il garde les vaches, puis devient ouvrier typographe. Il apprend seul le latin, le grec et l'hébreu en composant des livres. Une bourse de l'académie de Besançon lui permet d'étudier à Paris.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-proudhon-livre.jpg" alt="Proudhon, barbe et petites lunettes, le regard baissé." width="1119" height="1345" loading="lazy"><figcaption>Pierre-Joseph Proudhon photographié par Nadar, entre 1854 et 1865. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Proudhon_with_book_and_armrest_by_Nadar_%E2%80%93_BNF_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Son premier grand livre paraît en 1840, sous la monarchie de Juillet, quand la bourgeoisie des banquiers règne et que les ouvriers des villes vivent dans une misère noire. Proudhon examine ce que les révolutions de 1789 et de 1830 ont laissé intact : la souveraineté, l'inégalité des fortunes et la propriété. C'est dans ce livre qu'il écrit, pour la première fois dans l'histoire, « je suis anarchiste ».</p>
 
 <h2 id="these">La thèse</h2>
@@ -57,6 +58,7 @@
 === prise-de-possession | Économie & propriété | Prise de possession | Louise Michel · 1890 | Le capital vit du travail d'autrui. Le monde appartiendra à celles et ceux qui le font tourner, par une prise de possession collective.
 <h2 id="contexte">Contexte</h2>
 <p>Louise Michel (1830-1905) est institutrice quand éclate la Commune de Paris en 1871. Elle y est ambulancière, combattante, animatrice de clubs. Condamnée à la déportation, elle passe sept ans en Nouvelle-Calédonie, où elle devient anarchiste, enseigne aux Kanak et prend leur parti lors de leur grande révolte de 1878. Amnistiée en 1880, elle rentre en héroïne et ne cesse plus de parcourir la France pour des conférences, entre deux séjours en prison.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-michel-1880.jpg" alt="Portrait de Louise Michel, le regard tourné vers la droite." width="1181" height="1792" loading="lazy"><figcaption>Louise Michel vers 1880, à son retour de déportation. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Louise_Michel,_grayscale.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Elle écrit ce texte en 1890. Il réagit à l'Exposition universelle de 1889 et au centenaire de la Révolution, célébrés en grande pompe, aux guerres coloniales en Indochine, aux grèves qui se multiplient en Europe et à la misère des villes. Pour Louise Michel, la République n'est que l'Empire « habillé autrement ».</p>
 
 <h2 id="these">La thèse</h2>
@@ -108,6 +110,7 @@
 === a-mon-frere-le-paysan | Économie & propriété | À mon frère le paysan | Élisée Reclus · 1899 | La terre est à celui qui la travaille. Mais seul, le paysan ne la gardera pas : il lui faut l'union des communes et des ouvriers.
 <h2 id="contexte">Contexte</h2>
 <p>Élisée Reclus (1830-1905) est l'un des plus grands géographes de son temps, auteur d'une <em>Nouvelle Géographie universelle</em> en dix-neuf volumes. Il est aussi anarchiste : combattant de la Commune de Paris, fait prisonnier, condamné, puis banni de France grâce à une pétition de savants du monde entier. Il connaît intimement le monde rural, qu'il a parcouru à pied sur plusieurs continents.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-1900.jpg" alt="Élisée Reclus de trois quarts, barbe et cheveux en bataille." width="1200" height="1651" loading="lazy"><figcaption>Élisée Reclus photographié par Nadar, vers 1900. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_par_Nadar,_1900,_grayscale.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte paraît en 1899 dans <em>Les Temps nouveaux</em>, le journal de Jean Grave, puis en brochure, rééditée pendant des décennies. Reclus s'adresse au petit paysan, à un moment où la mécanisation, la spéculation foncière, les dettes et l'impôt transforment les campagnes françaises et poussent des millions de gens vers les villes.</p>
 
 <h2 id="these">La thèse</h2>

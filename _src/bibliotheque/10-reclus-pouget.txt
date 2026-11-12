@@ -1,6 +1,7 @@
 === anarchie-et-eglise | Individu & morale | L'Anarchie et l'Église | Élisée Reclus · vers 1900 | Combattre sans relâche le pouvoir des Églises, sans haine pour les croyantes et les croyants, et protéger les enfants de toute fabrique d'obéissance.
 <h2 id="contexte">Contexte</h2>
 <p>Élisée Reclus (1830-1905) est fils de pasteur protestant ; il a lui-même étudié la théologie avant de perdre la foi. Ce texte paraît dans <em>Les Temps nouveaux</em> autour de 1900, dans une France déchirée entre l'Église catholique, encore très puissante (écoles, congrégations, presse), et le bloc républicain anticlérical. L'affaire Dreyfus vient de montrer l'alliance entre l'armée, l'Église et l'antisémitisme. La loi de séparation des Églises et de l'État sera votée en 1905.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-nadar-2.jpg" alt="Élisée Reclus assis, de trois quarts." width="1200" height="1733" loading="lazy"><figcaption>Élisée Reclus dans l'atelier Nadar. <small>atelier Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:M._Elis%C3%A9e_Reclus_-_btv1b53118872c.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La religion asservit par la peur ; l'école, qu'elle soit religieuse ou laïque, fabrique des sujets obéissants. Il faut résister par la science et la protection des enfants, sans vengeance ni passivité, et sans haine pour les personnes croyantes.</p>
@@ -41,6 +42,7 @@
 === vegetarisme | Individu & morale | À propos du végétarisme | Élisée Reclus · 1901 | Tuer pour manger endurcit : le végétarisme comme choix moral de solidarité avec les animaux, sans dogme.
 <h2 id="contexte">Contexte</h2>
 <p>Élisée Reclus est végétarien depuis des décennies, comme plusieurs anarchistes de son temps. Ce texte paraît en mars 1901 dans <em>La Réforme alimentaire</em>, revue de la Société végétarienne de France. Reclus part de souvenirs d'enfance dans la campagne du Sud-Ouest, où il a vu tuer un cochon et en a été bouleversé.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-rysselberghe.jpg" alt="Dessin au fusain : Élisée Reclus de profil." width="686" height="850" loading="lazy"><figcaption>Élisée Reclus dessiné par le peintre Théo van Rysselberghe, qui fréquentait comme lui les milieux libertaires de Bruxelles. <small>Théo van Rysselberghe · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Th%C3%A9o_van_Rysselberghe_-_Portrait_of_Elis%C3%A9e_Reclus.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Manger de la viande dégrade les animaux comme les humains : l'habitude de tuer et de voir tuer endurcit et prépare à la violence. Il faut reconnaître la parenté entre humains et bêtes, sans faire du végétarisme une religion ni un sujet de mépris.</p>
@@ -80,6 +82,7 @@
 === esclavage-aux-etats-unis | Histoire & luttes | De l'esclavage aux États-Unis | Élisée Reclus · 1860 | Le jeune Reclus, de retour de Louisiane, démonte le système esclavagiste : lois, Églises et violence au service de la domination.
 <h2 id="contexte">Contexte</h2>
 <p>Après le coup d'État de 1851, le jeune Reclus quitte la France. Il vit plusieurs années en Louisiane, où il est précepteur dans une plantation : il voit l'esclavage de ses propres yeux, et en garde une horreur définitive. Il écrit cette étude pour la <em>Revue des Deux Mondes</em> en 1860, l'année de l'élection d'Abraham Lincoln, qui précipite la sécession des États du Sud et la guerre civile. Il s'appuie sur les « codes noirs » des États du Sud, les décrets et des témoignages.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-esclaves-hilton-head-1862.jpg" alt="Un groupe d'hommes, de femmes et d'enfants noirs pose devant des cabanes en bois." width="1200" height="943" loading="lazy"><figcaption>Des esclaves de la plantation du général sudiste Thomas Drayton, à Hilton Head (Caroline du Sud), photographiés par Henry P. Moore en 1862, deux ans après l'article de Reclus. <small>Henry P. Moore · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Slaves_of_the_rebel_Genl._Thomas_F._Drayton,_Hilton_Head,_S.C._LCCN2006683283.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>L'esclavage nie l'humanité des personnes esclavisées et abîme aussi les maîtres. Le droit du Sud n'est qu'un habillage juridique de l'arbitraire et de la violence ; l'émancipation est une condition du progrès commun.</p>
@@ -158,6 +161,7 @@
 === l-ideal-et-la-jeunesse | Individu & morale | L'Idéal et la jeunesse | Élisée Reclus · 1894 | Aux étudiantes et aux étudiants : refusez le découragement et l'esprit de carrière, mettez votre énergie au service d'une société libre.
 <h2 id="contexte">Contexte</h2>
 <p>Reclus publie ce texte en juin 1894 dans <em>La Société nouvelle</em>, la revue belge où il écrit souvent. Il vient de s'installer à Bruxelles pour enseigner dans une université libre. Il constate que l'engagement des étudiantes et étudiants a faibli depuis les générations romantiques et républicaines de sa jeunesse : la carrière, le scepticisme et l'ironie ont remplacé l'enthousiasme.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-nadar-3.jpg" alt="Portrait d'Élisée Reclus, cheveux en bataille." width="1200" height="1681" loading="lazy"><figcaption>Élisée Reclus photographié par Nadar. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_by_Nadar,_1875-1895,_grayscale.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Il n'y a que deux horizons : l'obéissance à une autorité, ou la libération complète. La jeunesse doit choisir la seconde, contre le scepticisme, l'esprit de carrière et une école qui affaiblit les corps et les volontés.</p>
@@ -196,9 +200,11 @@
 === john-brown | Histoire & luttes | John Brown | Élisée Reclus · vers 1860 | Le portrait de l'abolitionniste qui passa de la conviction à l'action armée contre l'esclavage, jusqu'à Harpers Ferry.
 <h2 id="contexte">Contexte</h2>
 <p>En octobre 1859, John Brown, fermier blanc du Nord des États-Unis, mène avec une vingtaine d'hommes, Noirs et Blancs, une attaque contre l'arsenal fédéral de Harpers Ferry, en Virginie, pour armer les esclaves et déclencher un soulèvement. Le raid échoue ; Brown est pendu le 2 décembre 1859. En Europe, sa mort émeut : Victor Hugo écrit une lettre célèbre pour demander sa grâce. Le jeune Reclus, qui revient d'Amérique, lui rend hommage et appelle à soutenir sa veuve et ses proches.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-john-brown-1859.jpg" alt="John Brown debout, longue barbe blanche, une main dans la poche." width="1200" height="1659" loading="lazy"><figcaption>John Brown en mai 1859, quelques mois avant le raid de Harpers Ferry. <small>Martin M. Lawrence · domaine public · <a href="https://commons.wikimedia.org/wiki/File:John_Brown_portrait,_1859.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>John Brown fut le protecteur des faibles. Il a refusé d'attendre que les lois changent pour combattre la servitude, et son exemple a nourri la lutte abolitionniste jusqu'à la guerre de Sécession.</p>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-harpers-ferry-1859.jpg" alt="Gravure : des soldats enfoncent la porte d'un bâtiment avec une échelle." width="1200" height="969" loading="lazy"><figcaption>Harpers Ferry, octobre 1859 : les marines donnent l'assaut au bâtiment où John Brown et ses compagnons sont retranchés (gravure de presse). <small>graveur inconnu, Bibliothèque du Congrès · domaine public · <a href="https://commons.wikimedia.org/wiki/File:The_Harper%27s_Ferry_insurrection-The_U.S._Marines_storming_the_engine_house-Insurgents_firing_through_holes_in_the_doors_-_from_a_sketch_made_on_the_spot_by_our_special_artist._LCCN00652046.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="idees">Le parcours</h2>
 <ol>
@@ -235,6 +241,7 @@
 === le-1er-mai | Action directe & syndicalisme | Le 1er Mai | Émile Pouget · 1891 | Pas de pétitions ni de bals : faire du 1er Mai une journée de lutte dans la rue, sans politiciens.
 <h2 id="contexte">Contexte</h2>
 <p>Le 1er Mai a une origine anarchiste. Le 1er mai 1886, à Chicago, une grève pour la journée de huit heures dégénère : le 4 mai, une bombe explose lors d'un rassemblement à Haymarket Square. Sans preuve, huit anarchistes sont condamnés ; quatre sont pendus en 1887. En 1889, les socialistes réunis à Paris décident de faire du 1er Mai une journée internationale de lutte pour les huit heures.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-fourmies-1891.jpg" alt="Une de journal : des soldats tirent sur la foule dans une rue, des corps au sol." width="1200" height="1752" loading="lazy"><figcaption>La fusillade de Fourmies, le 1er mai 1891, en une du supplément illustré du <em>Petit Parisien</em>. <small>Le Petit Parisien · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Le_petit_Parisien.JPG" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Pouget publie ce texte en avril 1891 dans <em>Le Père Peinard</em>, dans la langue argotique qui fait le succès de son journal. Quelques jours plus tard, le 1er mai 1891, à Fourmies dans le Nord, la troupe tire sur des manifestants : neuf morts, dont deux enfants et des jeunes femmes.</p>
 
 <h2 id="these">La thèse</h2>
@@ -277,7 +284,9 @@
 === lois-scelerates | État & pouvoir | Les Lois scélérates de 1893-1894 | Francis de Pressensé, Émile Pouget et un juriste · 1899 | Trois lois d'exception votées contre les anarchistes punissent des opinions et des conversations : un précédent contre toute opposition.
 <h2 id="contexte">Contexte</h2>
 <p>De 1892 à 1894, une série d'attentats anarchistes secoue la France : Ravachol, puis Auguste Vaillant qui jette une bombe dans la Chambre des députés en décembre 1893 (sans tuer personne), Émile Henry au café Terminus, et enfin l'assassinat du président Sadi Carnot à Lyon en juin 1894. Les députés votent trois lois en quelques jours : en décembre 1893, puis en juillet 1894.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-vaillant-1893.jpg" alt="Gravure : un homme lance un objet depuis les tribunes de la Chambre des députés." width="1200" height="1766" loading="lazy"><figcaption>Le 9 décembre 1893, Auguste Vaillant lance une bombe à la Chambre des députés. L'attentat ne tue personne, mais il sert de prétexte au vote des lois scélérates. <small>graveur inconnu · CC0 · <a href="https://commons.wikimedia.org/wiki/File:La_dynamite_%C3%A0_la_chambre_Vaillant_lan%C3%A7ant_son_engin,_G.38052.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce recueil réunit trois articles parus en 1898-1899 dans <em>La Revue blanche</em>, en pleine affaire Dreyfus : une analyse politique de Francis de Pressensé, futur président de la Ligue des droits de l'homme ; un examen juridique signé « un juriste », qui était en fait le jeune Léon Blum ; et le recensement des procès par Émile Pouget.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-pressense.jpg" alt="Portrait de Francis de Pressensé, grosse moustache, en manteau." width="1200" height="1729" loading="lazy"><figcaption>Francis de Pressensé, l'un des trois auteurs, vers 1903. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Francis_de_Pressens%C3%A9.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Ces lois renversent les principes du droit : elles punissent des opinions et des personnes plutôt que des actes, et ouvrent la voie à l'arbitraire. Elles doivent être abrogées.</p>
@@ -319,6 +328,7 @@
 === patron-assassin | Féminisme & société | Patron assassin | Émile Pouget · 1893 | Deux ouvrières de 17 ans se noient pour échapper à un patron harceleur : Pouget désigne le vrai meurtrier.
 <h2 id="contexte">Contexte</h2>
 <p>Le 4 juin 1893, <em>Le Père Peinard</em> raconte un drame survenu près de Troyes, capitale de la bonneterie : deux jeunes ouvrières de 17 ans se sont noyées ensemble. L'une était enceinte de son patron, l'autre avait été renvoyée pour l'avoir repoussé. À l'époque, le « droit de cuissage » des contremaîtres et des patrons sur les ouvrières est une réalité courante, dont on parle peu.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-pere-peinard-bourgeoisie.jpg" alt="Dessin : un gros bourgeois à tête de porc dort dans un fauteuil, posé sur un tas de crânes." width="964" height="1144" loading="lazy"><figcaption>« La Bourgeoisie », un dessin du <em>Père Peinard</em>, le journal d'Émile Pouget. <small>Le Père Peinard · domaine public · <a href="https://commons.wikimedia.org/wiki/File:La_Bourgeoisie_(Le_P%C3%A8re_Peinard).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>Le patron qui impose sa domination sexuelle à ses ouvrières est un meurtrier, et c'est tout un système qui lui garantit l'impunité : la dépendance économique, la honte, la justice de classe. Pouget regrette que la révolte des deux jeunes femmes se soit retournée contre elles, et non contre l'agresseur.</p>
@@ -359,6 +369,7 @@
 === barbarie-francaise | Histoire & luttes | Barbarie française | Émile Pouget · 1890 | Un chef rebelle tonkinois promené en cage puis décapité : la « mission civilisatrice » vue par Le Père Peinard.
 <h2 id="contexte">Contexte</h2>
 <p>En 1890, la France achève la conquête de l'Indochine. Au Tonkin (le nord du Viêt Nam actuel), la résistance armée continue. L'exécution publique d'un chef rebelle, Doi Van, à Hanoï, mise en scène pour terroriser la population, sert de point de départ à cet article du <em>Père Peinard</em>. L'année précédente, la République a célébré en grande pompe le centenaire de 1789 et inauguré la tour Eiffel pendant l'Exposition universelle, avec ses « villages indigènes » où l'on exhibait des personnes colonisées.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-pere-peinard-colonies-1891.jpg" alt="Dessin : des soldats français au milieu de corps et de têtes coupées." width="603" height="778" loading="lazy"><figcaption>Un dessin anticolonial du <em>Père Peinard</em>, le 26 avril 1891 : ce que la « civilisation » fait au Tonkin. <small>Le Père Peinard · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Le_P%C3%A8re_Peinard_anticolonialisme.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
 <p>La République qui prétend « civiliser » ne répand que la barbarie : pillages, viols, exécutions-spectacles. C'est la même férocité que celle exercée contre les communards en 1871.</p>

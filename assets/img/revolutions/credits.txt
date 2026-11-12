@@ -69,3 +69,78 @@ ad-seattle-1919 | 700 x 558 | Webster & Stevens | Public domain | https://common
 ad-occupation-1936 | 1200 x 839 | Agence de presse Meurisse | Public domain | https://commons.wikimedia.org/wiki/File:Gr%C3%A9vistes-m%C3%A9tallurgie-usine-banlieue-Paris1936.jpg
 ad-lip-1973 | 1200 x 1582 | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Pour_la_victoire_des_gr%C3%A9vistes_de_LIP.jpg
 ad-faucheurs | 1200 x 900 | Yann | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Action_des_Faucheurs_volontaires_d%27OGM_dans_l%27entrep%C3%B4t_d%27Arterris,_Carcassonne_01.jpg
+biblio-boetie-manuscrit | 627 x 793 | copiste inconnu, bibliothèque municipale de Bordeaux | Public domain | https://commons.wikimedia.org/wiki/File:La_Bo%C3%A9tie_-_Manuscript_du_Discours_de_la_servitude_volontaire,_sd.png
+biblio-bakounine-1863 | 720 x 920 | Sergueï Levitski | Public domain | https://commons.wikimedia.org/wiki/File:Bakunin_Lewitski_1863.png
+biblio-congres-bale-1869 | 1200 x 786 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Baselerkongress_1869.jpg
+biblio-sonvilier | 942 x 627 | Fritz Glauser | Public domain | https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_la_Balance_%C3%A0_Sonvilier.png
+biblio-bakounine-tribune-1869 | 1200 x 1635 | Rafael Farga i Pellicer | Public domain | https://commons.wikimedia.org/wiki/File:Bakunin_speaking.png
+biblio-bakounine-1866 | 856 x 687 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Mikhail_Bakunin_1866-1.2_V01-1.1.jpg
+biblio-bakounine-jeune-1843 | 791 x 1055 | Heinrich Mitreuter | Public domain | https://commons.wikimedia.org/wiki/File:Young_Bakunin_with_signature.png
+biblio-saint-imier-hotel-de-ville | 942 x 610 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Ville_%C3%A0_Saint_Imier.png
+biblio-malatesta-1891 | 1200 x 1546 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Malatesta,_1891.jpg
+biblio-malatesta-bologne-1920 | 721 x 500 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Malatesta_D%27Andrea_Borghi.jpg
+biblio-malatesta-illava-1920 | 1200 x 1663 | Karl Illava | Public domain | https://commons.wikimedia.org/wiki/File:Enrico_Malatesta_illustration_-_Karl_Illava.jpg
+biblio-malatesta-1902 | 622 x 846 | dessinateur inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Errico_Malatesta_The_silver_messenger.png
+biblio-malatesta-1898 | 1050 x 687 | police italienne | Public domain | https://commons.wikimedia.org/wiki/File:Malatesta_1898.jpg
+biblio-libertad | 500 x 726 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Libertad_01.jpg
+biblio-l-anarchie-1907 | 1200 x 1697 | journal l'anarchie | Public domain | https://commons.wikimedia.org/wiki/File:L%27anarchie_(1907).png
+biblio-l-anarchie-1905 | 645 x 999 | journal l'anarchie | Public domain | https://commons.wikimedia.org/wiki/File:L%27anarchie-27-12-1905.jpg
+biblio-goldman-assise | 879 x 1236 | Takuma Kajiwara | Public domain | https://commons.wikimedia.org/wiki/File:Emma_Goldman_seated.jpg
+biblio-goldman-union-square-1916 | 1136 x 784 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Emma_Goldman_-_Union_Square,_New_York,_1916.jpg
+biblio-goldman-berkman | 1200 x 927 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Emma_Goldman_and_Alexander_Berkman.jpg
+biblio-kronstadt-1921 | 1200 x 890 | Agence Rol | Public domain | https://commons.wikimedia.org/wiki/File:Kronstadt_general_view,_1921.jpeg
+biblio-durruti-funerailles | 907 x 1262 | Pablo Luis Torrents | Public domain | https://commons.wikimedia.org/wiki/File:Durruti_funeral,_Via_Laietana.jpg
+biblio-proudhon-livre | 1119 x 1345 | Nadar | Public domain | https://commons.wikimedia.org/wiki/File:Proudhon_with_book_and_armrest_by_Nadar_%E2%80%93_BNF_(cropped).jpg
+biblio-proudhon-courbet | 1200 x 1019 | Jacques-Ernest Bulloz (attribué), d'après Gustave Courbet | CC0 | https://commons.wikimedia.org/wiki/File:Courbet,_Proudhon_et_ses_enfants,_PPPH00634(3).jpg
+biblio-proudhon-1848 | 1200 x 1693 | Émile Desmaisons | Public domain | https://commons.wikimedia.org/wiki/File:P._J._Proudhon_N%C3%A9_%C3%A0_Besan%C3%A7on,_le_15_Janvier_1809_-_estampe_-_btv1b53015371q.jpg
+biblio-michel-1880 | 1181 x 1792 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Louise_Michel,_grayscale.jpg
+biblio-michel-commune | 1200 x 1958 | Ernest Appert | CC0 | https://commons.wikimedia.org/wiki/File:Portrait_de_Louise_Michel_(1830-1905),_pendant_la_Commune_de_Paris_1871._PH15064.jpg
+biblio-michel-ere-nouvelle | 760 x 1313 | Louise Michel | Public domain | https://commons.wikimedia.org/wiki/File:L%27%C3%88re_nouvelle._Pens%C3%A9e_derni%C3%A8re._Souvenirs_de_Cal%C3%A9donie_(Chant_des_captifs).jpg
+biblio-michel-conference-1880 | 1200 x 1796 | Frédéric de Haenen et Auguste Lepère | Public domain | https://commons.wikimedia.org/wiki/File:1880-12-11,_Le_Monde_illustr%C3%A9,_Une_conf%C3%A9rence_de_Louise_Michel_%C3%A0_la_salle_Graffard.jpg
+biblio-michel-vierge-1880 | 1200 x 802 | Daniel Vierge | Public domain | https://commons.wikimedia.org/wiki/File:Louise_Michel_1880.jpg
+biblio-michel-caricature-1887 | 1200 x 1749 | Manuel Luque | Public domain | https://commons.wikimedia.org/wiki/File:Manuel_Luque_-_La_Caricature_du_3_septembre_1887_-_Louise_Michel.jpg
+biblio-reclus-1900 | 1200 x 1651 | Nadar | Public domain | https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_par_Nadar,_1900,_grayscale.jpg
+biblio-reclus-geographe | 1200 x 1557 | atelier Nadar | Public domain | https://commons.wikimedia.org/wiki/File:M._Elis%C3%A9e_Reclus._G%C3%A9ographe_-_btv1b532261609.jpg
+biblio-reclus-vers-1890 | 1200 x 1595 | F. Thévoz et J. Lacroix, Genève | CC0 | https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_RP-F-2001-7-1103A-16_(cropped).jpg
+biblio-reclus-1878 | 943 x 1511 | Nadar | Public domain | https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_by_Nadar,_1878,_original.jpg
+biblio-reclus-gide | 646 x 887 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Elis%C3%A9e_Reclus_vers_1900_arch_C_Gide.jpg
+biblio-reclus-rysselberghe | 686 x 850 | Théo van Rysselberghe | Public domain | https://commons.wikimedia.org/wiki/File:Th%C3%A9o_van_Rysselberghe_-_Portrait_of_Elis%C3%A9e_Reclus.jpg
+biblio-reclus-nadar-2 | 1200 x 1733 | atelier Nadar | Public domain | https://commons.wikimedia.org/wiki/File:M._Elis%C3%A9e_Reclus_-_btv1b53118872c.jpg
+biblio-reclus-nadar-3 | 1200 x 1681 | Nadar | Public domain | https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_by_Nadar,_1875-1895,_grayscale.jpg
+biblio-esclaves-hilton-head-1862 | 1200 x 943 | Henry P. Moore | Public domain | https://commons.wikimedia.org/wiki/File:Slaves_of_the_rebel_Genl._Thomas_F._Drayton,_Hilton_Head,_S.C._LCCN2006683283.jpg
+biblio-john-brown-1859 | 1200 x 1659 | Martin M. Lawrence | Public domain | https://commons.wikimedia.org/wiki/File:John_Brown_portrait,_1859.jpg
+biblio-harpers-ferry-1859 | 1200 x 969 | graveur inconnu, Bibliothèque du Congrès | Public domain | https://commons.wikimedia.org/wiki/File:The_Harper%27s_Ferry_insurrection-The_U.S._Marines_storming_the_engine_house-Insurgents_firing_through_holes_in_the_doors_-_from_a_sketch_made_on_the_spot_by_our_special_artist._LCCN00652046.jpg
+biblio-kropotkine-1900 | 1200 x 1729 | Nadar | Public domain | https://commons.wikimedia.org/wiki/File:Peter_Kropotkin_circa_1900.jpg
+biblio-montmartre-18-mars | 1200 x 816 | photographe inconnu | CC0 | https://commons.wikimedia.org/wiki/File:Parc_d%27artillerie_de_la_Butte_Montmartre._18_mars_1871._PH4142-175.jpg
+biblio-kropotkine-nadar | 1200 x 1190 | Nadar | Public domain | https://commons.wikimedia.org/wiki/File:Kropotkin_Nadar.png
+biblio-esprit-de-revolte-1881 | 1200 x 1600 | journal Le Révolté | Public domain | https://commons.wikimedia.org/wiki/File:First_parts_of_L%27Esprit_de_r%C3%A9volte_in_Le_R%C3%A9volt%C3%A9.jpg
+biblio-le-revolte-1882 | 1200 x 392 | journal Le Révolté | Public domain | https://commons.wikimedia.org/wiki/File:Le_R%C3%A9volt%C3%A9.jpg
+biblio-kropotkine-1864 | 1034 x 1337 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Peter_Kropotkin_1864.png
+biblio-bastille | 1200 x 798 | François Hippolyte Lalaisse | CC0 | https://commons.wikimedia.org/wiki/File:PRISE_DE_LA_BASTILLE_14_juillet_1789,_G.27792.jpg
+biblio-entraide-1902 | 1200 x 1833 | McClure, Phillips & Co | Public domain | https://commons.wikimedia.org/wiki/File:Mutual_Aid_by_Peter_Kropotkin_cover.jpg
+biblio-clairvaux | 1200 x 781 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Prison_de_Clairvaux_La_maison-centrale_et_la_cour_d%27honneur.jpg
+biblio-kropotkine-haparanda-1917 | 729 x 490 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Krapotkin_in_Haparanda.jpg
+biblio-kropotkine-funerailles | 1200 x 754 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Kropotkin%27s_funerals._Head_of_the_Funeral_Procession.jpg
+biblio-kropotkine-temps-nouveaux-1921 | 810 x 926 | dessinateur inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Pierre_Kropotkine_dans_Les_Temps_nouveaux_du_1er_mars_1921.png
+biblio-pataud-1910 | 1200 x 1200 | Henri Manuel | Public domain | https://commons.wikimedia.org/wiki/File:%C3%89mile_Pataud_1910.png
+biblio-pouget-delannoy | 1147 x 1600 | Aristide Delannoy | Public domain | https://commons.wikimedia.org/wiki/File:%C3%89mile_Pouget.jpg
+biblio-fourmies-1891 | 1200 x 1752 | Le Petit Parisien | Public domain | https://commons.wikimedia.org/wiki/File:Le_petit_Parisien.JPG
+biblio-pressense | 1200 x 1729 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Francis_de_Pressens%C3%A9.png
+biblio-vaillant-1893 | 1200 x 1766 | graveur inconnu | CC0 | https://commons.wikimedia.org/wiki/File:La_dynamite_%C3%A0_la_chambre_Vaillant_lan%C3%A7ant_son_engin,_G.38052.jpg
+biblio-pere-peinard-bourgeoisie | 964 x 1144 | Le Père Peinard | Public domain | https://commons.wikimedia.org/wiki/File:La_Bourgeoisie_(Le_P%C3%A8re_Peinard).jpg
+biblio-pere-peinard-colonies-1891 | 603 x 778 | Le Père Peinard | Public domain | https://commons.wikimedia.org/wiki/File:Le_P%C3%A8re_Peinard_anticolonialisme.png
+biblio-de-cleyre-1901 | 1200 x 1795 | M. Herbert Bridle | Public domain | https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre_(Age_35).jpg
+biblio-de-cleyre-1898 | 1200 x 1917 | Adelaide D. Thayer | Public domain | https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre,_August_1898.jpg
+biblio-de-cleyre-frontispice | 1200 x 1836 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre_frontispiece.tiff
+biblio-de-cleyre-1906 | 1200 x 1157 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre_(1906).png
+biblio-stirner-engels | 501 x 525 | Friedrich Engels | Public domain | https://commons.wikimedia.org/wiki/File:Max_Stirner-k.jpg
+biblio-faure-nadar | 1200 x 1732 | atelier Nadar | Public domain | https://commons.wikimedia.org/wiki/File:S%C3%A9bastien_Faure_studio_portrait.jpg
+biblio-faure-police | 646 x 987 | préfecture de police | Public domain | https://commons.wikimedia.org/wiki/File:Fauresebastien_police.jpg
+biblio-la-ruche-fete | 977 x 614 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:La_Ruche_un_jour_de_f%C3%AAte.jpg
+biblio-grave-steinlen | 1200 x 1582 | Théophile Steinlen | Public domain | https://commons.wikimedia.org/wiki/File:Portrait_of_Jean_Grave_by_Th%C3%A9ophile_Steinlen.jpg
+biblio-grave-1893 | 599 x 874 | préfecture de police | Public domain | https://commons.wikimedia.org/wiki/File:Gravejean_police.jpg
+biblio-la-revolte-bureaux-1893 | 1200 x 844 | Jack Abeillé | CC0 | https://commons.wikimedia.org/wiki/File:L%27anarchie_%C3%A0_Paris.-_Les_bureaux_du_journal_La_R%C3%A9volte,_140_rue_Mouffetard._G.38045.jpg
+biblio-darwin-1881 | 1200 x 1646 | Elliott & Fry | Public domain | https://commons.wikimedia.org/wiki/File:Charles_Darwin_1880.jpg
+biblio-dejacque-libertaire | 577 x 832 | journal Le Libertaire | Public domain | https://commons.wikimedia.org/wiki/File:Le_libertaire_25.png
+biblio-parsons-1920 | 1200 x 1765 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Lucy_Parsons.1920.jpg
+biblio-pelletier-1910 | 1200 x 1644 | Agence Rol | Public domain | https://commons.wikimedia.org/wiki/File:Agence_Rol_-_1910_-_Madeleine_Pelletier.jpg

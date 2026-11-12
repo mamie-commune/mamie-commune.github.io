@@ -61,7 +61,7 @@ $familles = @(
     @("cantines", "s-entraider.html#cantines", "Cantines populaires", "Nourrir la lutte : petits-déjeuners, cabanes, piquets", ""),
     @("cooperatives", "s-entraider.html#cooperatives", "Coopératives", "Produire et partager sans patron", ""),
     @("bibliopop", "s-entraider.html#bibliotheques-populaires", "Bibliothèques populaires", "Lire, prêter, se retrouver", "")) },
-  [ordered]@{ id = "defendre"; nom = "Se défendre"; page = "se-defendre.html"; dit = "Tes droits, ta sécurité"; rubriques = @(
+  [ordered]@{ id = "defendre"; nom = "Se défendre"; page = "se-defendre.html"; dit = "Face à la police, à l'État et aux fachos"; rubriques = @(
     @("droits", "manif/legal-team.html", "Droits", "En manif, en garde à vue, au lycée", "manif/|agir/lyceens-face-aux-sanctions"),
     @("juridique", "se-defendre.html#juridique", "Ressources juridiques", "Modèles de recours, legal teams, lois à connaître", "manif/modeles"),
     @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, ses codes, et agir contre elle", "antifascisme/"),
@@ -131,9 +131,9 @@ $menu = @(
 # ---------- identité : Mamie signe chaque page ----------
 # En haut des pages de rubrique, Mamie (son portrait, dessin existant) dit une phrase ; en haut des fiches, un tampon
 # dit le type de contenu. Les phrases donnent le ton, jamais une information : les faits restent dans le texte sourcé.
-$mamieDit = @{ bibliotheque = "Les livres se prêtent, les idées se partagent."; videotheque = "Un film, ça se regarde à plusieurs, et ça se discute après."
-  organiser = "Une lutte, ça se prépare à plusieurs."; defendre = "Connaître ses droits, c'est déjà se défendre."
-  lieux = "On s'organise entre camarades, souvent à deux rues de chez soi."; entraide = "Sers-toi, et rends quand tu peux."; "" = "Sers-toi, imprime, fais tourner." }
+$mamieDit = @{ bibliotheque = "Le savoir n'appartient à personne : prends, lis, fais tourner."; videotheque = "Un film, ça se regarde à plusieurs, et ça se discute après."
+  organiser = "Personne ne nous libérera à notre place."; defendre = "Connaître ses droits, c'est bien. Être nombreux, c'est mieux."
+  lieux = "Les camarades sont souvent à deux rues de chez toi."; entraide = "La solidarité, pas la charité."; "" = "Sers-toi, imprime, fais tourner." }
 $tampons = @{ "Guide numérique" = "Fais tourner"; "Fiche de lecture" = "Lu par la bande"; "Histoire de lutte" = "Mémoire des luttes"; "Fiche pratique" = "Sers-toi"
   "Guide pratique" = "Dans le cabas"; "Guide juridique" = "Droit français"; "Dossier antifasciste" = "No pasarán"; "Portrait" = "Portrait"; "Parcours" = "Université populaire"; "Dossier encyclopédique" = "Encyclopédie" }
 function Entree-De($cle) { foreach ($e in $menu) { if (($e.cles -split ' ') -contains $cle) { return $e } }; return $null }

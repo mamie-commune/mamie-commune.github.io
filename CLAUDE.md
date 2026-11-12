@@ -22,7 +22,12 @@ Le projet est organisé en six espaces : **Apprendre, S'organiser, S'entraider, 
 
 Le projet assume une orientation libertaire. Principes de référence : autonomie, autogestion, entraide, fédéralisme, démocratie directe, éducation populaire, antiautoritarisme, émancipation collective, libre partage des savoirs.
 
-- Ne pas transformer le site en propagande caricaturale.
+**Ligne radicale (consigne permanente, novembre 2026).** Mamie n'est pas neutre : le site parle depuis un point de vue franchement libertaire et radical. Il est contre l'État, le capital, le patriarcat, le racisme et le colonialisme, la police et les prisons ; il est pour l'autogestion, l'action directe, l'entraide et la démocratie directe.
+- Les mots sont directs : exploitation, domination, répression, bourgeoisie, patronat. Pas de faux équilibre « d'un côté, de l'autre » entre les gens qui luttent et ceux qui les écrasent.
+- Le léninisme, le stalinisme, la social-démocratie et le réformisme sont critiqués depuis une position anarchiste, sans tiédeur. Les dossiers sur d'autres courants (Famille 2 de l'Encyclopédie…) disent clairement ce que les libertaires leur reprochent.
+- La radicalité ne remplace jamais l'exactitude : faits vérifiés et sourcés, aucune citation inventée. Les désaccords internes au mouvement libertaire restent exposés honnêtement. Pas d'appel à blesser des personnes, pas de mode d'emploi illégal détaillé.
+
+- Ne pas transformer le site en propagande caricaturale : radical ne veut pas dire faux ni simpliste.
 - Ne pas présenter tous les courants libertaires comme identiques.
 - Exposer les divergences, les débats et les contradictions historiques.
 - Le site doit rester accessible aux personnes qui découvrent ces idées.

@@ -1758,3 +1758,18 @@ section:nth-of-type(even) :is(.rubrique, .card, .step, .mode, .ency-fam, .princi
 .dico__vide { font: 400 17px/1.5 var(--mono); }
 .tiroir-nav--lettres { flex-wrap: wrap; }
 .facile .dico__theme { transform: none; }
+
+/* Dictionnaire militant : l'encadré « Les mots à connaître en premier », en note scotchée */
+.dico__essentiels { position: relative; margin: 0 0 2.6em; padding: 26px 24px 20px; background: var(--yellow); color: var(--on-color); box-shadow: 6px 6px 0 var(--shadow); transform: rotate(-.4deg); }
+.dico__essentiels::before { content: ""; position: absolute; top: -12px; left: 50%; width: 110px; height: 24px; margin-left: -55px; background: rgba(246, 240, 227, .7); transform: rotate(-3deg); box-shadow: 0 1px 2px rgba(var(--shade-rgb), .25); }
+.dico__essentiels-tit { margin: 0; display: inline-block; font: 400 clamp(18px, 2.4vw, 23px)/1.2 var(--display); text-transform: uppercase; background: var(--ink); color: var(--paper-2); padding: 6px 10px; transform: rotate(-1deg); }
+:root[data-theme="dark"] .dico__essentiels-tit { background: #171414; color: #f6f0e3; }
+.dico__essentiels-intro { margin: 12px 0 0; font: 400 16px/1.5 var(--mono); max-width: 62ch; }
+.dico__essentiels-grille { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 280px), 1fr)); gap: 18px 24px; margin-top: 16px; }
+.prose .dico__essentiels h3 { margin: 0 0 6px; font: 400 15px/1.2 var(--display); text-transform: uppercase; color: var(--on-color); border-bottom: 2px dashed rgba(23, 20, 20, .45); padding-bottom: 4px; }
+.prose .dico__essentiels ul { list-style: none; margin: 0; padding: 0; }
+.prose .dico__essentiels li { margin: 0 0 7px; line-height: 1.3; }
+.prose .dico__essentiels a { color: var(--on-color); font-weight: 700; text-decoration-thickness: 2px; }
+.prose .dico__essentiels a:hover, .prose .dico__essentiels a:focus-visible { background: var(--ink); color: var(--paper-2); }
+.dico__essentiels li span { display: block; font-size: 14px; color: rgba(23, 20, 20, .8); }
+.facile .dico__essentiels, .facile .dico__essentiels-tit { transform: none; }

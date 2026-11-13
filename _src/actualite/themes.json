@@ -1,0 +1,448 @@
+{
+  "_lisezmoi": "La « sélection de la bande » de l'accueil suit l'actualité. Chaque matin, _src/actualite.ps1 lit les titres des flux ci-dessous (sept derniers jours) et compte, pour chaque thème, les titres qui contiennent un de ses mots (sans accents ni majuscules ; un mot qui finit par * attrape aussi ses suites : grév* = grève, grévistes…). Les trois thèmes les plus cités donnent chacun une carte (leur première page). S'il y a moins de trois thèmes avec au moins « minimum » titres, on complète avec « defaut ». Aucune intelligence artificielle : seulement cette liste de mots, écrite par la bande. Pour ajouter un thème : un id, des mots, et des pages qui existent sur le site (titre, phrase, mot de Mamie).",
+  "minimum": 2,
+  "jours": 7,
+  "flux": [
+    {
+      "nom": "franceinfo",
+      "url": "https://www.franceinfo.fr/france.rss"
+    },
+    {
+      "nom": "Reporterre",
+      "url": "https://reporterre.net/spip.php?page=backend"
+    },
+    {
+      "nom": "Rapports de force",
+      "url": "https://rapportsdeforce.fr/feed"
+    },
+    {
+      "nom": "Basta!",
+      "url": "https://basta.media/spip.php?page=backend"
+    },
+    {
+      "nom": "Politis",
+      "url": "https://www.politis.fr/flux-rss-apps/"
+    },
+    {
+      "nom": "L'Humanité",
+      "url": "https://www.humanite.fr/feed"
+    }
+  ],
+  "themes": [
+    {
+      "id": "greve",
+      "nom": "les grèves",
+      "mots": [
+        "grev*",
+        "greviste*",
+        "intersyndical*",
+        "syndicat*",
+        "piquet*",
+        "retraite*",
+        "licenci*",
+        "plan social",
+        "plans sociaux",
+        "salaire*",
+        "smic",
+        "cgt",
+        "solidaires",
+        "precaires",
+        "chomage"
+      ],
+      "pages": [
+        {
+          "url": "agir/lancer-une-greve.html",
+          "kicker": "S'organiser",
+          "titre": "Lancer une grève et tenir un piquet",
+          "texte": "Le droit de grève, l'assemblée, la caisse, le piquet : de quoi tenir plus d'une journée.",
+          "mot": "« Une grève qui dure, ça se prépare. »"
+        },
+        {
+          "url": "agir/caisse-de-solidarite.html",
+          "kicker": "S'entraider",
+          "titre": "Monter une caisse de grève",
+          "texte": "Une grève tient tant que les grévistes peuvent payer leur loyer.",
+          "mot": "« La caisse, c'est l'arme la plus simple. »"
+        }
+      ]
+    },
+    {
+      "id": "police",
+      "nom": "la répression policière",
+      "mots": [
+        "violences policieres",
+        "violence policiere",
+        "bavure*",
+        "lbd",
+        "igpn",
+        "iggn",
+        "refus d'obtemperer",
+        "maintien de l'ordre",
+        "nasse",
+        "repression",
+        "violences des forces de l'ordre",
+        "tue par un policier",
+        "tue par la police"
+      ],
+      "pages": [
+        {
+          "url": "manif/legal-team.html",
+          "kicker": "Se défendre",
+          "titre": "Tes droits en manif et en garde à vue",
+          "texte": "Contrôle d'identité, garde à vue, droit au silence, lettres pour contester un PV.",
+          "mot": "« Lis-la avant le cortège, pas après. »"
+        },
+        {
+          "url": "manif/apres-la-manif.html",
+          "kicker": "Se défendre",
+          "titre": "Après la manif : soins, preuves et repos",
+          "texte": "Faire constater ses blessures, garder les preuves, soutenir les camarades arrêtés.",
+          "mot": "« On ne laisse personne seul après. »"
+        }
+      ]
+    },
+    {
+      "id": "extreme-droite",
+      "nom": "l'extrême droite",
+      "mots": [
+        "extreme droite",
+        "extreme-droite",
+        "rassemblement national",
+        "bardella",
+        "le pen",
+        "zemmour",
+        "reconquete",
+        "ultradroite",
+        "ultra-droite",
+        "neonazi*",
+        "identitaire*",
+        "fasciste*",
+        "fascisme"
+      ],
+      "pages": [
+        {
+          "url": "antifascisme/extreme-droite-familles.html",
+          "kicker": "Antifascisme",
+          "titre": "L'extrême droite : mieux la connaître",
+          "texte": "Ses familles, ses partis, ses groupuscules, et ce qui les relie.",
+          "mot": "« Connais ton adversaire. »"
+        },
+        {
+          "url": "antifascisme/agir-antifasciste.html",
+          "kicker": "Antifascisme",
+          "titre": "Comment agir contre l'extrême droite",
+          "texte": "Informer, occuper le terrain, se protéger, ne rien laisser passer.",
+          "mot": "« No pasarán, ça se travaille. »"
+        }
+      ]
+    },
+    {
+      "id": "terre",
+      "nom": "la terre et l'eau",
+      "mots": [
+        "bassine*",
+        "mega-bassine*",
+        "secheresse*",
+        "climat*",
+        "pesticide*",
+        "agricult*",
+        "paysan*",
+        "a69",
+        "autoroute*",
+        "zad",
+        "soulevements de la terre",
+        "artificialisation",
+        "glyphosate",
+        "nucleaire"
+      ],
+      "pages": [
+        {
+          "url": "experiences/soulevements-histoire.html",
+          "kicker": "Histoire des luttes",
+          "titre": "Les Soulèvements de la Terre",
+          "texte": "Du Larzac à Sainte-Soline : paysans et écologistes contre l'accaparement des terres et de l'eau.",
+          "mot": "« La terre, ça se défend. »"
+        },
+        {
+          "url": "experiences/zad-histoire.html",
+          "kicker": "Histoire des luttes",
+          "titre": "La ZAD de Notre-Dame-des-Landes",
+          "texte": "Un bocage occupé, un aéroport abandonné : une lutte qui a gagné.",
+          "mot": "« Il est rare qu'une lutte gagne aussi nettement. »"
+        }
+      ]
+    },
+    {
+      "id": "kanaky",
+      "nom": "la Kanaky",
+      "mots": [
+        "nouvelle-caledonie",
+        "nouvelle caledonie",
+        "kanak*",
+        "kanaky",
+        "flnks",
+        "noumea",
+        "caledonie*"
+      ],
+      "pages": [
+        {
+          "url": "experiences/kanaky-histoire.html",
+          "kicker": "Histoire des luttes",
+          "titre": "Kanaky : contre la dernière grande colonie française",
+          "texte": "La guerre d'Ataï, les Événements, Ouvéa, la révolte de 2024.",
+          "mot": "« C'est notre État qui la mène. »"
+        },
+        {
+          "url": "experiences/kanaky-debats.html",
+          "kicker": "Histoire des luttes",
+          "titre": "Indépendance, décolonisation et anarchisme",
+          "texte": "Pourquoi soutenir un peuple qui réclame son indépendance quand on est contre les États.",
+          "mot": "« Sans illusions, mais sans hésiter. »"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "nom": "l'exil et les frontières",
+      "mots": [
+        "migrant*",
+        "exile*",
+        "sans-papiers",
+        "sans papiers",
+        "oqtf",
+        "centre de retention",
+        "retention administrative",
+        "regularisation*",
+        "loi immigration",
+        "immigration",
+        "frontiere*",
+        "refugie*",
+        "demandeur* d'asile",
+        "calais"
+      ],
+      "pages": [
+        {
+          "url": "videos.html#utopia-56",
+          "kicker": "Vidéothèque",
+          "titre": "Utopia 56, la solidarité entravée",
+          "texte": "Trois jours avec les bénévoles qui hébergent et soignent les personnes exilées à Calais.",
+          "mot": "« La solidarité n'est pas un délit. »"
+        },
+        {
+          "url": "carte.html?type=solidarite,antiraciste",
+          "kicker": "Lieux et mobilisations",
+          "titre": "Trouver un collectif de solidarité",
+          "texte": "Associations d'aide aux personnes exilées et collectifs antiracistes, sur la carte.",
+          "mot": "« Les camarades sont souvent à deux rues de chez toi. »"
+        }
+      ]
+    },
+    {
+      "id": "feminisme",
+      "nom": "les violences faites aux femmes",
+      "mots": [
+        "feminicide*",
+        "violences sexuelles",
+        "violences sexistes",
+        "viol",
+        "viols",
+        "metoo",
+        "avortement",
+        "ivg",
+        "patriarcat",
+        "feministe*",
+        "harcelement"
+      ],
+      "pages": [
+        {
+          "url": "manif/autodefense-feministe.html",
+          "kicker": "Se défendre",
+          "titre": "L'autodéfense féministe",
+          "texte": "Se défendre ensemble, sans attendre la police.",
+          "mot": "« Ensemble, on est plus fortes. »"
+        },
+        {
+          "url": "experiences/mlac-histoire.html",
+          "kicker": "Histoire des luttes",
+          "titre": "Le MLAC : avorter en autogestion",
+          "texte": "Quand des femmes ont arraché le droit à l'avortement en le pratiquant elles-mêmes.",
+          "mot": "« Le droit ne tombe pas du ciel. »"
+        }
+      ]
+    },
+    {
+      "id": "lgbt",
+      "nom": "les luttes LGBT",
+      "mots": [
+        "transphobie",
+        "homophobie",
+        "lgbt*",
+        "marche des fiertes",
+        "pride",
+        "transgenre*",
+        "personnes trans"
+      ],
+      "pages": [
+        {
+          "url": "experiences/stonewall-fhar-histoire.html",
+          "kicker": "Histoire des luttes",
+          "titre": "De Stonewall au FHAR",
+          "texte": "La Pride est née d'une émeute contre la police.",
+          "mot": "« Pas d'un défilé de sponsors. »"
+        },
+        {
+          "url": "agir/accueillir-personnes-trans.html",
+          "kicker": "S'organiser",
+          "titre": "Accueillir les personnes trans dans son collectif",
+          "texte": "Des gestes simples pour que personne ne reparte à la première réunion.",
+          "mot": "« Personne ne lutte seul. »"
+        }
+      ]
+    },
+    {
+      "id": "jeunesse",
+      "nom": "la jeunesse en lutte",
+      "mots": [
+        "lyceen*",
+        "blocus",
+        "etudiant*",
+        "parcoursup",
+        "universite*",
+        "facs",
+        "education nationale"
+      ],
+      "pages": [
+        {
+          "url": "agir/lutter-au-lycee.html",
+          "kicker": "S'organiser",
+          "titre": "Lutter au lycée : par où commencer",
+          "texte": "S'informer, faire une AG, porter des revendications, sans se faire virer.",
+          "mot": "« On n'est jamais trop jeune pour s'organiser. »"
+        },
+        {
+          "url": "agir/lyceens-face-aux-sanctions.html",
+          "kicker": "Se défendre",
+          "titre": "Lycéennes et lycéens face aux sanctions",
+          "texte": "Conseil de discipline, police au lycée : tes droits.",
+          "mot": "« Connaître ses droits, c'est déjà se défendre. »"
+        }
+      ]
+    },
+    {
+      "id": "surveillance",
+      "nom": "la surveillance",
+      "mots": [
+        "surveillance",
+        "videosurveillance",
+        "reconnaissance faciale",
+        "algorithme*",
+        "donnees personnelles",
+        "logiciel espion",
+        "pegasus",
+        "chiffrement",
+        "fichage"
+      ],
+      "pages": [
+        {
+          "url": "guides/proteger-ses-donnees.html",
+          "kicker": "Protection numérique",
+          "titre": "Protéger ses données",
+          "texte": "Ton téléphone en dit long sur toi et sur tes camarades.",
+          "mot": "« Nos outils façonnent nos luttes. »"
+        },
+        {
+          "url": "guides/signal.html",
+          "kicker": "Protection numérique",
+          "titre": "S'organiser sur Signal",
+          "texte": "Une messagerie chiffrée, et les bons réglages pour un collectif.",
+          "mot": "« Ce qui se dit entre camarades reste entre camarades. »"
+        }
+      ]
+    },
+    {
+      "id": "pouvoir",
+      "nom": "le jeu politique",
+      "mots": [
+        "49.3",
+        "49-3",
+        "motion de censure",
+        "dissolution",
+        "assemblee nationale",
+        "elections",
+        "legislatives",
+        "presidentielle",
+        "municipales"
+      ],
+      "pages": [
+        {
+          "url": "bibliotheque/voter-c-est-abdiquer.html",
+          "kicker": "Bibliothèque",
+          "titre": "Voter c'est abdiquer",
+          "texte": "Élisée Reclus, en 1885 : on ne change pas le système en élisant ses gérants.",
+          "mot": "« Personne ne nous libérera à notre place. »"
+        },
+        {
+          "url": "agir/decider-sans-chef.html",
+          "kicker": "S'organiser",
+          "titre": "Décider sans chef",
+          "texte": "Consensus, consentement, vote, mandats révocables : décider nous-mêmes.",
+          "mot": "« La démocratie, c'est pas un bulletin tous les cinq ans. »"
+        }
+      ]
+    },
+    {
+      "id": "vie-chere",
+      "nom": "la vie chère",
+      "mots": [
+        "pouvoir d'achat",
+        "inflation",
+        "vie chere",
+        "carburant*",
+        "loyer*",
+        "factures",
+        "electricite",
+        "pauvrete",
+        "precarite"
+      ],
+      "pages": [
+        {
+          "url": "experiences/gilets-jaunes-histoire.html",
+          "kicker": "Histoire des luttes",
+          "titre": "Gilets jaunes : la révolte des ronds-points",
+          "texte": "Quand la France des fins de mois a occupé les ronds-points.",
+          "mot": "« Fin du monde, fin du mois, même combat. »"
+        },
+        {
+          "url": "s-entraider.html",
+          "kicker": "S'entraider",
+          "titre": "S'entraider : cantines, caisses, coopératives",
+          "texte": "La solidarité organisée, pour que personne ne reste sur le carreau.",
+          "mot": "« La solidarité, pas la charité. »"
+        }
+      ]
+    }
+  ],
+  "defaut": [
+    {
+      "url": "manif/legal-team.html",
+      "kicker": "Se défendre",
+      "titre": "Tes droits en manif et en garde à vue",
+      "texte": "Contrôle d'identité, garde à vue, droit au silence, lettres pour contester un PV.",
+      "mot": "« Lis-la avant le cortège, pas après. »"
+    },
+    {
+      "url": "glossaire.html",
+      "kicker": "Apprendre",
+      "titre": "Le dictionnaire militant",
+      "texte": "Plus de 370 mots des luttes, expliqués en deux phrases.",
+      "mot": "« Il y a toujours un mot que personne n'ose demander. »"
+    },
+    {
+      "url": "experiences/commune-de-paris-histoire.html",
+      "kicker": "Histoire des luttes",
+      "titre": "La Commune de Paris : 72 jours",
+      "texte": "Le printemps 1871, quand Paris s'est gouverné lui-même.",
+      "mot": "« Ah, la Commune. Tout part de là. »"
+    }
+  ]
+}

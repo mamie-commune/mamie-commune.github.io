@@ -135,6 +135,15 @@ Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html
 
 Dans les sources, on écrit les liens normalement (`page.html`, `dossier/index.html`). À la génération, `_src/build.ps1` (`Clean-Links`) les transforme en `page` et `dossier/` : les adresses publiques n'ont ni `.html` ni `index.html`. Sur IONOS, `.htaccess` sert `page.html` pour `/page` et redirige les anciennes adresses en `.html`. Dans le JavaScript (`assets/*.js`, `data/videos.js`), écrire directement les liens sans `.html`. Une page supprimée garde un renvoi : règle dans `.htaccess` + petite page de renvoi générée dans `build.ps1` (exemple : `partage` → `guides/signal`).
 
+## Sélection de la bande selon l'actualité (accueil)
+
+La section « La sélection de la bande » de l'accueil suit l'actualité française, **sans intelligence artificielle** :
+- `_src/actualite/themes.json` : les flux de presse lus (franceinfo, Reporterre, Rapports de force, Basta!, Politis, L'Humanité), et une douzaine de thèmes écrits par la bande. Chaque thème a une liste de mots (sans accents ni majuscules ; `grev*` attrape grève, grévistes…) et des pages du site avec leur titre, leur phrase et un mot de Mamie. Plus « defaut » : les trois cartes quand l'actualité ne donne rien.
+- `_src/actualite.ps1` lit les titres des sept derniers jours, compte pour chaque thème les titres qui contiennent un de ses mots, et écrit `data/actualite.json` (thèmes les plus cités, trois titres d'exemple chacun). Il ne réécrit le fichier que si les trois premiers thèmes changent, ou tous les trois jours.
+- Le workflow `actualite.yml` le lance **chaque matin** (5 h 20 UTC) et republie le site si ça a changé ; à la main : `gh workflow run actualite.yml`.
+- `_src/build.ps1` fabrique `{{SELECTION}}` : une carte par thème (première page pas encore prise), complétée par « defaut », l'étiquette « Dans l'actu », et le dépliant « Les titres qui ont guidé ce choix ». Un fichier de plus de 10 jours est ignoré.
+- Pour régler : retirer un mot trop large (« policier » attrape tous les faits divers), ajouter un thème, changer les pages. Toujours des pages qui existent : le générateur avertit sinon.
+
 ## Carte du mouvement du 17 Octobre
 
 Page `mouvement-17-octobre` (source `_src/pages/mouvement-17-octobre.html`, script `assets/mobilisations.js`). Les données (`data/mobilisations.js`) sont **recopiées** de https://17octobregiletjaune.net/carte/ par `_src/mobilisations.ps1` : ne jamais les modifier à la main. Le workflow `mobilisations.yml` les met à jour **toutes les heures** et republie le site s'il y a du nouveau ; à la main : `gh workflow run mobilisations.yml`. Pour ajouter une mobilisation, c'est sur leur carte, pas chez nous.
@@ -262,7 +271,7 @@ Le menu, le pied de page, le fil d'Ariane et le bloc de bas de page suivent `$me
 - **Bas de page** (`<nav class="suite">`) : 4 portes de la rubrique et « ← Retour à la rubrique ». Il remplace l'ancien « Dans le même tiroir ».
 - **Pages de rubrique** : un sommaire court sous le titre (`<nav class="sommaire-rubrique">`, liens vers les sections). Les longues listes de cartes se replient avec `data-plie="9"` (`assets/accueil.js`).
 - **En-tête** : sur ordinateur, le logo mène à l'accueil ; sur téléphone, bandeau d'édition masqué, recherche derrière la loupe (`#loupeBtn`), menu en accordéon (une entrée ouverte à la fois). Clavier : flèche bas ouvre et parcourt, Échap referme (`assets/site.js`).
-- **Accueil** façon journal (`_src/pages/index.html`) : présentation, sélection de la bande (3 pages choisies à la main), dernières publications (1 + 4), bibliothèque, vidéothèque, lieux et mobilisations, guides pratiques, appel à contribution. Ne pas en refaire un catalogue : 4 à 6 éléments par section.
+- **Accueil** façon journal (`_src/pages/index.html`) : présentation, sélection de la bande (3 pages choisies selon l'actualité, voir « Sélection selon l'actualité »), dernières publications (1 + 4), bibliothèque, vidéothèque, lieux et mobilisations, guides pratiques, appel à contribution. Ne pas en refaire un catalogue : 4 à 6 éléments par section.
 - Blocs déplacés de l'ancien accueil : frise des luttes → `apprendre.html` ; « Avant d'aller en manif » → `se-defendre.html` ; quatre parcours transversaux → `universite.html` (#fils) ; questions fréquentes → `commencer.html` (#faq).
 
 ## Identité graphique (novembre 2026)

@@ -19,8 +19,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Mamie">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="stylesheet" href="assets/fonts.css?v=92c13b05">
-<link rel="stylesheet" href="assets/style.css?v=92c13b05">
+<link rel="stylesheet" href="assets/fonts.css?v=5883ee9d">
+<link rel="stylesheet" href="assets/style.css?v=5883ee9d">
 <script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
 </head>
 <body>
@@ -88,13 +88,8 @@
     <header class="sec__head">
       <p class="eyebrow">la bande a choisi pour toi</p>
       <h2>La sélection de la bande</h2>
-      <p class="sec__intro">Trois pages que Mamie mettrait dans toutes les poches en ce moment.</p>
-    </header>
-    <div class="selection">
-      <a class="selection__item" href="manif/legal-team"><span class="kicker">Se défendre</span><h3>Tes droits en manif et en garde à vue</h3><p>Contrôle d'identité, garde à vue, droit au silence, lettres pour contester un PV.</p><span class="selection__mot">« Lis-la avant le cortège, pas après. »</span></a>
-      <a class="selection__item" href="logiciels/"><span class="kicker">Protection numérique</span><h3>L'annuaire des logiciels libres</h3><p>Dix-huit logiciels pour s'organiser sans les géants du numérique, avec leurs limites.</p><span class="selection__mot">« Nos outils façonnent nos luttes. »</span></a>
-      <a class="selection__item" href="experiences/commune-de-paris-histoire"><span class="kicker">Histoire des luttes</span><h3>La Commune de Paris : 72 jours</h3><p>Le printemps 1871, quand Paris s'est gouverné lui-même.</p><span class="selection__mot">« Ah, la Commune. Tout part de là. »</span></a>
-    </div>
+      <!-- La suite (intro, trois cartes, titres de presse) est générée par _src/build.ps1 d'après data/actualite.json et _src/actualite/themes.json. -->
+      <p class="sec__intro">Cette semaine, l&#39;actualit&#233; parle beaucoup de la terre et l&#39;eau, des gr&#232;ves et de la r&#233;pression polici&#232;re. Mamie a sorti du tiroir ce qui aide &#224; y voir clair, et &#224; agir.</p></header><div class="selection"><a class="selection__item" href="experiences/soulevements-histoire"><span class="selection__actu">Dans l'actu : la terre et l&#39;eau</span><span class="kicker">Histoire des luttes</span><h3>Les Soul&#232;vements de la Terre</h3><p>Du Larzac &#224; Sainte-Soline : paysans et &#233;cologistes contre l&#39;accaparement des terres et de l&#39;eau.</p><span class="selection__mot">&#171; La terre, &#231;a se d&#233;fend. &#187;</span></a><a class="selection__item" href="agir/lancer-une-greve"><span class="selection__actu">Dans l'actu : les gr&#232;ves</span><span class="kicker">S&#39;organiser</span><h3>Lancer une gr&#232;ve et tenir un piquet</h3><p>Le droit de gr&#232;ve, l&#39;assembl&#233;e, la caisse, le piquet : de quoi tenir plus d&#39;une journ&#233;e.</p><span class="selection__mot">&#171; Une gr&#232;ve qui dure, &#231;a se pr&#233;pare. &#187;</span></a><a class="selection__item" href="manif/legal-team"><span class="selection__actu">Dans l'actu : la r&#233;pression polici&#232;re</span><span class="kicker">Se d&#233;fendre</span><h3>Tes droits en manif et en garde &#224; vue</h3><p>Contr&#244;le d&#39;identit&#233;, garde &#224; vue, droit au silence, lettres pour contester un PV.</p><span class="selection__mot">&#171; Lis-la avant le cort&#232;ge, pas apr&#232;s. &#187;</span></a></div><details class="selection__sources"><summary>Les titres qui ont guidé ce choix</summary><ul><li><a href="https://www.humanite.fr/social-et-economie/gilets-jaunes/mobilisations-sociales-a-quoi-sattendre-ce-week-end" rel="noopener">&#171; Acte V &#187;, marche pour le climat, contre le &#171; permis de tuer &#187;… Quels sont les rendez-vous de mobilisation ce samedi ?</a> <span>L&#39;Humanit&#233;</span></li><li><a href="https://www.humanite.fr/societe/climat/enfantisme-climat-justice-sociale-lappel-a-mobilisation-pour-le-14-novembre-setend" rel="noopener">Enfantisme, climat, justice sociale : l’appel &#224; mobilisation pour le 14 novembre s’&#233;tend</a> <span>L&#39;Humanit&#233;</span></li><li><a href="https://reporterre.net/Nucleaire-EDF-voudrait-relever-les-limites-de-temperature-des-fleuves-et-tant-pis-pour-les-poissons" rel="noopener">Nucl&#233;aire : EDF voudrait relever les limites de temp&#233;rature des fleuves, et tant pis pour les poissons</a> <span>Reporterre</span></li><li><a href="https://www.humanite.fr/social-et-economie/ligue-des-droits-de-lhomme/mouvement-lyceen-lintersyndicale-des-jeunes-et-la-ldh-denoncent-la-repression-et-saisissent-lonu" rel="noopener">Mouvement lyc&#233;en : l’intersyndicale des jeunes et la LDH d&#233;noncent la r&#233;pression et saisissent l’ONU</a> <span>L&#39;Humanit&#233;</span></li><li><a href="https://www.humanite.fr/politique/education-nationale/pour-les-syndicats-sebastien-lecornu-jette-de-lhuile-sur-le-feu-en-accusant-les-professeurs-de-complicite-sur-les-violences" rel="noopener">Pour les syndicats, S&#233;bastien Lecornu &#171; jette de l’huile sur le feu &#187; en accusant les professeurs de &#171; complicit&#233; &#187; sur les violences</a> <span>L&#39;Humanit&#233;</span></li><li><a href="https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html#xtor=RSS-3-%5Bfrance%5D" rel="noopener">La CFDT rejoint l&#39;appel &#224; la gr&#232;ve dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement &quot;ne constituent pas de v&#233;ritables avanc&#233;es&quot;</a> <span>franceinfo</span></li><li><a href="https://www.humanite.fr/social-et-economie/ligue-des-droits-de-lhomme/mouvement-lyceen-lintersyndicale-des-jeunes-et-la-ldh-denoncent-la-repression-et-saisissent-lonu" rel="noopener">Mouvement lyc&#233;en : l’intersyndicale des jeunes et la LDH d&#233;noncent la r&#233;pression et saisissent l’ONU</a> <span>L&#39;Humanit&#233;</span></li><li><a href="https://basta.media/Des-dizaines-de-personnes-en-prison-repression-anti-LGBTQI-s-intensifie-Turquie" rel="noopener">Des dizaines de personnes en prison depuis deux mois : la r&#233;pression anti-LGBTQI s&#39;intensifie en Turquie</a> <span>Basta!</span></li><li><a href="https://www.politis.fr/api/proxy/?articleID=524357" rel="noopener">Violences polici&#232;res : Wendy Olibrice toujours entre la vie et la mort</a> <span>Politis</span></li></ul><p>Choisi automatiquement le 13 novembre 2026 d'après les titres des sept derniers jours de franceinfo, Reporterre, Rapports de force, Basta!, Politis, L'Humanité. Sans intelligence artificielle : une liste de thèmes et de mots écrite par la bande, et un simple comptage.</p></details>
   </div>
 </section>
 
@@ -202,9 +197,9 @@
     </div>
   </div>
 </footer>
-<script src="assets/site.js?v=92c13b05"></script>
-<script src="assets/recherche.js?v=92c13b05"></script>
-<script src="assets/hors-ligne.js?v=92c13b05"></script>
-<script src="data/videos.js?v=92c13b05"></script><script src="assets/videos.js?v=92c13b05"></script>
+<script src="assets/site.js?v=5883ee9d"></script>
+<script src="assets/recherche.js?v=5883ee9d"></script>
+<script src="assets/hors-ligne.js?v=5883ee9d"></script>
+<script src="data/videos.js?v=5883ee9d"></script><script src="assets/videos.js?v=5883ee9d"></script>
 </body>
 </html>

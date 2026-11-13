@@ -1,0 +1,144 @@
+{
+    "maj":  "2026-11-13",
+    "titresLus":  132,
+    "themes":  [
+                   {
+                       "id":  "terre",
+                       "nom":  "la terre et l\u0027eau",
+                       "score":  12,
+                       "titres":  [
+                                      {
+                                          "titre":  "« Acte V », marche pour le climat, contre le « permis de tuer »… Quels sont les rendez-vous de mobilisation ce samedi ?",
+                                          "url":  "https://www.humanite.fr/social-et-economie/gilets-jaunes/mobilisations-sociales-a-quoi-sattendre-ce-week-end",
+                                          "source":  "L\u0027Humanité",
+                                          "date":  "2026-11-13"
+                                      },
+                                      {
+                                          "titre":  "Enfantisme, climat, justice sociale : l’appel à mobilisation pour le 14 novembre s’étend",
+                                          "url":  "https://www.humanite.fr/societe/climat/enfantisme-climat-justice-sociale-lappel-a-mobilisation-pour-le-14-novembre-setend",
+                                          "source":  "L\u0027Humanité",
+                                          "date":  "2026-11-13"
+                                      },
+                                      {
+                                          "titre":  "Nucléaire : EDF voudrait relever les limites de température des fleuves, et tant pis pour les poissons",
+                                          "url":  "https://reporterre.net/Nucleaire-EDF-voudrait-relever-les-limites-de-temperature-des-fleuves-et-tant-pis-pour-les-poissons",
+                                          "source":  "Reporterre",
+                                          "date":  "2026-11-13"
+                                      }
+                                  ]
+                   },
+                   {
+                       "id":  "greve",
+                       "nom":  "les grèves",
+                       "score":  6,
+                       "titres":  [
+                                      {
+                                          "titre":  "Mouvement lycéen : l’intersyndicale des jeunes et la LDH dénoncent la répression et saisissent l’ONU",
+                                          "url":  "https://www.humanite.fr/social-et-economie/ligue-des-droits-de-lhomme/mouvement-lyceen-lintersyndicale-des-jeunes-et-la-ldh-denoncent-la-repression-et-saisissent-lonu",
+                                          "source":  "L\u0027Humanité",
+                                          "date":  "2026-11-13"
+                                      },
+                                      {
+                                          "titre":  "Pour les syndicats, Sébastien Lecornu « jette de l’huile sur le feu » en accusant les professeurs de « complicité » sur les violences",
+                                          "url":  "https://www.humanite.fr/politique/education-nationale/pour-les-syndicats-sebastien-lecornu-jette-de-lhuile-sur-le-feu-en-accusant-les-professeurs-de-complicite-sur-les-violences",
+                                          "source":  "L\u0027Humanité",
+                                          "date":  "2026-11-13"
+                                      },
+                                      {
+                                          "titre":  "La CFDT rejoint l\u0027appel à la grève dans la fonction publique le 17 novembre, estimant que les propositions du gouvernement \"ne constituent pas de véritables avancées\"",
+                                          "url":  "https://www.franceinfo.fr/economie/greve/la-cfdt-rejoint-l-appel-a-la-greve-dans-la-fonction-publique-le-17-novembre-estimant-que-les-propositions-du-gouvernement-ne-constituent-pas-de-veritables-avancees_8281298.html#xtor=RSS-3-%5Bfrance%5D",
+                                          "source":  "franceinfo",
+                                          "date":  "2026-11-13"
+                                      }
+                                  ]
+                   },
+                   {
+                       "id":  "police",
+                       "nom":  "la répression policière",
+                       "score":  5,
+                       "titres":  [
+                                      {
+                                          "titre":  "Mouvement lycéen : l’intersyndicale des jeunes et la LDH dénoncent la répression et saisissent l’ONU",
+                                          "url":  "https://www.humanite.fr/social-et-economie/ligue-des-droits-de-lhomme/mouvement-lyceen-lintersyndicale-des-jeunes-et-la-ldh-denoncent-la-repression-et-saisissent-lonu",
+                                          "source":  "L\u0027Humanité",
+                                          "date":  "2026-11-13"
+                                      },
+                                      {
+                                          "titre":  "Des dizaines de personnes en prison depuis deux mois : la répression anti-LGBTQI s\u0027intensifie en Turquie",
+                                          "url":  "https://basta.media/Des-dizaines-de-personnes-en-prison-repression-anti-LGBTQI-s-intensifie-Turquie",
+                                          "source":  "Basta!",
+                                          "date":  "2026-11-12"
+                                      },
+                                      {
+                                          "titre":  "Violences policières : Wendy Olibrice toujours entre la vie et la mort",
+                                          "url":  "https://www.politis.fr/api/proxy/?articleID=524357",
+                                          "source":  "Politis",
+                                          "date":  "2026-11-12"
+                                      }
+                                  ]
+                   },
+                   {
+                       "id":  "jeunesse",
+                       "nom":  "la jeunesse en lutte",
+                       "score":  3,
+                       "titres":  [
+                                      {
+                                          "titre":  "Mouvement lycéen : l’intersyndicale des jeunes et la LDH dénoncent la répression et saisissent l’ONU",
+                                          "url":  "https://www.humanite.fr/social-et-economie/ligue-des-droits-de-lhomme/mouvement-lyceen-lintersyndicale-des-jeunes-et-la-ldh-denoncent-la-repression-et-saisissent-lonu",
+                                          "source":  "L\u0027Humanité",
+                                          "date":  "2026-11-13"
+                                      },
+                                      {
+                                          "titre":  "« Complètement disproportionné » : pour un devoir facultatif sur le mouvement lycéen, une enseignante convoquée sans préalable devant le rectorat",
+                                          "url":  "https://www.humanite.fr/societe/enseignement/completement-disproportionne-pour-un-devoir-facultatif-sur-le-mouvement-lyceen-une-enseignante-convoquee-sans-prealable-devant-le-rectorat",
+                                          "source":  "L\u0027Humanité",
+                                          "date":  "2026-11-13"
+                                      },
+                                      {
+                                          "titre":  "« C\u0027est un fantôme » : face à la répression des lycéens, le silence du nouveau Défenseur des droits passe mal en interne",
+                                          "url":  "https://basta.media/Face-repression-lyceens-silence-nouveau-Defenseur-des-droits-passe-mal-en-interne-Francois-Noel-Buffet",
+                                          "source":  "Basta!",
+                                          "date":  "2026-11-10"
+                                      }
+                                  ]
+                   },
+                   {
+                       "id":  "exil",
+                       "nom":  "l\u0027exil et les frontières",
+                       "score":  2,
+                       "titres":  [
+                                      {
+                                          "titre":  "14 novembre-6 décembre : Migrant’Scène, festival de la Cimade partout en France",
+                                          "url":  "https://www.politis.fr/api/proxy/?articleID=524441",
+                                          "source":  "Politis",
+                                          "date":  "2026-11-12"
+                                      },
+                                      {
+                                          "titre":  "Immigration : la France admet des « discussions » avec les talibans",
+                                          "url":  "https://www.politis.fr/api/proxy/?articleID=523824",
+                                          "source":  "Politis",
+                                          "date":  "2026-11-10"
+                                      }
+                                  ]
+                   },
+                   {
+                       "id":  "extreme-droite",
+                       "nom":  "l\u0027extrême droite",
+                       "score":  2,
+                       "titres":  [
+                                      {
+                                          "titre":  "Comment l\u0027extrême droite instrumentalise la « guerre contre la voiture »",
+                                          "url":  "https://reporterre.net/La-guerre-contre-la-voiture-est-l-une-des-principales-paniques-morales-generees-par-l-extreme-droite",
+                                          "source":  "Reporterre",
+                                          "date":  "2026-11-12"
+                                      },
+                                      {
+                                          "titre":  "Quand des grands-mères s\u0027engagent contre l\u0027extrême droite : « Je voulais que les femmes âgées aient une voix politique »",
+                                          "url":  "https://basta.media/quand-des-grands-meres-s-engagent-contre-extreme-droite-je-voulais-que-les-femmes-agees-aient-une-voix-politique",
+                                          "source":  "Basta!",
+                                          "date":  "2026-11-09"
+                                      }
+                                  ]
+                   }
+               ]
+}

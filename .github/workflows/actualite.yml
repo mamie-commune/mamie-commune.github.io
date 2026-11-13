@@ -1,0 +1,42 @@
+# Chaque matin : lit les titres de presse de la semaine (_src/actualite.ps1) et choisit les thèmes de la
+# « sélection de la bande » de l'accueil d'après _src/actualite/themes.json. Aucune intelligence artificielle :
+# une liste de mots écrite par la bande, et un comptage. Si les thèmes changent, enregistre data/actualite.json
+# et relance « Publier le site » (un envoi fait par ce robot ne déclenche pas tout seul la publication).
+name: Sélection de la bande selon l'actualité
+
+on:
+  schedule:
+    - cron: "20 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: actualite
+  cancel-in-progress: false
+
+jobs:
+  selection:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lire les titres et choisir les thèmes
+        shell: pwsh
+        run: ./_src/actualite.ps1
+      - name: Enregistrer et publier si ça a changé
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- data/actualite.json && [ -z "$(git status --porcelain -- data/actualite.json)" ]; then
+            echo "Mêmes thèmes que la veille : rien à publier."
+            exit 0
+          fi
+          git config user.name "mamie-commune-robot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/actualite.json
+          git commit -m "Sélection de la bande : mise à jour selon l'actualité"
+          git pull --rebase -q origin main
+          git push -q origin HEAD:main
+          gh workflow run publier.yml --ref main

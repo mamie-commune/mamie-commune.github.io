@@ -191,6 +191,7 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
   $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{FAMOPTS}}", $opts).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts).Replace("{{EDITION}}", $edition)
   $out = $out.Replace("{{FAMILLES}}", (Familles-Accueil $root))
   if ($out.Contains("{{NOUVEAUTES}}")) { $out = $out.Replace("{{NOUVEAUTES}}", $nouveautes) }
+  if ($out.Contains("{{SELECTION}}")) { $out = $out.Replace("{{SELECTION}}", $selection) }
   foreach ($k in $compteurs.Keys) { $out = $out.Replace("{{$k}}", "$($compteurs[$k])") }
   $out = Clean-Links ($out.Replace("{{R}}", $root))
   # Version dans l'adresse des scripts et styles : les navigateurs reprennent la dernière version à chaque changement.
@@ -557,6 +558,51 @@ $lead = $recents[0]
 $nouveautes = "<div class=""une""><article class=""une__lead""><a href=""{{R}}$($lead.u)""><span class=""kicker"">$(Esc $lead.k)</span><h3>$(Esc $lead.t)</h3><p>$(Esc $lead.s)</p><span class=""une__date"">Ajouté le $(& $jourDe $lead)</span></a></article>"
 $nouveautes += "<div class=""une__fil""><h3 class=""une__tit"">Et aussi</h3><ol>" + (($recents | Select-Object -Skip 1 | ForEach-Object {
   "<li><a href=""{{R}}$($_.u)""><span class=""kicker"">$(Esc $_.k)</span><b>$(Esc $_.t)</b><span class=""une__date"">$(& $jourDe $_)</span></a></li>" }) -join "") + "</ol></div></div>"
+
+# ---------- sélection de la bande selon l'actualité ({{SELECTION}}, accueil) ----------
+# _src/actualite.ps1 (lancé chaque matin par .github/workflows/actualite.yml) écrit data/actualite.json : les thèmes de
+# _src/actualite/themes.json les plus présents dans les titres des médias. Chaque thème donne une carte (sa première page
+# pas encore prise) ; on complète avec « defaut ». Sans le fichier, ou trop vieux (plus de 10 jours) : la sélection par défaut.
+$actuConf = (Read-Utf8 (Join-Path $src "actualite\themes.json")) | ConvertFrom-Json
+$actuFile = Join-Path $site "data\actualite.json"
+$actu = $null
+if (Test-Path $actuFile) {
+  $actu = (Read-Utf8 $actuFile) | ConvertFrom-Json
+  if (([datetime]::UtcNow - [datetime]::ParseExact($actu.maj, "yyyy-MM-dd", $null)).TotalDays -gt 10) { Write-Warning "Actualité : data/actualite.json a plus de 10 jours, sélection par défaut."; $actu = $null }
+}
+$cartes = @(); $prises = @{}; $themesPris = @()
+if ($actu) {
+  foreach ($t in @($actu.themes)) {
+    if ($cartes.Count -ge 3) { break }
+    $def = $actuConf.themes | Where-Object { $_.id -eq $t.id } | Select-Object -First 1
+    if (-not $def) { continue }
+    $p = @($def.pages) | Where-Object { -not $prises[$_.url] } | Select-Object -First 1
+    if (-not $p) { continue }
+    $prises[$p.url] = 1; $themesPris += [pscustomobject]@{ nom = $def.nom; titres = $t.titres }   # le nom vient toujours de themes.json
+    $cartes += [pscustomobject]@{ p = $p; actu = $def.nom }
+  }
+}
+foreach ($p in @($actuConf.defaut)) { if ($cartes.Count -ge 3) { break }; if (-not $prises[$p.url]) { $prises[$p.url] = 1; $cartes += [pscustomobject]@{ p = $p; actu = "" } } }
+foreach ($c in $cartes) { $chemin = ($c.p.url -split '[#?]')[0]; if (-not (Test-Path (Join-Path $site $chemin)) -and -not (Test-Path (Join-Path $src "pages\$chemin"))) { Write-Warning "Actualité : la page $($c.p.url) n'existe pas." } }
+# « de » + nom du thème, avec les contractions du français : de les → des, de le → du.
+$deNom = { param($n) if ($n -match '^les ') { "des " + $n.Substring(4) } elseif ($n -match '^le ') { "du " + $n.Substring(3) } else { "de $n" } }
+$noms = @($themesPris | ForEach-Object { & $deNom $_.nom })
+$intro = switch ($noms.Count) {
+  0 { "Trois pages que Mamie mettrait dans toutes les poches en ce moment." }
+  1 { "Cette semaine, l'actualité parle beaucoup $($noms[0]). Mamie a sorti du tiroir ce qui aide à y voir clair, et à agir." }
+  2 { "Cette semaine, l'actualité parle beaucoup $($noms[0]) et $($noms[1]). Mamie a sorti du tiroir ce qui aide à y voir clair, et à agir." }
+  default { "Cette semaine, l'actualité parle beaucoup $($noms[0]), $($noms[1]) et $($noms[2]). Mamie a sorti du tiroir ce qui aide à y voir clair, et à agir." }
+}
+$selection = "<p class=""sec__intro"">$(Esc $intro)</p></header><div class=""selection"">" + (($cartes | ForEach-Object {
+  $a = if ($_.actu) { "<span class=""selection__actu"">Dans l'actu : $(Esc $_.actu)</span>" } else { "" }
+  "<a class=""selection__item"" href=""{{R}}$($_.p.url)"">$a<span class=""kicker"">$(Esc $_.p.kicker)</span><h3>$(Esc $_.p.titre)</h3><p>$(Esc $_.p.texte)</p><span class=""selection__mot"">$(Esc $_.p.mot)</span></a>" }) -join "") + "</div>"
+if ($themesPris.Count) {
+  $sources = (@($actuConf.flux) | ForEach-Object { $_.nom }) -join ", "
+  $quand = Date-Fr ([datetime]::ParseExact($actu.maj, "yyyy-MM-dd", $null)) $false
+  $selection += "<details class=""selection__sources""><summary>Les titres qui ont guidé ce choix</summary><ul>" + (($themesPris | ForEach-Object { $_.titres } | ForEach-Object {
+    "<li><a href=""$(Esc $_.url)"" rel=""noopener"">$(Esc $_.titre)</a> <span>$(Esc $_.source)</span></li>" }) -join "") +
+    "</ul><p>Choisi automatiquement le $quand d'après les titres des sept derniers jours de $sources. Sans intelligence artificielle : une liste de thèmes et de mots écrite par la bande, et un simple comptage.</p></details>"
+}
 
 # ---------- index de la barre de recherche (data/recherche.js) ----------
 # Une entrée par page : u = adresse, k = rubrique, t = titre, d = résumé, x = mots en plus (catégorie, intertitres, début du texte).

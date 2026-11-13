@@ -69,6 +69,23 @@ ad-seattle-1919 | 700 x 558 | Webster & Stevens | Public domain | https://common
 ad-occupation-1936 | 1200 x 839 | Agence de presse Meurisse | Public domain | https://commons.wikimedia.org/wiki/File:Gr%C3%A9vistes-m%C3%A9tallurgie-usine-banlieue-Paris1936.jpg
 ad-lip-1973 | 1200 x 1582 | Unknown author Unknown author | Public domain | https://commons.wikimedia.org/wiki/File:Pour_la_victoire_des_gr%C3%A9vistes_de_LIP.jpg
 ad-faucheurs | 1200 x 900 | Yann | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Action_des_Faucheurs_volontaires_d%27OGM_dans_l%27entrep%C3%B4t_d%27Arterris,_Carcassonne_01.jpg
+kanaky-atai-1878 | 1200 x 1389 | graveur inconnu (signé S.T.) | Public domain | https://commons.wikimedia.org/wiki/File:Altai_grand_chef_Kanak_1878.jpg
+kanaky-legendes-louise-michel | 1200 x 706 | Louise Michel | Public domain | https://commons.wikimedia.org/wiki/File:Michel-L%C3%A9gendes_et_chants_de_gestes_canaques-p11.jpg
+kanaky-drapeaux | 1200 x 800 | Takver | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:The_Mornining_Star_flag_of_West_Papua_alongside_the_flag_of_New_Caledonia_-_Kanaky_(5228362037).jpg
+kanaky-case | 1200 x 1805 | Fanny Schertzer | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Kanak_house.jpg
+slt-sainte-soline-2023 | 1200 x 801 | Noisette lairederien | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Mega-bassine_giga-zbeul.jpg
+slt-pancarte-nantes-2023 | 1200 x 1600 | Skimel | CC BY-SA 4.0 | https://commons.wikimedia.org/wiki/File:Pancarte_manif_soutien_Soul%C3%A8vements_de_la_Terre_-_Nantes,_21_juin_2023.jpg
+slt-prises-de-parole-2023 | 1073 x 891 | Noisette lairederien | CC BY 4.0 | https://commons.wikimedia.org/wiki/File:Prises_de_parole_%C3%A0_la_manifestation_de_Sainte-Soline_(cropped).jpg
+argentine-cacerolazo | 640 x 480 | Pepe Robles | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Cacerolazo_Argentina_2001-2002.jpg
+argentine-20-decembre-2001 | 640 x 440 | PRFOTOBAIRES (Arte y Fotografía) | CC BY 2.5 | https://commons.wikimedia.org/wiki/File:Crisis_20_diciembre_2001.jpg
+argentine-brukman | 1200 x 1505 | Brian Zbriger | CC BY-SA 2.5 | https://commons.wikimedia.org/wiki/File:Brukman.jpg
+argentine-hotel-bauen | 1086 x 1409 | Brian Zbriger | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Hotel_bauen.jpg
+argentine-gare-kosteki-santillan | 1200 x 675 | Toycansaopapito | CC0 | https://commons.wikimedia.org/wiki/File:Mural_homenaje_a_Jorge_Julio_Lopez_en_la_Estaci%C3%B3n_Dar%C3%ADo_Santill%C3%A1n_y_Maximiliano_Kosteki.jpg
+oaxaca-barricade-2006 | 700 x 525 | Cwhalvor | Public domain | https://commons.wikimedia.org/wiki/File:APPO-barricade.jpg
+oaxaca-manifestation-2006 | 1200 x 900 | R4che1 | CC BY-SA 3.0 | https://commons.wikimedia.org/wiki/File:Oaxaca_protests.jpg
+oaxaca-affiche-brad-will | 1200 x 1043 | Patrick Gruban | CC BY-SA 2.0 | https://commons.wikimedia.org/wiki/File:Brad_Will-Poster_at_the_NYC_Halloween_Parade.jpg
+shinmin-kim-jwa-jin | 810 x 922 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:%E9%87%91%E4%BD%90%E9%95%87.JPG
+shinmin-armee-1920 | 1200 x 821 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B1%B1%E9%87%8C%E6%88%98%E6%96%97%E8%83%9C%E5%88%A9%E5%90%8E%E7%9A%84%E5%8C%97%E8%B7%AF%E5%86%9B%E6%94%BF%E7%BD%B2%E9%98%9F%E5%91%98.JPG
 biblio-boetie-manuscrit | 627 x 793 | copiste inconnu, bibliothèque municipale de Bordeaux | Public domain | https://commons.wikimedia.org/wiki/File:La_Bo%C3%A9tie_-_Manuscript_du_Discours_de_la_servitude_volontaire,_sd.png
 biblio-bakounine-1863 | 720 x 920 | Sergueï Levitski | Public domain | https://commons.wikimedia.org/wiki/File:Bakunin_Lewitski_1863.png
 biblio-congres-bale-1869 | 1200 x 786 | photographe inconnu | Public domain | https://commons.wikimedia.org/wiki/File:Baselerkongress_1869.jpg

@@ -1,0 +1,123 @@
+=== shinmin-histoire | Shinmin (Mandchourie) | Le Shinmin : la Makhnovtchina coréenne de Mandchourie | Mandchourie · 1929-1931 | Exilés de la Corée colonisée par le Japon, des paysans coréens et des anarchistes fondent en Mandchourie une fédération autonome de villages et de coopératives. Elle dure deux ans, prise entre l'armée japonaise et les communistes.
+<p>Mamie a découvert cette histoire tard, et elle l'a lue avec émotion : une région autogérée par des paysans exilés, à l'autre bout du monde, à la même époque que les collectivités espagnoles. Les sources sont rares et surtout militantes, alors elle la raconte avec prudence. Mais elle mérite d'être connue : <strong>l'anarchisme n'a jamais été une affaire seulement européenne</strong>.</p>
+
+<h2 id="exil">La Corée colonisée, l'exil en Mandchourie</h2>
+<p>Le Japon prend le contrôle de la Corée après 1905 et l'annexe en <strong>1910</strong>. La colonisation est brutale. Après l'écrasement du grand soulèvement non violent du <strong>1er mars 1919</strong>, des centaines de milliers de Coréens fuient vers la <strong>Mandchourie</strong>, au nord-est de la Chine, où ils deviennent paysans sur les terres de propriétaires chinois. Certaines sources parlent de deux millions de personnes. C'est là que se réfugient aussi les militants de l'indépendance, et parmi eux des <strong>anarchistes</strong>.</p>
+
+<h2 id="kim">Kim Jwa-jin, le général devenu anarchiste</h2>
+<figure class="photo"><img src="../assets/img/revolutions/shinmin-kim-jwa-jin.jpg" alt="Portrait ovale d'un homme coréen à moustache, en noir et blanc." width="810" height="922" loading="lazy"><figcaption>Kim Jwa-jin (1889-1930), vers 1920. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%E9%87%91%E4%BD%90%E9%95%87.JPG" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p><strong>Kim Jwa-jin</strong> est né en 1889 dans une famille noble. Jeune, il libère les esclaves de sa famille, brûle leur registre et leur distribue une partie de ses terres. Officier, il rejoint la lutte pour l'indépendance et, en <strong>1920</strong>, mène l'Armée de l'indépendance coréenne à la victoire de <strong>Cheongsanri</strong> contre l'armée japonaise. Dans les années 1920, il se rapproche de l'anarchisme. On le compare souvent à <a href="makhno-histoire.html">Nestor Makhno</a>.</p>
+<figure class="photo"><img src="../assets/img/revolutions/shinmin-armee-1920.jpg" alt="Un groupe de soldats coréens en uniforme sur une colline enneigée." width="1200" height="821" loading="lazy"><figcaption>Des combattants de l'indépendance coréenne après la bataille de Cheongsanri, en 1920. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%E9%9D%92%E5%B1%B1%E9%87%8C%E6%88%98%E6%96%97%E8%83%9C%E5%88%A9%E5%90%8E%E7%9A%84%E5%8C%97%E8%B7%AF%E5%86%9B%E6%94%BF%E7%BD%B2%E9%98%9F%E5%91%98.JPG" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+
+<h2 id="fondation">1929 : la fédération du Shinmin</h2>
+<p>Le <strong>21 juillet 1929</strong>, des anarchistes coréens fondent à Hailin la <strong>Fédération anarchiste coréenne de Mandchourie</strong>. Son but : organiser l'entraide entre les Coréens exilés, et à terme une société sans État où chacun donne selon ses moyens et reçoit selon ses besoins. En <strong>août 1929</strong>, elle s'unit avec le gouvernement « Shinmin » (nouveau peuple) que dirigeait Kim Jwa-jin dans le nord de la Mandchourie : naît l'<strong>Association du peuple coréen en Mandchourie</strong>, dont Kim est élu président.</p>
+<p>L'association se définit comme une organisation <strong>« autonome, autogouvernée et coopérative »</strong>, un « gouvernement sans gouvernement » imposé.</p>
+
+<h2 id="fin">1930-1931 : entre deux feux</h2>
+<p>La région est vite encerclée : l'armée japonaise au sud, l'Union soviétique au nord, et des agents envoyés pour abattre les responsables. Le <strong>20 janvier 1930</strong>, <strong>Kim Jwa-jin est assassiné</strong> par un jeune membre du Parti communiste coréen, pendant qu'il répare un moulin à riz. D'autres dirigeants sont arrêtés par la police japonaise ou tués. Le <strong>18 septembre 1931</strong>, le Japon envahit la Mandchourie et y installe un État fantoche, le Mandchoukouo. L'expérience est finie. Les survivants partent combattre le Japon depuis le sud de la Chine.</p>
+
+<h2 id="chronologie">Chronologie</h2>
+<ol class="timeline">
+<li><b>1910</b><span>Le Japon annexe la Corée.</span></li>
+<li><b>1919</b><span>Soulèvement du 1er mars, réprimé ; l'exil vers la Mandchourie s'accélère.</span></li>
+<li><b>1920</b><span>Victoire de Cheongsanri, menée par Kim Jwa-jin.</span></li>
+<li><b>21 juillet 1929</b><span>Fondation de la Fédération anarchiste coréenne de Mandchourie.</span></li>
+<li><b>Août 1929</b><span>Naissance de l'Association du peuple coréen en Mandchourie.</span></li>
+<li><b>20 janvier 1930</b><span>Assassinat de Kim Jwa-jin.</span></li>
+<li><b>18 septembre 1931</b><span>Invasion japonaise : fin de l'expérience.</span></li>
+</ol>
+
+<h2 id="suite">Dans ce dossier</h2>
+<ul>
+<li><a href="shinmin-organisation.html">Villages, coopératives et écoles</a> : comment la région s'organisait.</li>
+<li><a href="shinmin-debats.html">Nationalisme et anarchisme, et le problème des sources</a> : les débats.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://en.wikipedia.org/wiki/Korean_People%27s_Association_in_Manchuria" rel="noopener">L'Association du peuple coréen en Mandchourie (en anglais)</a><span>Fondation, organisation, fin.</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Kim_Chwajin" rel="noopener">Kim Jwa-jin (en anglais)</a><span>Sa vie, de l'armée à l'anarchisme.</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Anarchism_in_Korea" rel="noopener">L'anarchisme en Corée (en anglais)</a><span>Le mouvement avant et après 1929.</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="makhno-histoire.html">La Makhnovtchina</a><span>L'autre révolution paysanne prise entre deux armées.</span></li>
+<li><a href="../figures/kanno-sugako.html">Kanno Sugako</a><span>L'anarchisme au Japon, de l'autre côté.</span></li>
+</ul></section>
+</div>
+<p class="doc__relire">Dossier écrit à partir des articles Wikipédia cités, à relire par la bande. Les sources sur cette expérience sont rares ; certains chiffres sont discutés. Sources vérifiées le 13 novembre 2026.</p>
+
+=== shinmin-organisation | Shinmin (Mandchourie) | Villages, coopératives et écoles | Mandchourie · 1929-1931 | Assemblées de village, fédération de conseils, fermes collectives, banques mutuelles, écoles gratuites et milice paysanne : l'organisation de l'Association du peuple coréen en Mandchourie.
+<p>Dans un pays d'exil, sans terre à soi, sous la menace de deux armées, les anarchistes coréens ont choisi de commencer par l'urgence : <strong>manger, apprendre, se défendre</strong>. La révolution viendrait après. Voici ce qu'ils ont construit.</p>
+
+<h2 id="decider">Décider : du village à la région</h2>
+<ul>
+<li>Les décisions se prennent surtout dans les <strong>assemblées de village</strong>.</li>
+<li>Les questions plus larges remontent à une <strong>fédération décentralisée de conseils</strong>, au niveau du district puis de la région.</li>
+<li>Des <strong>équipes d'organisation</strong> passent de village en village pour aider les paysans à créer leurs propres assemblées et comités.</li>
+<li>Les responsables ne touchent qu'un <strong>salaire moyen</strong>.</li>
+</ul>
+<p>Une partie des responsables était nommée d'en haut : le Shinmin n'était pas une démocratie directe parfaite, plutôt un compromis en pleine guerre.</p>
+
+<h2 id="produire">Produire en commun</h2>
+<p>La plupart des Coréens de Mandchourie travaillaient pour des propriétaires chinois. L'association met en place l'<strong>agriculture coopérative</strong> : la production et la vente des récoltes sont collectivisées. Elle crée des <strong>banques mutuelles</strong>, comme le proposait Proudhon, et des <strong>coopératives de travail</strong>.</p>
+
+<h2 id="apprendre">Apprendre</h2>
+<p>Un réseau d'<strong>écoles gratuites</strong> couvre les territoires de l'association. Dans un peuple d'exilés, l'école sert aussi à garder une langue et une culture que le colonisateur japonais voulait effacer.</p>
+
+<h2 id="defendre">Se défendre</h2>
+<p>L'Armée de l'indépendance coréenne, commandée par Kim Jwa-jin, sert de force armée : une <strong>milice paysanne</strong>, renforcée par des guérilleros formés dans une académie militaire. Une unité de sécurité protège les villages contre les bandits, une autre mène la guérilla contre l'armée japonaise.</p>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Assemblées de village et fédération de conseils : le fédéralisme libertaire, appliqué en exil.</li>
+<li>Les besoins immédiats d'abord : nourriture, école, sécurité.</li>
+<li>Une milice paysanne, comme en Ukraine et en Espagne.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://en.wikipedia.org/wiki/Korean_People%27s_Association_in_Manchuria" rel="noopener">L'Association du peuple coréen en Mandchourie (en anglais)</a><span>La partie « Gouvernance ».</span></li>
+</ul></section>
+<section><h3>Sur le site</h3><ul>
+<li><a href="makhno-organisation.html">Soviets libres et armée insurrectionnelle</a><span>Comparer avec l'Ukraine de Makhno.</span></li>
+<li><a href="espagne-1936-organisation.html">Les collectivités espagnoles</a><span>Comparer avec l'Espagne de 1936.</span></li>
+</ul></section>
+</div>
+<p class="doc__relire">Dossier écrit à partir des articles Wikipédia cités, à relire par la bande. Sources vérifiées le 13 novembre 2026.</p>
+
+=== shinmin-debats | Shinmin (Mandchourie) | Nationalisme et anarchisme, et le problème des sources | Mandchourie · 1929-1931 | Une expérience libertaire alliée à des nationalistes, tuée par des communistes et des impérialistes, et racontée surtout par des militants : comment en parler honnêtement.
+<p>Mamie aime cette histoire, et c'est justement pour ça qu'elle veut la regarder sans lunettes roses.</p>
+
+<h2 id="nationalisme">Une alliance avec des nationalistes</h2>
+<p>Le gouvernement Shinmin était d'abord <strong>nationaliste</strong> : il voulait l'indépendance de la Corée. Il s'est tourné vers l'anarchisme en partie pour résister à l'influence croissante des communistes. Dans l'association, les anarchistes ont mis de côté la propagande pour une Corée indépendante ou anarchiste, et donné la priorité à la <strong>survie des paysans exilés</strong>. Une alliance de circonstance, comme celle des anarchistes espagnols avec la République en 1936, avec ses ambiguïtés.</p>
+
+<h2 id="communistes">Tués par les communistes</h2>
+<p>Comme en Ukraine en 1921, comme en Espagne en 1937, l'expérience libertaire est attaquée par les communistes autant que par ses ennemis déclarés : Kim Jwa-jin est abattu par un militant communiste. Mamie ne cherche pas à en faire un martyr ; elle note simplement que <strong>le même schéma se répète</strong> partout où une révolution libertaire gêne un parti qui veut le pouvoir.</p>
+
+<h2 id="sources-rares">Le problème des sources</h2>
+<p>On sait peu de choses précises sur le Shinmin. Les sources sont rares, souvent écrites par des militants anarchistes, et les chiffres (deux millions de personnes) sont discutés. En Corée du Sud, Kim Jwa-jin est célébré comme <strong>héros national</strong>, ce qui tend à effacer son anarchisme. L'honnêteté libertaire, c'est de dire ce qu'on sait, ce qu'on ne sait pas, et de chercher encore.</p>
+
+<h2 id="comparer">Comparer avec les autres expériences</h2>
+<ul>
+<li>Avec la <a href="makhno-critique-bolcheviks.html">critique libertaire des bolcheviks</a> : la même trahison, à l'autre bout du continent.</li>
+<li>Avec le <a href="rojava-femmes-debats.html">Rojava</a> : une autonomie née d'un mouvement national, en pleine guerre.</li>
+<li>Avec la <a href="kanaky-debats.html">Kanaky</a> : comment les anarchistes regardent les luttes anticoloniales.</li>
+</ul>
+
+<h2 id="retenir">À retenir</h2>
+<ul>
+<li>Une expérience libertaire née d'une alliance avec des nationalistes, en exil et en guerre.</li>
+<li>Prise entre l'impérialisme japonais et les communistes, comme Makhno entre les Blancs et les Rouges.</li>
+<li>Une histoire à raconter avec prudence : les sources sont rares.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le web</h3><ul>
+<li><a href="https://en.wikipedia.org/wiki/Korean_People%27s_Association_in_Manchuria" rel="noopener">L'Association du peuple coréen en Mandchourie (en anglais)</a><span>Avec sa bibliographie.</span></li>
+<li><a href="https://en.wikipedia.org/wiki/Kim_Chwajin" rel="noopener">Kim Jwa-jin (en anglais)</a><span>Héros national en Corée du Sud.</span></li>
+</ul></section>
+</div>
+<p class="doc__relire">Dossier écrit à partir des articles Wikipédia cités, à relire par la bande. Les analyses sont celles de la bande à Mamie. Sources vérifiées le 13 novembre 2026.</p>

@@ -43,9 +43,9 @@ $familles = @(
     @("theorie", "apprendre.html#theorie", "Théorie politique", "Par où commencer, l'État, la propriété, la révolution", "commencer"),
     @("luttes", "experiences/index.html", "Histoire des luttes", "Commune, Espagne 36, Mai 68, MLAC, ZAD, action directe…", "experiences/"),
     @("encyclopedie", "encyclopedie/index.html", "Encyclopédie des mouvements", "Anarchistes, socialistes, féministes, anticoloniaux… : histoire, idées, héritages", "encyclopedie/"),
-    @("universite", "universite/index.html", "Université populaire", "Parcours, chronologie, figures et glossaire", "universite/"),
+    @("universite", "universite/index.html", "Université populaire", "Parcours, chronologie, figures et dictionnaire militant", "universite/"),
     @("figures", "figures/index.html", "Figures historiques", "Portraits de penseuses, penseurs, militantes et militants", "figures/"),
-    @("glossaire", "glossaire.html", "Glossaire", "Les mots de l'anarchisme, expliqués simplement", "glossaire"),
+    @("glossaire", "glossaire.html", "Dictionnaire militant", "Tous les mots des luttes, expliqués en deux phrases", "glossaire"),
     @("videos", "apprendre.html#culture", "Culture militante", "Documentaires, vidéos de Mamie, images de lutte", "videos")) },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; page = "s-organiser.html"; dit = "Trouver les autres, agir ensemble"; rubriques = @(
     @("ag", "agir/tenir-une-ag.html", "Assemblées générales", "Tenir une AG, décider sans chef", "agir/tenir-une-ag|agir/decider-sans-chef"),
@@ -104,7 +104,7 @@ $menu = @(
     @("experiences/index.html", "Histoire des luttes", "De la Commune aux ronds-points"),
     @("universite/index.html", "Université populaire", "Des parcours pour apprendre à son rythme"),
     @("encyclopedie/index.html", "Encyclopédie des mouvements", "Histoire, idées et héritages des mouvements"),
-    @("apprendre.html", "Tout pour apprendre", "Théorie, figures, glossaire, culture militante"))
+    @("apprendre.html", "Tout pour apprendre", "Théorie, figures, dictionnaire militant, culture militante"))
     cles = "apprendre bibliotheque theorie luttes encyclopedie universite figures glossaire" },
   [ordered]@{ id = "videotheque"; nom = "Vidéothèque"; page = "videos.html"; dit = "Documentaires et vidéos de Mamie"; liens = @(); cles = "videos" },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; page = "s-organiser.html"; dit = "Une lutte, ça se prépare à plusieurs"; liens = @(
@@ -763,7 +763,7 @@ $creditsCol = @{ agir = "Fiche rédigée par la bande à Mamie. Libre de reprodu
 $packs = @(
   [ordered]@{ id = "organisation-collective"; nom = "Organisation collective"; dit = "Monter un collectif, tenir une caisse, lancer une grève, prendre soin les uns des autres."; pages = @("agir/monter-un-collectif", "agir/tenir-une-ag", "agir/decider-sans-chef", "agir/caisse-de-solidarite", "agir/lancer-une-greve", "agir/eviter-l-epuisement-militant", "agir/violences-dans-nos-collectifs", "agir/accueillir-personnes-trans") },
   [ordered]@{ id = "assemblee-generale"; nom = "Assemblée générale"; dit = "Préparer, animer et conclure une AG, avec les quatre façons de décider et des feuilles vierges à photocopier."; pages = @("agir/tenir-une-ag", "agir/decider-sans-chef", "special/methodes", "special/feuilles-ag") },
-  [ordered]@{ id = "education-populaire"; nom = "Éducation populaire"; dit = "Quatre parcours de l'université populaire et le glossaire, pour animer un atelier ou lire en groupe."; pages = @("universite/education-populaire", "universite/introduction-anarchisme", "universite/entraide-mutualisme", "universite/autogestion", "special/glossaire") },
+  [ordered]@{ id = "education-populaire"; nom = "Éducation populaire"; dit = "Quatre parcours de l'université populaire et le dictionnaire militant, pour animer un atelier ou lire en groupe."; pages = @("universite/education-populaire", "universite/introduction-anarchisme", "universite/entraide-mutualisme", "universite/autogestion", "special/glossaire") },
   [ordered]@{ id = "droits-et-libertes"; nom = "Droits et libertés"; dit = "Tes droits en manif et en garde à vue (droit français), les gestes de premiers secours et l'autodéfense."; pages = @("manif/legal-team", "manif/personnes-trans-police", "agir/lyceens-face-aux-sanctions", "manif/street-medic", "manif/se-preparer-soin", "manif/soigner-en-manif", "manif/apres-la-manif", "manif/autodefense-feministe") },
   [ordered]@{ id = "autonomie-numerique"; nom = "Autonomie numérique"; dit = "Signal, mots de passe, chiffrement, logiciels libres et outils collaboratifs, avec l'annuaire complet."; pages = @("guides/signal", "guides/proteger-ses-donnees", "guides/gerer-ses-mots-de-passe", "guides/comprendre-le-chiffrement", "guides/stop-gafam", "guides/utiliser-des-logiciels-libres", "guides/choisir-des-outils-collaboratifs", "guides/heberger-des-services", "special/annuaire") },
   [ordered]@{ id = "culture-militante"; nom = "Culture militante"; dit = "Faire un tract, coller des affiches, sérigraphier, et la chronologie des mouvements sociaux."; pages = @("agir/faire-un-tract", "agir/coller-des-affiches", "agir/serigraphie", "universite/histoire-mouvement-anarchiste", "experiences/action-directe-pratique", "special/chronologie") }
@@ -818,9 +818,9 @@ foreach ($p in $packs) {
         "methodes" { $t = "Quatre façons de décider"; $d = "Vote, consensus, consentement, mandat : ce que chacun permet et ses pièges."; $u = "${siteUrl}outils/#decider"
           $h = [regex]::Match((Read-Utf8 (Join-Path $src "outils\index.html")), '(?s)<div class="methodes">.*?</div>\s*(?=<div class="callout">)').Value }
         "feuilles-ag" { $t = "Feuilles vierges pour l'AG"; $d = "Ordre du jour, compte rendu et mandat, à remplir à la main."; $u = "${siteUrl}outils/"; $h = $feuillesAG }
-        "glossaire" { $t = "Glossaire"; $d = "Les mots de l'anarchisme, expliqués simplement."; $u = "${siteUrl}glossaire"
+        "glossaire" { $t = "Dictionnaire militant"; $d = "Tous les mots des luttes, expliqués en deux phrases."; $u = "${siteUrl}glossaire"
           $g = Read-Utf8 (Join-Path $src "pages\glossaire.html"); $g = $g.Substring([regex]::Match($g, '^<!--.*?-->\s*', 'Singleline').Length)
-          $h = Liens-Absolus ([regex]::Replace($g, '(?s)<header class="gtitle">.*?</header>', '')) "" }
+          $h = Liens-Absolus ([regex]::Replace($g, '(?s)<header class="gtitle[^"]*">.*?</header>', '')) "" }
         "annuaire" { $t = "Annuaire des logiciels libres"; $d = "Les $($logiciels.Count) logiciels de la bande, avec leurs limites. Vérifié en $((Date-Fr ([datetime]::ParseExact(($logiciels | Sort-Object verifie | Select-Object -First 1).verifie, 'yyyy-MM-dd', $null)) $false))."; $u = "${siteUrl}logiciels/"
           $h = ($logiciels | ForEach-Object { "<section class=""logi-pack""><h3>$(Esc $_.nom)</h3><p><b>$(Esc $_.fonction)</b> $(Esc $_.description)</p><p><b>Licence :</b> $(Esc $_.licence) <b>Plateformes :</b> $(Esc ((@($_.plateformes) | ForEach-Object { $logPf[[string]$_] }) -join ', ')). <b>Difficulté :</b> $(Esc $logDif[[string]$_.difficulte]). <b>Site :</b> $(Esc (@($_.site)[0][1]))</p><p><b>Limites :</b> $(Esc $_.limites)</p></section>" }) -join "`n" }
         "chronologie" { $t = "Chronologie des mouvements sociaux"; $d = "Les grandes dates, chacune avec sa source."; $u = "${siteUrl}universite/chronologie"

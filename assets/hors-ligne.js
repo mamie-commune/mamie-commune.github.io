@@ -83,14 +83,25 @@
     const d = document.createElement("div");
     d.className = "hl-barre";
     meta.after(d);
+    // « Mon dossier » : la liste des pages choisies, gardée dans ce navigateur (clé mamie-dossier), assemblée sur la page mon-dossier.
+    const ici = location.pathname.slice(new URL(racine).pathname.length).replace(/\.html$/, "").replace(/(^|\/)index$/, "$1");
+    const lireDossier = () => { try { return JSON.parse(localStorage.getItem("mamie-dossier") || "null") || { titre: "", items: [] }; } catch (e) { return { titre: "", items: [] }; } };
+    const dansDossier = () => lireDossier().items.includes(ici);
     const dessiner = async () => {
-      const ok = await gardee(location.href);
+      const ok = await gardee(location.href), n = lireDossier().items.length;
       d.innerHTML = (ok ? '<span class="hl-barre__ok">✓ Gardée hors ligne</span><button type="button" data-act="oublier">Retirer</button>' : '<button type="button" data-act="garder">Garder hors ligne</button>') +
-        '<button type="button" data-act="imprimer">Imprimer ou PDF</button>';
+        '<button type="button" data-act="imprimer">Imprimer ou PDF</button>' +
+        (dansDossier() ? `<span class="hl-barre__ok">✓ Dans <a href="${racine}mon-dossier">mon dossier</a> (${n})</span><button type="button" data-act="dossier">Enlever du dossier</button>`
+          : `<button type="button" data-act="dossier">Ajouter à mon dossier${n ? ` (${n})` : ""}</button>`);
     };
     d.addEventListener("click", async (e) => {
       const b = e.target.closest("button"); if (!b) return;
       if (b.dataset.act === "imprimer") { window.print(); return; }
+      if (b.dataset.act === "dossier") {
+        const dos = lireDossier(); dos.items = dansDossier() ? dos.items.filter((u) => u !== ici) : [...dos.items, ici];
+        try { localStorage.setItem("mamie-dossier", JSON.stringify(dos)); } catch (err) { b.textContent = "Impossible : stockage du navigateur bloqué"; return; }
+        dessiner(); return;
+      }
       b.disabled = true;
       try { if (b.dataset.act === "garder") await garder(location.href); else await oublier(location.href); } catch (err) { b.textContent = "Impossible sans connexion"; return; }
       dessiner();

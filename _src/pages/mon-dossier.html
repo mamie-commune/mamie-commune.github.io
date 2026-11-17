@@ -1,0 +1,42 @@
+<!-- Mon dossier · Mamie Commune | Composer son propre dossier à emporter : choisir des fiches, des guides, des livres, des parcours et des lectures audio, les ranger, puis les télécharger en HTML lisible sans connexion, en PDF ou en archive ZIP, avec sommaire, sources et licences. | hors-ligne | <script src="data/recherche.js"></script><script src="assets/dossier.js"></script> -->
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="index.html">Accueil</a><span>/</span><a href="hors-ligne.html">Mamie hors ligne</a><span>/</span><span>Mon dossier</span></p>
+  <p class="eyebrow">à emporter sur une clé</p>
+  <h1>Mon dossier</h1>
+  <p class="lead">Ta bibliothèque dans la poche. Choisis les fiches, les guides, les livres, les parcours et les lectures qui te servent, range-les dans l'ordre que tu veux, et emporte le tout sur une clé USB, un ordinateur ou un téléphone. Ça se lit sans connexion, ça s'imprime, ça se photocopie.</p>
+  <p class="outil-garantie">Sans compte et sans envoi : le dossier se fabrique dans ton navigateur. Ta liste est gardée dans ce navigateur seulement, et s'efface avec « Vider ».</p>
+</div></header>
+
+<div id="dossier">
+<section class="sec" style="border-top:0">
+  <div class="wrap">
+    <header class="sec__head"><p class="eyebrow">1 · nomme-le</p><h2>Ton dossier</h2></header>
+    <div class="dos__champs">
+      <label for="dos-titre">Titre du dossier<input id="dos-titre" type="text" placeholder="Préparer la grève de mars"></label>
+      <label for="dos-par">Constitué par (facultatif)<input id="dos-par" type="text" placeholder="Le collectif du quartier, la section syndicale…"></label>
+      <label for="dos-pour" class="dos__large">Pour quoi faire, en une phrase (facultatif)<textarea id="dos-pour" rows="2" placeholder="Les fiches à lire avant l'AG de jeudi."></textarea></label>
+    </div>
+    <p class="dos__compte"><b id="dosNb">0</b> document(s) dans le dossier</p>
+    <ol class="dos__liste" id="dosListe"></ol>
+    <div class="dos__sorties">
+      <button type="button" class="btn btn--main" data-sortie="html">Télécharger (HTML hors ligne)</button>
+      <button type="button" class="btn" data-sortie="pdf">Imprimer ou PDF</button>
+      <button type="button" class="btn" data-sortie="zip">Archive ZIP (documents séparés, PDF des livres, écoutes)</button>
+      <button type="button" class="chip" id="dosVider">Vider le dossier</button>
+    </div>
+    <p class="dos__etat" id="dosEtat" role="status"></p>
+    <p class="side__aide">Chaque dossier contient une page d'accueil, un sommaire, les documents choisis, les sources originales, les autrices, auteurs et contributions, les licences et la date de constitution. Les photos ne sont pas reprises (leurs légendes et crédits restent) pour que le fichier reste léger.</p>
+  </div>
+</section>
+<section class="sec sec--alt">
+  <div class="wrap">
+    <header class="sec__head"><p class="eyebrow">2 · remplis-le</p><h2>Ajouter des documents</h2>
+      <p class="sec__intro">Cherche un mot, ou choisis un type. Tu peux aussi ajouter une page depuis le bouton « Ajouter à mon dossier », en haut de chaque fiche.</p></header>
+    <label for="dosCherche" class="sr">Chercher un document</label>
+    <input id="dosCherche" class="dos__cherche" type="search" placeholder="Grève, Commune, Signal, Kropotkine…" autocomplete="off">
+    <div class="chips dos__types" id="dosTypes" role="group" aria-label="Filtrer par type de document"></div>
+    <ul class="dos__resultats" id="dosResultats"></ul>
+  </div>
+</section>
+</div>
+<noscript><p class="wrap">Le créateur de dossier a besoin de JavaScript. Sans lui, les <a href="hors-ligne.html#packs">packs hors ligne</a> tout prêts se téléchargent directement.</p></noscript>

@@ -2008,3 +2008,23 @@ h3 { line-height: 1; }
   .manchette::after { font-size: 34px; right: -10px; }
   .gtitle h1 { font-size: clamp(40px, 13vw, 64px); }
 }
+/* menus déroulants : un tract noir, titres clairs, phrases grises, survol rouge (clair, sombre et téléphone) */
+.nav .nav__panel { background: var(--noir); border: 3px solid var(--rouge); box-shadow: 6px 6px 0 rgba(0,0,0,.45); }
+.nav .nav__dit { color: var(--jaune); font-family: var(--main); font-size: 16px; }
+.nav .nav__panel a { color: var(--papier); background: none; border-top: 1px dashed rgba(240,235,223,.3); font-size: inherit; letter-spacing: 0; }
+.nav .nav__panel a b { font-family: var(--affiche); font-weight: 800; font-size: 19px; line-height: 1.05; text-transform: uppercase; letter-spacing: .02em; color: var(--papier); }
+.nav .nav__panel a span { font-family: var(--body); font-weight: 400; font-size: 14px; line-height: 1.35; text-transform: none; letter-spacing: 0; color: #c9c3b8; }
+.nav .nav__panel a:hover, .nav .nav__panel a:focus-visible, .nav .nav__panel a[aria-current="page"] { background: var(--rouge); color: #fff; }
+.nav .nav__panel a:hover b, .nav .nav__panel a:hover span, .nav .nav__panel a:focus-visible b, .nav .nav__panel a:focus-visible span,
+.nav .nav__panel a[aria-current="page"] b, .nav .nav__panel a[aria-current="page"] span { color: #fff; }
+.nav .nav__panel a.nav__tout { background: none; border-top: 3px solid var(--rouge); }
+.nav .nav__panel a.nav__tout b { color: var(--jaune); font-size: 15px; }
+@media (max-width: 860px) { .nav .nav__panel { border: 0; border-left: 4px solid var(--rouge); box-shadow: none; } .nav > a, .nav__btn { border-top-color: rgba(240,235,223,.35); } }
+.facile .nav .nav__panel a b, .facile .nav .nav__dit { font-family: var(--body); }
+/* menu du téléphone : tout le tiroir en noir, comme l'en-tête */
+@media (max-width: 860px) {
+  .top .nav { background: var(--noir); }
+  .top .nav > a, .top .nav__btn { color: var(--papier); background: none; }
+  .top .nav > a[aria-current], .top .nav__btn[aria-expanded="true"] { background: var(--rouge); color: #fff; }
+}
+.top .nav__btn[aria-expanded="true"] { background: var(--rouge); color: #fff; }

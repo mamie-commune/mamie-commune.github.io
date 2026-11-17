@@ -1,4 +1,4 @@
-<!-- Carte des collectifs · Mamie Commune | Carte des collectifs et structures publiques : groupes libertaires, syndicats, associations, collectifs antifascistes, librairies, lieux autogérés, coopératives, centres sociaux, associations féministes et antiracistes, médias, solidarité. Recherche par ville et département, données publiques téléchargeables. | carte | <script src="assets/vendor/leaflet.js"></script><script src="assets/vendor/leaflet.markercluster.js"></script><script src="data/lieux.js"></script><script src="assets/carte.js"></script> -->
+<!-- Carte des collectifs · Mamie Commune | Carte des collectifs et structures publiques : groupes libertaires, syndicats, associations, collectifs antifascistes, librairies, lieux autogérés, coopératives, centres sociaux, associations féministes et antiracistes, médias, solidarité, infokiosques, bibliothèques autogérées, cantines populaires, radios libres, imprimeries, ateliers. Recherche par ville et département, données publiques téléchargeables. | carte | <script src="assets/vendor/leaflet.js"></script><script src="assets/vendor/leaflet.markercluster.js"></script><script src="data/lieux.js"></script><script src="assets/carte.js"></script> -->
 <link rel="stylesheet" href="assets/vendor/leaflet.css">
 <div class="mapapp">
   <aside class="side" aria-label="Recherche et filtres">
@@ -11,6 +11,8 @@
     <div class="side__block">
       <p class="side__label"><label for="mapSearch">Chercher</label></p>
       <input id="mapSearch" type="search" placeholder="Ville, nom ou mot-clé…" autocomplete="off">
+      <p class="side__label side__label--sous"><label for="regSelect">Région</label></p>
+      <select id="regSelect" class="side__select"><option value="">Toutes les régions</option></select>
       <p class="side__label side__label--sous"><label for="depSelect">Département</label></p>
       <select id="depSelect" class="side__select"><option value="">Tous les départements</option></select>
       <label class="side__case"><input type="checkbox" id="freshOnly"> Masquer les fiches à revérifier</label>
@@ -31,8 +33,8 @@
     </div>
     <div class="side__block">
       <p class="side__label">Données publiques</p>
-      <p class="side__aide">Télécharge ce qui est affiché, ou toute la base. Données libres de réutilisation (ODbL).</p>
-      <div class="side__actions"><button class="chip" id="exportGeo" type="button">Sélection (GeoJSON)</button><button class="chip" id="exportCsv" type="button">Sélection (CSV)</button><a class="chip" href="data/lieux.geojson" download="mamie-commune-lieux.geojson">Toute la base (GeoJSON)</a></div>
+      <p class="side__aide">Télécharge ce qui est affiché (choisis d'abord région, département, catégories ou ville), ou toute la base. Le carnet d'adresses se lit sans connexion ou s'imprime. Données libres de réutilisation (ODbL).</p>
+      <div class="side__actions"><button class="chip" id="exportPdf" type="button">Carnet à imprimer (PDF)</button><button class="chip" id="exportHtml" type="button">Carnet hors ligne (HTML)</button><button class="chip" id="exportGeo" type="button">Sélection (GeoJSON)</button><button class="chip" id="exportCsv" type="button">Sélection (CSV)</button><a class="chip" href="data/lieux.geojson" download="mamie-commune-lieux.geojson">Toute la base (GeoJSON)</a></div>
       <div id="legacyBox" hidden><p class="side__aide">Ce navigateur garde des lieux ajoutés avec l'ancienne version de la carte.</p><div class="side__actions"><button class="chip" id="legacyExport" type="button">Les télécharger</button><button class="chip" id="legacyClear" type="button">Les effacer de ce navigateur</button></div></div>
     </div>
     <p class="side__foot">Localisation au niveau de la ville, jamais d'adresse privée, jamais de coordonnée personnelle : seulement ce que les structures publient elles-mêmes. Une information fausse, ancienne ou dangereuse ? Ouvre la fiche et clique sur « Signaler ».</p>
@@ -68,7 +70,7 @@
       <p class="addform__hint">Pour <b id="rNom"></b>. Rien n'est envoyé par ce formulaire : il prépare un message que tu nous transmets.</p>
       <label for="rType">Qu'est-ce qui ne va pas ? *<select id="rType" required>
         <option value="">—</option><option value="fermee">La structure n'existe plus ou est inactive</option><option value="deplacee">Elle a changé de ville</option>
-        <option value="contact">Le site ou le contact est faux</option><option value="doublon">C'est un doublon</option>
+        <option value="contact">Le site ou le contact est faux</option><option value="modifier">Proposer une modification (activités, horaires, accueil, catégorie…)</option><option value="doublon">C'est un doublon</option>
         <option value="danger">Information personnelle ou dangereuse à retirer</option><option value="autre">Autre chose</option></select></label>
       <p class="addform__urgent" id="rUrgent" hidden><b>Priorité.</b> Une information qui expose une personne est retirée dès réception, avant toute vérification.</p>
       <label for="rCom">Précisions<textarea id="rCom" rows="3"></textarea></label>

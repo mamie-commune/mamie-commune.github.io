@@ -9,7 +9,7 @@
 // - sans connexion, il sert la copie gardée, ou la page « pas de connexion ».
 // Il ne touche jamais aux autres sites (carte OpenStreetMap, vidéos, TikTok…), ni aux films et PDF, ni aux formulaires.
 // Il n'envoie rien, ne synchronise rien en arrière-plan et n'utilise ni notifications ni synchronisation périodique.
-const VERSION = "5bef4e1c";
+const VERSION = "f17a5fab";
 const COQUILLE = "mamie-coquille-" + VERSION, PAGES = "mamie-pages", GARDE = "mamie-garde";
 const DEPART = [
   "./",
@@ -18,13 +18,13 @@ const DEPART = [
   "recherche",
   "confidentialite",
   "manifest.webmanifest",
-  "assets/style.css?v=5bef4e1c",
-  "assets/fonts.css?v=5bef4e1c",
-  "assets/site.js?v=5bef4e1c",
-  "assets/recherche.js?v=5bef4e1c",
-  "assets/hors-ligne.js?v=5bef4e1c",
-  "data/recherche.js?v=5bef4e1c",
-  "data/lieux.js?v=5bef4e1c",
+  "assets/style.css?v=f17a5fab",
+  "assets/fonts.css?v=f17a5fab",
+  "assets/site.js?v=f17a5fab",
+  "assets/recherche.js?v=f17a5fab",
+  "assets/hors-ligne.js?v=f17a5fab",
+  "data/recherche.js?v=f17a5fab",
+  "data/lieux.js?v=f17a5fab",
   "assets/mamie-logo-192.webp",
   "assets/icone-32.png",
   "assets/icone-192.png",

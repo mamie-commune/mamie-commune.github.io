@@ -2253,3 +2253,9 @@ h3 { line-height: 1; }
   .collage--pancarte, .collage--fresque { width: 70%; max-width: 260px; margin: 22px auto 0; }
 }
 @media (max-width: 700px) { #selection .sec__head::after, #nouveau .sec__head::after, #lire .sec__head::after, #videos .sec__head::after, #agir .sec__head::after, #guides .sec__head::after { display: none; } }
+/* carte de l'autonomie : spécialités en petites étiquettes d'imprimerie dans la fiche */
+.fiche-lieu__sp { display: flex; flex-wrap: wrap; gap: 5px; margin: 6px 0 2px; }
+.fiche-lieu__sp span { padding: 2px 7px 1px; background: var(--noir); color: var(--papier); font: 700 11px/1.4 var(--affiche); text-transform: uppercase; letter-spacing: .06em; }
+:root[data-theme="dark"] .fiche-lieu__sp span { background: var(--papier); color: var(--noir); }
+/* la bulle de la carte reste blanche en mode sombre : son petit texte gris reste foncé */
+.leaflet-popup-content .fiche-lieu__org, .leaflet-popup-content .fiche-lieu__lieu { color: #4a443d; }

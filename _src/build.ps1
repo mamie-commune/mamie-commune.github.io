@@ -81,7 +81,7 @@ $familles = @(
     @("mobilisations", "mouvement-17-octobre.html", "Mobilisations en cours", "Le mouvement du 17 Octobre, jour par jour", "mouvement-17-octobre"),
     @("syndicats", "carte.html?type=syndicat", "Syndicats", "Les syndicats de lutte sur la carte", ""),
     @("associations", "trouver-des-allies.html#associations", "Associations", "Entraide numérique et associations amies", ""),
-    @("librairies", "carte.html?type=librairie", "Librairies", "Librairies et bibliothèques militantes", ""),
+    @("librairies", "carte.html?type=librairie,bibliotheque,infokiosque", "Librairies", "Librairies, bibliothèques et infokiosques", ""),
     @("lieux", "carte.html?type=lieu", "Lieux autogérés", "Locaux, centres et lieux libertaires", ""),
     @("medias-carte", "carte.html?type=media", "Médias indépendants", "Radios, journaux et maisons d'édition", "")) }
 )
@@ -124,7 +124,7 @@ $menu = @(
     @("carte.html", "La carte des collectifs", "Groupes, syndicats, librairies, lieux"),
     @("mouvement-17-octobre.html", "Mobilisations en cours", "Le mouvement du 17 Octobre, jour par jour"),
     @("carte.html?type=syndicat", "Syndicats", "Les syndicats de lutte sur la carte"),
-    @("carte.html?type=lieu,librairie", "Lieux et librairies", "Lieux autogérés, librairies militantes"))
+    @("carte.html?type=lieu,librairie,bibliotheque,infokiosque", "Lieux et librairies", "Lieux autogérés, librairies, bibliothèques, infokiosques"))
     cles = "allies carte mobilisations syndicats associations librairies lieux medias-carte" },
   [ordered]@{ id = "entraide"; nom = "Entraide"; page = "s-entraider.html"; dit = "Ne laisser personne sur le carreau"; liens = @(); cles = "entraide mutualisme caisses cantines cooperatives bibliopop" }
 )
@@ -767,9 +767,12 @@ Copy-Item $fLog (Join-Path $site "data\logiciels.json") -Force
 # chargé par la carte et la recherche, et on contrôle la qualité : catégories, champs, doublons, coordonnées personnelles.
 $catLieux = [ordered]@{
   "libertaire" = @("Groupes anarchistes et libertaires", "#e3141b"); "syndicat" = @("Syndicats", "#ffd23f"); "association" = @("Associations", "#3ddc97")
-  "antifa" = @("Collectifs antifascistes", "#6a1b9a"); "librairie" = @("Librairies indépendantes et bibliothèques", "#f4eeee"); "lieu" = @("Lieux autogérés", "#ff6fa8")
+  "antifa" = @("Collectifs antifascistes", "#6a1b9a"); "librairie" = @("Librairies libertaires et indépendantes", "#f4eeee"); "lieu" = @("Lieux autogérés", "#ff6fa8")
   "cooperative" = @("Coopératives", "#a1887f"); "centre-social" = @("Centres sociaux", "#4fc3f7"); "feministe" = @("Associations féministes", "#c2185b")
   "antiraciste" = @("Associations antiracistes", "#ff8a3d"); "media" = @("Médias indépendants", "#b08cff"); "solidarite" = @("Structures de solidarité", "#26a69a")
+  # Catégories ajoutées en novembre 2026 (carte de l'autonomie). Une catégorie n'apparaît sur la carte que si elle a au moins une fiche.
+  "infokiosque" = @("Infokiosques", "#d84315"); "bibliotheque" = @("Bibliothèques autogérées et centres de documentation", "#3949ab"); "cantine" = @("Cantines populaires", "#7cb342")
+  "radio" = @("Radios libres", "#455a64"); "imprimerie" = @("Imprimeries indépendantes", "#1a1a1a"); "atelier" = @("Ateliers associatifs et collectifs", "#827717")
 }
 $geo = (Read-Utf8 (Join-Path $site "data\lieux.geojson")) | ConvertFrom-Json
 $lieux = @($geo.features); $vusL = @{}; $nomsL = @{}
@@ -793,7 +796,7 @@ $jsL += "window.CATEGORIES_LIEUX = {`n" + (($catLieux.Keys | ForEach-Object { " 
 $jsL += "window.LIEUX_MAJ = $(JsStr $geo.metadata.misAJour);`nwindow.LIEUX = [`n" + (($lieux | ForEach-Object {
   $p = $_.properties; $c = if ($_.geometry) { $_.geometry.coordinates } else { $null }
   $res = (@($p.ressources) | Where-Object { $_ } | ForEach-Object { "[$(JsStr $_.titre), $(JsStr $_.url)]" }) -join ", "
-  "  { id: $(JsStr $p.id), n: $(JsStr $p.nom), c: $(JsStr $p.categorie), lat: $(if ($c) { $c[1] } else { 'null' }), lng: $(if ($c) { $c[0] } else { 'null' }), v: $(JsStr $p.ville), dep: $(JsStr $p.departement), pays: $(JsStr $p.pays), portee: $(JsStr $p.portee), org: $(JsStr $p.organisation), d: $(JsStr $p.description), site: $(JsStr $p.site), contact: $(JsStr $p.contact), annuaire: $(JsStr $p.annuaire), source: $(JsStr $p.source), sourceUrl: $(JsStr $p.sourceUrl), verifie: $(JsStr $p.verifie), etat: $(JsStr $p.etat), note: $(JsStr $p.note), res: [$res] }"
+  "  { id: $(JsStr $p.id), n: $(JsStr $p.nom), c: $(JsStr $p.categorie), lat: $(if ($c) { $c[1] } else { 'null' }), lng: $(if ($c) { $c[0] } else { 'null' }), v: $(JsStr $p.ville), dep: $(JsStr $p.departement), pays: $(JsStr $p.pays), portee: $(JsStr $p.portee), org: $(JsStr $p.organisation), d: $(JsStr $p.description), site: $(JsStr $p.site), contact: $(JsStr $p.contact), annuaire: $(JsStr $p.annuaire), source: $(JsStr $p.source), sourceUrl: $(JsStr $p.sourceUrl), verifie: $(JsStr $p.verifie), etat: $(JsStr $p.etat), note: $(JsStr $p.note), sp: $(JsStr $p.specialites), act: $(JsStr $p.activites), hor: $(JsStr $p.horaires), acc: $(JsStr $p.accueil), res: [$res] }"
 }) -join ",`n") + "`n];`n"
 Write-Utf8 (Join-Path $site "data\lieux.js") $jsL
 

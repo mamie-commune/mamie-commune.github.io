@@ -30,7 +30,8 @@ La source est `data/lieux.geojson` : **une structure par ligne** (un objet GeoJS
 ```
 
 - `coordinates` : **longitude d'abord**, puis latitude.
-- `categorie` : `libertaire` (avec `organisation` : Fédération anarchiste, Union communiste libertaire…), `syndicat`, `association`, `antifa`, `librairie`, `lieu` (lieu autogéré), `cooperative`, `centre-social`, `feministe`, `antiraciste`, `media`, `solidarite`. Liste et couleurs : `$catLieux` dans `_src/build.ps1`.
+- `categorie` : `libertaire` (avec `organisation` : Fédération anarchiste, Union communiste libertaire…), `syndicat`, `association`, `antifa`, `librairie`, `lieu` (lieu autogéré), `cooperative`, `centre-social`, `feministe`, `antiraciste`, `media`, `solidarite`, et depuis novembre 2026 `infokiosque`, `bibliotheque` (bibliothèque autogérée, centre de documentation), `cantine` (cantine populaire), `radio` (radio libre), `imprimerie`, `atelier` (atelier associatif ou collectif : vélo, réparation…). `librairie` = librairie libertaire ou indépendante. Liste et couleurs : `$catLieux` dans `_src/build.ps1`. Une catégorie sans aucune fiche n'apparaît pas sur la carte (pas de rubrique fictive).
+- Champs facultatifs (novembre 2026) : `specialites` (mots séparés par des virgules, affichés en étiquettes), `activites` (activités publiques), `horaires` (seulement s'ils sont publiés par la structure ; s'ils sont anciens, dire de quand), `accueil` (local, itinérant, adhésion, accessibilité). Quand l'activité récente n'est pas confirmée : `"etat": "a-reverifier"`, `"verifie": ""` et une `note` qui dit pourquoi.
 - Réseau national sans lieu précis : `"geometry": null`, `"portee": "national"`, et `"annuaire"` = la page officielle « près de chez vous ».
 - `ressources` : liens du site en plus de ceux de la catégorie, `[{"titre":"…","url":"page-du-site"}]`.
 

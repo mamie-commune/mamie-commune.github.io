@@ -96,6 +96,34 @@
       ]
     },
 
+    // Pour la bibliothèque audio : accord écrit de chaque voix avant toute diffusion (lecture, témoignage, entretien).
+    enregistrement: {
+      titre: "Autorisation d'enregistrement", typeDoc: "Autorisation d'enregistrement et de diffusion",
+      titreDoc: (v) => (v.titreEnr ? `Autorisation pour « ${v.titreEnr} »` : "Autorisation d'enregistrement"), meta: (v) => [v.collectif],
+      signatures: ["La personne enregistrée", "Pour le collectif qui diffuse"],
+      sections: [
+        { titre: "L'enregistrement", champs: [
+          { id: "titreEnr", type: "text", label: "Titre de l'enregistrement" },
+          { id: "genre", type: "select", label: "Ce que c'est", options: [{ v: "", l: "—" }, { v: "lecture", l: "Lecture d'un texte" }, { v: "temoignage", l: "Témoignage" }, { v: "entretien", l: "Entretien" }, { v: "explication", l: "Explication ou fiche racontée" }, { v: "creation", l: "Création sonore" }] },
+          { id: "texteLu", type: "text", label: "Texte lu, s'il y en a un (titre, autrice ou auteur)", placeholder: "Louise Michel, « La Commune », 1898" },
+          { id: "droitsTexte", type: "select", label: "Droits du texte lu", options: [{ v: "", l: "Pas de texte lu" }, { v: "public", l: "Domaine public (autrice ou auteur, et traduction, morts depuis plus de 70 ans)" }, { v: "accord", l: "Accord écrit des ayants droit (joint à cette autorisation)" }, { v: "libre", l: "Licence libre qui autorise la lecture (préciser)" }] },
+          { id: "dateEnr", type: "date", label: "Date de l'enregistrement" }, { id: "collectif", type: "text", label: "Collectif qui diffuse" }] },
+        { titre: "La personne enregistrée", champs: [
+          { id: "voix", type: "text", label: "Comment la voix sera créditée", placeholder: "Prénom, pseudonyme, ou « une camarade de la bande »" },
+          { id: "anonymat", type: "cases", label: "Protection", options: [
+            { v: "pseudo", l: "Créditer sous un pseudonyme seulement" }, { v: "noms", l: "Couper les noms de personnes et de lieux privés cités" }, { v: "voixmod", l: "Modifier la voix" }], defaut: ["noms"] }] },
+        { titre: "Diffusion", champs: [
+          { id: "ou", type: "cases", label: "Où l'enregistrement peut être diffusé", options: [
+            { v: "site", l: "Sur le site Mamie Commune" }, { v: "telechargement", l: "En téléchargement libre" }, { v: "packs", l: "Dans les packs hors ligne" }, { v: "radio", l: "Sur des radios libres" }], defaut: ["site"] },
+          { id: "licence", type: "select", label: "Licence de l'enregistrement", options: [{ v: "", l: "À choisir" }, { v: "ccbysa", l: "CC BY-SA : libre de partage et de modification, en citant la voix, sous la même licence" }, { v: "ccbyncsa", l: "CC BY-NC-SA : pareil, mais sans usage commercial" }, { v: "cc0", l: "CC0 : versé au domaine public" }, { v: "site", l: "Diffusion sur Mamie Commune seulement, sans réutilisation" }] },
+          { id: "transcription", type: "cases", label: "Transcription", options: [{ v: "oui", l: "J'accepte qu'une transcription écrite soit publiée avec l'enregistrement" }], defaut: ["oui"] }] },
+        { titre: "Retrait", champs: [
+          { id: "retrait", type: "cases", label: "Ce que le collectif s'engage à faire", options: [
+            { v: "retirer", l: "Retirer l'enregistrement du site sur simple demande, sans justification" }, { v: "ecoute", l: "Faire écouter le montage final avant diffusion" }, { v: "pasvendre", l: "Ne jamais vendre l'enregistrement" }], defaut: ["retirer", "ecoute", "pasvendre"] },
+          { id: "contactRetrait", type: "text", label: "Comment demander le retrait", placeholder: "Message privé au compte Instagram ou TikTok du collectif" }] }
+      ]
+    },
+
     charte: {
       titre: "Charte collective", typeDoc: "Charte",
       titreDoc: (v) => (v.nom ? `Charte de ${v.nom}` : "Charte du collectif"), meta: (v, h) => [v.adoptee ? "Adoptée le " + h.dateFr(v.adoptee) : ""],

@@ -134,7 +134,7 @@ $menu = @(
 $mamieDit = @{ bibliotheque = "Le savoir n'appartient à personne : prends, lis, fais tourner."; videotheque = "Un film, ça se regarde à plusieurs, et ça se discute après."
   organiser = "Personne ne nous libérera à notre place."; defendre = "Connaître ses droits, c'est bien. Être nombreux, c'est mieux."
   lieux = "Les camarades sont souvent à deux rues de chez toi."; entraide = "La solidarité, pas la charité."; "" = "Sers-toi, imprime, fais tourner." }
-$tampons = @{ "Guide numérique" = "Fais tourner"; "Fiche de lecture" = "Lu par la bande"; "Histoire de lutte" = "Mémoire des luttes"; "Fiche pratique" = "Sers-toi"
+$tampons = @{ "Lecture à voix haute" = "À voix haute"; "Guide numérique" = "Fais tourner"; "Fiche de lecture" = "Lu par la bande"; "Histoire de lutte" = "Mémoire des luttes"; "Fiche pratique" = "Sers-toi"
   "Guide pratique" = "Dans le cabas"; "Guide juridique" = "Droit français"; "Dossier antifasciste" = "No pasarán"; "Portrait" = "Portrait"; "Parcours" = "Université populaire"; "Dossier encyclopédique" = "Encyclopédie" }
 function Entree-De($cle) { foreach ($e in $menu) { if (($e.cles -split ' ') -contains $cle) { return $e } }; return $null }
 
@@ -708,6 +708,115 @@ $js += "window.RESSOURCES = [`n" + (($ressources | ForEach-Object {
 }) -join ",`n") + "`n];`n"
 Write-Utf8 (Join-Path $site "data\ressources.js") $js
 
+# ---------- bibliothèque audio (audio/) ----------
+# Source : _src/audio/catalogue.json (complété par node _src/audio.mjs pour les lectures LibriVox). Une page par œuvre,
+# avec le lecteur maison (assets/audio.js) et la liste des pistes ; la page d'accueil range les œuvres par collection.
+# Seulement des voix humaines et des enregistrements dont la licence permet la diffusion. Les fichiers restent chez leur
+# hébergeur (archive.org pour LibriVox) et ne sont chargés qu'au moment où l'on appuie sur lecture.
+$audioCols = [ordered]@{
+  "textes" = @("Textes et lectures", "Les classiques de l'anarchisme, des brochures et des fiches, lus à voix haute.")
+  "histoire-orale" = @("Histoire orale", "Témoignages de luttes, récits d'expériences autogérées, entretiens avec des collectifs.")
+  "education" = @("Éducation populaire", "Les notions politiques et les fiches pratiques expliquées à l'oral, les courants de l'anarchisme racontés.")
+  "culture" = @("Culture militante", "Radios libres, podcasts indépendants, archives sonores et créations.")
+}
+$audioLangues = @{ fr = "En français"; en = "En anglais (version originale)"; es = "En espagnol" }
+$fAudio = Join-Path $src "audio\catalogue.json"
+$audioCat = (Read-Utf8 $fAudio) | ConvertFrom-Json
+$oeuvres = @($audioCat.oeuvres)
+$dureeFr = { param($s) $s = [int]$s; $h = [math]::Floor($s / 3600); $m = [math]::Floor(($s % 3600) / 60); $x = $s % 60; if ($h) { "{0} h {1:00}" -f $h, $m } else { "{0}:{1:00}" -f $m, $x } }
+$vusA = @{}
+foreach ($o in $oeuvres) {
+  $quoi = "Audio « $($o.id) »"
+  foreach ($champ in "id", "titre", "auteur", "collection", "langue", "presentation", "licence", "verifie") { if (-not $o.$champ) { Write-Warning "$quoi : champ « $champ » vide" } }
+  if (-not @($o.pistes).Count) { Write-Warning "$quoi : aucune piste (lancer node _src/audio.mjs)" }
+  if (-not $audioCols.Contains([string]$o.collection)) { Write-Warning "$quoi : collection inconnue « $($o.collection) »" }
+  if ($vusA[$o.id]) { Write-Warning "$quoi : identifiant en double" }; $vusA[$o.id] = 1
+  # Un enregistrement qui n'est pas en domaine public doit dire qui a donné son accord.
+  if ($o.licence -notmatch 'Domaine public' -and -not $o.consentement) { Write-Warning "$quoi : licence hors domaine public sans « consentement » des voix" }
+}
+$dossierAudio = Join-Path $site "audio"; New-Item -ItemType Directory -Force $dossierAudio | Out-Null
+$cartesAudio = @{}
+foreach ($o in $oeuvres) {
+  $pistes = @($o.pistes)
+  $total = 0; foreach ($p in $pistes) { $total += [int]$p.duree }
+  $voix = (@($o.lecteurs) | Where-Object { $_ }) -join ", "
+  $lis = for ($i = 0; $i -lt $pistes.Count; $i++) {
+    $p = $pistes[$i]
+    $dl = "<a class=""ecoute__dl"" href=""$(Esc $p.mp3)"" download rel=""noopener"">MP3</a>" + $(if ($p.ogg) { " <a class=""ecoute__dl"" href=""$(Esc $p.ogg)"" download rel=""noopener"">OGG</a>" } else { "" })
+    "<li><button type=""button"" class=""ecoute__choix"" data-n=""$i"" data-mp3=""$(Esc $p.mp3)"" data-ogg=""$(Esc $p.ogg)"" data-vtt=""$(Esc $p.vtt)"" data-duree=""$($p.duree)""><span class=""ecoute__num"">$($i)</span><span class=""ecoute__titre"">$(Esc $p.titre)</span></button><span class=""ecoute__info"">$(& $dureeFr $p.duree) · $(Esc $p.voix)</span><span class=""ecoute__dls"">$dl</span></li>"
+  }
+  $texte = if ($o.texte) { $interne = -not ($o.texte.url -match '^https?:'); "<p><a class=""btn"" href=""$(if ($interne) { '../' })$(Esc $o.texte.url)$(if ($interne) { '.html' })""$(if (-not $interne) { ' rel="noopener"' })>$(Esc $o.texte.titre) →</a></p>" } else { "" }
+  $liens = (@($o.liens) | Where-Object { $_ } | ForEach-Object { "<li><a href=""../$($_[1]).html"">$(Esc $_[0])</a></li>" }) -join ""
+  $consent = if ($o.consentement) { "<tr><th scope=""row"">Accord des voix</th><td>$(Esc $o.consentement)</td></tr>" } else { "" }
+  $body = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../bibliotheque/index.html">Bibliothèque</a><span>/</span><a href="index.html">Bibliothèque audio</a><span>/</span><a href="index.html#$($o.collection)">$(Esc $audioCols[[string]$o.collection][0])</a></p>
+  <p class="eyebrow">À écouter</p>
+  <h1>$(Esc $o.titre)</h1>
+  <p class="lead">$(Esc $o.presentation)</p>
+  <div class="gmeta"><span class="gmeta__type">Lecture à voix haute</span><span>$(Esc $o.auteur)$(if ($o.annee) { " · $($o.annee)" })</span><span>$(Esc $audioLangues[[string]$o.langue])</span><span>$($pistes.Count) pistes · $(& $dureeFr $total)</span><span>$(Esc $o.licence)</span></div>
+</div></header>
+<div class="wrap gseule">
+  <article class="prose">
+  <div class="ecoute" data-ecoute="$($o.id)" data-titre="$(Esc $o.titre)">
+    <div class="ecoute__lecteur">
+      <p class="ecoute__en-cours"><span class="ecoute__etiquette">En cours</span> <b class="ecoute__piste">$(Esc $pistes[0].titre)</b> <span class="ecoute__voix">Voix : $(Esc $pistes[0].voix)</span></p>
+      <div class="ecoute__barre">
+        <button type="button" class="ecoute__jouer" aria-label="Lecture">▶</button>
+        <button type="button" class="ecoute__btn" data-saut="-15" aria-label="Reculer de 15 secondes">−15 s</button>
+        <button type="button" class="ecoute__btn" data-saut="15" aria-label="Avancer de 15 secondes">+15 s</button>
+        <input type="range" class="ecoute__pos" min="0" max="1000" value="0" step="1" aria-label="Position dans la piste">
+        <span class="ecoute__temps" aria-live="off">0:00 / $(& $dureeFr $pistes[0].duree)</span>
+      </div>
+      <div class="ecoute__reglages">
+        <button type="button" class="ecoute__btn" data-piste="-1">⏮ Piste précédente</button>
+        <button type="button" class="ecoute__btn" data-piste="1">Piste suivante ⏭</button>
+        <label>Volume <input type="range" class="ecoute__vol" min="0" max="1" step="0.05" value="1"></label>
+        <label>Vitesse <select class="ecoute__vitesse"><option value="0.75">0,75×</option><option value="1" selected>1×</option><option value="1.25">1,25×</option><option value="1.5">1,5×</option><option value="1.75">1,75×</option><option value="2">2×</option></select></label>
+      </div>
+      <p class="ecoute__reprise" hidden><button type="button" class="btn">Reprendre</button></p>
+      <div class="ecoute__transcription" hidden><p class="ecoute__etiquette">Transcription</p><div class="ecoute__cues"></div></div>
+      <p class="ecoute__aide">Raccourcis : espace pour lecture ou pause, flèches gauche et droite pour 15 secondes. La position est gardée dans ce navigateur, rien n'est envoyé.</p>
+    </div>
+    <h2 id="pistes">Les pistes</h2>
+    <ol class="ecoute__pistes">$($lis -join "")</ol>
+  </div>
+  <h2 id="texte">Le texte</h2>
+  <p>Pour suivre en lisant, ou lire ce que l'oreille a manqué.$(if ($o.texteSource -and $o.texte -and $o.texte.url -ne $o.texteSource) { " Le texte lu par LibriVox est celui de <a href=""$(Esc $o.texteSource)"" rel=""noopener"">cette édition</a>." })</p>
+  $texte
+  <h2 id="fiche">D'où vient cet enregistrement</h2>
+  <div class="tbl"><table class="res-table"><tbody>
+    <tr><th scope="row">Œuvre</th><td>$(Esc $o.titre), $(Esc $o.auteur)$(if ($o.annee) { ", $($o.annee)" })</td></tr>
+    <tr><th scope="row">Voix</th><td>$(Esc $voix) (bénévoles)</td></tr>
+    <tr><th scope="row">Enregistrement</th><td>$(if ($o.source) { "<a href=""$(Esc $o.source.url)"" rel=""noopener"">$(Esc $o.source.titre)</a>" })$(if ($o.archive) { " · fichiers sur <a href=""$(Esc $o.archive)"" rel=""noopener"">archive.org</a>" })</td></tr>
+    <tr><th scope="row">Licence</th><td>$(Esc $o.licence). Écoute, téléchargement et copie libres.</td></tr>$consent
+    <tr><th scope="row">Formats</th><td>OGG (format ouvert) et MP3</td></tr>
+    <tr><th scope="row">Vérifié le</th><td>$(Date-Fr ([datetime]::ParseExact($o.verifie, "yyyy-MM-dd", $null)) $false)</td></tr>
+  </tbody></table></div>
+  $(if ($liens) { "<h2 id=""suite"">Sur le site</h2><ul>$liens</ul>" })
+  <p class="credit">Lecture humaine, jamais de voix de synthèse. Les fichiers sont servis par archive.org au moment où tu appuies sur lecture (voir la page <a href="../confidentialite.html">Confidentialité</a>).</p>
+  </article>
+</div>
+"@
+  Write-Utf8 (Join-Path $dossierAudio "$($o.id).html") (Render-Page "../" "bibliotheque" "$($o.titre) · Bibliothèque audio · Mamie Commune" $o.presentation $body "<script src=""../assets/audio.js""></script>")
+  $index += [pscustomobject]@{ u = "audio/$($o.id).html"; k = "Bibliothèque audio"; y = "Livre audio"; t = "$($o.titre) · à écouter"; d = $o.presentation; x = "$($o.auteur) $voix $($audioCols[[string]$o.collection][0]) audio écouter lecture" }
+  $carte = "<a class=""rubrique"" href=""$($o.id).html""><span class=""rubrique__n"">$(Esc $audioLangues[[string]$o.langue]) · $(& $dureeFr $total)</span><h3>$(Esc $o.titre)</h3><p>$(Esc $o.auteur)$(if ($o.annee) { ", $($o.annee)" }). Lu par $(Esc $voix).</p><span class=""rubrique__go"">Écouter →</span></a>"
+  if (-not $cartesAudio[[string]$o.collection]) { $cartesAudio[[string]$o.collection] = @() }
+  $cartesAudio[[string]$o.collection] += $carte
+}
+$colsHtml = foreach ($k in $audioCols.Keys) {
+  $cartes = @($cartesAudio[$k])
+  $contenu = if ($cartes.Count -and $cartes[0]) { "<div class=""rubriques"">$($cartes -join '')</div>" } else { "{{AUDIO_VIDE_$k}}" }
+  "<section class=""sec$(if ([array]::IndexOf(@($audioCols.Keys), $k) % 2) { ' sec--alt' })"" id=""$k""><div class=""wrap""><header class=""sec__head""><p class=""eyebrow"">collection</p><h2>$(Esc $audioCols[$k][0])</h2><p class=""sec__intro"">$(Esc $audioCols[$k][1])</p></header>$contenu</div></section>"
+}
+$tplA = Read-Utf8 (Join-Path $src "audio\index.html")
+$m = [regex]::Match($tplA, '^<!--\s*(.*?)\s*-->\s*', 'Singleline'); $metaA = $m.Groups[1].Value -split "\s\|\s"
+$bodyA = $tplA.Substring($m.Length).Replace("{{AUDIO_COLLECTIONS}}", ($colsHtml -join "`n")).Replace("{{NB_AUDIO}}", "$($oeuvres.Count)")
+foreach ($k in $audioCols.Keys) { $v = [regex]::Match($bodyA, "(?s)<template id=""vide-$k"">(.*?)</template>"); $bodyA = $bodyA.Replace("{{AUDIO_VIDE_$k}}", $v.Groups[1].Value) }
+$bodyA = [regex]::Replace($bodyA, '(?s)<template id="vide-[^"]+">.*?</template>\s*', '')
+Write-Utf8 (Join-Path $dossierAudio "index.html") (Render-Page "../" "bibliotheque" $metaA[0] $metaA[1] $bodyA $metaA[3])
+$index += [pscustomobject]@{ u = "audio/index.html"; k = "Bibliothèque audio"; y = "Page"; t = "Bibliothèque audio"; d = $metaA[1]; x = "écouter livres audio lectures podcasts radios libres histoire orale" }
+
 # ---------- annuaire des logiciels libres (logiciels/) ----------
 # Source : _src/logiciels/logiciels.json (une fiche par logiciel, vérifiée : licence, plateformes, site, documentation, limites).
 # Tout est écrit dans la page (lisible sans JavaScript et hors ligne) ; assets/logiciels.js ne fait que filtrer.
@@ -801,7 +910,7 @@ $jsL += "window.LIEUX_MAJ = $(JsStr $geo.metadata.misAJour);`nwindow.LIEUX = [`n
 Write-Utf8 (Join-Path $site "data\lieux.js") $jsL
 
 # Compteurs de l'accueil ({{NB_LIEUX}}, {{NB_LIVRES}}, {{NB_FICHES}}), calculés à chaque génération.
-$compteurs = @{ ENCY_FAMILLES = $encyIndex; NB_ENCY = @($ency | ForEach-Object { $_.cat } | Select-Object -Unique).Count; NB_LIEUX = @($lieux | Where-Object { $_.geometry }).Count; NB_LIVRES = $livres.Count; NB_RESSOURCES = $ressources.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
+$compteurs = @{ ENCY_FAMILLES = $encyIndex; NB_ENCY = @($ency | ForEach-Object { $_.cat } | Select-Object -Unique).Count; NB_LIEUX = @($lieux | Where-Object { $_.geometry }).Count; NB_LIVRES = $livres.Count; NB_RESSOURCES = $ressources.Count; NB_AUDIO = $oeuvres.Count; NB_FICHES = $guides.Count + $biblio.Count + $antifa.Count + $manif.Count + $agir.Count }
 
 # ---------- packs hors ligne (packs/<id>.html) ----------
 # Un pack = plusieurs pages du site réunies dans UN fichier HTML autonome (styles dedans, aucune ressource externe,

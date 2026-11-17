@@ -1,0 +1,699 @@
+{
+  "_lisezmoi": "Bibliothèque audio (audio/). Une œuvre par entrée. Seulement des voix humaines, et des enregistrements dont la licence permet la diffusion : domaine public (LibriVox) ou accord écrit des voix (consentement, attribution, licence). Pour une lecture LibriVox, écrire l'identifiant LibriVox dans librivoxId puis lancer « node _src/audio.mjs » : le script remplit pistes, lecteurs, duree, archive et texteSource depuis le catalogue LibriVox et archive.org. Pour un enregistrement de la bande, écrire pistes à la main (titre, duree en secondes, ogg, mp3, voix) et ajouter consentement. Une transcription synchronisée se met dans assets/audio/<id>-<n>.vtt (WebVTT) et se déclare dans la piste (vtt). Collections : textes, histoire-orale, education, culture.",
+  "oeuvres": [
+    {
+      "id": "la-commune-louise-michel",
+      "titre": "La Commune",
+      "auteur": "Louise Michel",
+      "annee": "1898",
+      "collection": "textes",
+      "langue": "fr",
+      "presentation": "La Commune de Paris racontée par celle qui l'a faite : les derniers jours de l'Empire, les soixante-douze jours de liberté, la Semaine sanglante, puis les prisons, les pontons et le bagne. Un récit de combattante, pas un livre d'historienne : on y entend la colère et la tendresse pour les camarades tombés.",
+      "texte": {
+        "titre": "Le texte intégral, aux Classiques des sciences sociales",
+        "url": "https://classiques.uqac.ca/classiques/michel_louise/la_commune/la_commune.html"
+      },
+      "liens": [
+        [
+          "La Commune de Paris : 72 jours",
+          "experiences/commune-de-paris-histoire"
+        ],
+        [
+          "Louise Michel, la Vierge rouge",
+          "figures/louise-michel"
+        ],
+        [
+          "Les Mémoires de Louise Michel (livre complet)",
+          "livres/memoires-louise-michel"
+        ]
+      ],
+      "librivoxId": 2928,
+      "verifie": "2026-11-17",
+      "source": {
+        "titre": "LibriVox",
+        "url": "https://librivox.org/la-commune-by-louise-michel/"
+      },
+      "archive": "https://archive.org/details/la_commune_1312_librivox",
+      "licence": "Domaine public (LibriVox ; marque du domaine public sur archive.org)",
+      "texteSource": "https://classiques.uqac.ca/classiques/michel_louise/la_commune/la_commune.html",
+      "duree": "11:59:04",
+      "pistes": [
+        {
+          "titre": "Avant-propos",
+          "duree": 290,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_00_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_00_michel.ogg"
+        },
+        {
+          "titre": "Première partie : L'AGONIE DE L'EMPIRE · Le réveil",
+          "duree": 422,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_01_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_01_michel.ogg"
+        },
+        {
+          "titre": "La littérature à la fin de l'Empire",
+          "duree": 782,
+          "voix": "Sergio Baldelli",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_02_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_02_michel.ogg"
+        },
+        {
+          "titre": "L'Internationale",
+          "duree": 1002,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_03_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_03_michel.ogg"
+        },
+        {
+          "titre": "Enterrement de Victor Noir",
+          "duree": 1774,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_04_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_04_michel.ogg"
+        },
+        {
+          "titre": "Le procès de Blois",
+          "duree": 376,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_05_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_05_michel.ogg"
+        },
+        {
+          "titre": "La guerre",
+          "duree": 716,
+          "voix": "jeremlerigolo",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_06_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_06_michel.ogg"
+        },
+        {
+          "titre": "L'affaire de la Villette",
+          "duree": 772,
+          "voix": "jeremlerigolo",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_07_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_07_michel.ogg"
+        },
+        {
+          "titre": "Deuxième partie : RÉPUBLIQUE DU 4 SEPTEMBRE · Le 4 septembre",
+          "duree": 512,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_08_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_08_michel.ogg"
+        },
+        {
+          "titre": "La réforme nationale",
+          "duree": 1547,
+          "voix": "FrancoiseD",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_09_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_09_michel.ogg"
+        },
+        {
+          "titre": "Le 31 octobre",
+          "duree": 931,
+          "voix": "FrancoiseD",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_10_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_10_michel.ogg"
+        },
+        {
+          "titre": "Du 31 octobre au 22 janvier",
+          "duree": 894,
+          "voix": "Cutty",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_11_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_11_michel.ogg"
+        },
+        {
+          "titre": "Le 22 janvier",
+          "duree": 1202,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_12_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_12_michel.ogg"
+        },
+        {
+          "titre": "Quelques républicains dans l'armée et dans la flotte",
+          "duree": 1262,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_13_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_13_michel.ogg"
+        },
+        {
+          "titre": "L'Assemblée de Bordeaux",
+          "duree": 617,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_14_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_14_michel.ogg"
+        },
+        {
+          "titre": "Soulèvements par le monde pour la liberté",
+          "duree": 480,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_15_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_15_michel.ogg"
+        },
+        {
+          "titre": "Les femmes de 70",
+          "duree": 687,
+          "voix": "Nadia",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_16_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_16_michel.ogg"
+        },
+        {
+          "titre": "Troisième partie : LA COMMUNE · Le 18 mars",
+          "duree": 853,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_17_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_17_michel.ogg"
+        },
+        {
+          "titre": "Mensonges de Versailles",
+          "duree": 1685,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_18_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_18_michel.ogg"
+        },
+        {
+          "titre": "L'affaire du 22 mars",
+          "duree": 602,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_19_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_19_michel.ogg"
+        },
+        {
+          "titre": "Proclamation de la Commune",
+          "duree": 649,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_20_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_20_michel.ogg"
+        },
+        {
+          "titre": "Premiers jours de la Commune",
+          "duree": 600,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_21_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_21_michel.ogg"
+        },
+        {
+          "titre": "L'attaque de Versailles",
+          "duree": 1840,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_22_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_22_michel.ogg"
+        },
+        {
+          "titre": "Souvenirs",
+          "duree": 906,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_23_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_23_michel.ogg"
+        },
+        {
+          "titre": "Le flot monte",
+          "duree": 360,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_24_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_24_michel.ogg"
+        },
+        {
+          "titre": "Les communes de province",
+          "duree": 1841,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_25_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_25_michel.ogg"
+        },
+        {
+          "titre": "L'armée de la Commune",
+          "duree": 750,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_26_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_26_michel.ogg"
+        },
+        {
+          "titre": "Derniers jours de liberté",
+          "duree": 447,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_27_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_27_michel.ogg"
+        },
+        {
+          "titre": "Les francs-maçons",
+          "duree": 1123,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_28_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_28_michel.ogg"
+        },
+        {
+          "titre": "Affaire de l'échange de Blanqui",
+          "duree": 854,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_29_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_29_michel.ogg"
+        },
+        {
+          "titre": "La fin",
+          "duree": 1582,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_30_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_30_michel.ogg"
+        },
+        {
+          "titre": "Quatrième partie : L'HÉCATOMBE · La lutte dans Paris",
+          "duree": 2538,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_31_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_31_michel.ogg"
+        },
+        {
+          "titre": "La curée froide",
+          "duree": 1156,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_32_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_32_michel.ogg"
+        },
+        {
+          "titre": "Des bastions à Satory et à Versailles",
+          "duree": 1772,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_33_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_33_michel.ogg"
+        },
+        {
+          "titre": "Les prisons de Versailles. Les poteaux de Satory",
+          "duree": 3405,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_34_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_34_michel.ogg"
+        },
+        {
+          "titre": "Cinquième partie : DEPUIS · Prisons et pontons",
+          "duree": 4562,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_35_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_35_michel.ogg"
+        },
+        {
+          "titre": "Le retour",
+          "duree": 1353,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/la_commune_1312_librivox/commune_36_michel_64kb.mp3",
+          "ogg": "https://archive.org/download/la_commune_1312_librivox/commune_36_michel.ogg"
+        }
+      ],
+      "lecteurs": [
+        "Enko",
+        "Sergio Baldelli",
+        "jeremlerigolo",
+        "FrancoiseD",
+        "Cutty",
+        "Françoise",
+        "Nadia",
+        "Gilles G. Le Blanc"
+      ]
+    },
+    {
+      "id": "conquest-of-bread",
+      "titre": "The Conquest of Bread (La Conquête du pain)",
+      "auteur": "Pierre Kropotkine",
+      "annee": "1892",
+      "collection": "textes",
+      "langue": "en",
+      "presentation": "Le grand livre du communisme libertaire : comment une société peut nourrir, loger et vêtir tout le monde en mettant en commun les richesses, sans État ni patrons. Lecture en anglais ; le texte français est en entier dans la bibliothèque de Mamie, pour suivre en lisant.",
+      "texte": {
+        "titre": "La Conquête du pain, en français, dans la bibliothèque de Mamie",
+        "url": "livres/la-conquete-du-pain"
+      },
+      "liens": [
+        [
+          "La Conquête du pain : la fiche de lecture",
+          "bibliotheque/la-conquete-du-pain"
+        ],
+        [
+          "Pierre Kropotkine, le prince de l'entraide",
+          "figures/kropotkine"
+        ]
+      ],
+      "librivoxId": 2436,
+      "librivoxTitre": "Conquest of Bread",
+      "librivoxArchive": "conquest_of_bread_0809_librivox",
+      "verifie": "2026-11-17",
+      "source": {
+        "titre": "LibriVox",
+        "url": "https://librivox.org/the-conquest-of-bread-by-peter-kropotkin/"
+      },
+      "archive": "https://archive.org/details/conquest_of_bread_0809_librivox",
+      "licence": "Domaine public (LibriVox ; marque du domaine public sur archive.org)",
+      "texteSource": "https://www.gutenberg.org/etext/23428",
+      "duree": "6:46:01",
+      "pistes": [
+        {
+          "titre": "Preface",
+          "duree": 867,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_00_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_00_kropotkin.ogg"
+        },
+        {
+          "titre": "Our riches",
+          "duree": 1185,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_01_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_01_kropotkin.ogg"
+        },
+        {
+          "titre": "Well-being for all",
+          "duree": 1265,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_02_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_02_kropotkin.ogg"
+        },
+        {
+          "titre": "Anarchist communism",
+          "duree": 1230,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_03_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_03_kropotkin.ogg"
+        },
+        {
+          "titre": "Expropriation",
+          "duree": 1408,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_04_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_04_kropotkin.ogg"
+        },
+        {
+          "titre": "Food",
+          "duree": 2892,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_05_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_05_kropotkin.ogg"
+        },
+        {
+          "titre": "Dwellings",
+          "duree": 1181,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_06_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_06_kropotkin.ogg"
+        },
+        {
+          "titre": "Clothing",
+          "duree": 344,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_07_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_07_kropotkin.ogg"
+        },
+        {
+          "titre": "Ways and means",
+          "duree": 864,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_08_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_08_kropotkin.ogg"
+        },
+        {
+          "titre": "The need for luxury",
+          "duree": 1624,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_09_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_09_kropotkin.ogg"
+        },
+        {
+          "titre": "Agreeable work",
+          "duree": 944,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_10_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_10_kropotkin.ogg"
+        },
+        {
+          "titre": "Free agreement",
+          "duree": 1695,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_11_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_11_kropotkin.ogg"
+        },
+        {
+          "titre": "Objections",
+          "duree": 2064,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_12_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_12_kropotkin.ogg"
+        },
+        {
+          "titre": "The collectivist wages system",
+          "duree": 1753,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_13_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_13_kropotkin.ogg"
+        },
+        {
+          "titre": "Consumption and production",
+          "duree": 790,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_14_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_14_kropotkin.ogg"
+        },
+        {
+          "titre": "The division of labour",
+          "duree": 388,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_15_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_15_kropotkin.ogg"
+        },
+        {
+          "titre": "The decentralization of industry",
+          "duree": 1196,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_16_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_16_kropotkin.ogg"
+        },
+        {
+          "titre": "Agriculture",
+          "duree": 2671,
+          "voix": "Enko",
+          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_17_kropotkin_64kb.mp3",
+          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_17_kropotkin.ogg"
+        }
+      ],
+      "lecteurs": [
+        "Enko"
+      ]
+    },
+    {
+      "id": "god-and-the-state",
+      "titre": "God and the State (Dieu et l'État)",
+      "auteur": "Mikhaïl Bakounine",
+      "annee": "1882",
+      "collection": "textes",
+      "langue": "en",
+      "presentation": "Le texte le plus lu de Bakounine : contre l'autorité divine et contre celle de l'État, qui se tiennent par la main. Lecture en anglais ; le texte français est en entier dans la bibliothèque de Mamie.",
+      "texte": {
+        "titre": "Dieu et l'État, en français, dans la bibliothèque de Mamie",
+        "url": "livres/dieu-et-l-etat"
+      },
+      "liens": [
+        [
+          "Dieu et l'État : la fiche de lecture",
+          "bibliotheque/dieu-et-l-etat"
+        ],
+        [
+          "Mikhaïl Bakounine",
+          "figures/bakounine"
+        ]
+      ],
+      "librivoxId": 745,
+      "librivoxTitre": "God and the State",
+      "librivoxArchive": "god_and_the_state_librivox",
+      "verifie": "2026-11-17",
+      "source": {
+        "titre": "LibriVox",
+        "url": "https://librivox.org/god-and-the-state-by-mikhail-bakunin/"
+      },
+      "archive": "https://archive.org/details/god_and_the_state_librivox",
+      "licence": "Domaine public (LibriVox ; marque du domaine public sur archive.org)",
+      "texteSource": "https://www.marxists.org/reference/archive/bakunin/works/godstate/index.htm",
+      "duree": "3:13:30",
+      "pistes": [
+        {
+          "titre": "Chapter 00",
+          "duree": 172,
+          "voix": "Carl Manchester",
+          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_00_bakunin_64kb.mp3",
+          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_00_bakunin.ogg"
+        },
+        {
+          "titre": "Chapter 01",
+          "duree": 2018,
+          "voix": "Carl Manchester",
+          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_01_bakunin_64kb.mp3",
+          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_01_bakunin.ogg"
+        },
+        {
+          "titre": "Chapter 02",
+          "duree": 2964,
+          "voix": "Carl Manchester",
+          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_02_bakunin_64kb.mp3",
+          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_02_bakunin.ogg"
+        },
+        {
+          "titre": "Chapter 03",
+          "duree": 2004,
+          "voix": "Carl Manchester",
+          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_03_bakunin_64kb.mp3",
+          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_03_bakunin.ogg"
+        },
+        {
+          "titre": "Chapter 04",
+          "duree": 2963,
+          "voix": "Carl Manchester",
+          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_04_bakunin_64kb.mp3",
+          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_04_bakunin.ogg"
+        },
+        {
+          "titre": "Chapter 05",
+          "duree": 1489,
+          "voix": "Carl Manchester",
+          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_05_bakunin_64kb.mp3",
+          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_05_bakunin.ogg"
+        }
+      ],
+      "lecteurs": [
+        "Carl Manchester"
+      ]
+    },
+    {
+      "id": "anarchism-and-other-essays",
+      "titre": "Anarchism and Other Essays (L'Anarchisme et autres essais)",
+      "auteur": "Emma Goldman",
+      "annee": "1910",
+      "collection": "textes",
+      "langue": "en",
+      "presentation": "Douze essais d'Emma Goldman : l'anarchisme, la violence politique, le patriotisme, le mariage et l'amour, la prison, l'émancipation des femmes. Lecture en anglais.",
+      "liens": [
+        [
+          "Emma Goldman, Emma la Rouge",
+          "figures/emma-goldman"
+        ],
+        [
+          "L'Anarchisme et la question sexuelle : la fiche de lecture",
+          "bibliotheque/anarchisme-et-question-sexuelle"
+        ]
+      ],
+      "librivoxId": 2293,
+      "librivoxTitre": "Anarchism and Other Essays",
+      "verifie": "2026-11-17",
+      "source": {
+        "titre": "LibriVox",
+        "url": "https://librivox.org/anarchism-and-other-essays-by-emma-goldman/"
+      },
+      "archive": "https://archive.org/details/anarchism_otheressays_0908_librivox",
+      "licence": "Domaine public (LibriVox ; marque du domaine public sur archive.org)",
+      "texteSource": "https://www.gutenberg.org/ebooks/2162",
+      "duree": "6:57:01",
+      "pistes": [
+        {
+          "titre": "Preface",
+          "duree": 466,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_00_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_00_goldman.ogg"
+        },
+        {
+          "titre": "Anarchism",
+          "duree": 2347,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_01_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_01_goldman.ogg"
+        },
+        {
+          "titre": "Minorities versus Majorities",
+          "duree": 1199,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_02_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_02_goldman.ogg"
+        },
+        {
+          "titre": "Psychology of Political Violence",
+          "duree": 3102,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_03_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_03_goldman.ogg"
+        },
+        {
+          "titre": "Prisons: A Social Crime & Failure",
+          "duree": 1931,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_04_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_04_goldman.ogg"
+        },
+        {
+          "titre": "Patriotism: A Menace to Liberty",
+          "duree": 2190,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_05_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_05_goldman.ogg"
+        },
+        {
+          "titre": "Francisco Ferrer & the Modern School",
+          "duree": 2314,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_06_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_06_goldman.ogg"
+        },
+        {
+          "titre": "The Hypocrisy of Puritanism",
+          "duree": 1195,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_07_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_07_goldman.ogg"
+        },
+        {
+          "titre": "The Traffic in Women",
+          "duree": 2064,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_08_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_08_goldman.ogg"
+        },
+        {
+          "titre": "Woman Suffrage",
+          "duree": 1976,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_09_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_09_goldman.ogg"
+        },
+        {
+          "titre": "The Tragedy of Woman's Emancipation",
+          "duree": 1473,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_10_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_10_goldman.ogg"
+        },
+        {
+          "titre": "Marriage and Love",
+          "duree": 1496,
+          "voix": "Lee Elliott",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_11_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_11_goldman.ogg"
+        },
+        {
+          "titre": "The Modern Drama: A Powerful Disseminator of Radical Thought, Part 1",
+          "duree": 2440,
+          "voix": "Peter Yearsley",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_12_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_12_goldman.ogg"
+        },
+        {
+          "titre": "The Modern Drama: A Powerful Disseminator of Radical Thought, Part 2",
+          "duree": 828,
+          "voix": "Peter Yearsley",
+          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_13_goldman_64kb.mp3",
+          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_13_goldman.ogg"
+        }
+      ],
+      "lecteurs": [
+        "Lee Elliott",
+        "Peter Yearsley"
+      ],
+      "texte": {
+        "titre": "Le texte original, en anglais, au Projet Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/2162"
+      }
+    }
+  ]
+}

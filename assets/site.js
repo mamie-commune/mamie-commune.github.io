@@ -491,3 +491,46 @@ document.addEventListener("click", (e) => {
   b.replaceWith(f);
   f.focus();
 });
+
+/* ---------- université populaire : progression gardée, version imprimable, parcours dans « Mon dossier » ----------
+   Sans compte : les modules cochés sont gardés dans ce navigateur (clé « mamie-parcours:<page> »), rien n'est envoyé. */
+(function () {
+  const ol = document.querySelector(".prose .parcours-modules"); if (!ol) return;
+  const racine = new URL("../", document.currentScript ? document.currentScript.src : location.href).href;
+  const page = location.pathname.slice(new URL(racine).pathname.length).replace(/\.html$/, "");
+  const CLE = "mamie-parcours:" + page, mods = [...ol.children];
+  let fait = []; try { fait = JSON.parse(localStorage.getItem(CLE) || "[]"); } catch (e) { fait = []; }
+  const garder = () => { try { fait.length ? localStorage.setItem(CLE, JSON.stringify(fait)) : localStorage.removeItem(CLE); } catch (e) { /* navigation privée */ } };
+  const barre = document.createElement("div"); barre.className = "parcours-suivi";
+  ol.before(barre);
+  function dessiner() {
+    const n = fait.length, t = mods.length;
+    barre.innerHTML = `<p class="parcours-suivi__txt"><b>${n} sur ${t}</b> module${t > 1 ? "s" : ""} fait${n > 1 ? "s" : ""}${n === t ? " : parcours terminé, bravo camarade !" : ""}</p>
+      <div class="parcours-suivi__jauge" role="progressbar" aria-valuemin="0" aria-valuemax="${t}" aria-valuenow="${n}" aria-label="Progression dans le parcours"><span style="width:${t ? (n / t) * 100 : 0}%"></span></div>
+      <p class="parcours-suivi__act"><button type="button" class="chip" data-p="imprimer">Imprimer le parcours</button><button type="button" class="chip" data-p="dossier">Mettre le parcours et ses lectures dans mon dossier</button>${n ? '<button type="button" class="chip" data-p="zero">Tout décocher</button>' : ""}</p>
+      <p class="parcours-suivi__aide">Ta progression est gardée dans ce navigateur seulement, sans compte.</p>`;
+    mods.forEach((li, i) => li.classList.toggle("is-fait", fait.includes(i)));
+  }
+  mods.forEach((li, i) => {
+    const l = document.createElement("label"); l.className = "parcours-fait";
+    l.innerHTML = `<input type="checkbox"${fait.includes(i) ? " checked" : ""}> Module fait`;
+    l.querySelector("input").addEventListener("change", (e) => { fait = e.target.checked ? [...new Set([...fait, i])].sort() : fait.filter((x) => x !== i); garder(); dessiner(); });
+    li.appendChild(l);
+  });
+  barre.addEventListener("click", (e) => {
+    const b = e.target.closest("[data-p]"); if (!b) return;
+    if (b.dataset.p === "imprimer") window.print();
+    else if (b.dataset.p === "zero") { fait = []; garder(); mods.forEach((li) => { li.querySelector(".parcours-fait input").checked = false; }); dessiner(); }
+    else {
+      // Le parcours, puis chaque page vers laquelle renvoient ses modules et ses textes de référence (du site seulement).
+      const pages = [page, ...[...document.querySelectorAll(".prose .parcours-modules a[href], .prose #textes + ul a[href]")].map((a) => new URL(a.getAttribute("href"), location.href))
+        .filter((u) => u.origin === location.origin).map((u) => u.pathname.slice(new URL(racine).pathname.length).replace(/\.html$/, "").replace(/(^|\/)index$/, "$1"))];
+      let dos = { titre: "", items: [] }; try { dos = JSON.parse(localStorage.getItem("mamie-dossier") || "null") || dos; } catch (err) { /* rien */ }
+      const avant = dos.items.length; dos.items = [...new Set([...dos.items, ...pages])];
+      if (!dos.titre) dos.titre = document.querySelector(".gtitle h1")?.textContent.trim() || "";
+      try { localStorage.setItem("mamie-dossier", JSON.stringify(dos)); } catch (err) { b.textContent = "Impossible : stockage du navigateur bloqué"; return; }
+      b.outerHTML = `<a class="chip" href="${racine}mon-dossier">✓ ${dos.items.length - avant} page(s) ajoutée(s) : ouvrir mon dossier →</a>`;
+    }
+  });
+  dessiner();
+})();

@@ -244,3 +244,308 @@
 <div class="ressources">
 <section><h3>Sur le site</h3><ul><li><a href="../figures/sail-mohamed.html">Portrait de Saïl Mohamed</a><span>Anarchiste et anticolonialiste.</span></li><li><a href="chronologie.html?theme=anticolonial">Les luttes anticoloniales dans la chronologie</a><span>Dates vérifiées.</span></li></ul></section>
 </div>
+
+=== histoire-cnt | L'histoire | Histoire de la CNT | Parcours intermédiaire · 6 modules | De sa fondation à Barcelone en 1910 à la révolution de 1936 et à l'exil : l'histoire de la Confédération nationale du travail, le plus grand syndicat anarchiste du monde, avec ses victoires et ses déchirements.
+<p>Quand Mamie dit « la CNT », elle a des étoiles dans les yeux et un pli amer au coin de la bouche. Un syndicat de plus d'un million de membres en 1936, sans permanents payés, qui a fait reculer le patronat catalan, puis a pris les usines et les terres en 1936. Et qui a fini par entrer au gouvernement. Ce parcours raconte tout, la gloire et les questions qui fâchent.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>La Confédération nationale du travail (CNT) naît en 1910 à Barcelone. Elle réunit des syndicats d'industrie qui pratiquent l'action directe : grève, boycott, sabotage, sans délégués professionnels ni accords avec l'État. Avec la Fédération anarchiste ibérique (FAI), fondée en 1927, elle forme le noyau de la révolution espagnole de 1936. Le parcours suit son histoire en six étapes, en lisant les dossiers du site, les textes de l'anarcho-syndicalisme et les débats qu'elle a soulevés dans le mouvement libertaire.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Comprendre ce qu'est l'anarcho-syndicalisme et comment la CNT s'organisait.</li>
+<li>Connaître les grandes étapes : fondation, luttes des années 1910-1930, révolution de 1936, guerre et exil.</li>
+<li>Comprendre les collectivisations : qui décidait, qui produisait, comment on partageait.</li>
+<li>Discuter honnêtement les choix de 1936-1937, en particulier l'entrée de ministres de la CNT au gouvernement.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>L'anarcho-syndicalisme, c'est quoi ?</b><span>Le syndicat comme outil de lutte et comme cellule de la société future.</span><a href="../encyclopedie/anarcho-syndicalisme-idees.html">Les idées de l'anarcho-syndicalisme →</a></li>
+<li><b>Naissance et premières luttes</b><span>Les origines dans la Première Internationale, la fondation de la CNT, les grandes grèves.</span><a href="../encyclopedie/anarcho-syndicalisme-histoire.html">Histoire et origines →</a></li>
+<li><b>Juillet 1936 : la révolution</b><span>Le coup d'État militaire, la riposte des syndicats, Barcelone aux mains des ouvriers.</span><a href="../experiences/espagne-1936-histoire.html">La révolution espagnole vue par la CNT-FAI →</a></li>
+<li><b>Les collectivités</b><span>Usines, transports et villages autogérés : comment c'était organisé.</span><a href="../experiences/espagne-1936-organisation.html">CNT, FAI et collectivités →</a></li>
+<li><b>Mujeres Libres et les milices</b><span>Les femmes anarchistes qui s'organisent elles-mêmes, les colonnes de miliciennes et miliciens.</span><a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes →</a></li>
+<li><b>Ministres anarchistes ? Le grand débat</b><span>L'entrée au gouvernement en novembre 1936, mai 1937, la défaite et l'exil : ce que les libertaires en ont dit.</span><a href="../encyclopedie/anarcho-syndicalisme-heritages.html">Expériences et héritages →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/la-conquete-du-pain.html">La Conquête du pain</a>, Kropotkine : le livre que les militants de la CNT faisaient circuler.</li>
+<li><a href="../livres/l-action-directe-pouget.html">L'Action directe</a>, Émile Pouget : le syndicalisme révolutionnaire français, cousin de la CNT.</li>
+<li><a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a>, fiche de lecture.</li>
+<li><a href="../bibliotheque/anarchistes-electoralistes.html">Anarchistes électoralistes</a>, fiche de lecture sur le vote de février 1936.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../ressources/cira-marseille.html">Le CIRA de Marseille</a> et <a href="../ressources/cira-lausanne.html">le CIRA de Lausanne</a> : journaux, brochures et affiches de la CNT et de l'exil.</li>
+<li><a href="../ressources/la-contemporaine.html">La Contemporaine</a>, à Nanterre : fonds sur la guerre d'Espagne.</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#libertarias"><cite>Libertarias</cite></a>, de Vicente Aranda (1996), dans la vidéothèque : des miliciennes anarchistes en 1936.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#anarcho-syndicalisme">Anarcho-syndicalisme</a> <a href="../glossaire.html#syndicalisme-revolutionnaire">Syndicalisme révolutionnaire</a> <a href="../glossaire.html#action-directe">Action directe</a> <a href="../glossaire.html#greve-generale">Grève générale</a> <a href="../glossaire.html#collectivisation">Collectivisation</a> <a href="../glossaire.html#fai">FAI</a> <a href="../glossaire.html#mujeres-libres">Mujeres Libres</a> <a href="../glossaire.html#front-populaire">Front populaire</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Pourquoi la CNT refusait-elle d'avoir des permanents payés ? Qu'est-ce que ça change dans un syndicat ? <small>Piste : modules 1 et 2</small></li>
+<li>Dans une collectivité de 1936, qui décidait de ce qu'on produisait, et comment on partageait ? <small>Piste : module 4</small></li>
+<li>Pourquoi Mujeres Libres s'est-elle organisée à part, alors que la CNT se disait pour l'égalité ? <small>Piste : module 5</small></li>
+<li>En novembre 1936, la CNT envoie quatre ministres au gouvernement. Donne un argument de celles et ceux qui l'ont défendu, et un argument de celles et ceux qui l'ont combattu. <small>Piste : module 6</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Hommage à la Catalogne</cite>, George Orwell, 1938.</li>
+<li><cite>Le Bref Été de l'anarchie</cite>, Hans Magnus Enzensberger, Gallimard, 1975.</li>
+<li><cite>Espagne libertaire 1936-1939</cite>, Gaston Leval.</li>
+<li><cite>L'Autogestion dans l'Espagne révolutionnaire</cite>, Frank Mintz.</li>
+<li><cite>La Guerre d'Espagne. Révolution et contre-révolution (1934-1939)</cite>, Burnett Bolloten, Agone, 2014.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../figures/durruti.html">Portrait de Buenaventura Durruti</a><span>Le militant de la CNT devenu légende.</span></li><li><a href="../figures/lucia-sanchez-saornil.html">Portrait de Lucía Sánchez Saornil</a><span>Cofondatrice de Mujeres Libres.</span></li><li><a href="../figures/rudolf-rocker.html">Portrait de Rudolf Rocker</a><span>Le théoricien de l'anarcho-syndicalisme.</span></li></ul></section>
+</div>
+
+=== makhnovtchina | L'histoire | Makhnovtchina | Parcours intermédiaire · 5 modules | L'Ukraine de 1917 à 1921 : des paysans qui reprennent la terre, des congrès libres sans parti, une armée insurrectionnelle, puis l'écrasement par les bolcheviks. Le parcours de la révolution anarchiste qu'on a voulu effacer.
+<p>Mamie a appris le nom de Makhno dans une brochure photocopiée, pas à l'école. Normal : les vainqueurs ont écrit l'histoire, et les bolcheviks ont fait de ces paysans révoltés des bandits. Ce parcours raconte ce qui s'est vraiment passé à Houliaïpole et dans le sud de l'Ukraine, avec les débats que cette histoire a ouverts dans le mouvement.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>La Makhnovtchina est le mouvement insurrectionnel animé par l'anarchiste Nestor Makhno dans le sud de l'Ukraine pendant la révolution et la guerre civile russes. Les paysannes et paysans y reprennent les terres, tiennent des congrès régionaux et s'organisent en soviets libres, sans pouvoir de parti. Leur armée combat les troupes allemandes et austro-hongroises, les nationalistes, les Blancs, puis l'Armée rouge, qui l'écrase en 1921. Le parcours s'appuie sur les dossiers du site et donne une place aux critiques comme aux questions qui restent ouvertes.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Situer la Makhnovtchina dans la révolution russe et la guerre civile.</li>
+<li>Comprendre comment les congrès et les soviets libres fonctionnaient.</li>
+<li>Comprendre la critique libertaire des bolcheviks, de Makhno à Cronstadt.</li>
+<li>Connaître le débat ouvert en exil par la Plateforme : faut-il une organisation anarchiste plus unie ?</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Makhno et son village</b><span>Houliaïpole, la prison, 1917 : d'où vient le mouvement.</span><a href="../figures/nestor-makhno.html">Nestor Makhno, le Batko des paysans →</a></li>
+<li><b>La révolution paysanne, 1917-1921</b><span>Les terres reprises, les guerres sur tous les fronts, la fin.</span><a href="../experiences/makhno-histoire.html">Makhno et la Makhnovtchina →</a></li>
+<li><b>Soviets libres et congrès</b><span>Comment on décidait sans parti, et comment l'armée insurrectionnelle était organisée.</span><a href="../experiences/makhno-organisation.html">Soviets libres, congrès et armée →</a></li>
+<li><b>La critique des bolcheviks</b><span>Trahisons, Tchéka, Cronstadt 1921 : pourquoi les anarchistes parlent de contre-révolution.</span><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks →</a></li>
+<li><b>Une Makhnovtchina coréenne ?</b><span>En Mandchourie, des anarchistes coréens tentent une expérience proche, avec ses propres contradictions.</span><a href="../experiences/shinmin-histoire.html">Le Shinmin →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../bibliotheque/anarchie-et-organisation.html">Anarchie et organisation</a>, fiche de lecture : le débat de la Plateforme.</li>
+<li><a href="../bibliotheque/bolchevisme-et-anarchisme.html">Bolchevisme et anarchisme</a>, Malatesta, fiche de lecture.</li>
+<li><a href="../bibliotheque/le-communisme-n-existe-pas-en-urss.html">Le communisme n'existe pas en URSS</a>, fiche de lecture.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../ressources/cira-marseille.html">Le CIRA de Marseille</a> et <a href="../ressources/cira-lausanne.html">le CIRA de Lausanne</a> : les écrits de Makhno, Archinov et Voline publiés en exil.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li>Pas encore de film dans la vidéothèque sur la Makhnovtchina. Une idée ? <a href="../contribuer.html">Dis-le à la bande</a>.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#makhnovtchina">Makhnovtchina</a> <a href="../glossaire.html#soviet">Soviet</a> <a href="../glossaire.html#kronstadt">Kronstadt</a> <a href="../glossaire.html#plateforme">Plateforme</a> <a href="../glossaire.html#federalisme">Fédéralisme</a> <a href="../glossaire.html#democratie-directe">Démocratie directe</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Qui participait aux congrès de la région, et qu'est-ce qu'ils décidaient ? <small>Piste : module 3</small></li>
+<li>Pourquoi les makhnovistes se sont-ils alliés plusieurs fois avec l'Armée rouge, et comment ces alliances ont-elles fini ? <small>Piste : modules 2 et 4</small></li>
+<li>Une armée peut-elle être libertaire ? Donne les arguments des deux côtés, à partir de l'organisation de l'armée insurrectionnelle. <small>Piste : module 3</small></li>
+<li>Après la défaite, Archinov et Makhno proposent une organisation anarchiste plus disciplinée, la Plateforme ; Voline et Malatesta la critiquent. Résume la dispute en deux phrases. <small>Piste : textes de référence</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Histoire du mouvement makhnoviste</cite>, Piotr Archinov, 1921.</li>
+<li><cite>La Révolution inconnue</cite>, Voline, 1947.</li>
+<li><cite>La Révolution russe en Ukraine</cite>, Nestor Makhno.</li>
+<li><cite>Nestor Makhno, le cosaque libertaire (1888-1934)</cite>, Alexandre Skirda, Éditions de Paris, 1999.</li>
+<li><cite>La Commune de Cronstadt</cite>, Ida Mett, 1938.</li>
+<li><cite>Le Mythe bolchevik</cite>, Alexander Berkman, 1925.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="../encyclopedie/communisme-libertaire-heritages.html">Le communisme libertaire en actes</a><span>La Makhnovtchina parmi les autres expériences.</span></li><li><a href="chronologie.html">La chronologie de l'université populaire</a><span>Dates vérifiées.</span></li></ul></section>
+</div>
+
+=== experiences-zapatistes | L'histoire | Expériences zapatistes | Parcours découverte · 5 modules | Du soulèvement du 1er janvier 1994 aux communes autonomes du Chiapas : comment des communautés indigènes s'autogouvernent depuis trente ans, ce que les libertaires y apprennent, et ce qui fait débat.
+<p>« Commander en obéissant » : Mamie a recopié la phrase sur la porte de son frigo. Les zapatistes ne se disent pas anarchistes, et ils y tiennent. Mais depuis trente ans, des milliers de familles du Chiapas vivent sans l'État mexicain, avec leurs écoles, leurs cliniques et leurs assemblées. Ce parcours apprend à regarder ça de près, sans en faire une carte postale.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Le 1er janvier 1994, le jour où entre en vigueur l'accord de libre-échange nord-américain, l'Armée zapatiste de libération nationale (EZLN) occupe plusieurs villes du Chiapas. Après douze jours de combats, la rébellion se transforme : les communautés construisent leur propre autonomie, avec des charges tournantes et révocables, des assemblées, une éducation et une santé à elles. Le parcours suit cette histoire et la place à côté d'autres expériences d'autogouvernement.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Connaître l'histoire de la rébellion, de ses origines à aujourd'hui.</li>
+<li>Comprendre l'autogouvernement : assemblées, charges tournantes, « commander en obéissant ».</li>
+<li>Comprendre la place des femmes et la loi révolutionnaire des femmes.</li>
+<li>Discuter les rapports entre zapatisme et anarchisme, sans les confondre.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Le soulèvement de 1994</b><span>Les origines dans les communautés, le 1er janvier, le cessez-le-feu, les accords de San Andrés trahis.</span><a href="../experiences/zapatistes-histoire.html">Histoire d'une rébellion →</a></li>
+<li><b>Commander en obéissant</b><span>Assemblées, charges tournantes, écoles et cliniques autonomes.</span><a href="../experiences/zapatistes-organisation.html">L'autogouvernement zapatiste →</a></li>
+<li><b>Les femmes et le commun</b><span>La loi révolutionnaire des femmes, et la réorganisation récente de l'autonomie.</span><a href="../experiences/zapatistes-femmes-commun.html">Femmes, commun et menaces →</a></li>
+<li><b>Terre et liberté, avant les zapatistes</b><span>Ricardo Flores Magón et l'anarchisme mexicain de la révolution de 1910.</span><a href="../figures/ricardo-flores-magon.html">Ricardo Flores Magón →</a></li>
+<li><b>Comparer</b><span>Zapatistes, Rojava, Oaxaca : trois façons de s'autogouverner.</span><a href="../experiences/oaxaca-2006-organisation.html">L'assemblée des assemblées, Oaxaca 2006 →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../bibliotheque/anarchisme-et-ses-aspirations.html">L'Anarchisme et ses aspirations</a>, fiche de lecture.</li>
+<li><a href="../agir/decider-sans-chef.html">Décider sans chef</a>, fiche pratique : vote, consensus, consentement, mandat.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li><a href="../experiences/zapatistes-histoire.html#sources">Les sources du dossier zapatiste</a> : communiqués, livres et sites vérifiés.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../experiences/zapatistes-histoire.html#videos">Les vidéos du dossier zapatiste</a>.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#zapatisme">Zapatisme</a> <a href="../glossaire.html#autonomie">Autonomie</a> <a href="../glossaire.html#autogestion">Autogestion</a> <a href="../glossaire.html#mandat">Mandat révocable</a> <a href="../glossaire.html#democratie-directe">Démocratie directe</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Pourquoi le soulèvement a-t-il eu lieu le 1er janvier 1994 précisément ? <small>Piste : module 1</small></li>
+<li>Que veut dire « commander en obéissant » ? Donne un exemple concret d'organisation. <small>Piste : module 2</small></li>
+<li>Les zapatistes refusent l'étiquette anarchiste. Qu'ont-ils en commun avec les libertaires, et qu'est-ce qui les sépare ? <small>Piste : modules 2 et 4</small></li>
+<li>Compare la prise de décision chez les zapatistes et à Oaxaca en 2006. <small>Piste : modules 2 et 5</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>La Rébellion zapatiste</cite>, Jérôme Baschet, Flammarion, collection Champs.</li>
+<li><cite>EZLN : 20 et 10, le feu et la parole</cite>, Gloria Muñoz Ramírez.</li>
+<li><cite>Adieux au capitalisme. Autonomie, société du bien vivre et multiplicité des mondes</cite>, Jérôme Baschet, La Découverte, 2014.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="autogestion.html">Le parcours Autogestion</a><span>Les zapatistes à côté de l'Espagne, de Lip et de la ZAD.</span></li><li><a href="../experiences/rojava-organisation.html">Le confédéralisme démocratique au Rojava</a><span>Une autre autonomie, à comparer.</span></li></ul></section>
+</div>
+
+=== communes-revolutionnaires | L'histoire | Communes et expériences révolutionnaires | Parcours intermédiaire · 5 modules | Paris 1871, Cronstadt 1921, Oaxaca 2006, le Rojava : quand des villes et des territoires se gouvernent eux-mêmes, ce qu'ils inventent, et comment les États les écrasent.
+<p>« La Commune n'est pas morte ! » chantait-on chez Mamie. Ce parcours prend la phrase au sérieux : il suit l'idée de commune libre, de Paris en 1871 jusqu'aux expériences d'aujourd'hui, et regarde chaque fois la même chose : qui décide, comment, et ce que l'État fait pour reprendre la main.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Pour les anarchistes, la commune, c'est l'échelon où les gens peuvent décider eux-mêmes, et se fédérer avec les autres communes de bas en haut. Le parcours part de la Commune de Paris, passe par la révolte de Cronstadt contre le pouvoir bolchevik, puis par la commune d'Oaxaca en 2006 et l'expérience du Rojava, et finit avec les idées du communalisme libertaire. On y lit les réussites, les limites et les débats.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Connaître plusieurs expériences communales, de 1871 à aujourd'hui.</li>
+<li>Comparer leurs façons de décider : élus révocables, assemblées, conseils.</li>
+<li>Comprendre pourquoi ces expériences ont été écrasées ou menacées.</li>
+<li>Découvrir le communalisme libertaire et les critiques qu'on lui adresse.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Paris, 1871</b><span>Soixante-douze jours, des élus révocables, puis la Semaine sanglante.</span><a href="../experiences/commune-de-paris-organisation.html">Comment la Commune s'organisait →</a></li>
+<li><b>Cronstadt, 1921</b><span>Les marins qui réclament les soviets libres contre le parti, et leur écrasement.</span><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks →</a></li>
+<li><b>Oaxaca, 2006</b><span>Cinq mois sans gouverneur et une assemblée des assemblées.</span><a href="../experiences/oaxaca-2006-histoire.html">La commune d'Oaxaca →</a></li>
+<li><b>Le Rojava</b><span>Communes, conseils et co-présidence au cœur de la guerre.</span><a href="../experiences/rojava-organisation.html">Le confédéralisme démocratique →</a></li>
+<li><b>Le communalisme libertaire</b><span>De Bookchin aux assemblées de quartier : la commune comme projet.</span><a href="../encyclopedie/communalisme-libertaire-idees.html">Idées et théories →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/commune-de-paris-kropotkine.html">La Commune de Paris</a>, Kropotkine.</li>
+<li><a href="../livres/memoires-louise-michel.html">Les Mémoires de Louise Michel</a>, livre complet.</li>
+<li><a href="../audio/la-commune-louise-michel.html">La Commune, de Louise Michel</a>, à écouter dans la bibliothèque audio.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul>
+<li><a href="../experiences/commune-de-paris-histoire.html">Les photographies d'époque du dossier sur la Commune</a> : une barricade de mai 1871, les canons de Montmartre.</li>
+<li><a href="../ressources/la-contemporaine.html">La Contemporaine</a> et <a href="../ressources/cira-marseille.html">le CIRA de Marseille</a>.</li>
+</ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li><a href="../videos.html#damnes-de-la-commune"><cite>Les Damnés de la Commune</cite></a>, de Raphaël Meyssan, en entier dans la vidéothèque.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#commune">Commune</a> <a href="../glossaire.html#semaine-sanglante">Semaine sanglante</a> <a href="../glossaire.html#kronstadt">Kronstadt</a> <a href="../glossaire.html#communalisme">Communalisme</a> <a href="../glossaire.html#federalisme">Fédéralisme</a> <a href="../glossaire.html#mandat">Mandat révocable</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Qu'est-ce qu'un élu révocable, et comment la Commune de Paris l'a-t-elle appliqué ? <small>Piste : module 1</small></li>
+<li>Que réclamaient les marins de Cronstadt, et pourquoi le pouvoir bolchevik les a-t-il écrasés ? <small>Piste : module 2</small></li>
+<li>Oaxaca et le Rojava : fais un tableau de qui décide, à quel niveau, et comment. <small>Piste : modules 3 et 4</small></li>
+<li>Le communalisme libertaire accepte de se présenter aux élections municipales. Pourquoi des anarchistes le critiquent-ils ? <small>Piste : module 5</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Histoire de la Commune de 1871</cite>, Prosper-Olivier Lissagaray, La Découverte.</li>
+<li><cite>La Semaine sanglante. Mai 1871, légendes et comptes</cite>, Michèle Audin, Libertalia, 2021.</li>
+<li><cite>L'Imaginaire de la Commune</cite>, Kristin Ross, La Fabrique, 2015.</li>
+<li><cite>La Commune de Cronstadt</cite>, Ida Mett, 1938.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="communalisme-libertaire.html">Le parcours Communalisme libertaire</a><span>Pour approfondir le module 5.</span></li><li><a href="../figures/louise-michel.html">Portrait de Louise Michel</a><span>La Commune, le bagne, l'anarchie.</span></li></ul></section>
+</div>
+
+=== culture-zad | L'histoire | Culture et histoire des ZAD | Parcours découverte · 5 modules | Notre-Dame-des-Landes, les cabanes, les assemblées, la victoire de 2018, puis Sivens, Bure et les Soulèvements de la Terre : l'histoire des zones à défendre et de la culture qui s'y est inventée.
+<p>Mamie a dormi dans une cabane du bocage, une nuit d'hiver 2012, sous la pluie et les grenades. Elle en garde un rhume et une certitude : on peut gagner. Ce parcours raconte comment des paysannes et paysans, des squatteurs, des naturalistes et des syndicalistes ont fait tomber un projet d'aéroport, et ce que cette lutte a semé ailleurs.</p>
+
+<h2 id="presentation">Présentation</h2>
+<p>Une ZAD, « zone à défendre », c'est un territoire occupé pour empêcher un grand projet d'aménagement : on y habite, on y cultive, on y décide ensemble. La plus connue est celle de Notre-Dame-des-Landes, près de Nantes, où le projet d'aéroport a été abandonné en 2018 après des décennies de lutte. Le parcours suit cette histoire, la vie sur la zone, les divisions après la victoire, et les luttes qui ont pris le relais.</p>
+
+<h2 id="objectifs">Objectifs</h2>
+<ul>
+<li>Connaître l'histoire de la ZAD de Notre-Dame-des-Landes.</li>
+<li>Comprendre comment on vivait et décidait sur la zone.</li>
+<li>Discuter honnêtement les divisions de 2018 : négocier avec l'État ou non.</li>
+<li>Relier la ZAD aux luttes d'aujourd'hui pour la terre et l'eau.</li>
+</ul>
+
+<h2 id="modules">Modules</h2>
+<ol class="parcours-modules">
+<li><b>Un aéroport n'a jamais vu le jour</b><span>Le projet, l'occupation, l'opération César, la victoire.</span><a href="../experiences/zad-histoire.html">La ZAD de Notre-Dame-des-Landes →</a></li>
+<li><b>Vivre et décider sur la zone</b><span>Assemblées, terres en commun, cabanes, bibliothèque et boulangerie.</span><a href="../experiences/zad-organisation.html">Vivre et décider sur la ZAD →</a></li>
+<li><b>Après la victoire</b><span>Expulsions, conventions avec la préfecture, divisions : ce qui reste.</span><a href="../experiences/zad-debats.html">Victoire, divisions et héritage →</a></li>
+<li><b>Les Soulèvements de la Terre</b><span>Du Larzac à Sainte-Soline : la lutte pour la terre et l'eau continue.</span><a href="../experiences/soulevements-histoire.html">Les Soulèvements de la Terre →</a></li>
+<li><b>Désarmer, saboter, durer</b><span>Les débats sur les moyens d'action et sur la répression.</span><a href="../experiences/soulevements-debats.html">Désarmer, saboter, durer →</a></li>
+</ol>
+
+<h2 id="textes">Textes de référence</h2>
+<ul>
+<li><a href="../livres/a-mon-frere-le-paysan.html">À mon frère le paysan</a>, Élisée Reclus : la terre à celles et ceux qui la travaillent.</li>
+<li><a href="../agir/tenir-une-ag.html">Tenir une AG</a> et <a href="../agir/monter-un-collectif.html">Monter un collectif</a>, fiches pratiques.</li>
+</ul>
+
+<h2 id="archives">Archives historiques</h2>
+<ul><li>Les photographies des dossiers sur la ZAD : <a href="../experiences/zad-histoire.html">la manifestation de réoccupation de novembre 2012 et une cabane détruite</a>, <a href="../experiences/zad-organisation.html">le phare de la Rolandière et la bibliothèque du Taslu</a>.</li></ul>
+
+<h2 id="videos">Vidéos et documentaires</h2>
+<ul><li>Pas encore de film dans la vidéothèque sur les ZAD. Une idée ? <a href="../contribuer.html">Dis-le à la bande</a>.</li></ul>
+
+<h2 id="glossaire">Glossaire</h2>
+<p class="parcours-mots"><a href="../glossaire.html#zad">ZAD</a> <a href="../glossaire.html#occupation">Occupation</a> <a href="../glossaire.html#autonomie">Autonomie</a> <a href="../glossaire.html#sabotage">Sabotage</a> <a href="../glossaire.html#autogestion">Autogestion</a></p>
+
+<h2 id="questions">Questions de compréhension</h2>
+<ol class="parcours-questions">
+<li>Quels groupes différents se sont retrouvés dans la lutte contre l'aéroport ? Qu'est-ce qui les a tenus ensemble ? <small>Piste : modules 1 et 2</small></li>
+<li>Comment décidait-on sur la zone, sans chef ni mairie ? <small>Piste : module 2</small></li>
+<li>En 2018, une partie des habitants signe des conventions avec l'État, une autre refuse. Donne les arguments des deux côtés. <small>Piste : module 3</small></li>
+<li>Qu'est-ce que les Soulèvements de la Terre ont repris de la ZAD, et qu'est-ce qui est nouveau ? <small>Piste : modules 4 et 5</small></li>
+</ol>
+
+<h2 id="bibliographie">Bibliographie</h2>
+<ul>
+<li><cite>Contrées. Histoires croisées de la zad de Notre-Dame-des-Landes et de la lutte No TAV dans le Val Susa</cite>, collectif Mauvaise Troupe, L'Éclat, 2016.</li>
+</ul>
+
+<h2 id="sources">Sources et pour aller plus loin</h2>
+<div class="ressources">
+<section><h3>Sur le site</h3><ul><li><a href="ecologie-sociale.html">Le parcours Écologie sociale</a><span>Les idées derrière la défense des terres.</span></li><li><a href="../carte.html?type=lieu">Les lieux autogérés sur la carte</a><span>Pour trouver la bande près de chez toi.</span></li></ul></section>
+</div>

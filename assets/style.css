@@ -2299,3 +2299,4 @@ h3 { line-height: 1; }
 .prose .ecoute__aide, .ecoute__aide { font: 400 12px/1.45 var(--mono); }
 .prose .ecoute__en-cours, .prose .ecoute__reglages { font-size: 14px; }
 .sec--noir .colonne, .sec--noir .colonne h3, .sec--noir .colonne li { color: var(--papier); background: none; }
+.sec--noir .colonne a { color: var(--jaune); }

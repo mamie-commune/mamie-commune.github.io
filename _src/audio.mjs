@@ -27,7 +27,7 @@ for (const o of cat.oeuvres) {
   o.librivoxId = Number(livre.id);
   o.source = { titre: "LibriVox", url: livre.url_librivox };
   o.archive = "https://archive.org/details/" + item;
-  o.licence = /publicdomain/.test(meta.metadata?.licenseurl || "") ? "Domaine public (LibriVox ; marque du domaine public sur archive.org)" : "Domaine public aux États-Unis (LibriVox) : vérifier la licence de l'item " + item;
+  o.licence = /publicdomain/.test(meta.metadata?.licenseurl || "") ? "Domaine public (LibriVox ; marque du domaine public sur archive.org)" : "Domaine public (LibriVox : les voix bénévoles versent leurs lectures au domaine public)";
   o.texteSource = livre.url_text_source || "";
   o.duree = livre.totaltime;
   o.pistes = livre.sections.map((s) => {

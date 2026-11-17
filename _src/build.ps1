@@ -714,7 +714,7 @@ Write-Utf8 (Join-Path $site "data\ressources.js") $js
 # Seulement des voix humaines et des enregistrements dont la licence permet la diffusion. Les fichiers restent chez leur
 # hébergeur (archive.org pour LibriVox) et ne sont chargés qu'au moment où l'on appuie sur lecture.
 $audioCols = [ordered]@{
-  "textes" = @("Textes et lectures", "Les classiques de l'anarchisme, des brochures et des fiches, lus à voix haute.")
+  "textes" = @("Textes et lectures", "Les textes et les romans des luttes, lus à voix haute par des voix bénévoles.")
   "histoire-orale" = @("Histoire orale", "Témoignages de luttes, récits d'expériences autogérées, entretiens avec des collectifs.")
   "education" = @("Éducation populaire", "Les notions politiques et les fiches pratiques expliquées à l'oral, les courants de l'anarchisme racontés.")
   "culture" = @("Culture militante", "Radios libres, podcasts indépendants, archives sonores et créations.")
@@ -746,7 +746,7 @@ foreach ($o in $oeuvres) {
     "<li><button type=""button"" class=""ecoute__choix"" data-n=""$i"" data-mp3=""$(Esc $p.mp3)"" data-ogg=""$(Esc $p.ogg)"" data-vtt=""$(Esc $p.vtt)"" data-duree=""$($p.duree)""><span class=""ecoute__num"">$($i)</span><span class=""ecoute__titre"">$(Esc $p.titre)</span></button><span class=""ecoute__info"">$(& $dureeFr $p.duree) · $(Esc $p.voix)</span><span class=""ecoute__dls"">$dl</span></li>"
   }
   $texte = if ($o.texte) { $interne = -not ($o.texte.url -match '^https?:'); "<p><a class=""btn"" href=""$(if ($interne) { '../' })$(Esc $o.texte.url)$(if ($interne) { '.html' })""$(if (-not $interne) { ' rel="noopener"' })>$(Esc $o.texte.titre) →</a></p>" } else { "" }
-  $liens = (@($o.liens) | Where-Object { $_ } | ForEach-Object { "<li><a href=""../$($_[1]).html"">$(Esc $_[0])</a></li>" }) -join ""
+  $liens = (@($o.liens) | Where-Object { $_ } | ForEach-Object { $p = ([string]$_[1]).Split("#", 2); $u = $(if ($p[0].EndsWith("/")) { $p[0] } else { "$($p[0]).html" }) + $(if ($p.Count -gt 1) { "#" + $p[1] } else { "" }); "<li><a href=""../$u"">$(Esc $_[0])</a></li>" }) -join ""
   $consent = if ($o.consentement) { "<tr><th scope=""row"">Accord des voix</th><td>$(Esc $o.consentement)</td></tr>" } else { "" }
   $body = @"
 <header class="gtitle"><div class="wrap">

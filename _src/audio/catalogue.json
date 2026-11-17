@@ -310,389 +310,559 @@
       ]
     },
     {
-      "id": "conquest-of-bread",
-      "titre": "The Conquest of Bread (La Conquête du pain)",
-      "auteur": "Pierre Kropotkine",
-      "annee": "1892",
+      "id": "germinal-zola",
+      "titre": "Germinal",
+      "auteur": "Émile Zola",
+      "annee": "1885",
       "collection": "textes",
-      "langue": "en",
-      "presentation": "Le grand livre du communisme libertaire : comment une société peut nourrir, loger et vêtir tout le monde en mettant en commun les richesses, sans État ni patrons. Lecture en anglais ; le texte français est en entier dans la bibliothèque de Mamie, pour suivre en lisant.",
-      "texte": {
-        "titre": "La Conquête du pain, en français, dans la bibliothèque de Mamie",
-        "url": "livres/la-conquete-du-pain"
-      },
+      "langue": "fr",
+      "presentation": "La grève des mineurs de Montsou, de la faim à l'insurrection : le grand roman de la lutte des classes, avec Souvarine, l'anarchiste qui ne croit plus qu'à la destruction. Zola n'est pas des nôtres, mais personne n'a mieux raconté la mine, la caisse de grève vide et la troupe qui tire.",
       "liens": [
         [
-          "La Conquête du pain : la fiche de lecture",
-          "bibliotheque/la-conquete-du-pain"
+          "Lancer une grève et tenir un piquet",
+          "agir/lancer-une-greve"
         ],
         [
-          "Pierre Kropotkine, le prince de l'entraide",
-          "figures/kropotkine"
+          "Parcours : histoire ouvrière",
+          "universite/histoire-ouvriere"
+        ],
+        [
+          "Dictionnaire : grève générale",
+          "glossaire#greve-generale"
         ]
       ],
-      "librivoxId": 2436,
-      "librivoxTitre": "Conquest of Bread",
-      "librivoxArchive": "conquest_of_bread_0809_librivox",
-      "verifie": "2026-11-17",
+      "librivoxId": 8734,
+      "verifie": "2026-11-18",
       "source": {
         "titre": "LibriVox",
-        "url": "https://librivox.org/the-conquest-of-bread-by-peter-kropotkin/"
+        "url": "https://librivox.org/germinal-by-emile-zola/"
       },
-      "archive": "https://archive.org/details/conquest_of_bread_0809_librivox",
+      "archive": "https://archive.org/details/germinal_fr_1411_librivox",
       "licence": "Domaine public (LibriVox ; marque du domaine public sur archive.org)",
-      "texteSource": "https://www.gutenberg.org/etext/23428",
-      "duree": "6:46:01",
+      "texteSource": "https://www.gutenberg.org/ebooks/5711",
+      "duree": "18:44:49",
       "pistes": [
         {
-          "titre": "Preface",
-          "duree": 867,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_00_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_00_kropotkin.ogg"
+          "titre": "I - 1",
+          "duree": 1424,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_01_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_01_zola.ogg"
         },
         {
-          "titre": "Our riches",
-          "duree": 1185,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_01_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_01_kropotkin.ogg"
+          "titre": "I - 2",
+          "duree": 1324,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_02_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_02_zola.ogg"
         },
         {
-          "titre": "Well-being for all",
-          "duree": 1265,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_02_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_02_kropotkin.ogg"
+          "titre": "I - 3",
+          "duree": 1922,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_03_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_03_zola.ogg"
         },
         {
-          "titre": "Anarchist communism",
-          "duree": 1230,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_03_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_03_kropotkin.ogg"
+          "titre": "I - 4",
+          "duree": 1672,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_04_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_04_zola.ogg"
         },
         {
-          "titre": "Expropriation",
-          "duree": 1408,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_04_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_04_kropotkin.ogg"
+          "titre": "I - 5",
+          "duree": 1502,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_05_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_05_zola.ogg"
         },
         {
-          "titre": "Food",
-          "duree": 2892,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_05_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_05_kropotkin.ogg"
+          "titre": "I - 6",
+          "duree": 1379,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_06_zola_64kb.mp3",
+          "ogg": ""
         },
         {
-          "titre": "Dwellings",
-          "duree": 1181,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_06_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_06_kropotkin.ogg"
+          "titre": "II - 1",
+          "duree": 1503,
+          "voix": "BeniaminoMassimo",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_07_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_07_zola.ogg"
         },
         {
-          "titre": "Clothing",
-          "duree": 344,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_07_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_07_kropotkin.ogg"
+          "titre": "II - 2",
+          "duree": 1356,
+          "voix": "Isabelle Brasme",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_08_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_08_zola.ogg"
         },
         {
-          "titre": "Ways and means",
-          "duree": 864,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_08_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_08_kropotkin.ogg"
+          "titre": "II - 3",
+          "duree": 1547,
+          "voix": "Isabelle Brasme",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_09_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_09_zola.ogg"
         },
         {
-          "titre": "The need for luxury",
-          "duree": 1624,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_09_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_09_kropotkin.ogg"
+          "titre": "II - 4",
+          "duree": 1080,
+          "voix": "Isabelle Brasme",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_10_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_10_zola.ogg"
         },
         {
-          "titre": "Agreeable work",
-          "duree": 944,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_10_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_10_kropotkin.ogg"
+          "titre": "II - 5",
+          "duree": 1603,
+          "voix": "Isabelle Brasme",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_11_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_11_zola.ogg"
         },
         {
-          "titre": "Free agreement",
-          "duree": 1695,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_11_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_11_kropotkin.ogg"
+          "titre": "III - 1",
+          "duree": 1641,
+          "voix": "Nadine Eckert-Boulet",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_12_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_12_zola.ogg"
         },
         {
-          "titre": "Objections",
-          "duree": 2064,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_12_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_12_kropotkin.ogg"
+          "titre": "III - 2",
+          "duree": 1870,
+          "voix": "Nadine Eckert-Boulet",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_13_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_13_zola.ogg"
         },
         {
-          "titre": "The collectivist wages system",
-          "duree": 1753,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_13_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_13_kropotkin.ogg"
+          "titre": "III - 3",
+          "duree": 1460,
+          "voix": "Nadine Eckert-Boulet",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_14_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_14_zola.ogg"
         },
         {
-          "titre": "Consumption and production",
-          "duree": 790,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_14_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_14_kropotkin.ogg"
+          "titre": "III - 4",
+          "duree": 1379,
+          "voix": "Nadine Eckert-Boulet",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_15_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_15_zola.ogg"
         },
         {
-          "titre": "The division of labour",
-          "duree": 388,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_15_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_15_kropotkin.ogg"
+          "titre": "III - 5",
+          "duree": 1394,
+          "voix": "Zeckou",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_16_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_16_zola.ogg"
         },
         {
-          "titre": "The decentralization of industry",
-          "duree": 1196,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_16_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_16_kropotkin.ogg"
+          "titre": "IV - 1",
+          "duree": 2043,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_17_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_17_zola.ogg"
         },
         {
-          "titre": "Agriculture",
-          "duree": 2671,
-          "voix": "Enko",
-          "mp3": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_17_kropotkin_64kb.mp3",
-          "ogg": "https://archive.org/download/conquest_of_bread_0809_librivox/conquestbread_17_kropotkin.ogg"
+          "titre": "IV - 2",
+          "duree": 1311,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_18_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_18_zola.ogg"
+        },
+        {
+          "titre": "IV - 3",
+          "duree": 1640,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_19_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_19_zola.ogg"
+        },
+        {
+          "titre": "IV - 4",
+          "duree": 2269,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_20_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_20_zola.ogg"
+        },
+        {
+          "titre": "IV - 5",
+          "duree": 1862,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_21_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_21_zola.ogg"
+        },
+        {
+          "titre": "IV - 6",
+          "duree": 2081,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_22_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_22_zola.ogg"
+        },
+        {
+          "titre": "IV - 7",
+          "duree": 1770,
+          "voix": "Françoise",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_23_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_23_zola.ogg"
+        },
+        {
+          "titre": "V - 1",
+          "duree": 1406,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_24_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_24_zola.ogg"
+        },
+        {
+          "titre": "V - 2",
+          "duree": 1673,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_25_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_25_zola.ogg"
+        },
+        {
+          "titre": "V - 3",
+          "duree": 1345,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_26_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_26_zola.ogg"
+        },
+        {
+          "titre": "V - 4",
+          "duree": 1559,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_27_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_27_zola.ogg"
+        },
+        {
+          "titre": "V - 5",
+          "duree": 2035,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_28_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_28_zola.ogg"
+        },
+        {
+          "titre": "V - 6",
+          "duree": 2015,
+          "voix": "Gilles G. Le Blanc",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_29_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_29_zola.ogg"
+        },
+        {
+          "titre": "VI - 1",
+          "duree": 1771,
+          "voix": "Dan Mewton",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_30_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_30_zola.ogg"
+        },
+        {
+          "titre": "VI - 2",
+          "duree": 1598,
+          "voix": "Dan Mewton",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_31_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_31_zola.ogg"
+        },
+        {
+          "titre": "VI - 3",
+          "duree": 1358,
+          "voix": "Dan Mewton",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_32_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_32_zola.ogg"
+        },
+        {
+          "titre": "VI - 4",
+          "duree": 1597,
+          "voix": "Dan Mewton",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_33_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_33_zola.ogg"
+        },
+        {
+          "titre": "VI - 5",
+          "duree": 1747,
+          "voix": "Dan Mewton",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_34_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_34_zola.ogg"
+        },
+        {
+          "titre": "VII - 1",
+          "duree": 1895,
+          "voix": "Mosiah",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_35_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_35_zola.ogg"
+        },
+        {
+          "titre": "VII - 2",
+          "duree": 1554,
+          "voix": "Fannie",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_36_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_36_zola.ogg"
+        },
+        {
+          "titre": "VII - 3",
+          "duree": 2210,
+          "voix": "Zeckou",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_37_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_37_zola.ogg"
+        },
+        {
+          "titre": "VII - 4",
+          "duree": 2184,
+          "voix": "Zeckou",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_38_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_38_zola.ogg"
+        },
+        {
+          "titre": "VII - 5",
+          "duree": 2856,
+          "voix": "Zeckou",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_39_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_39_zola.ogg"
+        },
+        {
+          "titre": "VII - 6",
+          "duree": 1654,
+          "voix": "Zeckou",
+          "mp3": "https://archive.org/download/germinal_fr_1411_librivox/germinal_40_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/germinal_fr_1411_librivox/germinal_40_zola.ogg"
         }
       ],
       "lecteurs": [
-        "Enko"
-      ]
+        "Françoise",
+        "BeniaminoMassimo",
+        "Isabelle Brasme",
+        "Nadine Eckert-Boulet",
+        "Zeckou",
+        "Gilles G. Le Blanc",
+        "Dan Mewton",
+        "Mosiah",
+        "Fannie"
+      ],
+      "texte": {
+        "titre": "Le texte intégral, au Projet Gutenberg",
+        "url": "https://www.gutenberg.org/ebooks/5711"
+      }
     },
     {
-      "id": "god-and-the-state",
-      "titre": "God and the State (Dieu et l'État)",
-      "auteur": "Mikhaïl Bakounine",
-      "annee": "1882",
+      "id": "j-accuse-zola",
+      "titre": "J'accuse… !",
+      "auteur": "Émile Zola",
+      "annee": "1898",
       "collection": "textes",
-      "langue": "en",
-      "presentation": "Le texte le plus lu de Bakounine : contre l'autorité divine et contre celle de l'État, qui se tiennent par la main. Lecture en anglais ; le texte français est en entier dans la bibliothèque de Mamie.",
-      "texte": {
-        "titre": "Dieu et l'État, en français, dans la bibliothèque de Mamie",
-        "url": "livres/dieu-et-l-etat"
-      },
+      "langue": "fr",
+      "presentation": "La lettre ouverte au président de la République qui fit éclater l'affaire Dreyfus : un capitaine juif condamné par l'armée sur un faux, l'antisémitisme déchaîné, la raison d'État contre la vérité. Beaucoup d'anarchistes, Bernard Lazare et Sébastien Faure en tête, se sont jetés dans la bataille.",
       "liens": [
         [
-          "Dieu et l'État : la fiche de lecture",
-          "bibliotheque/dieu-et-l-etat"
+          "Dictionnaire : antisémitisme",
+          "glossaire#antisemitisme"
         ],
         [
-          "Mikhaïl Bakounine",
-          "figures/bakounine"
+          "Le tiroir Antifascisme",
+          "antifascisme/"
         ]
       ],
-      "librivoxId": 745,
-      "librivoxTitre": "God and the State",
-      "librivoxArchive": "god_and_the_state_librivox",
-      "verifie": "2026-11-17",
+      "librivoxId": 878,
+      "verifie": "2026-11-18",
       "source": {
         "titre": "LibriVox",
-        "url": "https://librivox.org/god-and-the-state-by-mikhail-bakunin/"
+        "url": "https://librivox.org/jaccuse-by-emile-zola/"
       },
-      "archive": "https://archive.org/details/god_and_the_state_librivox",
+      "archive": "https://archive.org/details/jaccuse_librivox",
       "licence": "Domaine public (LibriVox ; marque du domaine public sur archive.org)",
-      "texteSource": "https://www.marxists.org/reference/archive/bakunin/works/godstate/index.htm",
-      "duree": "3:13:30",
+      "texteSource": "https://abu.cnam.fr/cgi-bin/donner?jaccuse3",
+      "duree": "0:28:30",
       "pistes": [
         {
-          "titre": "Chapter 00",
-          "duree": 172,
-          "voix": "Carl Manchester",
-          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_00_bakunin_64kb.mp3",
-          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_00_bakunin.ogg"
-        },
-        {
-          "titre": "Chapter 01",
-          "duree": 2018,
-          "voix": "Carl Manchester",
-          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_01_bakunin_64kb.mp3",
-          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_01_bakunin.ogg"
-        },
-        {
-          "titre": "Chapter 02",
-          "duree": 2964,
-          "voix": "Carl Manchester",
-          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_02_bakunin_64kb.mp3",
-          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_02_bakunin.ogg"
-        },
-        {
-          "titre": "Chapter 03",
-          "duree": 2004,
-          "voix": "Carl Manchester",
-          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_03_bakunin_64kb.mp3",
-          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_03_bakunin.ogg"
-        },
-        {
-          "titre": "Chapter 04",
-          "duree": 2963,
-          "voix": "Carl Manchester",
-          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_04_bakunin_64kb.mp3",
-          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_04_bakunin.ogg"
-        },
-        {
-          "titre": "Chapter 05",
-          "duree": 1489,
-          "voix": "Carl Manchester",
-          "mp3": "https://archive.org/download/god_and_the_state_librivox/godandthestate_05_bakunin_64kb.mp3",
-          "ogg": "https://archive.org/download/god_and_the_state_librivox/godandthestate_05_bakunin.ogg"
+          "titre": "Chapter 1",
+          "duree": 1710,
+          "voix": "Ezwa",
+          "mp3": "https://archive.org/download/jaccuse_librivox/jaccuse_zola_64kb.mp3",
+          "ogg": "https://archive.org/download/jaccuse_librivox/jaccuse_zola.ogg"
         }
       ],
       "lecteurs": [
-        "Carl Manchester"
-      ]
+        "Ezwa"
+      ],
+      "texte": {
+        "titre": "Le texte intégral, à l'Association des bibliophiles universels",
+        "url": "https://abu.cnam.fr/cgi-bin/donner?jaccuse3"
+      }
     },
     {
-      "id": "anarchism-and-other-essays",
-      "titre": "Anarchism and Other Essays (L'Anarchisme et autres essais)",
-      "auteur": "Emma Goldman",
-      "annee": "1910",
+      "id": "claude-gueux-hugo",
+      "titre": "Claude Gueux",
+      "auteur": "Victor Hugo",
+      "annee": "1834",
       "collection": "textes",
-      "langue": "en",
-      "presentation": "Douze essais d'Emma Goldman : l'anarchisme, la violence politique, le patriotisme, le mariage et l'amour, la prison, l'émancipation des femmes. Lecture en anglais.",
+      "langue": "fr",
+      "presentation": "Un ouvrier vole du pain et du bois pour sa compagne et son enfant, est jeté en prison, puis broyé par un directeur sans pitié. Le court récit où Hugo accuse la société qui fabrique les crimes qu'elle punit.",
       "liens": [
         [
-          "Emma Goldman, Emma la Rouge",
-          "figures/emma-goldman"
+          "Dictionnaire : abolitionnisme",
+          "glossaire#abolitionnisme"
         ],
         [
-          "L'Anarchisme et la question sexuelle : la fiche de lecture",
-          "bibliotheque/anarchisme-et-question-sexuelle"
+          "Tes droits face à la police et à la justice",
+          "manif/legal-team"
         ]
       ],
-      "librivoxId": 2293,
-      "librivoxTitre": "Anarchism and Other Essays",
-      "verifie": "2026-11-17",
+      "librivoxId": 9961,
+      "verifie": "2026-11-18",
       "source": {
         "titre": "LibriVox",
-        "url": "https://librivox.org/anarchism-and-other-essays-by-emma-goldman/"
+        "url": "https://librivox.org/claude-gueux-by-victor-hugo/"
       },
-      "archive": "https://archive.org/details/anarchism_otheressays_0908_librivox",
+      "archive": "https://archive.org/details/claude_gueux_1902_librivox",
       "licence": "Domaine public (LibriVox ; marque du domaine public sur archive.org)",
-      "texteSource": "https://www.gutenberg.org/ebooks/2162",
-      "duree": "6:57:01",
+      "texteSource": "",
+      "duree": "01:14:38",
       "pistes": [
         {
-          "titre": "Preface",
-          "duree": 466,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_00_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_00_goldman.ogg"
+          "titre": "Claude Gueux, première partie",
+          "duree": 351,
+          "voix": "Zeckou",
+          "mp3": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_1_hugo_64kb.mp3",
+          "ogg": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_1_hugo.ogg"
         },
         {
-          "titre": "Anarchism",
-          "duree": 2347,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_01_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_01_goldman.ogg"
+          "titre": "Claude Gueux, deuxième partie",
+          "duree": 822,
+          "voix": "Martine",
+          "mp3": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_2_hugo_64kb.mp3",
+          "ogg": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_2_hugo.ogg"
         },
         {
-          "titre": "Minorities versus Majorities",
-          "duree": 1199,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_02_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_02_goldman.ogg"
+          "titre": "Claude Gueux, troisième partie",
+          "duree": 754,
+          "voix": "Laurette",
+          "mp3": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_3_hugo_64kb.mp3",
+          "ogg": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_3_hugo.ogg"
         },
         {
-          "titre": "Psychology of Political Violence",
-          "duree": 3102,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_03_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_03_goldman.ogg"
+          "titre": "Claude Gueux, quatrième partie",
+          "duree": 913,
+          "voix": "Margot",
+          "mp3": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_4_hugo_64kb.mp3",
+          "ogg": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_4_hugo.ogg"
         },
         {
-          "titre": "Prisons: A Social Crime & Failure",
-          "duree": 1931,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_04_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_04_goldman.ogg"
+          "titre": "Claude Gueux, cinquième partie",
+          "duree": 824,
+          "voix": "Margot",
+          "mp3": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_5_hugo_64kb.mp3",
+          "ogg": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_5_hugo.ogg"
         },
         {
-          "titre": "Patriotism: A Menace to Liberty",
-          "duree": 2190,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_05_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_05_goldman.ogg"
+          "titre": "Le manuscrit de Claude Gueux",
+          "duree": 238,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_6_hugo_64kb.mp3",
+          "ogg": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_6_hugo.ogg"
         },
         {
-          "titre": "Francisco Ferrer & the Modern School",
-          "duree": 2314,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_06_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_06_goldman.ogg"
-        },
-        {
-          "titre": "The Hypocrisy of Puritanism",
-          "duree": 1195,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_07_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_07_goldman.ogg"
-        },
-        {
-          "titre": "The Traffic in Women",
-          "duree": 2064,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_08_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_08_goldman.ogg"
-        },
-        {
-          "titre": "Woman Suffrage",
-          "duree": 1976,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_09_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_09_goldman.ogg"
-        },
-        {
-          "titre": "The Tragedy of Woman's Emancipation",
-          "duree": 1473,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_10_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_10_goldman.ogg"
-        },
-        {
-          "titre": "Marriage and Love",
-          "duree": 1496,
-          "voix": "Lee Elliott",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_11_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_11_goldman.ogg"
-        },
-        {
-          "titre": "The Modern Drama: A Powerful Disseminator of Radical Thought, Part 1",
-          "duree": 2440,
-          "voix": "Peter Yearsley",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_12_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_12_goldman.ogg"
-        },
-        {
-          "titre": "The Modern Drama: A Powerful Disseminator of Radical Thought, Part 2",
-          "duree": 828,
-          "voix": "Peter Yearsley",
-          "mp3": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_13_goldman_64kb.mp3",
-          "ogg": "https://archive.org/download/anarchism_otheressays_0908_librivox/anarchismotheressays_13_goldman.ogg"
+          "titre": "Historique de Claude Gueux",
+          "duree": 576,
+          "voix": "Martine",
+          "mp3": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_7_hugo_64kb.mp3",
+          "ogg": "https://archive.org/download/claude_gueux_1902_librivox/claudegueux_7_hugo.ogg"
         }
       ],
       "lecteurs": [
-        "Lee Elliott",
-        "Peter Yearsley"
+        "Zeckou",
+        "Martine",
+        "Laurette",
+        "Margot",
+        "Christiane Jehanne"
       ],
       "texte": {
-        "titre": "Le texte original, en anglais, au Projet Gutenberg",
-        "url": "https://www.gutenberg.org/ebooks/2162"
+        "titre": "Le texte intégral, sur Wikisource",
+        "url": "https://fr.wikisource.org/wiki/Claude_Gueux"
+      }
+    },
+    {
+      "id": "dernier-jour-condamne-hugo",
+      "titre": "Le Dernier Jour d'un condamné",
+      "auteur": "Victor Hugo",
+      "annee": "1829",
+      "collection": "textes",
+      "langue": "fr",
+      "presentation": "Le journal d'un homme condamné à mort, de la sentence à l'échafaud. Hugo ne dit jamais son crime : ce qui est jugé ici, c'est la peine elle-même, et la machine judiciaire qui tue à froid.",
+      "liens": [
+        [
+          "Dictionnaire : abolitionnisme",
+          "glossaire#abolitionnisme"
+        ]
+      ],
+      "librivoxId": 20344,
+      "verifie": "2026-11-18",
+      "source": {
+        "titre": "LibriVox",
+        "url": "https://librivox.org/le-dernier-jour-dun-condamne-version-2-by-victor-hugo/"
+      },
+      "archive": "https://archive.org/details/dernierjourduncondamne_2403_librivox",
+      "licence": "Domaine public (LibriVox : les voix bénévoles versent leurs lectures au domaine public)",
+      "texteSource": "https://fr.wikisource.org/wiki/Le_Dernier_Jour_d’un_Condamné",
+      "duree": "03:57:02",
+      "lecteurs": [
+        "Christiane Jehanne"
+      ],
+      "pistes": [
+        {
+          "titre": "Préface",
+          "duree": 2972,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_00_hugo_64kb.mp3",
+          "ogg": ""
+        },
+        {
+          "titre": "Comédie",
+          "duree": 903,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_01_hugo_64kb.mp3",
+          "ogg": ""
+        },
+        {
+          "titre": "Chapitres 01 à 12",
+          "duree": 1968,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_02_hugo_64kb.mp3",
+          "ogg": ""
+        },
+        {
+          "titre": "Chapitres 13 à 16",
+          "duree": 1545,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_03_hugo_64kb.mp3",
+          "ogg": ""
+        },
+        {
+          "titre": "Chapitres 17 à 29",
+          "duree": 2099,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_04_hugo_64kb.mp3",
+          "ogg": ""
+        },
+        {
+          "titre": "Chapitres 30 à 47",
+          "duree": 2197,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_05_hugo_64kb.mp3",
+          "ogg": ""
+        },
+        {
+          "titre": "Chapitres 48, 49",
+          "duree": 818,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_06_hugo_64kb.mp3",
+          "ogg": ""
+        },
+        {
+          "titre": "Notes",
+          "duree": 1720,
+          "voix": "Christiane Jehanne",
+          "mp3": "https://archive.org/download/dernierjourduncondamne_2403_librivox/dernierjourduncondamne_07_hugo_64kb.mp3",
+          "ogg": ""
+        }
+      ],
+      "texte": {
+        "titre": "Le texte intégral, sur Wikisource",
+        "url": "https://fr.wikisource.org/wiki/Le_Dernier_Jour_d’un_Condamné"
       }
     }
   ]

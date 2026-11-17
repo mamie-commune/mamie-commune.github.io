@@ -9,7 +9,7 @@
 // - sans connexion, il sert la copie gardée, ou la page « pas de connexion ».
 // Il ne touche jamais aux autres sites (carte OpenStreetMap, vidéos, TikTok…), ni aux films et PDF, ni aux formulaires.
 // Il n'envoie rien, ne synchronise rien en arrière-plan et n'utilise ni notifications ni synchronisation périodique.
-const VERSION = "becd0fd1";
+const VERSION = "5bef4e1c";
 const COQUILLE = "mamie-coquille-" + VERSION, PAGES = "mamie-pages", GARDE = "mamie-garde";
 const DEPART = [
   "./",
@@ -18,13 +18,13 @@ const DEPART = [
   "recherche",
   "confidentialite",
   "manifest.webmanifest",
-  "assets/style.css?v=becd0fd1",
-  "assets/fonts.css?v=becd0fd1",
-  "assets/site.js?v=becd0fd1",
-  "assets/recherche.js?v=becd0fd1",
-  "assets/hors-ligne.js?v=becd0fd1",
-  "data/recherche.js?v=becd0fd1",
-  "data/lieux.js?v=becd0fd1",
+  "assets/style.css?v=5bef4e1c",
+  "assets/fonts.css?v=5bef4e1c",
+  "assets/site.js?v=5bef4e1c",
+  "assets/recherche.js?v=5bef4e1c",
+  "assets/hors-ligne.js?v=5bef4e1c",
+  "data/recherche.js?v=5bef4e1c",
+  "data/lieux.js?v=5bef4e1c",
   "assets/mamie-logo-192.webp",
   "assets/icone-32.png",
   "assets/icone-192.png",
@@ -40,8 +40,6 @@ const DEPART = [
   "assets/fonts/ArchivoBlack-400-normal-latin.woff2",
   "assets/fonts/BigShouldersDisplay-700-normal-latin-ext.woff2",
   "assets/fonts/BigShouldersDisplay-700-normal-latin.woff2",
-  "assets/fonts/BigShouldersStencilDisplay-900-normal-latin-ext.woff2",
-  "assets/fonts/BigShouldersStencilDisplay-900-normal-latin.woff2",
   "assets/fonts/PermanentMarker-400-normal-latin.woff2",
   "assets/fonts/SpecialElite-400-normal-latin-ext.woff2",
   "assets/fonts/SpecialElite-400-normal-latin.woff2"

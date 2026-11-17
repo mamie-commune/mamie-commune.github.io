@@ -555,9 +555,11 @@ Write-Utf8 $fApp (($lignes -join "`n") + "`n")
 $recents = @($neuf | Sort-Object @{ e = "d"; Descending = $true }, @{ e = "r"; Descending = $true } | Select-Object -First 5)   # la plus récente en grand, puis quatre
 $jourDe = { param($x) Date-Fr ([datetime]::ParseExact($x.d.Substring(0, 10), "yyyy-MM-dd", $null)) $false }
 $lead = $recents[0]
+# photo d’archive collée sous le fil (direction « atelier d’un collectif autonome », crédit visible)
+$collageUsine = "<figure class=""collage collage--usine""><span class=""collage__img""><img src=""{{R}}assets/img/revolutions/ad-occupation-1936.jpg"" alt=""Ouvrières et ouvriers grévistes, poing levé, dans la cour d’une usine occupée en juin 1936"" loading=""lazy""></span><figcaption>Usine occupée, juin 1936 · Agence Meurisse, domaine public</figcaption></figure>"
 $nouveautes = "<div class=""une""><article class=""une__lead""><a href=""{{R}}$($lead.u)""><span class=""kicker"">$(Esc $lead.k)</span><h3>$(Esc $lead.t)</h3><p>$(Esc $lead.s)</p><span class=""une__date"">Ajouté le $(& $jourDe $lead)</span></a></article>"
 $nouveautes += "<div class=""une__fil""><h3 class=""une__tit"">Et aussi</h3><ol>" + (($recents | Select-Object -Skip 1 | ForEach-Object {
-  "<li><a href=""{{R}}$($_.u)""><span class=""kicker"">$(Esc $_.k)</span><b>$(Esc $_.t)</b><span class=""une__date"">$(& $jourDe $_)</span></a></li>" }) -join "") + "</ol></div></div>"
+  "<li><a href=""{{R}}$($_.u)""><span class=""kicker"">$(Esc $_.k)</span><b>$(Esc $_.t)</b><span class=""une__date"">$(& $jourDe $_)</span></a></li>" }) -join "") + "</ol>" + $collageUsine + "</div></div>"
 
 # ---------- sélection de la bande selon l'actualité ({{SELECTION}}, accueil) ----------
 # _src/actualite.ps1 (lancé chaque matin par .github/workflows/actualite.yml) écrit data/actualite.json : les thèmes de

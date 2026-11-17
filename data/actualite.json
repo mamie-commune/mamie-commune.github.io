@@ -1,54 +1,54 @@
 {
-  "maj": "2026-11-16",
-  "titresLus": 134,
+  "maj": "2026-11-17",
+  "titresLus": 131,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 11,
+      "score": 12,
       "titres": [
         {
-          "titre": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
-          "url": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
+          "titre": "« Ma maison risque d'être engloutie » : en Turquie, le sol s'effondre à cause de l'agriculture intensive",
+          "url": "https://reporterre.net/Ma-maison-risque-d-etre-engloutie-en-Turquie-le-sol-s-effondre-a-cause-de-l-agriculture",
           "source": "Reporterre",
+          "date": "2026-11-17"
+        },
+        {
+          "titre": "En Guyane, l'Amazonie fragilisée par la sécheresse et l'extraction d'or",
+          "url": "https://www.franceinfo.fr/france/guyane-francaise/en-guyane-l-amazonie-fragilisee-par-la-secheresse-et-l-extraction-d-or_8285513.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
           "date": "2026-11-16"
         },
         {
-          "titre": "« Que mon cancer soit comptabilisé comme causé par les pesticides » : le combat d'un agriculteur malade",
-          "url": "https://reporterre.net/Que-mon-cancer-soit-comptabilise-comme-cause-par-les-pesticides-le-combat-d-un-agriculteur-malade",
+          "titre": "Les IA conversationnelles peuvent devenir climatosceptiques pour plaire à leurs utilisateurs",
+          "url": "https://reporterre.net/Les-IA-conversationnelles-peuvent-devenir-climatosceptiques-pour-plaire-a-leurs-utilisateurs",
           "source": "Reporterre",
-          "date": "2026-11-16"
-        },
-        {
-          "titre": "Climat : les promesses intenables d’Ursula von der Leyen",
-          "url": "https://www.humanite.fr/en-debat/cop-31/climat-les-promesses-intenables-dursula-von-der-leyen",
-          "source": "L'Humanité",
           "date": "2026-11-16"
         }
       ]
     },
     {
-      "id": "exil",
-      "nom": "l'exil et les frontières",
-      "score": 6,
+      "id": "greve",
+      "nom": "les grèves",
+      "score": 7,
       "titres": [
         {
-          "titre": "Erik Tegnér, patron de Frontières, poursuit StreetPress pour avoir dénoncé sa « sortie antisémite »",
-          "url": "https://www.humanite.fr/medias/antisemitisme/erik-tegner-patron-de-frontieres-poursuit-streetpress-pour-avoir-denonce-sa-sortie-antisemite",
-          "source": "L'Humanité",
-          "date": "2026-11-16"
+          "titre": "Qui sont ces 660 000 fonctionnaires et contractuels payés en dessous du Smic ?",
+          "url": "https://basta.media/660000-fonctionnaires-agents-publics-payes-en-dessous-du-Smic-pompiers-communaux-atsem",
+          "source": "Basta!",
+          "date": "2026-11-17"
         },
         {
-          "titre": "ICE à l’européenne : cinq pays de l’UE se tournent vers le Rwanda pour leur usine à expulsions d’exilés",
-          "url": "https://www.humanite.fr/monde/ice/ice-a-leuropeenne-cinq-pays-de-lue-se-tournent-vers-le-rwanda-pour-leur-usine-a-expulsions-dexiles",
+          "titre": "3 % de grévistes dans l’Éducation selon le ministère",
+          "url": "https://www.humanite.fr/-/-/3-de-grevistes-dans-leducation-selon-le-ministere-2",
           "source": "L'Humanité",
-          "date": "2026-11-16"
+          "date": "2026-11-17"
         },
         {
-          "titre": "Arabie saoudite : trois ans après une première alerte, Amnesty International dénonce le sort réservé aux travailleurs migrants chez Amazon",
-          "url": "https://www.humanite.fr/monde/amazon/arabie-saoudite-trois-ans-apres-une-premiere-alerte-amnesty-international-denonce-le-sort-reserve-aux-travailleurs-migrants-chez-amazon",
+          "titre": "17 novembre : interdits de faire grève, un millier de CRS se font porter pâle",
+          "url": "https://www.humanite.fr/social-et-economie/mouvement-social-2026/17-novembre-interdits-de-faire-greve-un-millier-de-crs-se-font-porter-pale",
           "source": "L'Humanité",
-          "date": "2026-11-16"
+          "date": "2026-11-17"
         }
       ]
     },
@@ -58,22 +58,22 @@
       "score": 5,
       "titres": [
         {
+          "titre": "Pour Jean-Luc Mélenchon, “la répression se durcit”",
+          "url": "https://www.humanite.fr/-/-/pour-jean-luc-melenchon-la-repression-se-durcit",
+          "source": "L'Humanité",
+          "date": "2026-11-17"
+        },
+        {
           "titre": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
           "url": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
           "source": "Reporterre",
           "date": "2026-11-16"
         },
         {
-          "titre": "Des dizaines de personnes en prison depuis deux mois : la répression anti-LGBTQI s'intensifie en Turquie",
-          "url": "https://basta.media/Des-dizaines-de-personnes-en-prison-repression-anti-LGBTQI-s-intensifie-Turquie",
+          "titre": "Violences et humiliations : à Aubervilliers, des lycéens témoignent de la répression policière",
+          "url": "https://basta.media/violences-et-humiliations-a-aubervilliers-des-lyceens-temoignent-de-la",
           "source": "Basta!",
-          "date": "2026-11-12"
-        },
-        {
-          "titre": "Violences policières : Wendy Olibrice toujours entre la vie et la mort",
-          "url": "https://www.politis.fr/api/proxy/?articleID=524357",
-          "source": "Politis",
-          "date": "2026-11-12"
+          "date": "2026-11-16"
         }
       ]
     },
@@ -83,16 +83,16 @@
       "score": 4,
       "titres": [
         {
+          "titre": "« Ramassis de gauchistes » : Marine Le Pen veut couper les subventions de la Ligue des droits de l'Homme et d'autres associations",
+          "url": "https://reporterre.net/Ramassis-de-gauchistes-Marine-Le-Pen-veut-couper-les-subventions-de-la-Ligue-des-droits-de-l-Homme-et-d-autres-associations",
+          "source": "Reporterre",
+          "date": "2026-11-17"
+        },
+        {
           "titre": "Christiane Taubira : « Le fascisme a toujours prospéré sur la négligence et la crédulité »",
           "url": "https://www.politis.fr/api/proxy/?articleID=525245",
           "source": "Politis",
           "date": "2026-11-16"
-        },
-        {
-          "titre": "Des militants d'extrême droite ont été agressés dans un bar à Marseille",
-          "url": "https://www.franceinfo.fr/marseille/des-militants-d-extreme-droite-ont-ete-agresses-dans-un-bar-a-marseille_8283776.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-15"
         },
         {
           "titre": "« On a besoin de lieux de résistance » : les bases arrière du mouvement social ciblées par la police et l'extrême droite",
@@ -103,51 +103,45 @@
       ]
     },
     {
-      "id": "greve",
-      "nom": "les grèves",
-      "score": 4,
-      "titres": [
-        {
-          "titre": "Grève du 17 novembre, rentrée sociale et convergence des luttes | Entretien avec T. Vacheron (CGT)",
-          "url": "https://www.humanite.fr/social-et-economie/cgt/greve-du-17-novembre-rentree-sociale-et-convergence-des-luttes-entretien-avec-t-vacheron-cgt",
-          "source": "L'Humanité",
-          "date": "2026-11-16"
-        },
-        {
-          "titre": "Un syndicat des eaux condamné à cause d'un gaz cancérogène dans l'eau du robinet",
-          "url": "https://reporterre.net/Un-syndicat-des-eaux-condamne-a-cause-d-un-gaz-cancerogene-dans-l-eau-du-robinet",
-          "source": "Reporterre",
-          "date": "2026-11-13"
-        },
-        {
-          "titre": "« La solitude, je n'en pouvais plus » : ces retraités ont choisi l'habitat partagé",
-          "url": "https://reporterre.net/La-solitude-je-n-en-pouvais-plus-ces-retraites-ont-choisi-l-habitat-partage",
-          "source": "Reporterre",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
       "id": "jeunesse",
       "nom": "la jeunesse en lutte",
       "score": 3,
       "titres": [
         {
-          "titre": "Nantes : une réouverture de lycée sous tension en présence du ministre de l’Éducation nationale",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/nantes-une-reouverture-de-lycee-sous-tension-en-presence-du-ministre-de-l-education-nationale_8284892.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-16"
+          "titre": "« Ça m'arrive de sécher les cours pour acheter une bouteille » : les coupures d'eau attisent la colère lycéenne à Mayotte",
+          "url": "https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la",
+          "source": "Reporterre",
+          "date": "2026-11-17"
         },
         {
-          "titre": "Interdiction des rassemblements autour des facs et lycées parisiens : l’irresponsable escalade répressive",
-          "url": "https://www.humanite.fr/politique/mouvement-lyceen/interdiction-des-rassemblements-autour-des-facs-et-lycees-parisiens-lirresponsable-escalade-repressive",
-          "source": "L'Humanité",
-          "date": "2026-11-16"
-        },
-        {
-          "titre": "« C'est un fantôme » : face à la répression des lycéens, le silence du nouveau Défenseur des droits passe mal en interne",
-          "url": "https://basta.media/Face-repression-lyceens-silence-nouveau-Defenseur-des-droits-passe-mal-en-interne-Francois-Noel-Buffet",
+          "titre": "Violences et humiliations : à Aubervilliers, des lycéens témoignent de la répression policière",
+          "url": "https://basta.media/violences-et-humiliations-a-aubervilliers-des-lyceens-temoignent-de-la",
           "source": "Basta!",
+          "date": "2026-11-16"
+        },
+        {
+          "titre": "« La porosité entre Éducation nationale et ministère de l’Intérieur nous éclate au visage »",
+          "url": "https://www.politis.fr/api/proxy/?articleID=525572",
+          "source": "Politis",
+          "date": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "nom": "l'exil et les frontières",
+      "score": 2,
+      "titres": [
+        {
+          "titre": "14 novembre-6 décembre : Migrant’Scène, festival de la Cimade partout en France",
+          "url": "https://www.politis.fr/api/proxy/?articleID=524441",
+          "source": "Politis",
+          "date": "2026-11-12"
+        },
+        {
+          "titre": "Immigration : la France admet des « discussions » avec les talibans",
+          "url": "https://www.politis.fr/api/proxy/?articleID=523824",
+          "source": "Politis",
           "date": "2026-11-10"
         }
       ]

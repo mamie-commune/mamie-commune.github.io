@@ -2028,3 +2028,119 @@ h3 { line-height: 1; }
   .top .nav > a[aria-current], .top .nav__btn[aria-expanded="true"] { background: var(--rouge); color: #fff; }
 }
 .top .nav__btn[aria-expanded="true"] { background: var(--rouge); color: #fff; }
+
+/* =====================================================================================================
+   RENFORCEMENT « IMPRIMERIE ANARCHISTE » (novembre 2026) : on enrichit l'existant, on ne remplace rien.
+   Encre imparfaite sur les bandes au pochoir, trames d'impression, papier usé, numéros massifs,
+   un détail propre à chaque section de l'accueil, et le rose de Mamie remis en accent.
+   ===================================================================================================== */
+:root {
+  --rose: #ff5aa8;
+  /* encre qui accroche mal : des petits manques dans l'aplat, comme un pochoir ou une sérigraphie */
+  --usure: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='240' height='240'%3E%3Cfilter id='u'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.75' numOctaves='2' seed='7'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -40 31.5'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23u)'/%3E%3C/svg%3E");
+  /* trame de points d'imprimerie */
+  --trame: radial-gradient(rgba(0,0,0,.32) 1.3px, transparent 1.7px);
+}
+
+/* encre imparfaite : seulement les bandes au pochoir et l'affiche rouge */
+.sec__head h2, .une__lead h3 { -webkit-mask-image: var(--usure); mask-image: var(--usure); -webkit-mask-size: 240px; mask-size: 240px; }
+
+/* le rose de Mamie, en accent : le mot fort de la bulle, le surligneur des fiches, l'appel à la bande */
+.manchette .hero__say .tg1 { background: var(--rose); color: var(--noir); }
+.prose strong { box-shadow: inset 0 -.42em 0 rgba(255, 90, 168, .38); }
+
+/* numéros massifs des sections de l'accueil, au pochoir détouré */
+#selection .sec__head::after, #nouveau .sec__head::after, #lire .sec__head::after, #videos .sec__head::after,
+#agir .sec__head::after, #guides .sec__head::after {
+  position: absolute; right: 0; top: -.18em; z-index: 0; pointer-events: none;
+  font: 900 clamp(110px, 15vw, 210px)/1 var(--pochoir); color: transparent; -webkit-text-stroke: 2px rgba(var(--ink-rgb), .2);
+}
+#selection .sec__head::after { content: "01" / ""; }
+#nouveau .sec__head::after { content: "02" / ""; }
+#lire .sec__head::after { content: "03" / ""; }
+#videos .sec__head::after { content: "04" / ""; }
+#agir .sec__head::after { content: "05" / ""; -webkit-text-stroke-color: rgba(240, 235, 223, .25); }
+#guides .sec__head::after { content: "06" / ""; }
+.sec__head > * { position: relative; z-index: 1; }
+/* une étoile rouge dans les tampons de l'accueil */
+#selection .sec__head .eyebrow::before, #nouveau .sec__head .eyebrow::before, #lire .sec__head .eyebrow::before,
+#videos .sec__head .eyebrow::before, #guides .sec__head .eyebrow::before { content: "★ " / ""; }
+
+/* 01 · la sélection : des tracts fatigués, pliés en quatre et jaunis sur les bords */
+.selection__item { background-image: linear-gradient(100deg, transparent 49%, rgba(0,0,0,.06) 49.6%, rgba(255,255,255,.45) 50.4%, transparent 51.5%), var(--photocopie);
+  box-shadow: inset 0 0 38px rgba(120, 88, 40, .2), 0 10px 18px -12px rgba(0,0,0,.6); }
+
+/* 02 · dernières publications : trame d'impression dans le coin de l'affiche rouge */
+.une__lead a { position: relative; }
+.une__lead a > * { position: relative; z-index: 1; }
+.une__lead a::after { content: ""; position: absolute; right: 0; bottom: 0; width: 55%; height: 60%; z-index: 0; pointer-events: none;
+  background: var(--trame); background-size: 7px 7px; -webkit-mask-image: radial-gradient(circle at 100% 100%, #000 10%, transparent 72%); mask-image: radial-gradient(circle at 100% 100%, #000 10%, transparent 72%); }
+
+/* 03 · la bibliothèque : des fiches de catalogue, lignées, perforées, avec leur cote */
+#lire .vedette__txt .kicker { font-family: var(--main); font-weight: 400; text-transform: none; letter-spacing: 0; font-size: 21px; color: var(--rouge); transform: rotate(-2deg); display: inline-block; }
+#lire .portes { counter-reset: cote; }
+#lire .portes li { counter-increment: cote; }
+#lire .portes a { position: relative; padding-bottom: 30px;
+  background-image: repeating-linear-gradient(transparent 0 27px, rgba(var(--ink-rgb), .1) 27px 28px); background-position: 0 44px; }
+#lire .portes a::before { content: "Cote " counter(cote, decimal-leading-zero) / ""; justify-self: end; margin-bottom: -6px; font: 400 12px/1 var(--mono); color: var(--red-txt); }
+#lire .portes a::after { content: ""; position: absolute; left: 50%; bottom: 9px; width: 12px; height: 12px; margin-left: -6px; border-radius: 50%;
+  background: rgba(var(--ink-rgb), .14); box-shadow: inset 1px 1px 2px rgba(0,0,0,.35); }
+.portes b { font-family: var(--affiche); font-weight: 800; font-size: 22px; line-height: 1.02; text-transform: uppercase; letter-spacing: .01em; }
+
+/* 04 · la vidéothèque : la pellicule autour du film du moment */
+.docvedette { padding-block: 34px; background-image:
+  repeating-linear-gradient(90deg, rgba(240,235,223,.85) 0 12px, transparent 12px 24px),
+  repeating-linear-gradient(90deg, rgba(240,235,223,.85) 0 12px, transparent 12px 24px);
+  background-size: 100% 8px, 100% 8px; background-position: 0 9px, 0 calc(100% - 9px); background-repeat: no-repeat; }
+
+/* 05 · lieux et mobilisations : le drapeau rouge et noir en coin, comme sur les affiches de la CNT */
+#agir { position: relative; overflow: hidden; }
+#agir > .wrap { position: relative; z-index: 1; }
+#agir::before { content: ""; position: absolute; right: -6vw; bottom: -6vw; width: min(46vw, 520px); aspect-ratio: 1; pointer-events: none;
+  background: linear-gradient(135deg, transparent 50%, var(--rouge) 50%); opacity: .92; }
+#agir .sec__head .eyebrow::before { content: ""; display: inline-block; width: 15px; height: 15px; margin-right: 8px; vertical-align: -1px;
+  background: linear-gradient(135deg, var(--noir) 50%, var(--rouge) 50%); outline: 2px solid var(--papier); }
+
+/* 06 · guides pratiques : des fiches numérotées au pochoir, avec leur étiquette d'imprimerie */
+#guides .portes { counter-reset: guide; }
+#guides .portes li { counter-increment: guide; }
+#guides .portes a { position: relative; padding-right: 54px; }
+#guides .portes a::after { content: counter(guide) / ""; position: absolute; right: 12px; top: 6px; font: 900 54px/1 var(--pochoir); color: var(--rouge); }
+.portes .kicker { justify-self: start; background: var(--noir); color: var(--papier); padding: 4px 7px 3px; font-size: 12px; letter-spacing: .1em; }
+:root[data-theme="dark"] .portes .kicker { background: var(--papier); color: var(--noir); }
+.portes a:hover .kicker { background: var(--rouge); color: #fff; }
+
+/* l'appel à contribution : un tampon, de la trame et le surligneur rose */
+#contribuer { background-image: var(--trame), var(--photocopie); background-size: 9px 9px, 160px; }
+.appel { background: var(--paper-2); padding: 30px 30px 26px; box-shadow: 6px 6px 0 var(--noir); }
+.appel h2 { font-family: var(--pochoir); font-size: clamp(38px, 5vw, 64px); line-height: .95; display: inline; box-decoration-break: clone; -webkit-box-decoration-break: clone;
+  background: linear-gradient(transparent 58%, rgba(255, 90, 168, .55) 58%, rgba(255, 90, 168, .55) 90%, transparent 90%); }
+.appel::after { content: "Appel à la bande" / ""; position: absolute; right: 22px; top: 18px; padding: 5px 10px 3px; border: 3px solid var(--rouge); color: var(--rouge);
+  font: 900 15px/1 var(--affiche); text-transform: uppercase; letter-spacing: .1em; transform: rotate(7deg); }
+
+/* le pied de page : un liseré rouge et noir en diagonale, comme un brassard */
+.foot { border-top: 0; background-image: repeating-linear-gradient(135deg, var(--rouge) 0 14px, var(--noir) 14px 28px); background-size: 100% 10px; background-repeat: no-repeat; padding-top: 10px; }
+
+/* téléphone : les numéros massifs ne doivent pas passer sous les titres */
+@media (max-width: 700px) {
+  #selection .sec__head::after, #nouveau .sec__head::after, #lire .sec__head::after, #videos .sec__head::after,
+  #agir .sec__head::after, #guides .sec__head::after { font-size: 84px; top: -58px; }
+  .appel::after { top: -14px; right: 8px; font-size: 13px; }
+  .appel { padding-top: 34px; }
+  #agir::before { width: 60vw; right: -14vw; bottom: -14vw; }
+}
+
+/* lecture facile : pas de manques d'encre, pas de trames, pas de chiffres décoratifs */
+.facile .sec__head h2, .facile .une__lead h3 { -webkit-mask-image: none; mask-image: none; }
+.facile .sec__head::after, .facile .une__lead a::after, .facile #agir::before, .facile .portes a::after { display: none; }
+.facile #contribuer, .facile .selection__item { background-image: none; }
+.facile #lire .vedette__txt .kicker, .facile .appel::after { transform: none; }
+/* réglages après capture : numéros au bout de la ligne, cartes pleines sur le drapeau, appel lisible */
+#selection .sec__head, #nouveau .sec__head, #lire .sec__head, #videos .sec__head, #agir .sec__head, #guides .sec__head { max-width: none; }
+#selection .sec__intro, #nouveau .sec__intro, #lire .sec__intro, #videos .sec__intro, #agir .sec__intro, #guides .sec__intro { max-width: 58ch; }
+#agir .agir-grille > a { background: var(--noir); }
+.appel .eyebrow { display: block; margin-bottom: 14px; }
+.appel::after { top: -16px; right: -18px; background: var(--paper-2); }
+#agir .sec__head { max-width: 920px; }
+#agir .agir-grille .kicker { justify-self: start; background: var(--rouge); color: #fff; font-size: 13px; padding: 4px 8px 3px; }
+@media (max-width: 700px) { .appel::after { top: -14px; right: 8px; } }

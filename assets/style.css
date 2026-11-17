@@ -1831,3 +1831,180 @@ section:nth-of-type(even) :is(.rubrique, .card, .step, .mode, .ency-fam, .princi
 /* étiquettes des cartes : en texte, comme les autres */
 .rubrique__n, .rubrique:nth-child(2n) .rubrique__n, .card__tag, .card:nth-child(3n+2) .card__tag, .mode__tag { background: none; color: var(--red-txt); padding: 0; transform: none; letter-spacing: .06em; }
 :root[data-theme="dark"] :is(.rubrique__n, .card__tag, .mode__tag) { color: var(--yellow); }
+
+/* ============================================================================================================
+   DIRECTION « IMPRIMERIE MILITANTE » (novembre 2026, validée) : pochoir, photocopie, rouge et noir, CNT-FAI, fanzine, DIY.
+   Remplace la direction collage rose/crème. Polices hébergées dans assets/fonts (assets/fonts.css) :
+   Big Shoulders Stencil Display (titres au pochoir), Big Shoulders Display (grotesque condensée : navigation,
+   rubriques, titres), Archivo (texte), Special Elite (dates, légendes), Permanent Marker (annotations, avec parcimonie).
+   Palette : --noir, --rouge, --papier, --gris, --kraft, --jaune (plus de rose). Couche posée après tout le reste.
+   ============================================================================================================ */
+:root {
+  --noir: #0e0d0c; --rouge: #d3150c; --rouge-sombre: #9c0f08; --papier: #f0ebdf; --gris: #a19c93; --kraft: #c69a62; --jaune: #f0cf5a;
+  --pochoir: "Big Shoulders Stencil Display", Impact, sans-serif;
+  --affiche: "Big Shoulders Display", "Arial Narrow", sans-serif;
+  --main: "Permanent Marker", "Comic Sans MS", cursive;
+  --paper: var(--papier); --paper-2: #f7f3ea; --red: var(--rouge); --red-hi: var(--rouge-sombre); --ink: var(--noir);
+  /* grain de photocopie : du bruit noir très fin, fait en SVG, sans image */
+  --photocopie: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .10 0'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+body { background: var(--papier); background-image: var(--photocopie); background-size: 160px; }
+
+/* ---------- typographie ---------- */
+h1, h2, h3, .sec__head h2, .gtitle h1 { font-family: var(--affiche); font-weight: 900; text-transform: uppercase; letter-spacing: .005em; line-height: .88; }
+.eyebrow, .kicker, .rubrique__n, .card__tag, .selection__actu { font-family: var(--affiche); font-weight: 800; text-transform: uppercase; letter-spacing: .08em; }
+
+/* ---------- en-tête : bandeau noir, logo, navigation en capitales condensées ---------- */
+.dateline { background: var(--rouge); }
+.dateline, .dateline a { color: #fff; }
+.dateline__ed, .dateline__devise { font-family: var(--mono); }
+.top { background: var(--noir); border-bottom: 6px solid var(--rouge); }
+.top a, .top button, .nav a, .nav button { color: var(--papier); }
+.nav a, .nav button { font-family: var(--affiche); font-weight: 800; font-size: 19px; text-transform: uppercase; letter-spacing: .04em; }
+.nav a[aria-current], .nav a:hover, .nav button:hover { color: var(--noir); background: var(--rouge); }
+.brand__name .rl { box-shadow: none; }
+.search { background: var(--noir); border-top: 1px solid #2a2725; }
+
+/* ---------- l'affiche d'accueil : diagonale rouge et noire, Mamie au centre ---------- */
+.manchette { position: relative; overflow: hidden; background: var(--rouge); background-image: var(--photocopie); color: #fff; border-bottom: 10px solid var(--noir); }
+.manchette::before { content: ""; position: absolute; inset: 0; background: var(--noir); clip-path: polygon(62% 0, 100% 0, 100% 100%, 38% 100%); pointer-events: none; }
+.manchette .wrap { position: relative; }
+.manchette .eyebrow { background: var(--noir); color: var(--papier); padding: 6px 10px; font-size: 15px; transform: rotate(-2deg); }
+.manchette h1 { font-size: clamp(72px, 12vw, 170px); line-height: .82; filter: drop-shadow(6px 6px 0 var(--noir)); }
+.manchette__accroche { font-family: var(--pochoir); font-weight: 900; text-transform: uppercase; font-size: clamp(30px, 3.8vw, 52px); line-height: .92; color: var(--papier); max-width: 13ch; margin-top: 18px; }
+.manchette__pres { font-size: 17px; line-height: 1.55; color: var(--papier); max-width: 46ch; background: var(--noir); padding: 14px 18px; transform: rotate(-.6deg); }
+.manchette .hero__art { transform: rotate(2deg) scale(1.08); }
+.manchette .hero__burst polygon { fill: var(--noir); }
+.manchette .hero__say { font-family: var(--main); }
+.manchette .cta .btn { border-radius: 0; box-shadow: 5px 5px 0 var(--noir); font-family: var(--affiche); font-weight: 900; font-size: 20px; text-transform: uppercase; }
+.manchette .cta .btn--main { background: var(--papier); color: var(--noir); border-color: var(--papier); }
+.manchette .cta .btn:not(.btn--main) { background: var(--noir); color: var(--papier); border-color: var(--papier); }
+.manchette::after { content: "Ni dieu ni maître"; position: absolute; right: -40px; bottom: 34px; font-family: var(--pochoir); font-weight: 900; font-size: clamp(40px, 6vw, 92px);
+  text-transform: uppercase; color: transparent; -webkit-text-stroke: 2px rgba(240,235,223,.35); transform: rotate(-6deg); white-space: nowrap; pointer-events: none; }
+
+/* ---------- têtes de section : bande noire au pochoir, tampon rouge ---------- */
+.sec { background-image: var(--photocopie); background-size: 160px; padding-block: clamp(48px, 7vw, 96px); }
+.sec--alt { background-color: #e3ddcf; }
+.sec__head { position: relative; margin-bottom: 34px; }
+.sec__head h2 { display: inline; font-family: var(--pochoir); font-size: clamp(40px, 6.2vw, 92px); background: var(--noir); color: var(--papier); padding: 4px 16px 0;
+  box-decoration-break: clone; -webkit-box-decoration-break: clone; line-height: 1.12; }
+.sec__head h2::after { display: none; }
+.sec__head .eyebrow { display: inline-block; margin-bottom: 14px; background: none; color: var(--rouge); border: 3px solid var(--rouge); padding: 4px 10px 3px; transform: rotate(-3deg); font-size: 15px; }
+.sec__head .sec__intro { margin-top: 20px; font-size: 18px; max-width: 58ch; }
+
+/* ---------- la sélection : un mur de tracts punaisés ---------- */
+.selection { gap: 26px; }
+.selection__item { background: #fbf8f1; background-image: var(--photocopie); border: 0; box-shadow: 0 10px 18px -12px rgba(0,0,0,.6); padding: 26px 22px 22px; clip-path: none; }
+.selection__item:nth-child(1) { transform: rotate(-1.6deg); }
+.selection__item:nth-child(2) { transform: rotate(1.2deg) translateY(14px); background-color: var(--jaune); }
+.selection__item:nth-child(3) { transform: rotate(-.6deg); background-color: #fff; }
+.selection__item::before { content: ""; display: block !important; position: absolute; top: 10px; left: 50%; width: 16px; height: 16px; margin-left: -8px; border-radius: 50%;
+  background: var(--rouge); box-shadow: 1px 2px 0 rgba(0,0,0,.5); transform: none; }
+.selection__item h3 { font-size: clamp(30px, 3vw, 42px); color: var(--noir); }
+.selection__actu { color: var(--rouge); font-size: 14px; }
+.selection__actu::before { content: "▶ "; color: var(--rouge); }
+.selection__mot { font-family: var(--main); color: var(--rouge); font-size: 17px; transform: rotate(-2deg); display: inline-block; }
+.selection__item:hover { transform: rotate(0) scale(1.02); background-color: var(--rouge); color: #fff; }
+.selection__item:hover h3, .selection__item:hover .selection__mot, .selection__item:hover .selection__actu, .selection__item:hover .kicker { color: #fff; }
+
+/* ---------- dernières publications : une affiche rouge et une pile de brochures ---------- */
+.une__lead { transform: rotate(-1deg); filter: drop-shadow(8px 8px 0 var(--noir)); }
+.une__lead::before { display: none; }
+.une__lead a { background: var(--rouge); background-image: var(--photocopie); color: #fff; clip-path: none; padding: 34px 30px 26px; }
+.une__lead a:hover { background-color: var(--noir); color: #fff; }
+.une__lead h3 { font-family: var(--pochoir); font-size: clamp(42px, 5.4vw, 78px); }
+.une__lead .kicker, .une__lead .une__date { color: #fff; }
+.une__lead::after { border-color: var(--papier); color: var(--papier); font-family: var(--affiche); font-weight: 900; }
+.une__fil { background: none; clip-path: none; transform: none; padding: 0; }
+.une__fil ol { display: grid; gap: 12px; }
+.une__fil li { border: 0 !important; }
+.une__fil a { background: var(--noir); color: var(--papier); padding: 14px 16px; border-left: 10px solid var(--rouge); }
+.une__fil li:nth-child(even) a { transform: translateX(12px) rotate(.6deg); }
+.une__fil a::before { color: var(--rouge); font-family: var(--affiche); font-weight: 900; font-size: 34px; }
+.une__fil b { font-family: var(--affiche); font-weight: 800; font-size: 22px; text-transform: uppercase; line-height: 1; }
+.une__fil .kicker, .une__fil .une__date { color: var(--gris); }
+.une__tit { background: none; color: var(--noir); font-family: var(--main); font-size: 22px; text-transform: none; padding: 0; transform: rotate(-3deg); }
+
+/* ---------- bande noire (lieux et mobilisations) : rouge et noir, gros chiffres ---------- */
+.sec--noir { background-color: var(--noir); }
+.sec--noir .sec__head h2 { background: var(--rouge); color: #fff; }
+.agir-gros { font-family: var(--pochoir); color: var(--rouge); }
+
+/* ---------- boutons : tampons à angle droit ---------- */
+.btn { border-radius: 0; font-family: var(--affiche); font-weight: 900; text-transform: uppercase; letter-spacing: .04em; font-size: 18px; }
+.btn--main { background: var(--rouge); border-color: var(--noir); color: #fff; box-shadow: 4px 4px 0 var(--noir); }
+
+/* ---------- pied de page ---------- */
+.foot { background: var(--noir); border-top: 10px solid var(--rouge); }
+
+/* ================= PAGE D'ARTICLE : un tract documenté ================= */
+.gtitle { background: var(--noir); background-image: var(--photocopie); color: var(--papier); border-bottom: 10px solid var(--rouge); }
+.gtitle .crumbs, .gtitle .crumbs a, .gtitle .lead, .gtitle .gmeta span { color: var(--papier); }
+.gtitle .eyebrow { color: var(--rouge); border: 3px solid var(--rouge); padding: 4px 10px 3px; transform: rotate(-2deg); background: none; }
+.gtitle h1 { font-family: var(--pochoir); font-size: clamp(50px, 8vw, 118px); line-height: .86; color: var(--papier); max-width: 14ch; }
+.gtitle h1 .rw .rl { background: none !important; color: inherit !important; transform: none !important; }
+.gtitle .lead { font-family: var(--mono); font-size: 18px; line-height: 1.5; max-width: 52ch; }
+.gtitle .tampon { color: var(--rouge); border-color: var(--rouge); outline-color: var(--rouge); font-family: var(--affiche); font-weight: 900; font-size: 22px; transform: rotate(-8deg); }
+.gmeta span { font-family: var(--mono); }
+.gmeta span.gmeta__type { color: var(--rouge); }
+.gmeta .btn, .gtitle .gmeta + * .btn, .gtitle .btn { background: none; color: var(--papier); border-color: var(--papier); box-shadow: none; }
+.prose { font-size: 18.5px; line-height: 1.65; }
+.prose h2 { display: inline-block; border-left: 0; padding: 6px 14px 2px; background: var(--rouge); color: #fff; font-family: var(--affiche); font-size: clamp(28px, 3.2vw, 42px); transform: rotate(-.8deg); margin-top: 1.8em; }
+.prose h2:nth-of-type(even) { background: var(--noir); transform: rotate(.6deg); }
+.prose strong { background: none; box-shadow: inset 0 -.38em 0 rgba(211,21,12,.22); }
+.prose > p:first-of-type::first-letter { float: left; font-family: var(--pochoir); font-weight: 900; font-size: 4.4em; line-height: .8; padding: 6px 10px 0 0; color: var(--rouge); }
+.photo, .photo:nth-of-type(n) { background: #fff; padding: 10px 10px 0; box-shadow: 0 12px 20px -14px rgba(0,0,0,.7); transform: rotate(-1deg); }
+.photo:nth-of-type(even) { transform: rotate(1.2deg); }
+.photo img { filter: grayscale(1) contrast(1.35) brightness(1.05); }
+.photo figcaption { font-family: var(--mono); font-size: 14px; }
+.photo::after { content: "archive" !important; display: block !important; position: absolute; top: 18px; right: 18px; left: auto; width: auto; height: auto; background: none; box-shadow: none;
+  font-family: var(--affiche); font-weight: 900; text-transform: uppercase; font-size: 15px; letter-spacing: .1em; color: var(--rouge); border: 3px solid var(--rouge); padding: 3px 8px 1px; transform: rotate(8deg); }
+.toc { background: var(--noir); color: var(--papier); clip-path: none; padding: 18px; }
+.toc a { color: var(--papier); font-family: var(--affiche); font-weight: 700; font-size: 17px; text-transform: uppercase; }
+.toc a:hover { color: var(--rouge); }
+.toc h2, .toc p:first-child { color: var(--rouge); }
+.timeline b { background: var(--noir); }
+/* corrections après première capture : le rose sort de la palette, les tampons de section grossissent */
+:root { --pink: var(--rouge); --yellow: var(--jaune); }
+.sec__head .eyebrow { font-size: 19px; border-width: 4px; padding: 6px 12px 4px; margin-right: 14px; vertical-align: 14px; }
+.manchette .hero__say .tg1 { background: var(--rouge); color: #fff; }
+.search button, .search__go { background: var(--rouge); color: #fff; }
+.selection__item h3 { font-family: var(--affiche); font-size: clamp(30px, 3.2vw, 46px); overflow-wrap: anywhere; hyphens: auto; }
+/* corrections après la revue des rubriques : contrastes dans les en-têtes noirs, titres de cartes lisibles */
+h3 { line-height: 1; }
+.gtitle .mamie-dit span { color: var(--noir); background: var(--papier); }
+.gtitle .mamie-dit b { color: var(--rouge-sombre); }
+.gtitle .lead a, .gtitle .crumbs a:hover { color: var(--jaune); }
+
+/* mode sombre : le fond redevient sombre, les tracts collés restent du papier clair avec de l'encre noire */
+:root[data-theme="dark"] body { background-color: var(--paper); }
+:root[data-theme="dark"] .sec--alt { background-color: var(--paper-2); }
+:root[data-theme="dark"] .selection__item, :root[data-theme="dark"] .photo, :root[data-theme="dark"] .gtitle .mamie-dit span { color: var(--noir); }
+:root[data-theme="dark"] .selection__item:hover, :root[data-theme="dark"] .selection__item:hover * { color: #fff; }
+:root[data-theme="dark"] .prose h2:nth-of-type(even), :root[data-theme="dark"] .une__fil a, :root[data-theme="dark"] .toc { box-shadow: inset 0 0 0 2px var(--rouge); }
+
+/* lecture facile : polices simples, rien de penché, pas de grain */
+.facile { --pochoir: var(--body); --affiche: var(--body); --main: var(--body); }
+.facile .selection__item, .facile .une__lead, .facile .une__fil a, .facile .manchette__pres, .facile .manchette .eyebrow, .facile .manchette .hero__art,
+.facile .sec__head .eyebrow, .facile .gtitle .eyebrow, .facile .gtitle .tampon, .facile .prose h2, .facile .photo::after, .facile .selection__mot, .facile .une__tit { transform: none !important; }
+.facile .manchette::after { display: none; }
+.facile .sec, .facile .gtitle, .facile .manchette, .facile .selection__item, .facile .une__lead a { background-image: none; }
+.facile .gtitle h1, .facile .manchette h1 { line-height: 1.1; }
+.gmeta span.gmeta__type, .gtitle .eyebrow { color: var(--jaune); border-color: var(--jaune); }
+/* contrôle des contrastes (clair, sombre, téléphone) */
+.top .menu { background: var(--rouge); color: #fff; border-color: var(--rouge); }
+.selection__item .kicker { color: var(--rouge-sombre); }
+:root[data-theme="dark"] .une__tit { color: var(--jaune); }
+:root[data-theme="dark"] .photo small, :root[data-theme="dark"] .photo small a { color: #4a443d; }
+:root[data-theme="dark"] .selection__item .kicker { color: var(--rouge-sombre); }
+.docvedette { background: var(--noir); color: var(--papier); }
+.docvedette .kicker, :root[data-theme="dark"] .docvedette .kicker { color: var(--jaune); }
+.side__head .crumbs, .side__head .crumbs a { color: #fff; }
+/* téléphone : l'affiche d'accueil tient dans l'écran */
+@media (max-width: 600px) {
+  .manchette__grid { grid-template-columns: minmax(0, 1fr); }
+  .manchette h1 { font-size: 11.5vw; }
+  .manchette .eyebrow { white-space: normal; max-width: 100%; }
+  .manchette::after { font-size: 34px; right: -10px; }
+  .gtitle h1 { font-size: clamp(40px, 13vw, 64px); }
+}

@@ -116,11 +116,12 @@
   window.mamieRansom = ransom;
   document.querySelectorAll("[data-ransom]").forEach(ransom);
   document.querySelectorAll("[data-tags]").forEach(tags);
-  document.querySelectorAll(".gtitle h1, .side__head h1, .sec__head h2").forEach((el) => {
+  // Lettres de rançon réservées au titre principal des pages, quand il est court : c'est la signature, pas un réflexe.
+  // Les titres longs, les titres de section et les intertitres restent en typographie simple (design « moins vibe code », novembre 2026).
+  document.querySelectorAll(".gtitle h1, .side__head h1").forEach((el) => {
     if (el.hasAttribute("data-ransom") || el.hasAttribute("data-tags")) return;
-    (el.textContent.trim().length <= 26 ? ransom : tags)(el);
+    if (el.textContent.trim().length <= 26) ransom(el);
   });
-  document.querySelectorAll(".prose h2").forEach(tags);
 
   /* ---------- lecteur vidéo en grand (fenêtre collage) ----------
      Cartes YouTube : <div class="yt__screen" data-yt="identifiant"> avec un bouton .yt__cover dedans.

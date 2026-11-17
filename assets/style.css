@@ -1784,3 +1784,50 @@ section:nth-of-type(even) :is(.rubrique, .card, .step, .mode, .ency-fam, .princi
 .selection__sources li span { font: 400 13px/1.3 var(--mono); color: var(--muted); }
 .selection__sources p { margin: 10px 0 0; font: 400 14px/1.5 var(--mono); color: var(--muted); }
 .facile .selection__actu { transform: none; }
+
+/* ============================================================================================================
+   SOBRIÉTÉ (novembre 2026) : même DA (polices, couleurs, papiers, collage), mais moins d'effets empilés.
+   Règle : un seul effet fort par bloc. Les lettres de rançon restent pour le titre principal court des pages
+   et les affiches ; les titres de section et les intertitres sont en Archivo Black simple, soulignés d'un trait.
+   ============================================================================================================ */
+/* titres longs de page et titres de section : typographie simple */
+.gtitle h1 { font-size: clamp(34px, 5.4vw, 64px); line-height: 1.04; letter-spacing: -.01em; max-width: 20ch; }
+.sec__head h2 { font-size: clamp(28px, 3.6vw, 44px); line-height: 1.05; letter-spacing: -.01em; }
+.sec__head h2::after { content: ""; display: block; width: 64px; height: 6px; margin-top: 14px; background: var(--red); }
+/* intertitres des pages : plus de pavés mot à mot, un filet rouge à gauche */
+.prose h2 { font-size: clamp(23px, 2.6vw, 30px); line-height: 1.15; padding-left: 14px; border-left: 6px solid var(--red); }
+.prose h2 .tg { all: unset; }
+/* étiquettes : du texte, plus des boîtes */
+.eyebrow, .sec__head .eyebrow { background: none; color: var(--red-txt); padding: 0; transform: none; box-shadow: none; font-size: 13px; letter-spacing: .08em; }
+.kicker { background: none; color: var(--red-txt); padding: 0; transform: none; font-size: 12px; letter-spacing: .06em; }
+.selection__actu { background: none; color: var(--ink); padding: 0; transform: none; font: 400 13px/1.3 var(--mono); }
+.selection__actu::before { content: "● "; color: var(--red); }
+/* fiche d'identité des pages : une ligne de texte, puis les actions */
+.gmeta { gap: 6px 0; }
+.gmeta span, .gmeta span:first-child, .gmeta span.gmeta__type { border: 0; background: none; color: var(--ink); padding: 0; font-size: 14px; }
+.gmeta span + span::before { content: "·"; margin: 0 9px; color: var(--muted); }
+.gmeta span.gmeta__type { color: var(--red-txt); }
+/* le gras du texte courant n'est plus surligné */
+.prose strong { background: none; font-weight: 700; }
+/* décor des en-têtes de page : la grande étoile et la trame restent sur l'accueil seulement */
+.gtitle::after { display: none; }
+.gtitle::before { display: none; }
+/* compartiments : on garde les papiers et les découpes, sans scotch ni rotation */
+:is(.rubrique, .card, .step, .mode, .ency-fam):nth-child(n)::before,
+:is(.frise, .aussi ul) > li:nth-child(n) > a::before { display: none; }
+:is(.rubrique, .card, .step, .mode, .ency-fam, .principes li):nth-child(n),
+:is(.frise, .aussi ul) > li:nth-child(n) > a { transform: none; }
+.selection__item:nth-child(n) { transform: none; }
+.selection__item::before { display: none; }
+/* photos : posées droites, un seul scotch */
+.photo, .photo:nth-of-type(n) { transform: none; }
+.photo:nth-of-type(n)::after { display: none; }
+.photo:nth-of-type(3n+2)::before, .photo:nth-of-type(3n)::before { top: -11px; left: 50%; right: auto; width: 96px; height: 24px; margin-left: -48px; border-radius: 0; background: var(--scotch); transform: rotate(-3deg); box-shadow: 0 1px 2px rgba(var(--shade-rgb), .25); }
+/* respiration */
+.sec { padding-block: clamp(56px, 8vw, 104px); }
+.sec__intro { max-width: 60ch; }
+/* sur les bandes noires, l'étiquette passe en jaune (le rouge foncé ne se lit pas sur le noir) */
+.sec--noir .eyebrow, :root[data-theme="dark"] .eyebrow, :root[data-theme="dark"] .kicker { color: var(--yellow); }
+/* étiquettes des cartes : en texte, comme les autres */
+.rubrique__n, .rubrique:nth-child(2n) .rubrique__n, .card__tag, .card:nth-child(3n+2) .card__tag, .mode__tag { background: none; color: var(--red-txt); padding: 0; transform: none; letter-spacing: .06em; }
+:root[data-theme="dark"] :is(.rubrique__n, .card__tag, .mode__tag) { color: var(--yellow); }

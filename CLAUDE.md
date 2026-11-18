@@ -152,6 +152,12 @@ Page `mouvement-17-octobre` (source `_src/pages/mouvement-17-octobre.html`, scri
 
 Les photos des dossiers Histoires de luttes sont dans `assets/img/revolutions/`, avec auteur, licence et source dans `credits.txt`. Elles viennent toutes de **Wikimedia Commons** : documents d'époque dans le domaine public, ou photos de reportage sous licence libre (CC0, CC BY, CC BY-SA). **Jamais d'image générée par IA, ni de photo colorisée** (demande expresse). Chaque image a une légende et un crédit (auteur · licence · lien Commons) : `<figure class="photo">` (`photo photo--portrait` pour une image en hauteur). Pour en ajouter : compléter la liste dans `_src/images-revolutions.ps1` et le relancer.
 
+## Archives historiques (`archives/`, novembre 2026)
+
+- Une **fiche documentaire par image d'archive** du site (`assets/img/revolutions/`) : titre, date, autrice ou auteur, type (photographie, portrait, affiche, tract, journal, document, gravure), mouvement, territoire, provenance, source vérifiable (notice Wikimedia Commons), statut juridique, description accessible (le texte alternatif), contexte (notre légende et les pages où le document est montré), transcription quand elle existe.
+- Fabriquées par `node _src/archives.mjs` (à relancer après tout ajout dans `credits.txt`) dans `_src/archives/archives.json`, à partir de `credits.txt`, des légendes des pages et de la date relevée sur Commons. **Rien n'est inventé** : date absente → « inconnue » ; date seulement dans notre légende, approximative, ou différente de celle de Commons → avertissement « à vérifier » sur la fiche ; territoire introuvable → « non précisé ». Corrections à la main (transcription d'une affiche, date vérifiée) dans `_src/archives/corrections.json`, appliquées par le script.
+- Pages générées par `_src/build.ps1` : `archives/<id>.html` et `archives/index.html` (filtres période, territoire, mouvement, type, tri par date : `assets/archives.js`, adresse partageable `archives?mouvement=…`). `Render-Page` ajoute « fiche d'archive » au crédit de chaque `figure.photo` du site. Jamais d'image d'illustration présentée comme une archive.
+
 ## Format des pages (`_src/experiences`, `_src/antifascisme`, `_src/bibliotheque`, `_src/guides`)
 
 Chaque page commence par une ligne d'en-tête, puis du HTML :

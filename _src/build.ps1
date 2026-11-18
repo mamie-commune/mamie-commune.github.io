@@ -31,6 +31,9 @@ foreach ($l in (Read-Utf8 $fApp) -split "`n") { if ($l -match '^([^=#\s]+)=(\S+)
 $maintenant = (Get-Date).ToUniversalTime().ToString("yyyy-MM-ddTHH:mm")
 function Date-Page($u) { if (-not $app.Contains($u)) { $app[$u] = $maintenant }; return Date-Fr ([datetime]::ParseExact($app[$u].Substring(0, 10), "yyyy-MM-dd", $null)) $false }
 
+# Fiches d'archives : chaque photo d'archive des pages reçoit un lien vers sa fiche (archives/<id>.html), voir Render-Page.
+$archIds = @{}; $fArch = Join-Path (Join-Path $src "archives") "archives.json"
+if (Test-Path $fArch) { foreach ($x in ((Read-Utf8 $fArch) | ConvertFrom-Json).documents) { $archIds[$x.id] = 1 } }
 $layout = Read-Utf8 (Join-Path $src "layout.html")
 # ---------- les six tiroirs de la boîte à outils ----------
 # Tout le site se range dans ces familles : menu, pied de page, fil d'Ariane, accueil, recherche, et page de famille (page).
@@ -188,6 +191,7 @@ function Render-Page($root, $nav, $title, $desc, $body, $scripts) {
     $phrase = if ($ici) { $mamieDit[$ici.id] } else { $mamieDit[""] }
     $body = ([regex]'(?s)(<header class="gtitle[^"]*"><div class="wrap">.*?<p class="lead">.*?</p>)').Replace($body, { param($m) $m.Value + "<p class=""mamie-dit""><img src=""${root}assets/mamie-logo-192.webp"" alt="""" width=""56"" height=""56"" loading=""lazy""><span><b>Mamie dit :</b> « $(Esc $phrase) »</span></p>" }, 1)
   }
+  $body = ([regex]'(?s)(<figure class="photo[^"]*"><img src="[^"]*?assets/img/revolutions/([a-z0-9-]+)[.]jpg"(?:(?!</figure>).)*?)(</small>)([ \r\n]*</figcaption>)').Replace($body, { param($m) if ($archIds[$m.Groups[2].Value]) { $m.Groups[1].Value + " · <a href=""${root}archives/$($m.Groups[2].Value).html"">fiche d'archive</a>" + $m.Groups[3].Value + $m.Groups[4].Value } else { $m.Value } })
   $out = $layout.Replace("{{TITLE}}", (Esc $title)).Replace("{{DESC}}", (Esc $desc)).Replace("{{NAV}}", $navHtml).Replace("{{PIED}}", $pied).Replace("{{FAMOPTS}}", $opts).Replace("{{BODY}}", $body).Replace("{{SCRIPTS}}", $scripts).Replace("{{EDITION}}", $edition)
   $out = $out.Replace("{{FAMILLES}}", (Familles-Accueil $root))
   if ($out.Contains("{{NOUVEAUTES}}")) { $out = $out.Replace("{{NOUVEAUTES}}", $nouveautes) }
@@ -816,6 +820,77 @@ foreach ($k in $audioCols.Keys) { $v = [regex]::Match($bodyA, "(?s)<template id=
 $bodyA = [regex]::Replace($bodyA, '(?s)<template id="vide-[^"]+">.*?</template>\s*', '')
 Write-Utf8 (Join-Path $dossierAudio "index.html") (Render-Page "../" "bibliotheque" $metaA[0] $metaA[1] $bodyA $metaA[3])
 $index += [pscustomobject]@{ u = "audio/index.html"; k = "Bibliothèque audio"; y = "Page"; t = "Bibliothèque audio"; d = $metaA[1]; x = "écouter livres audio lectures podcasts radios libres histoire orale" }
+
+# ---------- archives historiques (archives/) ----------
+# Source : _src/archives/archives.json, fabriqué par node _src/archives.mjs (crédits des images, légendes des pages, dates de
+# Wikimedia Commons). Une fiche documentaire par document, et une page à filtres (période, territoire, mouvement, type).
+# Seulement des documents d'époque ou des photos de reportage réelles : jamais d'image d'illustration présentée comme archive.
+$archCat = (Read-Utf8 (Join-Path $src "archives\archives.json")) | ConvertFrom-Json
+$archives = @($archCat.documents)
+$dossierArch = Join-Path $site "archives"; New-Item -ItemType Directory -Force $dossierArch | Out-Null
+$periode = { param($an) if (-not $an) { "inconnue" } elseif ($an -lt 1800) { "avant 1800" } elseif ($an -lt 1900) { "XIXe siècle" } elseif ($an -lt 1945) { "1900-1944" } elseif ($an -lt 1990) { "1945-1989" } else { "depuis 1990" } }
+$cartesArch = foreach ($a in $archives) {
+  $per = & $periode $a.annee
+  $pages = (@($a.pages) | Where-Object { $_ } | ForEach-Object { "<li><a href=""../$($_.page).html"">$(Esc $_.titre)</a></li>" }) -join ""
+  $texteTypes = @("Affiche", "Tract", "Journal et périodique", "Document imprimé ou manuscrit")
+  $transc = if ($a.transcription) { "<tr><th scope=""row"">Transcription</th><td>$(Esc $a.transcription)</td></tr>" } elseif ($texteTypes -contains $a.type) { "<tr><th scope=""row"">Transcription</th><td>Pas encore de transcription. Tu peux lire le texte sur l'image en grand, ou <a href=""../contribuer.html"">proposer une transcription</a>.</td></tr>" } else { "" }
+  $ligne = { param($k, $v) if ($v) { "<tr><th scope=""row"">$k</th><td>$v</td></tr>" } }
+  $dateHtml = if ($a.date) { Esc $a.date } else { "Inconnue" }
+  if ($a.incertitude) { $dateHtml += '<br><small class="arch-doute">' + (Esc $a.incertitude) + '</small>' }
+  $table = (& $ligne "Titre" (Esc $a.titre)) + (& $ligne "Date" $dateHtml) +
+    (& $ligne "Autrice, auteur ou organisation" (Esc $a.auteur)) + (& $ligne "Type de document" (Esc $a.type)) + (& $ligne "Mouvement" (Esc $a.mouvement)) +
+    (& $ligne "Territoire" (Esc $a.territoire)) + (& $ligne "Provenance" (Esc $a.provenance)) +
+    (& $ligne "Source vérifiable" "<a href=""$(Esc $a.source)"" rel=""noopener"">La notice sur Wikimedia Commons</a>") + (& $ligne "Statut juridique" (Esc $a.licence)) +
+    (& $ligne "Description accessible" (Esc $a.description)) + $transc
+  $body = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../bibliotheque/index.html">Bibliothèque</a><span>/</span><a href="index.html">Archives historiques</a><span>/</span><a href="index.html?mouvement=$([uri]::EscapeDataString($a.mouvement))">$(Esc $a.mouvement)</a></p>
+  <p class="eyebrow">Document d'archive</p>
+  <h1>$(Esc $a.titre)</h1>
+  <div class="gmeta"><span class="gmeta__type">Archive</span><span>$(Esc $a.type)</span><span>$(if ($a.date) { Esc $a.date } else { 'Date inconnue' })</span><span>$(Esc $a.territoire)</span><span>$(Esc $a.licence)</span></div>
+</div></header>
+<div class="wrap gseule">
+  <article class="prose arch-fiche">
+  <figure class="arch-image"><a href="../$($a.image)"><img src="../$($a.image)" alt="$(Esc $a.description)" loading="lazy"></a><figcaption>$(Esc $a.auteur) · $(Esc $a.licence) · <a href="$(Esc $a.source)" rel="noopener">Wikimedia Commons</a>. Clique pour voir l'image en grand.</figcaption></figure>
+  <h2 id="contexte">Contexte historique</h2>
+  <p>$(Esc $a.contexte)</p>
+  $(if ($pages) { "<p>Ce document est montré et expliqué dans :</p><ul>$pages</ul>" })
+  <h2 id="fiche">La fiche</h2>
+  <div class="tbl"><table class="res-table"><tbody>$table</tbody></table></div>
+  <p class="credit">Fiche documentaire établie par la bande à Mamie à partir de la notice de Wikimedia Commons et des sources du dossier où le document apparaît. Rien n'est inventé : ce qu'on ne sait pas est dit. Une erreur, une date, une transcription ? <a href="../contribuer.html">Dis-le à la bande</a>.</p>
+  </article>
+</div>
+"@
+  Write-Utf8 (Join-Path $dossierArch "$($a.id).html") (Render-Page "../" "bibliotheque" "$($a.titre) · Archives · Mamie Commune" "$($a.type), $($a.mouvement). $($a.contexte)" $body "")
+  $index += [pscustomobject]@{ u = "archives/$($a.id).html"; k = "Archives historiques"; y = "Archive"; t = $a.titre; d = "$($a.type) · $($a.date) · $($a.mouvement)"; x = "$($a.contexte) $($a.auteur) $($a.territoire) $($a.mouvement) archive document" }
+  "<a class=""arch-carte"" href=""$($a.id).html"" data-mouvement=""$(Esc $a.mouvement)"" data-territoire=""$(Esc $a.territoire)"" data-type=""$(Esc $a.type)"" data-periode=""$per"" data-annee=""$($a.annee)""><span class=""arch-carte__img""><img src=""../$($a.image)"" alt="""" loading=""lazy""></span><span class=""arch-carte__txt""><small>$(Esc $a.type) · $(if ($a.date) { Esc $a.date } else { 'date inconnue' })</small><b>$(Esc $a.titre)</b><span>$(Esc $a.mouvement) · $(Esc $a.territoire)</span></span></a>"
+}
+$opt = { param($champ) (@($archives | ForEach-Object { [string]$_.$champ }) | Sort-Object -Unique | ForEach-Object { $v = $_; $n = @($archives | Where-Object { [string]$_.$champ -eq $v }).Count; "<option value=""$(Esc $v)"">$(Esc $v) ($n)</option>" }) -join "" }
+$optPer = (@("avant 1800", "XIXe siècle", "1900-1944", "1945-1989", "depuis 1990", "inconnue") | ForEach-Object { $p = $_; $n = @($archives | Where-Object { (& $periode $_.annee) -eq $p }).Count; if ($n) { "<option value=""$p"">$p ($n)</option>" } }) -join ""
+$bodyArch = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="../bibliotheque/index.html">Bibliothèque</a><span>/</span><span>Archives historiques</span></p>
+  <p class="eyebrow">la mémoire des luttes, pièce par pièce</p>
+  <h1>Archives historiques</h1>
+  <p class="lead">Les photographies, affiches, journaux, gravures et documents d'époque montrés dans les dossiers du site, chacun avec sa fiche : date, auteur, provenance, source, licence et contexte. Quand on ne sait pas, on le dit.</p>
+</div></header>
+<section class="sec" style="border-top:0">
+  <div class="wrap">
+    <div class="arch-filtres" id="archFiltres">
+      <label>Période<select data-f="periode"><option value="">Toutes</option>$optPer</select></label>
+      <label>Territoire<select data-f="territoire"><option value="">Tous</option>$(& $opt 'territoire')</select></label>
+      <label>Mouvement<select data-f="mouvement"><option value="">Tous</option>$(& $opt 'mouvement')</select></label>
+      <label>Type<select data-f="type"><option value="">Tous</option>$(& $opt 'type')</select></label>
+      <label>Ordre<select data-f="ordre"><option value="date">Du plus ancien au plus récent</option><option value="recent">Du plus récent au plus ancien</option></select></label>
+    </div>
+    <p class="arch-compte" id="archCompte" role="status">$($archives.Count) documents</p>
+    <div class="arch-grille" id="archGrille">$($cartesArch -join "")</div>
+    <p class="side__aide">Les documents viennent de Wikimedia Commons : domaine public ou licence libre, avec leur crédit. Les dates marquées incertaines ou divergentes sont signalées sur chaque fiche. Pour les archives papier, voir aussi le <a href="../ressources/index.html?type=archive">centre de ressources</a> (CIRA, La Contemporaine…).</p>
+  </div>
+</section>
+"@
+Write-Utf8 (Join-Path $dossierArch "index.html") (Render-Page "../" "bibliotheque" "Archives historiques · Mamie Commune" "Photographies, affiches, journaux, gravures et documents d'époque des luttes, avec leur fiche : date, auteur, provenance, source, licence, contexte. À parcourir par période, territoire, mouvement et type." $bodyArch "<script src=""../assets/archives.js""></script>")
+$index += [pscustomobject]@{ u = "archives/index.html"; k = "Archives historiques"; y = "Page"; t = "Archives historiques"; d = "Les documents d'époque des luttes, avec leur fiche."; x = "archives photographies affiches journaux gravures documents" }
 
 # ---------- annuaire des logiciels libres (logiciels/) ----------
 # Source : _src/logiciels/logiciels.json (une fiche par logiciel, vérifiée : licence, plateformes, site, documentation, limites).

@@ -12,7 +12,7 @@
   const slug = (s) => norm(s).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 60) || "dossier";
   const SITE = "https://mamiecommune.org/";
   // Ce qu'on peut mettre dans un dossier : des documents, pas les pages de rubrique ni les outils interactifs.
-  const TYPES = ["Fiche pratique", "Guide pratique", "Guide juridique", "Guide numérique", "Fiche de lecture", "Livre", "Histoire de lutte", "Dossier antifasciste", "Dossier encyclopédique", "Portrait", "Parcours", "Ressource documentaire", "Livre audio"];
+  const TYPES = ["Fiche pratique", "Guide pratique", "Guide juridique", "Guide numérique", "Fiche de lecture", "Livre", "Histoire de lutte", "Dossier antifasciste", "Dossier encyclopédique", "Portrait", "Parcours", "Ressource documentaire", "Livre audio", "Archive"];
   const TOUT = (window.RECHERCHE || []).filter((r) => TYPES.includes(r.y));
   const parU = new Map(TOUT.map((r) => [r.u, r]));
   const CLE = "mamie-dossier";

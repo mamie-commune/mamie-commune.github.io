@@ -2339,3 +2339,26 @@ h3 { line-height: 1; }
 .prose .parcours-modules li.is-fait { opacity: .78; }
 .prose .parcours-modules li.is-fait b { text-decoration: line-through; text-decoration-color: var(--rouge); text-decoration-thickness: 3px; }
 @media print { .parcours-suivi, .parcours-fait { display: none !important; } }
+
+/* ---------- archives historiques : un mur de documents photocopiés ---------- */
+.arch-filtres { display: flex; flex-wrap: wrap; gap: 10px 16px; margin-bottom: 14px; }
+.arch-filtres label { display: grid; gap: 4px; font: 700 13px/1.2 var(--affiche); text-transform: uppercase; letter-spacing: .05em; }
+.arch-filtres select { padding: 7px 9px; border: 2px solid var(--ink); background: var(--paper-2); color: var(--ink); font: 400 15px/1.2 var(--body); text-transform: none; letter-spacing: 0; max-width: 260px; }
+.arch-compte { font: 400 15px/1.3 var(--mono); margin: 0 0 14px; }
+.arch-grille { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 18px; }
+.arch-carte { display: grid; align-content: start; background: #fff; color: var(--noir); text-decoration: none; padding: 8px 8px 12px; box-shadow: 0 10px 18px -12px rgba(0,0,0,.6); }
+.arch-carte:nth-child(3n+1) { transform: rotate(-.8deg); } .arch-carte:nth-child(3n+2) { transform: rotate(.6deg); }
+.arch-carte:hover, .arch-carte:focus-visible { outline: 3px solid var(--rouge); transform: none; }
+.arch-carte__img { display: block; aspect-ratio: 4 / 3; overflow: hidden; background: var(--papier); }
+.arch-carte__img img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(1) contrast(1.25); }
+.arch-carte:hover .arch-carte__img img { filter: none; }
+.arch-carte__txt { display: grid; gap: 3px; padding: 8px 4px 0; }
+.arch-carte__txt small { font: 700 11px/1.3 var(--affiche); text-transform: uppercase; letter-spacing: .07em; color: var(--rouge-sombre); }
+.arch-carte__txt b { font: 700 15px/1.3 var(--body); }
+.arch-carte__txt span { font: 400 12px/1.3 var(--mono); color: #4a443d; }
+.arch-image { margin: 0 0 24px; background: #fff; padding: 10px; box-shadow: 0 12px 20px -14px rgba(0,0,0,.7); }
+.arch-image img { display: block; width: 100%; height: auto; }
+.arch-image figcaption { font: 400 13px/1.4 var(--mono); color: #3a352f; margin-top: 8px; }
+.arch-doute { color: var(--red-txt); font-weight: 700; }
+.facile .arch-carte { transform: none !important; }
+.facile .arch-carte__img img { filter: none; }

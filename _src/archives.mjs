@@ -46,14 +46,18 @@ const MOUV = { commune: "Commune de Paris", makhno: "Makhnovtchina", espagne: "R
   rojava: "Rojava", shinmin: "Shinmin coréen", queer: "Luttes LGBT", ad: "Histoire syndicale et action directe", figure: "Figures de l'anarchisme", biblio: "Histoire des idées anarchistes" };
 const TERR = [["Kanaky", /kanak|nouvelle-calédonie|nouméa/i], ["Mexique", /mexique|chiapas|oaxaca|zapatist/i], ["Argentine", /argentin|buenos aires/i], ["Espagne", /espagn|barcelon|madrid|catalogne|aragon|cnt/i],
   ["Ukraine", /ukrain|houlia|makhno/i], ["Russie", /russie|russe|cronstadt|kronstadt|pétersbourg|moscou|soviét/i], ["Syrie (Rojava)", /rojava|syrie|kobané|kurde/i], ["Corée et Mandchourie", /corée|coréen|mandchou/i],
-  ["Japon", /japon|tokyo/i], ["États-Unis", /états-unis|chicago|new york|seattle|paterson|californie|oakland|américain/i], ["Royaume-Uni", /londres|angleterre|britann/i], ["Italie", /itali|rome|milan/i],
+  ["Japon", /japon|tokyo/i], ["États-Unis", /états-unis|harpers ferry|virginie|john brown|haymarket|chicago|new york|seattle|paterson|californie|oakland|américain/i], ["Royaume-Uni", /londres|angleterre|britann/i], ["Italie", /itali|rome|milan/i],
   ["Suisse", /suisse|genève|bâle|saint-imier|jura|lausanne/i], ["Allemagne", /allemagne|allemand|berlin|munich|bavière/i], ["Belgique", /belgique|bruxelles/i], ["Algérie", /algérie|alger/i], ["Turquie", /turquie|turc/i],
   ["France", /france|français|paris|lyon|marseille|nantes|notre-dame-des-landes|bretagne|courrières|besançon|lip|larzac|sainte-soline|montmartre|versailles|bordeaux|rouen|lille|flins|billancourt|sorbonne|nanterre|saint-nazaire|bastille|rond-point/i],
   ["Pays-Bas", /pays-bas|amsterdam/i], ["Autriche", /autriche|vienne/i], ["Pologne", /pologne|varsovie/i], ["Portugal", /portugal|lisbonne/i], ["Chine", /chine|chinois|pékin|shanghai/i], ["Inde", /inde|indien/i], ["Brésil", /brésil/i], ["Cuba", /cuba/i]];
 const TERR_MOUV = { commune: "France", mai68: "France", gj: "France", zad: "France", slt: "France", makhno: "Ukraine", espagne: "Espagne", zapatistes: "Mexique", oaxaca: "Mexique", argentine: "Argentine", kanaky: "Kanaky", rojava: "Syrie (Rojava)", shinmin: "Corée et Mandchourie", panthers: "États-Unis" };
-const TYPE = (t) => /affiche|poster/i.test(t) ? "Affiche" : /\btract\b/i.test(t) ? "Tract" : /journal|une du|numéro|périodique|hebdomadaire|quotidien/i.test(t) ? "Journal et périodique"
-  : /brochure|manuscrit|couverture|page de titre|livre|lettre|programme|déclaration|carte d'adhérent/i.test(t) ? "Document imprimé ou manuscrit"
-  : /gravure|dessin|caricature|lithographie|illustration|peinture|tableau|fresque|estampe/i.test(t) ? "Gravure, dessin et peinture" : /portrait|photographie de .* en \d{4}/i.test(t) ? "Portrait" : "Photographie";
+// Type : d'abord la légende de la bande (alt et légende), puis le reste ; une photo d'une personne est un portrait.
+const TYPE = (leg, tout) => /affiche|poster/i.test(leg) ? "Affiche" : /tract/i.test(leg) ? "Tract"
+  : /photographi|photo|portrait/i.test(leg) ? (/photographié|photographiée|portrait|pose/i.test(leg) ? "Portrait" : "Photographie")
+  : /gravure|dessin|caricature|lithographie|illustration|peinture|tableau|fresque|estampe/i.test(leg) ? "Gravure, dessin et peinture"
+  : /journal|une du|numéro|périodique|hebdomadaire|quotidien/i.test(leg) ? "Journal et périodique"
+  : /brochure|manuscrit|couverture|page de titre|lettre|programme|déclaration|carte d'adhérent|copie/i.test(leg) ? "Document imprimé ou manuscrit"
+  : /affiche|btractb|gravure|dessin|journal/i.test(tout) ? TYPE(tout, "") : "Photographie";
 const annee = (s) => { const m = String(s).match(/\b(1[5-9]\d\d|20[0-2]\d)\b/); return m ? Number(m[1]) : null; };
 
 const docs = credits.map((c) => {
@@ -68,7 +72,7 @@ const docs = credits.map((c) => {
   const territoire = TERR_MOUV[prefixe] || (TERR.find(([, re]) => re.test(tout)) || ["Non précisé"])[0];
   return {
     id: c.id, image: `assets/img/revolutions/${c.id}.jpg`, titre: u0.legende ? u0.legende.split(/(?<=[.!?])\s/)[0].replace(/\.$/, "") : net(m.ObjectName?.value) || c.id,
-    date, annee: aC || aL || null, incertitude, auteur: c.auteur, mouvement: MOUV[prefixe] || "Autres luttes", territoire, type: TYPE(tout),
+    date, annee: aC || aL || null, incertitude, auteur: c.auteur, mouvement: MOUV[prefixe] || "Autres luttes", territoire, type: TYPE(us.map((x) => x.legende + " " + x.alt).join(" "), tout),
     description: u0.alt || "", contexte: u0.legende || "", pages: us.filter((x) => x.page).map((x) => ({ page: x.page, titre: x.titre })),
     provenance: "Wikimedia Commons" + (/musée|bibliothèque|archives|library|museum|carnavalet|gallica|bnf|congress|getty|nationaal|iish|institut/i.test(c.auteur) ? ` (fonds cité : ${c.auteur})` : ""),
     source: c.url, licence: c.licence, taille: c.taille

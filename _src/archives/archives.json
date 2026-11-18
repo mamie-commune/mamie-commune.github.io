@@ -571,7 +571,7 @@
    "auteur": "Washington Area Spark",
    "mouvement": "Black Panthers",
    "territoire": "États-Unis",
-   "type": "Tract",
+   "type": "Document imprimé ou manuscrit",
    "description": "Tract du Black Panther Party annonçant le programme de petit-déjeuner gratuit pour les enfants, avec le lieu et l'horaire.",
    "contexte": "Tract annonçant un petit-déjeuner gratuit pour les enfants, vers 1970.",
    "pages": [
@@ -867,7 +867,7 @@
    "auteur": "Maxime Lathuilière",
    "mouvement": "ZAD et luttes écologistes",
    "territoire": "France",
-   "type": "Document imprimé ou manuscrit",
+   "type": "Photographie",
    "description": "L'intérieur de la bibliothèque du Taslu à la ZAD, avec des étagères de livres et des tables.",
    "contexte": "Le Taslu, la bibliothèque de la ZAD, au lieu-dit la Rolandière, en août 2018.",
    "pages": [
@@ -1059,7 +1059,7 @@
    "auteur": "Unknown author Unknown author",
    "mouvement": "Luttes LGBT",
    "territoire": "États-Unis",
-   "type": "Tract",
+   "type": "Photographie",
    "description": "Tract annonçant le Christopher Street Liberation Day du 28 juin 1970 à New York.",
    "contexte": "Le tract du Christopher Street Liberation Day, le 28 juin 1970 : la première marche des fiertés, un an après Stonewall.",
    "pages": [
@@ -1731,7 +1731,7 @@
    "auteur": "Unknown author Unknown author",
    "mouvement": "Histoire syndicale et action directe",
    "territoire": "Chine",
-   "type": "Tract",
+   "type": "Photographie",
    "description": "Tract tapé à la machine titré « Pour la victoire des grévistes de Lip », 1973.",
    "contexte": "Un des nombreux tracts de soutien aux grévistes de Lip, ici publié par un groupe maoïste, en 1973.",
    "pages": [
@@ -2283,7 +2283,7 @@
    "auteur": "Rafael Farga i Pellicer",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Suisse",
-   "type": "Journal et périodique",
+   "type": "Gravure, dessin et peinture",
    "description": "Dessin : Bakounine debout, le bras tendu, parle devant une salle.",
    "contexte": "Bakounine à la tribune du congrès de Bâle, en 1869, dessiné par le délégué catalan Rafael Farga i Pellicer.",
    "pages": [
@@ -2307,7 +2307,7 @@
    "auteur": "photographe inconnu",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Document imprimé ou manuscrit",
+   "type": "Photographie",
    "description": "Photographie de groupe : trois hommes debout, quatre femmes et une enfant assises.",
    "contexte": "Naples, juin 1866, l'année du Catéchisme . Debout : Giuseppe Fanelli, Bakounine et Saverio Friscia. Assise à gauche, un livre à la main, Antonia Kwiatkowska, la compagne de Bakounine.",
    "pages": [
@@ -2331,7 +2331,7 @@
    "auteur": "Heinrich Mitreuter",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Gravure, dessin et peinture",
+   "type": "Portrait",
    "description": "Portrait gravé de Bakounine jeune, cheveux bouclés et moustache.",
    "contexte": "Bakounine à 29 ans, en 1843, d'après un dessin de Heinrich Mitreuter.",
    "pages": [
@@ -2451,7 +2451,7 @@
    "auteur": "dessinateur inconnu",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "États-Unis",
-   "type": "Journal et périodique",
+   "type": "Gravure, dessin et peinture",
    "description": "Dessin de presse : Malatesta en chapeau melon.",
    "contexte": "Malatesta dessiné dans un journal américain en 1902.",
    "pages": [
@@ -2571,7 +2571,7 @@
    "auteur": "Takuma Kajiwara",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Photographie",
+   "type": "Portrait",
    "description": "Emma Goldman assise, la main au menton, lunettes rondes.",
    "contexte": "Emma Goldman vers 1911, photographiée par Takuma Kajiwara.",
    "pages": [
@@ -2691,7 +2691,7 @@
    "auteur": "Nadar",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Document imprimé ou manuscrit",
+   "type": "Portrait",
    "description": "Proudhon, barbe et petites lunettes, le regard baissé.",
    "contexte": "Pierre-Joseph Proudhon photographié par Nadar, entre 1854 et 1865.",
    "pages": [
@@ -2715,7 +2715,7 @@
    "auteur": "Jacques-Ernest Bulloz (attribué), d'après Gustave Courbet",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Gravure, dessin et peinture",
+   "type": "Photographie",
    "description": "Photographie ancienne d'un tableau : Proudhon assis sur des marches, ses deux filles jouant à côté de lui.",
    "contexte": "Proudhon et ses enfants en 1853 , le tableau de son ami Gustave Courbet (1865), sur une photographie ancienne annotée à la main.",
    "pages": [
@@ -2739,7 +2739,7 @@
    "auteur": "Émile Desmaisons",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "France",
-   "type": "Gravure, dessin et peinture",
+   "type": "Portrait",
    "description": "Portrait gravé de Proudhon en costume, 1848.",
    "contexte": "Proudhon en 1848, l'année où il est élu à l'Assemblée nationale. Lithographie d'Émile Desmaisons.",
    "pages": [
@@ -2907,7 +2907,7 @@
    "auteur": "Nadar",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Photographie",
+   "type": "Portrait",
    "description": "Élisée Reclus de trois quarts, barbe et cheveux en bataille.",
    "contexte": "Élisée Reclus photographié par Nadar, vers 1900.",
    "pages": [
@@ -3099,7 +3099,7 @@
    "auteur": "Henry P. Moore",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Photographie",
+   "type": "Portrait",
    "description": "Un groupe d'hommes, de femmes et d'enfants noirs pose devant des cabanes en bois.",
    "contexte": "Des esclaves de la plantation du général sudiste Thomas Drayton, à Hilton Head (Caroline du Sud), photographiés par Henry P. Moore en 1862, deux ans après l'article de Reclus.",
    "pages": [
@@ -3122,8 +3122,8 @@
    "incertitude": "",
    "auteur": "Martin M. Lawrence",
    "mouvement": "Histoire des idées anarchistes",
-   "territoire": "Non précisé",
-   "type": "Portrait",
+   "territoire": "États-Unis",
+   "type": "Photographie",
    "description": "John Brown debout, longue barbe blanche, une main dans la poche.",
    "contexte": "John Brown en mai 1859, quelques mois avant le raid de Harpers Ferry.",
    "pages": [
@@ -3146,7 +3146,7 @@
    "incertitude": "",
    "auteur": "graveur inconnu, Bibliothèque du Congrès",
    "mouvement": "Histoire des idées anarchistes",
-   "territoire": "Non précisé",
+   "territoire": "États-Unis",
    "type": "Gravure, dessin et peinture",
    "description": "Gravure : des soldats enfoncent la porte d'un bâtiment avec une échelle.",
    "contexte": "Harpers Ferry, octobre 1859 : les marines donnent l'assaut au bâtiment où John Brown et ses compagnons sont retranchés (gravure de presse).",
@@ -3171,7 +3171,7 @@
    "auteur": "Nadar",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Photographie",
+   "type": "Portrait",
    "description": "Pierre Kropotkine âgé, grande barbe blanche et petites lunettes.",
    "contexte": "Pierre Kropotkine photographié par Nadar, vers 1900.",
    "pages": [
@@ -3483,7 +3483,7 @@
    "auteur": "Aristide Delannoy",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Document imprimé ou manuscrit",
+   "type": "Portrait",
    "description": "Couverture de la revue Les Hommes du jour : portrait dessiné d'Émile Pouget.",
    "contexte": "Émile Pouget en couverture des Hommes du jour , dessiné par Aristide Delannoy.",
    "pages": [
@@ -3579,7 +3579,7 @@
    "auteur": "Le Père Peinard",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Journal et périodique",
+   "type": "Gravure, dessin et peinture",
    "description": "Dessin : un gros bourgeois à tête de porc dort dans un fauteuil, posé sur un tas de crânes.",
    "contexte": "« La Bourgeoisie », un dessin du Père Peinard , le journal d'Émile Pouget.",
    "pages": [
@@ -3651,7 +3651,7 @@
    "auteur": "Adelaide D. Thayer",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Photographie",
+   "type": "Portrait",
    "description": "Voltairine de Cleyre assise sur un perron, un chaton dans les bras.",
    "contexte": "Voltairine de Cleyre en août 1898, photographiée par Adelaide Thayer.",
    "pages": [
@@ -3699,7 +3699,7 @@
    "auteur": "photographe inconnu",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Journal et périodique",
+   "type": "Portrait",
    "description": "Portrait rond de Voltairine de Cleyre, paru dans un journal.",
    "contexte": "Voltairine de Cleyre dans la presse en 1906.",
    "pages": [
@@ -3723,7 +3723,7 @@
    "auteur": "Friedrich Engels",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Gravure, dessin et peinture",
+   "type": "Photographie",
    "description": "Croquis à la plume : un profil d'homme à lunettes, une cigarette aux lèvres.",
    "contexte": "Max Stirner dessiné de mémoire par Friedrich Engels. On ne connaît aucune photographie de lui.",
    "pages": [
@@ -3747,7 +3747,7 @@
    "auteur": "atelier Nadar",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Portrait",
+   "type": "Photographie",
    "description": "Sébastien Faure, moustache relevée, en costume.",
    "contexte": "Sébastien Faure dans l'atelier Nadar.",
    "pages": [
@@ -3771,7 +3771,7 @@
    "auteur": "préfecture de police",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Journal et périodique",
+   "type": "Photographie",
    "description": "Photographie d'identité de Sébastien Faure, avec un numéro et son nom écrit à la main.",
    "contexte": "Sébastien Faure fiché par la police, sur une photographie anthropométrique.",
    "pages": [
@@ -3867,7 +3867,7 @@
    "auteur": "Jack Abeillé",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "France",
-   "type": "Journal et périodique",
+   "type": "Portrait",
    "description": "Gravure : une mansarde encombrée de papiers, une cour et un portrait.",
    "contexte": "Les bureaux de La Révolte , le journal de Jean Grave, sous les toits du 140 rue Mouffetard à Paris, dessinés en 1893.",
    "pages": [
@@ -3891,7 +3891,7 @@
    "auteur": "Elliott & Fry",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Photographie",
+   "type": "Portrait",
    "description": "Charles Darwin âgé, longue barbe blanche et chapeau noir.",
    "contexte": "Charles Darwin en 1881, photographié par Elliott & Fry.",
    "pages": [
@@ -3963,7 +3963,7 @@
    "auteur": "Agence Rol",
    "mouvement": "Histoire des idées anarchistes",
    "territoire": "Non précisé",
-   "type": "Photographie",
+   "type": "Portrait",
    "description": "Madeleine Pelletier debout sur un balcon, en veste et jupe sombres.",
    "contexte": "Madeleine Pelletier en mars 1910, photographiée par l'agence Rol. Cette année-là, elle se présente aux élections législatives, alors que les femmes n'ont pas le droit de vote.",
    "pages": [

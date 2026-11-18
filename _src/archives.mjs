@@ -48,16 +48,16 @@ const TERR = [["Kanaky", /kanak|nouvelle-calédonie|nouméa/i], ["Mexique", /mex
   ["Ukraine", /ukrain|houlia|makhno/i], ["Russie", /russie|russe|cronstadt|kronstadt|pétersbourg|moscou|soviét/i], ["Syrie (Rojava)", /rojava|syrie|kobané|kurde/i], ["Corée et Mandchourie", /corée|coréen|mandchou/i],
   ["Japon", /japon|tokyo/i], ["États-Unis", /états-unis|harpers ferry|virginie|john brown|haymarket|chicago|new york|seattle|paterson|californie|oakland|américain/i], ["Royaume-Uni", /londres|angleterre|britann/i], ["Italie", /itali|rome|milan/i],
   ["Suisse", /suisse|genève|bâle|saint-imier|jura|lausanne/i], ["Allemagne", /allemagne|allemand|berlin|munich|bavière/i], ["Belgique", /belgique|bruxelles/i], ["Algérie", /algérie|alger/i], ["Turquie", /turquie|turc/i],
-  ["France", /france|français|paris|lyon|marseille|nantes|notre-dame-des-landes|bretagne|courrières|besançon|lip|larzac|sainte-soline|montmartre|versailles|bordeaux|rouen|lille|flins|billancourt|sorbonne|nanterre|saint-nazaire|bastille|rond-point/i],
-  ["Pays-Bas", /pays-bas|amsterdam/i], ["Autriche", /autriche|vienne/i], ["Pologne", /pologne|varsovie/i], ["Portugal", /portugal|lisbonne/i], ["Chine", /chine|chinois|pékin|shanghai/i], ["Inde", /inde|indien/i], ["Brésil", /brésil/i], ["Cuba", /cuba/i]];
+  ["France", /france|français|paris|lyon|marseille|nantes|notre-dame-des-landes|bretagne|courrières|besançon|blipb|larzac|sainte-soline|montmartre|versailles|bordeaux|rouen|lille|flins|billancourt|sorbonne|nanterre|saint-nazaire|bastille|rond-point/i],
+  ["Pays-Bas", /pays-bas|amsterdam/i], ["Autriche", /autriche|vienneb/i], ["Pologne", /pologne|varsovie/i], ["Portugal", /portugal|lisbonne/i], ["Chine", /chine|chinois|pékin|shanghai/i], ["Inde", /bindeb|indien/i], ["Brésil", /brésil/i], ["Cuba", /cuba/i]];
 const TERR_MOUV = { commune: "France", mai68: "France", gj: "France", zad: "France", slt: "France", makhno: "Ukraine", espagne: "Espagne", zapatistes: "Mexique", oaxaca: "Mexique", argentine: "Argentine", kanaky: "Kanaky", rojava: "Syrie (Rojava)", shinmin: "Corée et Mandchourie", panthers: "États-Unis" };
 // Type : d'abord la légende de la bande (alt et légende), puis le reste ; une photo d'une personne est un portrait.
-const TYPE = (leg, tout) => /affiche|poster/i.test(leg) ? "Affiche" : /tract/i.test(leg) ? "Tract"
-  : /photographi|photo|portrait/i.test(leg) ? (/photographié|photographiée|portrait|pose/i.test(leg) ? "Portrait" : "Photographie")
+const TYPE = (leg, tout) => /affiche|poster/i.test(leg) ? "Affiche" : /\btract\b/i.test(leg) ? "Tract"
+  : /photographi|\bphoto\b|portrait/i.test(leg) ? (/photographié|photographiée|portrait|\bpose\b/i.test(leg) ? "Portrait" : "Photographie")
   : /gravure|dessin|caricature|lithographie|illustration|peinture|tableau|fresque|estampe/i.test(leg) ? "Gravure, dessin et peinture"
   : /journal|une du|numéro|périodique|hebdomadaire|quotidien/i.test(leg) ? "Journal et périodique"
   : /brochure|manuscrit|couverture|page de titre|lettre|programme|déclaration|carte d'adhérent|copie/i.test(leg) ? "Document imprimé ou manuscrit"
-  : /affiche|btractb|gravure|dessin|journal/i.test(tout) ? TYPE(tout, "") : "Photographie";
+  : /affiche|\btract\b|gravure|dessin|journal/i.test(tout) ? TYPE(tout, "") : "Photographie";
 const annee = (s) => { const m = String(s).match(/\b(1[5-9]\d\d|20[0-2]\d)\b/); return m ? Number(m[1]) : null; };
 
 const docs = credits.map((c) => {

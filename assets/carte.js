@@ -18,13 +18,13 @@
   const regionDe = (p) => (p.pays && p.pays !== "France" ? "" : REGION_DE[p.dep] || "");
   // Ressources du site à proposer avec chaque catégorie (« pour aller plus loin » dans les fiches).
   const RES_CAT = {
-    libertaire: [["Dix questions sur l'anarchisme", "livres/dix-questions-anarchisme"]], syndicat: [["Le syndicalisme", "s-organiser#syndicalisme"], ["Lancer une grève", "agir/lancer-une-greve"]],
+    libertaire: [["Dix questions sur l'anarchisme", "livres/dix-questions-anarchisme"], ["Parcours : introduction à l'anarchisme", "universite/introduction-anarchisme"]], syndicat: [["Le syndicalisme", "s-organiser#syndicalisme"], ["Lancer une grève", "agir/lancer-une-greve"], ["Parcours : histoire de la CNT", "universite/histoire-cnt"]],
     association: [["Trouver des alliés", "trouver-des-allies#associations"]], antifa: [["Le tiroir Antifascisme", "antifascisme/"]], librairie: [["La bibliothèque de Mamie", "bibliotheque/"]],
-    lieu: [["Bibliothèques populaires", "s-entraider#bibliotheques-populaires"]], cooperative: [["Coopératives", "s-entraider#cooperatives"]], "centre-social": [["S'entraider", "s-entraider"]],
+    lieu: [["Bibliothèques populaires", "s-entraider#bibliotheques-populaires"], ["Parcours : culture et histoire des ZAD", "universite/culture-zad"]], cooperative: [["Coopératives", "s-entraider#cooperatives"]], "centre-social": [["S'entraider", "s-entraider"]],
     feministe: [["Féminisme", "se-defendre#feminisme"], ["L'autodéfense féministe", "manif/autodefense-feministe"]], antiraciste: [["Ressources antiracistes", "ressources/?theme=antiracisme"]],
     media: [["Médias indépendants", "creer#medias"]], solidarite: [["Monter une caisse de solidarité", "agir/caisse-de-solidarite"]],
-    infokiosque: [["Affiches, tracts, fanzines", "creer"], ["Le centre de ressources", "ressources/"]], bibliotheque: [["Bibliothèques populaires", "s-entraider#bibliotheques-populaires"], ["La bibliothèque de Mamie", "bibliotheque/"]],
-    cantine: [["Cantines populaires", "s-entraider#cantines"]], radio: [["Médias indépendants", "creer#medias"]], imprimerie: [["Affiches et tracts à imprimer", "agir/affiches-et-tracts"]],
+    infokiosque: [["Affiches, tracts, fanzines", "creer"], ["Le centre de ressources", "ressources/"]], bibliotheque: [["Bibliothèques populaires", "s-entraider#bibliotheques-populaires"], ["La bibliothèque de Mamie", "bibliotheque/"], ["Les archives historiques", "archives/"]],
+    cantine: [["Cantines populaires", "s-entraider#cantines"], ["Monter une caisse de solidarité", "agir/caisse-de-solidarite"]], radio: [["Médias indépendants", "creer#medias"], ["Radios libres, dans la bibliothèque audio", "audio/#culture"]], imprimerie: [["Affiches et tracts à imprimer", "agir/affiches-et-tracts"]],
     atelier: [["S'entraider", "s-entraider"], ["Les outils de Mamie", "outils/"]]
   };
   const MOIS = 12; // au-delà, une fiche est signalée comme ancienne
@@ -61,7 +61,7 @@
   /* ---------- fiche descriptive ---------- */
   function fiche(p) {
     const c = CATS[p.c] || { label: p.c, color: "#999" }, fr = fraicheur(p);
-    const res = [...(p.res || []), ...(RES_CAT[p.c] || [])];
+    const res = [...(p.res || []), ...(RES_CAT[p.c] || [])].filter(([, u], i, t) => t.findIndex(([, v]) => v.replace(//$/, "") === u.replace(//$/, "")) === i);
     return `<div class="fiche-lieu"><span class="pcat" style="border-left-color:${c.color}">${esc(c.label)}</span>
       <h2 class="fiche-lieu__nom">${esc(p.n)}</h2>${p.org ? `<p class="fiche-lieu__org">${esc(p.org)}</p>` : ""}<p class="fiche-lieu__lieu">${esc(lieuDe(p) || (p.portee === "national" ? "Réseau national" : ""))}</p>
       ${p.sp ? `<p class="fiche-lieu__sp">${p.sp.split(/\s*,\s*/).map((x) => `<span>${esc(x)}</span>`).join("")}</p>` : ""}

@@ -267,6 +267,51 @@ $accroches = @{
 # Type de contenu affiché sur chaque page (et dans la recherche) : chaque rubrique a son modèle de page (classe gpage--dossier).
 $types = @{ "encyclopedie" = "Dossier encyclopédique"; "universite" = "Parcours"; "figures" = "Portrait"; "guides" = "Guide numérique"; "bibliotheque" = "Fiche de lecture"; "experiences" = "Histoire de lutte"; "antifascisme" = "Dossier antifasciste"; "manif" = "Guide pratique"; "agir" = "Fiche pratique" }
 function Type-De($folder, $g) { if ($folder -eq "manif" -and $g.cat -eq "Legal Team") { return "Guide juridique" }; return $types[$folder] }
+# ---------- renvois entre les rubriques (novembre 2026) ----------
+# Une page citée par un parcours de l'université populaire ou par une lecture de la bibliothèque audio reçoit, en bas,
+# un encadré qui renvoie vers ce parcours ou cette écoute (même principe que les renvois de l'encyclopédie).
+# Clé des tables : « dossier/page.html ». Les parcours sont lus dans _src/universite/*.txt, les écoutes dans _src/audio/catalogue.json.
+$univRetour = @{}
+foreach ($fu in Get-ChildItem (Join-Path $src "universite") -Filter *.txt) {
+  foreach ($bloc in ((Read-Utf8 $fu.FullName) -split '(?m)^(?==== )')) {
+    $h = [regex]::Match($bloc, '^=== ([^|]+?) \| [^|]*\| ([^|]+?) \| [^|]*\| (.+)')
+    if (-not $h.Success) { continue }
+    $p = [pscustomobject]@{ slug = $h.Groups[1].Value.Trim(); title = $h.Groups[2].Value.Trim(); sum = $h.Groups[3].Value.Trim() }
+    foreach ($m in [regex]::Matches($bloc, 'href="\.\./([a-z0-9-]+/[a-z0-9-]+\.html)')) {
+      $k = $m.Groups[1].Value
+      if (-not $univRetour[$k]) { $univRetour[$k] = [ordered]@{} }
+      $univRetour[$k][$p.slug] = $p
+    }
+  }
+}
+$audioRetour = @{}
+foreach ($o in @(((Read-Utf8 (Join-Path (Join-Path $src "audio") "catalogue.json")) | ConvertFrom-Json).oeuvres)) {
+  foreach ($l in @($o.liens)) {
+    if (-not $l) { continue }
+    $k = ([string]$l[1]).Split("#")[0]
+    if ($k -notmatch '/$' -and $k -match '^[a-z0-9-]+/[a-z0-9-]+$') { $k = "$k.html" } else { continue }
+    if (-not $audioRetour[$k]) { $audioRetour[$k] = [ordered]@{} }
+    $audioRetour[$k][$o.id] = $o
+  }
+}
+function Renvois-Html($cle, $root) {
+  $html = ""
+  $u = $univRetour[$cle]
+  if ($u) { $html += "<aside class=""ency-renvoi renvoi--univ""><h2 class=""ency-renvoi__tit"">Dans l'université populaire</h2><ul>" + (($u.Values | ForEach-Object { "<li><a href=""${root}universite/$($_.slug).html""><b>Parcours · $(Esc $_.title)</b><span>$(Esc $_.sum)</span></a></li>" }) -join "") + "</ul></aside>" }
+  $a = $audioRetour[$cle]
+  if ($a) { $html += "<aside class=""ency-renvoi renvoi--audio""><h2 class=""ency-renvoi__tit"">À écouter</h2><ul>" + (($a.Values | ForEach-Object { "<li><a href=""${root}audio/$($_.id).html""><b>$(Esc $_.titre) · $(Esc $_.auteur)</b><span>Lu à voix haute, dans la bibliothèque audio.</span></a></li>" }) -join "") + "</ul></aside>" }
+  return $html
+}
+
+# Fiche du centre de ressources : les structures de la carte qui renvoient vers elle (champ « ressources » de data/lieux.geojson).
+$lieuxRetour = @{}
+foreach ($fe in @(((Read-Utf8 (Join-Path (Join-Path $site "data") "lieux.geojson")) | ConvertFrom-Json).features)) {
+  foreach ($rs in @($fe.properties.ressources)) { if ($rs -and $rs.url) { $k = ([string]$rs.url) -replace '.html$', ''; if (-not $lieuxRetour[$k]) { $lieuxRetour[$k] = @() }; $lieuxRetour[$k] += $fe.properties } }
+}
+function Lieux-De($cle) {
+  $l = $lieuxRetour[$cle]; if (-not $l) { return "" }
+  return "<aside class=""ency-renvoi renvoi--carte""><h2 class=""ency-renvoi__tit"">Sur la carte des collectifs</h2><ul>" + (($l | ForEach-Object { "<li><a href=""../carte.html?q=$([uri]::EscapeDataString($_.nom))""><b>$(Esc $_.nom)</b><span>$(Esc $_.ville) · $(Esc $_.description)</span></a></li>" }) -join "") + "</ul></aside>"
+}
 function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar) {
   $accroche = $accroches[$folder]
   for ($i = 0; $i -lt $items.Count; $i++) {
@@ -307,6 +352,7 @@ function Build-Collection($items, $folder, $nav, $label, $kind, $credit, $jsVar)
     $retour = ""
     $rv = $encyRetour["$folder/$($g.slug).html"]
     if ($rv) { $retour = "<aside class=""ency-renvoi"" aria-labelledby=""ency-$($g.slug)""><h2 id=""ency-$($g.slug)"" class=""ency-renvoi__tit"">Dans l'encyclopédie des mouvements</h2><ul>" + (($rv.Values | ForEach-Object { "<li><a href=""../encyclopedie/$($_.slug).html""><b>$(Esc $_.cat) · $(Esc $_.title)</b><span>$(Esc $_.sum)</span></a></li>" }) -join "") + "</ul></aside>" }
+    $retour += Renvois-Html "$folder/$($g.slug).html" "../"
     $body = @"
 <header class="gtitle gtitle--$folder"><div class="wrap">
   <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">$label</a><span>/</span><a href="index.html#$(Slug $g.cat)">$(Esc $g.cat)</a></p>
@@ -394,6 +440,7 @@ for ($i = 0; $i -lt $livres.Count; $i++) {
   <article class="prose livre">
 $($l.doc.html)
 <p class="credit">$(if ($l.accord) { "Texte intégral, diffusé avec l'accord des ayants droit.$srcLine Mis en page par la bande à Mamie." } else { "Texte intégral, domaine public.$srcLine Mis en page par la bande à Mamie d'après la Bibliothèque anarchiste." })</p>
+$(Renvois-Html "livres/$($l.id).html" "../")
   <nav class="gnext" aria-label="Livres voisins">$nav2</nav>
   </article>
   <aside class="toc"><h2>Sommaire</h2><ol>$toc</ol></aside>
@@ -696,6 +743,7 @@ foreach ($r in $ressources) {
   <h2 id="fiche">La fiche</h2>
   <div class="tbl"><table class="res-table"><tbody>$table</tbody></table></div>
   $compl
+  $(Renvois-Html "ressources/$($r.id).html" "../")$(Lieux-De "ressources/$($r.id)")
   <p class="credit">Fiche documentaire rédigée par la bande à Mamie. Elle présente la ressource et renvoie vers sa source originale : le contenu n'est pas recopié ici. Une erreur, un lien mort ? <a href="../contribuer.html">Dis-le à la bande</a>.</p>
   </article>
 </div>
@@ -832,6 +880,9 @@ $periode = { param($an) if (-not $an) { "inconnue" } elseif ($an -lt 1800) { "av
 $cartesArch = foreach ($a in $archives) {
   $per = & $periode $a.annee
   $pages = (@($a.pages) | Where-Object { $_ } | ForEach-Object { "<li><a href=""../$($_.page).html"">$(Esc $_.titre)</a></li>" }) -join ""
+  # Les parcours de l'université populaire qui passent par les pages où ce document est montré.
+  $parcA = [ordered]@{}; foreach ($pg in @($a.pages)) { if ($pg -and $univRetour["$($pg.page).html"]) { foreach ($v in $univRetour["$($pg.page).html"].Values) { $parcA[$v.slug] = $v } } }
+  $parcHtml = if ($parcA.Count) { "<p>Pour le replacer dans une histoire plus large, les parcours de l'université populaire :</p><ul>" + (($parcA.Values | ForEach-Object { "<li><a href=""../universite/$($_.slug).html"">$(Esc $_.title)</a></li>" }) -join "") + "</ul>" } else { "" }
   $texteTypes = @("Affiche", "Tract", "Journal et périodique", "Document imprimé ou manuscrit")
   $transc = if ($a.transcription) { "<tr><th scope=""row"">Transcription</th><td>$(Esc $a.transcription)</td></tr>" } elseif ($texteTypes -contains $a.type) { "<tr><th scope=""row"">Transcription</th><td>Pas encore de transcription. Tu peux lire le texte sur l'image en grand, ou <a href=""../contribuer.html"">proposer une transcription</a>.</td></tr>" } else { "" }
   $ligne = { param($k, $v) if ($v) { "<tr><th scope=""row"">$k</th><td>$v</td></tr>" } }
@@ -855,6 +906,7 @@ $cartesArch = foreach ($a in $archives) {
   <h2 id="contexte">Contexte historique</h2>
   <p>$(Esc $a.contexte)</p>
   $(if ($pages) { "<p>Ce document est montré et expliqué dans :</p><ul>$pages</ul>" })
+  $parcHtml
   <h2 id="fiche">La fiche</h2>
   <div class="tbl"><table class="res-table"><tbody>$table</tbody></table></div>
   <p class="credit">Fiche documentaire établie par la bande à Mamie à partir de la notice de Wikimedia Commons et des sources du dossier où le document apparaît. Rien n'est inventé : ce qu'on ne sait pas est dit. Une erreur, une date, une transcription ? <a href="../contribuer.html">Dis-le à la bande</a>.</p>

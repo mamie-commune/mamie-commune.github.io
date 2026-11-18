@@ -152,6 +152,13 @@ Page `mouvement-17-octobre` (source `_src/pages/mouvement-17-octobre.html`, scri
 
 Les photos des dossiers Histoires de luttes sont dans `assets/img/revolutions/`, avec auteur, licence et source dans `credits.txt`. Elles viennent toutes de **Wikimedia Commons** : documents d'époque dans le domaine public, ou photos de reportage sous licence libre (CC0, CC BY, CC BY-SA). **Jamais d'image générée par IA, ni de photo colorisée** (demande expresse). Chaque image a une légende et un crédit (auteur · licence · lien Commons) : `<figure class="photo">` (`photo photo--portrait` pour une image en hauteur). Pour en ajouter : compléter la liste dans `_src/images-revolutions.ps1` et le relancer.
 
+## Renvois entre les rubriques (novembre 2026)
+
+- **Automatiques**, calculés par `_src/build.ps1` (fonctions `Renvois-Html` et `Lieux-De`, juste avant `Build-Collection`) : toute page citée par un parcours de `_src/universite/*.txt` reçoit l'encadré « Dans l'université populaire » ; toute page citée dans les `liens` d'une lecture de `_src/audio/catalogue.json` reçoit « À écouter » ; toute fiche du centre de ressources citée dans les `ressources` d'une structure de `data/lieux.geojson` reçoit « Sur la carte des collectifs ». Ça vaut pour les collections (histoires de luttes, fiches, portraits, encyclopédie, guides…), les livres complets et les fiches de ressources : il suffit d'écrire le lien dans le parcours, la lecture ou la structure.
+- **Fiches d'archives** : « montré dans » (les pages) et les parcours qui passent par ces pages. **Photos des dossiers** : lien « fiche d'archive ». **Carte** : chaque catégorie propose ses lectures dans `RES_CAT` de `assets/carte.js` (parcours, archives, audio), sans doublon avec les `ressources` de la structure.
+- **Vers « Mon dossier »** : bouton sous le titre de chaque fiche, et bouton du suivi des modules pour un parcours entier.
+- Après une modification d'un script de `assets/`, vérifier la syntaxe : `node --check assets/<fichier>.js`.
+
 ## Archives historiques (`archives/`, novembre 2026)
 
 - Une **fiche documentaire par image d'archive** du site (`assets/img/revolutions/`) : titre, date, autrice ou auteur, type (photographie, portrait, affiche, tract, journal, document, gravure), mouvement, territoire, provenance, source vérifiable (notice Wikimedia Commons), statut juridique, description accessible (le texte alternatif), contexte (notre légende et les pages où le document est montré), transcription quand elle existe.

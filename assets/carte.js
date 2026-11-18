@@ -61,7 +61,9 @@
   /* ---------- fiche descriptive ---------- */
   function fiche(p) {
     const c = CATS[p.c] || { label: p.c, color: "#999" }, fr = fraicheur(p);
-    const res = [...(p.res || []), ...(RES_CAT[p.c] || [])].filter(([, u], i, t) => t.findIndex(([, v]) => v.replace(//$/, "") === u.replace(//$/, "")) === i);
+    // Sans doublon : un lien déjà donné par la structure n'est pas répété par sa catégorie.
+    const sansSlash = (u) => (u.endsWith("/") ? u.slice(0, -1) : u);
+    const res = [...(p.res || []), ...(RES_CAT[p.c] || [])].filter(([, u], i, t) => t.findIndex(([, v]) => sansSlash(v) === sansSlash(u)) === i);
     return `<div class="fiche-lieu"><span class="pcat" style="border-left-color:${c.color}">${esc(c.label)}</span>
       <h2 class="fiche-lieu__nom">${esc(p.n)}</h2>${p.org ? `<p class="fiche-lieu__org">${esc(p.org)}</p>` : ""}<p class="fiche-lieu__lieu">${esc(lieuDe(p) || (p.portee === "national" ? "Réseau national" : ""))}</p>
       ${p.sp ? `<p class="fiche-lieu__sp">${p.sp.split(/\s*,\s*/).map((x) => `<span>${esc(x)}</span>`).join("")}</p>` : ""}

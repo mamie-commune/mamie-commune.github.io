@@ -1,104 +1,79 @@
 {
-  "maj": "2026-11-18",
-  "titresLus": 136,
+  "maj": "2026-11-19",
+  "titresLus": 149,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 11,
+      "score": 15,
       "titres": [
         {
-          "titre": "« C'est le capitalisme qui l'a tué » : cette femme d'agriculteur témoigne après le suicide de son mari",
-          "url": "https://reporterre.net/Suicide-d-agriculteur-en-Bretagne-C-est-le-capitalisme-qui-a-tue-mon-mari",
-          "source": "Reporterre",
-          "date": "2026-11-18"
-        },
-        {
-          "titre": "Gaza, Iran, Ukraine : les guerres tuent aussi le climat, mais la COP n'en parle pas",
-          "url": "https://basta.media/Gaza-Iran-Ukraine-guerres-tuent-aussi-le-climat-mais-la-COP-n-en-parle-pas",
+          "titre": "« Voici les cendres de celles et ceux que vous allez tuer avec les pesticides de Omnibus X »",
+          "url": "https://basta.media/action-pesticides-Bruxelles-Omnibus-X-Fleur-Breteau-Cancer-colere-cendres-commissaire-europeen-sante-Oliver-Varhely",
           "source": "Basta!",
-          "date": "2026-11-18"
+          "date": "2026-11-19"
         },
         {
-          "titre": "Des trous géants au milieu des champs : l'agriculture intensive fait des ravages en Turquie",
-          "url": "https://reporterre.net/Ma-maison-risque-d-etre-engloutie-en-Turquie-le-sol-s-effondre-a-cause-de-l-agriculture",
-          "source": "Reporterre",
-          "date": "2026-11-17"
+          "titre": "Vallée de la Roya : le Resto paysan menacé ?",
+          "url": "https://www.politis.fr/api/proxy/?articleID=527122",
+          "source": "Politis",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Une vingtaine de degrés toute l'année, sans dépasser 26 : un nouvel immeuble à Lyon défit les saisons et permet de garder le chauffage et la climatisation éteints",
+          "url": "https://www.franceinfo.fr/environnement/une-vingtaine-de-degres-toute-l-annee-sans-depasser-26-un-nouvel-immeuble-a-lyon-defit-les-saisons-et-permet-de-garder-le-chauffage-et-la-climatisation-eteints_8289011.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-18"
         }
       ]
     },
     {
       "id": "extreme-droite",
       "nom": "l'extrême droite",
-      "score": 8,
+      "score": 7,
       "titres": [
         {
-          "titre": "Offensive néolibérale, assassinats de leaders sociaux… Retour sur les 100 premiers jours du gouvernement d’extrême droite en Colombie",
-          "url": "https://www.humanite.fr/monde/abelardo-de-la-espriella/offensive-neoliberale-assassinats-de-leaders-sociaux-retour-sur-les-100-premiers-jours-du-gouvernement-dextreme-droite-en-colombie",
-          "source": "L'Humanité",
-          "date": "2026-11-18"
+          "titre": "Fréquentations néonazies et lobbying au Parlement européen : Némésis, passerelle entre les extrêmes droites",
+          "url": "https://basta.media/Nemesis-passerelle-entre-extremes-droites-neonazis-RN-Reconquete-AfD-Parlement-europeen-Alice-Cordier",
+          "source": "Basta!",
+          "date": "2026-11-19"
         },
         {
-          "titre": "« Ce n’est pas la première fois que nous sommes la cible de l’extrême droite » : Nathalie Tehio de la LDH réplique à Marine Le Pen",
-          "url": "https://www.humanite.fr/politique/associations/ce-nest-pas-la-premiere-fois-que-nous-sommes-la-cible-de-lextreme-droite-nathalie-tehio-de-la-ldh-replique-a-marine-le-pen",
+          "titre": "Antisémitisme : après Jordan Bardella, le passé néofasciste de Laure Lavalette, porte-parole de Marine Le Pen, révélé par « Les Jours »",
+          "url": "https://www.humanite.fr/politique/antisemitisme/antisemitisme-apres-jordan-bardella-le-passe-neofasciste-de-laure-lavalette-porte-parole-de-marine-le-pen-revele-par-les-jours",
           "source": "L'Humanité",
-          "date": "2026-11-18"
+          "date": "2026-11-19"
         },
         {
-          "titre": "Élections anticipées en Espagne : comment l’extrême droite fait la courte échelle à la droite",
-          "url": "https://www.humanite.fr/monde/elections-en-espagne/elections-anticipees-en-espagne-comment-lextreme-droite-fait-la-courte-echelle-a-la-droite",
-          "source": "L'Humanité",
+          "titre": "L’extrême droite tue, l’État regarde ailleurs",
+          "url": "https://www.politis.fr/api/proxy/?articleID=526691",
+          "source": "Politis",
           "date": "2026-11-18"
         }
       ]
     },
     {
-      "id": "greve",
-      "nom": "les grèves",
-      "score": 6,
-      "titres": [
-        {
-          "titre": "Nationalisations, hausse des salaires, services publics… Fabien Roussel en campagne le poing levé",
-          "url": "https://www.humanite.fr/politique/election-presidentielle/nationalisations-hausse-des-salaires-services-publics-fabien-roussel-en-campagne-le-poing-leve",
-          "source": "L'Humanité",
-          "date": "2026-11-18"
-        },
-        {
-          "titre": "2027 : l’enfumage social du projet de réforme des retraites du RN",
-          "url": "https://www.humanite.fr/politique/extreme-droite/2027-lenfumage-social-du-projet-de-reforme-des-retraites-du-rn",
-          "source": "L'Humanité",
-          "date": "2026-11-18"
-        },
-        {
-          "titre": "Protection de l'enfance : le département du Nord attaqué en justice pour \"défaillance\" par le Syndicat de la magistrature et plusieurs associations",
-          "url": "https://www.franceinfo.fr/monde/europe/migrants/protection-de-l-enfance-le-departement-du-nord-attaque-en-justice-pour-defaillance-par-le-syndicat-de-la-magistrature-et-plusieurs-associations_8286659.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-17"
-        }
-      ]
-    },
-    {
-      "id": "jeunesse",
-      "nom": "la jeunesse en lutte",
+      "id": "exil",
+      "nom": "l'exil et les frontières",
       "score": 5,
       "titres": [
         {
-          "titre": "Éducation nationale : dispositif de contrôle, logique de tri… À quoi servent vraiment les évaluations nationales ?",
-          "url": "https://www.humanite.fr/societe/education-nationale/education-nationale-dispositif-de-controle-logique-de-tri-a-quoi-servent-vraiment-les-evaluations-nationales",
-          "source": "L'Humanité",
-          "date": "2026-11-18"
-        },
-        {
-          "titre": "À Rennes, des policiers déployés pour empêcher un blocus lycéen",
-          "url": "https://www.franceinfo.fr/l-actu-pour-les-jeunes/a-rennes-des-policiers-deployes-pour-empecher-un-blocus-lyceen_8286767.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "Avec quatre montées des eaux en 24 heures, ce village du Pas-de-Calais est submergé",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/avec-quatre-montees-des-eaux-en-24-heures-ce-village-du-pas-de-calais-est-submerge_8290016.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-17"
+          "date": "2026-11-19"
         },
         {
-          "titre": "Aux avant-postes de la mobilisation, les lycéens de Mayotte réclament toujours de l'eau potable",
-          "url": "https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la",
-          "source": "Reporterre",
-          "date": "2026-11-17"
+          "titre": "Inondations : des villages sous les eaux dans la Somme et le Pas-de-Calais après des pluies diluviennes",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/inondations-des-villages-sous-les-eaux-dans-la-somme-et-le-pas-de-calais-apres-des-pluies-diluviennes_8289512.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Une tornade a-t-elle balayé un village du Pas-de-Calais ? La région est à risque, selon les spécialistes et les antécédents météo",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/une-tornade-a-t-elle-balaye-un-village-du-pas-de-calais-la-region-est-a-risque-selon-les-specialistes-et-les-antecedents-meteo_8288981.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-18"
         }
       ]
     },
@@ -108,16 +83,41 @@
       "score": 5,
       "titres": [
         {
+          "titre": "105 mutilés recensés : le neurochirurgien Laurent Thinès alerte sur une répression sanglante",
+          "url": "https://www.humanite.fr/societe/mouvement-lyceen/105-mutiles-recenses-le-neurochirurgien-laurent-thines-alerte-sur-une-repression-sanglante",
+          "source": "L'Humanité",
+          "date": "2026-11-19"
+        },
+        {
+          "titre": "Refus d’obtempérer : l’ex policier de la BAC qui a tué Olivio Gomes condamné à huit ans de prison pour meurtre",
+          "url": "https://www.humanite.fr/societe/meurtre/refus-dobtemperer-lex-policier-de-la-bac-qui-a-tue-olivio-gomes-condamne-a-huit-ans-de-prison-pour-meurtre",
+          "source": "L'Humanité",
+          "date": "2026-11-19"
+        },
+        {
           "titre": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
           "url": "https://reporterre.net/On-veut-le-mettre-hors-circuit-la-repression-s-acharne-sur-Loic-le-poete-maraicher",
           "source": "Reporterre",
           "date": "2026-11-18"
+        }
+      ]
+    },
+    {
+      "id": "jeunesse",
+      "nom": "la jeunesse en lutte",
+      "score": 4,
+      "titres": [
+        {
+          "titre": "+ 35 % de primes pour les policiers, + 3 000 conseils de discipline pour les lycéens",
+          "url": "https://www.humanite.fr/politique/repression/35-de-primes-pour-les-policiers-3-000-conseils-de-discipline-pour-les-lyceens",
+          "source": "L'Humanité",
+          "date": "2026-11-19"
         },
         {
-          "titre": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
-          "url": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
+          "titre": "Aux avant-postes de la mobilisation, les lycéens de Mayotte réclament toujours de l'eau potable",
+          "url": "https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la",
           "source": "Reporterre",
-          "date": "2026-11-16"
+          "date": "2026-11-17"
         },
         {
           "titre": "Violences et humiliations : à Aubervilliers, des lycéens témoignent de la répression policière",
@@ -128,59 +128,21 @@
       ]
     },
     {
-      "id": "exil",
-      "nom": "l'exil et les frontières",
+      "id": "greve",
+      "nom": "les grèves",
       "score": 2,
       "titres": [
         {
-          "titre": "\"Il y a eu un vacarme, comme un TGV qui rentre dans la rue\" : une tornade traverse un village du Pas-de-Calais",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/il-y-a-eu-un-vacarme-comme-un-tgv-qui-rentre-dans-la-rue-une-tornade-traverse-un-village-du-pas-de-calais_8287994.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-18"
-        },
-        {
-          "titre": "14 novembre-6 décembre : Migrant’Scène, festival de la Cimade partout en France",
-          "url": "https://www.politis.fr/api/proxy/?articleID=524441",
-          "source": "Politis",
-          "date": "2026-11-12"
-        }
-      ]
-    },
-    {
-      "id": "pouvoir",
-      "nom": "le jeu politique",
-      "score": 2,
-      "titres": [
-        {
-          "titre": "Élections anticipées en Espagne : comment l’extrême droite fait la courte échelle à la droite",
-          "url": "https://www.humanite.fr/monde/elections-en-espagne/elections-anticipees-en-espagne-comment-lextreme-droite-fait-la-courte-echelle-a-la-droite",
-          "source": "L'Humanité",
-          "date": "2026-11-18"
-        },
-        {
-          "titre": "Présidentielle 2027 : en annonçant une primaire coûte que coûte, Attal, Lisnard et Retailleau défient Philippe dans une guerre des nerfs",
-          "url": "https://www.humanite.fr/politique/bruno-retailleau/presidentielle-2027-en-annoncant-une-primaire-coute-que-coute-attal-lisnard-et-retailleau-defient-philippe-dans-une-guerre-des-nerfs",
-          "source": "L'Humanité",
-          "date": "2026-11-18"
-        }
-      ]
-    },
-    {
-      "id": "vie-chere",
-      "nom": "la vie chère",
-      "score": 2,
-      "titres": [
-        {
-          "titre": "« Rester dans l’appartement devenait compliqué » : les huit mesures des associations contre la précarité énergétique",
-          "url": "https://www.humanite.fr/social-et-economie/precarite-energetique/rester-dans-lappartement-devenait-complique-les-huit-mesures-des-associations-contre-la-precarite-energetique",
-          "source": "L'Humanité",
-          "date": "2026-11-18"
-        },
-        {
-          "titre": "A La Rochelle, les fonctionnaires défendent leur pouvoir d'achat",
-          "url": "https://www.franceinfo.fr/societe/manifestations/a-la-rochelle-les-fonctionnaires-defendent-leur-pouvoir-d-achat_8286977.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
+          "titre": "Qui sont ces 660 000 fonctionnaires et contractuels payés en dessous du Smic ?",
+          "url": "https://basta.media/660000-fonctionnaires-agents-publics-payes-en-dessous-du-Smic-pompiers-communaux-atsem",
+          "source": "Basta!",
           "date": "2026-11-17"
+        },
+        {
+          "titre": "Un syndicat des eaux condamné à cause d'un gaz cancérogène dans l'eau du robinet",
+          "url": "https://reporterre.net/Un-syndicat-des-eaux-condamne-a-cause-d-un-gaz-cancerogene-dans-l-eau-du-robinet",
+          "source": "Reporterre",
+          "date": "2026-11-13"
         }
       ]
     }

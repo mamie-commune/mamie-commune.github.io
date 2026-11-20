@@ -1,54 +1,79 @@
 {
-  "maj": "2026-11-19",
-  "titresLus": 149,
+  "maj": "2026-11-20",
+  "titresLus": 138,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 15,
+      "score": 12,
       "titres": [
+        {
+          "titre": "Pesticides autour des écoles : la FCPE demande à l’État d’élargir le périmètre de non-traitement",
+          "url": "https://www.humanite.fr/environnement/agriculture/pesticides-autour-des-ecoles-la-fcpe-demande-a-letat-delargir-le-perimetre-de-non-traitement",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "Arme nucléaire : aucune limitation prévue par Donald Trump, Vladimir Poutine et Xi Jinping",
+          "url": "https://reporterre.net/Arme-nucleaire-aucune-limitation-prevue-par-Donald-Trump-Vladimir-Poutine-et-Xi-Jinping",
+          "source": "Reporterre",
+          "date": "2026-11-19"
+        },
         {
           "titre": "« Voici les cendres de celles et ceux que vous allez tuer avec les pesticides de Omnibus X »",
           "url": "https://basta.media/action-pesticides-Bruxelles-Omnibus-X-Fleur-Breteau-Cancer-colere-cendres-commissaire-europeen-sante-Oliver-Varhely",
           "source": "Basta!",
           "date": "2026-11-19"
-        },
-        {
-          "titre": "Vallée de la Roya : le Resto paysan menacé ?",
-          "url": "https://www.politis.fr/api/proxy/?articleID=527122",
-          "source": "Politis",
-          "date": "2026-11-19"
-        },
-        {
-          "titre": "Une vingtaine de degrés toute l'année, sans dépasser 26 : un nouvel immeuble à Lyon défit les saisons et permet de garder le chauffage et la climatisation éteints",
-          "url": "https://www.franceinfo.fr/environnement/une-vingtaine-de-degres-toute-l-annee-sans-depasser-26-un-nouvel-immeuble-a-lyon-defit-les-saisons-et-permet-de-garder-le-chauffage-et-la-climatisation-eteints_8289011.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-18"
         }
       ]
     },
     {
       "id": "extreme-droite",
       "nom": "l'extrême droite",
-      "score": 7,
+      "score": 8,
       "titres": [
+        {
+          "titre": "« Bataille culturelle », « provocation » et « normalisation » : la politologue Anna Lopez décrypte les piliers de l’extrême droite en Espagne",
+          "url": "https://www.humanite.fr/monde/elections-en-espagne/bataille-culturelle-provocation-et-normalisation-la-politologue-anna-lopez-decrypte-les-piliers-de-lextreme-dro",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "« Traîtres à la nation ? » de Stéphane Beaud : retour sur la grève des Bleus de 2010, « un scandale largement récupéré par la droite et l’extrême droite »",
+          "url": "https://www.humanite.fr/sports/extreme-droite/traitres-a-la-nation-de-stephane-beaud-retour-sur-la-greve-des-bleus-de-2010-un-scandale-largement-recupere-par-la-droite-et-lextreme-droite",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
+        },
         {
           "titre": "Fréquentations néonazies et lobbying au Parlement européen : Némésis, passerelle entre les extrêmes droites",
           "url": "https://basta.media/Nemesis-passerelle-entre-extremes-droites-neonazis-RN-Reconquete-AfD-Parlement-europeen-Alice-Cordier",
           "source": "Basta!",
           "date": "2026-11-19"
-        },
+        }
+      ]
+    },
+    {
+      "id": "greve",
+      "nom": "les grèves",
+      "score": 6,
+      "titres": [
         {
-          "titre": "Antisémitisme : après Jordan Bardella, le passé néofasciste de Laure Lavalette, porte-parole de Marine Le Pen, révélé par « Les Jours »",
-          "url": "https://www.humanite.fr/politique/antisemitisme/antisemitisme-apres-jordan-bardella-le-passe-neofasciste-de-laure-lavalette-porte-parole-de-marine-le-pen-revele-par-les-jours",
+          "titre": "« Il a tout de suite été embarqué par la police » : un militant CGT en garde à vue pour avoir jeté une boule de papier sur un élu RN",
+          "url": "https://www.humanite.fr/politique/cgt/il-a-tout-de-suite-ete-embarque-par-la-police-un-militant-cgt-en-garde-a-vue-pour-avoir-jete-une-boule-de-papier-sur-un-elu-rn",
           "source": "L'Humanité",
-          "date": "2026-11-19"
+          "date": "2026-11-20"
         },
         {
-          "titre": "L’extrême droite tue, l’État regarde ailleurs",
-          "url": "https://www.politis.fr/api/proxy/?articleID=526691",
-          "source": "Politis",
-          "date": "2026-11-18"
+          "titre": "Après les annonces du gouvernement, l’intersyndicale lance un nouvel appel à la grève dans la fonction publique le 1er décembre 2026",
+          "url": "https://www.humanite.fr/social-et-economie/fonction-publique/apres-les-annonces-du-gouvernement-lintersyndicale-lance-un-nouvel-appel-a-la-greve-dans-la-fonction-publique-le-1er-decembre-2026",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "« Traîtres à la nation ? » de Stéphane Beaud : retour sur la grève des Bleus de 2010, « un scandale largement récupéré par la droite et l’extrême droite »",
+          "url": "https://www.humanite.fr/sports/extreme-droite/traitres-a-la-nation-de-stephane-beaud-retour-sur-la-greve-des-bleus-de-2010-un-scandale-largement-recupere-par-la-droite-et-lextreme-droite",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
         }
       ]
     },
@@ -58,47 +83,22 @@
       "score": 5,
       "titres": [
         {
-          "titre": "Avec quatre montées des eaux en 24 heures, ce village du Pas-de-Calais est submergé",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/avec-quatre-montees-des-eaux-en-24-heures-ce-village-du-pas-de-calais-est-submerge_8290016.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "VIDEO. Un plan d'urgence déclenché dans le Pas-de-Calais face à la montée des eaux",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/un-plan-d-urgence-declenche-dans-le-pas-de-calais-face-a-la-montee-des-eaux_8292329.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "VIDEO. \"Je n'ai pas dormi de la nuit\" : une trentaine de communes du Pas-de-Calais touchées par des inondations",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/je-n-ai-pas-dormi-de-la-nuit-une-trentaine-de-communes-du-pas-de-calais-touchees-par-des-inondations_8292314.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "Pourquoi y a-t-il autant d’inondations dans le secteur du Pas-de-Calais ?",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-y-a-t-il-autant-d-inondations-dans-le-secteur-du-pas-de-calais_8290649.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
           "date": "2026-11-19"
-        },
-        {
-          "titre": "Inondations : des villages sous les eaux dans la Somme et le Pas-de-Calais après des pluies diluviennes",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/inondations-des-villages-sous-les-eaux-dans-la-somme-et-le-pas-de-calais-apres-des-pluies-diluviennes_8289512.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-19"
-        },
-        {
-          "titre": "Une tornade a-t-elle balayé un village du Pas-de-Calais ? La région est à risque, selon les spécialistes et les antécédents météo",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/tornades/une-tornade-a-t-elle-balaye-un-village-du-pas-de-calais-la-region-est-a-risque-selon-les-specialistes-et-les-antecedents-meteo_8288981.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-18"
-        }
-      ]
-    },
-    {
-      "id": "police",
-      "nom": "la répression policière",
-      "score": 5,
-      "titres": [
-        {
-          "titre": "105 mutilés recensés : le neurochirurgien Laurent Thinès alerte sur une répression sanglante",
-          "url": "https://www.humanite.fr/societe/mouvement-lyceen/105-mutiles-recenses-le-neurochirurgien-laurent-thines-alerte-sur-une-repression-sanglante",
-          "source": "L'Humanité",
-          "date": "2026-11-19"
-        },
-        {
-          "titre": "Refus d’obtempérer : l’ex policier de la BAC qui a tué Olivio Gomes condamné à huit ans de prison pour meurtre",
-          "url": "https://www.humanite.fr/societe/meurtre/refus-dobtemperer-lex-policier-de-la-bac-qui-a-tue-olivio-gomes-condamne-a-huit-ans-de-prison-pour-meurtre",
-          "source": "L'Humanité",
-          "date": "2026-11-19"
-        },
-        {
-          "titre": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
-          "url": "https://reporterre.net/On-veut-le-mettre-hors-circuit-la-repression-s-acharne-sur-Loic-le-poete-maraicher",
-          "source": "Reporterre",
-          "date": "2026-11-18"
         }
       ]
     },
@@ -108,9 +108,15 @@
       "score": 4,
       "titres": [
         {
-          "titre": "+ 35 % de primes pour les policiers, + 3 000 conseils de discipline pour les lycéens",
-          "url": "https://www.humanite.fr/politique/repression/35-de-primes-pour-les-policiers-3-000-conseils-de-discipline-pour-les-lyceens",
+          "titre": "Une enseignante convoquée par son rectorat pour un devoir sur le mouvement lycéen : les syndicats dénoncent une « atteinte à la liberté pédagogique »",
+          "url": "https://www.humanite.fr/societe/enseignement/completement-disproportionne-pour-un-devoir-facultatif-sur-le-mouvement-lyceen-une-enseignante-convoquee-sans-prealable-devant-le-rectorat",
           "source": "L'Humanité",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "Une professeure d'économie de Grenoble convoquée le 26 novembre au rectorat \"pour recueillir son point de vue\", après un devoir faisant écho au mouvement lycéen",
+          "url": "https://www.franceinfo.fr/societe/education/une-professeure-d-economie-de-grenoble-convoquee-le-26-novembre-au-rectorat-pour-recueillir-son-point-de-vue-apres-un-devoir-faisant-echo-au-mouvement-lyceen_8290589.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
           "date": "2026-11-19"
         },
         {
@@ -118,31 +124,44 @@
           "url": "https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la",
           "source": "Reporterre",
           "date": "2026-11-17"
+        }
+      ]
+    },
+    {
+      "id": "police",
+      "nom": "la répression policière",
+      "score": 2,
+      "titres": [
+        {
+          "titre": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
+          "url": "https://reporterre.net/On-veut-le-mettre-hors-circuit-la-repression-s-acharne-sur-Loic-le-poete-maraicher",
+          "source": "Reporterre",
+          "date": "2026-11-18"
         },
         {
-          "titre": "Violences et humiliations : à Aubervilliers, des lycéens témoignent de la répression policière",
-          "url": "https://basta.media/violences-et-humiliations-a-aubervilliers-des-lyceens-temoignent-de-la",
-          "source": "Basta!",
+          "titre": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
+          "url": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
+          "source": "Reporterre",
           "date": "2026-11-16"
         }
       ]
     },
     {
-      "id": "greve",
-      "nom": "les grèves",
+      "id": "pouvoir",
+      "nom": "le jeu politique",
       "score": 2,
       "titres": [
         {
-          "titre": "Qui sont ces 660 000 fonctionnaires et contractuels payés en dessous du Smic ?",
-          "url": "https://basta.media/660000-fonctionnaires-agents-publics-payes-en-dessous-du-Smic-pompiers-communaux-atsem",
-          "source": "Basta!",
-          "date": "2026-11-17"
+          "titre": "« Cette présidentielle, pour nous, c'est une question de vie ou de mort » : le rappeur Médine appelle à voter LFI",
+          "url": "https://reporterre.net/Le-rappeur-Medine-appelle-a-voter-LFI-Cette-presidentielle-pour-nous-c-est-une-question",
+          "source": "Reporterre",
+          "date": "2026-11-20"
         },
         {
-          "titre": "Un syndicat des eaux condamné à cause d'un gaz cancérogène dans l'eau du robinet",
-          "url": "https://reporterre.net/Un-syndicat-des-eaux-condamne-a-cause-d-un-gaz-cancerogene-dans-l-eau-du-robinet",
-          "source": "Reporterre",
-          "date": "2026-11-13"
+          "titre": "Présidentielle 2027 : avec le candidat de Villepin, adieu le « en même temps » et bonjour le « ni-ni »",
+          "url": "https://www.humanite.fr/politique/dominique-de-villepin/presidentielle-2027-avec-le-candidat-de-villepin-adieu-le-en-meme-temps-et-bonjour-le-ni-ni",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
         }
       ]
     }

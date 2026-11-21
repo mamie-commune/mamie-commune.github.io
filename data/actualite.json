@@ -1,16 +1,22 @@
 {
-  "maj": "2026-11-20",
-  "titresLus": 138,
+  "maj": "2026-11-21",
+  "titresLus": 140,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 12,
+      "score": 13,
       "titres": [
         {
-          "titre": "Pesticides autour des écoles : la FCPE demande à l’État d’élargir le périmètre de non-traitement",
-          "url": "https://www.humanite.fr/environnement/agriculture/pesticides-autour-des-ecoles-la-fcpe-demande-a-letat-delargir-le-perimetre-de-non-traitement",
+          "titre": "PFAS, nitrates, pesticides… Comment une première victoire contre la contamination au CVM pourrait être décisive contre la pollution de l’eau potable",
+          "url": "https://www.humanite.fr/environnement/contamination/pfas-nitrates-pesticides-comment-une-premiere-victoire-contre-la-contamination-au-cvm-pourrait-etre-decisive-contre-la-pollution-de-leau-potable",
           "source": "L'Humanité",
+          "date": "2026-11-21"
+        },
+        {
+          "titre": "Crise de l'agriculture : les deux mandats d'Emmanuel Macron n'auront rien résolu",
+          "url": "https://reporterre.net/Crise-de-l-agriculture-les-deux-mandats-d-Emmanuel-Macron-n-auront-rien-resolu",
+          "source": "Reporterre",
           "date": "2026-11-20"
         },
         {
@@ -18,30 +24,24 @@
           "url": "https://reporterre.net/Arme-nucleaire-aucune-limitation-prevue-par-Donald-Trump-Vladimir-Poutine-et-Xi-Jinping",
           "source": "Reporterre",
           "date": "2026-11-19"
-        },
-        {
-          "titre": "« Voici les cendres de celles et ceux que vous allez tuer avec les pesticides de Omnibus X »",
-          "url": "https://basta.media/action-pesticides-Bruxelles-Omnibus-X-Fleur-Breteau-Cancer-colere-cendres-commissaire-europeen-sante-Oliver-Varhely",
-          "source": "Basta!",
-          "date": "2026-11-19"
         }
       ]
     },
     {
       "id": "extreme-droite",
       "nom": "l'extrême droite",
-      "score": 8,
+      "score": 7,
       "titres": [
         {
-          "titre": "« Bataille culturelle », « provocation » et « normalisation » : la politologue Anna Lopez décrypte les piliers de l’extrême droite en Espagne",
-          "url": "https://www.humanite.fr/monde/elections-en-espagne/bataille-culturelle-provocation-et-normalisation-la-politologue-anna-lopez-decrypte-les-piliers-de-lextreme-dro",
-          "source": "L'Humanité",
-          "date": "2026-11-20"
+          "titre": "« Même si elle interdit la chasse, l'extrême droite ne sera jamais l'alliée du vivant »",
+          "url": "https://reporterre.net/Meme-si-elle-interdit-la-chasse-l-extreme-droite-ne-sera-jamais-l-alliee-du-vivant",
+          "source": "Reporterre",
+          "date": "2026-11-21"
         },
         {
-          "titre": "« Traîtres à la nation ? » de Stéphane Beaud : retour sur la grève des Bleus de 2010, « un scandale largement récupéré par la droite et l’extrême droite »",
-          "url": "https://www.humanite.fr/sports/extreme-droite/traitres-a-la-nation-de-stephane-beaud-retour-sur-la-greve-des-bleus-de-2010-un-scandale-largement-recupere-par-la-droite-et-lextreme-droite",
-          "source": "L'Humanité",
+          "titre": "Préfet soupçonné d'avoir renseigné le RN : \"Tout le monde savait qu'il était proche du Rassemblement national\", confie un conseiller de l'exécutif à propos d'Hugues Moutouh",
+          "url": "https://www.franceinfo.fr/societe/justice/prefet-soupconne-d-avoir-renseigne-le-rn-tout-le-monde-savait-qu-il-etait-proche-du-rassemblement-national-confie-un-conseiller-de-l-executif-a-propos-d-hugues-moutouh_8292974.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
           "date": "2026-11-20"
         },
         {
@@ -53,77 +53,77 @@
       ]
     },
     {
-      "id": "greve",
-      "nom": "les grèves",
-      "score": 6,
-      "titres": [
-        {
-          "titre": "« Il a tout de suite été embarqué par la police » : un militant CGT en garde à vue pour avoir jeté une boule de papier sur un élu RN",
-          "url": "https://www.humanite.fr/politique/cgt/il-a-tout-de-suite-ete-embarque-par-la-police-un-militant-cgt-en-garde-a-vue-pour-avoir-jete-une-boule-de-papier-sur-un-elu-rn",
-          "source": "L'Humanité",
-          "date": "2026-11-20"
-        },
-        {
-          "titre": "Après les annonces du gouvernement, l’intersyndicale lance un nouvel appel à la grève dans la fonction publique le 1er décembre 2026",
-          "url": "https://www.humanite.fr/social-et-economie/fonction-publique/apres-les-annonces-du-gouvernement-lintersyndicale-lance-un-nouvel-appel-a-la-greve-dans-la-fonction-publique-le-1er-decembre-2026",
-          "source": "L'Humanité",
-          "date": "2026-11-20"
-        },
-        {
-          "titre": "« Traîtres à la nation ? » de Stéphane Beaud : retour sur la grève des Bleus de 2010, « un scandale largement récupéré par la droite et l’extrême droite »",
-          "url": "https://www.humanite.fr/sports/extreme-droite/traitres-a-la-nation-de-stephane-beaud-retour-sur-la-greve-des-bleus-de-2010-un-scandale-largement-recupere-par-la-droite-et-lextreme-droite",
-          "source": "L'Humanité",
-          "date": "2026-11-20"
-        }
-      ]
-    },
-    {
       "id": "exil",
       "nom": "l'exil et les frontières",
       "score": 5,
       "titres": [
         {
-          "titre": "VIDEO. Un plan d'urgence déclenché dans le Pas-de-Calais face à la montée des eaux",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/un-plan-d-urgence-declenche-dans-le-pas-de-calais-face-a-la-montee-des-eaux_8292329.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "\"Ça commence à bien faire\" : la détresse des habitants après les nouvelles inondations dans le Pas-de-Calais",
+          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-bien-faire-la-detresse-des-habitants-apres-les-nouvelles-inondations-dans-le-pas-de-calais_8293751.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-20"
+          "date": "2026-11-21"
         },
         {
-          "titre": "VIDEO. \"Je n'ai pas dormi de la nuit\" : une trentaine de communes du Pas-de-Calais touchées par des inondations",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/je-n-ai-pas-dormi-de-la-nuit-une-trentaine-de-communes-du-pas-de-calais-touchees-par-des-inondations_8292314.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "Intempéries dans le Pas-de-Calais : \"Nous sommes sur un plateau, la décrue n'est pas amorcée\", indique le préfet",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/intemperies-dans-le-pas-de-calais-nous-sommes-sur-un-plateau-la-decrue-n-est-pas-amorcee-indique-le-prefet_8293568.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-20"
+          "date": "2026-11-21"
         },
         {
-          "titre": "Pourquoi y a-t-il autant d’inondations dans le secteur du Pas-de-Calais ?",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/20-heures/pourquoi-y-a-t-il-autant-d-inondations-dans-le-secteur-du-pas-de-calais_8290649.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "REPORTAGE. \"Il aurait fallu réagir avant\" : dans le Pas-de-Calais, des habitants fatigués et en colère face à des crues à répétition",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-aurait-fallu-reagir-avant-dans-le-pas-de-calais-des-habitants-fatigues-et-en-colere-face-a-des-crues-a-repetition_8293445.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-19"
+          "date": "2026-11-21"
         }
       ]
     },
     {
       "id": "jeunesse",
       "nom": "la jeunesse en lutte",
-      "score": 4,
+      "score": 5,
       "titres": [
         {
-          "titre": "Une enseignante convoquée par son rectorat pour un devoir sur le mouvement lycéen : les syndicats dénoncent une « atteinte à la liberté pédagogique »",
-          "url": "https://www.humanite.fr/societe/enseignement/completement-disproportionne-pour-un-devoir-facultatif-sur-le-mouvement-lyceen-une-enseignante-convoquee-sans-prealable-devant-le-rectorat",
+          "titre": "De Mai 68 aux lycéens de 2026 : comment l’histoire éclaire la révolte actuelle ? – Michel Pigenet",
+          "url": "https://www.humanite.fr/societe/historien/de-mai-68-aux-lyceens-de-2026-comment-lhistoire-eclaire-la-revolte-actuelle-michel-pigenet",
           "source": "L'Humanité",
+          "date": "2026-11-21"
+        },
+        {
+          "titre": "Derrière les blocus et les cortèges, la force de la solidarité",
+          "url": "https://www.politis.fr/api/proxy/?articleID=527787",
+          "source": "Politis",
           "date": "2026-11-20"
         },
         {
-          "titre": "Une professeure d'économie de Grenoble convoquée le 26 novembre au rectorat \"pour recueillir son point de vue\", après un devoir faisant écho au mouvement lycéen",
-          "url": "https://www.franceinfo.fr/societe/education/une-professeure-d-economie-de-grenoble-convoquee-le-26-novembre-au-rectorat-pour-recueillir-son-point-de-vue-apres-un-devoir-faisant-echo-au-mouvement-lyceen_8290589.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-19"
+          "titre": "Rassemblés « contre les guerres, la vie chère et pour l’éducation » : à Paris, lycéens et étudiants ne désarment pas",
+          "url": "https://www.humanite.fr/social-et-economie/etudiants/rassembles-contre-les-guerres-la-vie-chere-et-pour-leducation-a-paris-lyceens-et-etudiants-ne-desarment-pas",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "id": "vie-chere",
+      "nom": "la vie chère",
+      "score": 3,
+      "titres": [
+        {
+          "titre": "Précarité et handicap : à quand de vrais droits pour les travailleurs protégés des Esat ?",
+          "url": "https://www.humanite.fr/social-et-economie/code-du-travail/precarite-et-handicap-a-quand-de-vrais-droits-pour-les-travailleurs-proteges-des-esat",
+          "source": "L'Humanité",
+          "date": "2026-11-21"
         },
         {
-          "titre": "Aux avant-postes de la mobilisation, les lycéens de Mayotte réclament toujours de l'eau potable",
-          "url": "https://reporterre.net/Ca-m-arrive-de-secher-les-cours-pour-acheter-une-bouteille-les-coupures-d-eau-attisent-la",
-          "source": "Reporterre",
-          "date": "2026-11-17"
+          "titre": "\"Quand on part au large, juste une journée, c'est environ 1 500 euros de gazole\" : les pêcheurs de coquilles Saint-Jacques restreints par les prix du carburant",
+          "url": "https://www.franceinfo.fr/economie/quand-on-part-au-large-juste-une-journee-c-est-environ-1-500-euros-de-gazole-les-pecheurs-de-coquilles-saint-jacques-restreints-par-les-prix-du-carburant_8292506.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-20"
+        },
+        {
+          "titre": "Rassemblés « contre les guerres, la vie chère et pour l’éducation » : à Paris, lycéens et étudiants ne désarment pas",
+          "url": "https://www.humanite.fr/social-et-economie/etudiants/rassembles-contre-les-guerres-la-vie-chere-et-pour-leducation-a-paris-lyceens-et-etudiants-ne-desarment-pas",
+          "source": "L'Humanité",
+          "date": "2026-11-20"
         }
       ]
     },
@@ -143,25 +143,6 @@
           "url": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
           "source": "Reporterre",
           "date": "2026-11-16"
-        }
-      ]
-    },
-    {
-      "id": "pouvoir",
-      "nom": "le jeu politique",
-      "score": 2,
-      "titres": [
-        {
-          "titre": "« Cette présidentielle, pour nous, c'est une question de vie ou de mort » : le rappeur Médine appelle à voter LFI",
-          "url": "https://reporterre.net/Le-rappeur-Medine-appelle-a-voter-LFI-Cette-presidentielle-pour-nous-c-est-une-question",
-          "source": "Reporterre",
-          "date": "2026-11-20"
-        },
-        {
-          "titre": "Présidentielle 2027 : avec le candidat de Villepin, adieu le « en même temps » et bonjour le « ni-ni »",
-          "url": "https://www.humanite.fr/politique/dominique-de-villepin/presidentielle-2027-avec-le-candidat-de-villepin-adieu-le-en-meme-temps-et-bonjour-le-ni-ni",
-          "source": "L'Humanité",
-          "date": "2026-11-20"
         }
       ]
     }

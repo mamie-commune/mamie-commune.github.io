@@ -2760,3 +2760,8 @@ blockquote { border-radius: 14px; }
 .principes li, .principes li :is(b, span) { color: var(--v-noir) !important; }
 .principes li { background: #fbfaf7 !important; }
 .tampon--demo { background: rgba(17,16,16,.85) !important; }
+/* étiquettes noires (titres, intertitres, sous-titres) : Archivo Black, choisie le 23 novembre 2026 */
+:root { --v-etiquette: "Archivo Black", "Arial Black", sans-serif; }
+.tg, .prose h2, .manchette__accroche .tg, .hero__say .tg, .step__n, .parcours-modules li::before { font-family: var(--v-etiquette) !important; font-weight: 400 !important; letter-spacing: 0 !important; }
+.prose h2 { font-size: clamp(20px, 2.2vw, 28px) !important; }
+.facile .tg, .facile .prose h2 { font-family: var(--body) !important; }

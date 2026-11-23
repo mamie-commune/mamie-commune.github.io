@@ -9,7 +9,7 @@
 // - sans connexion, il sert la copie gardée, ou la page « pas de connexion ».
 // Il ne touche jamais aux autres sites (carte OpenStreetMap, vidéos, TikTok…), ni aux films et PDF, ni aux formulaires.
 // Il n'envoie rien, ne synchronise rien en arrière-plan et n'utilise ni notifications ni synchronisation périodique.
-const VERSION = "bced9391";
+const VERSION = "56b38ff7";
 const COQUILLE = "mamie-coquille-" + VERSION, PAGES = "mamie-pages", GARDE = "mamie-garde";
 const DEPART = [
   "./",
@@ -18,13 +18,13 @@ const DEPART = [
   "recherche",
   "confidentialite",
   "manifest.webmanifest",
-  "assets/style.css?v=bced9391",
-  "assets/fonts.css?v=bced9391",
-  "assets/site.js?v=bced9391",
-  "assets/recherche.js?v=bced9391",
-  "assets/hors-ligne.js?v=bced9391",
-  "data/recherche.js?v=bced9391",
-  "data/lieux.js?v=bced9391",
+  "assets/style.css?v=56b38ff7",
+  "assets/fonts.css?v=56b38ff7",
+  "assets/site.js?v=56b38ff7",
+  "assets/recherche.js?v=56b38ff7",
+  "assets/hors-ligne.js?v=56b38ff7",
+  "data/recherche.js?v=56b38ff7",
+  "data/lieux.js?v=56b38ff7",
   "assets/mamie-logo-192.webp",
   "assets/icone-32.png",
   "assets/icone-192.png",
@@ -40,7 +40,21 @@ const DEPART = [
   "assets/fonts/ArchivoBlack-400-normal-latin.woff2",
   "assets/fonts/BigShouldersDisplay-700-normal-latin-ext.woff2",
   "assets/fonts/BigShouldersDisplay-700-normal-latin.woff2",
+  "assets/fonts/GreatVibes-400-normal-latin-ext.woff2",
+  "assets/fonts/GreatVibes-400-normal-latin.woff2",
+  "assets/fonts/LibreBaskerville-400-normal-latin-ext.woff2",
+  "assets/fonts/LibreBaskerville-400-normal-latin.woff2",
+  "assets/fonts/LibreBaskerville-700-normal-latin-ext.woff2",
+  "assets/fonts/LibreBaskerville-700-normal-latin.woff2",
   "assets/fonts/PermanentMarker-400-normal-latin.woff2",
+  "assets/fonts/Poppins-400-normal-latin-ext.woff2",
+  "assets/fonts/Poppins-400-normal-latin.woff2",
+  "assets/fonts/Poppins-500-normal-latin-ext.woff2",
+  "assets/fonts/Poppins-500-normal-latin.woff2",
+  "assets/fonts/Poppins-600-normal-latin-ext.woff2",
+  "assets/fonts/Poppins-600-normal-latin.woff2",
+  "assets/fonts/Poppins-700-normal-latin-ext.woff2",
+  "assets/fonts/Poppins-700-normal-latin.woff2",
   "assets/fonts/SpecialElite-400-normal-latin-ext.woff2",
   "assets/fonts/SpecialElite-400-normal-latin.woff2"
 ];

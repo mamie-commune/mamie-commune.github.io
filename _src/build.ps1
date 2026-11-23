@@ -858,7 +858,7 @@ foreach ($o in $oeuvres) {
 }
 $colsHtml = foreach ($k in $audioCols.Keys) {
   $cartes = @($cartesAudio[$k])
-  $contenu = if ($cartes.Count -and $cartes[0]) { "<div class=""rubriques"">$($cartes -join '')</div>" } else { "{{AUDIO_VIDE_$k}}" }
+  $contenu = if ($cartes.Count -and $cartes[0]) { "<div class=""rubriques pochettes"">$($cartes -join '')</div>" } else { "{{AUDIO_VIDE_$k}}" }
   "<section class=""sec$(if ([array]::IndexOf(@($audioCols.Keys), $k) % 2) { ' sec--alt' })"" id=""$k""><div class=""wrap""><header class=""sec__head""><p class=""eyebrow"">collection</p><h2>$(Esc $audioCols[$k][0])</h2><p class=""sec__intro"">$(Esc $audioCols[$k][1])</p></header>$contenu</div></section>"
 }
 $tplA = Read-Utf8 (Join-Path $src "audio\index.html")

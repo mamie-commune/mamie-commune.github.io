@@ -64,7 +64,7 @@
     // Sans doublon : un lien déjà donné par la structure n'est pas répété par sa catégorie.
     const sansSlash = (u) => (u.endsWith("/") ? u.slice(0, -1) : u);
     const res = [...(p.res || []), ...(RES_CAT[p.c] || [])].filter(([, u], i, t) => t.findIndex(([, v]) => sansSlash(v) === sansSlash(u)) === i);
-    return `<div class="fiche-lieu"><span class="pcat" style="border-left-color:${c.color}">${esc(c.label)}</span>
+    return `<div class="fiche-lieu" style="--cat:${c.color}"><span class="pcat" style="border-left-color:${c.color}"><img class="picto" src="assets/img/pictos/${esc(p.c)}.svg" alt="" width="22" height="22">${esc(c.label)}</span>
       <h2 class="fiche-lieu__nom">${esc(p.n)}</h2>${p.org ? `<p class="fiche-lieu__org">${esc(p.org)}</p>` : ""}<p class="fiche-lieu__lieu">${esc(lieuDe(p) || (p.portee === "national" ? "Réseau national" : ""))}</p>
       ${p.sp ? `<p class="fiche-lieu__sp">${p.sp.split(/\s*,\s*/).map((x) => `<span>${esc(x)}</span>`).join("")}</p>` : ""}
       <p>${esc(p.d)}</p>
@@ -114,7 +114,7 @@
     const count = (k) => TOUS.filter((p) => p.c === k).length;
     let html = `<button type="button" class="tally__all" data-k="*" aria-pressed="${active.size === Object.keys(CATS).length}"><b>${locaux.length}</b><small>lieux sur la carte et ${TOUS.length - locaux.length} réseaux nationaux. Toutes les catégories :</small></button>`;
     // Pas de rubrique fictive : une catégorie sans aucune fiche n'est pas proposée.
-    for (const [k, c] of Object.entries(CATS)) if (count(k)) html += `<button type="button" data-k="${k}" aria-pressed="${active.has(k)}"><b><i style="background:${c.color}"></i>${count(k)}</b><small>${esc(c.label)}</small></button>`;
+    for (const [k, c] of Object.entries(CATS)) if (count(k)) html += `<button type="button" data-k="${k}" aria-pressed="${active.has(k)}" style="--cat:${c.color}"><img class="picto" src="assets/img/pictos/${k}.svg" alt="" width="28" height="28"><b><i style="background:${c.color}"></i>${count(k)}</b><small>${esc(c.label)}</small></button>`;
     $("#tally").innerHTML = html;
   }
   $("#tally").addEventListener("click", (e) => {

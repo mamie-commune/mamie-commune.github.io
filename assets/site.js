@@ -116,8 +116,12 @@
   window.mamieRansom = ransom;
   document.querySelectorAll("[data-ransom]").forEach(ransom);
   document.querySelectorAll("[data-tags]").forEach(tags);
-  // Direction « imprimerie militante » (novembre 2026) : les titres de page sont en pochoir, plus en lettres de rançon.
-  // La rançon reste pour le logo, les affiches et ce qui porte data-ransom.
+  // DA « vidéo de Mamie » (novembre 2026) : les titres de page et de section sont écrits comme les sous-titres des vidéos,
+  // un mot par pastille noire, le mot fort en magenta. La rançon reste pour le logo, les affiches et ce qui porte data-ransom.
+  document.querySelectorAll(".gtitle h1, .sec__head h2, .side__head h1, .appel h2").forEach((el) => {
+    if (el.hasAttribute("data-ransom") || el.hasAttribute("data-tags") || el.querySelector(".tg")) return;
+    tags(el);
+  });
 
   /* ---------- lecteur vidéo en grand (fenêtre collage) ----------
      Cartes YouTube : <div class="yt__screen" data-yt="identifiant"> avec un bouton .yt__cover dedans.
@@ -533,4 +537,18 @@ document.addEventListener("click", (e) => {
     }
   });
   dessiner();
+})();
+
+/* ---------- DA « vidéo de Mamie » : les papiers apparaissent doucement, comme dans le montage ----------
+   Pas d'animation si la personne a demandé moins de mouvement, ni en lecture facile. */
+(function () {
+  const doux = !matchMedia("(prefers-reduced-motion: reduce)").matches && !document.documentElement.classList.contains("facile");
+  // Parcours de l'université : la couleur du thème (idées, histoire, pratiques) sur la page.
+  const meta = document.querySelector(".gtitle .gmeta")?.textContent || "";
+  const theme = /Les idées/.test(meta) ? "idees" : /L.histoire/.test(meta) ? "histoire" : /Les pratiques/.test(meta) ? "pratiques" : "";
+  if (theme && document.querySelector(".parcours-modules")) document.documentElement.dataset.parcours = theme;
+  if (!doux || !("IntersectionObserver" in window)) return;
+  const cibles = document.querySelectorAll(".rubrique, .card, .selection__item, .portes li, .photo, .collage, .arch-carte, .parcours-modules li, .une__lead, .une__fil li, .docvedette, .agir-grille > a, .appel, .ecoute__pistes li");
+  const io = new IntersectionObserver((entrees) => entrees.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("est-la"); io.unobserve(e.target); } }), { rootMargin: "0px 0px -8% 0px" });
+  cibles.forEach((el, i) => { if (el.getBoundingClientRect().top < innerHeight) return; el.classList.add("anim-pret"); el.style.setProperty("--delai", (i % 4) * 70 + "ms"); io.observe(el); });
 })();

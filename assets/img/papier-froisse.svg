@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+<filter id="f" x="0" y="0" width="100%" height="100%" color-interpolation-filters="sRGB">
+<feTurbulence type="fractalNoise" baseFrequency="0.0075" numOctaves="5" seed="4" stitchTiles="stitch" result="b"/>
+<feDiffuseLighting in="b" lighting-color="#ffffff" surfaceScale="5.5" result="l"><feDistantLight azimuth="235" elevation="58"/></feDiffuseLighting>
+<feComponentTransfer in="l"><feFuncR type="linear" slope="0.7" intercept="0.38"/><feFuncG type="linear" slope="0.7" intercept="0.38"/><feFuncB type="linear" slope="0.7" intercept="0.38"/></feComponentTransfer>
+</filter><rect width="900" height="900" filter="url(#f)"/></svg>

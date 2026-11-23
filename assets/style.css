@@ -2362,3 +2362,401 @@ h3 { line-height: 1; }
 .arch-doute { color: var(--red-txt); font-weight: 700; }
 .facile .arch-carte { transform: none !important; }
 .facile .arch-carte__img img { filter: none; }
+
+/* =====================================================================================================
+   DA « VIDÉO DE MAMIE » (novembre 2026, demandée d'après la dernière vidéo de Mamie Commune, faite à la main).
+   Chaque section est un plan de la vidéo : un papier froissé d'une couleur, déchiré en haut sur du noir.
+   Les titres sont des sous-titres (un mot par pastille noire arrondie, le mot fort en magenta), les surtitres une
+   cursive blanche ou noire, les photos ont un bord blanc dentelé, les légendes sont en serif sur une bande de papier
+   déchirée, les tampons sont des néons. Polices : Poppins, Libre Baskerville, Great Vibes (assets/fonts.css).
+   Matières : assets/img/papier-froisse.svg et flammes.svg (node _src/matieres.mjs). Couche posée après tout le reste.
+   ===================================================================================================== */
+:root {
+  --v-texte: "Poppins", "Segoe UI", Arial, sans-serif;
+  --v-serif: "Libre Baskerville", Georgia, "Times New Roman", serif;
+  --v-script: "Great Vibes", "Segoe Script", cursive;
+  --v-noir: #111010; --v-magenta: #f02bd2; --v-neon: #ff2d55;
+  --p-beige: #e4d8c3; --p-rouge: #d02a22; --p-anthracite: #3a3735; --p-kraft: #c4955c; --p-gris: #dcd9d4; --p-rose: #f04fae;
+  --froisse: url("img/papier-froisse.svg");
+  --dentelle: polygon(0.00% 0.0px,2.17% 5.7px,4.35% 0.3px,6.52% 2.8px,8.70% 0.7px,10.87% 4.1px,13.04% 0.3px,15.22% 5.0px,17.39% 0.8px,19.57% 4.2px,21.74% 0.7px,23.91% 4.5px,26.09% 0.8px,28.26% 3.0px,30.43% 0.4px,32.61% 5.4px,34.78% 0.9px,36.96% 3.3px,39.13% 0.2px,41.30% 4.9px,43.48% 0.6px,45.65% 3.6px,47.83% 0.5px,50.00% 5.1px,52.17% 0.1px,54.35% 3.9px,56.52% 0.8px,58.70% 4.6px,60.87% 0.3px,63.04% 2.4px,65.22% 0.9px,67.39% 5.5px,69.57% 0.4px,71.74% 3.4px,73.91% 0.7px,76.09% 4.0px,78.26% 0.2px,80.43% 5.2px,82.61% 0.6px,84.78% 2.9px,86.96% 0.5px,89.13% 4.8px,91.30% 0.8px,93.48% 3.1px,95.65% 0.3px,97.83% 4.4px,100% 0,calc(100% - 5px) 2.2%,100% 4.4%,calc(100% - 3px) 6.5%,calc(100% - .5px) 8.7%,calc(100% - 4.6px) 10.9%,100% 13%,calc(100% - 2.8px) 15.2%,calc(100% - .8px) 17.4%,calc(100% - 5.3px) 19.6%,100% 21.7%,calc(100% - 3.7px) 23.9%,calc(100% - .4px) 26.1%,calc(100% - 4.1px) 28.3%,100% 30.4%,calc(100% - 2.5px) 32.6%,calc(100% - .7px) 34.8%,calc(100% - 5px) 37%,100% 39.1%,calc(100% - 3.2px) 41.3%,calc(100% - .3px) 43.5%,calc(100% - 4.4px) 45.7%,100% 47.8%,calc(100% - 2.9px) 50%,calc(100% - .9px) 52.2%,calc(100% - 5.6px) 54.3%,100% 56.5%,calc(100% - 3.5px) 58.7%,calc(100% - .2px) 60.9%,calc(100% - 4.2px) 63%,100% 65.2%,calc(100% - 2.6px) 67.4%,calc(100% - .6px) 69.6%,calc(100% - 4.9px) 71.7%,100% 73.9%,calc(100% - 3.3px) 76.1%,calc(100% - .5px) 78.3%,calc(100% - 4.7px) 80.4%,100% 82.6%,calc(100% - 2.7px) 84.8%,calc(100% - .8px) 87%,calc(100% - 5.2px) 89.1%,100% 91.3%,calc(100% - 3.1px) 93.5%,calc(100% - .4px) 95.7%,calc(100% - 4.3px) 97.8%,100% 100%,97.8% calc(100% - 3.6px),95.7% 100%,93.5% calc(100% - 5px),91.3% calc(100% - .6px),89.1% calc(100% - 2.9px),87% 100%,84.8% calc(100% - 4.4px),82.6% calc(100% - .3px),80.4% calc(100% - 5.4px),78.3% 100%,76.1% calc(100% - 3.1px),73.9% calc(100% - .7px),71.7% calc(100% - 4.6px),69.6% 100%,67.4% calc(100% - 2.6px),65.2% calc(100% - .5px),63% calc(100% - 5.1px),60.9% 100%,58.7% calc(100% - 3.8px),56.5% calc(100% - .9px),54.3% calc(100% - 4.1px),52.2% 100%,50% calc(100% - 2.4px),47.8% calc(100% - .2px),45.7% calc(100% - 5.5px),43.5% 100%,41.3% calc(100% - 3.4px),39.1% calc(100% - .6px),37% calc(100% - 4.8px),34.8% 100%,32.6% calc(100% - 2.8px),30.4% calc(100% - .4px),28.3% calc(100% - 5px),26.1% 100%,23.9% calc(100% - 3.2px),21.7% calc(100% - .8px),19.6% calc(100% - 4.5px),17.4% 100%,15.2% calc(100% - 2.6px),13% calc(100% - .3px),10.9% calc(100% - 5.3px),8.7% 100%,6.5% calc(100% - 3.6px),4.3% calc(100% - .7px),2.2% calc(100% - 4.2px),0 100%,4.9px 97.8%,0 95.7%,3.1px 93.5%,.5px 91.3%,4.4px 89.1%,0 87%,2.7px 84.8%,.8px 82.6%,5.2px 80.4%,0 78.3%,3.5px 76.1%,.3px 73.9%,4.6px 71.7%,0 69.6%,2.9px 67.4%,.6px 65.2%,5px 63%,0 60.9%,3.3px 58.7%,.4px 56.5%,4.3px 54.3%,0 52.2%,2.5px 50%,.9px 47.8%,5.4px 45.7%,0 43.5%,3.6px 41.3%,.2px 39.1%,4.7px 37%,0 34.8%,2.8px 32.6%,.7px 30.4%,5.1px 28.3%,0 26.1%,3.2px 23.9%,.5px 21.7%,4.5px 19.6%,0 17.4%,2.6px 15.2%,.8px 13%,5.3px 10.9%,0 8.7%,3.4px 6.5%,.4px 4.3%,4.8px 2.2%);
+  --dechire: polygon(0 0,100% 0,100% 35%,97.5% 64%,95% 55%,92.5% 38%,90% 91%,87.5% 62%,85% 69%,82.5% 65%,80% 66%,77.5% 53%,75% 49%,72.5% 81%,70% 44%,67.5% 60%,65% 73%,62.5% 89%,60% 60%,57.5% 40%,55% 78%,52.5% 52%,50% 95%,47.5% 61%,45% 47%,42.5% 72%,40% 58%,37.5% 85%,35% 50%,32.5% 66%,30% 41%,27.5% 77%,25% 56%,22.5% 63%,20% 92%,17.5% 48%,15% 70%,12.5% 58%,10% 83%,7.5% 45%,5% 67%,2.5% 54%,0 74%);
+  --bande: polygon(0.6% 6%,30% 0,62% 4%,99.4% 0,100% 32%,98.8% 64%,99.6% 100%,68% 95%,35% 100%,0 96%,1.2% 66%,0 34%);
+}
+
+/* ---------- texte : Poppins partout, lisible ---------- */
+body { font-family: var(--v-texte); background-color: var(--p-beige); background-image: var(--froisse); background-size: 900px; background-blend-mode: multiply; color: var(--v-noir); }
+body::before { display: none; }
+.prose, .prose p, .prose li { font-family: var(--v-texte); font-size: 17px; line-height: 1.75; }
+h1, h2, h3, h4, .gtitle h1, .sec__head h2 { font-family: var(--v-texte); font-weight: 700; text-transform: none; letter-spacing: -.01em; line-height: 1.15; }
+
+/* ---------- sous-titres : un mot par pastille noire, le mot fort en magenta ---------- */
+.tg { display: inline-block; margin: 0 .14em .28em 0; padding: .12em .42em .16em; background: var(--v-noir) !important; color: #fff !important; border-radius: .22em; font-family: var(--v-texte) !important; font-weight: 600;
+  box-shadow: none !important; transform: none !important; clip-path: none !important; line-height: 1.2; }
+.tg.tg1 { color: var(--v-magenta) !important; }
+.sec__head h2 { display: block; max-width: none; padding: 0 !important; background: none !important; clip-path: none !important; transform: none !important; font-size: clamp(26px, 3.4vw, 42px) !important; line-height: 1.5 !important; -webkit-mask-image: none; mask-image: none; }
+.gtitle h1 { font-size: clamp(32px, 5vw, 58px) !important; line-height: 1.45 !important; max-width: 20ch; color: #fff; }
+
+/* surtitres : la cursive des titres de la vidéo */
+.eyebrow, .sec__head .eyebrow, .gtitle .eyebrow, .manchette .eyebrow { display: block; margin: 0 0 6px; padding: 0 !important; background: none !important; border: 0 !important; transform: none !important;
+  font: 400 clamp(28px, 3vw, 38px)/1.15 var(--v-script) !important; text-transform: none !important; letter-spacing: 0 !important; color: var(--v-noir) !important; text-shadow: none; }
+.sec__head .eyebrow::before, .gtitle .eyebrow::before { content: none !important; }
+.sec__head::after { display: none !important; }
+.sec__head .sec__intro { font: 500 16px/1.6 var(--v-texte); background: rgba(250, 246, 238, .88); color: var(--v-noir); padding: 12px 16px; border-radius: 14px; max-width: 62ch; }
+
+/* ---------- les plans : papier froissé de couleur, déchiré en haut sur du noir ---------- */
+.sec, .sec--alt, .sec--noir, .manchette, .gtitle, .foot { position: relative; background-image: var(--froisse) !important; background-size: 900px !important; background-blend-mode: multiply; border: 0 !important; }
+.sec::before, .sec--alt::before, .gtitle::before, .foot::before { content: ""; display: block !important; position: absolute; left: 0; right: 0; top: 0; height: 18px; background: var(--v-noir); clip-path: var(--dechire); z-index: 2; pointer-events: none; }
+.sec { background-color: var(--p-beige); padding-top: clamp(54px, 7vw, 90px); }
+.sec--alt { background-color: var(--p-gris); }
+.sec--noir { background-color: var(--p-anthracite); color: #f4efe6; }
+.sec--noir .eyebrow, .sec--noir .sec__head .eyebrow { color: #fff !important; }
+#nouveau { background-color: var(--p-rouge); }
+#nouveau .eyebrow { color: #fff !important; }
+#lire { background-color: var(--p-kraft); }
+#videos { background-color: var(--p-gris); }
+#guides { background-color: var(--p-beige); }
+#contribuer { background-color: var(--p-rose); background-image: url("img/flammes.svg"), var(--froisse) !important; background-size: 100% 70%, 900px !important; background-position: bottom, 0 0; background-repeat: no-repeat, repeat; background-blend-mode: normal, multiply; }
+#agir::before { background: var(--v-noir) !important; width: auto; height: 18px; aspect-ratio: auto; right: 0; bottom: auto; opacity: 1; }
+
+/* en-têtes de page : un plan anthracite, titre en sous-titres, chapô dans la boîte crème des citations */
+.gtitle { background-color: var(--p-anthracite) !important; color: #f4efe6; clip-path: none !important; padding-bottom: 46px; }
+.gtitle .eyebrow { color: #fff !important; }
+.gtitle .lead { font: 500 17px/1.6 var(--v-texte) !important; background: rgba(250, 246, 238, .9); color: var(--v-noir) !important; padding: 14px 18px; border-radius: 14px; max-width: 60ch; }
+.gtitle .lead a { color: #8a0f7a !important; }
+.gtitle .crumbs, .gtitle .crumbs a, .gtitle .gmeta span { color: #e9e3d8 !important; font-family: var(--v-texte) !important; }
+.gtitle .gmeta span.gmeta__type { color: var(--v-magenta) !important; }
+.gtitle + * { margin-top: 0; }
+
+/* tampons : des néons, comme « CENSORED » */
+.tampon, .une__lead::after, .appel::after { color: var(--v-neon) !important; border: 4px solid var(--v-neon) !important; outline: 0 !important; background: rgba(255, 45, 85, .08) !important; border-radius: 8px;
+  font: 700 18px/1 var(--v-texte) !important; text-transform: uppercase; letter-spacing: .06em; padding: 8px 14px 6px !important;
+  text-shadow: 0 0 6px rgba(255, 45, 85, .9), 0 0 16px rgba(255, 45, 85, .6); box-shadow: 0 0 10px rgba(255, 45, 85, .7), inset 0 0 10px rgba(255, 45, 85, .5); }
+
+/* ---------- photos : bord blanc dentelé, posées de travers ; légende serif sur bande déchirée ---------- */
+.photo, .photo:nth-of-type(n), .collage, .arch-image { background: #fbfaf7 !important; padding: 12px 12px 12px !important; clip-path: var(--dentelle); box-shadow: none !important; border: 0 !important; }
+.photo { transform: rotate(-1.2deg); } .photo:nth-of-type(even) { transform: rotate(1deg); }
+.photo::before, .photo::after, .collage::before { display: none !important; content: none !important; }
+.photo img, .collage__img img, .arch-image img { filter: none !important; border: 0 !important; mix-blend-mode: normal !important; }
+.collage__img { background: none !important; } .collage__img::after { display: none; }
+.photo figcaption, .collage figcaption, .arch-image figcaption { position: relative; margin: -30px -4px 0 auto !important; width: fit-content; max-width: 92%; padding: 9px 16px 8px !important; background: #fbfaf7; color: var(--v-noir) !important;
+  font: 700 15px/1.4 var(--v-serif) !important; text-align: center; clip-path: var(--bande); transform: rotate(-2deg); border: 0 !important; filter: drop-shadow(0 2px 0 rgba(0,0,0,.25)); }
+.photo figcaption small, .collage figcaption small { display: block; font: 400 11px/1.4 var(--v-texte); color: #55504a; margin-top: 3px; }
+
+/* ---------- cartes : des papiers blancs dentelés, titres en serif ---------- */
+:is(.rubrique, .card, .step, .mode, .ency-fam, .portes a, .selection__item, .aussi li a, .agir-grille > a, .docvedette, .une__fil a, .une__lead a, .arch-carte, .dos__liste li, .dos__resultats li):nth-child(n) {
+  background: #fbfaf7 !important; background-image: none !important; color: var(--v-noir) !important; clip-path: var(--dentelle) !important; border: 0 !important; box-shadow: none !important; border-radius: 0 !important; }
+:is(.rubrique, .card, .portes a, .selection__item, .agir-grille > a, .une__fil a, .une__lead a, .docvedette) :is(h3, b) { font-family: var(--v-serif) !important; font-weight: 700 !important; text-transform: none !important; letter-spacing: 0 !important; color: var(--v-noir) !important; }
+:is(.rubrique, .card, .portes a, .selection__item, .une__fil a, .une__lead a, .docvedette, .agir-grille > a) :is(p, span:not(.kicker):not(.tg), em) { color: #3a3632 !important; font-family: var(--v-texte); }
+.kicker, .rubrique__n, .card__tag, .portes .kicker, .selection__actu, .agir-grille .kicker { display: inline-block; justify-self: start; background: var(--v-noir) !important; color: #fff !important; border-radius: 4px; padding: 3px 8px 2px !important;
+  font: 600 11px/1.4 var(--v-texte) !important; text-transform: none !important; letter-spacing: .02em !important; }
+.selection__item:nth-child(n) { transform: rotate(-1deg); } .selection__item:nth-child(2) { transform: rotate(1deg) translateY(10px); }
+.selection__item::before, .portes a::after, #lire .portes a::before, #lire .portes a::after, #guides .portes a::after { content: none !important; display: none !important; }
+.selection__mot, .feutre { font-family: var(--v-script) !important; font-size: 24px !important; text-transform: none !important; color: #b0127f !important; }
+.une__lead { filter: none !important; transform: rotate(-.8deg); }
+.une__lead h3 { font-size: clamp(28px, 3.4vw, 44px) !important; line-height: 1.15 !important; -webkit-mask-image: none; mask-image: none; }
+.une__lead a::after { display: none; }
+.une__fil a { border-left: 0 !important; transform: none !important; }
+.une__fil a::before { color: var(--v-magenta) !important; font-family: var(--v-texte) !important; }
+.une__tit { font-family: var(--v-script) !important; color: #fff !important; font-size: 34px !important; transform: none !important; }
+.agir-gros { font-family: var(--v-texte) !important; font-weight: 700; color: var(--p-rouge) !important; }
+.docvedette { padding-block: 22px !important; }
+.collage--usine .collage__img, .collage--fresque .collage__img { background: none !important; }
+.gravure, .decoupe-ici span { filter: none; }
+
+/* ---------- boutons : des pastilles de sous-titres ---------- */
+.btn, .btn--main, .cta .btn, .manchette .cta .btn { border-radius: 10px !important; box-shadow: none !important; transform: none !important; font: 600 15px/1 var(--v-texte) !important; text-transform: none !important; letter-spacing: 0 !important; padding: 12px 18px !important; }
+.btn { background: #fbfaf7 !important; color: var(--v-noir) !important; border: 2px solid var(--v-noir) !important; }
+.btn--main, .manchette .cta .btn--main { background: var(--v-noir) !important; color: #fff !important; border-color: var(--v-noir) !important; }
+.btn--main::after { content: ""; }
+.btn:hover, .btn:focus-visible { background: var(--v-magenta) !important; color: #fff !important; border-color: var(--v-magenta) !important; }
+.chip { border-radius: 999px; font-family: var(--v-texte); }
+
+/* ---------- en-tête du site : les bandes noires de la vidéo ---------- */
+.dateline { background: var(--v-noir) !important; }
+.top { background: var(--v-noir) !important; border-bottom: 0 !important; }
+.nav a, .nav button { font: 600 15px/1 var(--v-texte) !important; text-transform: none !important; letter-spacing: 0 !important; }
+.nav a[aria-current], .nav a:hover, .nav button:hover { background: none !important; color: var(--v-magenta) !important; }
+.search { background: var(--v-noir) !important; }
+.search button, .search__go, .facile-btn, #themeBtn { border-radius: 10px !important; font-family: var(--v-texte) !important; }
+
+/* ---------- accueil : un plan rouge, Mamie au centre, les sous-titres de la vidéo ---------- */
+.manchette { background-color: var(--p-rouge) !important; color: #fff; }
+.manchette::before { display: none !important; }
+.manchette::after { content: none !important; }
+.manchette .eyebrow { color: #fff !important; font-size: clamp(30px, 3.4vw, 44px) !important; }
+.manchette__accroche { font: 600 clamp(20px, 2.2vw, 28px)/1.55 var(--v-texte) !important; text-transform: none !important; color: #fff !important; max-width: 24ch; }
+.manchette__accroche { background: none; }
+.manchette__pres { font: 500 16px/1.6 var(--v-texte) !important; background: rgba(250, 246, 238, .9) !important; color: var(--v-noir) !important; border-radius: 14px; transform: none !important; padding: 14px 18px !important; }
+.manchette .hero__say .tg1 { color: var(--v-magenta) !important; background: var(--v-noir) !important; }
+
+/* ---------- intertitres des fiches : une pastille noire, comme une phrase de sous-titre ---------- */
+.prose h2 { display: inline-block; padding: 8px 16px 9px !important; background: var(--v-noir) !important; color: #fff !important; border-radius: 10px; clip-path: none !important; transform: none !important;
+  font: 700 clamp(22px, 2.4vw, 30px)/1.25 var(--v-texte) !important; text-transform: none !important; letter-spacing: -.01em !important; }
+.prose h2:nth-of-type(even) { background: var(--v-noir) !important; }
+.prose h3 { font-family: var(--v-serif); }
+.prose > p:first-of-type::first-letter { float: none; font: inherit; color: inherit; padding: 0; }
+.prose strong { background: none; box-shadow: none; color: inherit; }
+.prose strong, .prose b { font-weight: 700; }
+.toc { background: var(--v-noir) !important; border-radius: 14px; clip-path: none !important; }
+.toc a { font: 500 14px/1.35 var(--v-texte) !important; text-transform: none !important; }
+.note, .callout { background: rgba(250, 246, 238, .92) !important; border-radius: 14px; border: 0 !important; box-shadow: none !important; transform: none !important; font-family: var(--v-texte); }
+blockquote { border-radius: 14px; }
+.mamie-dit span { border-radius: 14px; border: 0 !important; transform: none !important; font: 500 15px/1.5 var(--v-texte) !important; box-shadow: none !important; background: rgba(250, 246, 238, .94) !important; color: var(--v-noir) !important; }
+.mamie-dit b { color: #b0127f !important; font-family: var(--v-texte) !important; }
+
+/* ---------- pied de page ---------- */
+.foot { background-color: #1d1b1a !important; padding-top: 30px; }
+
+/* ---------- mode sombre : les plans foncent, les papiers blancs gardent l'encre noire ---------- */
+:root[data-theme="dark"] body { background-color: #2b2826; color: #efe9df; }
+:root[data-theme="dark"] .sec, :root[data-theme="dark"] .sec--alt, :root[data-theme="dark"] #lire, :root[data-theme="dark"] #videos, :root[data-theme="dark"] #guides { background-color: #2f2c2a; color: #efe9df; }
+:root[data-theme="dark"] .sec .eyebrow, :root[data-theme="dark"] .sec__head .eyebrow { color: #fff !important; }
+:root[data-theme="dark"] #nouveau { background-color: #7a1612; }
+:root[data-theme="dark"] #contribuer { background-color: #6e1f4c; }
+
+/* ---------- lecture facile : pas de froissé, pas de cursive, rien de penché ---------- */
+.facile body, .facile .sec, .facile .gtitle, .facile .manchette { background-image: none !important; }
+.facile .eyebrow, .facile .selection__mot, .facile .feutre, .facile .une__tit { font-family: var(--v-texte) !important; font-size: 18px !important; }
+.facile .photo, .facile .photo figcaption, .facile .selection__item, .facile .une__lead, .facile .collage { transform: none !important; }
+.facile :is(.rubrique, .card, .portes a, .selection__item, .photo, .collage) { clip-path: none !important; }
+
+/* ---------- téléphone ---------- */
+@media (max-width: 700px) {
+  .sec__head h2 { font-size: 24px !important; }
+  .gtitle h1 { font-size: 30px !important; }
+  .photo figcaption { margin-top: -18px !important; font-size: 13px !important; }
+}
+/* réglages après la première capture */
+.manchette h1 { font-size: clamp(56px, 8.4vw, 124px) !important; }
+.feutre--sel { display: none !important; }
+.selection__item h3 { font-size: clamp(22px, 2.1vw, 28px) !important; line-height: 1.2 !important; }
+.portes b, .une__fil b { font-size: 19px !important; line-height: 1.25 !important; }
+.agir-grille > a b, .docvedette b { font-size: clamp(20px, 2vw, 26px) !important; line-height: 1.2 !important; }
+.appel { background: rgba(250, 246, 238, .94) !important; border-radius: 16px; box-shadow: none !important; }
+.appel::before { display: none; }
+.appel h2 { display: block; background: none !important; font-size: clamp(24px, 3vw, 38px) !important; line-height: 1.5 !important; }
+.appel::after { top: -18px; right: 18px; transform: rotate(4deg); }
+.hl-barre button, .hl-barre a, .hl-barre .hl-barre__ok { border-radius: 999px !important; font: 500 13px/1 var(--v-texte) !important; border: 2px solid #fbfaf7 !important; background: #fbfaf7 !important; color: var(--v-noir) !important; padding: 8px 14px !important; }
+.search input, .search select, .gtitle .tampon { font-family: var(--v-texte) !important; }
+.toc h2, .toc p:first-child { color: var(--v-magenta) !important; font-family: var(--v-texte) !important; }
+.dateline__ed, .dateline__devise, .dateline a { font-family: var(--v-texte) !important; }
+/* contrastes : papiers blancs toujours à l'encre foncée, pied de page, étiquettes */
+.aussi li a, .aussi li a * { color: var(--v-noir) !important; }
+.aussi li a span { color: #3a3632 !important; }
+.selection__actu { background: var(--p-rouge) !important; }
+.selection__actu::before { color: #fff !important; }
+.foot a { color: #f4c6e8 !important; }
+:root[data-theme="dark"] .appel, :root[data-theme="dark"] .appel * { color: var(--v-noir) !important; }
+:root[data-theme="dark"] .appel .btn--main { color: #fff !important; }
+.selection__actu { background: var(--v-noir) !important; color: #fff !important; }
+.selection__actu::before { color: var(--v-magenta) !important; }
+.foot a[href*="instagram"] { color: var(--v-noir) !important; }
+:root[data-theme="dark"] #contribuer .appel .tg { color: #fff !important; }
+:root[data-theme="dark"] #contribuer .appel .tg.tg1 { color: var(--v-magenta) !important; }
+@media (max-width: 600px) { .manchette h1 { font-size: 10.5vw !important; } }
+.selection__item .selection__actu { color: #fff !important; }
+:root[data-theme="dark"] #contribuer .appel .eyebrow { color: var(--v-noir) !important; }
+:root[data-theme="dark"] #contribuer .appel { background: rgba(250, 246, 238, .96) !important; }
+.selection .selection__item:nth-child(n) span.selection__actu { color: #fff !important; }
+
+/* =====================================================================================================
+   CHARTE « VIDÉO DE MAMIE », 2e passe (novembre 2026) : la palette complète de la vidéo, pas seulement rouge et noir.
+   Plans relevés image par image : crème froissé, bleu ciel, bleu nuit, kraft et ocre, rouge, fuchsia, anthracite,
+   blanc. Étiquettes noires à mots blancs (le mot fort en fuchsia), étiquette jaune pour les noms, cursive blanche pour
+   quelques surtitres, serif pour les documents, pictogrammes naïfs (assets/img/pictos), Mamie découpée.
+   Documentée sur la page « La boîte à images » (charte graphique).
+   ===================================================================================================== */
+:root { --p-bleu: #5b8fe0; --p-nuit: #2c4a9a; --p-ocre: #d8913f; --p-blanc: #ecebe8; --v-jaune: #f6d743; }
+
+/* ---------- les plans de l'accueil : un papier par section, comme les plans de la vidéo ---------- */
+#selection { background-color: var(--p-bleu) !important; }
+#nouveau { background-color: var(--p-rouge) !important; }
+#lire { background-color: var(--p-kraft) !important; }
+#videos { background-color: var(--p-nuit) !important; color: #f4efe6; }
+#agir { background-color: var(--p-anthracite) !important; }
+#guides { background-color: var(--p-blanc) !important; }
+#contribuer { background-color: var(--p-rose) !important; }
+#selection .eyebrow, #videos .eyebrow, #nouveau .eyebrow { color: #fff !important; }
+#videos .vwall .vcard__meta, #videos .vwall .vcard__text, #videos .vwall .vcard__meta * { color: #f4efe6 !important; }
+#videos .vwall a { color: var(--v-jaune) !important; }
+
+/* surtitres : la cursive alterne avec l'étiquette jaune des noms (« Maréchal Pétain », « Anastasie Censure ») */
+#nouveau .sec__head .eyebrow, #videos .sec__head .eyebrow, #guides .sec__head .eyebrow, .gtitle .eyebrow {
+  display: inline-block; font: 700 15px/1.2 var(--v-serif) !important; background: var(--v-jaune) !important; color: var(--v-noir) !important;
+  padding: 5px 12px 4px !important; transform: rotate(-1.5deg) !important; margin-bottom: 12px; }
+
+/* ---------- l'accueil : une scène de la vidéo, papiers superposés sur fond crème ---------- */
+.manchette { background-color: var(--p-beige) !important; color: var(--v-noir); overflow: hidden; }
+.manchette .wrap { position: relative; z-index: 2; }
+.feuilles { position: absolute; inset: 0; z-index: 1; pointer-events: none; }
+.feuille { position: absolute; display: block; background-image: var(--froisse); background-size: 700px; background-blend-mode: multiply; clip-path: var(--dechire); box-shadow: 0 0 0 1px rgba(0,0,0,.04); }
+.feuille--bleu { right: -4%; top: 6%; width: 46%; height: 70%; background-color: var(--p-bleu); transform: rotate(4deg); clip-path: polygon(3% 2%, 97% 0, 100% 96%, 0 100%); }
+.feuille--kraft { right: 18%; bottom: -6%; width: 30%; height: 42%; background-color: var(--p-kraft); transform: rotate(-6deg); clip-path: polygon(0 4%, 100% 0, 97% 100%, 3% 96%); }
+.feuille--rose { left: -3%; bottom: 4%; width: 22%; height: 26%; background-color: var(--p-rose); transform: rotate(5deg); clip-path: polygon(2% 0, 100% 6%, 96% 100%, 0 94%); }
+.doodle { position: absolute; width: 58px; height: 58px; opacity: .9; }
+.doodle--etoile { right: 8%; top: 9%; transform: rotate(14deg); }
+.doodle--bulle { right: 40%; top: 4%; transform: rotate(-8deg); }
+.doodle--enveloppe { left: 47%; bottom: 10%; transform: rotate(-12deg); }
+.manchette .eyebrow { color: var(--v-noir) !important; }
+.manchette__accroche { max-width: 28ch !important; font-size: clamp(18px, 1.9vw, 24px) !important; line-height: 1.6 !important; }
+.manchette__accroche .tg { font-weight: 700; }
+.manchette .hero__burst polygon { fill: var(--v-noir); }
+.manchette .hero__logo { filter: drop-shadow(0 0 0 #fff) drop-shadow(5px 6px 0 rgba(0,0,0,.18)); }
+.manchette__pres { background: #fbfaf7 !important; clip-path: var(--dentelle); border-radius: 0 !important; }
+
+/* ---------- en-têtes de page : un plan par rubrique ---------- */
+.gtitle--bibliotheque, .gtitle--livres { background-color: var(--p-kraft) !important; }
+.gtitle--experiences, .gtitle--antifascisme { background-color: var(--p-rouge) !important; }
+.gtitle--universite { background-color: var(--p-bleu) !important; }
+.gtitle--encyclopedie { background-color: var(--p-nuit) !important; }
+.gtitle--figures { background-color: var(--p-rose) !important; }
+.gtitle .crumbs a, .gtitle .crumbs span:not(:empty) { display: inline-block; background: var(--v-noir); color: #fff !important; padding: 2px 8px; border-radius: 4px; text-decoration: none; font-size: 13px; }
+.gtitle .crumbs > span:not(:last-child) { background: none; padding: 0 2px; color: #fff; }
+.gtitle .gmeta span { display: inline-block; background: rgba(17,16,16,.85); color: #fff !important; padding: 2px 8px; border-radius: 4px; margin: 2px 2px 2px 0; }
+.gtitle .gmeta span::before, .gtitle .gmeta span::after { content: none !important; }
+.gtitle .gmeta span.gmeta__type { background: var(--v-magenta); color: #fff !important; }
+
+/* ---------- carte de l'autonomie : étiquettes en papier, pictos dessinés, fiche documentaire ---------- */
+.mapapp .side { background-color: var(--p-beige) !important; background-image: var(--froisse) !important; background-size: 900px; background-blend-mode: multiply; }
+.side__head { background-color: var(--p-anthracite) !important; color: #fff; }
+.side__head h1 { color: #fff; }
+.side__label { font: 700 13px/1.2 var(--v-serif) !important; background: var(--v-jaune); color: var(--v-noir) !important; display: inline-block; padding: 3px 9px; text-transform: none !important; letter-spacing: 0 !important; }
+.tally { gap: 8px !important; }
+.tally button { display: grid !important; grid-template-columns: 30px 1fr; align-items: center; gap: 2px 8px; background: #fbfaf7 !important; border: 0 !important; border-left: 6px solid var(--cat, var(--v-noir)) !important;
+  clip-path: polygon(0 0, 100% 3%, 99% 100%, 1% 97%); padding: 7px 10px !important; color: var(--v-noir) !important; text-align: left; font-family: var(--v-texte); transform: rotate(-.4deg); }
+.tally button:nth-child(even) { transform: rotate(.5deg); }
+.tally button[aria-pressed="false"] { opacity: .5; filter: grayscale(1); }
+.tally button .picto { grid-row: 1 / span 2; width: 28px; height: 28px; }
+.tally button b { font: 700 15px/1 var(--v-texte) !important; } .tally button small { font: 500 12px/1.25 var(--v-texte) !important; color: #3a3632 !important; }
+.tally .tally__all { grid-template-columns: 1fr; background: var(--v-noir) !important; color: #fff !important; border-left: 0 !important; }
+.tally .tally__all small, .tally .tally__all b { color: #fff !important; }
+.fiche-lieu .pcat { display: inline-flex; align-items: center; gap: 6px; background: var(--v-noir); color: #fff !important; border: 0 !important; padding: 3px 9px 3px 4px; border-radius: 4px; font: 600 12px/1.3 var(--v-texte); }
+.fiche-lieu .pcat .picto { background: #fff; border-radius: 3px; padding: 1px; }
+.fiche-lieu__nom { font-family: var(--v-serif) !important; font-weight: 700; text-transform: none !important; }
+.fiche-lieu__sp span { background: var(--cat, var(--v-noir)) !important; color: #111 !important; border-radius: 3px; font-family: var(--v-texte) !important; text-transform: none !important; letter-spacing: 0 !important; }
+.leaflet-popup-content-wrapper { border-radius: 0 !important; clip-path: var(--dentelle); background: #fbfaf7 !important; }
+.leaflet-popup-tip { background: #fbfaf7 !important; }
+.pin { border: 3px solid #fff !important; box-shadow: 0 0 0 2px var(--v-noir) !important; }
+.cluster { background: var(--v-noir) !important; color: #fff !important; border: 3px solid #fff !important; font-family: var(--v-texte) !important; }
+.addform { background-color: #fbfaf7 !important; clip-path: var(--dentelle); border: 0 !important; }
+
+/* ---------- bibliothèque audio : des pochettes, et une cassette ---------- */
+.pochettes { grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)) !important; gap: 22px !important; }
+.pochettes .rubrique:nth-child(n) { aspect-ratio: 1; display: grid; align-content: end; gap: 6px; padding: 18px !important; clip-path: none !important;
+  background-image: url("img/pictos/casque.svg"), var(--froisse) !important; background-repeat: no-repeat, repeat !important; background-size: 64px, 600px !important; background-position: 16px 16px, 0 0 !important; background-blend-mode: normal, multiply !important;
+  box-shadow: 6px 7px 0 rgba(0,0,0,.25) !important; transform: rotate(-1.2deg); }
+.pochettes .rubrique:nth-child(5n+1) { background-color: var(--p-bleu) !important; }
+.pochettes .rubrique:nth-child(5n+2) { background-color: var(--p-rouge) !important; transform: rotate(1deg); }
+.pochettes .rubrique:nth-child(5n+3) { background-color: var(--p-ocre) !important; }
+.pochettes .rubrique:nth-child(5n+4) { background-color: var(--p-rose) !important; transform: rotate(.8deg); }
+.pochettes .rubrique:nth-child(5n+5) { background-color: var(--p-nuit) !important; }
+.pochettes .rubrique h3 { justify-self: start; background: #fbfaf7; color: var(--v-noir) !important; padding: 6px 10px; font-size: 19px !important; clip-path: var(--bande); }
+.pochettes .rubrique p, .pochettes .rubrique .rubrique__go { justify-self: start; background: var(--v-noir); color: #fff !important; padding: 3px 8px; border-radius: 4px; font-size: 13px !important; }
+.pochettes .rubrique .rubrique__n { justify-self: start; }
+.ecoute__lecteur { border-radius: 18px; box-shadow: 6px 7px 0 rgba(0,0,0,.25) !important; padding-top: 70px !important; background-color: var(--v-noir) !important; }
+.ecoute__lecteur::before { content: ""; position: absolute; left: 50%; top: 14px; width: 220px; height: 44px; margin-left: -110px; border-radius: 22px; background: #fbfaf7;
+  background-image: radial-gradient(circle at 25% 50%, var(--v-noir) 0 11px, transparent 12px), radial-gradient(circle at 75% 50%, var(--v-noir) 0 11px, transparent 12px); }
+.ecoute__lecteur::after { content: "MAMIE · FACE A"; position: absolute; left: 50%; top: 26px; transform: translateX(-50%); font: 700 10px/1 var(--v-texte); letter-spacing: .1em; color: var(--v-noir); }
+.is-lecture .ecoute__lecteur::before { animation: bobines 1.4s linear infinite; }
+@keyframes bobines { to { background-position: 0 1px, 0 -1px; } }
+.ecoute__jouer { background: var(--v-magenta) !important; }
+
+/* ---------- Mon dossier : une chemise kraft avec son onglet, les documents en feuilles ---------- */
+.dos__liste { position: relative; background-color: var(--p-kraft); background-image: var(--froisse); background-size: 600px; background-blend-mode: multiply; padding: 26px 18px 18px !important; margin-top: 28px !important; box-shadow: 5px 6px 0 rgba(0,0,0,.2); }
+.dos__liste::before { content: "MON DOSSIER"; position: absolute; left: 18px; top: -26px; padding: 6px 18px 4px; background: var(--p-kraft); font: 700 12px/1.4 var(--v-texte); letter-spacing: .1em; clip-path: polygon(8% 0, 92% 0, 100% 100%, 0 100%); }
+.dos__liste li { transform: rotate(-.4deg); } .dos__liste li:nth-child(even) { transform: rotate(.4deg); }
+.dos__n { color: var(--v-magenta) !important; }
+
+/* ---------- université populaire : un dossier pédagogique qu'on feuillette ---------- */
+.prose .parcours-modules li { margin-left: 0; }
+.prose .parcours-modules li:nth-child(odd) { transform: rotate(-.5deg); } .prose .parcours-modules li:nth-child(even) { transform: rotate(.5deg) translateX(10px); }
+.prose .parcours-modules li::before { background: var(--v-magenta) !important; color: #fff !important; border-radius: 6px; font-family: var(--v-texte) !important; transform: none !important; }
+.prose .parcours-modules b { font-family: var(--v-serif) !important; }
+:root[data-parcours="idees"] .gtitle { background-color: var(--p-bleu) !important; }
+:root[data-parcours="histoire"] .gtitle { background-color: var(--p-ocre) !important; }
+:root[data-parcours="pratiques"] .gtitle { background-color: var(--p-rose) !important; }
+:root[data-parcours="idees"] .parcours-suivi__jauge span { background: var(--p-bleu); }
+:root[data-parcours="histoire"] .parcours-suivi__jauge span { background: var(--p-ocre); }
+.parcours-suivi { border-radius: 12px; }
+
+/* ---------- archives : des documents posés sur une table ---------- */
+.arch-grille { background-color: var(--p-anthracite); background-image: var(--froisse); background-size: 900px; background-blend-mode: multiply; padding: 26px; gap: 26px !important; }
+.arch-carte:nth-child(4n+1) { transform: rotate(-2deg); } .arch-carte:nth-child(4n+2) { transform: rotate(1.4deg) translateY(8px); }
+.arch-carte:nth-child(4n+3) { transform: rotate(-.6deg); } .arch-carte:nth-child(4n) { transform: rotate(2.2deg); }
+.arch-carte[data-type="Journal et périodique"], .arch-carte[data-type="Document imprimé ou manuscrit"] { background: #efe8d6 !important; }
+.arch-carte[data-type="Affiche"], .arch-carte[data-type="Tract"] { background: var(--v-jaune) !important; }
+.arch-carte__img img { filter: none !important; }
+.arch-carte__txt small { display: inline-block; justify-self: start; background: var(--v-noir); color: #fff !important; padding: 2px 7px; border-radius: 3px; font-family: var(--v-texte) !important; text-transform: none !important; letter-spacing: 0 !important; }
+.arch-carte__txt b { font-family: var(--v-serif) !important; }
+.arch-filtres label { font: 700 13px/1.2 var(--v-serif) !important; text-transform: none !important; }
+.arch-filtres select, .dos__champs input, .dos__champs textarea, .dos__cherche { border-radius: 8px; font-family: var(--v-texte) !important; }
+
+/* ---------- apparitions douces (désactivées si moins de mouvement est demandé) ---------- */
+.anim-pret { opacity: 0; translate: 0 22px; }
+.anim-pret.est-la { opacity: 1; translate: 0 0; transition: opacity .55s ease var(--delai, 0ms), translate .7s cubic-bezier(.2,.8,.2,1) var(--delai, 0ms); }
+.doodle { animation: flotte 6s ease-in-out infinite alternate; }
+.doodle--bulle { animation-delay: -2s; } .doodle--enveloppe { animation-delay: -4s; }
+@keyframes flotte { to { translate: 0 -8px; } }
+@media (prefers-reduced-motion: reduce) { .anim-pret { opacity: 1 !important; translate: none !important; } .doodle, .is-lecture .ecoute__lecteur::before { animation: none !important; } }
+.facile .doodle, .facile .feuilles { display: none; }
+
+/* ---------- contrastes et cas particuliers ---------- */
+#selection .sec__intro, #videos .sec__intro { background: rgba(250, 246, 238, .92); color: var(--v-noir); }
+:root[data-theme="dark"] .manchette { background-color: #2f2c2a !important; color: #efe9df; }
+:root[data-theme="dark"] .manchette .eyebrow { color: #fff !important; }
+:root[data-theme="dark"] #selection { background-color: #24406e !important; }
+:root[data-theme="dark"] #videos { background-color: #1c2f60 !important; }
+:root[data-theme="dark"] #guides { background-color: #2f2c2a !important; }
+:root[data-theme="dark"] .feuille { opacity: .45; }
+:root[data-theme="dark"] .mapapp .side { background-color: #2f2c2a !important; }
+@media (max-width: 760px) { .feuille--bleu { width: 70%; height: 40%; top: 30%; } .feuille--kraft, .doodle--bulle { display: none; } .arch-grille { padding: 14px; } }
+
+/* ---------- une seule famille de lettres, celle de la vidéo (le logo découpé garde ses lettres de rançon) ---------- */
+:root:not(.facile) { --body: var(--v-texte); --mono: var(--v-texte); --affiche: var(--v-texte); --pochoir: var(--v-texte); --display: var(--v-texte); --main: var(--v-script); }
+.r0, .r3, .r5 { font-family: "Archivo Black", "Arial Black", sans-serif !important; }
+.r1, .r4 { font-family: "Alfa Slab One", Georgia, serif !important; }
+.r2 { font-family: "Special Elite", "Courier New", monospace !important; }
+.dos__champs label, .ecoute__btn, .ecoute__etiquette, .ecoute__num, .ecoute__piste, .sommaire-rubrique a, .tiroir-nav a, .chip, .side__case, .addform label { text-transform: none !important; letter-spacing: 0 !important; }
+.sommaire-rubrique a, .tiroir-nav a { background: var(--v-noir) !important; color: #fff !important; border: 0 !important; border-radius: 6px; font: 600 14px/1 var(--v-texte) !important; padding: 8px 12px !important; }
+.sommaire-rubrique a:hover, .tiroir-nav a:hover { background: var(--v-magenta) !important; }
+.ecoute__piste { font: 700 20px/1.2 var(--v-texte) !important; }
+.ecoute__btn { border-radius: 8px; font: 600 13px/1 var(--v-texte) !important; }
+.ecoute__dl { border-radius: 4px; font: 600 11px/1.2 var(--v-texte) !important; }
+.ecoute__num { color: var(--v-magenta) !important; }
+/* pochettes : textes blancs sur étiquettes noires */
+.pochettes .rubrique:nth-child(n) p, .pochettes .rubrique:nth-child(n) .rubrique__go, .pochettes .rubrique:nth-child(n) .rubrique__n { color: #fff !important; background: var(--v-noir) !important; }
+.pochettes .rubrique:nth-child(n) h3 { color: var(--v-noir) !important; }
+/* cassette : l'étiquette entre les deux bobines */
+.ecoute__lecteur::before { width: 260px; margin-left: -130px; background-image: radial-gradient(circle at 16% 50%, var(--v-noir) 0 12px, transparent 13px), radial-gradient(circle at 84% 50%, var(--v-noir) 0 12px, transparent 13px); }
+.ecoute__lecteur::after { top: 31px; font-size: 11px; }
+/* contrastes, 3e passe */
+.sec .rubriques .rubrique:nth-child(n) :is(.rubrique__n, .card__tag, .kicker), .sec .cards .card:nth-child(n) :is(.card__tag, .kicker) { color: #fff !important; background: var(--v-noir) !important; }
+.sec .pochettes .rubrique:nth-child(n) :is(p, .rubrique__go, .rubrique__n) { color: #fff !important; background: var(--v-noir) !important; }
+.fiche-lieu .pcat { background: var(--v-noir) !important; color: #fff !important; }
+.sec--noir .colonne, .sec--noir .colonne :is(h3, li, p) { color: #f4efe6 !important; }
+.sec--noir .colonne a { color: var(--v-jaune) !important; }
+.gtitle .tampon { background: rgba(17,16,16,.82) !important; color: #ff5c7a !important; }
+.gtitle .crumbs > span:not(:last-child) { color: var(--v-noir) !important; font-weight: 700; }
+:root[data-theme="dark"] .gtitle .crumbs > span:not(:last-child) { color: #fff !important; }
+.gtitle .crumbs > span:not(:last-child) { display: none; }
+.gtitle .crumbs { display: flex; flex-wrap: wrap; gap: 6px; }
+.sec--noir .colonne, .sec--noir .colonne :is(h3, li, p) { color: var(--v-noir) !important; }
+.sec--noir .colonne a { color: #8a0f7a !important; }
+/* mode sombre : les papiers blancs gardent toujours leur encre foncée */
+:root[data-theme="dark"] :is(.rubrique:not(.pochettes *), .card, .step, .mode, .portes a, .selection__item, .aussi li a, .agir-grille > a, .docvedette, .une__fil a, .une__lead a, .arch-carte, .dos__liste li, .dos__resultats li, .colonne, .note, .callout, .appel, .addform) :is(a, small, span, p, b, li, h3):not(.kicker):not(.tg):not(.rubrique__n):not(.card__tag):not(.selection__actu):not(.btn) { color: var(--v-noir) !important; }
+:root[data-theme="dark"] :is(.dos__resultats li, .dos__liste li) small { color: #8a0f7a !important; }
+:root[data-theme="dark"] #lire { background-color: #4a3620 !important; }
+:root[data-theme="dark"] #lire .vedette__txt :is(h3, p, b) { color: #f4efe6 !important; }
+.selection-titres, .selection + details, #selection details { background: #fbfaf7; color: var(--v-noir); padding: 10px 14px; border-radius: 10px; }
+#selection details :is(a, span, li) { color: var(--v-noir) !important; }
+#selection details a { text-decoration-color: var(--v-magenta); }
+.step__n { background: var(--v-noir) !important; color: #fff !important; border-radius: 6px; }
+:root[data-theme="dark"] .selection__sources, :root[data-theme="dark"] .selection__sources * { color: var(--v-noir) !important; }
+.sec--noir .colonne a, :root .sec--noir .colonne a { color: #7a0d6b !important; }
+#contribuer .colonne a, :root #contribuer.sec--noir .colonne a { color: var(--v-noir) !important; text-decoration-thickness: 2px; font-weight: 700; }
+.pictos-planche { display: flex; flex-wrap: wrap; gap: 14px; }
+.pictos-planche figure { margin: 0; width: 92px; text-align: center; background: #fbfaf7; padding: 10px 4px 6px; clip-path: var(--dentelle); }
+.pictos-planche figcaption { font: 500 11px/1.3 var(--v-texte); color: var(--v-noir); }
+.principes li, .principes li :is(b, span) { color: var(--v-noir) !important; }
+.principes li { background: #fbfaf7 !important; }
+.tampon--demo { background: rgba(17,16,16,.85) !important; }

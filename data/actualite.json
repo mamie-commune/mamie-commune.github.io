@@ -1,29 +1,29 @@
 {
-  "maj": "2026-11-21",
-  "titresLus": 140,
+  "maj": "2026-11-24",
+  "titresLus": 149,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 13,
+      "score": 15,
       "titres": [
         {
-          "titre": "PFAS, nitrates, pesticides… Comment une première victoire contre la contamination au CVM pourrait être décisive contre la pollution de l’eau potable",
-          "url": "https://www.humanite.fr/environnement/contamination/pfas-nitrates-pesticides-comment-une-premiere-victoire-contre-la-contamination-au-cvm-pourrait-etre-decisive-contre-la-pollution-de-leau-potable",
-          "source": "L'Humanité",
-          "date": "2026-11-21"
+          "titre": "Quand les abeilles et les coquelicots ont fait flancher les pesticides",
+          "url": "https://reporterre.net/Pesticides-80-ans-de-lutte-tenace-en-10-moments-forts",
+          "source": "Reporterre",
+          "date": "2026-11-24"
         },
         {
-          "titre": "Crise de l'agriculture : les deux mandats d'Emmanuel Macron n'auront rien résolu",
-          "url": "https://reporterre.net/Crise-de-l-agriculture-les-deux-mandats-d-Emmanuel-Macron-n-auront-rien-resolu",
+          "titre": "« La mer du Nord telle qu'on l'a connue a disparu » : le changement climatique bouleverse le milieu marin",
+          "url": "https://reporterre.net/Harengs-en-fuite-explosion-de-sardines-le-rechauffement-de-la-mer-du-Nord-bouleverse-l",
           "source": "Reporterre",
-          "date": "2026-11-20"
+          "date": "2026-11-24"
         },
         {
-          "titre": "Arme nucléaire : aucune limitation prévue par Donald Trump, Vladimir Poutine et Xi Jinping",
-          "url": "https://reporterre.net/Arme-nucleaire-aucune-limitation-prevue-par-Donald-Trump-Vladimir-Poutine-et-Xi-Jinping",
-          "source": "Reporterre",
-          "date": "2026-11-19"
+          "titre": "L'ex-PDG de Haribo au ministère de l'Agriculture : comment le lobby de l'agroalimentaire entre au gouvernement",
+          "url": "https://basta.media/Nomination-ex-PDG-Haribo-comment-lobby-agroalimentaire-ANIA-infiltre-ministere-gouvernement",
+          "source": "Basta!",
+          "date": "2026-11-24"
         }
       ]
     },
@@ -33,116 +33,91 @@
       "score": 7,
       "titres": [
         {
-          "titre": "« Même si elle interdit la chasse, l'extrême droite ne sera jamais l'alliée du vivant »",
-          "url": "https://reporterre.net/Meme-si-elle-interdit-la-chasse-l-extreme-droite-ne-sera-jamais-l-alliee-du-vivant",
+          "titre": "Allô, police fasciste ?",
+          "url": "https://www.politis.fr/api/proxy/?articleID=529232",
+          "source": "Politis",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "Pétain « sauveur » des juifs : Éric Zemmour définitivement condamné",
+          "url": "https://www.humanite.fr/politique/antisemitisme/petain-sauveur-des-juifs-eric-zemmour-definitivement-condamne",
+          "source": "L'Humanité",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "La paysanne bio aux 288 000 abonnés sur Instagram qui copine avec l'extrême droite",
+          "url": "https://reporterre.net/La-paysanne-bio-aux-288-000-abonnes-sur-Instagram-qui-copine-avec-l-extreme-droite",
           "source": "Reporterre",
-          "date": "2026-11-21"
-        },
-        {
-          "titre": "Préfet soupçonné d'avoir renseigné le RN : \"Tout le monde savait qu'il était proche du Rassemblement national\", confie un conseiller de l'exécutif à propos d'Hugues Moutouh",
-          "url": "https://www.franceinfo.fr/societe/justice/prefet-soupconne-d-avoir-renseigne-le-rn-tout-le-monde-savait-qu-il-etait-proche-du-rassemblement-national-confie-un-conseiller-de-l-executif-a-propos-d-hugues-moutouh_8292974.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-20"
-        },
-        {
-          "titre": "Fréquentations néonazies et lobbying au Parlement européen : Némésis, passerelle entre les extrêmes droites",
-          "url": "https://basta.media/Nemesis-passerelle-entre-extremes-droites-neonazis-RN-Reconquete-AfD-Parlement-europeen-Alice-Cordier",
-          "source": "Basta!",
-          "date": "2026-11-19"
+          "date": "2026-11-23"
         }
       ]
     },
     {
       "id": "exil",
       "nom": "l'exil et les frontières",
-      "score": 5,
+      "score": 4,
       "titres": [
         {
-          "titre": "\"Ça commence à bien faire\" : la détresse des habitants après les nouvelles inondations dans le Pas-de-Calais",
-          "url": "https://www.franceinfo.fr/replay-jt/france-2/13-heures/ca-commence-a-bien-faire-la-detresse-des-habitants-apres-les-nouvelles-inondations-dans-le-pas-de-calais_8293751.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "La vigilance orange crues est levée dans le Pas-de-Calais, mais \"il reste beaucoup à faire\" selon la préfecture",
+          "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/la-vigilance-orange-crues-est-levee-dans-le-pas-de-calais-mais-il-reste-beaucoup-a-faire-selon-la-prefecture_8296836.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         },
         {
-          "titre": "Intempéries dans le Pas-de-Calais : \"Nous sommes sur un plateau, la décrue n'est pas amorcée\", indique le préfet",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/intemperies-dans-le-pas-de-calais-nous-sommes-sur-un-plateau-la-decrue-n-est-pas-amorcee-indique-le-prefet_8293568.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "\"J'ai une phobie de l'eau maintenant\" : les sinistrés du Pas-de-Calais épuisés par les inondations",
+          "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/j-ai-une-phobie-de-l-eau-maintenant-les-sinistres-du-pas-de-calais-epuises-par-les-inondations_8296695.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         },
         {
-          "titre": "REPORTAGE. \"Il aurait fallu réagir avant\" : dans le Pas-de-Calais, des habitants fatigués et en colère face à des crues à répétition",
-          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/il-aurait-fallu-reagir-avant-dans-le-pas-de-calais-des-habitants-fatigues-et-en-colere-face-a-des-crues-a-repetition_8293445.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "Un migrant somalien tué par balles au camp de Loon-Plage dans le Nord",
+          "url": "https://www.franceinfo.fr/faits-divers/un-migrant-somalien-tue-par-balles-au-camp-de-loon-plage-dans-le-nord_8296638.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-21"
+          "date": "2026-11-23"
         }
       ]
     },
     {
       "id": "jeunesse",
       "nom": "la jeunesse en lutte",
-      "score": 5,
+      "score": 3,
       "titres": [
         {
-          "titre": "De Mai 68 aux lycéens de 2026 : comment l’histoire éclaire la révolte actuelle ? – Michel Pigenet",
-          "url": "https://www.humanite.fr/societe/historien/de-mai-68-aux-lyceens-de-2026-comment-lhistoire-eclaire-la-revolte-actuelle-michel-pigenet",
-          "source": "L'Humanité",
-          "date": "2026-11-21"
+          "titre": "Mobilisation des étudiants et lycéens : le dilemme des universités en cette rentrée pour sauver l'année",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-etudiants-et-lyceens-le-dilemme-des-universites-en-cette-rentree-pour-sauver-l-annee_8297466.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-24"
+        },
+        {
+          "titre": "Cédric Herrou, paysan et militant, placé en garde à vue après une vidéo de soutien aux lycéens",
+          "url": "https://reporterre.net/Cedric-Herrou-paysan-et-militant-place-en-garde-a-vue-apres-une-video-de-soutien-aux",
+          "source": "Reporterre",
+          "date": "2026-11-23"
         },
         {
           "titre": "Derrière les blocus et les cortèges, la force de la solidarité",
           "url": "https://www.politis.fr/api/proxy/?articleID=527787",
           "source": "Politis",
           "date": "2026-11-20"
-        },
-        {
-          "titre": "Rassemblés « contre les guerres, la vie chère et pour l’éducation » : à Paris, lycéens et étudiants ne désarment pas",
-          "url": "https://www.humanite.fr/social-et-economie/etudiants/rassembles-contre-les-guerres-la-vie-chere-et-pour-leducation-a-paris-lyceens-et-etudiants-ne-desarment-pas",
-          "source": "L'Humanité",
-          "date": "2026-11-20"
         }
       ]
     },
     {
-      "id": "vie-chere",
-      "nom": "la vie chère",
-      "score": 3,
-      "titres": [
-        {
-          "titre": "Précarité et handicap : à quand de vrais droits pour les travailleurs protégés des Esat ?",
-          "url": "https://www.humanite.fr/social-et-economie/code-du-travail/precarite-et-handicap-a-quand-de-vrais-droits-pour-les-travailleurs-proteges-des-esat",
-          "source": "L'Humanité",
-          "date": "2026-11-21"
-        },
-        {
-          "titre": "\"Quand on part au large, juste une journée, c'est environ 1 500 euros de gazole\" : les pêcheurs de coquilles Saint-Jacques restreints par les prix du carburant",
-          "url": "https://www.franceinfo.fr/economie/quand-on-part-au-large-juste-une-journee-c-est-environ-1-500-euros-de-gazole-les-pecheurs-de-coquilles-saint-jacques-restreints-par-les-prix-du-carburant_8292506.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-20"
-        },
-        {
-          "titre": "Rassemblés « contre les guerres, la vie chère et pour l’éducation » : à Paris, lycéens et étudiants ne désarment pas",
-          "url": "https://www.humanite.fr/social-et-economie/etudiants/rassembles-contre-les-guerres-la-vie-chere-et-pour-leducation-a-paris-lyceens-et-etudiants-ne-desarment-pas",
-          "source": "L'Humanité",
-          "date": "2026-11-20"
-        }
-      ]
-    },
-    {
-      "id": "police",
-      "nom": "la répression policière",
+      "id": "pouvoir",
+      "nom": "le jeu politique",
       "score": 2,
       "titres": [
         {
-          "titre": "« On veut le mettre hors circuit » : la répression s'acharne sur Loïc, le « poète maraîcher »",
-          "url": "https://reporterre.net/On-veut-le-mettre-hors-circuit-la-repression-s-acharne-sur-Loic-le-poete-maraicher",
+          "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
+          "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
           "source": "Reporterre",
-          "date": "2026-11-18"
+          "date": "2026-11-23"
         },
         {
-          "titre": "Changement climatique, mépris, répression policière : « Des violences infligées aux enfants par les adultes »",
-          "url": "https://reporterre.net/Violences-climat-education-les-enfants-entrent-dans-la-lutte-avec-le-Collectif-enfantiste",
+          "titre": "« Cette présidentielle, pour nous, c'est une question de vie ou de mort » : le rappeur Médine appelle à voter LFI",
+          "url": "https://reporterre.net/Le-rappeur-Medine-appelle-a-voter-LFI-Cette-presidentielle-pour-nous-c-est-une-question",
           "source": "Reporterre",
-          "date": "2026-11-16"
+          "date": "2026-11-20"
         }
       ]
     }

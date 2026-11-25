@@ -251,3 +251,7 @@ universite/makhnovtchina.html=2026-11-17T23:57
 universite/experiences-zapatistes.html=2026-11-17T23:57
 universite/communes-revolutionnaires.html=2026-11-17T23:57
 universite/culture-zad.html=2026-11-17T23:57
+manif/ivg-contraception.html=2026-11-25T23:37
+manif/violences-sexuelles-droits.html=2026-11-25T23:37
+manif/droits-lgbti.html=2026-11-25T23:37
+manif/harcelement-travail.html=2026-11-25T23:37

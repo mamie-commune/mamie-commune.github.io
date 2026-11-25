@@ -68,7 +68,7 @@ $familles = @(
     @("droits", "manif/legal-team.html", "Droits", "En manif, en garde à vue, au lycée", "manif/|agir/lyceens-face-aux-sanctions"),
     @("juridique", "se-defendre.html#juridique", "Ressources juridiques", "Modèles de recours, legal teams, lois à connaître", "manif/modeles"),
     @("antifa", "antifascisme/index.html", "Antifascisme", "Connaître l'extrême droite, ses codes, et agir contre elle", "antifascisme/"),
-    @("feminisme", "se-defendre.html#feminisme", "Féminisme", "Autodéfense féministe, violences sexistes et sexuelles", "manif/autodefense-feministe|agir/violences-dans-nos-collectifs"),
+    @("feminisme", "se-defendre.html#feminisme", "Féminisme et LGBTI", "Tes droits, IVG, violences sexistes et sexuelles, autodéfense", "manif/autodefense-feministe|agir/violences-dans-nos-collectifs|manif/ivg-contraception|manif/violences-sexuelles-droits|manif/droits-lgbti|manif/harcelement-travail"),
     @("outils", "guides/index.html", "Protection numérique", "Signal, vie privée, Linux et logiciels libres", "guides/"),
     @("logiciels", "logiciels/index.html", "Logiciels libres", "L'annuaire : à quoi ils servent, licences et limites", "logiciels/"),
     @("hors-ligne", "hors-ligne.html", "Hors ligne", "Installer le site, packs à imprimer, confidentialité", "hors-ligne|packs/|confidentialite"),

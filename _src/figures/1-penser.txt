@@ -7,14 +7,14 @@
 <ul>
 <li>Il naît en <strong>1809</strong> à Besançon, dans une famille pauvre : un père tonnelier, une mère cuisinière. Enfant, il garde les vaches. Il obtient une bourse, puis devient <strong>typographe</strong> : il apprend en composant les livres des autres.</li>
 <li><strong>1840</strong> : <em>Qu'est-ce que la propriété ?</em> Sa réponse fait scandale : « la propriété, c'est le vol ». Il vise la rente, le loyer, l'intérêt, tout ce qui permet de vivre du travail d'autrui.</li>
-<li><strong>1848</strong> : pendant la révolution, il est élu député. Il propose une <strong>Banque du peuple</strong>, qui prêterait sans intérêt aux travailleurs associés.</li>
+<li><strong>1848</strong> : pendant la révolution, il est élu député. Il propose une <strong>Banque du peuple</strong>, qui prêterait sans intérêt aux travailleureuses associés.</li>
 <li><strong>1849-1852</strong> : trois ans de prison pour ses articles contre Louis-Napoléon Bonaparte. Il continue d'écrire en cellule.</li>
-<li>Exilé en Belgique sous le Second Empire, il revient en France et meurt à Passy en <strong>1865</strong>. Son dernier livre, <em>De la capacité politique des classes ouvrières</em>, inspire les ouvriers français de l'Internationale.</li>
+<li>Exilé en Belgique sous le Second Empire, il revient en France et meurt à Passy en <strong>1865</strong>. Son dernier livre, <em>De la capacité politique des classes ouvrières</em>, inspire les ouvrières et ouvriers français de l'Internationale.</li>
 </ul>
 
 <h2 id="idees">Ce qu'il défend</h2>
 <ul>
-<li><strong>Le mutuellisme</strong> : des travailleurs associés qui échangent leurs produits à leur juste valeur, avec du crédit gratuit, sans patron ni banquier.</li>
+<li><strong>Le mutuellisme</strong> : des travailleureuses associés qui échangent leurs produits à leur juste valeur, avec du crédit gratuit, sans patron ni banquier.</li>
 <li><strong>Le fédéralisme</strong> : des communes et des associations qui se fédèrent de bas en haut, librement, au lieu d'un État central.</li>
 <li><strong>Contre le suffrage universel comme fin en soi</strong> : voter pour un maître, même tous les quatre ans, reste obéir.</li>
 </ul>
@@ -56,9 +56,9 @@
 
 <h2 id="idees">Ce qu'il défend</h2>
 <ul>
-<li><strong>La liberté de chacun passe par celle de tous</strong> : on n'est libre qu'entouré de gens libres.</li>
-<li><strong>Pas de dictature du prolétariat</strong> : des ouvriers devenus gouvernants cesseront vite d'être des ouvriers et gouverneront le peuple d'en haut. L'histoire de la Russie lui a donné raison.</li>
-<li><strong>Le collectivisme</strong> : la terre et les outils aux associations de travailleurs.</li>
+<li><strong>La liberté de chacun passe par celle de toustes</strong> : on n'est libre qu'entouré de gens libres.</li>
+<li><strong>Pas de dictature du prolétariat</strong> : des ouvrières et ouvriers devenus gouvernants cesseront vite d'être des ouvrières et ouvriers et gouverneront le peuple d'en haut. L'histoire de la Russie lui a donné raison.</li>
+<li><strong>Le collectivisme</strong> : la terre et les outils aux associations de travailleureuses.</li>
 <li><strong>L'athéisme militant</strong> : Dieu et l'État sont les deux faces de la même autorité.</li>
 </ul>
 
@@ -67,7 +67,7 @@
 
 <h2 id="lire">Le lire sur le site</h2>
 <ul>
-<li><a href="../livres/dieu-et-l-etat.html">Dieu et l'État</a>, <a href="../livres/trois-conferences-saint-imier.html">Trois conférences aux ouvriers du Val de Saint-Imier</a>, <a href="../livres/gouvernement-representatif.html">Sur le gouvernement représentatif</a> et <a href="../livres/education-integrale.html">L'éducation intégrale</a>, en entier.</li>
+<li><a href="../livres/dieu-et-l-etat.html">Dieu et l'État</a>, <a href="../livres/trois-conferences-saint-imier.html">Trois conférences aux ouvrières et ouvriers du Val de Saint-Imier</a>, <a href="../livres/gouvernement-representatif.html">Sur le gouvernement représentatif</a> et <a href="../livres/education-integrale.html">L'éducation intégrale</a>, en entier.</li>
 <li>Les fiches <a href="../bibliotheque/le-principe-de-l-etat.html">Le Principe de l'État</a>, <a href="../bibliotheque/etats-guerre-permanente.html">Les États, c'est la guerre permanente !</a> et <a href="../bibliotheque/congres-de-saint-imier.html">Résolutions du Congrès de Saint-Imier</a>.</li>
 </ul>
 
@@ -84,7 +84,7 @@
 </div>
 
 === elisee-reclus | Penser l'anarchie | Élisée Reclus, le géographe communard | France · 1830-1905 | Géographe de génie, combattant de la Commune, végétarien et ami des bêtes, il a pensé ensemble la Terre, les peuples et la liberté.
-<p>Reclus a écrit une géographie du monde entier en dix-neuf volumes, et il a trouvé le temps de faire la Commune, d'être banni, de défendre les animaux et d'écrire des brochures pour les paysans. Pour Mamie, c'est le grand-père de l'écologie libertaire.</p>
+<p>Reclus a écrit une géographie du monde entier en dix-neuf volumes, et il a trouvé le temps de faire la Commune, d'être banni, de défendre les animaux et d'écrire des brochures pour les paysannes et paysans. Pour Mamie, c'est le grand-père de l'écologie libertaire.</p>
 
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-reclus.jpg" alt="Portrait d'Élisée Reclus par Nadar en 1889, longue barbe blanche." width="1200" height="1696" loading="lazy"><figcaption>Élisée Reclus photographié par Nadar en 1889. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_photo_par_Nadar,_1889.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
@@ -174,7 +174,7 @@
 <h2 id="vie">Sa vie</h2>
 <ul>
 <li>Il naît en <strong>1853</strong> près de Naples. Étudiant en médecine, il est exclu de l'université pour avoir participé à une manifestation et rejoint l'<strong>Internationale</strong>, où il rencontre <a href="bakounine.html">Bakounine</a>.</li>
-<li><strong>1877</strong> : avec une petite bande armée, il entre dans des villages des montagnes du <strong>Matese</strong>, brûle les registres des impôts et proclame la fin du roi. Les paysans sont sympathiques mais ne bougent pas ; la troupe les arrête.</li>
+<li><strong>1877</strong> : avec une petite bande armée, il entre dans des villages des montagnes du <strong>Matese</strong>, brûle les registres des impôts et proclame la fin du roi. Les paysannes et paysans sont sympathiques mais ne bougent pas ; la troupe les arrête.</li>
 <li>Commencent cinquante ans d'exil et de prison : Égypte, Londres, <strong>Argentine</strong> (où il aide à fonder les premiers syndicats de boulangers), États-Unis…</li>
 <li><strong>1914</strong> : il participe à la <strong>Semaine rouge</strong> d'Ancône, grande insurrection populaire. En 1916, il dénonce les anarchistes pro-guerre, dont <a href="kropotkine.html">Kropotkine</a>.</li>
 <li><strong>1920</strong> : il dirige le quotidien anarchiste <em>Umanità Nova</em> pendant les <strong>occupations d'usines</strong> du « biennio rosso ». Arrêté, il fait une grève de la faim en prison.</li>

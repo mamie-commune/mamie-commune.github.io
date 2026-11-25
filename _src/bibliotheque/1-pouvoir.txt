@@ -14,7 +14,7 @@
 <li><strong>L'étonnement.</strong> La peur ou la faiblesse ne suffisent pas à expliquer qu'une foule obéisse à un seul. Si mille personnes n'osent pas affronter un seul homme, ce n'est plus de la lâcheté : c'est un mystère qu'il faut comprendre.</li>
 <li><strong>La nature.</strong> Les humains naissent égaux et libres, faits pour vivre en compagnie et en amitié. Même les animaux se débattent quand on les met en cage. La soumission n'est pas naturelle : c'est une dégradation.</li>
 <li><strong>Trois sortes de tyrans.</strong> Élus par le peuple, conquérants par les armes ou héritiers par la naissance : tous finissent par gouverner de la même façon, car ils traitent le peuple comme leur propriété.</li>
-<li><strong>L'habitude, première cause.</strong> Celles et ceux qui naissent sous le joug prennent la servitude pour l'état normal des choses. On ne regrette pas une liberté qu'on n'a jamais connue. L'éducation enracine cette habitude.</li>
+<li><strong>L'habitude, première cause.</strong> Celleux qui naissent sous le joug prennent la servitude pour l'état normal des choses. On ne regrette pas une liberté qu'on n'a jamais connue. L'éducation enracine cette habitude.</li>
 <li><strong>Les divertissements.</strong> Le pouvoir endort le peuple avec des jeux, des fêtes, des distributions de vin et de blé. La Boétie cite le roi Cyrus, qui pacifie la ville de Sardes en y ouvrant des maisons de jeu et des lieux de plaisir.</li>
 <li><strong>La mise en scène.</strong> Les rois s'entourent de mystère, se font passer pour des êtres à part, s'appuient sur la religion. Le spectacle du pouvoir fait partie du pouvoir.</li>
 <li><strong>La chaîne des complices.</strong> C'est le ressort décisif. Le tyran tient par cinq ou six favoris, qui en tiennent six cents, qui en tiennent six mille, chacun profitant d'une part du butin. Toute une pyramide de gens a intérêt à ce que l'ordre dure.</li>
@@ -32,7 +32,7 @@
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>L'idée que tout pouvoir repose sur la coopération de celles et ceux qui obéissent est au cœur de la grève, du boycott et de la désobéissance civile. Quand les cheminotes et cheminots s'arrêtent, les trains ne roulent plus ; quand des soldats refusent de tirer, un régime tombe. La « chaîne des complices » décrit aussi très bien les réseaux d'intérêts autour des pouvoirs actuels.</p>
+<p>L'idée que tout pouvoir repose sur la coopération de celleux qui obéissent est au cœur de la grève, du boycott et de la désobéissance civile. Quand les cheminotes et cheminots s'arrêtent, les trains ne roulent plus ; quand des soldats refusent de tirer, un régime tombe. La « chaîne des complices » décrit aussi très bien les réseaux d'intérêts autour des pouvoirs actuels.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -72,7 +72,7 @@
 <li><strong>Relecture de la Genèse.</strong> Manger le fruit de l'arbre de la connaissance est le premier acte d'émancipation. Dieu y paraît en tyran jaloux, et Satan en premier libre penseur.</li>
 <li><strong>Pourquoi la religion tient</strong> : par l'ignorance, l'épuisement et la misère. Le peuple cherche au ciel la consolation qu'il ne trouve pas sur terre. Les sermons n'y feront rien : seule une révolution sociale, en changeant la vie réelle, fera reculer la religion.</li>
 <li><strong>Tout ce qu'on donne à Dieu, on le retire à l'humanité.</strong> Plus le ciel est riche, plus la terre est pauvre.</li>
-<li><strong>Les idéalistes sont les plus dangereux.</strong> Ceux qui parlent sans cesse d'âme, de devoir et de patrie justifient en pratique la domination des puissants et l'exploitation des masses.</li>
+<li><strong>Les idéalistes sont les plus dangereux.</strong> Celleux qui parlent sans cesse d'âme, de devoir et de patrie justifient en pratique la domination des puissants et l'exploitation des masses.</li>
 <li><strong>Contre l'Église des savants.</strong> Un gouvernement de scientifiques serait une nouvelle aristocratie. La science est faite pour éclairer la vie, pas pour la diriger : elle ne connaît que des généralités, alors que la vie est faite d'individus.</li>
 </ol>
 
@@ -102,7 +102,7 @@
 <section><h3>Lire</h3><ul>
 <li><b><cite>Bakounine</cite></b>, Madeleine Grawitz, Plon, 1990.<span>La grande biographie en français, vivante et documentée.</span></li>
 <li><b><cite>Ni Dieu ni maître. Anthologie de l'anarchisme</cite></b>, Daniel Guérin, La Découverte.<span>De larges extraits de Bakounine, replacés dans leur époque.</span></li>
-<li><a href="trois-conferences-saint-imier.html">Trois conférences aux ouvriers du Val de Saint-Imier</a><span>Notre fiche : le même Bakounine, en plus simple, devant des horlogers.</span></li>
+<li><a href="trois-conferences-saint-imier.html">Trois conférences aux ouvrières et ouvriers du Val de Saint-Imier</a><span>Notre fiche : le même Bakounine, en plus simple, devant des horlogers.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/Dieu_et_l%27%C3%89tat" rel="noopener">Dieu et l'État sur Wikipédia</a><span>Histoire du manuscrit et de sa publication.</span></li>
@@ -123,10 +123,10 @@
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Les mots.</strong> Si « anarchie » veut dire désordre dans la langue courante, c'est à cause d'un préjugé : la croyance qu'un gouvernement est indispensable. Malatesta préfère parler d'« abolition du gouvernement », plus concret qu'« abolition de l'État ».</li>
-<li><strong>Qu'est-ce qu'un gouvernement ?</strong> Un groupe de personnes qui font les lois et disposent de la force de tous pour les imposer. Il ne tombe pas du ciel : il sort de la société, et sert d'abord à protéger celles et ceux qui possèdent.</li>
+<li><strong>Qu'est-ce qu'un gouvernement ?</strong> Un groupe de personnes qui font les lois et disposent de la force de toustes pour les imposer. Il ne tombe pas du ciel : il sort de la société, et sert d'abord à protéger celleux qui possèdent.</li>
 <li><strong>Le suffrage universel n'y change rien.</strong> Il donne seulement l'illusion que le peuple se gouverne lui-même.</li>
 <li><strong>L'homme aux jambes liées.</strong> Malatesta imagine un homme qui a toujours marché entravé et qui finit par croire que ses liens le tiennent debout. Ainsi des peuples qui pensent ne pas pouvoir vivre sans maîtres.</li>
-<li><strong>La coopération, moteur de l'histoire.</strong> Plus que la lutte de tous contre tous, c'est l'entraide qui a fait progresser l'humanité. Sociétés savantes, secours mutuels, coopératives, syndicats montrent que l'association volontaire marche déjà.</li>
+<li><strong>La coopération, moteur de l'histoire.</strong> Plus que la lutte de toustes contre toustes, c'est l'entraide qui a fait progresser l'humanité. Sociétés savantes, secours mutuels, coopératives, syndicats montrent que l'association volontaire marche déjà.</li>
 <li><strong>Et la défense, la justice, les services publics ?</strong> Le peuple armé se défend mieux qu'une armée de métier ; les conflits se règlent par arbitrage ; la coutume pèse plus que les codes. Les rares personnes dangereuses relèvent du soin et de la protection, pas de la vengeance.</li>
 <li><strong>Pas de plan tout fait.</strong> L'anarchie n'est pas un modèle à appliquer, c'est une méthode : libre initiative, libre accord, expérimentation. Administrer les choses en commun, oui ; gouverner les personnes, non.</li>
 </ol>
@@ -165,17 +165,17 @@
 
 === criminel-electeur | État & pouvoir | Le criminel, c'est l'électeur ! | Albert Libertad · 1906 | Un pamphlet anti-électoral : en votant, le peuple choisit lui-même ses maîtres et consacre sa propre servitude.
 <h2 id="contexte">Contexte</h2>
-<p>Albert Libertad, de son vrai nom Joseph Albert (1875-1908), arrive à Paris à 21 ans, sans argent, les jambes paralysées depuis l'enfance : il se déplace avec des béquilles, qui lui servent aussi d'arme dans les bagarres avec la police. Orateur redouté, il fonde les « Causeries populaires », des soirées de discussion ouvertes à toutes et à tous, puis en 1905, avec Anna Mahé et d'autres, le journal hebdomadaire <em>l'anarchie</em>.</p>
+<p>Albert Libertad, de son vrai nom Joseph Albert (1875-1908), arrive à Paris à 21 ans, sans argent, les jambes paralysées depuis l'enfance : il se déplace avec des béquilles, qui lui servent aussi d'arme dans les bagarres avec la police. Orateur redouté, il fonde les « Causeries populaires », des soirées de discussion ouvertes à toustes, puis en 1905, avec Anna Mahé et d'autres, le journal hebdomadaire <em>l'anarchie</em>.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-libertad.jpg" alt="Albert Libertad, barbu, tient devant lui un exemplaire du journal l'anarchie." width="500" height="726" loading="lazy"><figcaption>Albert Libertad et son journal, <em>l'anarchie</em>, qu'il fonde en 1905. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Libertad_01.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte paraît en 1906, l'année d'élections législatives. Le journal en tire une affiche placardée sur les murs, au milieu des affiches des candidats. Libertad est la figure centrale de l'anarchisme individualiste parisien de la Belle Époque, qui mise moins sur la révolution future que sur le changement de soi et la révolte immédiate.</p>
 
 <h2 id="these">La thèse</h2>
-<p>On présente le peuple comme souverain. Mais c'est lui qui, élection après élection, nomme celles et ceux qui l'oppriment. Le vrai responsable de la servitude, le « criminel », ce n'est donc pas seulement l'élu : c'est l'électeur qui lui remet son pouvoir.</p>
+<p>On présente le peuple comme souverain. Mais c'est lui qui, élection après élection, nomme celleux qui l'oppriment. Le vrai responsable de la servitude, le « criminel », ce n'est donc pas seulement l'élu : c'est l'électeur qui lui remet son pouvoir.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Une adresse directe.</strong> Le texte tutoie l'électeur et l'accuse : tu es à la fois le souverain et la victime de toi-même.</li>
-<li><strong>Les élus défendent leur caste.</strong> Monarchistes, républicains, socialistes : une fois élus, ils servent d'abord leur position. Le peuple le sait, s'en plaint au café, et les réélit.</li>
+<li><strong>Les élues et élus défendent leur caste.</strong> Monarchistes, républicains, socialistes : une fois élus, iels servent d'abord leur position. Le peuple le sait, s'en plaint au café, et les réélit.</li>
 <li><strong>Le producteur dépossédé.</strong> Le travailleur fabrique toutes les richesses et ne possède rien. Police, tribunaux, impôts, loyers, chômage, caserne : c'est pourtant lui qui fait tenir le système qui l'écrase.</li>
 <li><strong>Le bulletin, signature de la servitude.</strong> Voter, c'est accepter tout cela et lui donner une apparence de légitimité.</li>
 <li><strong>La comédie électorale.</strong> Les candidats flattent pour mieux duper. Si le peuple se laisse séduire, c'est qu'il n'a pas encore pris conscience de sa propre force.</li>
@@ -184,13 +184,13 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Un mépris qui peut blesser.</strong> À force d'accuser « le troupeau », le texte risque de mépriser celles et ceux qu'il veut réveiller. D'autres anarchistes, comme Malatesta, préfèrent convaincre que culpabiliser.</li>
+<li><strong>Un mépris qui peut blesser.</strong> À force d'accuser « le troupeau », le texte risque de mépriser celleux qu'il veut réveiller. D'autres anarchistes, comme Malatesta, préfèrent convaincre que culpabiliser.</li>
 <li><strong>S'abstenir ne suffit pas.</strong> Ne pas voter ne construit rien en soi. Pour Libertad, l'abstention va avec l'éducation, l'entraide et la révolte au quotidien ; sans cela, elle n'est qu'une indifférence de plus.</li>
 <li><strong>Le débat continue chez les anarchistes</strong> : certains, dans des situations exceptionnelles (Espagne 1936), ont toléré un vote ponctuel. Voir <a href="anarchistes-electoralistes.html">Anarchistes électoralistes</a> de Malatesta.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>L'abstention massive, le vote « contre » plutôt que « pour », la méfiance envers les élus : les constats de Libertad sont dans toutes les conversations. Sa question reste entière : si l'on ne délègue plus son pouvoir, comment l'exerce-t-on soi-même ? Assemblées, grèves, collectifs de quartier sont autant de réponses concrètes.</p>
+<p>L'abstention massive, le vote « contre » plutôt que « pour », la méfiance envers les élues et élus : les constats de Libertad sont dans toutes les conversations. Sa question reste entière : si l'on ne délègue plus son pouvoir, comment l'exerce-t-on soi-même ? Assemblées, grèves, collectifs de quartier sont autant de réponses concrètes.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -227,7 +227,7 @@
 <ul>
 <li><strong>La propriété.</strong> La production est devenue si abondante que la propriété privée n'a plus de raison d'être. Elle place chacun sous un maître et transforme le travail en esclavage. À la place : la coopération volontaire, vers un communisme libre où chacun prend selon ses besoins.</li>
 <li><strong>Le gouvernement</strong> protège la propriété et les monopoles. Les grandes œuvres et la solidarité naissent des individus et des groupes, pas des lois. Le crime vient de la misère et des inégalités ; les prisons ne font que l'aggraver.</li>
-<li><strong>Le militarisme</strong> dresse à l'obéissance aveugle et sert l'impérialisme. Les peuples doivent refuser de se battre pour celles et ceux qui les exploitent.</li>
+<li><strong>Le militarisme</strong> dresse à l'obéissance aveugle et sert l'impérialisme. Les peuples doivent refuser de se battre pour celleux qui les exploitent.</li>
 <li><strong>La liberté d'expression</strong> est vidée de son sens par la censure policière et postale. Le remède aux abus de parole, c'est plus de parole, pas la police.</li>
 <li><strong>L'Église</strong> freine la pensée libre. La foi doit rester une affaire privée.</li>
 <li><strong>Le mariage</strong> est une institution économique qui enferme les femmes et les rend dépendantes. Goldman défend l'amour libre, l'indépendance des femmes et une maternité choisie, contraception comprise.</li>
@@ -236,7 +236,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Un texte de défense.</strong> Écrit pour un grand journal, il adoucit certaines positions. Ailleurs, Goldman a défendu plus fermement les auteurs d'attentats, notamment son compagnon Alexander Berkman.</li>
+<li><strong>Un texte de défense.</strong> Écrit pour un grand journal, il adoucit certaines positions. Ailleurs, Goldman a défendu plus fermement les auteurices d'attentats, notamment son compagnon Alexander Berkman.</li>
 <li><strong>Une confiance dans l'abondance</strong> typique de l'époque, qu'on interroge aujourd'hui avec les limites écologiques.</li>
 <li><strong>Le féminisme de Goldman</strong> était en avance sur son temps, mais elle se méfiait du mouvement pour le droit de vote des femmes, qu'elle jugeait inutile. Un débat qui reste vif entre féministes et anarchistes.</li>
 </ul>

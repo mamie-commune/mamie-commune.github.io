@@ -366,7 +366,7 @@
       <form class="outil__form" onsubmit="return false">
         <section class="outil__section"><h2 class="outil__titre">Le texte</h2>
           <div class="outil__champ"><label for="af-titre">Titre (en gros)</label><input id="af-titre" name="titre" value="" placeholder="Grève générale !"></div>
-          <div class="outil__champ"><label for="af-sous">Sous-titre</label><input id="af-sous" name="sous" placeholder="Tous et toutes dans la rue"></div>
+          <div class="outil__champ"><label for="af-sous">Sous-titre</label><input id="af-sous" name="sous" placeholder="Toustes dans la rue"></div>
           <div class="outil__champ"><label for="af-texte">Texte</label><textarea id="af-texte" name="texte" rows="4" placeholder="Quelques lignes pour expliquer."></textarea></div>
           <div class="outil__champ"><label for="af-quand">Date, heure</label><input id="af-quand" name="quand" placeholder="Jeudi 12 mars, 14 h"></div>
           <div class="outil__champ"><label for="af-ou">Lieu</label><input id="af-ou" name="ou" placeholder="Place de la mairie"></div>

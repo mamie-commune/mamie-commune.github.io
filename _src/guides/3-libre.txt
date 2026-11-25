@@ -19,7 +19,7 @@
 
 <h2 id="usage">Ergonomie et fiabilité</h2>
 <ul>
-<li>Un logiciel libre est fait pour celles et ceux qui l'utilisent, et tout le monde peut participer.</li>
+<li>Un logiciel libre est fait pour celleux qui l'utilisent, et tout le monde peut participer.</li>
 <li>Interfaces claires et réglables. La logithèque installe tout en un clic, mises à jour comprises.</li>
 <li>Le système reste stable dans le temps, sans réinstallation régulière.</li>
 <li>Une communauté accueillante aide les personnes qui débutent ; des entreprises proposent aussi un accompagnement payant.</li>
@@ -43,7 +43,7 @@
 <section><h3>Sites officiels</h3><ul>
 <li><a href="https://www.april.org" rel="noopener">April</a><span>L'association française de promotion et de défense du logiciel libre.</span></li>
 <li><a href="https://www.gnu.org/philosophy/free-sw.fr.html" rel="noopener">Qu'est-ce que le logiciel libre ?</a><span>La définition des quatre libertés, par la Free Software Foundation.</span></li>
-<li><a href="https://framasoft.org" rel="noopener">Framasoft</a><span>L'association qui propose des services libres et éthiques à toutes et à tous.</span></li>
+<li><a href="https://framasoft.org" rel="noopener">Framasoft</a><span>L'association qui propose des services libres et éthiques à toustes.</span></li>
 </ul></section>
 <section><h3>Pour aller plus loin</h3><ul>
 <li><a href="https://framalibre.org" rel="noopener">Framalibre</a><span>L'annuaire des logiciels libres, en français.</span></li>

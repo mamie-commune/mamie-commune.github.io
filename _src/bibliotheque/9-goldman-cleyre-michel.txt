@@ -1,7 +1,7 @@
 === le-communisme-n-existe-pas-en-urss | État & pouvoir | Le communisme n'existe pas en URSS | Emma Goldman · 1935 | Nationaliser n'est pas socialiser : le régime soviétique est un capitalisme d'État autoritaire.
 <h2 id="contexte">Contexte</h2>
 <p>Expulsée des États-Unis en 1919 avec son compagnon Alexander Berkman, Emma Goldman arrive en Russie soviétique pleine d'espoir. Elle y vit deux ans, voit la faim, la police politique, la répression des anarchistes et de Kronstadt, et repart désespérée fin 1921. Elle publie dès 1923 <em>Mon désillusionnement en Russie</em>, qui lui vaut d'être traitée de traîtresse par une grande partie de la gauche.</p>
-<figure class="photo"><img src="../assets/img/revolutions/biblio-goldman-berkman.jpg" alt="Emma Goldman et Alexandre Berkman assis côte à côte ; lui tient des béquilles." width="1200" height="927" loading="lazy"><figcaption>Emma Goldman et Alexandre Berkman, vers 1917-1919. Expulsés ensemble des États-Unis vers la Russie fin 1919, ils en repartent deux ans plus tard. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Emma_Goldman_and_Alexander_Berkman.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<figure class="photo"><img src="../assets/img/revolutions/biblio-goldman-berkman.jpg" alt="Emma Goldman et Alexandre Berkman assis côte à côte ; lui tient des béquilles." width="1200" height="927" loading="lazy"><figcaption>Emma Goldman et Alexandre Berkman, vers 1917-1919. Expulsés ensemble des États-Unis vers la Russie fin 1919, iels en repartent deux ans plus tard. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Emma_Goldman_and_Alexander_Berkman.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Cet article paraît en 1935 dans une revue américaine, <em>The American Mercury</em>. Staline est au pouvoir, la collectivisation forcée des campagnes a provoqué une famine meurtrière, et beaucoup d'intellectuels occidentaux continuent pourtant de célébrer l'URSS comme la patrie du socialisme.</p>
 
 <h2 id="these">La thèse</h2>
@@ -9,7 +9,7 @@
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Nationaliser n'est pas socialiser.</strong> Quand l'État contrôle les usines, les travailleuses et travailleurs restent des salariés sans pouvoir ; socialiser, c'est donner à tout le monde accès et décision.</li>
+<li><strong>Nationaliser n'est pas socialiser.</strong> Quand l'État contrôle les usines, les travailleureuses restent des salariées et salariés sans pouvoir ; socialiser, c'est donner à tout le monde accès et décision.</li>
 <li><strong>Une planification aveugle.</strong> La planification centrale ignore les besoins locaux : on exporte du blé pendant la famine de 1932-1933.</li>
 <li><strong>De nouvelles classes.</strong> Rations différenciées, magasins réservés, privilèges du Parti recréent une hiérarchie sociale.</li>
 <li><strong>La collectivisation</strong> forcée transforme les paysannes et paysans en salariés sans terre de l'État.</li>
@@ -20,11 +20,11 @@
 <h2 id="limites">Débats et limites</h2>
 <ul>
 <li><strong>Un texte d'avant les grands procès</strong> de Moscou (1936-1938) et la Grande Terreur : la réalité sera encore plus terrible que ce qu'elle décrit.</li>
-<li><strong>« Capitalisme d'État »</strong> : l'expression est discutée par les historiens, mais elle a été reprise par de nombreux courants critiques du stalinisme, libertaires comme marxistes.</li>
+<li><strong>« Capitalisme d'État »</strong> : l'expression est discutée par les historiennes et historiens, mais elle a été reprise par de nombreux courants critiques du stalinisme, libertaires comme marxistes.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Goldman a eu raison trop tôt, et l'a payé de son isolement. Son texte reste une leçon sur les fins et les moyens, et sur le courage de dire la vérité à son propre camp. La distinction entre nationaliser et socialiser éclaire encore les débats sur les services publics : appartenir à l'État ne veut pas dire appartenir à toutes et tous.</p>
+<p>Goldman a eu raison trop tôt, et l'a payé de son isolement. Son texte reste une leçon sur les fins et les moyens, et sur le courage de dire la vérité à son propre camp. La distinction entre nationaliser et socialiser éclaire encore les débats sur les services publics : appartenir à l'État ne veut pas dire appartenir à toustes.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul><li>Un communisme ne peut pas être imposé par un État.</li><li>L'URSS hérite des méthodes tsaristes.</li><li>Une réflexion toujours actuelle sur les fins et les moyens.</li></ul>
@@ -44,7 +44,7 @@
 
 === anarchisme-et-question-sexuelle | Féminisme & société | L'Anarchisme et la question sexuelle | Emma Goldman · 1896 | Mariage sans amour et prostitution viennent du même système : il faut l'abolir, pas punir ses victimes.
 <h2 id="contexte">Contexte</h2>
-<p>Emma Goldman a 27 ans. Elle a travaillé dans des ateliers de confection, sort d'un an de prison pour un discours aux chômeurs, et s'est formée comme infirmière et sage-femme dans les quartiers pauvres de New York, où elle voit de près les grossesses non désirées, les avortements clandestins et la prostitution. Ce texte paraît en 1896 dans le journal anarchiste américain <em>The Alarm</em>. Au même moment, des ligues de vertu partent en croisade contre la prostitution, en pourchassant les femmes sans jamais interroger les causes.</p>
+<p>Emma Goldman a 27 ans. Elle a travaillé dans des ateliers de confection, sort d'un an de prison pour un discours aux chômeureuses, et s'est formée comme infirmière et sage-femme dans les quartiers pauvres de New York, où elle voit de près les grossesses non désirées, les avortements clandestins et la prostitution. Ce texte paraît en 1896 dans le journal anarchiste américain <em>The Alarm</em>. Au même moment, des ligues de vertu partent en croisade contre la prostitution, en pourchassant les femmes sans jamais interroger les causes.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-goldman-union-square-1916.jpg" alt="Une foule très dense, en chapeaux, vue de haut." width="1136" height="784" loading="lazy"><figcaption>New York, Union Square, 21 mai 1916 : la foule venue écouter Emma Goldman. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Emma_Goldman_-_Union_Square,_New_York,_1916.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
@@ -52,7 +52,7 @@
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Chez les ouvriers</strong>, le couple s'use sous l'épuisement du travail, la pauvreté et les tâches domestiques qui retombent sur les femmes.</li>
+<li><strong>Chez les ouvrières et ouvriers</strong>, le couple s'use sous l'épuisement du travail, la pauvreté et les tâches domestiques qui retombent sur les femmes.</li>
 <li><strong>Chez les bourgeois</strong>, le regard social enferme la femme « respectable » dans une union souvent humiliante, choisie pour l'argent ou le rang.</li>
 <li><strong>Toute union sans amour</strong> est une forme de prostitution, légale ou non.</li>
 <li><strong>La faute revient au système</strong>, pas aux femmes.</li>
@@ -88,18 +88,18 @@
 === durruti-n-est-pas-mort | Histoire & luttes | Durruti n'est pas mort ! | Emma Goldman · 1936 | L'hommage d'Emma Goldman au milicien anarchiste tombé à Madrid, qui commandait sans contraindre.
 <h2 id="contexte">Contexte</h2>
 <p>Juillet 1936 : un coup d'État militaire mené par Franco se heurte en Espagne à une résistance populaire. À Barcelone, les ouvrières et ouvriers de la CNT, la grande confédération anarcho-syndicaliste, battent les militaires et lancent une révolution sociale : usines et terres collectivisées, milices volontaires. Buenaventura Durruti, ouvrier mécanicien et militant légendaire, prend la tête d'une colonne de milliers de volontaires qui part libérer l'Aragon.</p>
-<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-durruti-funerailles.jpg" alt="Un cercueil couvert de couronnes de fleurs, entouré de miliciens." width="907" height="1262" loading="lazy"><figcaption>Barcelone, novembre 1936 : la chapelle ardente de Durruti, dans le hall de l'immeuble de la CNT, via Laietana. <small>Pablo Luis Torrents · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Durruti_funeral,_Via_Laietana.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-durruti-funerailles.jpg" alt="Un cercueil couvert de couronnes de fleurs, entouré de miliciennes et miliciens." width="907" height="1262" loading="lazy"><figcaption>Barcelone, novembre 1936 : la chapelle ardente de Durruti, dans le hall de l'immeuble de la CNT, via Laietana. <small>Pablo Luis Torrents · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Durruti_funeral,_Via_Laietana.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Emma Goldman, 67 ans, rejoint l'Espagne en septembre 1936 pour soutenir la révolution ; elle rencontre Durruti sur le front d'Aragon. En novembre, la colonne part défendre Madrid assiégée. Durruti y est tué le 20 novembre 1936, dans des circonstances jamais complètement éclaircies. Goldman écrit cet hommage.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Durruti vit dans celles et ceux qui poursuivent son combat. Il a prouvé qu'on peut obtenir l'engagement de milliers de personnes sans discipline militaire, par la responsabilité et l'exemple.</p>
+<p>Durruti vit dans celleux qui poursuivent son combat. Il a prouvé qu'on peut obtenir l'engagement de milliers de personnes sans discipline militaire, par la responsabilité et l'exemple.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>L'autodiscipline</strong> librement consentie, à la place de la discipline de caserne : pas de grades, pas de saluts, des délégués élus.</li>
+<li><strong>L'autodiscipline</strong> librement consentie, à la place de la discipline de caserne : pas de grades, pas de saluts, des déléguées et délégués élus.</li>
 <li><strong>Vivre comme les autres.</strong> Durruti mange, dort et combat avec ses miliciennes et miliciens, et partage leurs dangers.</li>
 <li><strong>Une guerre pour une révolution.</strong> La guerre antifasciste défend une révolution sociale, pas seulement une république.</li>
-<li><strong>La responsabilité plutôt que la sanction.</strong> À celles et ceux qui veulent quitter le front, il en appelle à leur conscience, pas à la menace.</li>
+<li><strong>La responsabilité plutôt que la sanction.</strong> À celleux qui veulent quitter le front, il en appelle à leur conscience, pas à la menace.</li>
 <li><strong>Les funérailles</strong> réunissent des centaines de milliers de personnes à Barcelone.</li>
 </ol>
 
@@ -137,13 +137,13 @@
 <p>Ce texte est un chapitre du témoignage de Goldman sur ces semaines décisives.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Réprimer les ouvriers de Petrograd et les marins de Kronstadt, c'est trahir la révolution. Leur contestation n'était pas une contre-révolution, et le dialogue devait primer sur les canons.</p>
+<p>Réprimer les ouvrières et ouvriers de Petrograd et les marins de Kronstadt, c'est trahir la révolution. Leur contestation n'était pas une contre-révolution, et le dialogue devait primer sur les canons.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Des revendications de survie.</strong> Les grévistes réclament du pain, du chauffage, des chaussures, et la fin des barrages qui empêchent d'aller chercher de la nourriture à la campagne.</li>
 <li><strong>La réponse du pouvoir</strong> : la loi martiale et les arrestations.</li>
-<li><strong>Kronstadt</strong> réclame la liberté de réunion et de parole pour les ouvriers, les paysans et les partis socialistes, des élections libres aux soviets, et la libération des prisonniers politiques socialistes.</li>
+<li><strong>Kronstadt</strong> réclame la liberté de réunion et de parole pour les ouvrières et ouvriers, les paysannes et paysans et les partis socialistes, des élections libres aux soviets, et la libération des prisonnières et prisonniers politiques socialistes.</li>
 <li><strong>Le mensonge du complot.</strong> Les dirigeants crient à une conspiration tsariste et étrangère sans examiner les faits.</li>
 <li><strong>La médiation refusée.</strong> Goldman et Berkman proposent une commission de médiation ; Trotski exige une reddition sans condition. La forteresse est prise d'assaut en mars 1921, et des centaines de marins sont fusillés dans les semaines qui suivent.</li>
 </ol>
@@ -154,7 +154,7 @@
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Kronstadt est devenu le symbole de l'autonomie ouvrière écrasée par un pouvoir qui se disait ouvrier. Dans de nombreux débats à gauche, « Kronstadt » sert encore de ligne de partage entre celles et ceux qui justifient l'autorité au nom de la révolution, et celles et ceux qui refusent.</p>
+<p>Kronstadt est devenu le symbole de l'autonomie ouvrière écrasée par un pouvoir qui se disait ouvrier. Dans de nombreux débats à gauche, « Kronstadt » sert encore de ligne de partage entre celleux qui justifient l'autorité au nom de la révolution, et celleux qui refusent.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul><li>Kronstadt, symbole de l'autonomie ouvrière écrasée.</li><li>Critiquer le pouvoir y devient une trahison.</li><li>À lire avec <a href="bolchevisme-et-anarchisme.html">Malatesta</a>.</li></ul>
@@ -213,7 +213,7 @@
 </ul></section>
 </div>
 
-=== fabrication-d-une-anarchiste | Individu & morale | La Fabrication d'une anarchiste | Voltairine de Cleyre · 1914 | Du couvent à l'anarchisme : le chemin intime d'une révoltée, et ce qu'elle a appris des ouvriers immigrés et des militants.
+=== fabrication-d-une-anarchiste | Individu & morale | La Fabrication d'une anarchiste | Voltairine de Cleyre · 1914 | Du couvent à l'anarchisme : le chemin intime d'une révoltée, et ce qu'elle a appris des ouvrières et ouvriers immigrés et des militantes et militants.
 <h2 id="contexte">Contexte</h2>
 <p>Voltairine de Cleyre écrit ce texte autobiographique au début des années 1900. Il est repris en 1914, deux ans après sa mort, dans le recueil de ses œuvres choisies édité par Alexander Berkman. Elle y raconte sa jeunesse dans un pensionnat catholique du Canada où son père l'avait placée, ses débuts de conférencière libre-penseuse, puis son chemin vers l'anarchisme.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-de-cleyre-1898.jpg" alt="Voltairine de Cleyre assise sur un perron, un chaton dans les bras." width="1200" height="1917" loading="lazy"><figcaption>Voltairine de Cleyre en août 1898, photographiée par Adelaide Thayer. <small>Adelaide D. Thayer · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Voltairine_de_Cleyre,_August_1898.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -227,7 +227,7 @@
 <li><strong>Le choc de Chicago.</strong> La pendaison de quatre anarchistes en 1887, après un procès truqué, ruine sa confiance dans la justice. Elle les avait d'abord crus coupables.</li>
 <li><strong>La liberté comme fondement de l'ordre social</strong>, et non comme une menace pour lui.</li>
 <li><strong>Un « anarchisme sans adjectif ».</strong> Entre individualistes et communistes, elle refuse de trancher : laissons l'expérience décider quelle forme économique convient.</li>
-<li><strong>Les ouvriers juifs immigrés</strong> de Philadelphie, à qui elle enseigne l'anglais, l'impressionnent par leur soif de savoir et leur dévouement.</li>
+<li><strong>Les ouvrières et ouvriers juifs immigrés</strong> de Philadelphie, à qui elle enseigne l'anglais, l'impressionnent par leur soif de savoir et leur dévouement.</li>
 <li><strong>Résister</strong>, toute sa vie, sans jamais se soumettre.</li>
 </ol>
 
@@ -272,7 +272,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Le risque de culpabiliser</strong> celles et ceux que les circonstances écrasent vraiment : la misère, la maladie, la violence ne se surmontent pas par la seule volonté. De Cleyre parle surtout aux militantes et militants qui ont le choix.</li>
+<li><strong>Le risque de culpabiliser</strong> celleux que les circonstances écrasent vraiment : la misère, la maladie, la violence ne se surmontent pas par la seule volonté. De Cleyre parle surtout aux militantes et militants qui ont le choix.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
@@ -307,7 +307,7 @@
 <li><strong>Le cortège de Vallès</strong> n'est qu'un début : une jeunesse nouvelle se lève.</li>
 <li><strong>La cruauté des gouvernements</strong> précipite le soulèvement.</li>
 <li><strong>La vraie revanche</strong> n'est pas contre la Prusse, mais contre les despotes de tous les pays.</li>
-<li><strong>Les couleurs</strong> : le rouge de la liberté, le noir des travailleurs en lutte et en deuil.</li>
+<li><strong>Les couleurs</strong> : le rouge de la liberté, le noir des travailleureuses en lutte et en deuil.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
@@ -334,7 +334,7 @@
 
 === anarchie-louise-michel | État & pouvoir | Anarchie | Louise Michel · 1883 | Un court poème en prose : l'anarchie comme espérance, une lampe dans la nuit qui annonce le droit à la place de la force.
 <h2 id="contexte">Contexte</h2>
-<p>Ce texte paraît en mars 1883, le mois où Louise Michel mène, drapeau noir en tête, une manifestation de chômeuses et chômeurs à Paris, qui lui vaudra six ans de prison. C'est une méditation brève et lyrique plutôt qu'un exposé : Louise Michel est aussi poétesse, elle a correspondu avec Victor Hugo et écrit des centaines de poèmes.</p>
+<p>Ce texte paraît en mars 1883, le mois où Louise Michel mène, drapeau noir en tête, une manifestation de chômeureuses à Paris, qui lui vaudra six ans de prison. C'est une méditation brève et lyrique plutôt qu'un exposé : Louise Michel est aussi poétesse, elle a correspondu avec Victor Hugo et écrit des centaines de poèmes.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-michel-vierge-1880.jpg" alt="Gravure : une femme en noir est embrassée par des hommes en haut-de-forme, au milieu de la foule." width="1200" height="802" loading="lazy"><figcaption>Paris, gare Saint-Lazare, 9 novembre 1880 : Louise Michel rentre du bagne, accueillie par la foule. Dessin de Daniel Vierge. <small>Daniel Vierge · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Louise_Michel_1880.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>

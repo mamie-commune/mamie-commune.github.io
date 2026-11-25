@@ -108,7 +108,7 @@
       <p class="meta">${esc(d.meta.join(" · "))}</p><p class="src">Original : <a href="${esc(d.adresse)}">${esc(d.adresse)}</a></p></header>${d.html}</section>`;
   }
   function licences(docs) {
-    return `<section class="doc" id="sources"><header><h2>Sources, autrices et auteurs, licences</h2></header><table><thead><tr><th>Document</th><th>Autrices, auteurs, contributions</th><th>Licence et original</th></tr></thead><tbody>${docs.map((d, i) =>
+    return `<section class="doc" id="sources"><header><h2>Sources, auteurices, licences</h2></header><table><thead><tr><th>Document</th><th>Autrices, auteurs, contributions</th><th>Licence et original</th></tr></thead><tbody>${docs.map((d, i) =>
       `<tr><td>${i + 1}. ${esc(d.h1)}</td><td>${esc(auteursDe(d) || "La bande à Mamie")}</td><td>${esc(d.credit || "Rédigé par la bande à Mamie, libre de reproduction en citant la source.")} <a href="${esc(d.adresse)}">${esc(d.adresse)}</a></td></tr>`).join("")}</tbody></table>
       <p>Chaque document garde, à sa fin, ses propres sources et ses liens pour aller plus loin. Les photos ne sont pas reprises : leurs légendes et crédits restent, et elles sont visibles sur la page d'origine.</p></section>`;
   }
@@ -120,7 +120,7 @@
   function dossierHtml(docs, imprimer) {
     const couv = `<section class="couv"><span class="k">Dossier Mamie Commune</span><h1>${esc(titreDossier())}</h1>${dos.pour.trim() ? `<p>${esc(dos.pour.trim())}</p>` : ""}
       <p class="meta">${docs.length} document${docs.length > 1 ? "s" : ""} · constitué le ${esc(jour())}${dos.par.trim() ? ` par ${esc(dos.par.trim())}` : ""}</p></section>
-      <nav class="sommaire"><h2>Sommaire</h2><ol>${docs.map((d, i) => `<li><a href="#doc-${i + 1}">${esc(d.h1)}</a> <small>(${esc(d.r.y)})</small></li>`).join("")}<li><a href="#sources">Sources, autrices et auteurs, licences</a></li></ol></nav>`;
+      <nav class="sommaire"><h2>Sommaire</h2><ol>${docs.map((d, i) => `<li><a href="#doc-${i + 1}">${esc(d.h1)}</a> <small>(${esc(d.r.y)})</small></li>`).join("")}<li><a href="#sources">Sources, auteurices, licences</a></li></ol></nav>`;
     return pageHtml(titreDossier(), couv + docs.map(blocDoc).join("") + licences(docs), imprimer);
   }
   async function rassembler() {

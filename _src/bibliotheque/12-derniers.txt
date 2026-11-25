@@ -19,7 +19,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Un repli sur l'entre-soi ?</strong> Beaucoup d'anarchistes reprochent à la TAZ d'abandonner l'idée de changer toute la société pour quelques moments de liberté réservés à celles et ceux qui peuvent se les offrir.</li>
+<li><strong>Un repli sur l'entre-soi ?</strong> Beaucoup d'anarchistes reprochent à la TAZ d'abandonner l'idée de changer toute la société pour quelques moments de liberté réservés à celleux qui peuvent se les offrir.</li>
 <li><strong>Des exemples contestables</strong> : la « république » de Fiume, en 1919-1920, est citée comme une utopie, alors qu'elle a aussi servi de laboratoire au fascisme italien.</li>
 <li><strong>L'auteur.</strong> Peter Lamborn Wilson a publié, sous ce même pseudonyme, des textes complaisants envers la pédocriminalité. Une grande partie du mouvement libertaire les a condamnés et a pris ses distances avec lui. On peut discuter l'idée de TAZ sans rien excuser de cela.</li>
 </ul>
@@ -88,14 +88,14 @@
 <p>En mai 1914, quelques mois avant la guerre, Kropotkine réunit dans une brochure des articles écrits pour <em>Les Temps nouveaux</em>. Il a 71 ans et a passé sa vie à étudier les révolutions, de la Révolution française à la Commune. Une question l'obsède : pourquoi le pouvoir retombe-t-il toujours entre les mains d'une minorité ?</p>
 
 <h2 id="these">La thèse</h2>
-<p>Tant que le peuple garde le cadre de l'État et de la loi, la bourgeoisie, ou une nouvelle élite, récupère la révolution. Il faut détruire l'État, la propriété et le gouvernement des élus, et bâtir tout de suite, dès le premier jour, la libre entente et le partage.</p>
+<p>Tant que le peuple garde le cadre de l'État et de la loi, la bourgeoisie, ou une nouvelle élite, récupère la révolution. Il faut détruire l'État, la propriété et le gouvernement des élues et élus, et bâtir tout de suite, dès le premier jour, la libre entente et le partage.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>La leçon de la Terreur.</strong> La Terreur de 1793-1794 a servi les chefs qui voulaient le pouvoir et a étouffé l'initiative populaire.</li>
 <li><strong>L'État hérité de Rome</strong> est le socle de la puissance bourgeoise : le garder, c'est garder la bourgeoisie.</li>
 <li><strong>Un pacte de solidarité dès le premier jour</strong>, pour partager les vivres, les outils et les savoirs. La faim est la première arme de la contre-révolution.</li>
-<li><strong>Abolir le salariat</strong> et organiser la production pour le bien-être de toutes et tous.</li>
+<li><strong>Abolir le salariat</strong> et organiser la production pour le bien-être de toustes.</li>
 <li><strong>Rendre le pouvoir inutile.</strong> On neutralise un pouvoir naissant en multipliant des initiatives populaires qui font mieux que lui, comme les sections parisiennes de 1789-1794.</li>
 </ol>
 
@@ -140,7 +140,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Un texte de synthèse</strong>, assez général, qui suppose de connaître un peu les auteurs cités.</li>
+<li><strong>Un texte de synthèse</strong>, assez général, qui suppose de connaître un peu les auteurices cités.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
@@ -165,7 +165,7 @@
 <p>Kropotkine publie cet article en 1881 dans <em>Le Révolté</em>. Les anarchistes viennent d'adopter pleinement ce nom, que leurs adversaires leur lançaient comme une insulte. On leur reproche de vouloir le « désordre ». Kropotkine retourne l'accusation. Le texte sera repris dans <em>Paroles d'un révolté</em>.</p>
 
 <h2 id="these">La thèse</h2>
-<p>L'ordre bourgeois repose sur la misère, l'exploitation et la violence d'État. Le désordre, c'est la révolte des opprimés, moteur de tous les progrès de l'histoire.</p>
+<p>L'ordre bourgeois repose sur la misère, l'exploitation et la violence d'État. Le désordre, c'est la révolte des opprimées et opprimés, moteur de tous les progrès de l'histoire.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -203,7 +203,7 @@
 <p>Élisée Reclus donne cette conférence pour la première fois à Genève en 1880. Elle paraît dans <em>Le Révolté</em>, puis en brochure, rééditée plusieurs fois : la version présentée ici date de 1891. Reclus la développera en livre en 1898. À l'époque, le mot « évolution » est à la mode depuis Darwin ; les conservateurs l'utilisent pour dire que tout doit changer lentement, sans rupture.</p>
 
 <h2 id="these">La thèse</h2>
-<p>La révolution suit l'évolution comme l'acte suit la volonté. Elle doit viser toute la société, et ne réussit vraiment que si les opprimés la conduisent eux-mêmes, en connaissance de cause.</p>
+<p>La révolution suit l'évolution comme l'acte suit la volonté. Elle doit viser toute la société, et ne réussit vraiment que si les opprimées et opprimés la conduisent elleux-mêmes, en connaissance de cause.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -239,7 +239,7 @@
 
 === organisation-du-travail-dejacque | Économie & propriété | L'Organisation du travail | Joseph Déjacque · 1860 | Le travail reste organisé sur le modèle de l'esclavage : changer de patron ne suffit pas, il faut le libérer.
 <h2 id="contexte">Contexte</h2>
-<p>Joseph Déjacque publie ce texte en 1860 dans <em>Le Libertaire</em>, le journal qu'il édite seul à New York pour les exilés français. Les États-Unis sont à la veille de la guerre de Sécession, et le débat sur l'esclavage est partout. Déjacque y discute les grands penseurs socialistes de l'organisation du travail : Charles Fourier, qui rêvait d'un « travail attrayant », et Proudhon.</p>
+<p>Joseph Déjacque publie ce texte en 1860 dans <em>Le Libertaire</em>, le journal qu'il édite seul à New York pour les exilées et exilés français. Les États-Unis sont à la veille de la guerre de Sécession, et le débat sur l'esclavage est partout. Déjacque y discute les grands penseurs socialistes de l'organisation du travail : Charles Fourier, qui rêvait d'un « travail attrayant », et Proudhon.</p>
 
 <h2 id="these">La thèse</h2>
 <p>Le travail a été imposé comme une peine par les autorités religieuses, politiques et familiales. Il reste organisé sur le modèle de l'esclavage. Il ne deviendra attrayant et choisi que par une révolution sociale complète, qui abolisse toute autorité.</p>
@@ -280,7 +280,7 @@
 <p>Libertad publie ce texte en avril 1906 dans <em>l'anarchie</em>, en pleine campagne pour les législatives de mai. Avec ses camarades, il va dans les réunions électorales pour « porter la contradiction » : prendre la parole face aux candidats pour dénoncer le vote. Ces interventions finissent souvent en bagarres.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Voter, c'est choisir volontairement un maître. Les candidats vendent du rêve, et les électeurs aiment être trompés. La réponse cohérente est de combattre le vote, les lois et les élus.</p>
+<p>Voter, c'est choisir volontairement un maître. Les candidats vendent du rêve, et les électeurices aiment être trompés. La réponse cohérente est de combattre le vote, les lois et les élues et élus.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -293,7 +293,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Le mépris du « bétail »</strong> peut faire fuir celles et ceux qu'on veut convaincre, un reproche souvent fait à Libertad.</li>
+<li><strong>Le mépris du « bétail »</strong> peut faire fuir celleux qu'on veut convaincre, un reproche souvent fait à Libertad.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
@@ -313,13 +313,13 @@
 </ul></section>
 </div>
 
-=== revolution-et-darwinisme | Révolution & stratégie | La Révolution et le darwinisme | Jean Grave · 1895 | Retourner Darwin contre les darwinistes sociaux : si la victoire revient aux plus aptes, elle revient à celles et ceux qui produisent.
+=== revolution-et-darwinisme | Révolution & stratégie | La Révolution et le darwinisme | Jean Grave · 1895 | Retourner Darwin contre les darwinistes sociaux : si la victoire revient aux plus aptes, elle revient à celleux qui produisent.
 <h2 id="contexte">Contexte</h2>
 <p>Jean Grave publie ce texte en 1895, l'année de <em>La Société future</em>, dont il forme un chapitre. Depuis Darwin, des savants et des économistes, comme le biologiste allemand Ernst Haeckel, transposent la « lutte pour l'existence » à la société : la misère des pauvres serait la sélection naturelle à l'œuvre, et la richesse des riches la preuve de leur supériorité.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-darwin-1881.jpg" alt="Charles Darwin âgé, longue barbe blanche et chapeau noir." width="1200" height="1646" loading="lazy"><figcaption>Charles Darwin en 1881, photographié par Elliott &amp; Fry. <small>Elliott & Fry · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Charles_Darwin_1880.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
-<p>La compétition n'explique qu'une petite part de l'évolution ; l'entraide est la règle. La bourgeoisie, devenue parasite, n'a aucun titre à dominer. Si la victoire revient aux plus aptes, elle revient aux travailleuses et travailleurs, qui produisent tout.</p>
+<p>La compétition n'explique qu'une petite part de l'évolution ; l'entraide est la règle. La bourgeoisie, devenue parasite, n'a aucun titre à dominer. Si la victoire revient aux plus aptes, elle revient aux travailleureuses, qui produisent tout.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -327,7 +327,7 @@
 <li><strong>Malthus et Haeckel</strong> au service de l'ordre établi.</li>
 <li><strong>Chez les animaux</strong>, la lutte au sein d'une même espèce est rare ; on s'unit contre les dangers.</li>
 <li><strong>La solidarité détournée.</strong> Les plus forts ont détourné la solidarité humaine à leur profit.</li>
-<li><strong>Le parasite</strong> : la bourgeoisie vit du travail des autres ; c'est la misère qui dégrade les travailleurs, pas leur nature.</li>
+<li><strong>Le parasite</strong> : la bourgeoisie vit du travail des autres ; c'est la misère qui dégrade les travailleureuses, pas leur nature.</li>
 <li><strong>Retourner l'argument</strong> : si la victoire revient aux plus forts, elle revient aux producteurs, qui sont le nombre et la force.</li>
 </ol>
 

@@ -6,7 +6,7 @@
 <li><b>Un titre</b>qui dit le problème en cinq mots</li>
 <li><b>Trois paragraphes</b>ce qui se passe, pourquoi c'est injuste, ce qu'on propose</li>
 <li><b>Un rendez-vous</b>date, heure, lieu : où retrouver les autres</li>
-<li><b>Un contact</b>pour celles et ceux qui veulent s'y mettre</li>
+<li><b>Un contact</b>pour celleux qui veulent s'y mettre</li>
 </ol>
 <ul>
 <li><strong>Écris pour la personne qui passe</strong>, pas pour les camarades qui savent déjà. Pas de sigles, pas de jargon, des phrases courtes.</li>

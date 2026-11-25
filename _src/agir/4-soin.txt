@@ -75,8 +75,8 @@
 </div>
 <p class="credit">Fiche rédigée par la bande à Mamie. Elle ne remplace ni l'écoute d'une association spécialisée, ni l'avis d'une avocate ou d'un avocat. Libre de reproduction.</p>
 
-=== accueillir-personnes-trans | Prendre soin du collectif | Accueillir les personnes trans et non binaires dans son collectif | D'après la Défenseure des droits et les associations trans · 2026 | Prénoms et pronoms, mégenrage, toilettes, sorties, sécurité : ce qu'un collectif peut faire concrètement pour que les camarades trans et non binaires s'y sentent chez elles et chez eux.
-<p>Dans la bande à Mamie, on a appris sur le tas, en se trompant, en se faisant reprendre, en recommençant. Ce n'est pas compliqué, mais ça demande de l'attention. <strong>Un collectif qui laisse partir ses camarades trans parce qu'ils ou elles s'y sentent mal se prive d'une partie de sa force.</strong></p>
+=== accueillir-personnes-trans | Prendre soin du collectif | Accueillir les personnes trans et non binaires dans son collectif | D'après la Défenseure des droits et les associations trans · 2026 | Prénoms et pronoms, mégenrage, toilettes, sorties, sécurité : ce qu'un collectif peut faire concrètement pour que les camarades trans et non binaires s'y sentent chez elles et chez elleux.
+<p>Dans la bande à Mamie, on a appris sur le tas, en se trompant, en se faisant reprendre, en recommençant. Ce n'est pas compliqué, mais ça demande de l'attention. <strong>Un collectif qui laisse partir ses camarades trans parce qu'iels s'y sentent mal se prive d'une partie de sa force.</strong></p>
 
 <h2 id="prenoms">Prénoms et pronoms</h2>
 <ul>

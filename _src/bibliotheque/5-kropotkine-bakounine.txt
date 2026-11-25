@@ -5,12 +5,12 @@
 <p>Le livre ne se contente pas de critiquer : Kropotkine y décrit concrètement ce que ferait une révolution victorieuse pour nourrir, loger et vêtir tout le monde dès le premier jour. Il sera traduit dans des dizaines de langues et lu par des générations de militantes et militants, de l'Espagne à la Chine.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Les sociétés modernes produisent déjà assez pour assurer l'aisance de toutes et tous. La misère vient de l'appropriation privée des moyens de production. Il faut les mettre en commun, sans État : c'est le <strong>communisme anarchiste</strong>, où chacune et chacun prend selon ses besoins.</p>
+<p>Les sociétés modernes produisent déjà assez pour assurer l'aisance de toustes. La misère vient de l'appropriation privée des moyens de production. Il faut les mettre en commun, sans État : c'est le <strong>communisme anarchiste</strong>, où chacune et chacun prend selon ses besoins.</p>
 
 <h2 id="idees">Les idées</h2>
 <ol>
 <li><strong>Nos richesses</strong> : terres défrichées, routes, machines, villes et savoirs sont l'œuvre de générations entières. Personne ne peut dire « ceci est à moi seul ». Comment mesurer la part du mineur, de l'ingénieur, de l'inventeur mort il y a un siècle ?</li>
-<li><strong>L'aisance pour tous</strong> : la productivité progresse plus vite que la population, mais les propriétaires freinent la production pour tenir les prix. Kropotkine oppose le <strong>droit à l'aisance</strong> au « droit au travail », qui ne fait qu'enfermer dans le salariat.</li>
+<li><strong>L'aisance pour toustes</strong> : la productivité progresse plus vite que la population, mais les propriétaires freinent la production pour tenir les prix. Kropotkine oppose le <strong>droit à l'aisance</strong> au « droit au travail », qui ne fait qu'enfermer dans le salariat.</li>
 <li><strong>Le communisme anarchiste.</strong> Beaucoup de choses sont déjà gratuites : routes, ponts, bibliothèques, écoles, fontaines. On peut étendre ce principe : prendre au tas ce qui abonde, rationner équitablement ce qui manque, en servant d'abord les enfants, les malades et les personnes âgées.</li>
 <li><strong>Contre le salariat révolutionnaire.</strong> Payer chacun selon ses heures de travail, avec des « bons de travail », comme le veulent les collectivistes, recréerait les inégalités et les comptables.</li>
 <li><strong>L'expropriation</strong> doit être générale : terre, usines, logements. Une expropriation partielle échouerait, car tout se tient.</li>
@@ -23,7 +23,7 @@
 <h2 id="limites">Débats et limites</h2>
 <ul>
 <li><strong>L'abondance, vraiment ?</strong> Kropotkine pense la nature presque inépuisable. Aujourd'hui, avec la crise écologique, on se demande plutôt comment bien vivre avec moins. Son idée de produire près des besoins, à petite échelle, reste pourtant très moderne.</li>
-<li><strong>Et ceux qui ne veulent pas travailler ?</strong> Kropotkine répond par la pression amicale et le plaisir du travail choisi. Les critiques trouvent cela optimiste.</li>
+<li><strong>Et celleux qui ne veulent pas travailler ?</strong> Kropotkine répond par la pression amicale et le plaisir du travail choisi. Les critiques trouvent cela optimiste.</li>
 <li><strong>Le passage à l'acte</strong> : l'expropriation générale suppose une révolution victorieuse dans tout un pays, ce qui ne s'est presque jamais produit (sauf, en partie, en Espagne en 1936).</li>
 </ul>
 
@@ -68,7 +68,7 @@
 <li><strong>Le cœur de l'anarchie</strong> : <strong>traiter les autres comme on veut être traité</strong>. Donc ne pas gouverner, ne pas tromper, ne pas exploiter. C'est le principe d'égalité, appliqué à la vie quotidienne.</li>
 <li><strong>Ni sanction ni obligation.</strong> Pas de punition, pas de commandement : des conseils, et la liberté de combattre ce qui nous nuit.</li>
 <li><strong>Le sommet de la morale</strong> est un trop-plein de vie, d'intelligence et d'énergie qui pousse à donner sans compter.</li>
-<li><strong>Égoïsme et altruisme</strong> ne s'opposent pas : à long terme, l'intérêt de chacune et celui de toutes et tous se rejoignent.</li>
+<li><strong>Égoïsme et altruisme</strong> ne s'opposent pas : à long terme, l'intérêt de chacune et celui de toustes se rejoignent.</li>
 </ol>
 <blockquote><p>Kropotkine conclut par un appel : « Sois fort ! Déborde d'énergie passionnelle et intellectuelle, et tu déverseras sur les autres ton intelligence, ton amour, ta force d'action ! »</p></blockquote>
 
@@ -146,7 +146,7 @@
 
 === l-etat-son-role-historique | État & pouvoir | L'État, son rôle historique | Pierre Kropotkine · 1906 | L'État n'est pas la société : c'est une forme récente, née au XVIe siècle en écrasant les communes libres.
 <h2 id="contexte">Contexte</h2>
-<p>Kropotkine rédige ce texte comme une conférence dans les années 1890, puis le publie dans <em>Les Temps nouveaux</em> avant d'en faire une brochure. Le débat socialiste fait rage : les partis marxistes, en pleine croissance en Allemagne et en France, veulent conquérir l'État par les élections pour le mettre au service des travailleurs. Les anarchistes veulent l'abolir. Kropotkine répond par l'histoire.</p>
+<p>Kropotkine rédige ce texte comme une conférence dans les années 1890, puis le publie dans <em>Les Temps nouveaux</em> avant d'en faire une brochure. Le débat socialiste fait rage : les partis marxistes, en pleine croissance en Allemagne et en France, veulent conquérir l'État par les élections pour le mettre au service des travailleureuses. Les anarchistes veulent l'abolir. Kropotkine répond par l'histoire.</p>
 
 <h2 id="these">La thèse</h2>
 <p>La société existait bien avant l'État. Celui-ci n'est pas l'organisation naturelle de la vie commune, mais une forme historique précise, qui concentre le pouvoir entre quelques mains. Il a détruit les libertés locales ; il faut l'abolir, pas le réformer ni le conquérir.</p>
@@ -154,11 +154,11 @@
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Trois mots à ne pas confondre</strong> : la société (la vie en commun), le gouvernement (des gens qui commandent) et l'État (une machine centralisée qui réunit armée, justice, religion et administration).</li>
-<li><strong>L'Empire romain</strong> est le modèle de la centralisation, avec des sujets plutôt que des citoyens libres.</li>
+<li><strong>L'Empire romain</strong> est le modèle de la centralisation, avec des sujets plutôt que des citoyennes et citoyens libres.</li>
 <li><strong>Le « contrat social » est un mythe.</strong> Les humains n'ont jamais vécu isolés avant de signer un pacte : clans et tribus vivaient de coutumes et d'entraide.</li>
 <li><strong>La commune de village et les guildes</strong> formaient des fédérations libres qui géraient la justice, les terres communes et les échanges.</li>
 <li><strong>Les villes libres du Moyen Âge</strong> (XIe-XIIe siècles), affranchies des seigneurs, ont connu un âge de prospérité, d'art et d'invention : cathédrales, beffrois, ponts.</li>
-<li><strong>Au XVIe siècle</strong>, l'alliance du seigneur de guerre, du juge formé au droit romain et du prêtre écrase les communes et les grandes révoltes populaires, comme la guerre des paysans en Allemagne.</li>
+<li><strong>Au XVIe siècle</strong>, l'alliance du seigneur de guerre, du juge formé au droit romain et du prêtre écrase les communes et les grandes révoltes populaires, comme la guerre des paysannes et paysans en Allemagne.</li>
 <li><strong>Un vol organisé.</strong> L'État s'empare des terres communales et dissout les guildes. Ce n'est pas une évolution naturelle, mais une conquête.</li>
 <li><strong>L'État interdit les unions directes</strong> entre les gens : tout doit passer par lui. Il faut retrouver le principe fédératif, de bas en haut.</li>
 </ol>
@@ -243,7 +243,7 @@
 <figure class="photo"><img src="../assets/img/revolutions/biblio-le-revolte-1882.jpg" alt="Le titre du journal Le Révolté, organe socialiste, paraissant tous les 15 jours à Genève." width="1200" height="392" loading="lazy"><figcaption>Le titre du <em>Révolté</em>, le journal que Kropotkine fonde à Genève en 1879. <em>Paroles d'un révolté</em> rassemble les articles qu'il y a écrits. <small>journal Le Révolté · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Le_R%C3%A9volt%C3%A9.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
-<p>L'Europe va vers une révolution générale : le capitalisme est en crise chronique, les États se décomposent sous le poids des dettes et des guerres. Les droits ne protègent les travailleuses et travailleurs que s'ils sont conquis et défendus par une force collective.</p>
+<p>L'Europe va vers une révolution générale : le capitalisme est en crise chronique, les États se décomposent sous le poids des dettes et des guerres. Les droits ne protègent les travailleureuses que s'ils sont conquis et défendus par une force collective.</p>
 
 <h2 id="chapitres">Les grands chapitres</h2>
 <ul>
@@ -263,7 +263,7 @@
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Le chapitre sur les droits politiques sonne étrangement actuel : restrictions du droit de manifester, dissolutions d'associations, surveillance des communications. Kropotkine rappelle que les libertés ne sont jamais acquises une fois pour toutes, et qu'elles tiennent par la force de celles et ceux qui les défendent.</p>
+<p>Le chapitre sur les droits politiques sonne étrangement actuel : restrictions du droit de manifester, dissolutions d'associations, surveillance des communications. Kropotkine rappelle que les libertés ne sont jamais acquises une fois pour toutes, et qu'elles tiennent par la force de celleux qui les défendent.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -284,9 +284,9 @@
 </ul></section>
 </div>
 
-=== la-grande-revolution | Révolution & stratégie | La Grande Révolution | Pierre Kropotkine · 1909 | La Révolution française racontée par en bas : sans les paysans et le peuple des villes, la bourgeoisie n'aurait jamais renversé l'Ancien Régime.
+=== la-grande-revolution | Révolution & stratégie | La Grande Révolution | Pierre Kropotkine · 1909 | La Révolution française racontée par en bas : sans les paysannes et paysans et le peuple des villes, la bourgeoisie n'aurait jamais renversé l'Ancien Régime.
 <h2 id="contexte">Contexte</h2>
-<p>Kropotkine travaille sur la Révolution française pendant vingt ans, depuis des articles parus en 1889 pour le centenaire. Il passe des mois au British Museum à lire les archives et les travaux des historiens. Le livre paraît en 1909, en français et en anglais. À l'époque, l'histoire de la Révolution est surtout celle des assemblées, des grands discours et des grands hommes. Kropotkine veut écrire son histoire populaire et économique.</p>
+<p>Kropotkine travaille sur la Révolution française pendant vingt ans, depuis des articles parus en 1889 pour le centenaire. Il passe des mois au British Museum à lire les archives et les travaux des historiennes et historiens. Le livre paraît en 1909, en français et en anglais. À l'époque, l'histoire de la Révolution est surtout celle des assemblées, des grands discours et des grands hommes. Kropotkine veut écrire son histoire populaire et économique.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-bastille.jpg" alt="Gravure : la foule armée devant la forteresse de la Bastille, dans la fumée." width="1200" height="798" loading="lazy"><figcaption>La prise de la Bastille, le 14 juillet 1789, sur une gravure du XIXe siècle. <small>François Hippolyte Lalaisse · CC0 · <a href="https://commons.wikimedia.org/wiki/File:PRISE_DE_LA_BASTILLE_14_juillet_1789,_G.27792.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
@@ -305,7 +305,7 @@
 <h2 id="limites">Débats et limites</h2>
 <ul>
 <li><strong>Un livre militant</strong> : Kropotkine cherche dans la Révolution des leçons pour la révolution future, et idéalise parfois les sections parisiennes.</li>
-<li><strong>Un livre reconnu</strong> pourtant par les historiens. Après lui, Georges Lefebvre sur les paysans, Albert Soboul sur les sans-culottes ou Daniel Guérin ont approfondi l'histoire « par en bas » qu'il avait ouverte.</li>
+<li><strong>Un livre reconnu</strong> pourtant par les historiennes et historiens. Après lui, Georges Lefebvre sur les paysannes et paysans, Albert Soboul sur les sans-culottes ou Daniel Guérin ont approfondi l'histoire « par en bas » qu'il avait ouverte.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
@@ -330,24 +330,24 @@
 </ul></section>
 </div>
 
-=== trois-conferences-saint-imier | Révolution & stratégie | Trois conférences aux ouvriers du Val de Saint-Imier | Mikhaïl Bakounine · 1871 | Devant des horlogers du Jura, Bakounine raconte comment la bourgeoisie a pris le pouvoir, et pourquoi seuls les travailleuses et travailleurs peuvent finir la révolution.
+=== trois-conferences-saint-imier | Révolution & stratégie | Trois conférences aux ouvrières et ouvriers du Val de Saint-Imier | Mikhaïl Bakounine · 1871 | Devant des horlogers du Jura, Bakounine raconte comment la bourgeoisie a pris le pouvoir, et pourquoi seuls les travailleureuses peuvent finir la révolution.
 <h2 id="contexte">Contexte</h2>
 <p>Mai 1871 : la France vient de perdre la guerre contre la Prusse, et la Commune de Paris vit ses dernières semaines. Bakounine est invité à parler devant les ouvrières et ouvriers horlogers du vallon de Saint-Imier, dans le Jura suisse. Ces horlogers travaillent souvent à domicile, très qualifiés, très instruits ; ils forment le cœur de la Fédération jurassienne de l'Internationale, berceau de l'anarchisme organisé. C'est dans ce même village que se tiendra, l'année suivante, le congrès fondateur de l'Internationale anti-autoritaire.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-sonvilier.jpg" alt="Un village du Jura suisse, avec un grand café-restaurant." width="942" height="627" loading="lazy"><figcaption>Sonvilier, dans le vallon de Saint-Imier, sur une carte postale ancienne. C'est dans ce café que naît la Fédération jurassienne, en novembre 1871, l'année de ces conférences. <small>Fritz Glauser · domaine public · <a href="https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_la_Balance_%C3%A0_Sonvilier.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
-<p>De la Réforme à 1789, la bourgeoisie a remplacé une domination par une autre. La vraie liberté exige d'abolir l'État et la propriété privée du capital, et c'est aux travailleuses et travailleurs de le faire eux-mêmes.</p>
+<p>De la Réforme à 1789, la bourgeoisie a remplacé une domination par une autre. La vraie liberté exige d'abolir l'État et la propriété privée du capital, et c'est aux travailleureuses de le faire elleux-mêmes.</p>
 
 <h2 id="conferences">Les trois conférences</h2>
 <ol>
 <li><strong>De la Réforme à la monarchie absolue.</strong> L'Église puis la noblesse deviennent les servantes de l'État. Bakounine oppose la « morale d'État », qui justifie tout pour la puissance et la raison d'État, à une morale humaine fondée sur la liberté et l'égalité.</li>
 <li><strong>1789.</strong> Une révolution seulement politique, qui donne une liberté formelle aux possédants. Sans moyens matériels ni instruction, la liberté est une fiction : on est « libre » de mourir de faim. La liberté suppose l'égalité.</li>
-<li><strong>Après 1789.</strong> Les Jacobins, Babeuf et sa « conjuration des Égaux », Bonaparte, le libéralisme bourgeois. La concurrence écrase les petits ; seuls les travailleurs unis peuvent porter l'émancipation. La Commune de Paris en est le début.</li>
+<li><strong>Après 1789.</strong> Les Jacobins, Babeuf et sa « conjuration des Égaux », Bonaparte, le libéralisme bourgeois. La concurrence écrase les petits ; seuls les travailleureuses unis peuvent porter l'émancipation. La Commune de Paris en est le début.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Une histoire à grands traits</strong>, faite pour être dite en une soirée. Les historiens y trouveraient des raccourcis.</li>
+<li><strong>Une histoire à grands traits</strong>, faite pour être dite en une soirée. Les historiennes et historiens y trouveraient des raccourcis.</li>
 <li><strong>Des passages datés</strong>, notamment sur les « races » et les peuples, qui reprennent des préjugés de l'époque.</li>
 </ul>
 
@@ -379,14 +379,14 @@
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-bakounine-tribune-1869.jpg" alt="Dessin : Bakounine debout, le bras tendu, parle devant une salle." width="1200" height="1635" loading="lazy"><figcaption>Bakounine à la tribune du congrès de Bâle, en 1869, dessiné par le délégué catalan Rafael Farga i Pellicer. <small>Rafael Farga i Pellicer · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Bakunin_speaking.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
-<p>Le gouvernement représentatif, même démocratique, ne permet pas au peuple de contrôler ses dirigeants. La seule issue est de remplacer l'État politique par une fédération économique des associations de travailleuses et travailleurs.</p>
+<p>Le gouvernement représentatif, même démocratique, ne permet pas au peuple de contrôler ses dirigeants. La seule issue est de remplacer l'État politique par une fédération économique des associations de travailleureuses.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>L'éloignement.</strong> Une fois élus, les représentants s'éloignent du peuple ; même les radicaux sincères se démoralisent au pouvoir.</li>
-<li><strong>La position fait l'homme.</strong> Gouverner crée une position supérieure, avec ses intérêts propres. Un parlement composé d'ouvriers suivrait la même pente : ils deviendraient vite des bourgeois.</li>
+<li><strong>La position fait l'homme.</strong> Gouverner crée une position supérieure, avec ses intérêts propres. Un parlement composé d'ouvrières et ouvriers suivrait la même pente : iels deviendraient vite des bourgeois.</li>
 <li><strong>Le temps et le savoir.</strong> Le peuple, épuisé par le travail, n'a ni le temps ni les moyens de suivre les affaires publiques ; la bourgeoisie, qui les a, gouverne pour elle.</li>
-<li><strong>Le référendum ne corrige rien.</strong> Les lois sont complexes, les électeurs suivent les orateurs et les journaux, et l'on ne vote que sur ce que le pouvoir veut bien proposer.</li>
+<li><strong>Le référendum ne corrige rien.</strong> Les lois sont complexes, les électeurices suivent les orateurs et les journaux, et l'on ne vote que sur ce que le pouvoir veut bien proposer.</li>
 <li><strong>La centralisation.</strong> En Suisse, le vrai contrôle populaire passait par les révolutions cantonales. La Confédération centralisée les a rendues impossibles ; en 1864, elle a envoyé des troupes contre une insurrection à Genève.</li>
 <li><strong>L'impasse et la proposition</strong> : une fédération économique, de bas en haut, à la place de l'État politique.</li>
 </ol>
@@ -394,11 +394,11 @@
 <h2 id="limites">Débats et limites</h2>
 <ul>
 <li><strong>Le suffrage universel a permis des conquêtes</strong> réelles au XXe siècle, que Bakounine ne pouvait pas prévoir. Mais ces conquêtes ont presque toujours été arrachées par des grèves et des mouvements, avant d'être votées.</li>
-<li><strong>Une fédération économique</strong>, oui, mais comment s'y prennent celles et ceux qui ne travaillent pas, les personnes âgées, les malades ? Le texte ne détaille pas.</li>
+<li><strong>Une fédération économique</strong>, oui, mais comment s'y prennent celleux qui ne travaillent pas, les personnes âgées, les malades ? Le texte ne détaille pas.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Abstention record, défiance envers les élus, mouvements qui réclament la démocratie directe (le RIC des gilets jaunes, les assemblées citoyennes) : la question de Bakounine est plus vive que jamais. Sa critique du référendum mérite d'être discutée par celles et ceux qui y voient la solution : qui pose la question, et qui contrôle l'information ?</p>
+<p>Abstention record, défiance envers les élues et élus, mouvements qui réclament la démocratie directe (le RIC des gilets jaunes, les assemblées citoyennes) : la question de Bakounine est plus vive que jamais. Sa critique du référendum mérite d'être discutée par celleux qui y voient la solution : qui pose la question, et qui contrôle l'information ?</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>

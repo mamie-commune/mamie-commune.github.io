@@ -1,4 +1,4 @@
-=== introduction-anarchisme | Les idées | Introduction à l'anarchisme | Parcours découverte · 5 modules | D'où vient le mot, ce que veulent les anarchistes, comment ils comptent y arriver, et pourquoi ils ne sont pas d'accord entre eux. Le parcours pour commencer.
+=== introduction-anarchisme | Les idées | Introduction à l'anarchisme | Parcours découverte · 5 modules | D'où vient le mot, ce que veulent les anarchistes, comment iels comptent y arriver, et pourquoi iels ne sont pas d'accord entre elleux. Le parcours pour commencer.
 <p>Mamie a commencé comme tout le monde : en entendant dire que l'anarchie, c'était le désordre. Ce parcours remet les choses à leur place, sans catéchisme : les idées, leur histoire, et les désaccords qui traversent la famille libertaire depuis le début.</p>
 
 <h2 id="presentation">Présentation</h2>
@@ -6,7 +6,7 @@
 
 <h2 id="objectifs">Objectifs</h2>
 <ul>
-<li>Expliquer en quelques phrases ce que veulent les anarchistes, et ce qu'ils refusent.</li>
+<li>Expliquer en quelques phrases ce que veulent les anarchistes, et ce qu'iels refusent.</li>
 <li>Situer quelques grandes figures et leurs époques.</li>
 <li>Distinguer les principaux courants : individualiste, communiste libertaire, anarcho-syndicaliste, plateformiste.</li>
 <li>Repérer les débats qui restent ouverts (violence, organisation, élections).</li>
@@ -131,7 +131,7 @@
 <p>Avant même de penser la révolution, les pauvres se sont débrouillés ensemble : caisses de secours, coopératives, sociétés mutuelles. Les anarchistes en ont tiré des théories. Ce parcours met côte à côte les idées et les pratiques d'hier et d'aujourd'hui.</p>
 
 <h2 id="presentation">Présentation</h2>
-<p>Le mutuellisme de Proudhon imagine une économie de travailleurs associés qui échangent à leur juste valeur, avec du crédit gratuit. L'entraide de Kropotkine affirme que la coopération est un moteur de l'évolution autant que la concurrence. Les deux idées nourrissent encore les caisses de solidarité, les coopératives et les cantines populaires.</p>
+<p>Le mutuellisme de Proudhon imagine une économie de travailleureuses associés qui échangent à leur juste valeur, avec du crédit gratuit. L'entraide de Kropotkine affirme que la coopération est un moteur de l'évolution autant que la concurrence. Les deux idées nourrissent encore les caisses de solidarité, les coopératives et les cantines populaires.</p>
 
 <h2 id="objectifs">Objectifs</h2>
 <ul>
@@ -315,7 +315,7 @@
 <p>Pour Mamie, tout commence en 1871 : une ville qui se gouverne elle-même. Le communalisme part de cette idée simple, faire de la commune et du quartier le lieu de la décision. Ce parcours suit l'idée jusqu'au Rojava, avec ses promesses et ses critiques.</p>
 
 <h2 id="presentation">Présentation</h2>
-<p>Le communalisme, ou municipalisme libertaire, propose que les habitantes et habitants décident en assemblées locales, et que ces assemblées se fédèrent par des délégués révocables, pour remplacer peu à peu l'État. Murray Bookchin l'a théorisé ; Abdullah Öcalan s'en est inspiré pour le confédéralisme démocratique.</p>
+<p>Le communalisme, ou municipalisme libertaire, propose que les habitantes et habitants décident en assemblées locales, et que ces assemblées se fédèrent par des déléguées et délégués révocables, pour remplacer peu à peu l'État. Murray Bookchin l'a théorisé ; Abdullah Öcalan s'en est inspiré pour le confédéralisme démocratique.</p>
 
 <h2 id="objectifs">Objectifs</h2>
 <ul>
@@ -355,7 +355,7 @@
 <ol class="parcours-questions">
 <li>Qu'est-ce qu'un mandat révocable, et pourquoi la Commune y tenait-elle ? <small>Piste : module 1</small></li>
 <li>Sur quels exemples Bookchin s'appuie-t-il pour défendre les assemblées ? <small>Piste : module 2</small></li>
-<li>Pourquoi des anarchistes refusent-ils de présenter des listes aux élections municipales ? <small>Piste : module 4</small></li>
+<li>Pourquoi des anarchistes refusent-iels de présenter des listes aux élections municipales ? <small>Piste : module 4</small></li>
 </ol>
 
 <h2 id="bibliographie">Bibliographie</h2>

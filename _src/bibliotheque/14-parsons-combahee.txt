@@ -1,10 +1,10 @@
-=== aux-vagabonds | Révolution & stratégie | Aux vagabonds | Lucy Parsons · 1884 | Un appel brûlant aux chômeurs et aux sans-abri de Chicago : la misère n'est pas une faute personnelle, c'est le système, et ceux qu'il jette à la rue n'ont pas à mourir en silence.
+=== aux-vagabonds | Révolution & stratégie | Aux vagabonds | Lucy Parsons · 1884 | Un appel brûlant aux chômeureuses et aux sans-abri de Chicago : la misère n'est pas une faute personnelle, c'est le système, et celleux qu'il jette à la rue n'ont pas à mourir en silence.
 <h2 id="contexte">Contexte</h2>
-<p>Lucy Parsons naît vers 1853 au Texas, probablement dans l'esclavage. Femme d'ascendance africaine, mexicaine et amérindienne, elle épouse Albert Parsons, un militant blanc, à une époque où ces unions sont interdites dans beaucoup d'États. Le couple doit fuir le Texas et s'installe à Chicago, où ils deviennent des figures du mouvement ouvrier anarchiste.</p>
-<p>Dans les années 1880, Chicago est une ville d'usines où l'on travaille dix à quatorze heures par jour. Pendant l'hiver 1883-1884, une crise économique jette des milliers d'ouvriers à la rue. C'est à eux que Lucy Parsons s'adresse, le 4 octobre 1884, dans <em>The Alarm</em>, le journal anarchiste de langue anglaise de Chicago. Le texte est ensuite imprimé en tract et distribué dans les rues.</p>
+<p>Lucy Parsons naît vers 1853 au Texas, probablement dans l'esclavage. Femme d'ascendance africaine, mexicaine et amérindienne, elle épouse Albert Parsons, un militant blanc, à une époque où ces unions sont interdites dans beaucoup d'États. Le couple doit fuir le Texas et s'installe à Chicago, où iels deviennent des figures du mouvement ouvrier anarchiste.</p>
+<p>Dans les années 1880, Chicago est une ville d'usines où l'on travaille dix à quatorze heures par jour. Pendant l'hiver 1883-1884, une crise économique jette des milliers d'ouvrières et ouvriers à la rue. C'est à elleux que Lucy Parsons s'adresse, le 4 octobre 1884, dans <em>The Alarm</em>, le journal anarchiste de langue anglaise de Chicago. Le texte est ensuite imprimé en tract et distribué dans les rues.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Les vagabonds ne sont pas des paresseux ni des ivrognes : ce sont des travailleuses et des travailleurs qui ont produit toute leur vie des richesses dont d'autres ont profité, puis qu'on a jetés quand on n'avait plus besoin d'eux. Plutôt que de se laisser mourir de froid et de faim, ils doivent se retourner contre les riches qui les ont dépouillés.</p>
+<p>Les vagabonds ne sont pas des paresseux ni des ivrognes : ce sont des travailleuses et des travailleurs qui ont produit toute leur vie des richesses dont d'autres ont profité, puis qu'on a jetés quand on n'avait plus besoin d'elleux. Plutôt que de se laisser mourir de froid et de faim, iels doivent se retourner contre les riches qui les ont dépouillés.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -12,20 +12,20 @@
 <li><strong>Le patron ferme l'usine</strong> quand il juge qu'il y a trop de marchandises, et tu te retrouves à la rue sans rien.</li>
 <li><strong>Bon ou mauvais patron, c'est pareil</strong> : le problème n'est pas tel ou tel employeur, c'est le système industriel lui-même.</li>
 <li><strong>Refuse les sermons</strong> des pasteurs et des bien-pensants qui expliquent la pauvreté par la paresse, l'alcool ou la volonté divine.</li>
-<li><strong>Ne meurs pas en silence</strong> : l'hiver approche, et beaucoup de sans-emploi désespérés se suicident. Parsons leur demande de tourner cette colère contre ceux qui les ont réduits à la misère.</li>
+<li><strong>Ne meurs pas en silence</strong> : l'hiver approche, et beaucoup de sans-emploi désespérés se suicident. Parsons leur demande de tourner cette colère contre celleux qui les ont réduits à la misère.</li>
 <li><strong>Pas besoin d'attendre une organisation</strong> : chacune et chacun peut agir seul.</li>
 <li>Et la conclusion, qui a fait la réputation du texte : <strong>apprendre à utiliser les explosifs</strong>.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>L'appel à la violence</strong> est sans détour. Il faut le lire dans son contexte : la répression des grèves était alors meurtrière, la police et les milices patronales tiraient sur les ouvriers. Mais la « propagande par le fait » des années 1880-1890 a surtout fourni aux États le prétexte pour écraser le mouvement.</li>
+<li><strong>L'appel à la violence</strong> est sans détour. Il faut le lire dans son contexte : la répression des grèves était alors meurtrière, la police et les milices patronales tiraient sur les ouvrières et ouvriers. Mais la « propagande par le fait » des années 1880-1890 a surtout fourni aux États le prétexte pour écraser le mouvement.</li>
 <li><strong>Le refus de l'organisation</strong>, dans ce texte, contraste avec le reste de la vie de Parsons, militante syndicale infatigable qui participera à la fondation des Industrial Workers of the World (IWW) en 1905.</li>
 <li><strong>Le prix payé</strong> : deux ans plus tard, après l'attentat de Haymarket en mai 1886, Albert Parsons est arrêté et pendu en novembre 1887 avec trois camarades, à l'issue d'un procès truqué. Lucy Parsons militera toute sa vie pour leur réhabilitation.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Le discours qui accuse les pauvres de leur pauvreté n'a pas disparu : « assistés », « fainéants », « il suffit de traverser la rue ». Le texte de Parsons rappelle que la misère est produite par un système, et que celles et ceux qui la subissent ont le droit de se révolter. Sur les moyens, on peut aujourd'hui préférer l'organisation collective : grève, caisse de solidarité, occupation (voir <a href="../agir/index.html">Agir ensemble</a>).</p>
+<p>Le discours qui accuse les pauvres de leur pauvreté n'a pas disparu : « assistés », « fainéants », « il suffit de traverser la rue ». Le texte de Parsons rappelle que la misère est produite par un système, et que celleux qui la subissent ont le droit de se révolter. Sur les moyens, on peut aujourd'hui préférer l'organisation collective : grève, caisse de solidarité, occupation (voir <a href="../agir/index.html">Agir ensemble</a>).</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -45,9 +45,9 @@
 </ul></section>
 </div>
 
-=== principes-anarchisme-parsons | Révolution & stratégie | Les Principes de l'anarchisme | Lucy Parsons · 1905 | Liberté, possession par l'usage, associations libres de travailleurs et refus du vote : Lucy Parsons expose son anarchisme communiste, vingt ans après Haymarket.
+=== principes-anarchisme-parsons | Révolution & stratégie | Les Principes de l'anarchisme | Lucy Parsons · 1905 | Liberté, possession par l'usage, associations libres de travailleureuses et refus du vote : Lucy Parsons expose son anarchisme communiste, vingt ans après Haymarket.
 <h2 id="contexte">Contexte</h2>
-<p>En 1905, Lucy Parsons (vers 1853-1942) est l'une des anarchistes les plus connues des États-Unis. Veuve d'Albert Parsons, pendu en 1887 après l'affaire de Haymarket, elle parcourt le pays pour donner des conférences, souvent interrompues par la police. La même année, elle participe à Chicago au congrès fondateur des Industrial Workers of the World (IWW), le syndicat révolutionnaire qui veut réunir tous les travailleurs, quels que soient leur métier, leur sexe ou leur couleur.</p>
+<p>En 1905, Lucy Parsons (vers 1853-1942) est l'une des anarchistes les plus connues des États-Unis. Veuve d'Albert Parsons, pendu en 1887 après l'affaire de Haymarket, elle parcourt le pays pour donner des conférences, souvent interrompues par la police. La même année, elle participe à Chicago au congrès fondateur des Industrial Workers of the World (IWW), le syndicat révolutionnaire qui veut réunir toustes les travailleureuses, quels que soient leur métier, leur sexe ou leur couleur.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-parsons-1920.jpg" alt="Lucy Parsons âgée, une écharpe blanche sur les épaules." width="1200" height="1765" loading="lazy"><figcaption>Lucy Parsons vers 1920. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Lucy_Parsons.1920.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p><em>Les Principes de l'anarchisme</em> est une conférence, qu'elle commence par « Camarades et amis ». Elle y explique simplement ce qu'est l'anarchisme à un public qui n'en connaît souvent que les caricatures.</p>
 
@@ -56,12 +56,12 @@
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Son chemin</strong> : après la grande grève des chemins de fer de 1877, écrasée dans le sang, elle cesse de croire qu'un pouvoir central puisse servir les opprimés, et passe du socialisme politique à l'anarchisme.</li>
+<li><strong>Son chemin</strong> : après la grande grève des chemins de fer de 1877, écrasée dans le sang, elle cesse de croire qu'un pouvoir central puisse servir les opprimées et opprimés, et passe du socialisme politique à l'anarchisme.</li>
 <li><strong>La liberté</strong> est le principe de tout progrès. L'anarchisme n'est pas un dogme figé, mais une recherche ouverte.</li>
 <li><strong>L'État</strong> sert toujours quelques intérêts contre le plus grand nombre. Les partis, une fois au pouvoir, font comme ceux qu'ils ont remplacés.</li>
-<li><strong>La propriété</strong> : à la propriété absolue, elle oppose la possession par l'usage. La terre, l'eau et la lumière appartenaient à toutes et à tous.</li>
+<li><strong>La propriété</strong> : à la propriété absolue, elle oppose la possession par l'usage. La terre, l'eau et la lumière appartenaient à toustes.</li>
 <li><strong>Le communisme libertaire</strong> : impossible de payer chacun exactement selon son travail, donc il faut partager selon les besoins.</li>
-<li><strong>L'organisation future</strong> : des associations libres, à partir des syndicats de métier. Chaque branche se gère elle-même, avec des délégués qui redeviennent de simples membres à la fin de leur mandat. Ni autorité centrale, ni police, ni tribunaux.</li>
+<li><strong>L'organisation future</strong> : des associations libres, à partir des syndicats de métier. Chaque branche se gère elle-même, avec des déléguées et délégués qui redeviennent de simples membres à la fin de leur mandat. Ni autorité centrale, ni police, ni tribunaux.</li>
 <li><strong>Pas de bulletin de vote</strong> : on ne supprime pas l'oppression en suppliant les urnes. Il faut éduquer, puis agir, car les possédants ne lâcheront rien pacifiquement.</li>
 </ol>
 
@@ -73,7 +73,7 @@
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Des délégués qui redeviennent de simples membres, des syndicats qui gèrent la production, la possession par l'usage plutôt que la propriété : ces idées irriguent encore le syndicalisme révolutionnaire, les coopératives et les occupations comme la <a href="../experiences/zad-histoire.html">ZAD de Notre-Dame-des-Landes</a>.</p>
+<p>Des déléguées et délégués qui redeviennent de simples membres, des syndicats qui gèrent la production, la possession par l'usage plutôt que la propriété : ces idées irriguent encore le syndicalisme révolutionnaire, les coopératives et les occupations comme la <a href="../experiences/zad-histoire.html">ZAD de Notre-Dame-des-Landes</a>.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>

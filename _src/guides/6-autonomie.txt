@@ -72,7 +72,7 @@
 
 <h2 id="traces">Limiter les traces</h2>
 <ul>
-<li><strong>Les photos</strong> contiennent des métadonnées : date, modèle d'appareil, parfois la position GPS. Avant de publier, fais une capture d'écran de la photo, ou exporte-la depuis GIMP sans les métadonnées. Floute les visages de celles et ceux qui n'ont pas dit oui.</li>
+<li><strong>Les photos</strong> contiennent des métadonnées : date, modèle d'appareil, parfois la position GPS. Avant de publier, fais une capture d'écran de la photo, ou exporte-la depuis GIMP sans les métadonnées. Floute les visages de celleux qui n'ont pas dit oui.</li>
 <li><strong>Le navigateur</strong> : Firefox avec uBlock Origin, voir <a href="ublock-origin.html">le guide</a>. Pour cacher ton adresse IP à un site, Tor Browser.</li>
 <li><strong>Les autorisations des applications</strong> : refuse l'accès aux contacts, à la position et au micro quand ce n'est pas nécessaire.</li>
 <li><strong>Le nettoyage</strong> : supprime les comptes que tu n'utilises plus, et les vieilles conversations de groupe qui ne servent plus.</li>
@@ -88,7 +88,7 @@
 <li>Avant une manif, lis la fiche <a href="../manif/legal-team.html">Tes droits en manif</a> : elle dit quoi faire de son téléphone.</li>
 <li>Quelqu'un perd son téléphone ? Retirez-le des groupes Signal et changez les mots de passe partagés.</li>
 </ul>
-<div class="note"><p>Personne n'est invulnérable, et ce n'est pas le but. Le but, c'est de ne pas faciliter le travail de celles et ceux qui nous surveillent, et de protéger les camarades autant que soi.</p></div>
+<div class="note"><p>Personne n'est invulnérable, et ce n'est pas le but. Le but, c'est de ne pas faciliter le travail de celleux qui nous surveillent, et de protéger les camarades autant que soi.</p></div>
 
 <h2 id="sources">Liens utiles et pour aller plus loin</h2>
 <div class="ressources">

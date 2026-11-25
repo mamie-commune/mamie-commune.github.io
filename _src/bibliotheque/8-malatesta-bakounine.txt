@@ -1,7 +1,7 @@
 === idealisme-et-materialisme | Révolution & stratégie | « Idéalisme » et « matérialisme » | Errico Malatesta · 1924 | L'idée et les conditions matérielles doivent avancer ensemble : une liberté sans moyens reste théorique.
 <h2 id="contexte">Contexte</h2>
 <p>En 1924, Mussolini est au pouvoir depuis deux ans. Malatesta, 70 ans, vit à Rome sous surveillance et publie une revue, <em>Pensiero e volontà</em> (« Pensée et volonté »), que la censure fasciste finira par interdire en 1926. Cet article paraît en janvier 1924.</p>
-<p>Le climat intellectuel a changé. Avant la guerre, on expliquait tout par l'économie, à la manière d'un marxisme simplifié. Désormais, le fascisme et bien d'autres se disent « idéalistes » et méprisent les « ventres » et les revendications matérielles. Certains militants, lassés des luttes pour les salaires, suivent la mode. Malatesta les met en garde.</p>
+<p>Le climat intellectuel a changé. Avant la guerre, on expliquait tout par l'économie, à la manière d'un marxisme simplifié. Désormais, le fascisme et bien d'autres se disent « idéalistes » et méprisent les « ventres » et les revendications matérielles. Certains militantes et militants, lassés des luttes pour les salaires, suivent la mode. Malatesta les met en garde.</p>
 
 <h2 id="these">La thèse</h2>
 <p>L'idée guide la volonté, mais elle ne naît et n'agit qu'avec des conditions matérielles minimales. Émancipations morale, politique et économique sont inséparables : on ne libère pas les esprits de gens affamés, et on ne nourrit pas tout le monde sans idéal de liberté.</p>
@@ -12,7 +12,7 @@
 <li><strong>Contre le faux idéalisme</strong> des patrons, des patriotes et des militaires, qui parlent de sacrifice et d'honneur pour mieux faire travailler et mourir les autres.</li>
 <li><strong>Exiger la liberté</strong> sans mépriser les revendications économiques.</li>
 <li><strong>La pauvreté entretient la dépendance.</strong> Qui a faim n'est pas libre de penser ni d'agir.</li>
-<li><strong>Un constat d'expérience</strong> : les plus actifs ne viennent souvent pas des plus misérables, mais de celles et ceux qui ont un peu de sécurité et de temps.</li>
+<li><strong>Un constat d'expérience</strong> : les plus actifs ne viennent souvent pas des plus misérables, mais de celleux qui ont un peu de sécurité et de temps.</li>
 <li><strong>Arracher des réformes</strong> sans reconnaître l'ordre existant, et prêcher par l'exemple.</li>
 </ol>
 
@@ -40,10 +40,10 @@
 
 === anarchistes-electoralistes | État & pouvoir | Anarchistes électoralistes | Errico Malatesta · 1924 | Quand des anarchistes appellent à voter « pour l'amnistie », Malatesta rappelle où mène toujours ce chemin.
 <h2 id="contexte">Contexte</h2>
-<p>Au printemps 1924, la France prépare des élections législatives. Le Cartel des gauches, alliance des radicaux et des socialistes, promet une amnistie pour les prisonniers politiques et les condamnés de la guerre. Des militants qui se disent anarchistes appellent alors à voter pour lui, au nom de cette amnistie. Malatesta leur répond dans sa revue romaine <em>Pensiero e volontà</em>.</p>
+<p>Au printemps 1924, la France prépare des élections législatives. Le Cartel des gauches, alliance des radicaux et des socialistes, promet une amnistie pour les prisonnières et prisonniers politiques et les condamnés de la guerre. Des militantes et militants qui se disent anarchistes appellent alors à voter pour lui, au nom de cette amnistie. Malatesta leur répond dans sa revue romaine <em>Pensiero e volontà</em>.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Le vote ne transforme pas la société ; il reflète l'opinion. Les petits gains électoraux ne justifient pas d'abandonner la propagande et la lutte, et celles et ceux qui se convertissent au parlementarisme finissent presque toujours par servir le pouvoir.</p>
+<p>Le vote ne transforme pas la société ; il reflète l'opinion. Les petits gains électoraux ne justifient pas d'abandonner la propagande et la lutte, et celleux qui se convertissent au parlementarisme finissent presque toujours par servir le pouvoir.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -56,7 +56,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Le cas espagnol</strong> : en 1936, une partie des anarchistes espagnols ont laissé leurs membres voter pour le Front populaire, qui promettait de libérer 30 000 prisonniers politiques. La victoire a été suivie de la révolution… mais aussi de l'entrée de ministres anarchistes au gouvernement, que beaucoup ont regrettée.</li>
+<li><strong>Le cas espagnol</strong> : en 1936, une partie des anarchistes espagnols ont laissé leurs membres voter pour le Front populaire, qui promettait de libérer 30 000 prisonnières et prisonniers politiques. La victoire a été suivie de la révolution… mais aussi de l'entrée de ministres anarchistes au gouvernement, que beaucoup ont regrettée.</li>
 <li><strong>L'urgence</strong> : face à un danger immédiat (fascisme, guerre), le débat sur le vote tactique ne se tranche pas par un principe seul.</li>
 </ul>
 
@@ -89,8 +89,8 @@
 <ol>
 <li><strong>Des idées claires</strong> plutôt qu'une étiquette : se dire anarchiste ne suffit pas.</li>
 <li><strong>Nier la morale « par formule »</strong>, pour faire radical, mène à n'avoir plus aucun repère, et à reproduire en pire la loi du plus fort.</li>
-<li><strong>Deux morales</strong> : la morale individualiste bourgeoise (chacun pour soi) contre la morale de solidarité (le bien de chacun passe par celui de toutes et tous).</li>
-<li><strong>Juger les actes</strong>, pas l'étiquette de celles et ceux qui les commettent.</li>
+<li><strong>Deux morales</strong> : la morale individualiste bourgeoise (chacun pour soi) contre la morale de solidarité (le bien de chacun passe par celui de toustes).</li>
+<li><strong>Juger les actes</strong>, pas l'étiquette de celleux qui les commettent.</li>
 <li><strong>L'alibi du milieu.</strong> L'impuissance face au milieu sert souvent d'excuse pour ne rien changer à sa propre vie.</li>
 <li><strong>L'écart inévitable.</strong> Il y aura toujours un écart entre nos idées et notre vie ; s'y résigner, c'est s'embourgeoiser.</li>
 </ol>
@@ -137,11 +137,11 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>La défense armée</strong> : les partisans des bolcheviks répondent qu'une révolution entourée d'armées ennemies ne pouvait survivre sans centralisation. L'expérience de Makhno et de l'Espagne nourrit ce débat jusqu'à aujourd'hui.</li>
+<li><strong>La défense armée</strong> : les partisanes et partisans des bolcheviks répondent qu'une révolution entourée d'armées ennemies ne pouvait survivre sans centralisation. L'expérience de Makhno et de l'Espagne nourrit ce débat jusqu'à aujourd'hui.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Ce texte de 1923 est l'une des premières critiques libertaires du bolchevisme, bien avant que les crimes du stalinisme soient connus de tous. Il reste une leçon pour tout mouvement révolutionnaire : les moyens façonnent le résultat. On ne fabrique pas la liberté avec une police politique.</p>
+<p>Ce texte de 1923 est l'une des premières critiques libertaires du bolchevisme, bien avant que les crimes du stalinisme soient connus de toustes. Il reste une leçon pour tout mouvement révolutionnaire : les moyens façonnent le résultat. On ne fabrique pas la liberté avec une police politique.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul><li>Dictature et révolution se contredisent.</li><li>Une des premières critiques libertaires du bolchevisme.</li><li>À lire avec <a href="le-communisme-n-existe-pas-en-urss.html">Emma Goldman</a>.</li></ul>
@@ -173,7 +173,7 @@
 <li><strong>Réduire les pouvoirs de l'État</strong> plutôt que changer ses dirigeants.</li>
 <li><strong>Chaque gain arraché aux patrons</strong> est une victoire, pas une faveur à remercier.</li>
 <li><strong>Le pragmatisme</strong> : garder les services existants (transports, hôpitaux…) tant qu'on ne sait pas faire mieux, plutôt que tout casser.</li>
-<li><strong>Confier la vie sociale</strong> aux travailleuses et travailleurs organisés par branche d'activité.</li>
+<li><strong>Confier la vie sociale</strong> aux travailleureuses organisés par branche d'activité.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
@@ -340,7 +340,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Une présentation à charge</strong> de Marx et de ses partisans, qui force parfois le trait. Mais l'histoire du XXe siècle a donné un poids terrible à ses mises en garde.</li>
+<li><strong>Une présentation à charge</strong> de Marx et de ses partisanes et partisans, qui force parfois le trait. Mais l'histoire du XXe siècle a donné un poids terrible à ses mises en garde.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
@@ -365,7 +365,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Depuis 1864, l'Association internationale des travailleurs (la « Première Internationale ») réunit des ouvrières et ouvriers de toute l'Europe. Deux conceptions s'y opposent : celle de Marx et du Conseil général de Londres, qui veulent des partis ouvriers luttant pour conquérir le pouvoir politique ; celle des fédérations du Jura, d'Espagne et d'Italie, autour de Bakounine, qui refusent toute conquête du pouvoir.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-saint-imier-hotel-de-ville.jpg" alt="La place de Saint-Imier et ses grands bâtiments, vers 1900." width="942" height="610" loading="lazy"><figcaption>La place de Saint-Imier, dans le Jura suisse, sur une carte postale ancienne. C'est dans cette petite ville horlogère que se réunit le congrès de septembre 1872. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:H%C3%B4tel_de_Ville_%C3%A0_Saint_Imier.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Au congrès de La Haye, début septembre 1872, la majorité marxiste exclut Bakounine et James Guillaume. Quelques jours plus tard, les 15 et 16 septembre, une quinzaine de délégués d'Italie, d'Espagne, de France, du Jura et d'Amérique se réunissent à Saint-Imier, dans le Jura suisse, et refondent une Internationale sans centre.</p>
+<p>Au congrès de La Haye, début septembre 1872, la majorité marxiste exclut Bakounine et James Guillaume. Quelques jours plus tard, les 15 et 16 septembre, une quinzaine de déléguées et délégués d'Italie, d'Espagne, de France, du Jura et d'Amérique se réunissent à Saint-Imier, dans le Jura suisse, et refondent une Internationale sans centre.</p>
 
 <h2 id="these">La thèse</h2>
 <p>L'autonomie des fédérations ouvrières est la condition de l'émancipation. Les congrès ne font pas la loi, le Conseil général est rejeté, et les fédérations se lient par un pacte d'entraide. Le premier devoir du prolétariat est de détruire tout pouvoir politique.</p>
@@ -395,7 +395,7 @@
 <h2 id="sources">Sources et pour aller plus loin</h2>
 <div class="ressources">
 <section><h3>Lire</h3><ul>
-<li><a href="trois-conferences-saint-imier.html">Trois conférences aux ouvriers du Val de Saint-Imier</a><span>Notre fiche : Bakounine devant les mêmes horlogers, un an plus tôt.</span></li>
+<li><a href="trois-conferences-saint-imier.html">Trois conférences aux ouvrières et ouvriers du Val de Saint-Imier</a><span>Notre fiche : Bakounine devant les mêmes horlogers, un an plus tôt.</span></li>
 <li><b><cite>Une toute petite histoire de l'anarchisme</cite></b>, Marianne Enckell.<span>Par l'ancienne responsable du CIRA, en quelques pages.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>

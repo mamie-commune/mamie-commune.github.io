@@ -1,6 +1,6 @@
 === entraide | Individu & morale | L'Entraide, un facteur de l'évolution | Pierre Kropotkine · 1902 | L'entraide est une loi de la nature et un moteur de l'évolution plus décisif que la lutte entre individus d'une même espèce.
 <h2 id="contexte">Contexte</h2>
-<p>En 1888, le biologiste Thomas Huxley, grand défenseur de Darwin, publie un article qui décrit la nature comme un combat de gladiateurs, chacun contre tous. Le « darwinisme social » est à la mode : il sert à justifier la concurrence économique, la colonisation et la misère des pauvres, présentée comme naturelle.</p>
+<p>En 1888, le biologiste Thomas Huxley, grand défenseur de Darwin, publie un article qui décrit la nature comme un combat de gladiateurs, chacun contre toustes. Le « darwinisme social » est à la mode : il sert à justifier la concurrence économique, la colonisation et la misère des pauvres, présentée comme naturelle.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-entraide-1902.jpg" alt="Page de titre : Mutual Aid, a factor of evolution, by P. Kropotkin, New York, 1902." width="1200" height="1833" loading="lazy"><figcaption>La page de titre de l'édition américaine de <em>L'Entraide</em>, en 1902. <small>McClure, Phillips & Co · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Mutual_Aid_by_Peter_Kropotkin_cover.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Kropotkine, géographe et naturaliste qui a observé pendant des années la faune de Sibérie, répond par une série d'articles dans la revue britannique <em>The Nineteenth Century</em>, entre 1890 et 1896. Il s'appuie aussi sur un zoologiste russe, Karl Kessler, qui avait parlé dès 1880 d'une « loi de l'aide mutuelle ». Le livre paraît en 1902 et est traduit en français en 1906.</p>
 
@@ -152,7 +152,7 @@
 <li><strong>Le communisme est déjà là.</strong> C'est d'abord une façon d'organiser la production et la consommation, déjà présente dans bien des services (routes, eau, bibliothèques).</li>
 <li><strong>Qu'est-ce qu'être libre ?</strong> C'est pouvoir agir sans craindre une sanction sociale : la faim, le renvoi, la prison.</li>
 <li><strong>Plus de loisir, plus de liberté.</strong> Le communisme réduit le temps de travail nécessaire, donc agrandit le temps libre.</li>
-<li><strong>Le communisme d'État</strong> est une utopie que ses partisans n'arrivent même pas à décrire concrètement.</li>
+<li><strong>Le communisme d'État</strong> est une utopie que ses partisanes et partisans n'arrivent même pas à décrire concrètement.</li>
 <li><strong>Pour durer</strong>, les communes doivent se fédérer, ne pas se replier, et mêler ville et campagne.</li>
 </ol>
 
@@ -183,12 +183,12 @@
 </ul></section>
 </div>
 
-=== ouvrier-prends-la-machine | Économie & propriété | Ouvrier, prends la machine ! Prends la terre, paysan ! | Pierre Kropotkine · 1880 | Le petit paysan propriétaire n'est pas à l'abri du capital : il en sera la prochaine victime. Seule l'union avec les ouvriers le sauvera.
+=== ouvrier-prends-la-machine | Économie & propriété | Ouvrier, prends la machine ! Prends la terre, paysan ! | Pierre Kropotkine · 1880 | Le petit paysan propriétaire n'est pas à l'abri du capital : il en sera la prochaine victime. Seule l'union avec les ouvrières et ouvriers le sauvera.
 <h2 id="contexte">Contexte</h2>
 <p>Cet article paraît sans signature dans <em>Le Révolté</em> du 24 janvier 1880. Il est attribué avec une forte probabilité à Kropotkine, alors principal rédacteur du journal. À l'époque, la majorité des Françaises et des Français vivent encore à la campagne. Les républicains comme les conservateurs flattent le petit paysan propriétaire, présenté comme le rempart de l'ordre contre les « partageux » des villes.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Les défenseurs de la propriété font du petit paysan leur allié contre les ouvriers. C'est une illusion : la concentration de la terre et la mécanisation le ruineront. Sa place est aux côtés des ouvriers.</p>
+<p>Les défenseurs de la propriété font du petit paysan leur allié contre les ouvrières et ouvriers. C'est une illusion : la concentration de la terre et la mécanisation le ruineront. Sa place est aux côtés des ouvrières et ouvriers.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -197,7 +197,7 @@
 <li><strong>Les fermes géantes américaines</strong> fonctionnent comme des usines militarisées, avec des centaines de journaliers.</li>
 <li><strong>Machines et capitaux</strong> écrasent la petite exploitation, qui ne peut pas suivre.</li>
 <li><strong>Le machinisme</strong> réduit la main-d'œuvre nécessaire et fait baisser les salaires des journaliers agricoles.</li>
-<li><strong>La seule issue</strong> : s'unir aux ouvriers pour reprendre la terre et les machines en propriété commune.</li>
+<li><strong>La seule issue</strong> : s'unir aux ouvrières et ouvriers pour reprendre la terre et les machines en propriété commune.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
@@ -256,7 +256,7 @@
 
 <h2 id="retenir">À retenir</h2>
 <ul>
-<li>Le problème est l'institution, pas celles et ceux qui la dirigent.</li>
+<li>Le problème est l'institution, pas celleux qui la dirigent.</li>
 <li>Un texte fondateur de l'abolitionnisme pénal.</li>
 <li>À lire avec <a href="la-loi-et-l-autorite.html">La Loi et l'autorité</a>.</li>
 </ul>
@@ -283,8 +283,8 @@
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Les grands savants d'autrefois</strong>, comme Galilée ou Newton, fabriquaient leurs propres instruments.</li>
-<li><strong>La séparation.</strong> La division du travail a séparé des ouvriers privés de savoir et des savants qui méprisent la main.</li>
-<li><strong>Des inventions perdues.</strong> Les ouvrières et ouvriers inventent moins, faute de comprendre les machines qu'ils font tourner.</li>
+<li><strong>La séparation.</strong> La division du travail a séparé des ouvrières et ouvriers privés de savoir et des savants qui méprisent la main.</li>
+<li><strong>Des inventions perdues.</strong> Les ouvrières et ouvriers inventent moins, faute de comprendre les machines qu'iels font tourner.</li>
 <li><strong>L'exemple de Moscou</strong> prouve qu'on peut allier science exigeante et métier concret.</li>
 <li><strong>On apprend mieux en faisant</strong> : la main éduque l'esprit.</li>
 <li><strong>La pratique précède souvent la théorie</strong> : beaucoup d'inventions sont venues d'artisans avant d'être expliquées par les savants.</li>
@@ -319,10 +319,10 @@
 
 === revolution-collectiviste | Révolution & stratégie | La Révolution sera-t-elle collectiviste ? | Pierre Kropotkine · 1913 | Aucun idéal ne se réalise pur : la société de demain sera une résultante, que l'action anarchiste peut orienter.
 <h2 id="contexte">Contexte</h2>
-<p>Kropotkine publie ce texte en 1913 dans <em>Les Temps nouveaux</em>, à la veille de la guerre. Les grands partis socialistes d'Europe, surtout le parti social-démocrate allemand avec ses millions d'électeurs, expliquent qu'il faudra d'abord passer par un État ouvrier « collectiviste », qui possédera les moyens de production et paiera chacun selon son travail. L'anarchie viendrait ensuite, peut-être, dans un lointain avenir.</p>
+<p>Kropotkine publie ce texte en 1913 dans <em>Les Temps nouveaux</em>, à la veille de la guerre. Les grands partis socialistes d'Europe, surtout le parti social-démocrate allemand avec ses millions d'électeurices, expliquent qu'il faudra d'abord passer par un État ouvrier « collectiviste », qui possédera les moyens de production et paiera chacun selon son travail. L'anarchie viendrait ensuite, peut-être, dans un lointain avenir.</p>
 
 <h2 id="these">La thèse</h2>
-<p>L'histoire avance par la combinaison de tous les courants d'idées, chacun pesant selon l'énergie de ses partisans. Aucun programme ne se réalise tel quel. Donc plus les anarchistes agiront nettement, sans se diluer, plus l'avenir sera libertaire.</p>
+<p>L'histoire avance par la combinaison de tous les courants d'idées, chacun pesant selon l'énergie de ses partisanes et partisans. Aucun programme ne se réalise tel quel. Donc plus les anarchistes agiront nettement, sans se diluer, plus l'avenir sera libertaire.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -347,7 +347,7 @@
 <ul>
 <li>Le changement social est toujours une résultante.</li>
 <li>Pas de société libre sans individus libres.</li>
-<li>L'action militante pèse même sur celles et ceux qui la combattent.</li>
+<li>L'action militante pèse même sur celleux qui la combattent.</li>
 </ul>
 
 <h2 id="sources">Sources et pour aller plus loin</h2>
@@ -422,7 +422,7 @@
 <li><strong>La haute finance</strong> prête aux États endettés, puis prend la main sur leurs revenus (l'Égypte, la Turquie).</li>
 <li><strong>Les industries d'armement</strong> ont intérêt à entretenir la peur et la course aux armements.</li>
 <li><strong>La grande presse</strong> prépare les esprits et attise les haines nationales.</li>
-<li><strong>Les guerres détruisent</strong> les richesses et ruinent les travailleuses et travailleurs des deux camps.</li>
+<li><strong>Les guerres détruisent</strong> les richesses et ruinent les travailleureuses des deux camps.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>

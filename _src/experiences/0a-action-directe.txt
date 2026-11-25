@@ -5,7 +5,7 @@
 <p>En 1912, l'anarchiste américaine <a href="../figures/voltairine-de-cleyre.html">Voltairine de Cleyre</a> le résume : chaque fois qu'une personne, ou un groupe, décide de faire une chose et la fait, au lieu de demander à quelqu'un d'autre de la faire à sa place, c'est de l'action directe. Une coopérative, une caisse de grève, une cantine populaire, une manif sauvage : tout ça en fait partie.</p>
 <ul>
 <li><strong>Directe</strong> veut dire « sans intermédiaire », pas « violente ».</li>
-<li>L'action directe s'oppose à l'<strong>action indirecte</strong> : voter, faire pression sur des élus, attendre une loi.</li>
+<li>L'action directe s'oppose à l'<strong>action indirecte</strong> : voter, faire pression sur des élues et élus, attendre une loi.</li>
 <li>Elle repose sur une idée : <strong>on obtient ce qu'on a la force de prendre</strong>, et on apprend à s'organiser en le faisant.</li>
 </ul>
 
@@ -15,7 +15,7 @@
 <ul>
 <li><strong>Mars 1906</strong> : un coup de grisou tue plus de mille mineurs à <strong>Courrières</strong>. La compagnie avait ignoré les alertes. Les mineurs se mettent en grève, malgré l'armée.</li>
 <li><strong>1er mai 1906</strong> : la CGT lance une grande grève pour la <strong>journée de huit heures</strong>, sans attendre le Parlement.</li>
-<li><strong>Octobre 1906</strong> : la <strong>Charte d'Amiens</strong> affirme que le syndicat doit lutter tous les jours pour les salaires et les horaires, et préparer la grève générale qui permettra aux travailleurs de prendre en main la production, indépendamment des partis.</li>
+<li><strong>Octobre 1906</strong> : la <strong>Charte d'Amiens</strong> affirme que le syndicat doit lutter tous les jours pour les salaires et les horaires, et préparer la grève générale qui permettra aux travailleureuses de prendre en main la production, indépendamment des partis.</li>
 </ul>
 
 <h2 id="moyens">La boîte à outils</h2>
@@ -29,10 +29,10 @@
 </div>
 
 <h2 id="iww">1905-1919 : les IWW et la grève de Seattle</h2>
-<figure class="photo photo--portrait"><img src="../assets/img/revolutions/ad-iww-paterson-1913.jpg" alt="Affiche de 1913 : un ouvrier géant se dresse au-dessus d'une usine, avec les lettres IWW." width="400" height="593" loading="lazy"><figcaption>Affiche du spectacle organisé à New York pour soutenir la grève des ouvriers de la soie de Paterson, en 1913. <small>Robert Edmond Jones · domaine public · <a href="https://commons.wikimedia.org/wiki/File:IWW_Paterson_Silk_Strike_Poster_1913.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Aux États-Unis, les <strong>Industrial Workers of the World</strong> (IWW), fondés en 1905 avec <a href="../figures/lucy-parsons.html">Lucy Parsons</a>, organisent celles et ceux que les autres syndicats rejettent : immigrés, femmes, Noirs, saisonniers. Ils mènent des grèves géantes dans le textile, à Lawrence en 1912 et à Paterson en 1913.</p>
-<figure class="photo"><img src="../assets/img/revolutions/ad-seattle-1919.jpg" alt="Des ouvriers sortent en foule des chantiers navals de Seattle en février 1919." width="700" height="558" loading="lazy"><figcaption>Les ouvriers des chantiers navals quittent le travail au début de la grève générale de Seattle, en février 1919. <small>Webster &amp; Stevens · domaine public · <a href="https://commons.wikimedia.org/wiki/File:General_strike_participants_leaving_shipyards,_Seattle,_February_1919_(MOHAI_11087).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p><strong>Février 1919</strong> : à <strong>Seattle</strong>, 65 000 travailleuses et travailleurs cessent le travail pendant cinq jours. Un comité de grève prend en charge ce qui compte : le lait pour les enfants, les repas, le ramassage des ordures, les hôpitaux. Pendant quelques jours, la ville tourne sans patrons. La presse et le maire crient à la révolution bolchevique.</p>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/ad-iww-paterson-1913.jpg" alt="Affiche de 1913 : un ouvrier géant se dresse au-dessus d'une usine, avec les lettres IWW." width="400" height="593" loading="lazy"><figcaption>Affiche du spectacle organisé à New York pour soutenir la grève des ouvrières et ouvriers de la soie de Paterson, en 1913. <small>Robert Edmond Jones · domaine public · <a href="https://commons.wikimedia.org/wiki/File:IWW_Paterson_Silk_Strike_Poster_1913.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p>Aux États-Unis, les <strong>Industrial Workers of the World</strong> (IWW), fondés en 1905 avec <a href="../figures/lucy-parsons.html">Lucy Parsons</a>, organisent celleux que les autres syndicats rejettent : immigrés, femmes, Noirs, saisonniers. Iels mènent des grèves géantes dans le textile, à Lawrence en 1912 et à Paterson en 1913.</p>
+<figure class="photo"><img src="../assets/img/revolutions/ad-seattle-1919.jpg" alt="Des ouvrières et ouvriers sortent en foule des chantiers navals de Seattle en février 1919." width="700" height="558" loading="lazy"><figcaption>Les ouvrières et ouvriers des chantiers navals quittent le travail au début de la grève générale de Seattle, en février 1919. <small>Webster &amp; Stevens · domaine public · <a href="https://commons.wikimedia.org/wiki/File:General_strike_participants_leaving_shipyards,_Seattle,_February_1919_(MOHAI_11087).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<p><strong>Février 1919</strong> : à <strong>Seattle</strong>, 65 000 travailleureuses cessent le travail pendant cinq jours. Un comité de grève prend en charge ce qui compte : le lait pour les enfants, les repas, le ramassage des ordures, les hôpitaux. Pendant quelques jours, la ville tourne sans patrons. La presse et le maire crient à la révolution bolchevique.</p>
 
 <h2 id="1936">Juin 1936 : les usines occupées</h2>
 <figure class="photo"><img src="../assets/img/revolutions/ad-occupation-1936.jpg" alt="Des grévistes posent sur le toit et devant la porte d'une usine métallurgique occupée en 1936." width="1200" height="839" loading="lazy"><figcaption>Grévistes dans une usine métallurgique occupée de la banlieue parisienne, en juin 1936. <small>Agence Meurisse · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Gr%C3%A9vistes-m%C3%A9tallurgie-usine-banlieue-Paris1936.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -40,7 +40,7 @@
 
 <h2 id="lip">1973 : Lip, « on fabrique, on vend, on se paie »</h2>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/ad-lip-1973.jpg" alt="Tract tapé à la machine titré « Pour la victoire des grévistes de Lip », 1973." width="1200" height="1582" loading="lazy"><figcaption>Un des nombreux tracts de soutien aux grévistes de Lip, ici publié par un groupe maoïste, en 1973. <small>auteur inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Pour_la_victoire_des_gr%C3%A9vistes_de_LIP.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>À Besançon, l'usine de montres <strong>Lip</strong> doit fermer et licencier. En juin 1973, les salariés occupent l'usine, mettent le stock de montres à l'abri et <strong>relancent la production eux-mêmes</strong>. Ils vendent les montres dans toute la France et se versent leurs salaires. Leur slogan fait le tour du pays. Une immense marche de soutien réunit plus de 100 000 personnes à Besançon en septembre. Lip devient le symbole de l'autogestion.</p>
+<p>À Besançon, l'usine de montres <strong>Lip</strong> doit fermer et licencier. En juin 1973, les salariées et salariés occupent l'usine, mettent le stock de montres à l'abri et <strong>relancent la production elleux-mêmes</strong>. Iels vendent les montres dans toute la France et se versent leurs salaires. Leur slogan fait le tour du pays. Une immense marche de soutien réunit plus de 100 000 personnes à Besançon en septembre. Lip devient le symbole de l'autogestion.</p>
 
 <h2 id="aujourdhui">Aujourd'hui : bloquer, désobéir, réquisitionner</h2>
 <figure class="photo"><img src="../assets/img/revolutions/ad-faucheurs.jpg" alt="Des militantes et militants des Faucheurs volontaires dans un entrepôt de semences." width="1200" height="900" loading="lazy"><figcaption>Action des Faucheurs volontaires d'OGM dans un entrepôt de semences, à Carcassonne. <small>Yann · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Action_des_Faucheurs_volontaires_d%27OGM_dans_l%27entrep%C3%B4t_d%27Arterris,_Carcassonne_01.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -49,7 +49,7 @@
 <li><strong>Droit au logement</strong> réquisitionne des immeubles vides depuis 1994 pour y loger des familles.</li>
 <li><strong>Les blocages</strong> : raffineries et dépôts pendant les grèves, ronds-points des <a href="gilets-jaunes-histoire.html">Gilets jaunes</a>, lycées en <a href="../agir/organiser-un-blocus.html">blocus</a>.</li>
 <li><strong>Les occupations de terres</strong>, comme sur la <a href="zad-histoire.html">ZAD de Notre-Dame-des-Landes</a>, où l'occupation a fait abandonner un aéroport.</li>
-<li><strong>Les caisses de grève et cantines</strong> : l'action directe, c'est aussi nourrir celles et ceux qui tiennent le piquet.</li>
+<li><strong>Les caisses de grève et cantines</strong> : l'action directe, c'est aussi nourrir celleux qui tiennent le piquet.</li>
 </ul>
 <div class="callout">
 <p><strong>Attention à toi.</strong> Certaines formes d'action directe sont illégales et la répression est réelle : garde à vue, amendes, procès, licenciement. On ne s'y lance pas seul, ni sans connaître ses droits. Prépare-toi avec la bande, et lis d'abord les fiches de Mamie.</p>
@@ -86,7 +86,7 @@
 <h2 id="origines">D'où vient le groupe</h2>
 <ul>
 <li>Années 1970 : après Mai 68, une partie de l'extrême gauche européenne choisit la <strong>lutte armée</strong>. En Allemagne, la Fraction armée rouge (RAF) ; en Italie, les Brigades rouges.</li>
-<li>En France, de petits groupes libertaires mènent des actions contre l'Espagne de Franco, comme les <strong>GARI</strong> en 1973-1974, qui veulent sauver des militants condamnés à mort. D'autres, les <strong>NAPAP</strong>, revendiquent en 1977 l'assassinat du vigile de Renault qui avait tué le militant maoïste Pierre Overney en 1972.</li>
+<li>En France, de petits groupes libertaires mènent des actions contre l'Espagne de Franco, comme les <strong>GARI</strong> en 1973-1974, qui veulent sauver des militantes et militants condamnés à mort. D'autres, les <strong>NAPAP</strong>, revendiquent en 1977 l'assassinat du vigile de Renault qui avait tué le militant maoïste Pierre Overney en 1972.</li>
 <li>Le <strong>1er mai 1979</strong>, une première action est signée « Action directe » : le mitraillage de la façade du siège du patronat (le CNPF), à Paris. Le groupe est animé notamment par Jean-Marc Rouillan, ancien des GARI, et Nathalie Ménigon.</li>
 </ul>
 
@@ -102,15 +102,15 @@
 
 <h2 id="suites">Procès et prison</h2>
 <ul>
-<li>Ils sont jugés par une <strong>cour d'assises spéciale</strong>, composée uniquement de magistrats, sans jury populaire. Cette juridiction a été créée par la loi antiterroriste de septembre 1986, après des menaces contre des jurés. Ils sont condamnés à la <strong>réclusion à perpétuité</strong>.</li>
-<li>Ils passent de longues années à l'isolement et mènent plusieurs grèves de la faim. Joëlle Aubron, malade, est libérée en 2004 et meurt en 2006. Nathalie Ménigon, Georges Cipriani et Jean-Marc Rouillan sortent entre 2007 et 2012, après plus de vingt ans de détention.</li>
+<li>Iels sont jugés par une <strong>cour d'assises spéciale</strong>, composée uniquement de magistrats, sans jury populaire. Cette juridiction a été créée par la loi antiterroriste de septembre 1986, après des menaces contre des jurés. Iels sont condamnés à la <strong>réclusion à perpétuité</strong>.</li>
+<li>Iels passent de longues années à l'isolement et mènent plusieurs grèves de la faim. Joëlle Aubron, malade, est libérée en 2004 et meurt en 2006. Nathalie Ménigon, Georges Cipriani et Jean-Marc Rouillan sortent entre 2007 et 2012, après plus de vingt ans de détention.</li>
 </ul>
 
 <h2 id="critique">La critique libertaire</h2>
 <p>Pendant toutes ces années, la grande majorité des organisations anarchistes et syndicalistes ont refusé de soutenir les actions du groupe, tout en dénonçant ses conditions de détention. Leurs arguments tiennent encore.</p>
 <ul>
-<li><strong>Ce n'est pas de l'action directe.</strong> Pour les syndicalistes de 1900, l'action directe est celle des premiers concernés, en masse : les ouvriers d'une usine qui font grève. Un petit commando qui agit <em>à la place</em> des travailleurs fait exactement l'inverse : il les remplace. On appelle ça le <strong>substitutionnisme</strong>.</li>
-<li><strong>Une avant-garde, encore une.</strong> Le groupe s'est rapproché d'une idéologie marxiste-léniniste, « anti-impérialiste », qui fait d'une poignée de militants armés les guides du peuple. C'est tout ce que les anarchistes reprochent aux partis.</li>
+<li><strong>Ce n'est pas de l'action directe.</strong> Pour les syndicalistes de 1900, l'action directe est celle des premiers concernés, en masse : les ouvrières et ouvriers d'une usine qui font grève. Un petit commando qui agit <em>à la place</em> des travailleureuses fait exactement l'inverse : il les remplace. On appelle ça le <strong>substitutionnisme</strong>.</li>
+<li><strong>Une avant-garde, encore une.</strong> Le groupe s'est rapproché d'une idéologie marxiste-léniniste, « anti-impérialiste », qui fait d'une poignée de militantes et militants armés les guides du peuple. C'est tout ce que les anarchistes reprochent aux partis.</li>
 <li><strong>La clandestinité isole.</strong> Vivre caché, armé, coupé des luttes, transforme un collectif en secte et rend fou. Personne ne peut plus rien décider avec le groupe, ni le contrôler.</li>
 <li><strong>Tuer un patron ne change pas le système.</strong> Après Georges Besse, Renault a eu un autre PDG, et les licenciements ont continué. L'oppression est un rapport social, pas une personne. <a href="../figures/malatesta.html">Malatesta</a> le disait déjà cent ans plus tôt.</li>
 <li><strong>Un cadeau à l'État.</strong> Les attentats ont servi à justifier des lois d'exception : la justice antiterroriste centralisée, les gardes à vue prolongées, les cours sans jury. Ces outils servent encore aujourd'hui contre des militantes et militants qui n'ont rien à voir avec la lutte armée.</li>

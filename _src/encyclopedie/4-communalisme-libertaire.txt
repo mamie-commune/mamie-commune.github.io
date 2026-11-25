@@ -4,7 +4,7 @@
 
 <h2 id="introduction">Introduction</h2>
 <p>Le communalisme libertaire est un courant de pensée et de pratique politique qui cherche à construire une société fondée sur l'autonomie des communes, la <a href="../glossaire.html#democratie-directe">démocratie directe</a>, la coopération et la fédération libre des collectivités.</p>
-<p>Il repose sur une idée fondamentale : les habitants doivent pouvoir reprendre collectivement le contrôle de la vie politique, économique et sociale de leurs territoires.</p>
+<p>Il repose sur une idée fondamentale : les habitantes et habitants doivent pouvoir reprendre collectivement le contrôle de la vie politique, économique et sociale de leurs territoires.</p>
 <p>Dans cette perspective, la commune ne doit pas être simplement une circonscription administrative de l'État. Elle constitue un espace politique dans lequel les personnes peuvent se réunir, débattre, décider et organiser directement les affaires communes.</p>
 <p>Le communalisme libertaire s'oppose ainsi à la concentration du pouvoir dans les institutions étatiques, les administrations centralisées et les structures économiques capitalistes.</p>
 <p>Il défend une organisation sociale dans laquelle les décisions sont prises au plus près des personnes concernées, tout en étant coordonnées à une échelle plus large par des mécanismes fédéralistes.</p>
@@ -17,7 +17,7 @@
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-proudhon.jpg" alt="Portrait de Pierre-Joseph Proudhon par Nadar, barbe et lunettes." width="1200" height="1601" loading="lazy"><figcaption>Pierre-Joseph Proudhon, photographié par Nadar. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Portrait_Pierre-Joseph_Proudhon_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Les idées communales et fédéralistes occupent une place importante dans l'histoire des mouvements socialistes et libertaires.</p>
 <p>Au XIX<sup>e</sup> siècle, les débats sur l'émancipation sociale ne portent pas uniquement sur la propriété des moyens de production ou l'organisation du travail. Ils concernent également la manière dont les populations peuvent décider collectivement de leurs affaires.</p>
-<p>Plusieurs penseurs socialistes et anarchistes défendent une organisation politique décentralisée, fondée sur l'autonomie des collectivités et leur association volontaire.</p>
+<p>Plusieurs penseureuses socialistes et anarchistes défendent une organisation politique décentralisée, fondée sur l'autonomie des collectivités et leur association volontaire.</p>
 <p>Pierre-Joseph Proudhon développe notamment une pensée fédéraliste qui cherche à limiter la concentration du pouvoir politique et économique.</p>
 <p>Mikhaïl Bakounine défend une fédération de communes, d'associations et de collectivités autonomes, organisée de bas en haut.</p>
 <p>Pierre Kropotkine développe également une réflexion sur les communes libres, la coopération et la décentralisation économique.</p>
@@ -36,7 +36,7 @@
 <li>L'élection de représentants révocables.</li>
 <li>La limitation de certains privilèges politiques.</li>
 <li>La séparation de l'Église et de l'État.</li>
-<li>Des mesures en faveur des travailleurs.</li>
+<li>Des mesures en faveur des travailleureuses.</li>
 <li>La réorganisation de certains services publics.</li>
 <li>La défense de l'autonomie communale.</li>
 </ul>
@@ -83,17 +83,17 @@
 <p>Selon cette approche, les problèmes écologiques ne peuvent pas être résolus uniquement par des changements techniques ou individuels. Ils nécessitent une transformation des rapports sociaux, politiques et économiques.</p>
 <p>Bookchin s'intéresse particulièrement à la ville et à la municipalité comme espaces possibles de reconstruction démocratique.</p>
 <p>Il critique la transformation des villes en espaces dominés par l'urbanisation capitaliste, la bureaucratie et la concentration du pouvoir.</p>
-<p>Il propose de réhabiliter la dimension politique de la commune en permettant aux habitants de participer directement aux décisions collectives.</p>
+<p>Il propose de réhabiliter la dimension politique de la commune en permettant aux habitantes et habitants de participer directement aux décisions collectives.</p>
 <p>Ses réflexions évoluent progressivement vers le municipalisme libertaire, puis vers le communalisme, qu'il présente comme une synthèse politique plus large.</p>
 
 <h2 id="municipalisme">7. Le municipalisme libertaire</h2>
 <p>Le municipalisme libertaire est développé par Bookchin comme une stratégie de transformation sociale à partir des municipalités.</p>
 <p>Il ne s'agit pas simplement de défendre davantage de compétences pour les collectivités territoriales.</p>
 <p>Le projet consiste à transformer les institutions municipales pour en faire des espaces de démocratie directe.</p>
-<p>Les habitants pourraient participer à des assemblées populaires chargées de débattre et de décider des affaires communes.</p>
+<p>Les habitantes et habitants pourraient participer à des assemblées populaires chargées de débattre et de décider des affaires communes.</p>
 <p>Ces assemblées seraient ensuite fédérées avec celles d'autres communes.</p>
 <p>L'objectif est de construire progressivement une forme de pouvoir populaire capable de s'opposer à la domination de l'État et du capitalisme.</p>
-<p>Bookchin distingue la politique, entendue comme activité collective des citoyens, de la gestion étatique exercée par des institutions spécialisées et des professionnels du pouvoir.</p>
+<p>Bookchin distingue la politique, entendue comme activité collective des citoyennes et citoyens, de la gestion étatique exercée par des institutions spécialisées et des professionnels du pouvoir.</p>
 <p>Il envisage ainsi une reconstruction de la vie politique à partir des assemblées communales.</p>
 <p>Le municipalisme libertaire constitue l'une des expressions contemporaines les plus structurées de la tradition communale libertaire.</p>
 
@@ -151,18 +151,18 @@
 
 <h2 id="commune-espace-politique">1. La commune comme espace politique</h2>
 <p>Le communalisme libertaire considère la <a href="../glossaire.html#commune">commune</a> comme un espace fondamental de la vie politique.</p>
-<p>Elle représente un territoire dans lequel les habitants peuvent se rencontrer, débattre et décider collectivement des questions qui les concernent.</p>
+<p>Elle représente un territoire dans lequel les habitantes et habitants peuvent se rencontrer, débattre et décider collectivement des questions qui les concernent.</p>
 <p>La commune ne doit pas être réduite à une administration chargée d'appliquer des décisions prises par un gouvernement central.</p>
 <p>Elle doit devenir un espace de participation populaire.</p>
 <p>Les décisions relatives aux services collectifs, aux infrastructures, à l'environnement, à l'aménagement du territoire et à l'organisation économique doivent pouvoir faire l'objet de débats publics et de décisions démocratiques.</p>
 <p>Cette conception s'oppose à la professionnalisation permanente de la politique.</p>
-<p>Elle cherche à rendre aux habitants la capacité d'agir directement sur leur environnement social.</p>
+<p>Elle cherche à rendre aux habitantes et habitants la capacité d'agir directement sur leur environnement social.</p>
 
 <h2 id="democratie-directe">2. La démocratie directe</h2>
 <p>La <a href="../glossaire.html#democratie-directe">démocratie directe</a> constitue l'un des principes centraux du communalisme libertaire.</p>
 <p>Elle repose sur la participation des personnes concernées aux décisions collectives.</p>
 <p>Les assemblées populaires doivent permettre de discuter des problèmes communs, de formuler des propositions et de prendre des décisions.</p>
-<p>Cette conception s'oppose à un système dans lequel les citoyens délèguent l'essentiel de leur pouvoir à des représentants qui décident ensuite en leur nom.</p>
+<p>Cette conception s'oppose à un système dans lequel les citoyennes et citoyens délèguent l'essentiel de leur pouvoir à des représentants qui décident ensuite en leur nom.</p>
 <p>Dans la pratique, la démocratie directe peut prendre plusieurs formes :</p>
 <ul>
 <li>Assemblées de quartier.</li>
@@ -170,7 +170,7 @@
 <li>Réunions publiques.</li>
 <li>Délibérations collectives.</li>
 <li><a href="../glossaire.html#mandat">Mandats impératifs</a> ou précisément définis.</li>
-<li>Contrôle régulier des délégués.</li>
+<li>Contrôle régulier des déléguées et délégués.</li>
 <li>Possibilité de révocation des mandats.</li>
 </ul>
 <p>La démocratie directe ne signifie pas nécessairement que chaque décision doit être prise par l'ensemble de la population.</p>
@@ -178,7 +178,7 @@
 
 <h2 id="federalisme-communal">3. Le fédéralisme communal</h2>
 <p>Le fédéralisme permet aux communes de coopérer sans perdre leur autonomie.</p>
-<p>Une commune ne peut pas répondre seule à tous les besoins de ses habitants.</p>
+<p>Une commune ne peut pas répondre seule à tous les besoins de ses habitantes et habitants.</p>
 <p>Les transports, l'énergie, l'eau, l'alimentation, les infrastructures et les activités économiques dépassent souvent les limites d'un territoire local.</p>
 <p>Le communalisme libertaire cherche donc à organiser la coopération entre plusieurs collectivités.</p>
 <p>Les communes peuvent former des fédérations territoriales et participer à des structures de coordination.</p>
@@ -188,8 +188,8 @@
 
 <h2 id="mandats">4. La révocabilité et le contrôle des mandats</h2>
 <p>Le communalisme libertaire critique la séparation durable entre les personnes qui décident et celles qui exécutent.</p>
-<p>Les délégués peuvent être chargés de représenter une assemblée dans une structure de coordination.</p>
-<p>Mais ils ne doivent pas devenir des dirigeants indépendants de ceux qui les ont mandatés.</p>
+<p>Les déléguées et délégués peuvent être chargés de représenter une assemblée dans une structure de coordination.</p>
+<p>Mais ils ne doivent pas devenir des dirigeants indépendants de celleux qui les ont mandatés.</p>
 <p>Leurs missions doivent être définies et contrôlées.</p>
 <p>La révocabilité permet à une assemblée de retirer un mandat lorsqu'un délégué ne respecte plus les décisions collectives.</p>
 <p>Cette conception cherche à empêcher la formation d'une classe politique séparée.</p>
@@ -199,7 +199,7 @@
 <h2 id="societe-politique-etat">5. La distinction entre société, politique et État</h2>
 <p>Bookchin développe une distinction importante entre les activités sociales, la politique et l'État.</p>
 <p>La société comprend les relations humaines, les activités économiques, les relations familiales, les associations et les formes de vie collective.</p>
-<p>La politique désigne, dans sa conception, l'activité publique par laquelle les habitants délibèrent et décident des affaires communes.</p>
+<p>La politique désigne, dans sa conception, l'activité publique par laquelle les habitantes et habitants délibèrent et décident des affaires communes.</p>
 <p>L'État correspond à un ensemble d'institutions centralisées, bureaucratiques et coercitives qui concentrent le pouvoir politique.</p>
 <p>Bookchin considère que la démocratie doit être reconstruite dans la sphère politique locale, au lieu de se limiter à la participation périodique aux élections nationales.</p>
 <p>Cette distinction lui permet de défendre une conception de la politique qui ne se confond pas avec la gestion administrative de l'État.</p>
@@ -208,7 +208,7 @@
 <h2 id="etat-capitalisme">6. La critique de l'État et du capitalisme</h2>
 <p>Le communalisme libertaire critique la concentration du pouvoir dans les institutions étatiques et les structures économiques capitalistes.</p>
 <p>Il considère que la démocratie reste limitée lorsque les décisions économiques échappent largement aux populations.</p>
-<p>Une société dans laquelle les habitants peuvent voter, mais ne disposent d'aucun contrôle sur les grandes décisions économiques, demeure profondément inégalitaire.</p>
+<p>Une société dans laquelle les habitantes et habitants peuvent voter, mais ne disposent d'aucun contrôle sur les grandes décisions économiques, demeure profondément inégalitaire.</p>
 <p>Le communalisme cherche donc à transformer les rapports entre pouvoir politique et pouvoir économique.</p>
 <p>Il propose de replacer les ressources et les activités économiques sous le contrôle des collectivités et de leurs structures fédérales.</p>
 <p>Cette orientation ne signifie pas que chaque commune doit produire seule tout ce dont elle a besoin.</p>
@@ -276,7 +276,7 @@
 <p>Une assemblée locale n'est pas automatiquement démocratique.</p>
 <p>Des groupes dominants peuvent exercer une influence disproportionnée sur les débats et les décisions.</p>
 <p>Les rapports de classe, de genre, de race et de pouvoir économique peuvent continuer d'exister dans une organisation décentralisée.</p>
-<p>Le communalisme doit donc prévoir des mécanismes permettant de garantir la participation de toutes et tous.</p>
+<p>Le communalisme doit donc prévoir des mécanismes permettant de garantir la participation de toustes.</p>
 
 <h3 id="echelle">La question de l'échelle économique</h3>
 <p>Les sociétés contemporaines sont caractérisées par des réseaux de production, de transport et d'approvisionnement très étendus.</p>
@@ -327,7 +327,7 @@
 <h2 id="espagne">2. Les communes et collectivités de la révolution espagnole</h2>
 <p>La <a href="../experiences/espagne-1936-histoire.html">révolution espagnole de 1936-1939</a> constitue une expérience importante d'organisation collective.</p>
 <p>Dans plusieurs territoires, des collectivités agricoles et des structures de gestion locale se développent.</p>
-<p>En Aragon, en Catalogne et dans le Levant, des travailleurs et des paysans organisent collectivement certaines activités économiques.</p>
+<p>En Aragon, en Catalogne et dans le Levant, des travailleureuses et des paysannes et paysans organisent collectivement certaines activités économiques.</p>
 <p>Ces expériences sont principalement associées à l'<a href="anarchisme-heritages.html#experiences">anarchisme</a> et à l'<a href="anarcho-syndicalisme-heritages.html#collectivites">anarcho-syndicalisme</a>.</p>
 <p>Elles peuvent être rapprochées de certaines aspirations communales libertaires, notamment en raison de leur volonté de construire une organisation sociale fondée sur l'autonomie et la coopération.</p>
 <p>Il faut toutefois éviter de les présenter comme des réalisations du programme de Bookchin, développé plusieurs décennies plus tard.</p>
@@ -370,7 +370,7 @@
 <p>Ces expériences ne sont pas toutes libertaires.</p>
 <p>Le terme de municipalisme recouvre aujourd'hui des orientations très différentes, allant de projets de démocratisation municipale à des mouvements explicitement anticapitalistes et fédéralistes.</p>
 <p>Il faut donc distinguer le municipalisme électoral, les mouvements municipalistes populaires et le municipalisme libertaire.</p>
-<p>Leur point commun éventuel réside dans l'importance accordée à l'échelle locale et à la participation des habitants.</p>
+<p>Leur point commun éventuel réside dans l'importance accordée à l'échelle locale et à la participation des habitantes et habitants.</p>
 <p>Leurs objectifs politiques et leurs conceptions du pouvoir peuvent toutefois être très différents.</p>
 
 <h2 id="luttes-sociales">6. Les pratiques communales dans les luttes sociales</h2>

@@ -1,12 +1,12 @@
-=== zad-histoire | ZAD de Notre-Dame-des-Landes | La ZAD de Notre-Dame-des-Landes : un aéroport n'a jamais vu le jour | Loire-Atlantique · depuis 2009 | Près de Nantes, des paysans, des habitants et des occupants ont tenu pendant des années un bocage promis à un aéroport. En 2018, l'État renonce au projet. La lutte continue autrement.
+=== zad-histoire | ZAD de Notre-Dame-des-Landes | La ZAD de Notre-Dame-des-Landes : un aéroport n'a jamais vu le jour | Loire-Atlantique · depuis 2009 | Près de Nantes, des paysannes et paysans, des habitantes et habitants et des occupants ont tenu pendant des années un bocage promis à un aéroport. En 2018, l'État renonce au projet. La lutte continue autrement.
 <p>Mamie a fait le voyage en tracteur, en novembre 2012, avec des dizaines de milliers d'autres. Elle a vu des cabanes dans les arbres, des fermes squattées, des vaches et des barricades. Et six ans plus tard, elle a vu l'État abandonner son aéroport. <strong>Il est rare qu'une lutte gagne aussi nettement</strong> : ça vaut la peine de comprendre comment.</p>
 
 <h2 id="projet">Un projet vieux de cinquante ans</h2>
 <p>L'idée d'un grand aéroport au nord de Nantes date des années 1960. En <strong>1974</strong>, l'État délimite sur les communes de Notre-Dame-des-Landes et alentour une <strong>« zone d'aménagement différé »</strong>, une ZAD, de 1 650 hectares : un bocage de prairies, de haies et de mares, cultivé par des fermes familiales. Le projet dort pendant des décennies, puis revient au début des années 2000. Fin <strong>2010</strong>, l'État confie la construction et l'exploitation de l'aéroport, pour 55 ans, à une filiale du groupe <strong>Vinci</strong>.</p>
-<p>Dès le début, des paysannes, des paysans et des habitants s'y opposent, réunis notamment dans l'<strong>ACIPA</strong> (association citoyenne intercommunale des populations concernées par le projet d'aéroport). Pendant longtemps, ils sont seuls.</p>
+<p>Dès le début, des paysannes, des paysannes et paysans et des habitantes et habitants s'y opposent, réunis notamment dans l'<strong>ACIPA</strong> (association citoyenne intercommunale des populations concernées par le projet d'aéroport). Pendant longtemps, iels sont seuls.</p>
 
 <h2 id="occuper">2009 : « habitants qui résistent »</h2>
-<p>En <strong>août 2009</strong>, un camp action climat se tient sur place. Des habitants lancent un appel : <strong>venez occuper les terres</strong> et les maisons vidées par les rachats. Des militantes et militants venus de partout s'installent dans des fermes abandonnées, puis construisent des cabanes. Le sigle administratif est détourné : la ZAD devient la <strong>« zone à défendre »</strong>. Le slogan du mouvement : <strong>« Contre l'aéroport et son monde »</strong>.</p>
+<p>En <strong>août 2009</strong>, un camp action climat se tient sur place. Des habitantes et habitants lancent un appel : <strong>venez occuper les terres</strong> et les maisons vidées par les rachats. Des militantes et militants venus de partout s'installent dans des fermes abandonnées, puis construisent des cabanes. Le sigle administratif est détourné : la ZAD devient la <strong>« zone à défendre »</strong>. Le slogan du mouvement : <strong>« Contre l'aéroport et son monde »</strong>.</p>
 
 <h2 id="cesar">2012 : l'opération César</h2>
 <p>Le <strong>16 octobre 2012</strong>, l'État lance l'<strong>opération César</strong> : environ 1 500 gendarmes et policiers viennent expulser les occupants et raser les maisons et les cabanes. La résistance est acharnée : barricades, cabanes perchées, tranchées, gaz et grenades dans la boue pendant des semaines. Et partout en France, des comités de soutien se forment.</p>
@@ -15,7 +15,7 @@
 
 <h2 id="victoire">2016-2018 : de la consultation à l'abandon</h2>
 <ul>
-<li>Le <strong>26 juin 2016</strong>, le gouvernement organise une consultation des habitants de Loire-Atlantique. Le « oui » à l'aéroport l'emporte à 55 %. Le mouvement refuse de se plier à un vote organisé par l'une des parties, sur un territoire choisi par elle.</li>
+<li>Le <strong>26 juin 2016</strong>, le gouvernement organise une consultation des habitantes et habitants de Loire-Atlantique. Le « oui » à l'aéroport l'emporte à 55 %. Le mouvement refuse de se plier à un vote organisé par l'une des parties, sur un territoire choisi par elle.</li>
 <li>Des experts nommés par le nouveau gouvernement concluent qu'on peut agrandir l'aéroport existant de Nantes plutôt que d'en construire un nouveau.</li>
 <li>Le <strong>17 janvier 2018</strong>, le Premier ministre Édouard Philippe annonce <strong>l'abandon définitif du projet</strong>. Après plus de quarante ans, l'aéroport ne se fera pas.</li>
 </ul>
@@ -47,7 +47,7 @@
 <h2 id="sources">Sources et pour aller plus loin</h2>
 <div class="ressources">
 <section><h3>Lire</h3><ul>
-<li><b><cite>Contrées. Histoires croisées de la zad de Notre-Dame-des-Landes et de la lutte No TAV dans le Val Susa</cite></b>, collectif Mauvaise Troupe, L'Éclat, 2016.<span>La lutte racontée par celles et ceux qui l'ont faite.</span></li>
+<li><b><cite>Contrées. Histoires croisées de la zad de Notre-Dame-des-Landes et de la lutte No TAV dans le Val Susa</cite></b>, collectif Mauvaise Troupe, L'Éclat, 2016.<span>La lutte racontée par celleux qui l'ont faite.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://zad.nadir.org/" rel="noopener">zad.nadir.org</a><span>Le site d'information tenu par des occupantes et occupants de la ZAD.</span></li>
@@ -57,23 +57,23 @@
 </div>
 
 === zad-organisation | ZAD de Notre-Dame-des-Landes | Vivre et décider sur la ZAD | Loire-Atlantique · depuis 2009 | Paysans, associations, naturalistes et occupants : un mouvement très divers qui a appris à agir ensemble. Assemblées, fermes collectives, boulangerie, bibliothèque, radio : la vie sans État sur un bocage.
-<p>Ce qui a impressionné Mamie à la ZAD, c'est le mélange. Des éleveurs en bottes, des retraités de l'ACIPA, des naturalistes avec leurs carnets, des squatteurs punks, des militantes venues de toute l'Europe. Ils ne s'aimaient pas toujours. Mais ils ont tenu ensemble, et <strong>c'est cette diversité qui a rendu le mouvement imbattable</strong>.</p>
+<p>Ce qui a impressionné Mamie à la ZAD, c'est le mélange. Des éleveurs en bottes, des retraités de l'ACIPA, des naturalistes avec leurs carnets, des squatteurs punks, des militantes venues de toute l'Europe. Iels ne s'aimaient pas toujours. Mais iels ont tenu ensemble, et <strong>c'est cette diversité qui a rendu le mouvement imbattable</strong>.</p>
 
 <h2 id="composantes">Les composantes du mouvement</h2>
 <div class="tbl"><table>
 <thead><tr><th>Qui</th><th>Ce qu'ils apportent</th></tr></thead>
 <tbody>
-<tr><td><b>Les paysannes et paysans « historiques »</b></td><td>Ceux qui ont refusé de vendre leurs terres. Le lien avec le monde agricole, les tracteurs pour les manifs.</td></tr>
-<tr><td><b>L'ACIPA et les associations</b></td><td>Les recours en justice, les expertises, les grandes manifestations, le lien avec les élus et la presse.</td></tr>
+<tr><td><b>Les paysannes et paysans « historiques »</b></td><td>Celleux qui ont refusé de vendre leurs terres. Le lien avec le monde agricole, les tracteurs pour les manifs.</td></tr>
+<tr><td><b>L'ACIPA et les associations</b></td><td>Les recours en justice, les expertises, les grandes manifestations, le lien avec les élues et élus et la presse.</td></tr>
 <tr><td><b>Les collectifs paysans</b></td><td>Des syndicalistes paysans, notamment de la Confédération paysanne, qui cultivent les terres « libérées » et soutiennent les installations.</td></tr>
 <tr><td><b>Les Naturalistes en lutte</b></td><td>Des scientifiques bénévoles qui recensent les espèces protégées du bocage pour contester les études officielles.</td></tr>
-<tr><td><b>Les occupantes et occupants</b></td><td>Ceux qui vivent sur place, tiennent le terrain, construisent, et inventent une autre façon de vivre.</td></tr>
+<tr><td><b>Les occupantes et occupants</b></td><td>Celleux qui vivent sur place, tiennent le terrain, construisent, et inventent une autre façon de vivre.</td></tr>
 <tr><td><b>Les comités de soutien</b></td><td>Plus de deux cents dans toute la France à certains moments : argent, matériel, manifestations, accueil.</td></tr>
 </tbody></table></div>
 
 <h2 id="diversite">Tenir ensemble malgré les différences</h2>
 <p>Les composantes ne sont d'accord ni sur les méthodes ni sur les buts. Certaines préfèrent les recours juridiques, d'autres les barricades. Le mouvement a pourtant trouvé un principe : <strong>le respect de la diversité des tactiques</strong>. Chacun agit à sa façon, sans dénoncer les autres. Pendant l'opération César, les associations n'ont jamais condamné la résistance physique, et les occupants ont soutenu les manifestations déclarées. C'est ce qui a empêché l'État de diviser le mouvement entre « gentils » et « casseurs ».</p>
-<p>En <strong>2015</strong>, les composantes s'accordent sur <strong>« six points pour l'avenir de la ZAD »</strong> : quand l'aéroport sera abandonné, les terres devront rester entre les mains de celles et ceux qui les font vivre, être gérées collectivement par le mouvement, et accueillir de nouveaux projets agricoles et non agricoles.</p>
+<p>En <strong>2015</strong>, les composantes s'accordent sur <strong>« six points pour l'avenir de la ZAD »</strong> : quand l'aéroport sera abandonné, les terres devront rester entre les mains de celleux qui les font vivre, être gérées collectivement par le mouvement, et accueillir de nouveaux projets agricoles et non agricoles.</p>
 
 <h2 id="vie">La vie sur la ZAD</h2>
 <p>Sur les quelque 1 650 hectares, des dizaines de lieux de vie, des fermes et des cabanes, ont vu se développer :</p>
@@ -94,7 +94,7 @@
 <defs><marker id="z1" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" class="ah"/></marker></defs>
 <rect class="bx-r" x="210" y="20" width="300" height="60"/><text class="t" x="360" y="46" text-anchor="middle">Assemblée du mouvement</text><text class="s" x="360" y="66" text-anchor="middle">toutes les composantes · grandes décisions</text>
 <rect class="bx" x="20" y="130" width="210" height="60"/><text class="t" x="125" y="156" text-anchor="middle">Assemblée des usages</text><text class="s" x="125" y="176" text-anchor="middle">terres, routes, forêt</text>
-<rect class="bx" x="255" y="130" width="210" height="60"/><text class="t" x="360" y="156" text-anchor="middle">Assemblée des habitants</text><text class="s" x="360" y="176" text-anchor="middle">vie quotidienne, conflits</text>
+<rect class="bx" x="255" y="130" width="210" height="60"/><text class="t" x="360" y="156" text-anchor="middle">Assemblée des habitantes et habitants</text><text class="s" x="360" y="176" text-anchor="middle">vie quotidienne, conflits</text>
 <rect class="bx" x="490" y="130" width="210" height="60"/><text class="t" x="595" y="156" text-anchor="middle">Comités de soutien</text><text class="s" x="595" y="176" text-anchor="middle">coordination nationale</text>
 <path class="ar" d="M125 128L260 82M360 128V82M595 128L460 82" marker-end="url(#z1)"/>
 <rect class="bx-d" x="140" y="226" width="440" height="50"/><text class="t" x="360" y="249" text-anchor="middle">Lieux de vie, fermes, collectifs de travail</text><text class="s" x="360" y="267" text-anchor="middle">chacun s'organise lui-même au quotidien</text>
@@ -132,7 +132,7 @@
 
 <h2 id="gagne">Ce qui a été gagné</h2>
 <ul>
-<li><strong>Un aéroport abandonné</strong>, contre l'État, une grande multinationale, la majorité des élus et une consultation.</li>
+<li><strong>Un aéroport abandonné</strong>, contre l'État, une grande multinationale, la majorité des élues et élus et une consultation.</li>
 <li><strong>Un bocage préservé</strong>, ses zones humides et ses espèces protégées.</li>
 <li><strong>Des terres qui restent cultivées</strong> par des projets collectifs, et une partie rachetée en commun.</li>
 <li><strong>Un modèle de lutte</strong> : occuper le terrain plutôt que seulement manifester contre.</li>
@@ -142,7 +142,7 @@
 <p>Après l'abandon de l'aéroport, le mouvement se déchire sur deux questions :</p>
 <ul>
 <li><strong>La route D281</strong>, barrée depuis 2013 par des chicanes et des cabanes. L'État exige sa réouverture. Une partie du mouvement accepte de la dégager pour montrer sa bonne foi ; une autre y voit le début de la normalisation. La route est rouverte, dans la douleur.</li>
-<li><strong>Les conventions individuelles</strong>. Pour les uns, signer des projets agricoles avec l'État, c'est sauver des lieux de vie et des terres collectives. Pour les autres, c'est accepter de trier entre « bons » occupants légalisables et « mauvais » occupants expulsables, et trahir ceux qui vivaient en dehors de toute règle.</li>
+<li><strong>Les conventions individuelles</strong>. Pour les uns, signer des projets agricoles avec l'État, c'est sauver des lieux de vie et des terres collectives. Pour les autres, c'est accepter de trier entre « bons » occupants légalisables et « mauvais » occupants expulsables, et trahir celleux qui vivaient en dehors de toute règle.</li>
 </ul>
 <p>Des occupantes et occupants partent, d'autres restent. Les critiques sont dures, des deux côtés. Pour Mamie, il n'y a pas de réponse simple : c'est le dilemme de toutes les luttes qui gagnent assez pour avoir quelque chose à perdre. Les anarchistes espagnols de 1936 l'ont connu, dans une tout autre mesure (voir <a href="espagne-1936-milices-debats.html">les dilemmes de la révolution espagnole</a>).</p>
 
@@ -156,7 +156,7 @@
 <li>À <strong>Bure</strong>, dans la Meuse, la lutte contre l'enfouissement des déchets nucléaires reprend les méthodes de la ZAD.</li>
 <li>En 2021, d'anciens de la ZAD et d'autres collectifs lancent <strong>les Soulèvements de la Terre</strong>, contre l'accaparement de l'eau et des terres. Le gouvernement tente de les dissoudre en 2023 ; le Conseil d'État annule la dissolution.</li>
 </ul>
-<figure class="photo photo--portrait"><img src="../assets/img/revolutions/zad-manif-2012.jpg" alt="Des manifestants en marche dans le bocage pendant la manifestation de réoccupation du 17 novembre 2012." width="1200" height="2136" loading="lazy"><figcaption>Le 17 novembre 2012, la manifestation de réoccupation dans le bocage. <small>KoS · CC BY-SA 3.0 · <a href="https://commons.wikimedia.org/wiki/File:Manifestation_de_r%C3%A9-occupation_du_17_novembre_2012_%C3%A0_Notre-Dame-des-Landes.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<figure class="photo photo--portrait"><img src="../assets/img/revolutions/zad-manif-2012.jpg" alt="Des manifestantes et manifestants en marche dans le bocage pendant la manifestation de réoccupation du 17 novembre 2012." width="1200" height="2136" loading="lazy"><figcaption>Le 17 novembre 2012, la manifestation de réoccupation dans le bocage. <small>KoS · CC BY-SA 3.0 · <a href="https://commons.wikimedia.org/wiki/File:Manifestation_de_r%C3%A9-occupation_du_17_novembre_2012_%C3%A0_Notre-Dame-des-Landes.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="comparer">Comparer avec les autres expériences</h2>
 <div class="tbl"><table>

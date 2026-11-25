@@ -5,7 +5,7 @@
       "id": "anarchistes-libertaires", "rang": 1,
       "nom": "Mouvements anarchistes et libertaires", "court": "Anarchistes et libertaires",
       "dit": "Abolir l'État et le capitalisme ensemble, et s'organiser dès maintenant sans chefs.",
-      "presentation": "<p>Cette famille regroupe les mouvements qui refusent à la fois l'exploitation économique et l'autorité politique de l'État, et qui veulent que les moyens de la lutte ressemblent à la société qu'ils visent : assemblées, fédérations, action directe. Elle naît dans le mouvement ouvrier du XIX<sup>e</sup> siècle, en Europe, mais se répand très vite en Amérique latine, en Asie orientale, autour de la Méditerranée et en Afrique australe.</p><p>Ce n'est pas un bloc. Les individualistes, les communistes libertaires, les anarcho-syndicalistes, les plateformistes ou les communalistes se sont souvent opposés durement, sur l'organisation, la violence, les syndicats ou les élections. Chaque dossier de la famille présente ces désaccords plutôt que de les cacher.</p>",
+      "presentation": "<p>Cette famille regroupe les mouvements qui refusent à la fois l'exploitation économique et l'autorité politique de l'État, et qui veulent que les moyens de la lutte ressemblent à la société qu'iels visent : assemblées, fédérations, action directe. Elle naît dans le mouvement ouvrier du XIX<sup>e</sup> siècle, en Europe, mais se répand très vite en Amérique latine, en Asie orientale, autour de la Méditerranée et en Afrique australe.</p><p>Ce n'est pas un bloc. Les individualistes, les communistes libertaires, les anarcho-syndicalistes, les plateformistes ou les communalistes se sont souvent opposés durement, sur l'organisation, la violence, les syndicats ou les élections. Chaque dossier de la famille présente ces désaccords plutôt que de les cacher.</p>",
       "mouvements": [
         { "nom": "Anarchisme" },
         { "nom": "Communisme libertaire", "voir": ["universite/communisme-libertaire.html", "Le parcours de l'université populaire"] },
@@ -26,7 +26,7 @@
       "id": "socialistes-ouvriers", "rang": 2,
       "nom": "Mouvements socialistes et ouvriers", "court": "Socialistes et ouvriers",
       "dit": "Les travailleuses et les travailleurs s'organisent pour ne plus être exploités.",
-      "presentation": "<p>Cette famille rassemble les mouvements nés de la révolution industrielle pour défendre celles et ceux qui vivent de leur travail : sociétés de secours mutuel, coopératives, syndicats, partis ouvriers, conseils d'usine. Ils partagent la critique de l'exploitation capitaliste, mais pas la façon d'en sortir.</p><p>Les grandes fractures de la famille traversent tout le XX<sup>e</sup> siècle : réforme ou révolution, parti ou syndicat, conquête de l'État ou autogestion, centralisme ou démocratie des conseils. Les anarchistes sont nés de ce même mouvement ouvrier, et beaucoup de leurs débats sont des débats avec les socialistes et les marxistes.</p>",
+      "presentation": "<p>Cette famille rassemble les mouvements nés de la révolution industrielle pour défendre celleux qui vivent de leur travail : sociétés de secours mutuel, coopératives, syndicats, partis ouvriers, conseils d'usine. Ils partagent la critique de l'exploitation capitaliste, mais pas la façon d'en sortir.</p><p>Les grandes fractures de la famille traversent tout le XX<sup>e</sup> siècle : réforme ou révolution, parti ou syndicat, conquête de l'État ou autogestion, centralisme ou démocratie des conseils. Les anarchistes sont nés de ce même mouvement ouvrier, et beaucoup de leurs débats sont des débats avec les socialistes et les marxistes.</p>",
       "mouvements": [
         { "nom": "Socialisme" },
         { "nom": "Marxisme" },
@@ -107,7 +107,7 @@
     {
       "id": "ecologistes", "rang": 6,
       "nom": "Mouvements écologistes", "court": "Écologistes",
-      "dit": "Défendre la terre, et ceux qui en vivent, contre ce qui l'épuise.",
+      "dit": "Défendre la terre, et celleux qui en vivent, contre ce qui l'épuise.",
       "presentation": "<p>Cette famille regroupe les mouvements qui lient la destruction de la nature à l'organisation de la société : écologie sociale, luttes antinucléaires, défense des terres paysannes et des territoires autochtones, écoféminisme, occupations contre les grands projets.</p><p>Les désaccords sont profonds : faut-il réformer l'économie ou en sortir ? Défendre la nature pour elle-même ou parce que les humains en dépendent ? Passer par les élections, les tribunaux ou l'action directe ? Les dossiers de cette famille présentent ces écoles sans les confondre.</p>",
       "mouvements": [
         { "nom": "Écologie sociale", "voir": ["universite/ecologie-sociale.html", "Le parcours de l'université populaire"] },

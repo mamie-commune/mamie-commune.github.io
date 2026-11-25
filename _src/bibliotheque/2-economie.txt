@@ -2,7 +2,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Pierre-Joseph Proudhon (1809-1865) est un enfant du peuple de Besançon : fils d'un tonnelier et d'une cuisinière, il garde les vaches, puis devient ouvrier typographe. Il apprend seul le latin, le grec et l'hébreu en composant des livres. Une bourse de l'académie de Besançon lui permet d'étudier à Paris.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-proudhon-livre.jpg" alt="Proudhon, barbe et petites lunettes, le regard baissé." width="1119" height="1345" loading="lazy"><figcaption>Pierre-Joseph Proudhon photographié par Nadar, entre 1854 et 1865. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Proudhon_with_book_and_armrest_by_Nadar_%E2%80%93_BNF_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Son premier grand livre paraît en 1840, sous la monarchie de Juillet, quand la bourgeoisie des banquiers règne et que les ouvriers des villes vivent dans une misère noire. Proudhon examine ce que les révolutions de 1789 et de 1830 ont laissé intact : la souveraineté, l'inégalité des fortunes et la propriété. C'est dans ce livre qu'il écrit, pour la première fois dans l'histoire, « je suis anarchiste ».</p>
+<p>Son premier grand livre paraît en 1840, sous la monarchie de Juillet, quand la bourgeoisie des banquiers règne et que les ouvrières et ouvriers des villes vivent dans une misère noire. Proudhon examine ce que les révolutions de 1789 et de 1830 ont laissé intact : la souveraineté, l'inégalité des fortunes et la propriété. C'est dans ce livre qu'il écrit, pour la première fois dans l'histoire, « je suis anarchiste ».</p>
 
 <h2 id="these">La thèse</h2>
 <p>La propriété, au sens du droit romain (le droit d'user et d'abuser d'une chose, et d'en tirer un revenu sans travailler), n'a aucun fondement solide. La justice exige l'égalité des droits ; la propriété, qui la contredit, doit disparaître. La célèbre formule « la propriété, c'est le vol » est le point d'arrivée d'une démonstration, pas un slogan lancé au hasard.</p>
@@ -55,7 +55,7 @@
 </ul></section>
 </div>
 
-=== prise-de-possession | Économie & propriété | Prise de possession | Louise Michel · 1890 | Le capital vit du travail d'autrui. Le monde appartiendra à celles et ceux qui le font tourner, par une prise de possession collective.
+=== prise-de-possession | Économie & propriété | Prise de possession | Louise Michel · 1890 | Le capital vit du travail d'autrui. Le monde appartiendra à celleux qui le font tourner, par une prise de possession collective.
 <h2 id="contexte">Contexte</h2>
 <p>Louise Michel (1830-1905) est institutrice quand éclate la Commune de Paris en 1871. Elle y est ambulancière, combattante, animatrice de clubs. Condamnée à la déportation, elle passe sept ans en Nouvelle-Calédonie, où elle devient anarchiste, enseigne aux Kanak et prend leur parti lors de leur grande révolte de 1878. Amnistiée en 1880, elle rentre en héroïne et ne cesse plus de parcourir la France pour des conférences, entre deux séjours en prison.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-michel-1880.jpg" alt="Portrait de Louise Michel, le regard tourné vers la droite." width="1181" height="1792" loading="lazy"><figcaption>Louise Michel vers 1880, à son retour de déportation. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Louise_Michel,_grayscale.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -70,7 +70,7 @@
 <li><strong>Le capital est une fiction</strong> qui vit du travail des autres. L'Exposition de 1889, vitrine des techniques modernes, prouve qu'on sait déjà produire assez pour tout le monde.</li>
 <li><strong>La prise de possession est collective.</strong> La grève générale rend le pouvoir impuissant. Ouvrières et ouvriers, petits commerçants ruinés, employés sans travail forment une masse qui n'a plus rien à perdre.</li>
 <li><strong>La révolution se propage</strong> comme une secousse sismique, d'un pays à l'autre, sans respecter les frontières.</li>
-<li><strong>Un appel aux paysans et aux ouvriers</strong> à refuser l'impôt, la guerre et la résignation. Elle évoque les révoltes paysannes, la répression coloniale et le sort des enfants pauvres.</li>
+<li><strong>Un appel aux paysannes et paysans et aux ouvrières et ouvriers</strong> à refuser l'impôt, la guerre et la résignation. Elle évoque les révoltes paysannes, la répression coloniale et le sort des enfants pauvres.</li>
 <li><strong>La « raison d'État »</strong> broie les vies depuis l'Antiquité, de Prométhée enchaîné aux exécutions de son temps.</li>
 </ol>
 
@@ -107,24 +107,24 @@
 </ul></section>
 </div>
 
-=== a-mon-frere-le-paysan | Économie & propriété | À mon frère le paysan | Élisée Reclus · 1899 | La terre est à celui qui la travaille. Mais seul, le paysan ne la gardera pas : il lui faut l'union des communes et des ouvriers.
+=== a-mon-frere-le-paysan | Économie & propriété | À mon frère le paysan | Élisée Reclus · 1899 | La terre est à celui qui la travaille. Mais seul, le paysan ne la gardera pas : il lui faut l'union des communes et des ouvrières et ouvriers.
 <h2 id="contexte">Contexte</h2>
 <p>Élisée Reclus (1830-1905) est l'un des plus grands géographes de son temps, auteur d'une <em>Nouvelle Géographie universelle</em> en dix-neuf volumes. Il est aussi anarchiste : combattant de la Commune de Paris, fait prisonnier, condamné, puis banni de France grâce à une pétition de savants du monde entier. Il connaît intimement le monde rural, qu'il a parcouru à pied sur plusieurs continents.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-1900.jpg" alt="Élisée Reclus de trois quarts, barbe et cheveux en bataille." width="1200" height="1651" loading="lazy"><figcaption>Élisée Reclus photographié par Nadar, vers 1900. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_par_Nadar,_1900,_grayscale.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Ce texte paraît en 1899 dans <em>Les Temps nouveaux</em>, le journal de Jean Grave, puis en brochure, rééditée pendant des décennies. Reclus s'adresse au petit paysan, à un moment où la mécanisation, la spéculation foncière, les dettes et l'impôt transforment les campagnes françaises et poussent des millions de gens vers les villes.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Celle ou celui qui cultive la terre en est le légitime possesseur. Mais isolé, le paysan ne pourra pas la défendre contre les grands propriétaires, l'État et l'agriculture industrielle naissante. Seule l'union des petits cultivateurs, des communes et des ouvriers des villes peut garantir la terre à celles et ceux qui la travaillent.</p>
+<p>Celle ou celui qui cultive la terre en est le légitime possesseur. Mais isolé, le paysan ne pourra pas la défendre contre les grands propriétaires, l'État et l'agriculture industrielle naissante. Seule l'union des petits cultivateurs, des communes et des ouvrières et ouvriers des villes peut garantir la terre à celleux qui la travaillent.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Rassurer.</strong> Les adversaires des anarchistes disent aux paysans qu'on veut leur prendre leur champ. Reclus répond : personne ne prendra la terre que tu travailles toi-même.</li>
+<li><strong>Rassurer.</strong> Les adversaires des anarchistes disent aux paysannes et paysans qu'on veut leur prendre leur champ. Reclus répond : personne ne prendra la terre que tu travailles toi-même.</li>
 <li><strong>Exproprier les grands domaines</strong>, que d'autres cultivent pour des héritiers ou des enrichis qui ne les voient jamais. Chacune et chacun garde ce qu'il peut travailler.</li>
 <li><strong>La fragilité de l'isolé.</strong> Météo, impôts, usuriers, marchands de grain, compagnies de chemin de fer : tout le monde dépouille le petit paysan, et la méfiance entre voisins l'affaiblit encore.</li>
 <li><strong>La commune ancienne</strong>, avec ses terres communes, ses pâturages partagés, son entraide pour les moissons et ses décisions prises ensemble, montre qu'autre chose est possible.</li>
 <li><strong>Mais une commune seule</strong> finit toujours par céder face aux seigneurs, aux juges et à l'armée. L'histoire des communaux confisqués le prouve.</li>
 <li><strong>La menace industrielle.</strong> Reclus décrit les immenses fermes de l'Ouest américain, où humains, bêtes et machines ne sont que des rouages du profit. C'est l'avenir qui attend la campagne si rien ne change.</li>
-<li><strong>L'appel</strong> : fédérer les communes, puis les pays, et s'allier aux ouvriers des villes, qui ont le même ennemi.</li>
+<li><strong>L'appel</strong> : fédérer les communes, puis les pays, et s'allier aux ouvrières et ouvriers des villes, qui ont le même ennemi.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
@@ -134,7 +134,7 @@
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>La prophétie de Reclus s'est réalisée : les fermes géantes, la dépendance aux banques et aux semenciers, la disparition massive des petites exploitations. Les luttes paysannes actuelles (contre l'accaparement des terres, pour l'installation de jeunes paysannes et paysans, les zones à défendre, les coopératives et les circuits courts) reprennent exactement sa question : comment garder la terre à celles et ceux qui la travaillent ?</p>
+<p>La prophétie de Reclus s'est réalisée : les fermes géantes, la dépendance aux banques et aux semenciers, la disparition massive des petites exploitations. Les luttes paysannes actuelles (contre l'accaparement des terres, pour l'installation de jeunes paysannes et paysans, les zones à défendre, les coopératives et les circuits courts) reprennent exactement sa question : comment garder la terre à celleux qui la travaillent ?</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>

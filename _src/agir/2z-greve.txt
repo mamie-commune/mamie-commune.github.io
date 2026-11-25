@@ -29,7 +29,7 @@
 </ul>
 
 <h2 id="ag">L'assemblée des grévistes</h2>
-<p>La grève appartient à celles et ceux qui la font. Une <strong>assemblée générale des grévistes</strong>, chaque jour ou presque, décide de la suite : continuer ou reprendre, accepter ou non une proposition, quelles actions. Les personnes qui négocient avec la direction sont <strong>mandatées</strong> par l'AG et lui rendent des comptes. Méthode dans <a href="tenir-une-ag.html">Tenir une AG</a> et <a href="decider-sans-chef.html">Décider sans chef</a>.</p>
+<p>La grève appartient à celleux qui la font. Une <strong>assemblée générale des grévistes</strong>, chaque jour ou presque, décide de la suite : continuer ou reprendre, accepter ou non une proposition, quelles actions. Les personnes qui négocient avec la direction sont <strong>mandatées</strong> par l'AG et lui rendent des comptes. Méthode dans <a href="tenir-une-ag.html">Tenir une AG</a> et <a href="decider-sans-chef.html">Décider sans chef</a>.</p>
 
 <h2 id="caisse">La caisse de grève</h2>
 <ul>
@@ -60,7 +60,7 @@
 <li><a href="https://fr.wikipedia.org/wiki/Piquet_de_gr%C3%A8ve" rel="noopener">Piquet de grève</a><span>Wikipédia : histoire et règles du piquet.</span></li>
 </ul></section>
 <section><h3>Lire aussi</h3><ul>
-<li><a href="../bibliotheque/l-action-directe-pouget.html">L'Action directe</a><span>Émile Pouget, 1910 : la grève comme arme des travailleuses et travailleurs eux-mêmes.</span></li>
+<li><a href="../bibliotheque/l-action-directe-pouget.html">L'Action directe</a><span>Émile Pouget, 1910 : la grève comme arme des travailleureuses elleux-mêmes.</span></li>
 <li><a href="../experiences/mai-68-histoire.html">Mai 68 : la grève générale</a><span>Dix millions de grévistes et des usines occupées.</span></li>
 </ul></section>
 </div>

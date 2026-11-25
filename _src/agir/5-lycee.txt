@@ -11,10 +11,10 @@
 <p>Au lycée, tu n'es pas seulement là pour écouter. Le Code de l'éducation reconnaît aux lycéennes et lycéens des droits collectifs, à exercer dans le respect du pluralisme et sans empêcher les cours :</p>
 <ul>
 <li><strong>Le droit d'expression</strong> : tu peux donner ton avis, et le défendre.</li>
-<li><strong>Le droit de réunion</strong> : les délégués ou une association lycéenne peuvent organiser une réunion dans le lycée, en dehors des heures de cours, après accord du chef d'établissement. Demande-le par écrit, et garde une trace de la réponse.</li>
+<li><strong>Le droit de réunion</strong> : les déléguées et délégués ou une association lycéenne peuvent organiser une réunion dans le lycée, en dehors des heures de cours, après accord du chef d'établissement. Demande-le par écrit, et garde une trace de la réponse.</li>
 <li><strong>Le droit de publication et d'affichage</strong> : un journal ou un tract lycéen peut circuler librement dans le lycée. Le chef d'établissement peut seulement en suspendre la diffusion s'il porte gravement atteinte aux droits des autres ou à l'ordre public (insultes, diffamation…). Il y a souvent des panneaux réservés aux lycéennes et lycéens.</li>
 <li><strong>Le droit d'association</strong> : dès 16 ans, tu peux créer une association et la diriger. Une association lycéenne peut avoir son siège dans le lycée.</li>
-<li><strong>Les élus</strong> : délégués de classe, Conseil de la vie lycéenne (CVL), conseil d'administration. Ce n'est pas là que se gagne une lutte, mais c'est une tribune, des informations, et parfois une protection.</li>
+<li><strong>Les élues et élus</strong> : délégués de classe, Conseil de la vie lycéenne (CVL), conseil d'administration. Ce n'est pas là que se gagne une lutte, mais c'est une tribune, des informations, et parfois une protection.</li>
 </ul>
 <p>Ce qui n'est <strong>pas</strong> un droit : sécher les cours pour manifester. Le lycée peut compter ces absences comme injustifiées. Parles-en avec tes parents, qui peuvent choisir de les justifier ou non.</p>
 
@@ -50,7 +50,7 @@
 <ul>
 <li><strong>Varie les actions</strong> : blocus, manif, rassemblement, cours alternatifs devant le lycée, banderoles aux fenêtres, journée lycée mort. Bloquer tous les jours épuise et divise.</li>
 <li><strong>Prends soin des gens</strong> : les vacances, les contrôles, les parents inquiets, la peur après une interpellation. Voir <a href="eviter-l-epuisement-militant.html">Éviter l'épuisement militant</a>.</li>
-<li><strong>Garde une trace</strong> : les revendications obtenues, les promesses faites, les noms des élus qui ont signé. La lutte suivante repartira de là.</li>
+<li><strong>Garde une trace</strong> : les revendications obtenues, les promesses faites, les noms des élues et élus qui ont signé. La lutte suivante repartira de là.</li>
 <li><strong>Ne laisse personne seul</strong> face à une sanction ou à des poursuites : c'est la règle d'or. Voir <a href="lyceens-face-aux-sanctions.html">Face aux sanctions et à la police</a>.</li>
 </ul>
 
@@ -58,7 +58,7 @@
 <div class="ressources">
 <section><h3>Les sources de cette fiche</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France" rel="noopener">Mouvement lycéen et étudiant de 2026</a><span>Wikipédia : chronologie, chiffres et revendications, avec leurs sources.</span></li>
-<li><a href="https://www.cidj.com/s-engager/s-engager-pour-une-cause/droit-de-manifester-des-lyceens-que-faut-il-savoir" rel="noopener">Droit de manifester des lycéens</a><span>CIDJ : ce que tu peux faire, et ce que tu risques.</span></li>
+<li><a href="https://www.cidj.com/s-engager/s-engager-pour-une-cause/droit-de-manifester-des-lyceens-que-faut-il-savoir" rel="noopener">Droit de manifester des lycéennes et lycéens</a><span>CIDJ : ce que tu peux faire, et ce que tu risques.</span></li>
 </ul></section>
 <section><h3>Les organisations lycéennes</h3><ul>
 <li><a href="https://fr.wikipedia.org/wiki/Union_syndicale_lyc%C3%A9enne" rel="noopener">Union syndicale lycéenne</a><span>Syndicat lycéen, présent dans les mouvements depuis les années 1990.</span></li>
@@ -77,7 +77,7 @@
 <h2 id="risques">Ce qu'on risque vraiment</h2>
 <ul>
 <li><strong>Il n'existe pas de « droit de blocus ».</strong> Empêcher l'entrée du lycée relève d'abord de la <strong>discipline</strong> du lycée : avertissement, exclusion… Voir <a href="lyceens-face-aux-sanctions.html">Face aux sanctions et à la police</a>.</li>
-<li><strong>Ce qui mène devant la justice</strong> : les dégradations, les incendies (poubelles comprises), les violences, et une accusation très utilisée contre les lycéennes et lycéens, la « participation à un groupement en vue de commettre des violences ou des dégradations ». Elle permet d'arrêter des gens qui n'ont rien fait, juste parce qu'ils étaient là.</li>
+<li><strong>Ce qui mène devant la justice</strong> : les dégradations, les incendies (poubelles comprises), les violences, et une accusation très utilisée contre les lycéennes et lycéens, la « participation à un groupement en vue de commettre des violences ou des dégradations ». Elle permet d'arrêter des gens qui n'ont rien fait, juste parce qu'iels étaient là.</li>
 <li><strong>Si tu n'es pas élève du lycée</strong>, y entrer sans autorisation est un délit (« intrusion dans un établissement scolaire »). Les soutiens extérieurs restent dehors.</li>
 <li>En 2026, l'État a annoncé des <strong>interventions policières systématiques</strong> en cas de blocage total, et les gardes à vue se sont comptées par milliers. Prépare-toi en conséquence.</li>
 </ul>
@@ -134,7 +134,7 @@
 <h2 id="sources">Sources et pour aller plus loin</h2>
 <div class="ressources">
 <section><h3>Les sources de cette fiche</h3><ul>
-<li><a href="https://www.cidj.com/s-engager/s-engager-pour-une-cause/droit-de-manifester-des-lyceens-que-faut-il-savoir" rel="noopener">Droit de manifester des lycéens</a><span>CIDJ : manifester, bloquer, et ce qu'on risque.</span></li>
+<li><a href="https://www.cidj.com/s-engager/s-engager-pour-une-cause/droit-de-manifester-des-lyceens-que-faut-il-savoir" rel="noopener">Droit de manifester des lycéennes et lycéens</a><span>CIDJ : manifester, bloquer, et ce qu'on risque.</span></li>
 <li><a href="https://fr.wikipedia.org/wiki/Mouvement_lyc%C3%A9en_et_%C3%A9tudiant_de_2026_en_France" rel="noopener">Mouvement lycéen et étudiant de 2026</a><span>Wikipédia : la réponse de l'État, chiffres à l'appui.</span></li>
 </ul></section>
 <section><h3>Lire aussi</h3><ul>
@@ -200,7 +200,7 @@
 <h2 id="ensemble">Se défendre ensemble</h2>
 <ul>
 <li><strong>Ne laisse personne seul</strong> : si trois élèves sont convoqués, toute l'AG est concernée. Rassemblement devant le lycée le jour du conseil de discipline, lettre collective, pétition des profs et des parents.</li>
-<li><strong>Les parents sont des alliés</strong> : ils peuvent écrire, se faire accompagner par une association de parents, contacter des élus.</li>
+<li><strong>Les parents sont des alliés</strong> : iels peuvent écrire, se faire accompagner par une association de parents, contacter des élues et élus.</li>
 <li><strong>La caisse</strong> paie les avocats et les amendes : voir <a href="caisse-de-solidarite.html">Monter une caisse de solidarité</a>.</li>
 <li><strong>Les syndicats lycéens et les legal teams</strong> connaissent les procédures et les avocates et avocats engagés. Contacte-les tôt.</li>
 </ul>

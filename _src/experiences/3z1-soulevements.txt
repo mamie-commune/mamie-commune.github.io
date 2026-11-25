@@ -1,12 +1,12 @@
 === soulevements-histoire | Soulèvements de la Terre | Les Soulèvements de la Terre : du Larzac à Sainte-Soline | France · depuis 2021 | Paysans, zadistes, naturalistes et syndicalistes s'unissent contre l'accaparement des terres et de l'eau. Le gouvernement les traite d'« écoterroristes » et tente de les dissoudre : il perd devant le Conseil d'État.
-<p>Mamie a des souvenirs de moissons collectives sur le Larzac et de boue à Notre-Dame-des-Landes. Quand elle a vu, en 2023, des dizaines de milliers de gens marcher à travers champs vers une bassine gardée par des milliers de gendarmes, elle a reconnu la même histoire : <strong>des gens qui défendent la terre contre ceux qui veulent se l'approprier</strong>. Les Soulèvements de la Terre sont l'héritiers de cinquante ans de luttes paysannes et écologistes.</p>
+<p>Mamie a des souvenirs de moissons collectives sur le Larzac et de boue à Notre-Dame-des-Landes. Quand elle a vu, en 2023, des dizaines de milliers de gens marcher à travers champs vers une bassine gardée par des milliers de gendarmes, elle a reconnu la même histoire : <strong>des gens qui défendent la terre contre celleux qui veulent se l'approprier</strong>. Les Soulèvements de la Terre sont l'héritiers de cinquante ans de luttes paysannes et écologistes.</p>
 
 <h2 id="larzac">La lignée : le Larzac (1971-1981)</h2>
-<p>En 1971, l'État veut agrandir le camp militaire du Larzac, dans l'Aveyron, de 3 000 à 17 000 hectares. Le <strong>28 mars 1972</strong>, <strong>103 paysans</strong> sur 108 concernés signent le « serment des 103 » : aucun ne vendra. Pendant dix ans, ils tiennent, soutenus par des dizaines de milliers de personnes venues de partout : 60 000 à 100 000 au rassemblement de 1973. Les soutiens achètent des parts de terres pour compliquer les expropriations : <strong>3 500 personnes, 6 180 parts</strong>. En 1981, le projet est abandonné. Les terres libérées permettent d'installer de nouvelles fermes.</p>
+<p>En 1971, l'État veut agrandir le camp militaire du Larzac, dans l'Aveyron, de 3 000 à 17 000 hectares. Le <strong>28 mars 1972</strong>, <strong>103 paysannes et paysans</strong> sur 108 concernés signent le « serment des 103 » : aucun ne vendra. Pendant dix ans, iels tiennent, soutenus par des dizaines de milliers de personnes venues de partout : 60 000 à 100 000 au rassemblement de 1973. Les soutiens achètent des parts de terres pour compliquer les expropriations : <strong>3 500 personnes, 6 180 parts</strong>. En 1981, le projet est abandonné. Les terres libérées permettent d'installer de nouvelles fermes.</p>
 <p>D'autres luttes de terre suivront : Plogoff contre une centrale nucléaire (1978-1981), puis la <a href="zad-histoire.html">ZAD de Notre-Dame-des-Landes</a>, qui gagne en 2018. C'est là, en <strong>janvier 2021</strong>, que naissent les Soulèvements de la Terre.</p>
 
 <h2 id="naissance">2021 : un appel à se soulever</h2>
-<p>Les fondateurs viennent de la ZAD. Leur premier appel est signé par des historiennes et historiens, des écrivains et des paysans. Le principe : <strong>une coalition</strong> de collectifs locaux, de fermes, de sections syndicales et d'associations, qui choisit chaque saison quelques luttes locales et leur apporte la force du nombre. Les cibles : l'<strong>accaparement des terres</strong>, la <strong>bétonisation</strong>, l'<strong>agro-industrie</strong> et l'eau privatisée. Leur symbole, ⏚, est le signe électrique de la mise à la terre.</p>
+<p>Les fondateurices viennent de la ZAD. Leur premier appel est signé par des historiennes et historiens, des écrivains et des paysannes et paysans. Le principe : <strong>une coalition</strong> de collectifs locaux, de fermes, de sections syndicales et d'associations, qui choisit chaque saison quelques luttes locales et leur apporte la force du nombre. Les cibles : l'<strong>accaparement des terres</strong>, la <strong>bétonisation</strong>, l'<strong>agro-industrie</strong> et l'eau privatisée. Leur symbole, ⏚, est le signe électrique de la mise à la terre.</p>
 <p>Les premières actions visent une carrière de sable en Loire-Atlantique, des jardins populaires menacés à Besançon, des centrales à béton, l'usine Lafarge de Bouc-Bel-Air.</p>
 
 <h2 id="bassines">Les méga-bassines</h2>
@@ -24,7 +24,7 @@
 
 <h2 id="chronologie">Chronologie</h2>
 <ol class="timeline">
-<li><b>1971-1981</b><span>Lutte du Larzac : les paysans gagnent.</span></li>
+<li><b>1971-1981</b><span>Lutte du Larzac : les paysannes et paysans gagnent.</span></li>
 <li><b>2009-2018</b><span>ZAD de Notre-Dame-des-Landes : l'aéroport est abandonné.</span></li>
 <li><b>Janvier 2021</b><span>Naissance des Soulèvements de la Terre à la ZAD.</span></li>
 <li><b>Octobre 2022</b><span>Première grande manifestation à Sainte-Soline.</span></li>
@@ -56,7 +56,7 @@
 </div>
 <p class="doc__relire">Dossier écrit à partir des articles Wikipédia cités, à relire par la bande. Sources vérifiées le 13 novembre 2026.</p>
 
-=== soulevements-organisation | Soulèvements de la Terre | Une coalition, des saisons, des camps | France · depuis 2021 | Pas de chef, pas d'adhérents : une coalition de collectifs locaux, paysans et syndicats qui choisit ses cibles par saisons, et des week-ends de mobilisation avec cantines, garderies et camps.
+=== soulevements-organisation | Soulèvements de la Terre | Une coalition, des saisons, des camps | France · depuis 2021 | Pas de chef, pas d'adhérentes et adhérents : une coalition de collectifs locaux, paysans et syndicats qui choisit ses cibles par saisons, et des week-ends de mobilisation avec cantines, garderies et camps.
 <p>Les Soulèvements de la Terre ne sont pas une organisation avec un bureau et des cartes de membre. Ils se décrivent comme <strong>une coalition</strong>, ou une <strong>campagne d'actions</strong>. C'est d'ailleurs ce qui a rendu leur dissolution si absurde : comment dissoudre des gens qui se rassemblent ?</p>
 
 <h2 id="coalition">Qui est dedans</h2>
@@ -64,7 +64,7 @@
 <li>Des <strong>collectifs locaux</strong> en lutte contre un projet précis : une bassine, une carrière, une autoroute, une usine.</li>
 <li>Des <strong>paysannes et paysans</strong>, notamment de la Confédération paysanne.</li>
 <li>Des <strong>syndicats</strong> : sections de Solidaires, de la CGT.</li>
-<li>Des militants venus des <strong>ZAD</strong> et de la mouvance <strong>autonome</strong>.</li>
+<li>Des militantes et militants venus des <strong>ZAD</strong> et de la mouvance <strong>autonome</strong>.</li>
 <li>Des naturalistes, des scientifiques, des associations écologistes, et des jeunes venus de Youth for Climate ou d'Extinction Rebellion, lassés des marches sans effet.</li>
 </ul>
 <p>En juin 2023, la coalition revendique une centaine de collectifs, et plus de <strong>110 000 personnes</strong> se déclarent publiquement membres.</p>
@@ -73,9 +73,9 @@
 <p>Le mouvement s'organise en <strong>saisons</strong> : quelques mois pendant lesquels la coalition choisit plusieurs luttes locales et organise une grande mobilisation pour chacune. La lutte reste aux gens du coin ; les Soulèvements apportent du monde, de la logistique et de la visibilité. C'est un principe <strong>fédéraliste</strong> : le local décide, le réseau renforce.</p>
 
 <h2 id="camps">Un week-end de mobilisation</h2>
-<p>À Sainte-Soline, la base arrière est installée à Melle, à une trentaine de kilomètres, sur le terrain d'un agriculteur : <strong>cantine, garderie pour les enfants</strong>, concerts, conférences, débats. Les cortèges partent ensuite à travers champs, chacun avec sa couleur et sa façon de faire. Ceux qui ne veulent pas d'affrontement restent loin des grilles ; d'autres vont au contact.</p>
+<p>À Sainte-Soline, la base arrière est installée à Melle, à une trentaine de kilomètres, sur le terrain d'un agriculteur : <strong>cantine, garderie pour les enfants</strong>, concerts, conférences, débats. Les cortèges partent ensuite à travers champs, chacun avec sa couleur et sa façon de faire. Celleux qui ne veulent pas d'affrontement restent loin des grilles ; d'autres vont au contact.</p>
 
-<figure class="photo"><img src="../assets/img/revolutions/slt-prises-de-parole-2023.jpg" alt="Des personnes prennent la parole au micro sur une estrade en plein air, devant des drapeaux." width="1073" height="891" loading="lazy"><figcaption>Prises de parole des associations et des élus pendant le week-end de Sainte-Soline, mars 2023. <small>Noisette lairederien · CC BY 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Prises_de_parole_%C3%A0_la_manifestation_de_Sainte-Soline_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<figure class="photo"><img src="../assets/img/revolutions/slt-prises-de-parole-2023.jpg" alt="Des personnes prennent la parole au micro sur une estrade en plein air, devant des drapeaux." width="1073" height="891" loading="lazy"><figcaption>Prises de parole des associations et des élues et élus pendant le week-end de Sainte-Soline, mars 2023. <small>Noisette lairederien · CC BY 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Prises_de_parole_%C3%A0_la_manifestation_de_Sainte-Soline_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="tactiques">La « pluralité des tactiques »</h2>
 <p>Les Soulèvements assument de mêler les modes d'action :</p>
@@ -109,17 +109,17 @@
 </div>
 <p class="doc__relire">Dossier écrit à partir des articles Wikipédia cités, à relire par la bande. Sources vérifiées le 13 novembre 2026.</p>
 
-=== soulevements-debats | Soulèvements de la Terre | Désarmer, saboter, durer | France · depuis 2021 | Le sabotage est-il légitime ? Faut-il s'allier avec des syndicats et des élus ? Que faire face à une répression qui parle d'« écoterrorisme » ? Les débats, et ce que la bande à Mamie en retient.
+=== soulevements-debats | Soulèvements de la Terre | Désarmer, saboter, durer | France · depuis 2021 | Le sabotage est-il légitime ? Faut-il s'allier avec des syndicats et des élues et élus ? Que faire face à une répression qui parle d'« écoterrorisme » ? Les débats, et ce que la bande à Mamie en retient.
 <p>Mamie aime les Soulèvements de la Terre, et elle ne s'en cache pas. Mais une bonne camarade, ça discute aussi. Voici les questions qui traversent le mouvement, et la façon dont les libertaires les regardent.</p>
 
 <h2 id="sabotage">Le sabotage, un vieux mot ouvrier</h2>
-<p>Quand les Soulèvements parlent de « désarmement », les médias crient au terrorisme. Les anarchistes, eux, connaissent le mot <strong>sabotage</strong> depuis Émile Pouget, qui le fait adopter par la CGT à la fin des années 1890 comme arme ouvrière : <strong>s'en prendre aux machines, jamais aux personnes</strong>. Démonter une pompe qui vide une nappe phréatique pour quelques exploitations, c'est dans cette tradition. Le débat interne porte moins sur le principe que sur les cibles, les risques et la façon d'en parler pour ne pas isoler le mouvement.</p>
+<p>Quand les Soulèvements parlent de « désarmement », les médias crient au terrorisme. Les anarchistes, elleux, connaissent le mot <strong>sabotage</strong> depuis Émile Pouget, qui le fait adopter par la CGT à la fin des années 1890 comme arme ouvrière : <strong>s'en prendre aux machines, jamais aux personnes</strong>. Démonter une pompe qui vide une nappe phréatique pour quelques exploitations, c'est dans cette tradition. Le débat interne porte moins sur le principe que sur les cibles, les risques et la façon d'en parler pour ne pas isoler le mouvement.</p>
 
 <h2 id="violence">« Violence » : de quel côté ?</h2>
-<p>À Sainte-Soline, des grilles ont été attaquées et des véhicules brûlés. En face, plus de deux cents personnes ont été blessées, certaines à vie. Le gouvernement parle de violence des manifestants ; il parle peu des grenades et des LBD tirés depuis des quads. Pour Mamie, la vraie violence est aussi ailleurs : <strong>pomper l'eau de tout le monde pour le profit de quelques-uns</strong>, en pleine sécheresse.</p>
+<p>À Sainte-Soline, des grilles ont été attaquées et des véhicules brûlés. En face, plus de deux cents personnes ont été blessées, certaines à vie. Le gouvernement parle de violence des manifestantes et manifestants ; il parle peu des grenades et des LBD tirés depuis des quads. Pour Mamie, la vraie violence est aussi ailleurs : <strong>pomper l'eau de tout le monde pour le profit de quelques-uns</strong>, en pleine sécheresse.</p>
 
 <h2 id="alliances">S'allier, jusqu'où ?</h2>
-<p>La force des Soulèvements, c'est d'avoir réuni des autonomes, des syndicats, des associations et des paysans. Le risque, c'est la récupération : des partis qui viennent se montrer, des figures médiatiques qui parlent au nom de tous, des négociations menées par quelques-uns. Les libertaires y veillent : <strong>les décisions doivent rester aux collectifs locaux</strong>, et la coalition ne doit pas devenir une marque.</p>
+<p>La force des Soulèvements, c'est d'avoir réuni des autonomes, des syndicats, des associations et des paysannes et paysans. Le risque, c'est la récupération : des partis qui viennent se montrer, des figures médiatiques qui parlent au nom de toustes, des négociations menées par quelques-uns. Les libertaires y veillent : <strong>les décisions doivent rester aux collectifs locaux</strong>, et la coalition ne doit pas devenir une marque.</p>
 
 <h2 id="repression">L'arsenal contre l'écologie radicale</h2>
 <ul>
@@ -131,7 +131,7 @@
 <p>Face à ça, la meilleure réponse a été collective : des dizaines de milliers de personnes qui disent « nous sommes les Soulèvements ».</p>
 
 <h2 id="limites">Ce qui reste à gagner</h2>
-<p>Des bassines ont été déclarées illégales, des projets ralentis. Mais l'agro-industrie continue, et la lutte de terre demande du temps long : s'installer, cultiver, tenir comme au Larzac. Sans <strong>fermes, collectifs d'habitants et communs</strong> sur place, les grands week-ends de mobilisation ne suffisent pas.</p>
+<p>Des bassines ont été déclarées illégales, des projets ralentis. Mais l'agro-industrie continue, et la lutte de terre demande du temps long : s'installer, cultiver, tenir comme au Larzac. Sans <strong>fermes, collectifs d'habitantes et habitants et communs</strong> sur place, les grands week-ends de mobilisation ne suffisent pas.</p>
 
 <h2 id="comparer">Comparer avec les autres expériences</h2>
 <ul>

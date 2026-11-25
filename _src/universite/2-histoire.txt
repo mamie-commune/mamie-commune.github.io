@@ -24,7 +24,7 @@
 
 <h2 id="textes">Textes de référence</h2>
 <ul>
-<li><a href="../livres/trois-conferences-saint-imier.html">Trois conférences aux ouvriers du Val de Saint-Imier</a>, Bakounine, 1871.</li>
+<li><a href="../livres/trois-conferences-saint-imier.html">Trois conférences aux ouvrières et ouvriers du Val de Saint-Imier</a>, Bakounine, 1871.</li>
 <li><a href="../bibliotheque/bolchevisme-et-anarchisme.html">Bolchevisme et anarchisme</a>, Malatesta, 1923.</li>
 <li><a href="../bibliotheque/lois-scelerates.html">Les Lois scélérates de 1893-1894</a>, 1899.</li>
 </ul>
@@ -45,8 +45,8 @@
 <h2 id="questions">Questions de compréhension</h2>
 <ol class="parcours-questions">
 <li>Sur quoi Bakounine et Marx s'opposent-ils dans l'Internationale ? <small>Piste : module 1</small></li>
-<li>Pourquoi beaucoup d'anarchistes français entrent-ils dans les syndicats après 1895 ? <small>Piste : module 3</small></li>
-<li>Pourquoi les bolcheviks combattent-ils les makhnovistes après s'être alliés avec eux ? <small>Piste : module 4</small></li>
+<li>Pourquoi beaucoup d'anarchistes français entrent-iels dans les syndicats après 1895 ? <small>Piste : module 3</small></li>
+<li>Pourquoi les bolcheviks combattent-ils les makhnovistes après s'être alliés avec elleux ? <small>Piste : module 4</small></li>
 <li>Qu'est-ce qui divise les anarchistes espagnols quand la CNT entre au gouvernement ? <small>Piste : module 5</small></li>
 </ol>
 
@@ -67,11 +67,11 @@
 <section><h3>Sur le web</h3><ul><li><a href="https://fr.wikipedia.org/wiki/Association_internationale_des_travailleurs" rel="noopener">L'Association internationale des travailleurs sur Wikipédia</a><span>Fondation en 1864, congrès de La Haye en 1872.</span></li></ul></section>
 </div>
 
-=== histoire-ouvriere | L'histoire | Histoire ouvrière | Parcours découverte · 5 modules | La Commune, la CGT de 1895, les grèves de 1936, Mai 68, Lip : l'histoire des travailleuses et travailleurs qui ont arraché leurs droits.
+=== histoire-ouvriere | L'histoire | Histoire ouvrière | Parcours découverte · 5 modules | La Commune, la CGT de 1895, les grèves de 1936, Mai 68, Lip : l'histoire des travailleureuses qui ont arraché leurs droits.
 <p>Les congés payés, la journée de huit heures, le droit de grève : rien de tout ça n'est tombé du ciel. Mamie le rappelle à chaque fois qu'on lui dit que « ça a toujours été comme ça ». Ce parcours raconte comment ces droits ont été conquis.</p>
 
 <h2 id="presentation">Présentation</h2>
-<p>L'histoire ouvrière est celle des luttes des salariés pour leurs conditions de travail et leur émancipation : syndicats, grèves, occupations, coopératives. Ce parcours suit surtout la France, avec des détours par les États-Unis.</p>
+<p>L'histoire ouvrière est celle des luttes des salariées et salariés pour leurs conditions de travail et leur émancipation : syndicats, grèves, occupations, coopératives. Ce parcours suit surtout la France, avec des détours par les États-Unis.</p>
 
 <h2 id="objectifs">Objectifs</h2>
 <ul>
@@ -169,7 +169,7 @@
 <h2 id="questions">Questions de compréhension</h2>
 <ol class="parcours-questions">
 <li>Quelles sont les grandes familles de l'extrême droite française selon le schéma de La Horde ? <small>Piste : module 2</small></li>
-<li>Pourquoi les anarchistes espagnols ont-ils débattu de la militarisation des milices ? <small>Piste : module 3</small></li>
+<li>Pourquoi les anarchistes espagnols ont-iels débattu de la militarisation des milices ? <small>Piste : module 3</small></li>
 <li>Quels moyens d'action antifasciste te semblent adaptés près de chez toi ? <small>Piste : module 4</small></li>
 </ol>
 
@@ -202,7 +202,7 @@
 <ol class="parcours-modules">
 <li><b>Les internationales</b><span>L'AIT de 1864, Saint-Imier en 1872, puis l'internationale anarcho-syndicaliste de Berlin en décembre 1922.</span><a href="../figures/rudolf-rocker.html">Portrait de Rudolf Rocker →</a></li>
 <li><b>1914 : la guerre et le Manifeste des Seize</b><span>Kropotkine soutient les Alliés, Malatesta lui répond.</span><a href="../figures/kropotkine.html#ombres">La zone d'ombre de Kropotkine →</a></li>
-<li><b>L'anti-impérialisme anarchiste</b><span>De Bakounine à Saïl Mohamed et à la Corée : soutenir les colonisés sans nationalisme.</span><a href="../ressources/van-der-walt-anti-imperialisme-anarchiste.html">L'article de Lucien van der Walt →</a></li>
+<li><b>L'anti-impérialisme anarchiste</b><span>De Bakounine à Saïl Mohamed et à la Corée : soutenir les colonisées et colonisés sans nationalisme.</span><a href="../ressources/van-der-walt-anti-imperialisme-anarchiste.html">L'article de Lucien van der Walt →</a></li>
 <li><b>Les solidarités d'aujourd'hui</b><span>Zapatistes, Rojava, accueil des personnes exilées.</span><a href="../experiences/zapatistes-histoire.html">Les zapatistes →</a></li>
 </ol>
 
@@ -229,7 +229,7 @@
 <h2 id="questions">Questions de compréhension</h2>
 <ol class="parcours-questions">
 <li>Pourquoi le Manifeste des Seize a-t-il divisé les anarchistes en 1916 ? <small>Piste : module 2</small></li>
-<li>Comment les anarchistes peuvent-ils soutenir une lutte anticoloniale tout en refusant le nationalisme ? <small>Piste : module 3</small></li>
+<li>Comment les anarchistes peuvent-iels soutenir une lutte anticoloniale tout en refusant le nationalisme ? <small>Piste : module 3</small></li>
 <li>Qu'a dénoncé Saïl Mohamed en 1930 ? <small>Piste : module 3 et son portrait</small></li>
 </ol>
 
@@ -263,7 +263,7 @@
 <ol class="parcours-modules">
 <li><b>L'anarcho-syndicalisme, c'est quoi ?</b><span>Le syndicat comme outil de lutte et comme cellule de la société future.</span><a href="../encyclopedie/anarcho-syndicalisme-idees.html">Les idées de l'anarcho-syndicalisme →</a></li>
 <li><b>Naissance et premières luttes</b><span>Les origines dans la Première Internationale, la fondation de la CNT, les grandes grèves.</span><a href="../encyclopedie/anarcho-syndicalisme-histoire.html">Histoire et origines →</a></li>
-<li><b>Juillet 1936 : la révolution</b><span>Le coup d'État militaire, la riposte des syndicats, Barcelone aux mains des ouvriers.</span><a href="../experiences/espagne-1936-histoire.html">La révolution espagnole vue par la CNT-FAI →</a></li>
+<li><b>Juillet 1936 : la révolution</b><span>Le coup d'État militaire, la riposte des syndicats, Barcelone aux mains des ouvrières et ouvriers.</span><a href="../experiences/espagne-1936-histoire.html">La révolution espagnole vue par la CNT-FAI →</a></li>
 <li><b>Les collectivités</b><span>Usines, transports et villages autogérés : comment c'était organisé.</span><a href="../experiences/espagne-1936-organisation.html">CNT, FAI et collectivités →</a></li>
 <li><b>Mujeres Libres et les milices</b><span>Les femmes anarchistes qui s'organisent elles-mêmes, les colonnes de miliciennes et miliciens.</span><a href="../experiences/espagne-1936-milices-debats.html">Milices, Mujeres Libres et dilemmes →</a></li>
 <li><b>Ministres anarchistes ? Le grand débat</b><span>L'entrée au gouvernement en novembre 1936, mai 1937, la défaite et l'exil : ce que les libertaires en ont dit.</span><a href="../encyclopedie/anarcho-syndicalisme-heritages.html">Expériences et héritages →</a></li>
@@ -271,7 +271,7 @@
 
 <h2 id="textes">Textes de référence</h2>
 <ul>
-<li><a href="../livres/la-conquete-du-pain.html">La Conquête du pain</a>, Kropotkine : le livre que les militants de la CNT faisaient circuler.</li>
+<li><a href="../livres/la-conquete-du-pain.html">La Conquête du pain</a>, Kropotkine : le livre que les militantes et militants de la CNT faisaient circuler.</li>
 <li><a href="../livres/l-action-directe-pouget.html">L'Action directe</a>, Émile Pouget : le syndicalisme révolutionnaire français, cousin de la CNT.</li>
 <li><a href="../bibliotheque/durruti-n-est-pas-mort.html">Durruti n'est pas mort !</a>, fiche de lecture.</li>
 <li><a href="../bibliotheque/anarchistes-electoralistes.html">Anarchistes électoralistes</a>, fiche de lecture sur le vote de février 1936.</li>
@@ -294,7 +294,7 @@
 <li>Pourquoi la CNT refusait-elle d'avoir des permanents payés ? Qu'est-ce que ça change dans un syndicat ? <small>Piste : modules 1 et 2</small></li>
 <li>Dans une collectivité de 1936, qui décidait de ce qu'on produisait, et comment on partageait ? <small>Piste : module 4</small></li>
 <li>Pourquoi Mujeres Libres s'est-elle organisée à part, alors que la CNT se disait pour l'égalité ? <small>Piste : module 5</small></li>
-<li>En novembre 1936, la CNT envoie quatre ministres au gouvernement. Donne un argument de celles et ceux qui l'ont défendu, et un argument de celles et ceux qui l'ont combattu. <small>Piste : module 6</small></li>
+<li>En novembre 1936, la CNT envoie quatre ministres au gouvernement. Donne un argument de celleux qui l'ont défendu, et un argument de celleux qui l'ont combattu. <small>Piste : module 6</small></li>
 </ol>
 
 <h2 id="bibliographie">Bibliographie</h2>
@@ -311,8 +311,8 @@
 <section><h3>Sur le site</h3><ul><li><a href="../figures/durruti.html">Portrait de Buenaventura Durruti</a><span>Le militant de la CNT devenu légende.</span></li><li><a href="../figures/lucia-sanchez-saornil.html">Portrait de Lucía Sánchez Saornil</a><span>Cofondatrice de Mujeres Libres.</span></li><li><a href="../figures/rudolf-rocker.html">Portrait de Rudolf Rocker</a><span>Le théoricien de l'anarcho-syndicalisme.</span></li></ul></section>
 </div>
 
-=== makhnovtchina | L'histoire | Makhnovtchina | Parcours intermédiaire · 5 modules | L'Ukraine de 1917 à 1921 : des paysans qui reprennent la terre, des congrès libres sans parti, une armée insurrectionnelle, puis l'écrasement par les bolcheviks. Le parcours de la révolution anarchiste qu'on a voulu effacer.
-<p>Mamie a appris le nom de Makhno dans une brochure photocopiée, pas à l'école. Normal : les vainqueurs ont écrit l'histoire, et les bolcheviks ont fait de ces paysans révoltés des bandits. Ce parcours raconte ce qui s'est vraiment passé à Houliaïpole et dans le sud de l'Ukraine, avec les débats que cette histoire a ouverts dans le mouvement.</p>
+=== makhnovtchina | L'histoire | Makhnovtchina | Parcours intermédiaire · 5 modules | L'Ukraine de 1917 à 1921 : des paysannes et paysans qui reprennent la terre, des congrès libres sans parti, une armée insurrectionnelle, puis l'écrasement par les bolcheviks. Le parcours de la révolution anarchiste qu'on a voulu effacer.
+<p>Mamie a appris le nom de Makhno dans une brochure photocopiée, pas à l'école. Normal : les vainqueurs ont écrit l'histoire, et les bolcheviks ont fait de ces paysannes et paysans révoltés des bandits. Ce parcours raconte ce qui s'est vraiment passé à Houliaïpole et dans le sud de l'Ukraine, avec les débats que cette histoire a ouverts dans le mouvement.</p>
 
 <h2 id="presentation">Présentation</h2>
 <p>La Makhnovtchina est le mouvement insurrectionnel animé par l'anarchiste Nestor Makhno dans le sud de l'Ukraine pendant la révolution et la guerre civile russes. Les paysannes et paysans y reprennent les terres, tiennent des congrès régionaux et s'organisent en soviets libres, sans pouvoir de parti. Leur armée combat les troupes allemandes et austro-hongroises, les nationalistes, les Blancs, puis l'Armée rouge, qui l'écrase en 1921. Le parcours s'appuie sur les dossiers du site et donne une place aux critiques comme aux questions qui restent ouvertes.</p>
@@ -327,7 +327,7 @@
 
 <h2 id="modules">Modules</h2>
 <ol class="parcours-modules">
-<li><b>Makhno et son village</b><span>Houliaïpole, la prison, 1917 : d'où vient le mouvement.</span><a href="../figures/nestor-makhno.html">Nestor Makhno, le Batko des paysans →</a></li>
+<li><b>Makhno et son village</b><span>Houliaïpole, la prison, 1917 : d'où vient le mouvement.</span><a href="../figures/nestor-makhno.html">Nestor Makhno, le Batko des paysannes et paysans →</a></li>
 <li><b>La révolution paysanne, 1917-1921</b><span>Les terres reprises, les guerres sur tous les fronts, la fin.</span><a href="../experiences/makhno-histoire.html">Makhno et la Makhnovtchina →</a></li>
 <li><b>Soviets libres et congrès</b><span>Comment on décidait sans parti, et comment l'armée insurrectionnelle était organisée.</span><a href="../experiences/makhno-organisation.html">Soviets libres, congrès et armée →</a></li>
 <li><b>La critique des bolcheviks</b><span>Trahisons, Tchéka, Cronstadt 1921 : pourquoi les anarchistes parlent de contre-révolution.</span><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks →</a></li>
@@ -352,8 +352,8 @@
 
 <h2 id="questions">Questions de compréhension</h2>
 <ol class="parcours-questions">
-<li>Qui participait aux congrès de la région, et qu'est-ce qu'ils décidaient ? <small>Piste : module 3</small></li>
-<li>Pourquoi les makhnovistes se sont-ils alliés plusieurs fois avec l'Armée rouge, et comment ces alliances ont-elles fini ? <small>Piste : modules 2 et 4</small></li>
+<li>Qui participait aux congrès de la région, et qu'est-ce qu'iels décidaient ? <small>Piste : module 3</small></li>
+<li>Pourquoi les makhnovistes se sont-iels alliés plusieurs fois avec l'Armée rouge, et comment ces alliances ont-elles fini ? <small>Piste : modules 2 et 4</small></li>
 <li>Une armée peut-elle être libertaire ? Donne les arguments des deux côtés, à partir de l'organisation de l'armée insurrectionnelle. <small>Piste : module 3</small></li>
 <li>Après la défaite, Archinov et Makhno proposent une organisation anarchiste plus disciplinée, la Plateforme ; Voline et Malatesta la critiquent. Résume la dispute en deux phrases. <small>Piste : textes de référence</small></li>
 </ol>
@@ -374,7 +374,7 @@
 </div>
 
 === experiences-zapatistes | L'histoire | Expériences zapatistes | Parcours découverte · 5 modules | Du soulèvement du 1er janvier 1994 aux communes autonomes du Chiapas : comment des communautés indigènes s'autogouvernent depuis trente ans, ce que les libertaires y apprennent, et ce qui fait débat.
-<p>« Commander en obéissant » : Mamie a recopié la phrase sur la porte de son frigo. Les zapatistes ne se disent pas anarchistes, et ils y tiennent. Mais depuis trente ans, des milliers de familles du Chiapas vivent sans l'État mexicain, avec leurs écoles, leurs cliniques et leurs assemblées. Ce parcours apprend à regarder ça de près, sans en faire une carte postale.</p>
+<p>« Commander en obéissant » : Mamie a recopié la phrase sur la porte de son frigo. Les zapatistes ne se disent pas anarchistes, et iels y tiennent. Mais depuis trente ans, des milliers de familles du Chiapas vivent sans l'État mexicain, avec leurs écoles, leurs cliniques et leurs assemblées. Ce parcours apprend à regarder ça de près, sans en faire une carte postale.</p>
 
 <h2 id="presentation">Présentation</h2>
 <p>Le 1er janvier 1994, le jour où entre en vigueur l'accord de libre-échange nord-américain, l'Armée zapatiste de libération nationale (EZLN) occupe plusieurs villes du Chiapas. Après douze jours de combats, la rébellion se transforme : les communautés construisent leur propre autonomie, avec des charges tournantes et révocables, des assemblées, une éducation et une santé à elles. Le parcours suit cette histoire et la place à côté d'autres expériences d'autogouvernement.</p>
@@ -415,7 +415,7 @@
 <ol class="parcours-questions">
 <li>Pourquoi le soulèvement a-t-il eu lieu le 1er janvier 1994 précisément ? <small>Piste : module 1</small></li>
 <li>Que veut dire « commander en obéissant » ? Donne un exemple concret d'organisation. <small>Piste : module 2</small></li>
-<li>Les zapatistes refusent l'étiquette anarchiste. Qu'ont-ils en commun avec les libertaires, et qu'est-ce qui les sépare ? <small>Piste : modules 2 et 4</small></li>
+<li>Les zapatistes refusent l'étiquette anarchiste. Qu'ont-iels en commun avec les libertaires, et qu'est-ce qui les sépare ? <small>Piste : modules 2 et 4</small></li>
 <li>Compare la prise de décision chez les zapatistes et à Oaxaca en 2006. <small>Piste : modules 2 et 5</small></li>
 </ol>
 
@@ -435,7 +435,7 @@
 <p>« La Commune n'est pas morte ! » chantait-on chez Mamie. Ce parcours prend la phrase au sérieux : il suit l'idée de commune libre, de Paris en 1871 jusqu'aux expériences d'aujourd'hui, et regarde chaque fois la même chose : qui décide, comment, et ce que l'État fait pour reprendre la main.</p>
 
 <h2 id="presentation">Présentation</h2>
-<p>Pour les anarchistes, la commune, c'est l'échelon où les gens peuvent décider eux-mêmes, et se fédérer avec les autres communes de bas en haut. Le parcours part de la Commune de Paris, passe par la révolte de Cronstadt contre le pouvoir bolchevik, puis par la commune d'Oaxaca en 2006 et l'expérience du Rojava, et finit avec les idées du communalisme libertaire. On y lit les réussites, les limites et les débats.</p>
+<p>Pour les anarchistes, la commune, c'est l'échelon où les gens peuvent décider elleux-mêmes, et se fédérer avec les autres communes de bas en haut. Le parcours part de la Commune de Paris, passe par la révolte de Cronstadt contre le pouvoir bolchevik, puis par la commune d'Oaxaca en 2006 et l'expérience du Rojava, et finit avec les idées du communalisme libertaire. On y lit les réussites, les limites et les débats.</p>
 
 <h2 id="objectifs">Objectifs</h2>
 <ul>
@@ -447,7 +447,7 @@
 
 <h2 id="modules">Modules</h2>
 <ol class="parcours-modules">
-<li><b>Paris, 1871</b><span>Soixante-douze jours, des élus révocables, puis la Semaine sanglante.</span><a href="../experiences/commune-de-paris-organisation.html">Comment la Commune s'organisait →</a></li>
+<li><b>Paris, 1871</b><span>Soixante-douze jours, des élues et élus révocables, puis la Semaine sanglante.</span><a href="../experiences/commune-de-paris-organisation.html">Comment la Commune s'organisait →</a></li>
 <li><b>Cronstadt, 1921</b><span>Les marins qui réclament les soviets libres contre le parti, et leur écrasement.</span><a href="../experiences/makhno-critique-bolcheviks.html">La critique libertaire des bolcheviks →</a></li>
 <li><b>Oaxaca, 2006</b><span>Cinq mois sans gouverneur et une assemblée des assemblées.</span><a href="../experiences/oaxaca-2006-histoire.html">La commune d'Oaxaca →</a></li>
 <li><b>Le Rojava</b><span>Communes, conseils et co-présidence au cœur de la guerre.</span><a href="../experiences/rojava-organisation.html">Le confédéralisme démocratique →</a></li>
@@ -478,7 +478,7 @@
 <li>Qu'est-ce qu'un élu révocable, et comment la Commune de Paris l'a-t-elle appliqué ? <small>Piste : module 1</small></li>
 <li>Que réclamaient les marins de Cronstadt, et pourquoi le pouvoir bolchevik les a-t-il écrasés ? <small>Piste : module 2</small></li>
 <li>Oaxaca et le Rojava : fais un tableau de qui décide, à quel niveau, et comment. <small>Piste : modules 3 et 4</small></li>
-<li>Le communalisme libertaire accepte de se présenter aux élections municipales. Pourquoi des anarchistes le critiquent-ils ? <small>Piste : module 5</small></li>
+<li>Le communalisme libertaire accepte de se présenter aux élections municipales. Pourquoi des anarchistes le critiquent-iels ? <small>Piste : module 5</small></li>
 </ol>
 
 <h2 id="bibliographie">Bibliographie</h2>
@@ -519,7 +519,7 @@
 
 <h2 id="textes">Textes de référence</h2>
 <ul>
-<li><a href="../livres/a-mon-frere-le-paysan.html">À mon frère le paysan</a>, Élisée Reclus : la terre à celles et ceux qui la travaillent.</li>
+<li><a href="../livres/a-mon-frere-le-paysan.html">À mon frère le paysan</a>, Élisée Reclus : la terre à celleux qui la travaillent.</li>
 <li><a href="../agir/tenir-une-ag.html">Tenir une AG</a> et <a href="../agir/monter-un-collectif.html">Monter un collectif</a>, fiches pratiques.</li>
 </ul>
 
@@ -536,7 +536,7 @@
 <ol class="parcours-questions">
 <li>Quels groupes différents se sont retrouvés dans la lutte contre l'aéroport ? Qu'est-ce qui les a tenus ensemble ? <small>Piste : modules 1 et 2</small></li>
 <li>Comment décidait-on sur la zone, sans chef ni mairie ? <small>Piste : module 2</small></li>
-<li>En 2018, une partie des habitants signe des conventions avec l'État, une autre refuse. Donne les arguments des deux côtés. <small>Piste : module 3</small></li>
+<li>En 2018, une partie des habitantes et habitants signe des conventions avec l'État, une autre refuse. Donne les arguments des deux côtés. <small>Piste : module 3</small></li>
 <li>Qu'est-ce que les Soulèvements de la Terre ont repris de la ZAD, et qu'est-ce qui est nouveau ? <small>Piste : modules 4 et 5</small></li>
 </ol>
 

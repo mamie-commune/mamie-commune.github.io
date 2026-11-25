@@ -12,7 +12,7 @@
 
 <h2 id="17-novembre">17 novembre 2018 : l'acte I</h2>
 <p>Ce samedi-là, selon le ministère de l'Intérieur, près de 290 000 personnes occupent plus de 3 000 lieux : ronds-points, péages, entrées de zones commerciales, dépôts de carburant. Personne ne les a organisés d'en haut. Beaucoup restent : les <strong>ronds-points</strong> deviennent des campements, avec des cabanes en palettes, des braseros, des tables, des cantines. On y passe Noël.</p>
-<figure class="photo"><img src="../assets/img/revolutions/gj-bastille-2018.jpg" alt="Des manifestants en gilet jaune place de la Bastille à Paris, le 17 novembre 2018." width="1200" height="900" loading="lazy"><figcaption>Place de la Bastille, à Paris, le 17 novembre 2018 : le premier samedi. <small>Jean-Paul Corlin · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Manifestation_de_gilets_jaunes_place_de_la_Bastille_(Paris)_en_2018.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
+<figure class="photo"><img src="../assets/img/revolutions/gj-bastille-2018.jpg" alt="Des manifestantes et manifestants en gilet jaune place de la Bastille à Paris, le 17 novembre 2018." width="1200" height="900" loading="lazy"><figcaption>Place de la Bastille, à Paris, le 17 novembre 2018 : le premier samedi. <small>Jean-Paul Corlin · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Manifestation_de_gilets_jaunes_place_de_la_Bastille_(Paris)_en_2018.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="samedis">Les samedis</h2>
 <p>Chaque samedi devient un « acte ». Les Gilets jaunes ne déclarent pas leurs parcours, montent sur les Champs-Élysées, les beaux quartiers, les centres-villes, là où l'on ne manifeste jamais. Le <strong>1er décembre</strong>, l'acte III tourne à l'émeute à Paris, jusqu'à l'Arc de Triomphe ; au Puy-en-Velay, la préfecture est incendiée. Le pouvoir prend peur.</p>
@@ -74,7 +74,7 @@
 </div>
 
 === gilets-jaunes-organisation | Gilets jaunes | Ronds-points, cabanes et Assemblée des assemblées | France · 2018-2019 | Pas de chef, pas de porte-parole, des groupes Facebook, des campements de rond-point, puis des assemblées locales qui se fédèrent : comment des centaines de milliers de gens se sont organisés sans organisation.
-<p>Ce qui a fasciné la bande à Mamie, c'est que personne n'avait appris aux Gilets jaunes à s'organiser comme ça. Ils ont réinventé, sur le tas et sans les livres, des choses que les anarchistes défendent depuis cent cinquante ans : <strong>le refus des chefs, l'assemblée, le mandat révocable, l'entraide</strong>.</p>
+<p>Ce qui a fasciné la bande à Mamie, c'est que personne n'avait appris aux Gilets jaunes à s'organiser comme ça. Iels ont réinventé, sur le tas et sans les livres, des choses que les anarchistes défendent depuis cent cinquante ans : <strong>le refus des chefs, l'assemblée, le mandat révocable, l'entraide</strong>.</p>
 
 <h2 id="sans-chefs">Sans chefs ni porte-parole</h2>
 <ul>
@@ -87,8 +87,8 @@
 <p>Le rond-point, c'est d'abord un lieu de blocage : on ralentit les camions, on filtre les voitures. Mais c'est vite devenu bien plus :</p>
 <ul>
 <li>un <strong>lieu de vie</strong> : cabanes de palettes, poêles, cantines collectives, où l'on se relaie jour et nuit ;</li>
-<li>un <strong>lieu de rencontre</strong> entre des gens isolés, qui découvrent qu'ils vivent tous la même chose ;</li>
-<li>un <strong>lieu d'entraide</strong> : dons de nourriture des paysans et des commerçants du coin, aide pour un loyer, un dossier de la CAF, une panne de voiture ;</li>
+<li>un <strong>lieu de rencontre</strong> entre des gens isolés, qui découvrent qu'iels vivent toustes la même chose ;</li>
+<li>un <strong>lieu d'entraide</strong> : dons de nourriture des paysannes et paysans et des commerçants du coin, aide pour un loyer, un dossier de la CAF, une panne de voiture ;</li>
 <li>un <strong>lieu de parole</strong> : on y parle de salaires, d'impôts, de démocratie, des heures durant.</li>
 </ul>
 <figure class="photo"><img src="../assets/img/revolutions/gj-cabane-necker.jpg" alt="Une cabane en bois et en bâche construite par les Gilets jaunes sur le rond-point Necker à Saint-Étienne, entourée de palettes." width="1200" height="800" loading="lazy"><figcaption>La cabane du rond-point Necker, à Saint-Étienne, en janvier 2019. <small>Touam · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:La_cabane_des_Gilets_jaunes_au_rond-point_Necker_%C3%A0_Saint-%C3%89tienne.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -97,9 +97,9 @@
 
 <h2 id="assemblees">Des ronds-points aux assemblées</h2>
 <figure class="photo"><img src="../assets/img/revolutions/gj-ag-villeneuve.jpg" alt="Une salle des fêtes pleine de Gilets jaunes assis en cercle pour une assemblée générale." width="1200" height="591" loading="lazy"><figcaption>Assemblée générale des Gilets jaunes à Villeneuve-la-Guyard, dans l'Yonne, le 29 novembre 2018. <small>François Goglins · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Villeneuve-la-Guyard-FR-89-AG_Gilets_Jaunes_29-11-18-a1.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Fin novembre 2018, les Gilets jaunes de <strong>Commercy</strong>, une petite ville de la Meuse, diffusent un appel : refusons les porte-parole autoproclamés, formons partout des <strong>assemblées populaires</strong>, avec des délégués qui portent les décisions de leur assemblée et peuvent être remplacés à tout moment. Leur cabane, sur la place de la ville, devient un symbole.</p>
+<p>Fin novembre 2018, les Gilets jaunes de <strong>Commercy</strong>, une petite ville de la Meuse, diffusent un appel : refusons les porte-parole autoproclamés, formons partout des <strong>assemblées populaires</strong>, avec des déléguées et délégués qui portent les décisions de leur assemblée et peuvent être remplacés à tout moment. Leur cabane, sur la place de la ville, devient un symbole.</p>
 <figure class="photo"><img src="../assets/img/revolutions/gj-commercy-2019.jpg" alt="La cabane des Gilets jaunes de Commercy, en bois et bâches bleues, avec une pancarte Gilets jaunes, sur une place de la ville." width="1200" height="801" loading="lazy"><figcaption>La cabane des Gilets jaunes de Commercy, en février 2019. <small>G. Garitan · CC BY-SA 4.0 · <a href="https://commons.wikimedia.org/wiki/File:Gilets_jaunes_commercy_80151.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>En janvier 2019, Commercy accueille la première <strong>Assemblée des assemblées</strong> (ADA) : quelque 300 délégués venus de dizaines de groupes locaux. Suivront Saint-Nazaire en avril (700 à 800 délégués), Montceau-les-Mines en juin, Montpellier en novembre 2019. Certaines assemblées locales tirent leurs délégués au sort et leur donnent des mandats précis.</p>
+<p>En janvier 2019, Commercy accueille la première <strong>Assemblée des assemblées</strong> (ADA) : quelque 300 déléguées et délégués venus de dizaines de groupes locaux. Suivront Saint-Nazaire en avril (700 à 800 déléguées et délégués), Montceau-les-Mines en juin, Montpellier en novembre 2019. Certaines assemblées locales tirent leurs déléguées et délégués au sort et leur donnent des mandats précis.</p>
 
 <figure class="schema">
 <div class="schema__scroll">
@@ -154,7 +154,7 @@
 
 <h2 id="libertaire">Ce que le mouvement avait de libertaire</h2>
 <ol class="principes">
-<li><b>Sans chefs</b>des porte-parole désavoués, des délégués révocables</li>
+<li><b>Sans chefs</b>des porte-parole désavoués, des déléguées et délégués révocables</li>
 <li><b>Action directe</b>bloquer, occuper, ne pas déclarer les parcours</li>
 <li><b>Hors des appareils</b>ni partis ni syndicats aux commandes</li>
 <li><b>Entraide</b>cabanes, cantines, solidarité concrète</li>
@@ -162,21 +162,21 @@
 <ul>
 <li><strong>L'auto-organisation</strong> : des centaines de milliers de gens ont pris en main leur lutte sans attendre personne. L'appel de Commercy et les Assemblées des assemblées ont posé, sans le savoir, la vieille question anarchiste du mandat impératif.</li>
 <li><strong>L'action directe</strong> : bloquer l'économie aux ronds-points et aux péages plutôt que défiler entre deux syndicats. C'est elle, et non la négociation, qui a fait reculer le gouvernement en trois semaines.</li>
-<li><strong>Le refus de la représentation</strong> : « personne ne parle pour nous ». Une méfiance envers les élus et les intermédiaires que les anarchistes partagent.</li>
-<li><strong>Le retour des classes populaires</strong> sur la scène politique, avec beaucoup de <strong>femmes</strong>, près de la moitié des manifestants selon les estimations, souvent en première ligne, mères seules, aides-soignantes, retraitées.</li>
+<li><strong>Le refus de la représentation</strong> : « personne ne parle pour nous ». Une méfiance envers les élues et élus et les intermédiaires que les anarchistes partagent.</li>
+<li><strong>Le retour des classes populaires</strong> sur la scène politique, avec beaucoup de <strong>femmes</strong>, près de la moitié des manifestantes et manifestants selon les estimations, souvent en première ligne, mères seules, aides-soignantes, retraitées.</li>
 </ul>
 
 <h2 id="ambiguites">Les ambiguïtés</h2>
 <ul>
 <li><strong>Le drapeau et la nation</strong> : le bleu-blanc-rouge et la Marseillaise étaient partout. Pour beaucoup, c'était une façon de dire « le peuple » contre les élites, pas un nationalisme. Mais c'est un terrain sur lequel l'extrême droite est chez elle.</li>
-<li><strong>L'extrême droite</strong> : elle n'a jamais dirigé le mouvement, mais ses militants y étaient présents, et des propos racistes, antisémites ou complotistes ont circulé, comme lors de l'agression verbale du philosophe Alain Finkielkraut en février 2019.</li>
+<li><strong>L'extrême droite</strong> : elle n'a jamais dirigé le mouvement, mais ses militantes et militants y étaient présents, et des propos racistes, antisémites ou complotistes ont circulé, comme lors de l'agression verbale du philosophe Alain Finkielkraut en février 2019.</li>
 <li><strong>Le RIC</strong> : réclamer un référendum, c'est encore demander à l'État de partager un peu son pouvoir. Pour les uns, c'était une étape vers la démocratie directe ; pour d'autres, une façon de rester dans le cadre de l'État. Les anarchistes y voient une avancée qui ne va pas jusqu'au bout : décider soi-même, dans ses assemblées, sans attendre qu'on nous y autorise.</li>
 <li><strong>Le « peuple » contre les « élites »</strong> : un discours qui unit, mais qui peut masquer les oppositions de classe, et désigner des boucs émissaires plutôt que le système.</li>
 <li><strong>Le rendez-vous manqué avec les syndicats</strong> : la CGT et les autres sont arrivés tard, et les Gilets jaunes s'en méfiaient. Pas de grève générale, alors que c'était peut-être le moment.</li>
 </ul>
 
 <h2 id="repression">La leçon de la répression</h2>
-<p>Le mouvement a montré jusqu'où l'État peut aller quand il a peur : des dizaines de mutilés, des milliers de gardes à vue, des comparutions immédiates à la chaîne, et une loi pour limiter le droit de manifester. Beaucoup de Gilets jaunes, souvent légalistes au départ, ont découvert sur le terrain ce que les quartiers populaires et les militants subissaient depuis longtemps. Cette expérience a laissé des <strong>legal teams</strong>, des <strong>street medics</strong>, des caisses de solidarité, et une méfiance durable envers la police.</p>
+<p>Le mouvement a montré jusqu'où l'État peut aller quand il a peur : des dizaines de mutilés, des milliers de gardes à vue, des comparutions immédiates à la chaîne, et une loi pour limiter le droit de manifester. Beaucoup de Gilets jaunes, souvent légalistes au départ, ont découvert sur le terrain ce que les quartiers populaires et les militantes et militants subissaient depuis longtemps. Cette expérience a laissé des <strong>legal teams</strong>, des <strong>street medics</strong>, des caisses de solidarité, et une méfiance durable envers la police.</p>
 
 <h2 id="comparer">Comparer avec Mai 68</h2>
 <div class="tbl"><table>
@@ -215,6 +215,6 @@
 </ul></section>
 <section><h3>Sur le site</h3><ul>
 <li><a href="../antifascisme/agir-antifasciste.html">Agir contre l'extrême droite</a><span>Être dans les luttes et y faire reculer l'extrême droite.</span></li>
-<li><a href="../manif/legal-team.html">Legal Team</a><span>Ce que la répression des Gilets jaunes a appris aux militants.</span></li>
+<li><a href="../manif/legal-team.html">Legal Team</a><span>Ce que la répression des Gilets jaunes a appris aux militantes et militants.</span></li>
 </ul></section>
 </div>

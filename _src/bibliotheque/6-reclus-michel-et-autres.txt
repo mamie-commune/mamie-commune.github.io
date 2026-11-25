@@ -9,8 +9,8 @@
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Un but clair.</strong> Les anarchistes modernes savent ce qu'ils veulent : aucun gouvernement, ni monarchique ni républicain.</li>
-<li><strong>Des cousins, mais pas de pouvoir.</strong> Ils partagent des aspirations avec bien des courants (socialistes, libres penseurs, coopérateurs), mais refusent la conquête du pouvoir, qui transforme celles et ceux qui l'exercent.</li>
+<li><strong>Un but clair.</strong> Les anarchistes modernes savent ce qu'iels veulent : aucun gouvernement, ni monarchique ni républicain.</li>
+<li><strong>Des cousins, mais pas de pouvoir.</strong> Iels partagent des aspirations avec bien des courants (socialistes, libres penseurs, coopérateurs), mais refusent la conquête du pouvoir, qui transforme celleux qui l'exercent.</li>
 <li><strong>Une nouvelle morale.</strong> L'ancienne morale reposait sur la peur du gendarme et de l'enfer ; la nouvelle naît de la responsabilité et du respect mutuel.</li>
 <li><strong>L'autorité s'affaiblit</strong> : la science, la pensée libre et le recul du respect pour l'État et la propriété la minent chaque jour.</li>
 <li><strong>La liberté est féconde.</strong> Les périodes de liberté ont été les plus créatives de l'histoire ; l'entraide quotidienne (familles, voisinages, sociétés savantes) prouve que le projet est réaliste.</li>
@@ -48,15 +48,15 @@
 
 === pourquoi-sommes-nous-anarchistes | État & pouvoir | Pourquoi sommes-nous anarchistes ? | Élisée Reclus · 1889 | Une profession de foi courte et limpide : refus de l'injustice, refus de l'autorité, communisme libre et révolution.
 <h2 id="contexte">Contexte</h2>
-<p>Ce texte paraît en 1889 dans <em>La Société nouvelle</em>, une revue belge qui accueille socialistes et anarchistes. C'est l'année du centenaire de la Révolution française et de la fondation de la Deuxième Internationale, socialiste et parlementaire. Reclus répond en quelques pages à celles et ceux qui jugent la révolution inutile ou dangereuse, et explique simplement pourquoi il est anarchiste.</p>
+<p>Ce texte paraît en 1889 dans <em>La Société nouvelle</em>, une revue belge qui accueille socialistes et anarchistes. C'est l'année du centenaire de la Révolution française et de la fondation de la Deuxième Internationale, socialiste et parlementaire. Reclus répond en quelques pages à celleux qui jugent la révolution inutile ou dangereuse, et explique simplement pourquoi il est anarchiste.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-vers-1890.jpg" alt="Élisée Reclus, les bras croisés." width="1200" height="1595" loading="lazy"><figcaption>Élisée Reclus vers 1890, à l'époque où il vit en Suisse. <small>F. Thévoz et J. Lacroix, Genève · CC0 · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_RP-F-2001-7-1103A-16_(cropped).jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
-<p>Être anarchiste, c'est refuser l'injustice et l'autorité, et vouloir une société de libres associations, sans État ni maître, où les biens sont communs. Ce changement passe par une révolution, car les privilégiés ne céderont pas d'eux-mêmes.</p>
+<p>Être anarchiste, c'est refuser l'injustice et l'autorité, et vouloir une société de libres associations, sans État ni maître, où les biens sont communs. Ce changement passe par une révolution, car les privilégiés ne céderont pas d'elleux-mêmes.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Le constat</strong> : les richesses vont à celles et ceux qui ne travaillent pas, soutenus par la religion, l'État et une justice qui s'achète.</li>
+<li><strong>Le constat</strong> : les richesses vont à celleux qui ne travaillent pas, soutenus par la religion, l'État et une justice qui s'achète.</li>
 <li><strong>La justice ou la force.</strong> Si la justice est un idéal, il faut l'exiger pour tout le monde ; si seule la force gouverne, il faut lui opposer la force du nombre.</li>
 <li><strong>Pas de progrès sans rupture.</strong> Le progrès social n'est jamais venu d'une évolution paisible seule, mais de ruptures.</li>
 <li><strong>Ni chef ni subordonné</strong> : chacune et chacun reste responsable de ses actes.</li>
@@ -103,7 +103,7 @@
 
 <h2 id="idees">Les trois arguments</h2>
 <ol>
-<li><strong>Voter, c'est abdiquer.</strong> On se donne des maîtres : les élus deviennent des supérieurs qui font les lois et exigent l'obéissance, au nom même de celles et ceux qui les ont choisis.</li>
+<li><strong>Voter, c'est abdiquer.</strong> On se donne des maîtres : les élues et élus deviennent des supérieurs qui font les lois et exigent l'obéissance, au nom même de celleux qui les ont choisis.</li>
 <li><strong>Voter, c'est être dupe.</strong> Aucune personne ordinaire ne devient compétente sur tout (guerre, finances, santé, agriculture) par la grâce d'une élection. Le pouvoir rend fou, et les assemblées tendent à la médiocrité.</li>
 <li><strong>Voter, c'est être trahi.</strong> Le candidat le plus sincère promet, puis change au contact du milieu politique, des honneurs et des puissants.</li>
 </ol>
@@ -111,12 +111,12 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Une critique sans nuance</strong> : tous les élus ne se valent pas, et certains votes ont des conséquences concrètes sur la vie des plus fragiles. Le débat sur le « vote barrage » face à l'extrême droite divise aujourd'hui encore les libertaires.</li>
+<li><strong>Une critique sans nuance</strong> : toustes les élues et élus ne se valent pas, et certains votes ont des conséquences concrètes sur la vie des plus fragiles. Le débat sur le « vote barrage » face à l'extrême droite divise aujourd'hui encore les libertaires.</li>
 <li><strong>Le texte ne dit pas comment s'organiser</strong> pour défendre ses intérêts soi-même. Il faut le lire avec des textes plus pratiques, comme <a href="l-action-directe-pouget.html">L'Action directe</a>.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Les trois arguments de Reclus (on abdique, on est dupe, on est trahi) résonnent avec ce que beaucoup ressentent face aux promesses électorales non tenues. Sa proposition reste valable même pour celles et ceux qui votent : ne jamais s'en remettre seulement aux élus, et garder la force collective qui seule fait respecter ses intérêts.</p>
+<p>Les trois arguments de Reclus (on abdique, on est dupe, on est trahi) résonnent avec ce que beaucoup ressentent face aux promesses électorales non tenues. Sa proposition reste valable même pour celleux qui votent : ne jamais s'en remettre seulement aux élues et élus, et garder la force collective qui seule fait respecter ses intérêts.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -188,7 +188,7 @@
 
 === memoires-louise-michel | Révolution & stratégie | Mémoires | Louise Michel · 1886 | L'enfance en Haute-Marne, l'institutrice républicaine, la Commune, la déportation et les procès, racontés par elle-même.
 <h2 id="contexte">Contexte</h2>
-<p>Louise Michel (1830-1905) a été condamnée en 1883 à six ans de prison pour avoir mené, drapeau noir en tête, une manifestation de chômeuses et chômeurs à Paris. Graciée début 1886, elle publie la même année le premier tome de ses <em>Mémoires</em>. Elle a alors 56 ans, une célébrité immense, et une vie déjà extraordinaire derrière elle : la Commune, sept ans de déportation en Nouvelle-Calédonie, l'amnistie de 1880 et le retour triomphal.</p>
+<p>Louise Michel (1830-1905) a été condamnée en 1883 à six ans de prison pour avoir mené, drapeau noir en tête, une manifestation de chômeureuses à Paris. Graciée début 1886, elle publie la même année le premier tome de ses <em>Mémoires</em>. Elle a alors 56 ans, une célébrité immense, et une vie déjà extraordinaire derrière elle : la Commune, sept ans de déportation en Nouvelle-Calédonie, l'amnistie de 1880 et le retour triomphal.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-michel-commune.jpg" alt="Louise Michel debout, les bras croisés, en 1871." width="1200" height="1958" loading="lazy"><figcaption>Louise Michel en 1871, photographiée par Ernest Appert après son arrestation. <small>Ernest Appert · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Portrait_de_Louise_Michel_(1830-1905),_pendant_la_Commune_de_Paris_1871._PH15064.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="projet">Le projet</h2>
@@ -250,7 +250,7 @@
 <li><strong>Le printemps.</strong> La vieille société meurt, un monde nouveau germe sous elle.</li>
 <li><strong>La faim pousse à la révolte</strong>, et cette révolte est légitime.</li>
 <li><strong>Le capital ne vaut que par le travail</strong> ; religions, États et privilèges perdent leur autorité.</li>
-<li><strong>Les machines</strong>, outils d'exploitation aujourd'hui, libéreraient du temps pour toutes et tous si elles étaient communes.</li>
+<li><strong>Les machines</strong>, outils d'exploitation aujourd'hui, libéreraient du temps pour toustes si elles étaient communes.</li>
 <li><strong>Les grèves annoncent le soulèvement</strong> ; le parlementarisme est une impasse.</li>
 <li><strong>L'auto-organisation.</strong> Des groupes libres reprendront les postes, les chemins de fer, les mines, les télégraphes.</li>
 <li><strong>L'égalité réelle</strong>, y compris pour les femmes, qui ne seront plus ni servantes ni marchandises.</li>
@@ -343,7 +343,7 @@
 <li><strong>Le premier livre caricature le socialisme</strong> sans le comprendre.</li>
 <li><strong>Le second</strong>, mieux écrit, aboutit au libéralisme et à la défense de la propriété.</li>
 <li><strong>L'argument central</strong> : le fils de propriétaire peut s'affirmer, développer ses goûts, choisir sa vie ; le fils de pauvre, non. L'individualisme des riches est un privilège.</li>
-<li><strong>L'anarchisme réel</strong>, celui qui essaie de vivre ses idées au quotidien (dans les colonies libertaires, les causeries, l'entraide), est ignoré par ces auteurs.</li>
+<li><strong>L'anarchisme réel</strong>, celui qui essaie de vivre ses idées au quotidien (dans les colonies libertaires, les causeries, l'entraide), est ignoré par ces auteurices.</li>
 <li><strong>La résignation</strong> fabrique des maîtres et des esclaves.</li>
 <li><strong>Communisme et individualisme</strong> doivent se rejoindre dans l'anarchisme : chacune et chacun a besoin des autres pour être pleinement soi.</li>
 </ol>
@@ -355,7 +355,7 @@
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>Le mot « liberté » est aujourd'hui revendiqué par des courants qui veulent surtout moins d'impôts et moins de droits pour les salariés, parfois sous le nom de « libertariens ». Libertad donnait déjà la réponse : sans égalité des moyens, la liberté n'est que celle des plus riches.</p>
+<p>Le mot « liberté » est aujourd'hui revendiqué par des courants qui veulent surtout moins d'impôts et moins de droits pour les salariées et salariés, parfois sous le nom de « libertariens ». Libertad donnait déjà la réponse : sans égalité des moyens, la liberté n'est que celle des plus riches.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul>
@@ -409,7 +409,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Des arguments anciens</strong> : la plupart viennent de la philosophie (Épicure pour le problème du mal, les penseurs des Lumières), et les théologiens y ont répondu depuis longtemps. La force du texte est de les rendre accessibles à toutes et à tous.</li>
+<li><strong>Des arguments anciens</strong> : la plupart viennent de la philosophie (Épicure pour le problème du mal, les penseureuses des Lumières), et les théologiens y ont répondu depuis longtemps. La force du texte est de les rendre accessibles à toustes.</li>
 <li><strong>La religion n'est pas qu'une croyance</strong> : c'est aussi une communauté, une culture, un refuge. Les anarchistes d'aujourd'hui distinguent la critique des institutions religieuses du mépris des croyantes et croyants, et refusent que l'athéisme serve de prétexte au racisme.</li>
 </ul>
 
@@ -449,14 +449,14 @@
 <li><strong>L'éternel retour.</strong> Chaque législature déçoit, et l'on revote pourtant, en espérant que la prochaine sera la bonne.</li>
 <li><strong>Élire, c'est confier</strong> à un autre le pouvoir de faire la loi et de l'imposer, y compris celle qui envoie à la guerre.</li>
 <li><strong>Participer légitime</strong> l'État et le système qui exploite.</li>
-<li><strong>Les élus doivent leur siège</strong> à l'argent, aux intrigues et au clientélisme.</li>
+<li><strong>Les élues et élus doivent leur siège</strong> à l'argent, aux intrigues et au clientélisme.</li>
 <li><strong>Le bilan</strong> : un parlementarisme incompétent, irresponsable, impuissant et corrompu.</li>
-<li><strong>« Et la réaction ? »</strong> À celles et ceux qui craignent la victoire de la droite, Faure répond qu'une abstention massive affaiblirait le pouvoir, alors que voter le renforce.</li>
+<li><strong>« Et la réaction ? »</strong> À celleux qui craignent la victoire de la droite, Faure répond qu'une abstention massive affaiblirait le pouvoir, alors que voter le renforce.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Les élections de 1919</strong> ont donné une « Chambre bleu horizon », très à droite. Les partisans du vote y voient la preuve que l'abstention fait le jeu de la réaction ; les anarchistes répondent que la gauche élue en 1914 n'avait pas empêché la guerre.</li>
+<li><strong>Les élections de 1919</strong> ont donné une « Chambre bleu horizon », très à droite. Les partisanes et partisans du vote y voient la preuve que l'abstention fait le jeu de la réaction ; les anarchistes répondent que la gauche élue en 1914 n'avait pas empêché la guerre.</li>
 <li><strong>L'abstention, et après ?</strong> Faure la conçoit comme un début, pas une fin : elle doit s'accompagner d'organisation et d'action directe.</li>
 </ul>
 
@@ -486,7 +486,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Jean Grave (1854-1939) est cordonnier, autodidacte, devenu l'éditeur des grands journaux anarchistes français : <em>Le Révolté</em>, puis <em>La Révolte</em>, puis <em>Les Temps nouveaux</em> (1895-1914), auxquels collaborent Kropotkine, Reclus et de nombreux artistes. Il a été condamné à deux ans de prison en 1894 pour son livre <em>La Société mourante et l'anarchie</em>, et jugé lors du « procès des Trente ».</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-grave-steinlen.jpg" alt="Dessin au crayon : le visage rond de Jean Grave, moustache tombante." width="1200" height="1582" loading="lazy"><figcaption>Jean Grave dessiné par Théophile Steinlen en 1907. <small>Théophile Steinlen · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Portrait_of_Jean_Grave_by_Th%C3%A9ophile_Steinlen.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Ce livre paraît en 1899, en pleine affaire Dreyfus, alors que les « lois scélérates » pèsent encore sur les anarchistes. Grave répond à celles et ceux qui assimilent anarchie et crime, en exposant posément le but et les moyens du mouvement.</p>
+<p>Ce livre paraît en 1899, en pleine affaire Dreyfus, alors que les « lois scélérates » pèsent encore sur les anarchistes. Grave répond à celleux qui assimilent anarchie et crime, en exposant posément le but et les moyens du mouvement.</p>
 
 <h2 id="these">La thèse</h2>
 <p>L'anarchie est une théorie rationnelle. Toute autorité, monarchique ou républicaine, sert une minorité. La liberté ne se reçoit pas d'en haut : on la conquiert soi-même.</p>
@@ -536,9 +536,9 @@
 </ul></section>
 </div>
 
-=== la-societe-future | Économie & propriété | La Société future | Jean Grave · 1895 | À quoi ressemblerait une société anarchiste ? Entraide plutôt que lutte de tous contre tous, révolution continue et internationale.
+=== la-societe-future | Économie & propriété | La Société future | Jean Grave · 1895 | À quoi ressemblerait une société anarchiste ? Entraide plutôt que lutte de toustes contre toustes, révolution continue et internationale.
 <h2 id="contexte">Contexte</h2>
-<p>Jean Grave publie ce gros livre en 1895, à sa sortie de prison. Proche de Kropotkine, il veut répondre à deux adversaires : les économistes et sociologues qui utilisent Darwin pour justifier les inégalités (les riches seraient les « plus aptes »), et celles et ceux qui demandent aux anarchistes de décrire concrètement la société qu'ils veulent.</p>
+<p>Jean Grave publie ce gros livre en 1895, à sa sortie de prison. Proche de Kropotkine, il veut répondre à deux adversaires : les économistes et sociologues qui utilisent Darwin pour justifier les inégalités (les riches seraient les « plus aptes »), et celleux qui demandent aux anarchistes de décrire concrètement la société qu'iels veulent.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-grave-1893.jpg" alt="Photographie d'identité de Jean Grave, cheveux en désordre." width="599" height="874" loading="lazy"><figcaption>Jean Grave fiché par la préfecture de police en 1893. <small>préfecture de police · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Gravejean_police.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
@@ -584,7 +584,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Joseph Déjacque (1821-1865) est ouvrier colleur de papiers peints et poète. Il se bat sur les barricades de juin 1848, est emprisonné, puis s'exile après le coup d'État de 1851 : Londres, Jersey, La Nouvelle-Orléans, New York. Là, il publie de 1858 à 1861 <em>Le Libertaire, journal du mouvement social</em>, l'un des premiers journaux anarchistes au monde. Il rentre à Paris en 1861 et y meurt dans la misère.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-dejacque-libertaire.jpg" alt="Première page du journal Le Libertaire, journal du mouvement social, New York." width="577" height="832" loading="lazy"><figcaption><em>Le Libertaire</em>, le journal que Joseph Déjacque publie à New York de 1858 à 1861 (numéro du 17 août 1860). <small>journal Le Libertaire · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Le_libertaire_25.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>« À bas les chefs ! » paraît dans son journal en 1859. Déjacque y répond aux blanquistes et à toutes celles et ceux qui, parmi les révolutionnaires, rêvent d'une dictature de salut public pour imposer la révolution.</p>
+<p>« À bas les chefs ! » paraît dans son journal en 1859. Déjacque y répond aux blanquistes et à toutes celleux qui, parmi les révolutionnaires, rêvent d'une dictature de salut public pour imposer la révolution.</p>
 
 <h2 id="these">La thèse</h2>
 <p>Aucune dictature, même au nom du peuple, ne sert la liberté. La seule autorité légitime est celle de l'intelligence et de l'exemple, exercée par chacune et chacun.</p>
@@ -592,9 +592,9 @@
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Ne pas ressusciter</strong> les vieilles autorités sous de nouveaux noms.</li>
-<li><strong>Des réflexes de soumission.</strong> Les révolutionnaires qui acceptent la dictature gardent en eux l'esprit d'obéissance qu'ils prétendent combattre.</li>
+<li><strong>Des réflexes de soumission.</strong> Les révolutionnaires qui acceptent la dictature gardent en elleux l'esprit d'obéissance qu'iels prétendent combattre.</li>
 <li><strong>Une dictature finit toujours</strong> par servir son chef et écraser les esprits libres.</li>
-<li><strong>Des ouvriers au pouvoir</strong> deviennent aussi autoritaires que des bourgeois.</li>
+<li><strong>Des ouvrières et ouvriers au pouvoir</strong> deviennent aussi autoritaires que des bourgeois.</li>
 <li><strong>L'exemple de 1848.</strong> Le pouvoir gouvernemental corrompt l'action révolutionnaire : Louis Blanc, socialiste entré au gouvernement provisoire, n'a rien pu changer.</li>
 <li><strong>La seule « dictature » acceptable</strong> : celle de l'intelligence et de la morale, par l'exemple de chacune et chacun.</li>
 </ol>

@@ -139,7 +139,7 @@
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://lahorde.info" rel="noopener">La Horde</a><span>La carte originale et ses mises à jour.</span></li>
 <li><a href="https://reflexes.samizdat.net" rel="noopener">REFLEXes</a><span>Les archives d'une revue antifasciste d'enquête, très documentée.</span></li>
-<li><a href="https://fr.wikipedia.org/wiki/Cl%C3%A9ment_M%C3%A9ric" rel="noopener">Clément Méric</a><span>Le jeune antifasciste tué par des militants d'extrême droite à Paris en 2013.</span></li>
+<li><a href="https://fr.wikipedia.org/wiki/Cl%C3%A9ment_M%C3%A9ric" rel="noopener">Clément Méric</a><span>Le jeune antifasciste tué par des militantes et militants d'extrême droite à Paris en 2013.</span></li>
 <li><a href="../carte.html">Notre carte des collectifs</a><span>Les groupes antifascistes près de chez toi.</span></li>
 </ul></section>
 </div>

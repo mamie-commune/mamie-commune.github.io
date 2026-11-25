@@ -21,7 +21,7 @@
 </ul>
 
 <h2 id="debats">Ce qu'on en discute</h2>
-<p>Ses lectrices et lecteurs se divisent : les uns voient en lui un précurseur des « alternatives » et de la préfiguration, les autres lui reprochent un socialisme de petites communautés qui évite l'affrontement avec le capital, et une vision idéalisée du Moyen Âge. Son tournant mystique du début du siècle intrigue aussi. Sa mort, elle, rappelle ce que coûtent les révolutions vaincues.</p>
+<p>Ses lecteurices se divisent : les uns voient en lui un précurseur des « alternatives » et de la préfiguration, les autres lui reprochent un socialisme de petites communautés qui évite l'affrontement avec le capital, et une vision idéalisée du Moyen Âge. Son tournant mystique du début du siècle intrigue aussi. Sa mort, elle, rappelle ce que coûtent les révolutions vaincues.</p>
 
 <h2 id="sources">Sources et pour aller plus loin</h2>
 <div class="ressources">
@@ -35,8 +35,8 @@
 </ul></section>
 </div>
 
-=== rudolf-rocker | Syndicalistes et journalistes | Rudolf Rocker, l'anarcho-syndicalisme sans frontières | Allemagne, Londres, États-Unis · 1873-1958 | Typographe de Mayence, il milite avec les ouvriers juifs de Londres, refonde le syndicalisme révolutionnaire allemand et écrit les grands textes de l'anarcho-syndicalisme.
-<p>Rocker n'était pas juif, mais il a appris le yiddish et dirigé pendant des années un journal anarchiste en yiddish dans l'East End de Londres. C'est toute sa vie : passer les frontières, des langues, des pays, des communautés, pour unir les travailleuses et travailleurs. Pour Mamie, c'est l'internationalisme fait homme.</p>
+=== rudolf-rocker | Syndicalistes et journalistes | Rudolf Rocker, l'anarcho-syndicalisme sans frontières | Allemagne, Londres, États-Unis · 1873-1958 | Typographe de Mayence, il milite avec les ouvrières et ouvriers juifs de Londres, refonde le syndicalisme révolutionnaire allemand et écrit les grands textes de l'anarcho-syndicalisme.
+<p>Rocker n'était pas juif, mais il a appris le yiddish et dirigé pendant des années un journal anarchiste en yiddish dans l'East End de Londres. C'est toute sa vie : passer les frontières, des langues, des pays, des communautés, pour unir les travailleureuses. Pour Mamie, c'est l'internationalisme fait homme.</p>
 
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/figure-rocker.jpg" alt="Portrait de Rudolf Rocker vers 1930, moustache et cheveux en arrière." width="322" height="429" loading="lazy"><figcaption>Rudolf Rocker vers 1930. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Rudolf_Rocker.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
@@ -44,7 +44,7 @@
 <ul>
 <li>Il naît le <strong>25 mars 1873</strong> à Mayence, dans une famille catholique. Orphelin, il passe par un orphelinat, puis apprend le métier de <strong>typographe</strong>.</li>
 <li>Il quitte l'Allemagne en décembre 1892, vit à Paris, où il rencontre des anarchistes juifs, puis s'installe à <strong>Londres en 1895</strong>.</li>
-<li>Dans l'East End, il fonde <em>Germinal</em> (1900) et dirige à partir de 1903 le journal yiddish <em>Arbeter Fraint</em>. Il joue un rôle important dans les grèves des ouvriers de la confection de <strong>1906 et 1912</strong>.</li>
+<li>Dans l'East End, il fonde <em>Germinal</em> (1900) et dirige à partir de 1903 le journal yiddish <em>Arbeter Fraint</em>. Il joue un rôle important dans les grèves des ouvrières et ouvriers de la confection de <strong>1906 et 1912</strong>.</li>
 <li>Opposé aux deux camps de la Première Guerre mondiale, il est interné comme « étranger ennemi » le 2 décembre 1914, puis expulsé vers les Pays-Bas en mars 1918.</li>
 <li>De retour en Allemagne en novembre 1918, il participe à la reconstruction du syndicalisme révolutionnaire, qui devient la <strong>FAUD</strong> (Union libre des travailleurs d'Allemagne). Il rédige sa déclaration de principes syndicalistes.</li>
 <li>En <strong>décembre 1922</strong>, il fait partie des secrétaires de l'<strong>Association internationale des travailleurs</strong>, l'internationale anarcho-syndicaliste fondée à Berlin.</li>
@@ -91,13 +91,13 @@
 <h2 id="idees">Ses idées</h2>
 <ul>
 <li><strong>L'écologie sociale</strong> : la domination des humains par d'autres humains est à la racine de la domination de la nature. Pas de sortie de la crise écologique sans changement social.</li>
-<li><strong>Le municipalisme libertaire</strong>, puis le <strong>communalisme</strong> : des assemblées d'habitantes et d'habitants qui décident, fédérées par des délégués révocables, pour remplacer peu à peu l'État et le capitalisme.</li>
+<li><strong>Le municipalisme libertaire</strong>, puis le <strong>communalisme</strong> : des assemblées d'habitantes et d'habitantes et habitants qui décident, fédérées par des déléguées et délégués révocables, pour remplacer peu à peu l'État et le capitalisme.</li>
 <li><strong>Contre l'anarchisme « mode de vie »</strong> : pour lui, la libération individuelle sans organisation collective ne change pas la société.</li>
 </ul>
 
 <h2 id="debats">Ce qu'on en discute</h2>
 <ul>
-<li><strong>Les élections municipales</strong> : beaucoup d'anarchistes refusent sa proposition de présenter des listes aux élections locales, qui ressemble selon eux à la politique classique.</li>
+<li><strong>Les élections municipales</strong> : beaucoup d'anarchistes refusent sa proposition de présenter des listes aux élections locales, qui ressemble selon elleux à la politique classique.</li>
 <li><strong>Sa rupture</strong> : en quittant l'anarchisme, il a accusé une partie du mouvement de s'être dépolitisée. Ses critiques lui reprochent d'avoir caricaturé ses adversaires.</li>
 <li><strong>Le Kurdistan</strong> : en prison, Abdullah Öcalan lit Bookchin et cherche à le rencontrer en 2004 ; Bookchin, malade, ne peut pas. Le confédéralisme démocratique du mouvement kurde s'inspire de son communalisme. Voir <a href="abdullah-ocalan.html">le portrait d'Öcalan</a> et <a href="../experiences/rojava-organisation.html">le dossier Rojava</a>.</li>
 </ul>

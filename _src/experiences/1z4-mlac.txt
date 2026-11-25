@@ -1,4 +1,4 @@
-=== mlac-histoire | MLAC | Le MLAC : avorter en autogestion | France · 1973-1975 | Avant la loi Veil, des femmes, des militants et des médecins apprennent à pratiquer eux-mêmes des avortements, organisent des voyages à l'étranger, et forcent l'État à légaliser.
+=== mlac-histoire | MLAC | Le MLAC : avorter en autogestion | France · 1973-1975 | Avant la loi Veil, des femmes, des militantes et militants et des médecins apprennent à pratiquer elleux-mêmes des avortements, organisent des voyages à l'étranger, et forcent l'État à légaliser.
 <p>Avant 1975, Mamie a connu les aiguilles à tricoter, les « faiseuses d'anges » et les copines qui finissaient à l'hôpital, ou au cimetière. Et puis, un jour, des femmes ont décidé de ne plus attendre ni la loi ni les médecins : <strong>elles ont appris à le faire elles-mêmes, en sécurité, ensemble</strong>. C'est l'histoire du MLAC, l'une des plus belles expériences d'action directe des années 1970.</p>
 
 <h2 id="contexte">Le contexte : l'avortement est un crime</h2>
@@ -96,8 +96,8 @@
 
 <h2 id="limites">Les limites</h2>
 <ul>
-<li><strong>Un mouvement d'urgence</strong> : beaucoup de militantes et de militants sont partis dès la loi votée, laissant seuls les groupes qui voulaient continuer.</li>
-<li><strong>Le pouvoir des médecins</strong> à l'intérieur même du mouvement : ceux qui savaient faire avaient souvent plus de poids dans les décisions.</li>
+<li><strong>Un mouvement d'urgence</strong> : beaucoup de militantes et de militantes et militants sont partis dès la loi votée, laissant seuls les groupes qui voulaient continuer.</li>
+<li><strong>Le pouvoir des médecins</strong> à l'intérieur même du mouvement : celleux qui savaient faire avaient souvent plus de poids dans les décisions.</li>
 <li><strong>Les femmes les plus pauvres</strong>, étrangères ou loin des grandes villes, ont moins profité des comités, très concentrés en région parisienne.</li>
 </ul>
 

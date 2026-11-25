@@ -54,7 +54,7 @@ $familles = @(
     @("ag", "agir/tenir-une-ag.html", "Assemblées générales", "Tenir une AG, décider sans chef", "agir/tenir-une-ag|agir/decider-sans-chef"),
     @("collectifs", "agir/monter-un-collectif.html", "Collectifs", "Monter un collectif, accueillir, durer sans s'épuiser", "agir/monter-un-collectif|agir/accueillir-personnes-trans|agir/eviter-l-epuisement-militant"),
     @("syndicalisme", "s-organiser.html#syndicalisme", "Syndicalisme", "Syndicalisme révolutionnaire, action directe, syndicats", ""),
-    @("autogestion", "s-organiser.html#autogestion", "Autogestion", "Usines, villages et territoires gérés par celles et ceux qui y vivent", ""),
+    @("autogestion", "s-organiser.html#autogestion", "Autogestion", "Usines, villages et territoires gérés par celleux qui y vivent", ""),
     @("greves", "agir/lancer-une-greve.html", "Grèves", "Lancer une grève, tenir un piquet", "agir/lancer-une-greve"),
     @("agir", "agir/index.html", "Organisation collective", "Toutes les fiches, et le guide pour lutter au lycée", "agir/"),
     @("boite-outils", "outils/index.html", "Les outils de Mamie", "Modèles d'AG, comptes rendus, tracts, affiches, caisse, minuteur", "outils/")) },
@@ -482,7 +482,7 @@ if (Test-Path $pdfList) {
 <div class="wrap glayout">
   <article class="prose">
     $(if ($cal) { "<div class=""liseuse"" id=""liseuse""><button class=""liseuse__go"" type=""button"" data-calameo=""$cal"" aria-label=""Ouvrir la liseuse du livre $(Esc $l.title)""><span class=""vcard__play"" aria-hidden=""true"">▶</span><b>Ouvrir le livre ici</b><small>La liseuse en ligne de l'éditeur (Calaméo) se charge seulement quand tu cliques.</small></button></div>" })
-    $(if ($cal) { "<p>Le livre est mis en ligne en entier par les Éditions Divergences. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } elseif ($ailleurs) { "<p>Ce livre est sous droits : la bande à Mamie ne le copie pas ici, elle t'envoie vers celles et ceux qui le diffusent. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } else { "<p>Ce livre est diffusé ici dans sa mise en page d'origine. Ouvre-le dans le <a href=""../lecteur.html?livre=$($l.id)"">lecteur PDF</a> ou télécharge-le pour le lire hors ligne, l'imprimer ou le faire circuler.</p>" })
+    $(if ($cal) { "<p>Le livre est mis en ligne en entier par les Éditions Divergences. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } elseif ($ailleurs) { "<p>Ce livre est sous droits : la bande à Mamie ne le copie pas ici, elle t'envoie vers celleux qui le diffusent. Si tu peux, achète-le en librairie : c'est ce qui fait vivre les petites maisons d'édition militantes.</p>" } else { "<p>Ce livre est diffusé ici dans sa mise en page d'origine. Ouvre-le dans le <a href=""../lecteur.html?livre=$($l.id)"">lecteur PDF</a> ou télécharge-le pour le lire hors ligne, l'imprimer ou le faire circuler.</p>" })
     $(if ($l.fiche) { "<p>Pour aller à l'essentiel, la <a href=""../bibliotheque/$($l.fiche).html"">fiche de lecture</a> résume chaque chapitre.</p>" })
     <p class="credit">$(Esc $c[8])</p>
   </article>

@@ -10,7 +10,7 @@
 <ol>
 <li><strong>Distinguer l'institution et la personne</strong> : détruire la domination de l'Église, respecter le croyant ou la croyante.</li>
 <li><strong>Remplacer les croyances par la connaissance</strong>, patiemment, par l'instruction et l'exemple.</li>
-<li><strong>Défendre l'enfant</strong> contre tous ceux qui le dressent à l'obéissance, prêtres comme instituteurs d'État.</li>
+<li><strong>Défendre l'enfant</strong> contre toustes celleux qui le dressent à l'obéissance, prêtres comme instituteurs d'État.</li>
 <li><strong>Une alliance des pouvoirs.</strong> Les pouvoirs religieux et politiques s'entendent pour soumettre, même quand ils se disputent en public.</li>
 <li><strong>Reprendre collectivement</strong> les richesses accumulées par le clergé.</li>
 <li><strong>Un bonheur partagé</strong>, ici-bas, contre la promesse d'un salut individuel dans l'au-delà.</li>
@@ -158,7 +158,7 @@
 </ul></section>
 </div>
 
-=== l-ideal-et-la-jeunesse | Individu & morale | L'Idéal et la jeunesse | Élisée Reclus · 1894 | Aux étudiantes et aux étudiants : refusez le découragement et l'esprit de carrière, mettez votre énergie au service d'une société libre.
+=== l-ideal-et-la-jeunesse | Individu & morale | L'Idéal et la jeunesse | Élisée Reclus · 1894 | Aux étudiantes et aux étudiantes et étudiants : refusez le découragement et l'esprit de carrière, mettez votre énergie au service d'une société libre.
 <h2 id="contexte">Contexte</h2>
 <p>Reclus publie ce texte en juin 1894 dans <em>La Société nouvelle</em>, la revue belge où il écrit souvent. Il vient de s'installer à Bruxelles pour enseigner dans une université libre. Il constate que l'engagement des étudiantes et étudiants a faibli depuis les générations romantiques et républicaines de sa jeunesse : la carrière, le scepticisme et l'ironie ont remplacé l'enthousiasme.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-reclus-nadar-3.jpg" alt="Portrait d'Élisée Reclus, cheveux en bataille." width="1200" height="1681" loading="lazy"><figcaption>Élisée Reclus photographié par Nadar. <small>Nadar · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89lis%C3%A9e_Reclus,_by_Nadar,_1875-1895,_grayscale.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
@@ -217,7 +217,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>La violence de Brown</strong>, notamment les exécutions de colons esclavagistes au Kansas en 1856, divise encore les historiens : héros, fanatique, ou les deux ?</li>
+<li><strong>La violence de Brown</strong>, notamment les exécutions de colons esclavagistes au Kansas en 1856, divise encore les historiennes et historiens : héros, fanatique, ou les deux ?</li>
 <li><strong>Un hommage</strong>, pas une biographie critique.</li>
 </ul>
 
@@ -242,14 +242,14 @@
 <h2 id="contexte">Contexte</h2>
 <p>Le 1er Mai a une origine anarchiste. Le 1er mai 1886, à Chicago, une grève pour la journée de huit heures dégénère : le 4 mai, une bombe explose lors d'un rassemblement à Haymarket Square. Sans preuve, huit anarchistes sont condamnés ; quatre sont pendus en 1887. En 1889, les socialistes réunis à Paris décident de faire du 1er Mai une journée internationale de lutte pour les huit heures.</p>
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-fourmies-1891.jpg" alt="Une de journal : des soldats tirent sur la foule dans une rue, des corps au sol." width="1200" height="1752" loading="lazy"><figcaption>La fusillade de Fourmies, le 1er mai 1891, en une du supplément illustré du <em>Petit Parisien</em>. <small>Le Petit Parisien · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Le_petit_Parisien.JPG" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Pouget publie ce texte en avril 1891 dans <em>Le Père Peinard</em>, dans la langue argotique qui fait le succès de son journal. Quelques jours plus tard, le 1er mai 1891, à Fourmies dans le Nord, la troupe tire sur des manifestants : neuf morts, dont deux enfants et des jeunes femmes.</p>
+<p>Pouget publie ce texte en avril 1891 dans <em>Le Père Peinard</em>, dans la langue argotique qui fait le succès de son journal. Quelques jours plus tard, le 1er mai 1891, à Fourmies dans le Nord, la troupe tire sur des manifestantes et manifestants : neuf morts, dont deux enfants et des jeunes femmes.</p>
 
 <h2 id="these">La thèse</h2>
-<p>Le 1er Mai ne doit pas devenir une cérémonie encadrée par des élus, avec pétitions et bals. Le peuple doit se faire entendre directement, dans la rue. Et les soldats, fils d'ouvriers, peuvent refuser de tirer.</p>
+<p>Le 1er Mai ne doit pas devenir une cérémonie encadrée par des élues et élus, avec pétitions et bals. Le peuple doit se faire entendre directement, dans la rue. Et les soldats, fils d'ouvrières et ouvriers, peuvent refuser de tirer.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Une date commune</strong> à tous les exploités, en ville comme à la campagne, dans tous les pays.</li>
+<li><strong>Une date commune</strong> à toustes les exploitées et exploités, en ville comme à la campagne, dans tous les pays.</li>
 <li><strong>Ni salles ni pétitions</strong> : les meetings polis et les bals ne changent rien.</li>
 <li><strong>La rue</strong>, seul lieu de la décision collective.</li>
 <li><strong>Les soldats</strong> peuvent rejoindre le mouvement, s'ils se souviennent d'où ils viennent.</li>
@@ -259,7 +259,7 @@
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>L'appel à rester dans la rue</strong> sans organisation solide peut exposer les manifestants à une répression sanglante, comme à Fourmies quelques jours plus tard.</li>
+<li><strong>L'appel à rester dans la rue</strong> sans organisation solide peut exposer les manifestantes et manifestants à une répression sanglante, comme à Fourmies quelques jours plus tard.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
@@ -372,15 +372,15 @@
 <figure class="photo photo--portrait"><img src="../assets/img/revolutions/biblio-pere-peinard-colonies-1891.jpg" alt="Dessin : des soldats français au milieu de corps et de têtes coupées." width="603" height="778" loading="lazy"><figcaption>Un dessin anticolonial du <em>Père Peinard</em>, le 26 avril 1891 : ce que la « civilisation » fait au Tonkin. <small>Le Père Peinard · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Le_P%C3%A8re_Peinard_anticolonialisme.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
-<p>La République qui prétend « civiliser » ne répand que la barbarie : pillages, viols, exécutions-spectacles. C'est la même férocité que celle exercée contre les communards en 1871.</p>
+<p>La République qui prétend « civiliser » ne répand que la barbarie : pillages, viols, exécutions-spectacles. C'est la même férocité que celle exercée contre les communardes et communards en 1871.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>La « mission civilisatrice »</strong> sert surtout à enrichir la finance et les compagnies coloniales.</li>
 <li><strong>L'exécution de Doi Van</strong>, mise en scène pour terroriser.</li>
-<li><strong>Des patriotes</strong> : les insurgés défendent leur pays contre un envahisseur, comme les Français l'auraient fait.</li>
+<li><strong>Des patriotes</strong> : les insurgées et insurgés défendent leur pays contre un envahisseur, comme les Français l'auraient fait.</li>
 <li><strong>Ironie sur le centenaire</strong> : la tête du supplicié aurait dû être exposée en haut de la tour Eiffel, pour compléter l'Exposition.</li>
-<li><strong>Versailles continue</strong> : la République reprend contre les colonisés les méthodes employées contre la Commune.</li>
+<li><strong>Versailles continue</strong> : la République reprend contre les colonisées et colonisés les méthodes employées contre la Commune.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>

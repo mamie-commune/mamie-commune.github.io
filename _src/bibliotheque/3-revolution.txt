@@ -12,7 +12,7 @@
 <li><strong>Un nouveau regard scientifique.</strong> De l'astronomie à la biologie, on est passé d'un monde organisé autour d'un centre (le Soleil, l'âme, le roi) à un monde d'équilibres entre forces multiples.</li>
 <li><strong>L'harmonie est un équilibre provisoire.</strong> Une force trop longtemps contrainte finit par rompre l'équilibre, comme un volcan : c'est ce que sont les révolutions.</li>
 <li><strong>La même logique en histoire, en droit, en économie.</strong> Les savants regardent désormais les peuples, les coutumes et les besoins réels, et plus seulement les rois et les lois.</li>
-<li><strong>Critique du capitalisme.</strong> Le problème n'est pas qu'on produit trop, mais que les travailleuses et travailleurs ne peuvent pas acheter ce qu'ils produisent. D'où les crises, et la course aux marchés coloniaux qui mène à la guerre.</li>
+<li><strong>Critique du capitalisme.</strong> Le problème n'est pas qu'on produit trop, mais que les travailleureuses ne peuvent pas acheter ce qu'iels produisent. D'où les crises, et la course aux marchés coloniaux qui mène à la guerre.</li>
 <li><strong>Critique du collectivisme.</strong> Payer chacun selon ses heures de travail, comme le veulent les socialistes d'État, ne tient pas : on ne peut pas mesurer la part de chacun dans une œuvre collective. Et un État patron reproduirait la domination.</li>
 <li><strong>L'État est récent.</strong> Il est né, en Europe, de la destruction des communes libres et des guildes du Moyen Âge.</li>
 <li><strong>Prisons, juges et police</strong> n'empêchent pas le crime et l'aggravent souvent. Le pouvoir corrompt même les meilleures personnes.</li>
@@ -51,7 +51,7 @@
 
 === commune-de-paris-kropotkine | Révolution & stratégie | La Commune de Paris | Pierre Kropotkine · 1881 | Dix ans après 1871, Kropotkine tire les leçons de la Commune : abolir propriété et gouvernement dès le premier jour, et rallier les campagnes.
 <h2 id="contexte">Contexte</h2>
-<p>Kropotkine écrit ce texte en mars 1881 pour <em>Le Révolté</em>, le journal qu'il anime à Genève, à l'occasion des dix ans de la Commune. Née le 18 mars 1871 dans un Paris épuisé par le siège prussien, la Commune a été écrasée dans le sang fin mai, pendant la « Semaine sanglante » : des milliers de morts, des dizaines de milliers d'arrestations, des déportations. En 1881, le mouvement socialiste se reconstruit à peine, et les communards amnistiés rentrent d'exil.</p>
+<p>Kropotkine écrit ce texte en mars 1881 pour <em>Le Révolté</em>, le journal qu'il anime à Genève, à l'occasion des dix ans de la Commune. Née le 18 mars 1871 dans un Paris épuisé par le siège prussien, la Commune a été écrasée dans le sang fin mai, pendant la « Semaine sanglante » : des milliers de morts, des dizaines de milliers d'arrestations, des déportations. En 1881, le mouvement socialiste se reconstruit à peine, et les communardes et communards amnistiés rentrent d'exil.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-montmartre-18-mars.jpg" alt="Des dizaines de canons alignés sur un terrain vague, en haut d'une colline." width="1200" height="816" loading="lazy"><figcaption>Le parc d'artillerie de la butte Montmartre. C'est en voulant reprendre ces canons, le 18 mars 1871, que le gouvernement déclenche la Commune. <small>photographe inconnu · CC0 · <a href="https://commons.wikimedia.org/wiki/File:Parc_d%27artillerie_de_la_Butte_Montmartre._18_mars_1871._PH4142-175.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 <p>Le texte est repris en 1885 dans <em>Paroles d'un révolté</em>, le recueil de ses articles.</p>
 
@@ -65,7 +65,7 @@
 <li><strong>L'autonomie communale n'était qu'un moyen</strong> ; le but était la révolution sociale.</li>
 <li><strong>Première erreur : la propriété.</strong> On a remis la question sociale « après la victoire ». On n'a pas touché à la Banque de France, qui a continué de financer Versailles. Le peuple ne se bat pas jusqu'au bout pour un changement qui ne change pas sa vie.</li>
 <li><strong>Deuxième erreur : le gouvernement.</strong> En élisant un conseil qui se comporte en gouvernement, Paris a enfermé ses meilleures forces dans des débats et a paralysé l'initiative des quartiers.</li>
-<li><strong>Ce que veulent les travailleurs en 1881</strong> : mettre en commun toutes les richesses dès le premier jour, et se méfier de tout pouvoir central, même révolutionnaire.</li>
+<li><strong>Ce que veulent les travailleureuses en 1881</strong> : mettre en commun toutes les richesses dès le premier jour, et se méfier de tout pouvoir central, même révolutionnaire.</li>
 <li><strong>Le point aveugle : les campagnes.</strong> Sans les paysannes et paysans, aucune révolution urbaine ne tiendra. Il faut leur parler et leur rendre la terre.</li>
 </ol>
 
@@ -113,9 +113,9 @@
 
 <h2 id="idees">Les idées, chapitre par chapitre</h2>
 <ol>
-<li><strong>Tout évolue</strong>, la nature comme les sociétés. Les révolutions sont des épisodes de l'évolution, pas des accidents. Reclus critique celles et ceux qui acceptent que les idées changent, mais pas les institutions.</li>
+<li><strong>Tout évolue</strong>, la nature comme les sociétés. Les révolutions sont des épisodes de l'évolution, pas des accidents. Reclus critique celleux qui acceptent que les idées changent, mais pas les institutions.</li>
 <li><strong>Toute révolution a deux faces</strong> : un progrès et une régression. La Réforme protestante ou la Révolution française ont libéré, mais elles ont aussi installé de nouveaux pouvoirs.</li>
-<li><strong>Des foules instinctives aux forces conscientes.</strong> Les échecs de 1848 et de la Commune montrent qu'une colère sans conscience se fait récupérer. Il faut des individus qui savent ce qu'ils veulent, pas des chefs.</li>
+<li><strong>Des foules instinctives aux forces conscientes.</strong> Les échecs de 1848 et de la Commune montrent qu'une colère sans conscience se fait récupérer. Il faut des individus qui savent ce qu'iels veulent, pas des chefs.</li>
 <li><strong>Le bilan de la société</strong> : argent, État, religion, justice, armée, administration, patriotisme. Toute institution figée tend vers la réaction.</li>
 <li><strong>« Du pain pour tous ».</strong> L'idéal est d'abord matériel. Reclus réfute Malthus, pour qui la misère viendrait du trop grand nombre d'humains : l'abondance est possible, et c'est la misère qui raccourcit la vie des pauvres.</li>
 <li><strong>Les moyens au crible.</strong> Partis, vote, police, Église, école officielle sont critiqués ; grèves, coopératives et communautés sont examinées comme des pistes, avec leurs limites.</li>
@@ -156,7 +156,7 @@
 <h2 id="contexte">Contexte</h2>
 <p>Errico Malatesta (1853-1932) est un révolutionnaire italien qui a passé sa vie à expliquer l'anarchisme au plus grand nombre. Il aime la forme du dialogue : en 1884 déjà, sa brochure <em>Entre paysans</em> avait été lue dans toute l'Europe. <em>Au café</em> reprend le procédé. Les premiers dialogues paraissent avant la Première Guerre mondiale dans un journal qu'il dirige, puis sont complétés et réunis au début des années 1920.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-malatesta-bologne-1920.jpg" alt="Cinq personnes posent : trois debout, deux assises." width="721" height="500" loading="lazy"><figcaption>Bologne, 1920. Debout : Adalgisa Romagnoli, Errico Malatesta et Clodoveo Bonazzi. Assis : Virgilia D'Andrea et Armando Borghi. <small>photographe inconnu · domaine public · <a href="https://commons.wikimedia.org/wiki/File:Malatesta_D%27Andrea_Borghi.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>L'Italie vit alors les « deux années rouges » (1919-1920) : grèves massives, occupations d'usines, terres prises par les paysans. Malatesta, rentré d'exil, dirige le quotidien anarchiste <em>Umanità Nova</em>. Quelques mois plus tard, le fascisme écrase tout.</p>
+<p>L'Italie vit alors les « deux années rouges » (1919-1920) : grèves massives, occupations d'usines, terres prises par les paysannes et paysans. Malatesta, rentré d'exil, dirige le quotidien anarchiste <em>Umanità Nova</em>. Quelques mois plus tard, le fascisme écrase tout.</p>
 
 <h2 id="personnages">Les personnages</h2>
 <ul>
@@ -169,8 +169,8 @@
 
 <h2 id="objections">Les objections, et les réponses</h2>
 <ol>
-<li><strong>« C'est la loi de la nature. »</strong> Des terres en friche et des ouvriers sans travail ne sont pas naturels : c'est l'organisation sociale.</li>
-<li><strong>« Il y a les gendarmes. »</strong> La force peut se retourner contre celles et ceux qui la tiennent : les gendarmes sont fils du peuple.</li>
+<li><strong>« C'est la loi de la nature. »</strong> Des terres en friche et des ouvrières et ouvriers sans travail ne sont pas naturels : c'est l'organisation sociale.</li>
+<li><strong>« Il y a les gendarmes. »</strong> La force peut se retourner contre celleux qui la tiennent : les gendarmes sont fils du peuple.</li>
 <li><strong>« Le droit et la morale. »</strong> Un droit qui consacre l'oppression n'est qu'un outil des privilégiés.</li>
 <li><strong>« C'est la faute du protectionnisme et du manque de capitaux. »</strong> Le capital existe, mais il dort tant qu'il ne rapporte pas ; logements et terres restent vides.</li>
 <li><strong>« La propriété vient du travail et de l'épargne. »</strong> L'épargne devient exploitation dès qu'elle fait travailler les autres ; à l'origine des grandes fortunes, il y a la violence et la ruse.</li>
@@ -219,13 +219,13 @@
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Qui refuse de s'organiser librement</strong> subit l'organisation imposée par d'autres, en général par celles et ceux qui vivent du travail d'autrui.</li>
-<li><strong>Être cohérent.</strong> Les anarchistes doivent appliquer à leur propre mouvement le principe qu'ils défendent pour la société : <strong>l'organisation libre, sans pouvoir</strong>.</li>
-<li><strong>Tout le monde s'organise.</strong> Même celles et ceux qui critiquent l'organisation se regroupent dès qu'ils veulent publier un journal ou préparer une action.</li>
+<li><strong>Qui refuse de s'organiser librement</strong> subit l'organisation imposée par d'autres, en général par celleux qui vivent du travail d'autrui.</li>
+<li><strong>Être cohérent.</strong> Les anarchistes doivent appliquer à leur propre mouvement le principe qu'iels défendent pour la société : <strong>l'organisation libre, sans pouvoir</strong>.</li>
+<li><strong>Tout le monde s'organise.</strong> Même celleux qui critiquent l'organisation se regroupent dès qu'iels veulent publier un journal ou préparer une action.</li>
 <li><strong>Être dans le mouvement ouvrier.</strong> Les syndicats sont la principale force de transformation : il faut y militer.</li>
 <li><strong>Sans s'y dissoudre.</strong> Les syndicats, centrés sur les revendications immédiates, tendent à s'adapter au système et à produire des permanents privilégiés. D'où le besoin d'<strong>organisations spécifiquement anarchistes</strong>.</li>
 <li><strong>Leurs règles</strong> : autonomie des individus et des groupes, accord librement consenti, <strong>respect de la parole donnée</strong>. Liberté ne veut pas dire faire faux bond.</li>
-<li><strong>Les congrès ne font pas la loi.</strong> Leurs décisions n'engagent que celles et ceux qui les acceptent. Les comités servent à coordonner, jamais à diriger.</li>
+<li><strong>Les congrès ne font pas la loi.</strong> Leurs décisions n'engagent que celleux qui les acceptent. Les comités servent à coordonner, jamais à diriger.</li>
 <li><strong>Une organisation dure</strong> tant que ses membres ont plus de raisons de rester ensemble que de se séparer.</li>
 </ol>
 
@@ -249,7 +249,7 @@
 <div class="ressources">
 <section><h3>Lire</h3><ul>
 <li><b><cite>Autonomie individuelle et force collective. Les anarchistes et l'organisation de Proudhon à nos jours</cite></b>, Alexandre Skirda.<span>L'histoire complète du débat, Plateforme comprise.</span></li>
-<li><a href="../experiences/makhno-histoire.html">Notre dossier sur Makhno</a><span>D'où viennent les auteurs de la Plateforme.</span></li>
+<li><a href="../experiences/makhno-histoire.html">Notre dossier sur Makhno</a><span>D'où viennent les auteurices de la Plateforme.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
 <li><a href="https://fr.anarchistlibraries.net/library/malatesta-errico-reponse-a-la-plateforme" rel="noopener">La réponse de Malatesta à la Plateforme</a><span>Sur la Bibliothèque anarchiste.</span></li>
@@ -260,21 +260,21 @@
 
 === comment-nous-ferons-la-revolution | Révolution & stratégie | Comment nous ferons la Révolution | Émile Pataud et Émile Pouget · 1909 | Un roman d'anticipation syndicaliste : la grève générale, racontée au passé, comme si elle avait déjà eu lieu.
 <h2 id="contexte">Contexte</h2>
-<p>Le livre paraît en 1909. La CGT, alors syndicaliste révolutionnaire, est au sommet de son influence : elle a adopté en 1906 la Charte d'Amiens, qui fait du syndicat à la fois l'outil des luttes d'aujourd'hui et la base de la société de demain. Les grèves sont nombreuses et durement réprimées (Draveil-Villeneuve-Saint-Georges, 1908 : des ouvriers tués par la troupe), et le parlementarisme est discrédité.</p>
+<p>Le livre paraît en 1909. La CGT, alors syndicaliste révolutionnaire, est au sommet de son influence : elle a adopté en 1906 la Charte d'Amiens, qui fait du syndicat à la fois l'outil des luttes d'aujourd'hui et la base de la société de demain. Les grèves sont nombreuses et durement réprimées (Draveil-Villeneuve-Saint-Georges, 1908 : des ouvrières et ouvriers tués par la troupe), et le parlementarisme est discrédité.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-pataud-1910.jpg" alt="Portrait rond d'Émile Pataud, grosse moustache." width="1200" height="1200" loading="lazy"><figcaption>Émile Pataud en 1910, photographié par Henri Manuel. Secrétaire du syndicat des électriciens, il avait plongé Paris dans le noir lors de la grève de mars 1907. <small>Henri Manuel · domaine public · <a href="https://commons.wikimedia.org/wiki/File:%C3%89mile_Pataud_1910.png" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
-<p>Les auteurs sont deux militants de la CGT. Émile Pataud, électricien, a plongé Paris dans le noir en 1907 en organisant la grève des centrales électriques : la presse le surnomme « le roi de la lumière ». Émile Pouget, ancien anarchiste devenu numéro deux de la CGT, est le journaliste du mouvement, fondateur du <em>Père Peinard</em>.</p>
+<p>Les auteurices sont deux militants de la CGT. Émile Pataud, électricien, a plongé Paris dans le noir en 1907 en organisant la grève des centrales électriques : la presse le surnomme « le roi de la lumière ». Émile Pouget, ancien anarchiste devenu numéro deux de la CGT, est le journaliste du mouvement, fondateur du <em>Père Peinard</em>.</p>
 
 <h2 id="forme">La forme</h2>
-<p>Une chronique d'anticipation : le livre fait comme si la révolution était déjà accomplie et raconte, au passé, comment elle s'est passée. C'est un mélange de reportage, de fresque et de leçon politique, où les auteurs répondent aux questions pratiques : qui fait marcher les trains, comment on mange, que deviennent l'armée et les banques.</p>
+<p>Une chronique d'anticipation : le livre fait comme si la révolution était déjà accomplie et raconte, au passé, comment elle s'est passée. C'est un mélange de reportage, de fresque et de leçon politique, où les auteurices répondent aux questions pratiques : qui fait marcher les trains, comment on mange, que deviennent l'armée et les banques.</p>
 
 <h2 id="deroule">Le déroulé imaginé</h2>
 <ol>
-<li><strong>L'étincelle</strong> : une grève du bâtiment à Paris, une manifestation, des ouvriers tués par la police et l'armée.</li>
+<li><strong>L'étincelle</strong> : une grève du bâtiment à Paris, une manifestation, des ouvrières et ouvriers tués par la police et l'armée.</li>
 <li><strong>La grève de solidarité</strong> s'étend à toutes les professions.</li>
 <li><strong>L'immobilisation</strong> : usines électriques et gazières, chemins de fer, postes s'arrêtent. Paris est plongé dans le noir.</li>
 <li><strong>L'État réplique</strong> avec des soldats, trop peu nombreux et de moins en moins motivés. La rafle contre les militantes et militants échoue.</li>
 <li><strong>Les funérailles</strong> des victimes rassemblent des foules immenses ; la grève devient offensive.</li>
-<li><strong>Puis</strong> : prise des banques, grève en province, terre rendue aux paysans, fin du commerce, transports et services gérés par les syndicats, armement du peuple, éducation, abondance, art, émancipation des femmes.</li>
+<li><strong>Puis</strong> : prise des banques, grève en province, terre rendue aux paysannes et paysans, fin du commerce, transports et services gérés par les syndicats, armement du peuple, éducation, abondance, art, émancipation des femmes.</li>
 </ol>
 
 <h2 id="idees">Les idées</h2>

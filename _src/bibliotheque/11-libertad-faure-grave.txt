@@ -9,7 +9,7 @@
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
-<li><strong>Les résignés font tenir le système.</strong> Celles et ceux qui se soumettent par peur ou par habitude sont plus utiles au pouvoir que ses policiers.</li>
+<li><strong>Les résignés font tenir le système.</strong> Celleux qui se soumettent par peur ou par habitude sont plus utiles au pouvoir que ses policiers.</li>
 <li><strong>Ne pas sacrifier le présent</strong> au paradis promis par les prêtres, ni à la retraite promise par les patrons.</li>
 <li><strong>Une vie complète</strong> : plaisirs du corps, amour libre, art, savoir et culture.</li>
 <li><strong>Un travail joyeux et utile</strong>, et le droit de profiter de ce qu'on produit.</li>
@@ -31,7 +31,7 @@
 <h2 id="sources">Sources et pour aller plus loin</h2>
 <div class="ressources">
 <section><h3>Lire</h3><ul>
-<li><b><cite>Les En-dehors</cite></b>, Anne Steiner, L'Échappée, 2008.<span>Le journal <em>l'anarchie</em>, ses rédactrices et rédacteurs, ses causeries.</span></li>
+<li><b><cite>Les En-dehors</cite></b>, Anne Steiner, L'Échappée, 2008.<span>Le journal <em>l'anarchie</em>, ses rédacteurices, ses causeries.</span></li>
 <li><a href="la-joie-de-vivre.html">La Joie de vivre</a><span>Notre fiche : l'autre face du même texte.</span></li>
 </ul></section>
 <section><h3>Sur le web</h3><ul>
@@ -40,7 +40,7 @@
 </ul></section>
 </div>
 
-=== betail-patriotique | État & pouvoir | Le Bétail patriotique | Albert Libertad · 1905 | La caserne ne défend pas la nation : elle broie la volonté pour fabriquer des sujets dociles, puis des électeurs obéissants.
+=== betail-patriotique | État & pouvoir | Le Bétail patriotique | Albert Libertad · 1905 | La caserne ne défend pas la nation : elle broie la volonté pour fabriquer des sujets dociles, puis des électeurices obéissants.
 <h2 id="contexte">Contexte</h2>
 <p>En 1905, une loi fixe le service militaire à deux ans pour tous les jeunes hommes. L'antimilitarisme est alors très fort chez les anarchistes et les syndicalistes : une affiche appelant les conscrits à retourner leurs armes contre leurs officiers en cas de guerre vaut de lourdes peines de prison à ses signataires. La même année, la crise du Maroc fait craindre une guerre avec l'Allemagne. Libertad publie ce texte dans <em>l'anarchie</em>.</p>
 
@@ -90,7 +90,7 @@
 <ol>
 <li><strong>On se suicide un peu chaque jour</strong> : travail épuisant, logement insalubre, alcool, obéissance.</li>
 <li><strong>Les sermons ne valent rien ici</strong> : ce ne sont pas les discours sur le devoir qui donnent envie de vivre.</li>
-<li><strong>Choisir de mourir</strong>, c'est accepter sa défaite d'avance face à ceux qui nous écrasent.</li>
+<li><strong>Choisir de mourir</strong>, c'est accepter sa défaite d'avance face à celleux qui nous écrasent.</li>
 <li><strong>La vie est plaisir</strong> : les sens, l'amour, l'amitié, la pensée.</li>
 <li><strong>Désirer vivre davantage</strong>, et unir les volontés pour rendre la vie vivable pour tout le monde.</li>
 </ol>
@@ -131,7 +131,7 @@
 <li><strong>Méfiance envers les grands mots</strong> (justice, république, égalité) qui masquent les inégalités réelles.</li>
 <li><strong>Le vrai problème</strong> : construire un milieu social qui permette à chacun d'être heureux.</li>
 <li><strong>Un tour des souffrances</strong> : ouvrières et ouvriers, employés, petits commerçants, paysans endettés.</li>
-<li><strong>Les privilégiés eux-mêmes</strong> ne sont pas heureux : angoisse de perdre, ennui, rivalités.</li>
+<li><strong>Les privilégiés elleux-mêmes</strong> ne sont pas heureux : angoisse de perdre, ennui, rivalités.</li>
 <li><strong>La critique de la propriété</strong>, de la concentration du capital et de l'autorité.</li>
 <li><strong>Égoïsme et altruisme se rejoignent</strong> : je ne peux être heureux au milieu du malheur.</li>
 </ol>
@@ -211,13 +211,13 @@
 <li><strong>Deux poids, deux mesures.</strong> Un vol puni chez un particulier devient honorable quand un État le commet.</li>
 <li><strong>Les vrais motifs</strong> : débouchés, capitaux, main-d'œuvre, postes pour les fonctionnaires et militaires.</li>
 <li><strong>La brutalité ordinaire</strong> de l'armée et de l'administration coloniales : travail forcé, impôts écrasants, massacres.</li>
-<li><strong>Des complices malgré eux</strong> : la discipline militaire rend les travailleurs français complices de la domination, alors que les mêmes intérêts les exploitent chez eux.</li>
+<li><strong>Des complices malgré elleux</strong> : la discipline militaire rend les travailleureuses français complices de la domination, alors que les mêmes intérêts les exploitent chez elleux.</li>
 <li><strong>Le bilan</strong> : dépopulation, maladies, alcool, misère.</li>
 </ol>
 
 <h2 id="limites">Débats et limites</h2>
 <ul>
-<li><strong>Un regard extérieur</strong> sur les colonisés, qui parle d'eux plus qu'avec eux. Les anticolonialistes des peuples concernés, eux, ont dû se battre longtemps pour se faire entendre.</li>
+<li><strong>Un regard extérieur</strong> sur les colonisées et colonisés, qui parle d'elleux plus qu'avec elleux. Les anticolonialistes des peuples concernés, elleux, ont dû se battre longtemps pour se faire entendre.</li>
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
@@ -237,13 +237,13 @@
 </ul></section>
 </div>
 
-=== fetichisme-de-la-loi | État & pouvoir | Le Fétichisme de la loi | Jean Grave · 1895 | La loi exprime les intérêts de celles et ceux qui ont le pouvoir ; dès qu'on la discute, elle ne tient plus que par la force.
+=== fetichisme-de-la-loi | État & pouvoir | Le Fétichisme de la loi | Jean Grave · 1895 | La loi exprime les intérêts de celleux qui ont le pouvoir ; dès qu'on la discute, elle ne tient plus que par la force.
 <h2 id="contexte">Contexte</h2>
 <p>Jean Grave publie ce texte en 1895 dans <em>Les Temps nouveaux</em>, le journal qu'il vient de fonder. Il répond au <em>Figaro</em>, grand quotidien conservateur, qui admettait l'existence de lois injustes tout en affirmant qu'il fallait les respecter tant qu'elles n'étaient pas abrogées. C'est l'époque des « lois scélérates », dont Grave lui-même a été victime.</p>
 <figure class="photo"><img src="../assets/img/revolutions/biblio-la-revolte-bureaux-1893.jpg" alt="Gravure : une mansarde encombrée de papiers, une cour et un portrait." width="1200" height="844" loading="lazy"><figcaption>Les bureaux de <em>La Révolte</em>, le journal de Jean Grave, sous les toits du 140 rue Mouffetard à Paris, dessinés en 1893. <small>Jack Abeillé · CC0 · <a href="https://commons.wikimedia.org/wiki/File:L%27anarchie_%C3%A0_Paris.-_Les_bureaux_du_journal_La_R%C3%A9volte,_140_rue_Mouffetard._G.38045.jpg" target="_blank" rel="noopener">Wikimedia Commons</a></small></figcaption></figure>
 
 <h2 id="these">La thèse</h2>
-<p>La loi est arbitraire : elle exprime les intérêts de celles et ceux qui la font. Exiger qu'on s'y soumette sans discuter est un acte de foi, comme on adore un fétiche. Dès qu'on la critique, son autorité vacille, et il ne lui reste que la force.</p>
+<p>La loi est arbitraire : elle exprime les intérêts de celleux qui la font. Exiger qu'on s'y soumette sans discuter est un acte de foi, comme on adore un fétiche. Dès qu'on la critique, son autorité vacille, et il ne lui reste que la force.</p>
 
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
@@ -327,9 +327,9 @@
 <h2 id="idees">Les idées, dans l'ordre</h2>
 <ol>
 <li><strong>Le peuple, être collectif, n'a pas de voix</strong> : nul ne peut le représenter sans être contesté.</li>
-<li><strong>Une aristocratie de notables.</strong> Le suffrage produit des élus issus des classes aisées, et exclut les femmes, les domestiques et bien des ouvriers.</li>
+<li><strong>Une aristocratie de notables.</strong> Le suffrage produit des élues et élus issus des classes aisées, et exclut les femmes, les domestiques et bien des ouvrières et ouvriers.</li>
 <li><strong>La tyrannie de la majorité</strong> : une majorité d'une voix fait la loi pour tout le monde.</li>
-<li><strong>Sans mandat impératif</strong>, l'élu appartient au pouvoir, pas à celles et ceux qui l'ont élu.</li>
+<li><strong>Sans mandat impératif</strong>, l'élu appartient au pouvoir, pas à celleux qui l'ont élu.</li>
 <li><strong>Un État démocratique</strong> coûterait plus cher sans résoudre la misère.</li>
 </ol>
 
@@ -339,7 +339,7 @@
 </ul>
 
 <h2 id="aujourdhui">Et aujourd'hui ?</h2>
-<p>L'avertissement de Proudhon s'est vérifié dès 1848 : le suffrage universel a d'abord élu une assemblée conservatrice, puis Louis-Napoléon Bonaparte, qui a fait un coup d'État. Ses critiques (les élus issus des classes aisées, l'absence de contrôle une fois élus) restent au cœur des débats sur la crise de la représentation.</p>
+<p>L'avertissement de Proudhon s'est vérifié dès 1848 : le suffrage universel a d'abord élu une assemblée conservatrice, puis Louis-Napoléon Bonaparte, qui a fait un coup d'État. Ses critiques (les élues et élus issus des classes aisées, l'absence de contrôle une fois élus) restent au cœur des débats sur la crise de la représentation.</p>
 
 <h2 id="retenir">À retenir</h2>
 <ul><li>Le vote ne suffit pas à fonder la légitimité.</li><li>La question sociale avant la question politique.</li><li>Prolongé dans <a href="idee-generale-de-la-revolution.html">Idée générale de la Révolution</a>.</li></ul>

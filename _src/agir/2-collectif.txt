@@ -1,5 +1,5 @@
 === monter-un-collectif | Monter un collectif | Monter un collectif qui tient | D'après Service-public.fr, Jo Freeman et des brochures de lieux autogérés · 2026 | Se trouver, se donner un nom et des règles, choisir entre collectif libre et association loi 1901, partager les tâches, accueillir, et ne pas s'épuiser.
-<p>Tous les collectifs de Mamie ont commencé pareil : trois ou quatre personnes énervées autour d'une table de cuisine. Certains ont duré trente ans, d'autres trois semaines. Ceux qui tiennent ont souvent quelques points en commun. Les voici.</p>
+<p>Tous les collectifs de Mamie ont commencé pareil : trois ou quatre personnes énervées autour d'une table de cuisine. Certains ont duré trente ans, d'autres trois semaines. Celleux qui tiennent ont souvent quelques points en commun. Les voici.</p>
 
 <h2 id="commencer">Commencer</h2>
 <ul>

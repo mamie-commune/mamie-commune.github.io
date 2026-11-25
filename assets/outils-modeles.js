@@ -131,7 +131,7 @@
         { titre: "Le collectif", champs: [{ id: "nom", type: "text", label: "Nom du collectif" }, { id: "adoptee", type: "date", label: "Date d'adoption" }, { id: "pourquoi", type: "textarea", label: "Pourquoi on existe (en quelques lignes)" }] },
         { titre: "Valeurs communes", champs: [{ id: "valeurs", type: "liste", label: "Nos valeurs", ajout: "Ajouter une valeur", placeholder: "Pas de chef, entraide, refus du racisme et du sexisme…" }] },
         { titre: "Fonctionnement", champs: [
-          { id: "fonction", type: "cases", label: "Ce qu'on pratique", options: [{ v: "ag", l: "Une assemblée régulière ouverte à tous les membres" }, { v: "rotation", l: "La rotation des rôles (animation, prise de notes, contact)" }, { v: "cr", l: "Des comptes rendus partagés après chaque réunion" }, { v: "caisse", l: "Une caisse commune aux comptes ouverts" }, { v: "ouvert", l: "Des réunions ouvertes aux personnes qui veulent découvrir" }] },
+          { id: "fonction", type: "cases", label: "Ce qu'on pratique", options: [{ v: "ag", l: "Une assemblée régulière ouverte à toustes les membres" }, { v: "rotation", l: "La rotation des rôles (animation, prise de notes, contact)" }, { v: "cr", l: "Des comptes rendus partagés après chaque réunion" }, { v: "caisse", l: "Une caisse commune aux comptes ouverts" }, { v: "ouvert", l: "Des réunions ouvertes aux personnes qui veulent découvrir" }] },
           { id: "fonctionPlus", type: "textarea", label: "En détail" }] },
         { titre: "Prise de décision", aide: "Ces méthodes ne s'excluent pas : beaucoup de collectifs en combinent plusieurs. Coche celles que le vôtre utilise.", champs: [
           { id: "decision", type: "cases", label: "Comment on décide", options: METHODES, avecDef: true },
@@ -350,9 +350,9 @@
       titreDoc: (v) => v.nom, meta: (v, h) => [h.dateFr(v.date)],
       sections: [
         { titre: "La séance", champs: [{ id: "nom", type: "text", label: "Atelier, réunion ou formation" }, { id: "date", type: "date", label: "Date" }] },
-        { titre: "Avant", aide: "Une liste de départ, à adapter.", champs: [checklist("avant", "Avant", ["Objectifs de la séance écrits et partagés avec les autres animatrices et animateurs", "Déroulé minuté", "Salle vérifiée : place, chaises, lumière, accessibilité", "Matériel prêt (feutres, grandes feuilles, minuteur)", "Rôles répartis : animation, temps, prise de notes, accueil"])] },
+        { titre: "Avant", aide: "Une liste de départ, à adapter.", champs: [checklist("avant", "Avant", ["Objectifs de la séance écrits et partagés avec les autres animateurices", "Déroulé minuté", "Salle vérifiée : place, chaises, lumière, accessibilité", "Matériel prêt (feutres, grandes feuilles, minuteur)", "Rôles répartis : animation, temps, prise de notes, accueil"])] },
         { titre: "Pendant", champs: [checklist("pendant", "Pendant", ["Accueillir chaque personne et présenter le déroulé", "Rappeler les règles de parole choisies ensemble", "Veiller à ce que la parole circule (tour de parole, temps limité)", "Garder une trace écrite visible de ce qui se dit", "Tenir les horaires, faire une pause"])] },
-        { titre: "Après", champs: [checklist("apres", "Après", ["Bilan à chaud avec les participantes et participants", "Bilan entre animatrices et animateurs", "Envoyer le compte rendu ou les documents promis", "Ranger et rendre la salle"])] }
+        { titre: "Après", champs: [checklist("apres", "Après", ["Bilan à chaud avec les participantes et participants", "Bilan entre animateurices", "Envoyer le compte rendu ou les documents promis", "Ranger et rendre la salle"])] }
       ],
       calcul: (v) => avancement(v, ["avant", "pendant", "apres"])
     }

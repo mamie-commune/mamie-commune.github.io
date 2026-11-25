@@ -3,7 +3,7 @@
 <p>Paru en 2023 aux éditions Libertalia, dans la collection « Dix questions », ce livre est le fruit d'une écriture collective du site antifasciste <strong>La Horde</strong>, qui documente l'extrême droite française depuis des années (cartes, schémas, fiches sur les groupes). Il est téléchargeable gratuitement sur le site de l'éditeur, en PDF et en ePub. Il arrive à un moment où l'extrême droite progresse dans les urnes et dans la rue, et où des militantes et militants antifascistes sont régulièrement poursuivis, voire visés par des dissolutions.</p>
 
 <h2 id="these">Le propos</h2>
-<p>L'antifascisme n'est pas qu'une indignation morale : c'est une lutte spécifique, solidaire et égalitaire, liée aux autres combats contre les dominations. Le livre veut la rendre compréhensible à toutes et à tous, en partant de questions simples.</p>
+<p>L'antifascisme n'est pas qu'une indignation morale : c'est une lutte spécifique, solidaire et égalitaire, liée aux autres combats contre les dominations. Le livre veut la rendre compréhensible à toustes, en partant de questions simples.</p>
 
 <h2 id="questions">Les dix questions</h2>
 <ol>

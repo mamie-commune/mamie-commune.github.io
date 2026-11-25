@@ -2743,7 +2743,7 @@ blockquote { border-radius: 14px; }
 .sec--noir .colonne, .sec--noir .colonne :is(h3, li, p) { color: var(--v-noir) !important; }
 .sec--noir .colonne a { color: #8a0f7a !important; }
 /* mode sombre : les papiers blancs gardent toujours leur encre foncée */
-:root[data-theme="dark"] :is(.rubrique:not(.pochettes *), .card, .step, .mode, .portes a, .selection__item, .aussi li a, .agir-grille > a, .docvedette, .une__fil a, .une__lead a, .arch-carte, .dos__liste li, .dos__resultats li, .colonne, .note, .callout, .appel, .addform) :is(a, small, span, p, b, li, h3):not(.kicker):not(.tg):not(.rubrique__n):not(.card__tag):not(.selection__actu):not(.btn) { color: var(--v-noir) !important; }
+:root[data-theme="dark"] :is(.rubrique:not(.pochettes *), .card, .step, .mode, .portes a, .selection__item, .aussi li a, .agir-grille > a, .docvedette, .une__fil a, .une__lead a, .arch-carte, .dos__liste li, .dos__resultats li, .note, .callout, .appel, .addform) :is(a, small, span, p, b, li, h3):not(.kicker):not(.step__n):not(.tg):not(.rubrique__n):not(.card__tag):not(.selection__actu):not(.btn) { color: var(--v-noir) !important; }
 :root[data-theme="dark"] :is(.dos__resultats li, .dos__liste li) small { color: #8a0f7a !important; }
 :root[data-theme="dark"] #lire { background-color: #4a3620 !important; }
 :root[data-theme="dark"] #lire .vedette__txt :is(h3, p, b) { color: #f4efe6 !important; }
@@ -2765,3 +2765,9 @@ blockquote { border-radius: 14px; }
 .tg, .prose h2, .manchette__accroche .tg, .hero__say .tg, .step__n, .parcours-modules li::before { font-family: var(--v-etiquette) !important; font-weight: 400 !important; letter-spacing: 0 !important; }
 .prose h2 { font-size: clamp(20px, 2.2vw, 28px) !important; }
 .facile .tg, .facile .prose h2 { font-family: var(--body) !important; }
+/* contrastes, finitions avant la sortie */
+#contribuer .feutre { color: var(--v-noir) !important; background: #fbfaf7; padding: 2px 10px; }
+.toc h2 { color: var(--v-magenta) !important; }
+:root[data-theme="dark"] .toc h2 { color: #ff7ae6 !important; }
+:root[data-theme="dark"] .callout a, :root[data-theme="dark"] .sec__intro a { color: #8a0f7a !important; }
+.toc h2, :root[data-theme="dark"] .toc h2 { background: none !important; }

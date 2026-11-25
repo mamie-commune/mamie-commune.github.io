@@ -131,6 +131,11 @@ Le script affiche par exemple `OK : 9 guides, 107 fiches, 37 livres et 31 pages 
 
 Fichiers générés (ne pas modifier) : `index.html`, `carte.html`, `videos.html`, `commencer.html` (Par où commencer ?), `rejoindre.html` (Rejoins la bande), les six pages de tiroir (`apprendre.html`, `s-organiser.html`, `s-entraider.html`, `se-defendre.html`, `creer.html`, `trouver-des-allies.html`), `glossaire.html`, `recherche.html`, `404.html`, `partage.html` (renvoi vers le guide Signal), `lecteur.html`, `mentions-legales.html` à la racine, tout `guides/`, `bibliotheque/`, `ressources/`, `experiences/`, `antifascisme/`, `manif/`, `agir/`, `livres/*.html`, et `data/guides.js`, `data/bibliotheque.js`, `data/livres.js`, `data/experiences.js`, `data/antifascisme.js`.
 
+## Mise en ligne publique (novembre 2026)
+
+- `_src/build.ps1` écrit `sitemap.xml` (toutes les pages publiques, adresses propres, sauf 404, sans-connexion, renvois, lecteur, packs et fichiers commençant par `_`) et `robots.txt`. L'aperçu au partage (`og:image` = `assets/mamie-logo-1080.png`, `twitter:card`) est dans `_src/layout.html`.
+- **Mentions légales** (`_src/pages/mentions-legales.html`) : éditeur anonyme non professionnel (LCEN art. 6-III-2, identité donnée à IONOS), contact par message privé Instagram ou TikTok **seulement** (pas d'adresse mail, choix de la personne), personnage de Mamie créé par la bande, libre de reproduction militante non commerciale. Toute nouvelle source de contenu (film, son, image, données) ou nouveau service extérieur s'y ajoute, et dans `confidentialite.html`.
+
 ## Adresses propres
 
 Dans les sources, on écrit les liens normalement (`page.html`, `dossier/index.html`). À la génération, `_src/build.ps1` (`Clean-Links`) les transforme en `page` et `dossier/` : les adresses publiques n'ont ni `.html` ni `index.html`. Sur IONOS, `.htaccess` sert `page.html` pour `/page` et redirige les anciennes adresses en `.html`. Dans le JavaScript (`assets/*.js`, `data/videos.js`), écrire directement les liens sans `.html`. Une page supprimée garde un renvoi : règle dans `.htaccess` + petite page de renvoi générée dans `build.ps1` (exemple : `partage` → `guides/signal`).

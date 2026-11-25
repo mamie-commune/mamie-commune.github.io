@@ -1290,4 +1290,11 @@ $sw = (Read-Utf8 (Join-Path $src "sw.js")).Replace("__VERSION__", $ver).Replace(
 $sw = "// Généré par _src/build.ps1 depuis _src/sw.js — ne pas modifier à la main.`n" + $sw
 Write-Utf8 (Join-Path $site "sw.js") $sw
 
+# ---------- plan du site pour les moteurs de recherche (sitemap.xml) et robots.txt ----------
+# Toutes les pages publiques, avec leur adresse propre. Pas les pages techniques (404, hors connexion, renvois, packs).
+$exclus = '^(404|sans-connexion|partage|lecteur)[.]html$|^(_src|packs|node_modules|[.])/'
+$pagesPlan = Get-ChildItem $site -Recurse -Filter *.html | ForEach-Object { $_.FullName.Substring($site.Length + 1).Replace([string][char]92, '/') } | Where-Object { $_ -notmatch $exclus -and $_ -notmatch '(^|/)_' } | Sort-Object
+$plan = "<?xml version=""1.0"" encoding=""UTF-8""?>`n<urlset xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9"">`n" + (($pagesPlan | ForEach-Object { $c = Clean-Url $_; if ($c -eq './') { $c = '' }; "  <url><loc>$siteUrl$c</loc></url>" }) -join "`n") + "`n</urlset>`n"
+Write-Utf8 (Join-Path $site "sitemap.xml") $plan
+Write-Utf8 (Join-Path $site "robots.txt") "User-agent: *`nAllow: /`nDisallow: /_src/`n`nSitemap: ${siteUrl}sitemap.xml`n"
 Write-Host "OK : $($guides.Count) guides, $($biblio.Count) fiches, $($livres.Count) livres, $($ressources.Count) ressources et $($exp.Count) pages de dossiers générés."

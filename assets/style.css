@@ -67,7 +67,7 @@ a:hover { color: var(--on-color); background: var(--yellow); }
 ::selection { background: var(--pink); color: var(--on-color); }
 
 .wrap { max-width: 1160px; margin-inline: auto; padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
-.skip { position: absolute; left: -999px; top: 8px; background: var(--pink); color: var(--on-color); padding: 8px 12px; z-index: 2000; font-family: var(--display); }
+.skip { position: absolute; left: -999px; top: 8px; background: #171414 !important; color: #fff !important; outline: 3px solid #f02bd2 !important; padding: 8px 12px; z-index: 2000; font-family: var(--display); }
 .skip:focus { left: 8px; }
 
 /* ---------- barre de recherche (sous l'en-tête, assets/recherche.js) ---------- */

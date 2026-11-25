@@ -10,7 +10,9 @@
 <meta property="og:site_name" content="Mamie Commune">
 <meta property="og:locale" content="fr_FR">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://mamiecommune.org/assets/mamie-logo-1080.png">
+<meta property="og:image" content="https://mamiecommune.org/assets/mamie-partage.jpg">
+<meta property="og:image:width" content="1080">
+<meta property="og:image:height" content="1080">
 <meta property="og:image:alt" content="Mamie Commune, capuche noire, foulard sur le visage et poing levé">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#141110">
@@ -23,8 +25,8 @@
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="Mamie">
 <meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="stylesheet" href="assets/fonts.css?v=ea6a0cdf">
-<link rel="stylesheet" href="assets/style.css?v=ea6a0cdf">
+<link rel="stylesheet" href="assets/fonts.css?v=ca934747">
+<link rel="stylesheet" href="assets/style.css?v=ca934747">
 <script>/* lecture facile et thème clair ou sombre : appliqués avant l'affichage, pour éviter un clignotement */ try { if (localStorage.getItem("mamie-facile") === "1") document.documentElement.classList.add("facile"); var t = localStorage.getItem("mamie-theme"); if (t === "dark" || t === "light") document.documentElement.dataset.theme = t; } catch (e) {}</script>
 </head>
 <body>
@@ -65,12 +67,12 @@
     <div class="chips" role="group" aria-label="Filtrer par thème"><button class="chip" type="button" data-dico-theme="" aria-pressed="true">Tous les mots</button><button class="chip" type="button" data-dico-theme="idees" aria-pressed="false">Idées · 69</button><button class="chip" type="button" data-dico-theme="orga" aria-pressed="false">S'organiser · 52</button><button class="chip" type="button" data-dico-theme="travail" aria-pressed="false">Travail · 56</button><button class="chip" type="button" data-dico-theme="rue" aria-pressed="false">Dans la rue · 27</button><button class="chip" type="button" data-dico-theme="repression" aria-pressed="false">Police et justice · 37</button><button class="chip" type="button" data-dico-theme="antifa" aria-pressed="false">Extrême droite · 6</button><button class="chip" type="button" data-dico-theme="genre" aria-pressed="false">Féminismes et genre · 27</button><button class="chip" type="button" data-dico-theme="racisme" aria-pressed="false">Racisme et colonialisme · 21</button><button class="chip" type="button" data-dico-theme="ecologie" aria-pressed="false">Écologie · 16</button><button class="chip" type="button" data-dico-theme="numerique" aria-pressed="false">Numérique · 15</button><button class="chip" type="button" data-dico-theme="histoire" aria-pressed="false">Histoire · 44</button><button class="chip" type="button" data-dico-theme="argot" aria-pressed="false">Argot militant · 6</button></div>
     <p class="dico__compte" aria-live="polite" data-dico-compte></p>
   </div>
-  <nav class="tiroir-nav tiroir-nav--lettres" aria-label="Lettres du dictionnaire"><a href="#chiffres">1</a><a href="#a">A</a><a href="#b">B</a><a href="#c">C</a><a href="#d">D</a><a href="#e">E</a><a href="#f">F</a><a href="#g">G</a><a href="#h">H</a><a href="#i">I</a><a href="#j">J</a><a href="#k">K</a><a href="#l">L</a><a href="#m">M</a><a href="#n">N</a><a href="#o">O</a><a href="#p">P</a><a href="#q">Q</a><a href="#r">R</a><a href="#s">S</a><a href="#t">T</a><a href="#u">U</a><a href="#v">V</a><a href="#x">X</a><a href="#z">Z</a></nav>
+  <nav class="tiroir-nav tiroir-nav--lettres" aria-label="Lettres du dictionnaire"><a href="#chiffres">1</a><a href="#a">A</a><a href="#b">B</a><a href="#c">C</a><a href="#d">D</a><a href="#e">E</a><a href="#f">F</a><a href="#g">G</a><a href="#h">H</a><a href="#i">I</a><a href="#j">J</a><a href="#k">K</a><a href="#l">L</a><a href="#m">M</a><a href="#n">N</a><a href="#o">O</a><a href="#p">P</a><a href="#lettre-q">Q</a><a href="#r">R</a><a href="#s">S</a><a href="#t">T</a><a href="#u">U</a><a href="#v">V</a><a href="#x">X</a><a href="#z">Z</a></nav>
 </div></header>
 <div class="wrap gseule">
   <article class="prose glossaire dico">
 <aside class="dico__essentiels" aria-labelledby="essentiels">
-<p class="dico__essentiels-tit" id="essentiels">Les 24 mots à connaître en premier</p>
+<p class="dico__essentiels-tit" id="essentiels" role="heading" aria-level="2">Les 24 mots à connaître en premier</p>
 <p class="dico__essentiels-intro">Tu débutes ? Mamie a fait le tri : avec ces mots-là, tu suis n'importe quelle AG, n'importe quel tract et la plupart des vieux journaux anarchistes.</p>
 <div class="dico__essentiels-grille">
 <section><h3>Ce qu'on veut</h3><ul>
@@ -764,7 +766,7 @@
 <div class="dico__mot" data-theme="travail"><dt id="prudhommes">Prud'hommes <span class="dico__theme">Travail</span></dt>
 <dd>Tribunal des conflits du travail. On peut y attaquer son patron, et souvent gagner : licenciements abusifs, heures non payées.</dd></div>
 </dl>
-<h2 id="q">Q</h2>
+<h2 id="lettre-q">Q</h2>
 <dl>
 <div class="dico__mot" data-theme="racisme"><dt id="banlieue">Quartiers populaires <span class="dico__theme">Racisme et colonialisme</span></dt>
 <dd>Les grands ensembles où l'État a relégué ouvriers et immigrés. Terrain de luttes contre le racisme, la police et l'abandon, souvent oubliées par la gauche des centres-villes.</dd></div>
@@ -954,9 +956,9 @@
     </div>
   </div>
 </footer>
-<script src="assets/site.js?v=ea6a0cdf"></script>
-<script src="assets/recherche.js?v=ea6a0cdf"></script>
-<script src="assets/hors-ligne.js?v=ea6a0cdf"></script>
-<script src="assets/dico.js?v=ea6a0cdf"></script>
+<script src="assets/site.js?v=ca934747"></script>
+<script src="assets/recherche.js?v=ca934747"></script>
+<script src="assets/hors-ligne.js?v=ca934747"></script>
+<script src="assets/dico.js?v=ca934747"></script>
 </body>
 </html>

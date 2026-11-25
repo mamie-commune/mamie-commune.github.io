@@ -1,12 +1,18 @@
 {
-  "maj": "2026-11-24",
-  "titresLus": 149,
+  "maj": "2026-11-25",
+  "titresLus": 147,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 15,
+      "score": 13,
       "titres": [
+        {
+          "titre": "« Si les gens savaient, ils se soulèveraient » : malades du cancer et paysans déversent leur colère contre les pesticides",
+          "url": "https://reporterre.net/On-m-a-enleve-un-truc-dans-le-nichon-des-malades-du-cancer-et-des-paysans-deversent-leur",
+          "source": "Reporterre",
+          "date": "2026-11-25"
+        },
         {
           "titre": "Quand les abeilles et les coquelicots ont fait flancher les pesticides",
           "url": "https://reporterre.net/Pesticides-80-ans-de-lutte-tenace-en-10-moments-forts",
@@ -15,14 +21,8 @@
         },
         {
           "titre": "« La mer du Nord telle qu'on l'a connue a disparu » : le changement climatique bouleverse le milieu marin",
-          "url": "https://reporterre.net/Harengs-en-fuite-explosion-de-sardines-le-rechauffement-de-la-mer-du-Nord-bouleverse-l",
+          "url": "https://reporterre.net/La-mer-du-Nord-telle-qu-on-l-a-connue-a-disparu-le-changement-climatique-bouleverse-le",
           "source": "Reporterre",
-          "date": "2026-11-24"
-        },
-        {
-          "titre": "L'ex-PDG de Haribo au ministère de l'Agriculture : comment le lobby de l'agroalimentaire entre au gouvernement",
-          "url": "https://basta.media/Nomination-ex-PDG-Haribo-comment-lobby-agroalimentaire-ANIA-infiltre-ministere-gouvernement",
-          "source": "Basta!",
           "date": "2026-11-24"
         }
       ]
@@ -33,15 +33,15 @@
       "score": 7,
       "titres": [
         {
+          "titre": "Censure d’une exposition : quand l’extrême droite espagnole dicte sa loi jusque dans les universités",
+          "url": "https://www.humanite.fr/monde/elections-en-espagne/censure-dune-exposition-quand-lextreme-droite-espagnole-dicte-sa-loi-jusque-dans-les-universites",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
+        },
+        {
           "titre": "Allô, police fasciste ?",
           "url": "https://www.politis.fr/api/proxy/?articleID=529232",
           "source": "Politis",
-          "date": "2026-11-24"
-        },
-        {
-          "titre": "Pétain « sauveur » des juifs : Éric Zemmour définitivement condamné",
-          "url": "https://www.humanite.fr/politique/antisemitisme/petain-sauveur-des-juifs-eric-zemmour-definitivement-condamne",
-          "source": "L'Humanité",
           "date": "2026-11-24"
         },
         {
@@ -53,60 +53,91 @@
       ]
     },
     {
-      "id": "exil",
-      "nom": "l'exil et les frontières",
-      "score": 4,
+      "id": "jeunesse",
+      "nom": "la jeunesse en lutte",
+      "score": 5,
       "titres": [
         {
-          "titre": "La vigilance orange crues est levée dans le Pas-de-Calais, mais \"il reste beaucoup à faire\" selon la préfecture",
-          "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/la-vigilance-orange-crues-est-levee-dans-le-pas-de-calais-mais-il-reste-beaucoup-a-faire-selon-la-prefecture_8296836.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-23"
+          "titre": "Mouvement lycéen : à Grenoble, une prof et une documentaliste convoquées par le rectorat",
+          "url": "https://basta.media/mouvement-lyceen-Grenoble-enseignante-documentaliste-convoquees-rectorat",
+          "source": "Basta!",
+          "date": "2026-11-25"
         },
         {
-          "titre": "\"J'ai une phobie de l'eau maintenant\" : les sinistrés du Pas-de-Calais épuisés par les inondations",
-          "url": "https://www.franceinfo.fr/france/hauts-de-france/pas-de-calais/j-ai-une-phobie-de-l-eau-maintenant-les-sinistres-du-pas-de-calais-epuises-par-les-inondations_8296695.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-23"
+          "titre": "Censure d’une exposition : quand l’extrême droite espagnole dicte sa loi jusque dans les universités",
+          "url": "https://www.humanite.fr/monde/elections-en-espagne/censure-dune-exposition-quand-lextreme-droite-espagnole-dicte-sa-loi-jusque-dans-les-universites",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
         },
         {
-          "titre": "Un migrant somalien tué par balles au camp de Loon-Plage dans le Nord",
-          "url": "https://www.franceinfo.fr/faits-divers/un-migrant-somalien-tue-par-balles-au-camp-de-loon-plage-dans-le-nord_8296638.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-23"
+          "titre": "« La prostitution n’est pas un job étudiant ! »",
+          "url": "https://www.humanite.fr/en-debat/prostitution/la-prostitution-nest-pas-un-job-etudiant",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
         }
       ]
     },
     {
-      "id": "jeunesse",
-      "nom": "la jeunesse en lutte",
+      "id": "feminisme",
+      "nom": "les violences faites aux femmes",
       "score": 3,
       "titres": [
         {
-          "titre": "Mobilisation des étudiants et lycéens : le dilemme des universités en cette rentrée pour sauver l'année",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/mobilisation-des-etudiants-et-lyceens-le-dilemme-des-universites-en-cette-rentree-pour-sauver-l-annee_8297466.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "Violences faites aux femmes : 147 féminicides recensés depuis le début de l'année",
+          "url": "https://www.franceinfo.fr/societe/feminicides/violences-faites-aux-femmes-147-feminicides-recenses-depuis-le-debut-de-l-annee_8298774.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-24"
+          "date": "2026-11-25"
         },
         {
-          "titre": "Cédric Herrou, paysan et militant, placé en garde à vue après une vidéo de soutien aux lycéens",
-          "url": "https://reporterre.net/Cedric-Herrou-paysan-et-militant-place-en-garde-a-vue-apres-une-video-de-soutien-aux",
-          "source": "Reporterre",
+          "titre": "Aurore Bergé : des bancs rouges pour masquer l’inaction face aux féminicides",
+          "url": "https://www.humanite.fr/societe/associations/aurore-berge-des-bancs-rouges-pour-masquer-linaction-face-aux-feminicides",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
+        },
+        {
+          "titre": "Patrick Bruel visé par une nouvelle plainte pour viol",
+          "url": "https://www.humanite.fr/feminisme/concerts/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
+        }
+      ]
+    },
+    {
+      "id": "greve",
+      "nom": "les grèves",
+      "score": 3,
+      "titres": [
+        {
+          "titre": "Transports et usines à l’arrêt, chantiers et aéroports paralysés… En Grèce, une nouvelle grève massive contre la vie chère et la précarité galopante",
+          "url": "https://www.humanite.fr/monde/grece/transports-et-usines-a-larret-chantiers-et-aeroports-paralyses-en-grece-une-nouvelle-greve-massive-contre-la-vie-chere-et-la-precarite-galopante",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
+        },
+        {
+          "titre": "Au Bangladesh, les ouvriers du textile arrachent une hausse du salaire minimum",
+          "url": "https://www.humanite.fr/monde/bangladesh/au-bangladesh-les-ouvriers-du-textile-arrachent-une-hausse-du-salaire-minimum",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
+        },
+        {
+          "titre": "Moins payés qu'en Belgique, Allemagne, Pays-Bas… pourquoi les salaires sont plus bas en France et comment les augmenter",
+          "url": "https://basta.media/Moins-payes-qu-en-Belgique-Allemagne-Pays-Bas-pourquoi-salaires-plus-bas-en-france-comment-les-augmenter",
+          "source": "Basta!",
           "date": "2026-11-23"
-        },
-        {
-          "titre": "Derrière les blocus et les cortèges, la force de la solidarité",
-          "url": "https://www.politis.fr/api/proxy/?articleID=527787",
-          "source": "Politis",
-          "date": "2026-11-20"
         }
       ]
     },
     {
       "id": "pouvoir",
       "nom": "le jeu politique",
-      "score": 2,
+      "score": 3,
       "titres": [
+        {
+          "titre": "Malgré sa candidature à la présidentielle, David Lisnard réélu pour un troisième mandat à la tête des maires de France",
+          "url": "https://www.humanite.fr/politique/david-lisnard/malgre-sa-candidature-a-la-presidentielle-david-lisnard-reelu-pour-un-troisieme-a-la-tete-des-maires-de-france",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
+        },
         {
           "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
           "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
@@ -118,6 +149,25 @@
           "url": "https://reporterre.net/Le-rappeur-Medine-appelle-a-voter-LFI-Cette-presidentielle-pour-nous-c-est-une-question",
           "source": "Reporterre",
           "date": "2026-11-20"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "nom": "l'exil et les frontières",
+      "score": 2,
+      "titres": [
+        {
+          "titre": "Kilmar Ábrego García, le Salvadorien symbole de la chasse aux migrants de Trump, quitte les États-Unis",
+          "url": "https://www.humanite.fr/monde/administration-trump/kilmar-abrego-garcia-le-salvadorien-symbole-de-la-chasse-aux-migrants-de-trump-quitte-les-etats-unis",
+          "source": "L'Humanité",
+          "date": "2026-11-25"
+        },
+        {
+          "titre": "La justice suspend les travaux du centre de rétention administrative de Nantes",
+          "url": "https://reporterre.net/La-justice-suspend-les-travaux-du-centre-de-retention-administrative-de-Nantes",
+          "source": "Reporterre",
+          "date": "2026-11-23"
         }
       ]
     }

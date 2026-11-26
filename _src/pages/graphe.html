@@ -1,0 +1,96 @@
+<!-- Le graphe des luttes · Mamie Commune | Explorer les liens entre les personnes, les courants, les événements, les organisations, les publications, les concepts, les expériences et les luttes de l'histoire révolutionnaire. Chaque relation est justifiée et sourcée. | graphe | <script src="{{R}}data/graphe.js"></script><script src="{{R}}assets/graphe.js"></script> -->
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><span>Le graphe des luttes</span></p>
+  <p class="eyebrow">Explorer l'histoire</p>
+  <h1>Le graphe des luttes</h1>
+  <p class="lead">Qui a influencé qui, qui s'est opposé à qui, quel livre a nourri quelle révolution. Clique sur un élément, suis ses connexions, et remonte le fil. <strong>Chaque relation est justifiée et sourcée</strong>, et on te dit si c'est un fait établi, une interprétation ou une controverse.</p>
+</div></header>
+
+<div class="graphe" id="graphe" data-pret="non">
+  <noscript><div class="wrap"><p class="g-noscript">Le graphe a besoin de JavaScript. Toutes ses fiches restent lisibles sans : cherche-les avec la <a href="../recherche.html">recherche</a> (type « Fiche du graphe »).</p></div></noscript>
+
+  <div class="wrap g-barre" role="search">
+    <div class="g-cherche">
+      <label for="gQ">Chercher une personne, un événement, une idée…</label>
+      <input id="gQ" type="search" autocomplete="off" placeholder="Commune de Paris, Louise Michel, autogestion…" role="combobox" aria-expanded="false" aria-controls="gSugg" aria-autocomplete="list">
+      <ul id="gSugg" class="g-sugg" role="listbox" hidden></ul>
+    </div>
+    <div class="g-hasard">
+      <label for="gHasardType">Découverte au hasard</label>
+      <span class="g-ligne"><select id="gHasardType"><option value="">N'importe quoi</option></select><button type="button" class="chip" id="gHasard">Au hasard ⚄</button></span>
+    </div>
+    <div class="g-parcours-choix">
+      <label for="gParcours">Parcours thématiques</label>
+      <select id="gParcours"><option value="">Choisir un parcours…</option></select>
+    </div>
+    <button type="button" class="chip g-mes" id="gMesBtn" aria-expanded="false" aria-controls="gMes">☆ Mes favoris et parcours <span id="gMesNb"></span></button>
+  </div>
+
+  <details class="wrap g-filtres" id="gFiltres">
+    <summary>Filtres <span id="gFiltresEtat"></span></summary>
+    <div class="g-filtres__in">
+      <fieldset><legend>Afficher</legend><div id="gTypes" class="g-types"></div></fieldset>
+      <p><label for="gPeriode">Période</label><select id="gPeriode"><option value="">Toutes les périodes</option></select></p>
+      <p><label for="gCourant">Courant politique</label><select id="gCourant"><option value="">Tous les courants</option></select></p>
+      <p><button type="button" class="chip" id="gRaz">Tout réafficher</button></p>
+    </div>
+  </details>
+
+  <section class="wrap g-mes-zone" id="gMes" hidden aria-labelledby="gMesTit"></section>
+
+  <div class="g-etape" id="gEtape" hidden aria-live="polite"></div>
+
+  <div class="g-corps wrap">
+    <div class="g-scene" id="gScene">
+      <div class="g-outils" role="toolbar" aria-label="Affichage du graphe">
+        <span class="g-vues" role="group" aria-label="Vue"><button type="button" class="chip" data-vue="frise" aria-pressed="true">Frise</button><button type="button" class="chip" data-vue="autour" aria-pressed="false">Autour de…</button><button type="button" class="chip" data-vue="liste" aria-pressed="false">Liste</button></span>
+        <span class="g-zoom"><button type="button" class="chip" data-zoom="1.25" aria-label="Zoomer">+</button><button type="button" class="chip" data-zoom="0.8" aria-label="Dézoomer">−</button><button type="button" class="chip" id="gReset">Vue initiale</button><button type="button" class="chip" id="gPlein" aria-pressed="false">Plein écran</button></span>
+      </div>
+      <nav class="g-fil" id="gFil" aria-label="Ton chemin dans le graphe" hidden></nav>
+      <svg id="gSvg" class="g-svg" role="application" aria-label="Le graphe des luttes. Utilise Tab pour parcourir les éléments et Entrée pour en choisir un." tabindex="-1"><g id="gMonde"></g></svg>
+      <div id="gListe" class="g-liste" hidden></div>
+      <div class="g-legende" id="gLegende" aria-label="Légende"></div>
+    </div>
+    <aside class="g-panneau" id="gPanneau" aria-live="polite" tabindex="-1">
+      <div class="g-panneau__vide">
+        <p><b>Par où commencer ?</b></p>
+        <ul>
+          <li>Cherche un nom ou un événement, par exemple <button type="button" class="g-lienb" data-aller="commune-de-paris">la Commune de Paris</button>.</li>
+          <li>Suis un <b>parcours thématique</b>, étape par étape.</li>
+          <li>Ou laisse le hasard choisir pour toi.</li>
+        </ul>
+        <p class="g-panneau__note">Dans la frise, chaque élément est placé à sa date et rangé par catégorie. Fais glisser pour te déplacer, et zoome à la molette, en pinçant, ou avec les boutons.</p>
+      </div>
+    </aside>
+  </div>
+
+  <form class="wrap g-signal" id="gSignal" hidden aria-labelledby="gSignalTit" novalidate>
+    <h2 id="gSignalTit">Signaler une erreur</h2>
+    <p>Rien n'est envoyé d'ici : le formulaire prépare un message que tu envoies toi-même à la bande, en message privé sur <a href="https://www.instagram.com/mamie_commune/" rel="noopener">Instagram</a> ou <a href="https://www.tiktok.com/@mamie_commune" rel="noopener">TikTok</a>. La bande vérifie et corrige la fiche.</p>
+    <p><b>Élément :</b> <span id="gSigNom"></span></p>
+    <p><label for="gSigQuoi">Ce qui est concerné</label><select id="gSigQuoi"></select></p>
+    <p><label for="gSigType">Le problème</label><select id="gSigType" required>
+      <option value="">— Choisir —</option>
+      <option value="erreur">Une erreur de fait (date, nom, événement)</option>
+      <option value="source">Une source manquante ou qui ne dit pas ça</option>
+      <option value="relation">Une relation contestable ou mal qualifiée</option>
+      <option value="statut">Un statut à revoir (fait, interprétation, controverse)</option>
+      <option value="manque">Un élément ou une relation qui manque</option>
+      <option value="autre">Autre chose</option>
+    </select></p>
+    <p><label for="gSigCom">Précisions</label><textarea id="gSigCom" rows="4" placeholder="Ce qui ne va pas, et ce qui serait juste."></textarea></p>
+    <p><label for="gSigSource">Ta source (livre, article, archive, adresse web)</label><input id="gSigSource" type="text" placeholder="Autrice ou auteur, titre, éditeur, année, page"></p>
+    <p class="g-erreur" id="gSigErreur" hidden role="alert"></p>
+    <p class="g-ligne"><button type="submit" class="btn">Préparer le message</button><button type="button" class="chip" id="gSigFermer">Fermer</button></p>
+    <div id="gSigResultat" hidden></div>
+  </form>
+
+  <section class="wrap g-apropos" aria-labelledby="gAproposTit">
+    <h2 id="gAproposTit">Comment lire le graphe</h2>
+    <div class="g-apropos__grille">
+      <div><h3>Des relations qualifiées</h3><p>Une flèche n'est jamais tracée parce que deux choses ont eu lieu à la même époque. Chaque relation a un <b>type</b> (influence, opposition, participation, publication…), un <b>texte</b> qui la justifie et au moins une <b>source</b> vérifiable.</p></div>
+      <div><h3>Quatre statuts</h3><p id="gStatuts"></p></div>
+      <div><h3>Un graphe qui grandit</h3><p>Le graphe commence avec <span id="gNb"></span> éléments soigneusement documentés. La bande en ajoute au fil des lectures. Une erreur, une source qui manque, une relation contestable ? Ouvre l'élément et clique sur « Signaler ».</p></div>
+    </div>
+  </section>
+</div>

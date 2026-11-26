@@ -164,6 +164,13 @@ Les photos des dossiers Histoires de luttes sont dans `assets/img/revolutions/`,
 - **Vers « Mon dossier »** : bouton sous le titre de chaque fiche, et bouton du suivi des modules pour un parcours entier.
 - Après une modification d'un script de `assets/`, vérifier la syntaxe : `node --check assets/<fichier>.js`.
 
+## Graphe des luttes (`graphe/`, novembre 2026)
+- Données : `_src/graphe/graphe.json` (éléments, relations, références, parcours), documentées dans `_src/graphe/LISEZMOI.md`. Application : `_src/pages/graphe.html` + `assets/graphe.js` (SVG, sans bibliothèque). Le build fabrique `data/graphe.js`, une fiche par élément (`graphe/<id>.html`, type « Fiche du graphe », dans la recherche et Mon dossier) et un renvoi « Dans le graphe des luttes » sur chaque page du site citée.
+- **Le build refuse de générer le site** si une relation n'a pas de source, de texte ou de statut (fait, interpretation, controverse, hypothese), si un identifiant ou une référence est inconnu, ou si une page citée n'existe pas.
+- Jamais de relation par simple proximité chronologique ; une interprétation nomme son historienne ou son historien ; une référence n'entre dans `references` qu'après vérification.
+- Favoris et parcours personnels : clé `mamie-graphe` du navigateur (listée dans Confidentialité), versés dans Mon dossier. Signalements : le formulaire prépare un message pour la bande (Instagram ou TikTok), rien n'est envoyé.
+- À venir (pas commencé) : le comparateur des courants et l'atelier d'argumentation, qui se brancheront sur les mêmes identifiants.
+
 ## Archives historiques (`archives/`, novembre 2026)
 
 - Une **fiche documentaire par image d'archive** du site (`assets/img/revolutions/`) : titre, date, autrice ou auteur, type (photographie, portrait, affiche, tract, journal, document, gravure), mouvement, territoire, provenance, source vérifiable (notice Wikimedia Commons), statut juridique, description accessible (le texte alternatif), contexte (notre légende et les pages où le document est montré), transcription quand elle existe.

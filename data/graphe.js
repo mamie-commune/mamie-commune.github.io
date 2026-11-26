@@ -1,0 +1,4547 @@
+// Généré par _src/build.ps1 depuis _src/graphe/graphe.json — ne pas modifier à la main.
+window.GRAPHE = {
+  "_lisezmoi": "Données du Graphe des luttes (graphe/). Voir _src/graphe/LISEZMOI.md. Le build refuse : un lien sans source, sans texte ou sans statut ; un identifiant inconnu ; une référence inconnue ; une page du site qui n'existe pas.",
+  "types": {
+    "personne": {
+      "nom": "Personne",
+      "pluriel": "Personnes",
+      "forme": "rond",
+      "couleur": "#f6d743"
+    },
+    "courant": {
+      "nom": "Courant",
+      "pluriel": "Courants",
+      "forme": "losange",
+      "couleur": "#f02bd2"
+    },
+    "evenement": {
+      "nom": "Événement",
+      "pluriel": "Événements",
+      "forme": "etoile",
+      "couleur": "#ff2d55"
+    },
+    "organisation": {
+      "nom": "Organisation",
+      "pluriel": "Organisations et mouvements",
+      "forme": "carre",
+      "couleur": "#5b8fe0"
+    },
+    "publication": {
+      "nom": "Publication",
+      "pluriel": "Livres et journaux",
+      "forme": "page",
+      "couleur": "#ecebe8"
+    },
+    "concept": {
+      "nom": "Concept",
+      "pluriel": "Concepts",
+      "forme": "hexagone",
+      "couleur": "#7fd08a"
+    },
+    "experience": {
+      "nom": "Expérience",
+      "pluriel": "Expériences révolutionnaires",
+      "forme": "triangle",
+      "couleur": "#d8913f"
+    },
+    "lutte": {
+      "nom": "Lutte",
+      "pluriel": "Luttes sociales",
+      "forme": "poing",
+      "couleur": "#c9a7ff"
+    }
+  },
+  "relations": {
+    "influence": {
+      "nom": "Influence intellectuelle",
+      "sens": "a influencé",
+      "inverse": "a été influencé par"
+    },
+    "collaboration": {
+      "nom": "Collaboration",
+      "sens": "a travaillé avec",
+      "inverse": "a travaillé avec"
+    },
+    "opposition": {
+      "nom": "Opposition",
+      "sens": "s'est opposé à",
+      "inverse": "a rencontré l'opposition de"
+    },
+    "affiliation": {
+      "nom": "Affiliation",
+      "sens": "se rattache à",
+      "inverse": "compte parmi les siens"
+    },
+    "participation": {
+      "nom": "Participation",
+      "sens": "a pris part à",
+      "inverse": "a vu la participation de"
+    },
+    "transmission": {
+      "nom": "Transmission d'une idée",
+      "sens": "a transmis une idée à",
+      "inverse": "a reçu une idée de"
+    },
+    "publication": {
+      "nom": "Publication",
+      "sens": "a publié",
+      "inverse": "a été publié par"
+    },
+    "succession": {
+      "nom": "Succession historique",
+      "sens": "a précédé",
+      "inverse": "a suivi"
+    },
+    "convergence": {
+      "nom": "Convergence politique",
+      "sens": "converge avec",
+      "inverse": "converge avec"
+    },
+    "critique": {
+      "nom": "Critique théorique",
+      "sens": "a critiqué",
+      "inverse": "a été critiqué par"
+    }
+  },
+  "statuts": {
+    "fait": "Fait historique établi",
+    "interpretation": "Interprétation historiographique",
+    "controverse": "Controverse",
+    "hypothese": "Hypothèse"
+  },
+  "periodes": [
+    {
+      "id": "avant-1871",
+      "nom": "Les débuts (jusqu'en 1870)",
+      "de": 1800,
+      "a": 1870
+    },
+    {
+      "id": "1871-1913",
+      "nom": "De la Commune à 1914",
+      "de": 1871,
+      "a": 1913
+    },
+    {
+      "id": "1914-1945",
+      "nom": "Guerres et révolutions (1914-1945)",
+      "de": 1914,
+      "a": 1945
+    },
+    {
+      "id": "1946-1989",
+      "nom": "De l'après-guerre à 1989",
+      "de": 1946,
+      "a": 1989
+    },
+    {
+      "id": "depuis-1990",
+      "nom": "Depuis 1990",
+      "de": 1990,
+      "a": 2100
+    }
+  ],
+  "references": {
+    "maitron": {
+      "auteur": "Jean Maitron",
+      "titre": "Le Mouvement anarchiste en France",
+      "edition": "Maspero, 1975 ; rééd. Gallimard, coll. Tel",
+      "annee": 1975
+    },
+    "manfredonia": {
+      "auteur": "Gaetano Manfredonia",
+      "titre": "Histoire mondiale de l'anarchie",
+      "edition": "Textuel et Arte éditions",
+      "annee": 2014
+    },
+    "jourdain": {
+      "auteur": "Édouard Jourdain",
+      "titre": "L'Anarchisme",
+      "edition": "La Découverte, coll. Repères",
+      "annee": 2013
+    },
+    "jourdain-proudhon": {
+      "auteur": "Édouard Jourdain",
+      "titre": "Proudhon",
+      "edition": "La Découverte, coll. Repères",
+      "annee": 2009
+    },
+    "guerin": {
+      "auteur": "Daniel Guérin",
+      "titre": "L'Anarchisme. De la doctrine à l'action",
+      "edition": "Gallimard",
+      "annee": 1965
+    },
+    "guerin-ndnm": {
+      "auteur": "Daniel Guérin (dir.)",
+      "titre": "Ni Dieu ni maître. Anthologie de l'anarchisme",
+      "edition": "La Découverte",
+      "annee": 1965
+    },
+    "cohn": {
+      "auteur": "Jesse Cohn",
+      "titre": "Anarchocommunism, dans The International Encyclopedia of Revolution and Protest (Immanuel Ness dir.)",
+      "edition": "Wiley-Blackwell",
+      "annee": 2009,
+      "langue": "en"
+    },
+    "grawitz": {
+      "auteur": "Madeleine Grawitz",
+      "titre": "Bakounine",
+      "edition": "Calmann-Lévy",
+      "annee": 1990
+    },
+    "lissagaray": {
+      "auteur": "Prosper-Olivier Lissagaray",
+      "titre": "Histoire de la Commune de 1871",
+      "edition": "1876 ; rééd. La Découverte",
+      "annee": 1876
+    },
+    "deluermoz": {
+      "auteur": "Quentin Deluermoz",
+      "titre": "Commune(s), 1870-1871. Une traversée des mondes au XIXe siècle",
+      "edition": "Seuil",
+      "annee": 2020
+    },
+    "ross-commune": {
+      "auteur": "Kristin Ross",
+      "titre": "L'Imaginaire de la Commune",
+      "edition": "La Fabrique",
+      "annee": 2015
+    },
+    "audin-varlin": {
+      "auteur": "Michèle Audin",
+      "titre": "Eugène Varlin, ouvrier relieur 1839-1871",
+      "edition": "Libertalia",
+      "annee": 2019
+    },
+    "thomas-petroleuses": {
+      "auteur": "Édith Thomas",
+      "titre": "Les Pétroleuses",
+      "edition": "Gallimard",
+      "annee": 1963
+    },
+    "gauthier-michel": {
+      "auteur": "Xavière Gauthier",
+      "titre": "Louise Michel",
+      "edition": "La Martinière",
+      "annee": 2005
+    },
+    "michel-commune": {
+      "auteur": "Louise Michel",
+      "titre": "La Commune, histoire et souvenirs",
+      "edition": "Stock",
+      "annee": 1898
+    },
+    "pelletier-reclus": {
+      "auteur": "Philippe Pelletier",
+      "titre": "Élisée Reclus, géographe de la liberté",
+      "edition": "Atelier de création libertaire",
+      "annee": 2013
+    },
+    "kropotkine-vie": {
+      "auteur": "Pierre Kropotkine",
+      "titre": "Autour d'une vie (Mémoires d'un révolutionnaire)",
+      "edition": "Stock",
+      "annee": 1898
+    },
+    "garcia-kropotkine": {
+      "auteur": "Renaud Garcia",
+      "titre": "Kropotkine",
+      "edition": "Le Passager clandestin",
+      "annee": 2019
+    },
+    "richards-malatesta": {
+      "auteur": "Vernon Richards (dir.)",
+      "titre": "Errico Malatesta, sa vie et ses idées",
+      "edition": "Freedom Press",
+      "annee": 1965
+    },
+    "jones-parsons": {
+      "auteur": "Jacqueline Jones",
+      "titre": "Goddess of Anarchy. The Life and Times of Lucy Parsons",
+      "edition": "Basic Books",
+      "annee": 2017,
+      "langue": "en"
+    },
+    "avrich-decleyre": {
+      "auteur": "Paul Avrich",
+      "titre": "An American Anarchist. The Life of Voltairine de Cleyre",
+      "edition": "Princeton University Press",
+      "annee": 1978,
+      "langue": "en"
+    },
+    "avrich-haymarket": {
+      "auteur": "Paul Avrich",
+      "titre": "The Haymarket Tragedy",
+      "edition": "Princeton University Press",
+      "annee": 1984,
+      "langue": "en"
+    },
+    "goldman-vie": {
+      "auteur": "Emma Goldman",
+      "titre": "Vivre ma vie",
+      "edition": "1931 ; rééd. L'Échappée",
+      "annee": 1931
+    },
+    "goldman-russie": {
+      "auteur": "Emma Goldman",
+      "titre": "My Disillusionment in Russia",
+      "edition": "Doubleday",
+      "annee": 1923,
+      "langue": "en"
+    },
+    "langlais-pouget": {
+      "auteur": "Roger Langlais (prés.)",
+      "titre": "Le Père Peinard, recueil d'articles d'Émile Pouget",
+      "edition": "Galilée",
+      "annee": 1976
+    },
+    "pouget-ad": {
+      "auteur": "Émile Pouget",
+      "titre": "L'Action directe",
+      "edition": "brochure de la CGT",
+      "annee": 1904
+    },
+    "julliard": {
+      "auteur": "Jacques Julliard",
+      "titre": "Fernand Pelloutier et les origines du syndicalisme d'action directe",
+      "edition": "Seuil",
+      "annee": 1971
+    },
+    "pelloutier-bourses": {
+      "auteur": "Fernand Pelloutier",
+      "titre": "Histoire des Bourses du travail",
+      "edition": "Schleicher frères",
+      "annee": 1902
+    },
+    "charte-amiens": {
+      "auteur": "Confédération générale du travail",
+      "titre": "Charte d'Amiens (motion du IXe congrès confédéral)",
+      "edition": "Congrès d'Amiens",
+      "annee": 1906
+    },
+    "davranche-trop-jeunes": {
+      "auteur": "Guillaume Davranche",
+      "titre": "Trop jeunes pour mourir. Ouvriers et révolutionnaires face à la guerre (1909-1914)",
+      "edition": "Libertalia",
+      "annee": 2014
+    },
+    "rocker-as": {
+      "auteur": "Rudolf Rocker",
+      "titre": "Anarcho-Syndicalism",
+      "edition": "Secker and Warburg",
+      "annee": 1938,
+      "langue": "en"
+    },
+    "skirda": {
+      "auteur": "Alexandre Skirda",
+      "titre": "Nestor Makhno, le cosaque libertaire (1888-1934)",
+      "edition": "Éditions de Paris",
+      "annee": 1999
+    },
+    "archinov": {
+      "auteur": "Piotr Archinov",
+      "titre": "Histoire du mouvement makhnoviste (1918-1921)",
+      "edition": "1921 ; rééd. Éditions de la Tête de feuilles",
+      "annee": 1921
+    },
+    "voline": {
+      "auteur": "Voline",
+      "titre": "La Révolution inconnue",
+      "edition": "Les Amis de Voline",
+      "annee": 1947
+    },
+    "mett": {
+      "auteur": "Ida Mett",
+      "titre": "La Commune de Cronstadt",
+      "edition": "Spartacus",
+      "annee": 1938
+    },
+    "malatesta-organisation": {
+      "auteur": "Errico Malatesta",
+      "titre": "Anarchie et organisation (réponse au projet de Plateforme)",
+      "edition": "Il Risveglio",
+      "annee": 1927
+    },
+    "enzensberger": {
+      "auteur": "Hans Magnus Enzensberger",
+      "titre": "Le Bref Été de l'anarchie. La vie et la mort de Buenaventura Durruti",
+      "edition": "Gallimard",
+      "annee": 1975
+    },
+    "mintz": {
+      "auteur": "Frank Mintz",
+      "titre": "L'Autogestion dans l'Espagne révolutionnaire",
+      "edition": "Maspero",
+      "annee": 1976
+    },
+    "leval": {
+      "auteur": "Gaston Leval",
+      "titre": "Espagne libertaire 1936-1939",
+      "edition": "Éditions du Cercle / La Tête de feuilles",
+      "annee": 1971
+    },
+    "bolloten": {
+      "auteur": "Burnett Bolloten",
+      "titre": "La Guerre d'Espagne. Révolution et contre-révolution (1934-1939)",
+      "edition": "Agone",
+      "annee": 2014
+    },
+    "ackelsberg": {
+      "auteur": "Martha Ackelsberg",
+      "titre": "Free Women of Spain. Anarchism and the Struggle for the Emancipation of Women (trad. fr. La Liberté des femmes, Atelier de création libertaire)",
+      "edition": "Indiana University Press",
+      "annee": 1991
+    },
+    "nash": {
+      "auteur": "Mary Nash",
+      "titre": "Mujeres Libres, Espagne 1936-1939",
+      "edition": "La Pensée sauvage",
+      "annee": 1977
+    },
+    "bantigny": {
+      "auteur": "Ludivine Bantigny",
+      "titre": "1968. De grands soirs en petits matins",
+      "edition": "Seuil",
+      "annee": 2018
+    },
+    "ross-68": {
+      "auteur": "Kristin Ross",
+      "titre": "Mai 68 et ses vies ultérieures",
+      "edition": "Complexe",
+      "annee": 2005
+    },
+    "reid-lip": {
+      "auteur": "Donald Reid",
+      "titre": "L'Affaire Lip, 1968-1981",
+      "edition": "Presses universitaires de Rennes",
+      "annee": 2020
+    },
+    "ruault": {
+      "auteur": "Lucile Ruault",
+      "titre": "Le Spéculum, la canule et le miroir. Avorter au MLAC, une histoire",
+      "edition": "ENS Éditions",
+      "annee": 2023
+    },
+    "hocquenghem": {
+      "auteur": "Guy Hocquenghem",
+      "titre": "Le Désir homosexuel",
+      "edition": "Éditions universitaires",
+      "annee": 1972
+    },
+    "guerin-homo": {
+      "auteur": "Daniel Guérin",
+      "titre": "Homosexualité et révolution",
+      "edition": "Le Vent du ch'min",
+      "annee": 1983
+    },
+    "baschet": {
+      "auteur": "Jérôme Baschet",
+      "titre": "La Rébellion zapatiste",
+      "edition": "Flammarion, coll. Champs",
+      "annee": 2005
+    },
+    "bance": {
+      "auteur": "Pierre Bance",
+      "titre": "Un autre futur pour le Kurdistan ? Municipalisme libertaire et confédéralisme démocratique",
+      "edition": "Noir et Rouge",
+      "annee": 2017
+    },
+    "bookchin-municipalisme": {
+      "auteur": "Murray Bookchin",
+      "titre": "Pour un municipalisme libertaire",
+      "edition": "Atelier de création libertaire",
+      "annee": 2003
+    },
+    "wright": {
+      "auteur": "Steve Wright",
+      "titre": "Storming Heaven. Class Composition and Struggle in Italian Autonomist Marxism",
+      "edition": "Pluto Press",
+      "annee": 2002,
+      "langue": "en"
+    },
+    "van-der-steen": {
+      "auteur": "Bart van der Steen, Ask Katzeff et Leendert van Hoogenhuijze (dir.)",
+      "titre": "The City Is Ours. Squatting and Autonomous Movements in Europe from the 1970s to the Present",
+      "edition": "PM Press",
+      "annee": 2014,
+      "langue": "en"
+    },
+    "leonard-ait": {
+      "auteur": "Mathieu Léonard",
+      "titre": "L'Émancipation des travailleurs. Une histoire de la Première Internationale",
+      "edition": "La Fabrique",
+      "annee": 2011
+    },
+    "enckell": {
+      "auteur": "Marianne Enckell",
+      "titre": "La Fédération jurassienne. Les origines de l'anarchisme en Suisse",
+      "edition": "La Cité, 1971 ; rééd. Canevas",
+      "annee": 1971
+    },
+    "marx-gcf": {
+      "auteur": "Karl Marx",
+      "titre": "La Guerre civile en France",
+      "edition": "Conseil général de l'Association internationale des travailleurs",
+      "annee": 1871
+    },
+    "proudhon-propriete": {
+      "auteur": "Pierre-Joseph Proudhon",
+      "titre": "Qu'est-ce que la propriété ?",
+      "edition": "Brocard",
+      "annee": 1840
+    },
+    "proudhon-federatif": {
+      "auteur": "Pierre-Joseph Proudhon",
+      "titre": "Du principe fédératif",
+      "edition": "Dentu",
+      "annee": 1863
+    },
+    "dejacque": {
+      "auteur": "Joseph Déjacque",
+      "titre": "De l'être-humain mâle et femelle. Lettre à P.-J. Proudhon",
+      "edition": "La Nouvelle-Orléans",
+      "annee": 1857
+    },
+    "bakounine-dieu": {
+      "auteur": "Mikhaïl Bakounine",
+      "titre": "Dieu et l'État (éd. Carlo Cafiero et Élisée Reclus)",
+      "edition": "Imprimerie jurassienne",
+      "annee": 1882
+    },
+    "kropotkine-pain": {
+      "auteur": "Pierre Kropotkine",
+      "titre": "La Conquête du pain (préface d'Élisée Reclus)",
+      "edition": "Tresse et Stock",
+      "annee": 1892
+    },
+    "kropotkine-entraide": {
+      "auteur": "Pierre Kropotkine",
+      "titre": "L'Entraide, un facteur de l'évolution",
+      "edition": "Hachette (éd. fr.)",
+      "annee": 1906
+    },
+    "saint-imier": {
+      "auteur": "Congrès de l'Internationale anti-autoritaire",
+      "titre": "Résolutions du congrès de Saint-Imier, 15-16 septembre 1872",
+      "edition": "Bulletin de la Fédération jurassienne",
+      "annee": 1872
+    },
+    "goldman-sexuelle": {
+      "auteur": "Emma Goldman",
+      "titre": "L'Anarchisme et la question sexuelle",
+      "edition": "Mother Earth Publishing",
+      "annee": 1896
+    },
+    "parsons-principes": {
+      "auteur": "Lucy Parsons",
+      "titre": "Les Principes de l'anarchisme",
+      "edition": "conférence publiée",
+      "annee": 1905
+    },
+    "decleyre-ad": {
+      "auteur": "Voltairine de Cleyre",
+      "titre": "De l'action directe",
+      "edition": "Mother Earth Publishing",
+      "annee": 1912
+    }
+  },
+  "noeuds": [
+    {
+      "id": "proudhon",
+      "type": "personne",
+      "nom": "Pierre-Joseph Proudhon",
+      "dates": "1809-1865",
+      "annee": 1840,
+      "fin": 1865,
+      "courants": [
+        "anarchisme",
+        "mutuellisme"
+      ],
+      "resume": "Ouvrier typographe devenu penseur, le premier à se dire « anarchiste » (1840).",
+      "contexte": "Fils d'artisans de Besançon, typographe, Proudhon publie en 1840 Qu'est-ce que la propriété ?, où il se déclare anarchiste. Il défend le mutuellisme (échange égal entre producteurs associés) et le fédéralisme (Du principe fédératif, 1863). Son œuvre est aussi marquée par un antiféminisme violent, critiqué dès son vivant.",
+      "pages": [
+        [
+          "figures/proudhon",
+          "Portrait de Proudhon"
+        ],
+        [
+          "livres/qu-est-ce-que-la-propriete",
+          "Qu'est-ce que la propriété ? (livre complet)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "jourdain-proudhon"
+        },
+        {
+          "ref": "proudhon-propriete"
+        }
+      ]
+    },
+    {
+      "id": "bakounine",
+      "type": "personne",
+      "nom": "Mikhaïl Bakounine",
+      "dates": "1814-1876",
+      "annee": 1848,
+      "fin": 1876,
+      "courants": [
+        "anarchisme",
+        "collectivisme"
+      ],
+      "resume": "Révolutionnaire russe, figure du courant antiautoritaire de la Première Internationale.",
+      "contexte": "Aristocrate russe passé par les barricades de 1848, emprisonné puis évadé de Sibérie, Bakounine rejoint l'Association internationale des travailleurs en 1868. Il y défend le collectivisme et le refus de la conquête du pouvoir d'État, contre Marx. Exclu au congrès de La Haye en 1872, il inspire le congrès de Saint-Imier.",
+      "pages": [
+        [
+          "figures/bakounine",
+          "Portrait de Bakounine"
+        ],
+        [
+          "livres/dieu-et-l-etat",
+          "Dieu et l'État (livre complet)"
+        ],
+        [
+          "bibliotheque/catechisme-revolutionnaire",
+          "Catéchisme révolutionnaire (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "grawitz"
+        },
+        {
+          "ref": "guerin-ndnm"
+        }
+      ]
+    },
+    {
+      "id": "marx",
+      "type": "personne",
+      "nom": "Karl Marx",
+      "dates": "1818-1883",
+      "annee": 1848,
+      "fin": 1883,
+      "courants": [
+        "marxisme"
+      ],
+      "resume": "Philosophe et économiste allemand, auteur du Capital, dirigeant du Conseil général de la Première Internationale.",
+      "contexte": "Marx rédige l'Adresse inaugurale de l'Association internationale des travailleurs (1864) et en anime le Conseil général à Londres. Il défend la constitution du prolétariat en parti politique et la conquête du pouvoir, ce qui l'oppose aux antiautoritaires. En 1871, il publie La Guerre civile en France sur la Commune.",
+      "pages": [
+        [
+          "experiences/commune-de-paris-organisation",
+          "La Commune : comment elle s'organisait (avec la lecture de Marx)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        },
+        {
+          "ref": "marx-gcf"
+        }
+      ]
+    },
+    {
+      "id": "varlin",
+      "type": "personne",
+      "nom": "Eugène Varlin",
+      "dates": "1839-1871",
+      "annee": 1864,
+      "fin": 1871,
+      "courants": [
+        "collectivisme"
+      ],
+      "resume": "Ouvrier relieur, animateur de l'Internationale à Paris, membre de la Commune, fusillé le 28 mai 1871.",
+      "contexte": "Varlin organise les relieurs et les sociétés ouvrières parisiennes, anime la section française de l'Internationale et défend l'égalité des femmes au travail. Élu à la Commune, il est arrêté et tué le 28 mai 1871, dernier jour de la Semaine sanglante.",
+      "pages": [
+        [
+          "experiences/commune-de-paris-decrets-femmes",
+          "La Commune et les femmes"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "audin-varlin"
+        }
+      ]
+    },
+    {
+      "id": "louise-michel",
+      "type": "personne",
+      "nom": "Louise Michel",
+      "dates": "1830-1905",
+      "annee": 1871,
+      "fin": 1905,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Institutrice, combattante de la Commune, déportée en Nouvelle-Calédonie, oratrice anarchiste.",
+      "contexte": "Institutrice à Montmartre, Louise Michel combat pendant la Commune. Déportée en Nouvelle-Calédonie, elle s'y dit devenue anarchiste et soutient les Kanak lors de l'insurrection de 1878. Amnistiée en 1880, elle mène des meetings, des manifestations de chômeuses et chômeurs (1883) et connaît encore la prison.",
+      "pages": [
+        [
+          "figures/louise-michel",
+          "Portrait de Louise Michel"
+        ],
+        [
+          "livres/memoires-louise-michel",
+          "Ses Mémoires (livre complet)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "gauthier-michel"
+        },
+        {
+          "ref": "michel-commune"
+        }
+      ]
+    },
+    {
+      "id": "elisee-reclus",
+      "type": "personne",
+      "nom": "Élisée Reclus",
+      "dates": "1830-1905",
+      "annee": 1871,
+      "fin": 1905,
+      "courants": [
+        "anarchisme",
+        "communisme-libertaire"
+      ],
+      "resume": "Géographe, communard, auteur de la Nouvelle Géographie universelle, compagnon de route de Kropotkine.",
+      "contexte": "Engagé dans la Commune, Reclus est fait prisonnier en avril 1871 ; sa condamnation à la déportation est commuée en bannissement. En Suisse, il milite avec la Fédération jurassienne, publie avec Cafiero Dieu et l'État de Bakounine (1882) et préface La Conquête du pain de Kropotkine (1892).",
+      "pages": [
+        [
+          "figures/elisee-reclus",
+          "Portrait d'Élisée Reclus"
+        ],
+        [
+          "livres/l-anarchie-reclus",
+          "L'Anarchie (livre complet)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "pelletier-reclus"
+        }
+      ]
+    },
+    {
+      "id": "kropotkine",
+      "type": "personne",
+      "nom": "Pierre Kropotkine",
+      "dates": "1842-1921",
+      "annee": 1872,
+      "fin": 1921,
+      "courants": [
+        "anarchisme",
+        "communisme-libertaire"
+      ],
+      "resume": "Géographe russe, principal théoricien du communisme libertaire, auteur de La Conquête du pain et de L'Entraide.",
+      "contexte": "Prince russe devenu révolutionnaire, Kropotkine rencontre en 1872 les horlogers de la Fédération jurassienne, rencontre qu'il raconte comme décisive. Il théorise le communisme libertaire (La Conquête du pain, 1892) et l'entraide comme facteur de l'évolution (1902). En 1916, son soutien aux Alliés le sépare d'une grande partie du mouvement.",
+      "pages": [
+        [
+          "figures/kropotkine",
+          "Portrait de Kropotkine"
+        ],
+        [
+          "livres/la-conquete-du-pain",
+          "La Conquête du pain (livre complet)"
+        ],
+        [
+          "bibliotheque/entraide",
+          "L'Entraide (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "kropotkine-vie"
+        },
+        {
+          "ref": "garcia-kropotkine"
+        }
+      ]
+    },
+    {
+      "id": "malatesta",
+      "type": "personne",
+      "nom": "Errico Malatesta",
+      "dates": "1853-1932",
+      "annee": 1872,
+      "fin": 1932,
+      "courants": [
+        "anarchisme",
+        "communisme-libertaire"
+      ],
+      "resume": "Électricien et révolutionnaire italien, présent à Saint-Imier, critique de la guerre comme de la Plateforme.",
+      "contexte": "Malatesta participe au congrès de Saint-Imier (1872), puis à toute l'histoire du mouvement pendant soixante ans. Il refuse l'Union sacrée en 1914-1916, critique le bolchevisme dès 1919-1923 et répond en 1927 au projet de Plateforme, qu'il juge trop centralisateur.",
+      "pages": [
+        [
+          "figures/malatesta",
+          "Portrait de Malatesta"
+        ],
+        [
+          "livres/l-anarchie-malatesta",
+          "L'Anarchie (livre complet)"
+        ],
+        [
+          "bibliotheque/anarchie-et-organisation",
+          "Anarchie et organisation (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "richards-malatesta"
+        }
+      ]
+    },
+    {
+      "id": "lucy-parsons",
+      "type": "personne",
+      "nom": "Lucy Parsons",
+      "dates": "vers 1851-1942",
+      "annee": 1886,
+      "fin": 1942,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Militante anarchiste et syndicaliste de Chicago, veuve d'un des condamnés de Haymarket, cofondatrice des IWW.",
+      "contexte": "Née dans l’esclavage selon sa biographe Jacqueline Jones, élevée au Texas, Lucy Parsons s'installe à Chicago avec Albert Parsons, pendu en 1887 après l'affaire de Haymarket. Elle parle au congrès fondateur des IWW en 1905 et milite jusqu'à sa mort en 1942.",
+      "pages": [
+        [
+          "figures/lucy-parsons",
+          "Portrait de Lucy Parsons"
+        ],
+        [
+          "bibliotheque/principes-anarchisme-parsons",
+          "Les Principes de l'anarchisme (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "jones-parsons"
+        }
+      ]
+    },
+    {
+      "id": "voltairine-de-cleyre",
+      "type": "personne",
+      "nom": "Voltairine de Cleyre",
+      "dates": "1866-1912",
+      "annee": 1887,
+      "fin": 1912,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Poétesse et oratrice anarchiste américaine, défenseuse d'un « anarchisme sans adjectif ».",
+      "contexte": "De Cleyre raconte que l'exécution des condamnés de Haymarket, en 1887, a fait d'elle une anarchiste. Professeure d'anglais pour les immigrées et immigrés de Philadelphie, elle écrit sur l'action directe (1912) et refuse de figer l'anarchisme dans une seule école économique.",
+      "pages": [
+        [
+          "figures/voltairine-de-cleyre",
+          "Portrait de Voltairine de Cleyre"
+        ],
+        [
+          "bibliotheque/de-l-action-directe",
+          "De l'action directe (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "avrich-decleyre"
+        }
+      ]
+    },
+    {
+      "id": "emma-goldman",
+      "type": "personne",
+      "nom": "Emma Goldman",
+      "dates": "1869-1940",
+      "annee": 1889,
+      "fin": 1940,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Oratrice anarchiste, éditrice de Mother Earth, militante de la contraception, critique de la Russie bolchevique.",
+      "contexte": "Immigrée à New York, Goldman dit dans ses mémoires avoir été gagnée à l'anarchisme par l'affaire de Haymarket. Elle fonde Mother Earth (1906), défend la contraception, est expulsée vers la Russie en 1919, en repart désillusionnée fin 1921, puis soutient la révolution espagnole en 1936.",
+      "pages": [
+        [
+          "figures/emma-goldman",
+          "Portrait d'Emma Goldman"
+        ],
+        [
+          "bibliotheque/anarchisme-et-question-sexuelle",
+          "L'Anarchisme et la question sexuelle (fiche)"
+        ],
+        [
+          "bibliotheque/le-communisme-n-existe-pas-en-urss",
+          "Le communisme n'existe pas en URSS (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "goldman-vie"
+        },
+        {
+          "ref": "goldman-russie"
+        }
+      ]
+    },
+    {
+      "id": "emile-pouget",
+      "type": "personne",
+      "nom": "Émile Pouget",
+      "dates": "1860-1931",
+      "annee": 1889,
+      "fin": 1931,
+      "courants": [
+        "anarchisme",
+        "syndicalisme-revolutionnaire"
+      ],
+      "resume": "Journaliste du Père Peinard, secrétaire adjoint de la CGT, théoricien de l'action directe et du sabotage.",
+      "contexte": "Pouget publie Le Père Peinard à partir de 1889, puis devient l'un des dirigeants de la CGT (secrétaire adjoint de 1901 à 1908). Il défend l'action directe (1904) et le sabotage, et incarne le passage de nombreux anarchistes vers le syndicalisme.",
+      "pages": [
+        [
+          "figures/emile-pouget",
+          "Portrait d'Émile Pouget"
+        ],
+        [
+          "livres/l-action-directe-pouget",
+          "L'Action directe (livre complet)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "langlais-pouget"
+        },
+        {
+          "ref": "maitron"
+        }
+      ]
+    },
+    {
+      "id": "pelloutier",
+      "type": "personne",
+      "nom": "Fernand Pelloutier",
+      "dates": "1867-1901",
+      "annee": 1892,
+      "fin": 1901,
+      "courants": [
+        "syndicalisme-revolutionnaire"
+      ],
+      "resume": "Secrétaire de la Fédération des Bourses du travail, défenseur de la grève générale et de l'entrée des anarchistes dans les syndicats.",
+      "contexte": "Journaliste, Pelloutier défend la grève générale dans les congrès ouvriers des années 1890 et devient en 1895 secrétaire de la Fédération des Bourses du travail. Sa « Lettre aux anarchistes » (1899) appelle les anarchistes à militer dans les syndicats.",
+      "pages": [
+        [
+          "encyclopedie/anarcho-syndicalisme-histoire",
+          "Encyclopédie : l'anarcho-syndicalisme"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "julliard"
+        },
+        {
+          "ref": "pelloutier-bourses"
+        }
+      ]
+    },
+    {
+      "id": "makhno",
+      "type": "personne",
+      "nom": "Nestor Makhno",
+      "dates": "1888-1934",
+      "annee": 1917,
+      "fin": 1934,
+      "courants": [
+        "anarchisme",
+        "communisme-libertaire"
+      ],
+      "resume": "Paysan anarchiste ukrainien, figure de l'armée insurrectionnelle de 1918-1921, coauteur de la Plateforme en exil.",
+      "contexte": "Libéré de prison par la révolution de 1917, Makhno organise la région de Houliaïpole et mène l'armée insurrectionnelle contre les occupants, les Blancs puis les bolcheviks. Exilé à Paris, il signe en 1926 la Plateforme du groupe Dielo Trouda.",
+      "pages": [
+        [
+          "figures/nestor-makhno",
+          "Portrait de Nestor Makhno"
+        ],
+        [
+          "experiences/makhno-histoire",
+          "Histoire de la Makhnovtchina"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "skirda"
+        },
+        {
+          "ref": "archinov"
+        }
+      ]
+    },
+    {
+      "id": "durruti",
+      "type": "personne",
+      "nom": "Buenaventura Durruti",
+      "dates": "1896-1936",
+      "annee": 1920,
+      "fin": 1936,
+      "courants": [
+        "anarcho-syndicalisme",
+        "anarchisme"
+      ],
+      "resume": "Mécanicien et militant de la CNT, à la tête d'une colonne de miliciens en 1936, tué devant Madrid.",
+      "contexte": "Membre du groupe Los Solidarios puis de la FAI, Durruti participe aux combats de Barcelone en juillet 1936 et conduit une colonne de miliciennes et miliciens sur le front d'Aragon. Il meurt à Madrid le 20 novembre 1936 ; les circonstances de sa mort restent discutées.",
+      "pages": [
+        [
+          "figures/durruti",
+          "Portrait de Durruti"
+        ],
+        [
+          "bibliotheque/durruti-n-est-pas-mort",
+          "Durruti n'est pas mort ! (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "enzensberger"
+        }
+      ]
+    },
+    {
+      "id": "lucia-sanchez-saornil",
+      "type": "personne",
+      "nom": "Lucía Sánchez Saornil",
+      "dates": "1895-1970",
+      "annee": 1931,
+      "fin": 1970,
+      "courants": [
+        "anarcho-syndicalisme"
+      ],
+      "resume": "Poétesse, militante de la CNT, cofondatrice de Mujeres Libres en 1936.",
+      "contexte": "Téléphoniste et militante de la CNT, Lucía Sánchez Saornil dénonce dans la presse libertaire le sexisme de ses propres camarades. En 1936, elle fonde avec Mercedes Comaposada et Amparo Poch y Gascón l'organisation Mujeres Libres.",
+      "pages": [
+        [
+          "figures/lucia-sanchez-saornil",
+          "Portrait de Lucía Sánchez Saornil"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "ackelsberg"
+        },
+        {
+          "ref": "nash"
+        }
+      ]
+    },
+    {
+      "id": "rudolf-rocker",
+      "type": "personne",
+      "nom": "Rudolf Rocker",
+      "dates": "1873-1958",
+      "annee": 1898,
+      "fin": 1958,
+      "courants": [
+        "anarcho-syndicalisme"
+      ],
+      "resume": "Relieur allemand, militant parmi les ouvrières et ouvriers juifs de Londres, théoricien de l'anarcho-syndicalisme.",
+      "contexte": "Rocker milite à Londres parmi les travailleureuses juifs de l'East End, puis en Allemagne au sein de la FAUD. Il participe à la fondation de l'AIT de Berlin en 1922 et publie en 1938 Anarcho-Syndicalism, exposé classique du courant.",
+      "pages": [
+        [
+          "figures/rudolf-rocker",
+          "Portrait de Rudolf Rocker"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "rocker-as"
+        }
+      ]
+    },
+    {
+      "id": "murray-bookchin",
+      "type": "personne",
+      "nom": "Murray Bookchin",
+      "dates": "1921-2006",
+      "annee": 1970,
+      "fin": 2006,
+      "courants": [
+        "communalisme-libertaire"
+      ],
+      "resume": "Penseur américain de l'écologie sociale et du municipalisme libertaire, puis du « communalisme ».",
+      "contexte": "Venu du mouvement ouvrier communiste puis de l'anarchisme, Bookchin lie domination des humains et destruction de la nature (écologie sociale) et propose la démocratie directe des assemblées municipales fédérées. Il finit par prendre ses distances avec l'étiquette anarchiste.",
+      "pages": [
+        [
+          "figures/murray-bookchin",
+          "Portrait de Murray Bookchin"
+        ],
+        [
+          "universite/ecologie-sociale",
+          "Parcours : l'écologie sociale"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bookchin-municipalisme"
+        },
+        {
+          "ref": "bance"
+        }
+      ]
+    },
+    {
+      "id": "anarchisme",
+      "type": "courant",
+      "nom": "Anarchisme",
+      "dates": "depuis les années 1840",
+      "annee": 1840,
+      "courants": [],
+      "resume": "Famille d'idées et de mouvements qui refuse l'État, le capitalisme et toute domination, et veut une société organisée de bas en haut.",
+      "contexte": "Le mot est revendiqué par Proudhon en 1840. Le mouvement anarchiste naît surtout de la scission de la Première Internationale (1872). Il n'a ni doctrine officielle ni texte faisant autorité : il regroupe des courants divers (mutuellisme, collectivisme, communisme libertaire, individualisme, syndicalisme).",
+      "pages": [
+        [
+          "encyclopedie/anarchisme-histoire",
+          "Encyclopédie : l'anarchisme, histoire"
+        ],
+        [
+          "encyclopedie/anarchisme-idees",
+          "Encyclopédie : l'anarchisme, idées"
+        ],
+        [
+          "universite/introduction-anarchisme",
+          "Parcours : introduction à l'anarchisme"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "jourdain"
+        },
+        {
+          "ref": "manfredonia"
+        }
+      ]
+    },
+    {
+      "id": "mutuellisme",
+      "type": "courant",
+      "nom": "Mutuellisme",
+      "dates": "années 1840-1870",
+      "annee": 1846,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Courant issu de Proudhon : échange égal entre producteurs associés, crédit gratuit, contrats librement passés.",
+      "contexte": "Le mutuellisme inspire une partie des ouvrières et ouvriers français des années 1860, qui participent à la fondation de l'Internationale en 1864. Il recule ensuite devant le collectivisme dans l'Internationale (congrès de Bâle, 1869).",
+      "pages": [
+        [
+          "universite/entraide-mutualisme",
+          "Parcours : entraide et mutualisme"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "jourdain-proudhon"
+        },
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "id": "collectivisme",
+      "type": "courant",
+      "nom": "Collectivisme",
+      "dates": "années 1860-1880",
+      "annee": 1868,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Propriété collective de la terre et des instruments de travail, répartition selon le travail fourni.",
+      "contexte": "Défendu dans l'Internationale par Bakounine et les fédérations antiautoritaires, le collectivisme l'emporte au congrès de Bâle (1869) sur la question de la propriété collective du sol. Au tournant des années 1880, une partie du mouvement passe au communisme libertaire, qui veut aussi répartir selon les besoins.",
+      "pages": [
+        [
+          "encyclopedie/communisme-libertaire-histoire",
+          "Encyclopédie : du collectivisme au communisme libertaire"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "guerin"
+        },
+        {
+          "ref": "cohn"
+        }
+      ]
+    },
+    {
+      "id": "communisme-libertaire",
+      "type": "courant",
+      "nom": "Communisme libertaire (anarcho-communisme)",
+      "dates": "depuis 1876-1880",
+      "annee": 1880,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "« De chacun selon ses forces, à chacun selon ses besoins », sans État : la mise en commun de la production et de la consommation.",
+      "contexte": "Formulé dans la Fédération italienne puis adopté par la Fédération jurassienne en 1880, le communisme libertaire est théorisé par Kropotkine. Il refuse le salariat et l'État de transition et inspire largement les anarchistes espagnols.",
+      "pages": [
+        [
+          "encyclopedie/communisme-libertaire-idees",
+          "Encyclopédie : le communisme libertaire, idées"
+        ],
+        [
+          "universite/communisme-libertaire",
+          "Parcours : le communisme libertaire"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "cohn"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "id": "syndicalisme-revolutionnaire",
+      "type": "courant",
+      "nom": "Syndicalisme révolutionnaire",
+      "dates": "années 1890-1914",
+      "annee": 1895,
+      "courants": [],
+      "resume": "Le syndicat comme outil de lutte quotidienne et de transformation sociale, indépendant des partis, par l'action directe et la grève générale.",
+      "contexte": "En France, il domine la CGT d'avant 1914 et s'exprime dans la Charte d'Amiens (1906). Il rassemble anarchistes et non-anarchistes. Il inspire aussi les IWW aux États-Unis et, plus tard, l'anarcho-syndicalisme.",
+      "pages": [
+        [
+          "experiences/action-directe-pratique",
+          "L'action directe, de la CGT aux IWW"
+        ],
+        [
+          "universite/histoire-ouvriere",
+          "Parcours : histoire ouvrière"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "julliard"
+        },
+        {
+          "ref": "maitron"
+        }
+      ]
+    },
+    {
+      "id": "anarcho-syndicalisme",
+      "type": "courant",
+      "nom": "Anarcho-syndicalisme",
+      "dates": "depuis les années 1910-1920",
+      "annee": 1922,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Le syndicat révolutionnaire comme moyen de lutte et comme base de la société future, sur des principes explicitement anarchistes.",
+      "contexte": "Il se distingue du syndicalisme révolutionnaire par une référence explicite à l'anarchisme. L'Association internationale des travailleurs fondée à Berlin en 1922 rassemble ces organisations ; la CNT espagnole en est la plus importante.",
+      "pages": [
+        [
+          "encyclopedie/anarcho-syndicalisme-idees",
+          "Encyclopédie : l'anarcho-syndicalisme, idées"
+        ],
+        [
+          "universite/anarchosyndicalisme",
+          "Parcours : l'anarcho-syndicalisme"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "rocker-as"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "id": "marxisme",
+      "type": "courant",
+      "nom": "Marxisme",
+      "dates": "depuis les années 1840",
+      "annee": 1848,
+      "courants": [],
+      "resume": "Analyse de l'histoire par la lutte des classes et du capitalisme par l'exploitation ; pour Marx, le prolétariat doit s'organiser en parti et conquérir le pouvoir politique.",
+      "contexte": "Le marxisme n'est pas un bloc : social-démocratie, léninisme, communisme de conseils s'en réclament et s'opposent entre eux. Son conflit avec les anarchistes porte surtout sur l'État, le parti et la transition.",
+      "pages": [
+        [
+          "experiences/makhno-critique-bolcheviks",
+          "Les libertaires face aux bolcheviks"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        },
+        {
+          "ref": "guerin"
+        }
+      ]
+    },
+    {
+      "id": "communalisme-libertaire",
+      "type": "courant",
+      "nom": "Communalisme libertaire",
+      "dates": "depuis les années 1980",
+      "annee": 1985,
+      "courants": [],
+      "resume": "Démocratie directe des assemblées de quartier et de village, fédérées entre elles, contre l'État-nation.",
+      "contexte": "Formulé par Murray Bookchin (municipalisme libertaire), le courant reprend une longue tradition communaliste (Commune de 1871, fédéralisme proudhonien). Il a inspiré le confédéralisme démocratique d'Abdullah Öcalan et l'organisation du Rojava.",
+      "pages": [
+        [
+          "encyclopedie/communalisme-libertaire-histoire",
+          "Encyclopédie : le communalisme libertaire"
+        ],
+        [
+          "universite/communalisme-libertaire",
+          "Parcours : le communalisme libertaire"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bookchin-municipalisme"
+        },
+        {
+          "ref": "bance"
+        }
+      ]
+    },
+    {
+      "id": "mouvement-autonome",
+      "type": "courant",
+      "nom": "Mouvement autonome",
+      "dates": "années 1970-1990",
+      "annee": 1973,
+      "courants": [],
+      "resume": "Mouvements qui refusent les partis et les syndicats institutionnels et défendent l'auto-organisation des luttes et des lieux de vie.",
+      "contexte": "Né en Italie (Autonomia) dans le prolongement de l'opéraïsme, il se diffuse en Allemagne, en France et ailleurs à travers les squats, les centres sociaux et les luttes urbaines. Il emprunte autant au marxisme hétérodoxe qu'aux pratiques libertaires.",
+      "pages": [
+        [
+          "encyclopedie/mouvement-autonome-histoire",
+          "Encyclopédie : le mouvement autonome"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "wright"
+        },
+        {
+          "ref": "van-der-steen"
+        }
+      ]
+    },
+    {
+      "id": "commune-de-paris",
+      "type": "evenement",
+      "nom": "Commune de Paris",
+      "dates": "18 mars - 28 mai 1871",
+      "annee": 1871,
+      "courants": [],
+      "resume": "Soixante-douze jours d'autogouvernement populaire à Paris, écrasés pendant la Semaine sanglante.",
+      "contexte": "Après la défaite contre la Prusse, Paris se soulève le 18 mars 1871. Le Conseil de la Commune, élu, prend des mesures sociales et laïques ; les élus sont responsables devant leurs électeurices. Le 19 avril, sa Déclaration au peuple français propose une France fédérée de communes autonomes. L'armée versaillaise reprend Paris du 21 au 28 mai ; le nombre de morts reste discuté.",
+      "pages": [
+        [
+          "experiences/commune-de-paris-histoire",
+          "La Commune : l'histoire"
+        ],
+        [
+          "experiences/commune-de-paris-organisation",
+          "La Commune : comment elle s'organisait"
+        ],
+        [
+          "universite/communes-revolutionnaires",
+          "Parcours : les communes révolutionnaires"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "lissagaray"
+        },
+        {
+          "ref": "deluermoz"
+        },
+        {
+          "ref": "ross-commune"
+        }
+      ]
+    },
+    {
+      "id": "congres-la-haye",
+      "type": "evenement",
+      "nom": "Congrès de La Haye de l'Internationale",
+      "dates": "2-7 septembre 1872",
+      "annee": 1872,
+      "courants": [],
+      "resume": "Le congrès où la majorité favorable au Conseil général exclut Bakounine et James Guillaume.",
+      "contexte": "Le congrès adopte la constitution du prolétariat en parti politique et renforce le Conseil général, qui est transféré à New York. Bakounine et Guillaume sont exclus. C'est la rupture entre « autoritaires » et « antiautoritaires ».",
+      "pages": [
+        [
+          "encyclopedie/anarchisme-histoire",
+          "Encyclopédie : l'anarchisme, histoire"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        },
+        {
+          "ref": "enckell"
+        }
+      ]
+    },
+    {
+      "id": "congres-saint-imier",
+      "type": "evenement",
+      "nom": "Congrès de Saint-Imier",
+      "dates": "15-16 septembre 1872",
+      "annee": 1872,
+      "courants": [],
+      "resume": "Congrès fondateur de l'Internationale antiautoritaire, souvent considéré comme l'acte de naissance du mouvement anarchiste.",
+      "contexte": "Réunies dans le Jura suisse juste après La Haye, des fédérations (italienne, espagnole, jurassienne, sections françaises et américaines) refusent les décisions du congrès. Leurs résolutions affirment que « la destruction de tout pouvoir politique est le premier devoir du prolétariat ».",
+      "pages": [
+        [
+          "bibliotheque/congres-de-saint-imier",
+          "Résolutions du congrès de Saint-Imier (fiche)"
+        ],
+        [
+          "livres/trois-conferences-saint-imier",
+          "Trois conférences faites aux ouvriers du val de Saint-Imier"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "saint-imier"
+        },
+        {
+          "ref": "enckell"
+        }
+      ]
+    },
+    {
+      "id": "haymarket",
+      "type": "evenement",
+      "nom": "Affaire de Haymarket",
+      "dates": "4 mai 1886 - 11 novembre 1887",
+      "annee": 1886,
+      "courants": [],
+      "resume": "Une bombe pendant un meeting pour la journée de huit heures à Chicago, puis la condamnation de huit anarchistes, dont quatre pendus.",
+      "contexte": "Le 4 mai 1886, une bombe éclate pendant un rassemblement sur Haymarket Square, au milieu de la grève pour les huit heures. Huit anarchistes sont condamnés sans preuve de leur participation à l'attentat ; quatre sont pendus le 11 novembre 1887. L'auteur de la bombe n'a jamais été identifié avec certitude.",
+      "pages": [
+        [
+          "bibliotheque/le-1er-mai",
+          "Le 1er Mai, par Émile Pouget (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "avrich-haymarket"
+        }
+      ]
+    },
+    {
+      "id": "charte-amiens",
+      "type": "evenement",
+      "nom": "Charte d'Amiens",
+      "dates": "octobre 1906",
+      "annee": 1906,
+      "courants": [],
+      "resume": "Motion du congrès de la CGT qui affirme l'indépendance du syndicat envers les partis et la double tâche du syndicalisme.",
+      "contexte": "Le congrès d'Amiens adopte une motion qui fixe au syndicalisme une tâche quotidienne (améliorer la condition ouvrière) et une tâche d'avenir (l'émancipation intégrale par l'expropriation capitaliste, avec la grève générale comme moyen), en dehors de toute école politique.",
+      "pages": [
+        [
+          "encyclopedie/anarcho-syndicalisme-heritages",
+          "Encyclopédie : héritages de l'anarcho-syndicalisme"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "charte-amiens"
+        },
+        {
+          "ref": "julliard"
+        }
+      ]
+    },
+    {
+      "id": "revolution-russe",
+      "type": "evenement",
+      "nom": "Révolution russe",
+      "dates": "1917-1921",
+      "annee": 1917,
+      "courants": [],
+      "resume": "De la chute du tsar (février 1917) à la prise du pouvoir par les bolcheviks (octobre) et à la guerre civile.",
+      "contexte": "Soviets et comités d'usine naissent en 1917. Les bolcheviks prennent le pouvoir en octobre et concentrent progressivement l'autorité dans le parti et l'État. Les anarchistes, d'abord souvent alliés, sont réprimés à partir de 1918.",
+      "pages": [
+        [
+          "experiences/makhno-critique-bolcheviks",
+          "Les libertaires face aux bolcheviks"
+        ],
+        [
+          "bibliotheque/bolchevisme-et-anarchisme",
+          "Bolchevisme et anarchisme, de Malatesta (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "voline"
+        },
+        {
+          "ref": "goldman-russie"
+        }
+      ]
+    },
+    {
+      "id": "kronstadt",
+      "type": "evenement",
+      "nom": "Révolte de Kronstadt",
+      "dates": "mars 1921",
+      "annee": 1921,
+      "courants": [],
+      "resume": "Les marins de la base navale réclament des soviets librement réélus ; l'Armée rouge écrase la révolte.",
+      "contexte": "Après les grèves de Petrograd, les marins de Kronstadt adoptent une résolution demandant des soviets réélus au vote secret et la liberté de parole pour les partis socialistes et les anarchistes. Le pouvoir bolchevik donne l'assaut et réprime durement.",
+      "pages": [
+        [
+          "experiences/makhno-critique-bolcheviks",
+          "Les libertaires face aux bolcheviks"
+        ],
+        [
+          "bibliotheque/orage-a-petrograd",
+          "Orage à Petrograd (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "mett"
+        },
+        {
+          "ref": "voline"
+        }
+      ]
+    },
+    {
+      "id": "revolution-espagnole",
+      "type": "evenement",
+      "nom": "Révolution espagnole",
+      "dates": "juillet 1936 - 1939",
+      "annee": 1936,
+      "courants": [],
+      "resume": "En réponse au coup d'État militaire, une révolution sociale : collectivisations, milices, comités.",
+      "contexte": "Le 19 juillet 1936, la CNT et d'autres organisations ouvrières mettent en échec le soulèvement militaire à Barcelone. Usines et terres sont collectivisées dans une partie de la Catalogne, de l'Aragon et du Levant. La participation de la CNT au gouvernement, la militarisation des milices et les journées de mai 1937 font encore débat.",
+      "pages": [
+        [
+          "experiences/espagne-1936-histoire",
+          "Espagne 1936 : l'histoire"
+        ],
+        [
+          "experiences/espagne-1936-milices-debats",
+          "Espagne 1936 : milices et débats"
+        ],
+        [
+          "universite/histoire-cnt",
+          "Parcours : histoire de la CNT"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bolloten"
+        },
+        {
+          "ref": "mintz"
+        }
+      ]
+    },
+    {
+      "id": "mai-68",
+      "type": "evenement",
+      "nom": "Mai 68",
+      "dates": "mai-juin 1968",
+      "annee": 1968,
+      "courants": [],
+      "resume": "Révolte étudiante et plus grande grève générale de l'histoire de France.",
+      "contexte": "Partie des universités, la révolte gagne les usines : des millions de grévistes occupent leurs lieux de travail. Des comités d'action naissent dans les quartiers. Les historiennes et historiens récents insistent sur la dimension ouvrière du mouvement, longtemps effacée.",
+      "pages": [
+        [
+          "experiences/mai-68-histoire",
+          "Mai 68 : l'histoire"
+        ],
+        [
+          "experiences/mai-68-organisation",
+          "Mai 68 : comités et assemblées"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bantigny"
+        },
+        {
+          "ref": "ross-68"
+        }
+      ]
+    },
+    {
+      "id": "stonewall",
+      "type": "evenement",
+      "nom": "Émeutes de Stonewall",
+      "dates": "28 juin 1969",
+      "annee": 1969,
+      "courants": [],
+      "resume": "À New York, la clientèle d'un bar gay résiste à une descente de police : naissance du mouvement de libération homosexuelle.",
+      "contexte": "Plusieurs nuits d'émeutes suivent la descente au Stonewall Inn. Le Gay Liberation Front naît dans la foulée ; en France, le FHAR apparaît en 1971.",
+      "pages": [
+        [
+          "experiences/stonewall-fhar-histoire",
+          "De Stonewall au FHAR"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "hocquenghem"
+        },
+        {
+          "ref": "guerin-homo"
+        }
+      ]
+    },
+    {
+      "id": "ait",
+      "type": "organisation",
+      "nom": "Association internationale des travailleurs (Première Internationale)",
+      "dates": "1864-1876",
+      "annee": 1864,
+      "fin": 1876,
+      "courants": [],
+      "resume": "Première organisation internationale ouvrière, fondée à Londres ; lieu des grands débats entre mutuellistes, collectivistes et marxistes.",
+      "contexte": "Fondée le 28 septembre 1864, l'AIT rassemble syndicats et sociétés ouvrières de plusieurs pays. Ses congrès débattent de la propriété, de la grève et de la politique. Le conflit entre le Conseil général et les fédérations antiautoritaires aboutit à la scission de 1872.",
+      "pages": [
+        [
+          "universite/internationalisme",
+          "Parcours : l'internationalisme"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "id": "federation-jurassienne",
+      "type": "organisation",
+      "nom": "Fédération jurassienne",
+      "dates": "1871-1880",
+      "annee": 1871,
+      "fin": 1880,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Fédération de l'Internationale dans le Jura suisse, animée par des horlogers, foyer de l'anarchisme naissant.",
+      "contexte": "Née en 1871 avec la circulaire de Sonvilier contre la centralisation du Conseil général, elle accueille le congrès de Saint-Imier. Kropotkine y découvre en 1872 une organisation sans chefs ; elle adopte le communisme libertaire en 1880.",
+      "pages": [
+        [
+          "livres/trois-conferences-saint-imier",
+          "Trois conférences faites aux ouvriers du val de Saint-Imier"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "enckell"
+        },
+        {
+          "ref": "kropotkine-vie"
+        }
+      ]
+    },
+    {
+      "id": "cgt",
+      "type": "organisation",
+      "nom": "Confédération générale du travail (CGT)",
+      "dates": "depuis 1895",
+      "annee": 1895,
+      "courants": [],
+      "resume": "Confédération syndicale française fondée à Limoges ; syndicaliste révolutionnaire jusqu'en 1914.",
+      "contexte": "Fondée en 1895, la CGT s'unit en 1902 avec la Fédération des Bourses du travail. Jusqu'en 1914, elle est dominée par les syndicalistes révolutionnaires (Griffuelhes, Pouget) et lance en 1906 une grande campagne pour la journée de huit heures.",
+      "pages": [
+        [
+          "experiences/action-directe-pratique",
+          "L'action directe, de la CGT aux IWW"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "julliard"
+        },
+        {
+          "ref": "davranche-trop-jeunes"
+        }
+      ]
+    },
+    {
+      "id": "iww",
+      "type": "organisation",
+      "nom": "Industrial Workers of the World (IWW)",
+      "dates": "depuis 1905",
+      "annee": 1905,
+      "courants": [],
+      "resume": "Syndicat révolutionnaire américain fondé à Chicago, ouvert aux non-qualifiés, aux immigrés, aux femmes et aux Noirs.",
+      "contexte": "Fondés en juin 1905, les IWW veulent « un seul grand syndicat » de toutes et tous les travailleureuses et mènent de grandes grèves (Lawrence, 1912). Ils pratiquent l'action directe et sont durement réprimés pendant la Première Guerre mondiale.",
+      "pages": [
+        [
+          "experiences/action-directe-pratique",
+          "L'action directe, de la CGT aux IWW"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "jones-parsons"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "id": "cnt",
+      "type": "organisation",
+      "nom": "Confédération nationale du travail (CNT, Espagne)",
+      "dates": "depuis 1910",
+      "annee": 1910,
+      "courants": [
+        "anarcho-syndicalisme"
+      ],
+      "resume": "Confédération anarcho-syndicaliste espagnole, force principale de la révolution de 1936.",
+      "contexte": "Fondée à Barcelone en 1910, la CNT organise des syndicats uniques d'industrie sans permanents payés. Elle compte plus d'un million d'adhérentes et adhérents en 1936, et quatre de ses membres entrent au gouvernement républicain en novembre 1936.",
+      "pages": [
+        [
+          "universite/histoire-cnt",
+          "Parcours : histoire de la CNT"
+        ],
+        [
+          "experiences/espagne-1936-organisation",
+          "Espagne 1936 : comment ça s'organisait"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bolloten"
+        },
+        {
+          "ref": "mintz"
+        }
+      ]
+    },
+    {
+      "id": "fai",
+      "type": "organisation",
+      "nom": "Fédération anarchiste ibérique (FAI)",
+      "dates": "depuis 1927",
+      "annee": 1927,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Fédération de groupes anarchistes espagnols et portugais, chargée de garder la CNT sur une ligne anarchiste.",
+      "contexte": "Fondée à Valence en 1927 dans la clandestinité, la FAI regroupe des groupes d'affinité. Son rôle dans la CNT est discuté : garde-fou révolutionnaire pour les uns, avant-garde pour d'autres.",
+      "pages": [
+        [
+          "experiences/espagne-1936-histoire",
+          "Espagne 1936 : l'histoire"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bolloten"
+        },
+        {
+          "ref": "manfredonia"
+        }
+      ]
+    },
+    {
+      "id": "mujeres-libres",
+      "type": "organisation",
+      "nom": "Mujeres Libres",
+      "dates": "1936-1939",
+      "annee": 1936,
+      "fin": 1939,
+      "courants": [
+        "anarcho-syndicalisme"
+      ],
+      "resume": "Organisation de femmes anarchistes espagnoles : alphabétisation, formation professionnelle, lutte contre la subordination des femmes, y compris dans le mouvement.",
+      "contexte": "Fondée en 1936, Mujeres Libres revendique jusqu'à environ 20 000 membres. Elle refuse l'étiquette « féministe », qu'elle associe au féminisme bourgeois, et demande en 1938 à être reconnue comme branche autonome du mouvement libertaire, ce que la CNT, la FAI et les Jeunesses libertaires refusent.",
+      "pages": [
+        [
+          "figures/lucia-sanchez-saornil",
+          "Portrait de Lucía Sánchez Saornil"
+        ],
+        [
+          "universite/feminisme-anarchisme",
+          "Parcours : féminisme et anarchisme"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "ackelsberg"
+        },
+        {
+          "ref": "nash"
+        }
+      ]
+    },
+    {
+      "id": "autonomia",
+      "type": "organisation",
+      "nom": "Autonomia (Italie)",
+      "dates": "1973-1979",
+      "annee": 1973,
+      "fin": 1979,
+      "courants": [
+        "mouvement-autonome"
+      ],
+      "resume": "Nébuleuse de collectifs italiens issue de l'opéraïsme, au cœur du mouvement de 1977.",
+      "contexte": "Après la dissolution de Potere Operaio (1973), l'« Autonomie ouvrière » rassemble collectifs d'usine, de quartier et d'étudiantes et étudiants. Le mouvement de 1977 en est le sommet ; la répression massive commence avec les arrestations du 7 avril 1979.",
+      "pages": [
+        [
+          "encyclopedie/mouvement-autonome-histoire",
+          "Encyclopédie : le mouvement autonome"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "wright"
+        }
+      ]
+    },
+    {
+      "id": "mlac",
+      "type": "organisation",
+      "nom": "MLAC (Mouvement pour la liberté de l'avortement et de la contraception)",
+      "dates": "1973-1975",
+      "annee": 1973,
+      "fin": 1975,
+      "courants": [],
+      "resume": "Mouvement qui pratique et apprend à pratiquer des avortements, en désobéissance à la loi, jusqu'à la loi Veil.",
+      "contexte": "Fondé en avril 1973, le MLAC rassemble femmes, militantes et militants, médecins. Ses groupes locaux pratiquent la méthode par aspiration et organisent des voyages vers les pays où l'avortement est légal. Ses débats portent sur le pouvoir médical et l'autogestion des corps.",
+      "pages": [
+        [
+          "experiences/mlac-histoire",
+          "Le MLAC : avorter en autogestion"
+        ],
+        [
+          "experiences/mlac-debats",
+          "Le MLAC : débats"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "ruault"
+        }
+      ]
+    },
+    {
+      "id": "propriete",
+      "type": "publication",
+      "nom": "Qu'est-ce que la propriété ?",
+      "dates": "1840",
+      "annee": 1840,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Le livre de Proudhon qui répond « la propriété, c'est le vol » et où il se dit anarchiste.",
+      "contexte": "Proudhon y attaque la propriété qui permet de vivre du travail d'autrui (rente, intérêt, profit), tout en défendant la possession par celles et ceux qui travaillent.",
+      "pages": [
+        [
+          "livres/qu-est-ce-que-la-propriete",
+          "Le livre complet"
+        ],
+        [
+          "bibliotheque/qu-est-ce-que-la-propriete",
+          "La fiche de lecture"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "proudhon-propriete"
+        },
+        {
+          "ref": "jourdain-proudhon"
+        }
+      ]
+    },
+    {
+      "id": "guerre-civile-france",
+      "type": "publication",
+      "nom": "La Guerre civile en France",
+      "dates": "1871",
+      "annee": 1871,
+      "courants": [
+        "marxisme"
+      ],
+      "resume": "L'adresse de Marx sur la Commune, publiée par le Conseil général de l'Internationale juste après la Semaine sanglante.",
+      "contexte": "Marx y voit dans la Commune « la forme politique enfin trouvée » de l'émancipation du travail. Ce texte sera relu de façons opposées par les marxistes et par les libertaires.",
+      "pages": [
+        [
+          "experiences/commune-de-paris-organisation",
+          "La Commune : comment elle s'organisait"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "marx-gcf"
+        }
+      ]
+    },
+    {
+      "id": "dieu-et-l-etat",
+      "type": "publication",
+      "nom": "Dieu et l'État",
+      "dates": "1882 (posthume)",
+      "annee": 1882,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Texte de Bakounine contre l'autorité religieuse et politique, publié après sa mort par Cafiero et Reclus.",
+      "contexte": "Fragment d'un ouvrage inachevé (1870-1871), édité à Genève en 1882. Bakounine y lie la critique de Dieu, de l'État et de toute autorité qui prétend s'imposer au nom d'une vérité supérieure.",
+      "pages": [
+        [
+          "livres/dieu-et-l-etat",
+          "Le livre complet"
+        ],
+        [
+          "bibliotheque/dieu-et-l-etat",
+          "La fiche de lecture"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bakounine-dieu"
+        },
+        {
+          "ref": "grawitz"
+        }
+      ]
+    },
+    {
+      "id": "conquete-du-pain",
+      "type": "publication",
+      "nom": "La Conquête du pain",
+      "dates": "1892",
+      "annee": 1892,
+      "courants": [
+        "communisme-libertaire"
+      ],
+      "resume": "Le livre où Kropotkine décrit comment une révolution communiste libertaire pourrait nourrir, loger et vêtir tout le monde.",
+      "contexte": "Recueil d'articles parus dans Le Révolté et La Révolte, préfacé par Élisée Reclus. Kropotkine y défend la « prise au tas » et le refus du salariat, y compris sous forme de bons de travail.",
+      "pages": [
+        [
+          "livres/la-conquete-du-pain",
+          "Le livre complet"
+        ],
+        [
+          "bibliotheque/la-conquete-du-pain",
+          "La fiche de lecture"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "kropotkine-pain"
+        }
+      ]
+    },
+    {
+      "id": "pere-peinard",
+      "type": "publication",
+      "nom": "Le Père Peinard",
+      "dates": "1889-1902 (avec interruptions)",
+      "annee": 1889,
+      "fin": 1902,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Journal anarchiste d'Émile Pouget, écrit dans la langue des faubourgs.",
+      "contexte": "Interdit et poursuivi lors des « lois scélérates » (1893-1894), il reparaît ensuite. Il accompagne l'évolution de Pouget vers le syndicalisme et popularise le boycott et le sabotage.",
+      "pages": [
+        [
+          "figures/emile-pouget",
+          "Portrait d'Émile Pouget"
+        ],
+        [
+          "bibliotheque/lois-scelerates",
+          "Les lois scélérates (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "langlais-pouget"
+        },
+        {
+          "ref": "maitron"
+        }
+      ]
+    },
+    {
+      "id": "entraide",
+      "type": "publication",
+      "nom": "L'Entraide, un facteur de l'évolution",
+      "dates": "1902",
+      "annee": 1902,
+      "courants": [
+        "communisme-libertaire"
+      ],
+      "resume": "Kropotkine montre, contre le darwinisme social, que la coopération est un facteur décisif de l'évolution et de l'histoire.",
+      "contexte": "Écrit en réponse à Thomas Huxley, le livre parcourt les sociétés animales et humaines (villages, guildes, villes libres du Moyen Âge, syndicats). Il est paru en anglais en 1902 et en français en 1906.",
+      "pages": [
+        [
+          "bibliotheque/entraide",
+          "La fiche de lecture"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "kropotkine-entraide"
+        },
+        {
+          "ref": "garcia-kropotkine"
+        }
+      ]
+    },
+    {
+      "id": "mother-earth",
+      "type": "publication",
+      "nom": "Mother Earth",
+      "dates": "1906-1917",
+      "annee": 1906,
+      "fin": 1917,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "Revue anarchiste fondée et dirigée par Emma Goldman à New York.",
+      "contexte": "La revue mêle politique, littérature, contraception et antimilitarisme. Elle est interdite en 1917 pour son opposition à la conscription ; Goldman et Berkman sont emprisonnés.",
+      "pages": [
+        [
+          "figures/emma-goldman",
+          "Portrait d'Emma Goldman"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "goldman-vie"
+        }
+      ]
+    },
+    {
+      "id": "plateforme",
+      "type": "publication",
+      "nom": "La Plateforme (Plate-forme d'organisation de l'Union générale des anarchistes)",
+      "dates": "1926",
+      "annee": 1926,
+      "courants": [
+        "communisme-libertaire"
+      ],
+      "resume": "Projet d'organisation écrit à Paris par le groupe Dielo Trouda (Archinov, Makhno…) : unité théorique et tactique, responsabilité collective.",
+      "contexte": "Tirant les leçons de la défaite en Russie, ses autrices et auteurs proposent une organisation anarchiste structurée. Le texte est critiqué par Malatesta, Voline et d'autres, qui y voient un risque de centralisme. Le débat entre « plateformistes » et « synthésistes » dure encore.",
+      "pages": [
+        [
+          "bibliotheque/anarchie-et-organisation",
+          "Anarchie et organisation, la réponse de Malatesta (fiche)"
+        ],
+        [
+          "experiences/makhno-organisation",
+          "La Makhnovtchina : organisation"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "skirda"
+        },
+        {
+          "ref": "malatesta-organisation"
+        }
+      ]
+    },
+    {
+      "id": "federalisme",
+      "type": "concept",
+      "nom": "Fédéralisme libertaire",
+      "dates": "depuis les années 1860",
+      "annee": 1863,
+      "courants": [
+        "anarchisme",
+        "communalisme-libertaire"
+      ],
+      "resume": "Organiser la société de bas en haut, par des groupes autonomes qui s'associent librement et délèguent sans abandonner leur pouvoir.",
+      "contexte": "Théorisé par Proudhon (Du principe fédératif, 1863), repris par Bakounine et les fédérations antiautoritaires, il structure les projets communalistes, de la Commune de 1871 au communalisme de Bookchin.",
+      "pages": [
+        [
+          "bibliotheque/la-federation",
+          "La Fédération comme moyen d'union, de Kropotkine (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "proudhon-federatif"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "id": "democratie-directe",
+      "type": "concept",
+      "nom": "Démocratie directe et mandat impératif",
+      "dates": "XIXe-XXIe siècles",
+      "annee": 1871,
+      "courants": [],
+      "resume": "Les décisions prises en assemblée par les personnes concernées ; les délégations ont un mandat précis et sont révocables.",
+      "contexte": "On la retrouve dans la Commune (élus révocables), les soviets libres, les collectivités espagnoles, les comités de Mai 68, les communautés zapatistes et les communes du Rojava, avec des formes et des limites très différentes.",
+      "pages": [
+        [
+          "agir/decider-sans-chef",
+          "Décider sans chef (fiche pratique)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "ross-commune"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "id": "action-directe",
+      "type": "concept",
+      "nom": "Action directe",
+      "dates": "depuis les années 1890",
+      "annee": 1895,
+      "courants": [
+        "syndicalisme-revolutionnaire"
+      ],
+      "resume": "Agir soi-même, collectivement, pour obtenir ce qu'on veut, sans passer par des représentants : grève, boycott, sabotage, occupation.",
+      "contexte": "Le terme est popularisé par les syndicalistes révolutionnaires français (Pouget, 1904) et repris aux États-Unis par les IWW et Voltairine de Cleyre (1912). Il ne désigne pas d'abord la violence, mais l'absence d'intermédiaire.",
+      "pages": [
+        [
+          "experiences/action-directe-pratique",
+          "L'action directe, de la CGT aux IWW"
+        ],
+        [
+          "livres/l-action-directe-pouget",
+          "L'Action directe, de Pouget"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "pouget-ad"
+        },
+        {
+          "ref": "decleyre-ad"
+        }
+      ]
+    },
+    {
+      "id": "greve-generale",
+      "type": "concept",
+      "nom": "Grève générale",
+      "dates": "depuis les années 1880",
+      "annee": 1888,
+      "courants": [
+        "syndicalisme-revolutionnaire"
+      ],
+      "resume": "L'arrêt du travail par toute la classe ouvrière, pensé comme levier de la révolution sociale.",
+      "contexte": "Défendue dans les congrès ouvriers français des années 1880-1890, notamment par Pelloutier, elle devient l'horizon de la CGT d'avant 1914 (Charte d'Amiens). Mai 68 reste la plus grande grève générale de l'histoire française.",
+      "pages": [
+        [
+          "agir/lancer-une-greve",
+          "Lancer une grève (fiche pratique)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "julliard"
+        },
+        {
+          "ref": "charte-amiens"
+        }
+      ]
+    },
+    {
+      "id": "autogestion",
+      "type": "concept",
+      "nom": "Autogestion",
+      "dates": "XIXe-XXIe siècles (mot répandu après 1968)",
+      "annee": 1936,
+      "courants": [],
+      "resume": "La gestion d'une entreprise, d'un service ou d'une communauté par celles et ceux qui y travaillent ou y vivent.",
+      "contexte": "La pratique est ancienne (coopératives ouvrières, collectivités espagnoles), le mot se diffuse en France dans les années 1960 et surtout après Mai 68. Lip (1973) en devient le symbole.",
+      "pages": [
+        [
+          "universite/autogestion",
+          "Parcours : l'autogestion"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "mintz"
+        },
+        {
+          "ref": "reid-lip"
+        }
+      ]
+    },
+    {
+      "id": "propagande-par-le-fait",
+      "type": "concept",
+      "nom": "Propagande par le fait",
+      "dates": "années 1876-1894",
+      "annee": 1877,
+      "courants": [
+        "anarchisme"
+      ],
+      "resume": "L'idée que l'action insurrectionnelle exemplaire convainc mieux que les discours ; elle a fini par désigner aussi les attentats individuels.",
+      "contexte": "Formulée dans la Fédération italienne (1876-1877), adoptée au congrès de Londres en 1881, elle prend dans les années 1890 la forme d'attentats. La répression (lois scélérates) et l'impasse de cette stratégie poussent beaucoup d'anarchistes vers les syndicats.",
+      "pages": [
+        [
+          "experiences/action-directe-groupe",
+          "Action directe et lutte armée : débats"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "maitron"
+        },
+        {
+          "ref": "manfredonia"
+        }
+      ]
+    },
+    {
+      "id": "emancipation-femmes",
+      "type": "concept",
+      "nom": "Émancipation des femmes",
+      "dates": "XIXe-XXIe siècles",
+      "annee": 1857,
+      "courants": [],
+      "resume": "La lutte contre la domination des hommes sur les femmes, dans la société comme dans le mouvement révolutionnaire lui-même.",
+      "contexte": "Dans le mouvement libertaire, la question divise dès Proudhon : Joseph Déjacque lui répond en 1857. Louise Michel, Emma Goldman, Mujeres Libres ou le MLAC la portent chacune à leur façon, parfois contre leurs propres camarades.",
+      "pages": [
+        [
+          "universite/feminisme-anarchisme",
+          "Parcours : féminisme et anarchisme"
+        ],
+        [
+          "encyclopedie/feministes-liberation",
+          "Encyclopédie : féministes et mouvements de libération"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "dejacque"
+        },
+        {
+          "ref": "ackelsberg"
+        }
+      ]
+    },
+    {
+      "id": "makhnovtchina",
+      "type": "experience",
+      "nom": "Makhnovtchina",
+      "dates": "1918-1921",
+      "annee": 1918,
+      "fin": 1921,
+      "courants": [
+        "communisme-libertaire"
+      ],
+      "resume": "Mouvement insurrectionnel paysan du sud de l'Ukraine : congrès régionaux, communes agricoles, armée insurrectionnelle.",
+      "contexte": "Dans la région de Houliaïpole, des congrès de paysannes et paysans, d'ouvrières et ouvriers et d'insurgées et insurgés décident des affaires communes. L'armée insurrectionnelle combat les occupants, les Blancs, puis les bolcheviks, qui l'écrasent en 1921.",
+      "pages": [
+        [
+          "experiences/makhno-histoire",
+          "La Makhnovtchina : histoire"
+        ],
+        [
+          "experiences/makhno-organisation",
+          "La Makhnovtchina : organisation"
+        ],
+        [
+          "universite/makhnovtchina",
+          "Parcours : la Makhnovtchina"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "skirda"
+        },
+        {
+          "ref": "archinov"
+        }
+      ]
+    },
+    {
+      "id": "collectivites-espagnoles",
+      "type": "experience",
+      "nom": "Collectivités espagnoles",
+      "dates": "1936-1939",
+      "annee": 1936,
+      "fin": 1939,
+      "courants": [
+        "communisme-libertaire",
+        "anarcho-syndicalisme"
+      ],
+      "resume": "Terres et usines gérées par celles et ceux qui y travaillent en Catalogne, en Aragon et dans le Levant.",
+      "contexte": "Des centaines de collectivités agricoles et industrielles fonctionnent pendant la guerre, certaines avec abolition de l'argent local. Leur bilan économique et la part de contrainte dans certaines collectivisations sont discutés par les historiennes et historiens.",
+      "pages": [
+        [
+          "experiences/espagne-1936-organisation",
+          "Espagne 1936 : comment ça s'organisait"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "mintz"
+        },
+        {
+          "ref": "leval"
+        }
+      ]
+    },
+    {
+      "id": "lip",
+      "type": "experience",
+      "nom": "Lip",
+      "dates": "1973",
+      "annee": 1973,
+      "courants": [],
+      "resume": "À Besançon, les salariées et salariés d'une usine de montres menacée relancent eux-mêmes la production : « C'est possible : on fabrique, on vend, on se paie. »",
+      "contexte": "En juin 1973, les Lip occupent l'usine, mettent le stock à l'abri et vendent les montres pour se payer. Le conflit devient le symbole de l'autogestion en France.",
+      "pages": [
+        [
+          "experiences/action-directe-pratique",
+          "L'action directe : de la CGT à Lip"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "reid-lip"
+        }
+      ]
+    },
+    {
+      "id": "squats",
+      "type": "experience",
+      "nom": "Mouvements des squats en Europe",
+      "dates": "années 1970-1990",
+      "annee": 1977,
+      "courants": [
+        "mouvement-autonome"
+      ],
+      "resume": "Occupations de bâtiments vides pour y vivre et y créer des centres sociaux autogérés.",
+      "contexte": "D'Amsterdam à Berlin-Kreuzberg, de l'Italie à Barcelone, les squats deviennent des lieux d'organisation des mouvements autonomes, avec leurs assemblées, leurs cantines et leurs conflits avec les municipalités.",
+      "pages": [
+        [
+          "encyclopedie/mouvement-autonome-heritages",
+          "Encyclopédie : héritages du mouvement autonome"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "van-der-steen"
+        }
+      ]
+    },
+    {
+      "id": "zapatistes",
+      "type": "experience",
+      "nom": "Autonomie zapatiste",
+      "dates": "depuis 1994",
+      "annee": 1994,
+      "courants": [],
+      "resume": "Au Chiapas, des communautés mayas se soulèvent en 1994 puis construisent leurs propres institutions autonomes.",
+      "contexte": "Après le soulèvement du 1er janvier 1994 et l'échec des accords de San Andrés, les zapatistes créent en 2003 les Caracoles et les Conseils de bon gouvernement, réorganisés en 2023. Ils ne se disent pas anarchistes.",
+      "pages": [
+        [
+          "experiences/zapatistes-histoire",
+          "Les zapatistes : histoire"
+        ],
+        [
+          "experiences/zapatistes-organisation",
+          "Les zapatistes : organisation"
+        ],
+        [
+          "universite/experiences-zapatistes",
+          "Parcours : les expériences zapatistes"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "baschet"
+        }
+      ]
+    },
+    {
+      "id": "rojava",
+      "type": "experience",
+      "nom": "Rojava",
+      "dates": "depuis 2012",
+      "annee": 2012,
+      "courants": [
+        "communalisme-libertaire"
+      ],
+      "resume": "Au nord de la Syrie, une organisation en communes et conseils inspirée du confédéralisme démocratique d'Öcalan.",
+      "contexte": "À partir de 2012, les régions kurdes et leurs voisines s'organisent en communes, conseils et coprésidences paritaires. La guerre, le rôle du parti et les rapports avec les États font l'objet de vives discussions, y compris chez les libertaires.",
+      "pages": [
+        [
+          "experiences/rojava-histoire",
+          "Le Rojava : histoire"
+        ],
+        [
+          "experiences/rojava-organisation",
+          "Le Rojava : organisation"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "bance"
+        }
+      ]
+    },
+    {
+      "id": "huit-heures",
+      "type": "lutte",
+      "nom": "Lutte pour la journée de huit heures",
+      "dates": "années 1880-1919",
+      "annee": 1886,
+      "courants": [],
+      "resume": "« Huit heures de travail, huit heures de repos, huit heures pour ce que nous voulons » : la revendication qui a donné naissance au 1er Mai.",
+      "contexte": "Aux États-Unis, la grève du 1er mai 1886 pour les huit heures précède l'affaire de Haymarket. L'Internationale socialiste fait du 1er mai une journée internationale de manifestation à partir de 1890. En France, la CGT mène campagne en 1906 ; la loi des huit heures date de 1919.",
+      "pages": [
+        [
+          "bibliotheque/le-1er-mai",
+          "Le 1er Mai, par Émile Pouget (fiche)"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "avrich-haymarket"
+        },
+        {
+          "ref": "davranche-trop-jeunes"
+        }
+      ]
+    },
+    {
+      "id": "avortement-libre",
+      "type": "lutte",
+      "nom": "Lutte pour l'avortement libre",
+      "dates": "1971-1975",
+      "annee": 1971,
+      "courants": [],
+      "resume": "Du manifeste des 343 à la loi Veil : des femmes désobéissent et imposent la légalisation de l'avortement.",
+      "contexte": "Le manifeste des 343 (1971), le procès de Bobigny (1972), le MLAC (1973) préparent la loi Veil de janvier 1975. Une partie du mouvement défend non seulement le droit, mais la réappropriation du savoir médical par les femmes.",
+      "pages": [
+        [
+          "experiences/mlac-histoire",
+          "Le MLAC : avorter en autogestion"
+        ],
+        [
+          "manif/ivg-contraception",
+          "IVG et contraception : tes droits aujourd'hui"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "ruault"
+        }
+      ]
+    },
+    {
+      "id": "liberation-homosexuelle",
+      "type": "lutte",
+      "nom": "Libération homosexuelle",
+      "dates": "1969-1980",
+      "annee": 1969,
+      "courants": [],
+      "resume": "Des mouvements qui ne demandent plus la tolérance mais attaquent l'ordre sexuel, familial et social.",
+      "contexte": "Né après Stonewall, le Gay Liberation Front américain puis le FHAR français (1971) lient libération sexuelle et révolution. Guy Hocquenghem en tire Le Désir homosexuel (1972) ; Daniel Guérin relie cette lutte à l'anarchisme.",
+      "pages": [
+        [
+          "experiences/stonewall-fhar-histoire",
+          "De Stonewall au FHAR"
+        ],
+        [
+          "experiences/stonewall-fhar-debats",
+          "Stonewall et FHAR : débats"
+        ]
+      ],
+      "sources": [
+        {
+          "ref": "hocquenghem"
+        },
+        {
+          "ref": "guerin-homo"
+        }
+      ]
+    }
+  ],
+  "liens": [
+    {
+      "de": "proudhon",
+      "vers": "propriete",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Proudhon publie Qu'est-ce que la propriété ? en 1840.",
+      "sources": [
+        {
+          "ref": "proudhon-propriete"
+        }
+      ]
+    },
+    {
+      "de": "proudhon",
+      "vers": "anarchisme",
+      "type": "influence",
+      "statut": "fait",
+      "texte": "Dans Qu'est-ce que la propriété ?, Proudhon est le premier à revendiquer le mot « anarchiste » pour désigner une position politique positive.",
+      "sources": [
+        {
+          "ref": "proudhon-propriete"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "de": "proudhon",
+      "vers": "mutuellisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Le mutuellisme est issu des propositions économiques de Proudhon (échange égal, crédit gratuit, association).",
+      "sources": [
+        {
+          "ref": "jourdain-proudhon"
+        }
+      ]
+    },
+    {
+      "de": "proudhon",
+      "vers": "federalisme",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Proudhon théorise le fédéralisme dans Du principe fédératif (1863), repris ensuite par les antiautoritaires.",
+      "sources": [
+        {
+          "ref": "proudhon-federatif"
+        },
+        {
+          "ref": "jourdain-proudhon"
+        }
+      ]
+    },
+    {
+      "de": "proudhon",
+      "vers": "emancipation-femmes",
+      "type": "opposition",
+      "statut": "fait",
+      "texte": "Proudhon défend la soumission des femmes au foyer ; Joseph Déjacque lui répond dès 1857 dans une lettre où il emploie le mot « libertaire ».",
+      "sources": [
+        {
+          "ref": "dejacque"
+        },
+        {
+          "ref": "jourdain-proudhon"
+        }
+      ]
+    },
+    {
+      "de": "mutuellisme",
+      "vers": "ait",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Des ouvriers français proches de Proudhon, comme Henri Tolain, participent à la fondation de l'Internationale en 1864.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "mutuellisme",
+      "vers": "collectivisme",
+      "type": "succession",
+      "statut": "fait",
+      "texte": "Dans l'Internationale, les mutuellistes sont mis en minorité par les collectivistes, notamment au congrès de Bâle (1869) sur la propriété collective du sol.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "bakounine",
+      "vers": "ait",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Bakounine adhère à l'Internationale en 1868 et y anime le courant antiautoritaire.",
+      "sources": [
+        {
+          "ref": "grawitz"
+        },
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "bakounine",
+      "vers": "collectivisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Bakounine est le principal défenseur du collectivisme antiautoritaire dans l'Internationale.",
+      "sources": [
+        {
+          "ref": "guerin"
+        }
+      ]
+    },
+    {
+      "de": "bakounine",
+      "vers": "marx",
+      "type": "opposition",
+      "statut": "fait",
+      "texte": "Dans l'Internationale, Bakounine s'oppose à Marx sur l'État, la conquête du pouvoir et la centralisation du Conseil général.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        },
+        {
+          "ref": "grawitz"
+        }
+      ]
+    },
+    {
+      "de": "bakounine",
+      "vers": "dieu-et-l-etat",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Dieu et l'État est un fragment écrit par Bakounine en 1870-1871, publié en 1882 après sa mort.",
+      "sources": [
+        {
+          "ref": "bakounine-dieu"
+        }
+      ]
+    },
+    {
+      "de": "bakounine",
+      "vers": "congres-la-haye",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Absent du congrès, Bakounine y est exclu de l'Internationale avec James Guillaume.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "bakounine",
+      "vers": "congres-saint-imier",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Bakounine participe au congrès de Saint-Imier, qui refuse son exclusion et les décisions de La Haye.",
+      "sources": [
+        {
+          "ref": "enckell"
+        },
+        {
+          "ref": "grawitz"
+        }
+      ]
+    },
+    {
+      "de": "bakounine",
+      "vers": "anarchisme",
+      "type": "influence",
+      "statut": "fait",
+      "texte": "Les idées de Bakounine sur l'État, la révolution sociale et l'organisation fédérale marquent durablement le mouvement anarchiste.",
+      "sources": [
+        {
+          "ref": "jourdain"
+        },
+        {
+          "ref": "guerin-ndnm"
+        }
+      ]
+    },
+    {
+      "de": "marx",
+      "vers": "ait",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Marx rédige l'Adresse inaugurale et les statuts provisoires de l'Internationale (1864) et anime son Conseil général.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "marx",
+      "vers": "marxisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Le marxisme désigne les courants qui se réclament de l'œuvre de Marx, souvent en s'opposant entre eux sur son interprétation.",
+      "sources": [
+        {
+          "ref": "guerin"
+        }
+      ]
+    },
+    {
+      "de": "marx",
+      "vers": "guerre-civile-france",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Marx rédige l'adresse du Conseil général sur la Commune, publiée en juin 1871.",
+      "sources": [
+        {
+          "ref": "marx-gcf"
+        }
+      ]
+    },
+    {
+      "de": "marx",
+      "vers": "congres-la-haye",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Marx est présent à La Haye, seul congrès de l'Internationale auquel il assiste en personne.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "guerre-civile-france",
+      "vers": "commune-de-paris",
+      "type": "critique",
+      "statut": "interpretation",
+      "texte": "Marx interprète la Commune comme une forme de gouvernement de la classe ouvrière ; les libertaires (Bakounine, Kropotkine) y lisent au contraire une négation de l'État. Les deux lectures se disputent encore l'héritage.",
+      "sources": [
+        {
+          "ref": "marx-gcf"
+        },
+        {
+          "ref": "ross-commune"
+        }
+      ]
+    },
+    {
+      "de": "varlin",
+      "vers": "ait",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Varlin est l'un des principaux animateurs de la section parisienne de l'Internationale.",
+      "sources": [
+        {
+          "ref": "audin-varlin"
+        }
+      ]
+    },
+    {
+      "de": "varlin",
+      "vers": "commune-de-paris",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Élu au Conseil de la Commune, Varlin est tué le 28 mai 1871.",
+      "sources": [
+        {
+          "ref": "audin-varlin"
+        },
+        {
+          "ref": "lissagaray"
+        }
+      ]
+    },
+    {
+      "de": "varlin",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Contre une partie des ouvriers de son temps, Varlin défend l'égalité des femmes au travail.",
+      "sources": [
+        {
+          "ref": "audin-varlin"
+        }
+      ]
+    },
+    {
+      "de": "louise-michel",
+      "vers": "commune-de-paris",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Louise Michel combat pendant la Commune et raconte son expérience dans La Commune (1898).",
+      "sources": [
+        {
+          "ref": "michel-commune"
+        },
+        {
+          "ref": "gauthier-michel"
+        }
+      ]
+    },
+    {
+      "de": "louise-michel",
+      "vers": "anarchisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Louise Michel se dit devenue anarchiste pendant sa déportation ; à son retour en 1880, elle devient une figure du mouvement.",
+      "sources": [
+        {
+          "ref": "gauthier-michel"
+        }
+      ]
+    },
+    {
+      "de": "louise-michel",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Louise Michel dénonce dans ses Mémoires la condition faite aux femmes et refuse de séparer leur émancipation de celle de toustes.",
+      "sources": [
+        {
+          "ref": "gauthier-michel"
+        }
+      ]
+    },
+    {
+      "de": "elisee-reclus",
+      "vers": "commune-de-paris",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Reclus participe à la Commune ; fait prisonnier en avril 1871, il est condamné puis banni.",
+      "sources": [
+        {
+          "ref": "pelletier-reclus"
+        }
+      ]
+    },
+    {
+      "de": "elisee-reclus",
+      "vers": "dieu-et-l-etat",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Reclus édite Dieu et l'État avec Carlo Cafiero en 1882.",
+      "sources": [
+        {
+          "ref": "bakounine-dieu"
+        },
+        {
+          "ref": "pelletier-reclus"
+        }
+      ]
+    },
+    {
+      "de": "elisee-reclus",
+      "vers": "kropotkine",
+      "type": "collaboration",
+      "statut": "fait",
+      "texte": "Reclus et Kropotkine travaillent ensemble au Révolté et partagent la défense du communisme libertaire ; Reclus préface La Conquête du pain.",
+      "sources": [
+        {
+          "ref": "pelletier-reclus"
+        },
+        {
+          "ref": "kropotkine-pain"
+        }
+      ]
+    },
+    {
+      "de": "elisee-reclus",
+      "vers": "federation-jurassienne",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "En exil en Suisse, Reclus milite avec la Fédération jurassienne.",
+      "sources": [
+        {
+          "ref": "pelletier-reclus"
+        },
+        {
+          "ref": "enckell"
+        }
+      ]
+    },
+    {
+      "de": "kropotkine",
+      "vers": "federation-jurassienne",
+      "type": "influence",
+      "statut": "fait",
+      "texte": "Kropotkine raconte que sa rencontre avec les horlogers jurassiens en 1872 a fait de lui un anarchiste ; il milite ensuite avec la Fédération.",
+      "sources": [
+        {
+          "ref": "kropotkine-vie"
+        }
+      ]
+    },
+    {
+      "de": "kropotkine",
+      "vers": "communisme-libertaire",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Kropotkine est le principal théoricien du communisme libertaire.",
+      "sources": [
+        {
+          "ref": "cohn"
+        },
+        {
+          "ref": "garcia-kropotkine"
+        }
+      ]
+    },
+    {
+      "de": "kropotkine",
+      "vers": "conquete-du-pain",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Kropotkine publie La Conquête du pain en 1892.",
+      "sources": [
+        {
+          "ref": "kropotkine-pain"
+        }
+      ]
+    },
+    {
+      "de": "kropotkine",
+      "vers": "entraide",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Kropotkine publie Mutual Aid en 1902 (en français en 1906).",
+      "sources": [
+        {
+          "ref": "kropotkine-entraide"
+        }
+      ]
+    },
+    {
+      "de": "malatesta",
+      "vers": "congres-saint-imier",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Malatesta fait partie des délégués italiens au congrès de Saint-Imier.",
+      "sources": [
+        {
+          "ref": "richards-malatesta"
+        },
+        {
+          "ref": "enckell"
+        }
+      ]
+    },
+    {
+      "de": "malatesta",
+      "vers": "kropotkine",
+      "type": "opposition",
+      "statut": "fait",
+      "texte": "En 1916, Kropotkine soutient la guerre des Alliés (Manifeste des Seize) ; Malatesta lui répond par « Anarchistes de gouvernement » et rompt avec lui sur ce point.",
+      "sources": [
+        {
+          "ref": "richards-malatesta"
+        },
+        {
+          "ref": "garcia-kropotkine"
+        }
+      ]
+    },
+    {
+      "de": "malatesta",
+      "vers": "plateforme",
+      "type": "critique",
+      "statut": "fait",
+      "texte": "Malatesta critique le projet de Plateforme en 1927 : il y voit un risque de centralisation et de discipline contraire à l'anarchisme.",
+      "sources": [
+        {
+          "ref": "malatesta-organisation"
+        }
+      ]
+    },
+    {
+      "de": "malatesta",
+      "vers": "revolution-russe",
+      "type": "critique",
+      "statut": "fait",
+      "texte": "Malatesta critique très tôt la dictature bolchevique, notamment dans « Bolchevisme et anarchisme ».",
+      "sources": [
+        {
+          "ref": "richards-malatesta"
+        }
+      ]
+    },
+    {
+      "de": "malatesta",
+      "vers": "propagande-par-le-fait",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Malatesta et Cafiero participent à la formulation de la « propagande par le fait » en 1876-1877 et à l'insurrection du Bénévent (1877).",
+      "sources": [
+        {
+          "ref": "richards-malatesta"
+        },
+        {
+          "ref": "manfredonia"
+        }
+      ]
+    },
+    {
+      "de": "lucy-parsons",
+      "vers": "haymarket",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Albert Parsons, compagnon de Lucy Parsons, fait partie des condamnés et est pendu en 1887 ; elle mène ensuite la campagne pour les accusés.",
+      "sources": [
+        {
+          "ref": "jones-parsons"
+        },
+        {
+          "ref": "avrich-haymarket"
+        }
+      ]
+    },
+    {
+      "de": "haymarket",
+      "vers": "voltairine-de-cleyre",
+      "type": "influence",
+      "statut": "fait",
+      "texte": "Voltairine de Cleyre a écrit que les pendaisons de 1887 l'ont conduite à l'anarchisme.",
+      "sources": [
+        {
+          "ref": "avrich-decleyre"
+        }
+      ]
+    },
+    {
+      "de": "haymarket",
+      "vers": "emma-goldman",
+      "type": "influence",
+      "statut": "fait",
+      "texte": "Emma Goldman raconte dans ses mémoires que l'affaire de Haymarket a décidé de son engagement anarchiste.",
+      "sources": [
+        {
+          "ref": "goldman-vie"
+        }
+      ]
+    },
+    {
+      "de": "huit-heures",
+      "vers": "haymarket",
+      "type": "succession",
+      "statut": "fait",
+      "texte": "Le meeting de Haymarket se tient pendant la grève pour les huit heures commencée le 1er mai 1886.",
+      "sources": [
+        {
+          "ref": "avrich-haymarket"
+        }
+      ]
+    },
+    {
+      "de": "lucy-parsons",
+      "vers": "iww",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Lucy Parsons prend la parole au congrès fondateur des IWW à Chicago en 1905.",
+      "sources": [
+        {
+          "ref": "jones-parsons"
+        }
+      ]
+    },
+    {
+      "de": "lucy-parsons",
+      "vers": "anarchisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Lucy Parsons milite dans le mouvement anarchiste de Chicago de 1880 à sa mort.",
+      "sources": [
+        {
+          "ref": "jones-parsons"
+        },
+        {
+          "ref": "parsons-principes"
+        }
+      ]
+    },
+    {
+      "de": "voltairine-de-cleyre",
+      "vers": "action-directe",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "De Cleyre publie en 1912 « De l'action directe », qui présente l'action directe comme une pratique quotidienne et pas seulement violente.",
+      "sources": [
+        {
+          "ref": "decleyre-ad"
+        }
+      ]
+    },
+    {
+      "de": "emma-goldman",
+      "vers": "mother-earth",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Goldman fonde et dirige Mother Earth à partir de 1906.",
+      "sources": [
+        {
+          "ref": "goldman-vie"
+        }
+      ]
+    },
+    {
+      "de": "emma-goldman",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Goldman défend la contraception et la liberté sexuelle des femmes ; elle est arrêtée en 1916 pour avoir diffusé des informations sur la contraception.",
+      "sources": [
+        {
+          "ref": "goldman-vie"
+        },
+        {
+          "ref": "goldman-sexuelle"
+        }
+      ]
+    },
+    {
+      "de": "emma-goldman",
+      "vers": "revolution-russe",
+      "type": "critique",
+      "statut": "fait",
+      "texte": "Expulsée vers la Russie en 1919, Goldman la quitte fin 1921 et publie en 1923 My Disillusionment in Russia.",
+      "sources": [
+        {
+          "ref": "goldman-russie"
+        }
+      ]
+    },
+    {
+      "de": "emma-goldman",
+      "vers": "kronstadt",
+      "type": "critique",
+      "statut": "fait",
+      "texte": "Présente à Petrograd en mars 1921, Goldman tente avec Berkman une médiation et condamne l'écrasement de la révolte.",
+      "sources": [
+        {
+          "ref": "goldman-russie"
+        },
+        {
+          "ref": "mett"
+        }
+      ]
+    },
+    {
+      "de": "emma-goldman",
+      "vers": "revolution-espagnole",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Goldman se rend en Espagne en 1936 et représente ensuite la CNT-FAI à Londres.",
+      "sources": [
+        {
+          "ref": "goldman-vie"
+        }
+      ]
+    },
+    {
+      "de": "emile-pouget",
+      "vers": "pere-peinard",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Pouget fonde et rédige Le Père Peinard à partir de 1889.",
+      "sources": [
+        {
+          "ref": "langlais-pouget"
+        }
+      ]
+    },
+    {
+      "de": "emile-pouget",
+      "vers": "cgt",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Pouget est secrétaire adjoint de la CGT de 1901 à 1908 et dirige son journal, La Voix du peuple.",
+      "sources": [
+        {
+          "ref": "maitron"
+        },
+        {
+          "ref": "julliard"
+        }
+      ]
+    },
+    {
+      "de": "emile-pouget",
+      "vers": "action-directe",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Pouget publie L'Action directe (1904), qui fixe le sens syndicaliste du terme.",
+      "sources": [
+        {
+          "ref": "pouget-ad"
+        }
+      ]
+    },
+    {
+      "de": "pelloutier",
+      "vers": "greve-generale",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Pelloutier défend la grève générale dans les congrès ouvriers des années 1890.",
+      "sources": [
+        {
+          "ref": "julliard"
+        }
+      ]
+    },
+    {
+      "de": "pelloutier",
+      "vers": "syndicalisme-revolutionnaire",
+      "type": "influence",
+      "statut": "interpretation",
+      "texte": "Jacques Julliard fait de Pelloutier l'un des fondateurs du syndicalisme d'action directe, par son rôle à la Fédération des Bourses du travail et sa « Lettre aux anarchistes » (1899).",
+      "sources": [
+        {
+          "ref": "julliard"
+        }
+      ]
+    },
+    {
+      "de": "propagande-par-le-fait",
+      "vers": "syndicalisme-revolutionnaire",
+      "type": "succession",
+      "statut": "interpretation",
+      "texte": "Pour Jean Maitron, l'échec des attentats et la répression des années 1890 conduisent de nombreux anarchistes français à se tourner vers les syndicats.",
+      "sources": [
+        {
+          "ref": "maitron"
+        }
+      ]
+    },
+    {
+      "de": "cgt",
+      "vers": "charte-amiens",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "La Charte d'Amiens est la motion adoptée par le congrès de la CGT en octobre 1906.",
+      "sources": [
+        {
+          "ref": "charte-amiens"
+        }
+      ]
+    },
+    {
+      "de": "charte-amiens",
+      "vers": "syndicalisme-revolutionnaire",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "La Charte d'Amiens est le texte de référence du syndicalisme révolutionnaire français : indépendance envers les partis, double besogne, grève générale.",
+      "sources": [
+        {
+          "ref": "charte-amiens"
+        },
+        {
+          "ref": "julliard"
+        }
+      ]
+    },
+    {
+      "de": "cgt",
+      "vers": "huit-heures",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "La CGT mène en 1906 une campagne pour imposer la journée de huit heures à partir du 1er mai 1906.",
+      "sources": [
+        {
+          "ref": "davranche-trop-jeunes"
+        },
+        {
+          "ref": "maitron"
+        }
+      ]
+    },
+    {
+      "de": "cgt",
+      "vers": "action-directe",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "La CGT d'avant 1914 fait de l'action directe (grève, boycott, sabotage) sa méthode revendiquée.",
+      "sources": [
+        {
+          "ref": "pouget-ad"
+        },
+        {
+          "ref": "julliard"
+        }
+      ]
+    },
+    {
+      "de": "iww",
+      "vers": "syndicalisme-revolutionnaire",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les IWW partagent avec la CGT française l'action directe et la perspective de la grève générale, sans être anarchistes à proprement parler.",
+      "sources": [
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "de": "iww",
+      "vers": "action-directe",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les IWW pratiquent l'action directe dans les grèves et les luttes pour la liberté d'expression.",
+      "sources": [
+        {
+          "ref": "jourdain"
+        },
+        {
+          "ref": "decleyre-ad"
+        }
+      ]
+    },
+    {
+      "de": "syndicalisme-revolutionnaire",
+      "vers": "anarcho-syndicalisme",
+      "type": "succession",
+      "statut": "interpretation",
+      "texte": "L'anarcho-syndicalisme reprend les méthodes du syndicalisme révolutionnaire en y ajoutant une référence explicite à l'anarchisme ; la frontière entre les deux est discutée.",
+      "sources": [
+        {
+          "ref": "rocker-as"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "de": "rudolf-rocker",
+      "vers": "anarcho-syndicalisme",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Rocker rédige les principes de l'AIT de Berlin (1922) et publie Anarcho-Syndicalism (1938).",
+      "sources": [
+        {
+          "ref": "rocker-as"
+        }
+      ]
+    },
+    {
+      "de": "cnt",
+      "vers": "anarcho-syndicalisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "La CNT est la principale organisation anarcho-syndicaliste du monde dans les années 1930.",
+      "sources": [
+        {
+          "ref": "bolloten"
+        },
+        {
+          "ref": "manfredonia"
+        }
+      ]
+    },
+    {
+      "de": "fai",
+      "vers": "cnt",
+      "type": "collaboration",
+      "statut": "fait",
+      "texte": "La FAI se donne pour tâche de maintenir la CNT sur une ligne anarchiste ; ses militantes et militants sont aussi syndiqués à la CNT.",
+      "sources": [
+        {
+          "ref": "bolloten"
+        }
+      ]
+    },
+    {
+      "de": "cnt",
+      "vers": "revolution-espagnole",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "La CNT est la force principale qui met en échec le coup d'État à Barcelone et organise les collectivisations.",
+      "sources": [
+        {
+          "ref": "bolloten"
+        },
+        {
+          "ref": "mintz"
+        }
+      ]
+    },
+    {
+      "de": "conquete-du-pain",
+      "vers": "cnt",
+      "type": "influence",
+      "statut": "interpretation",
+      "texte": "La Conquête du pain est largement diffusée en espagnol ; Gaston Leval et Frank Mintz soulignent l'empreinte du communisme libertaire kropotkinien dans les collectivités.",
+      "sources": [
+        {
+          "ref": "leval"
+        },
+        {
+          "ref": "mintz"
+        }
+      ]
+    },
+    {
+      "de": "communisme-libertaire",
+      "vers": "collectivites-espagnoles",
+      "type": "influence",
+      "statut": "interpretation",
+      "texte": "Plusieurs collectivités abolissent l'argent local ou répartissent selon les besoins, en se réclamant du communisme libertaire ; d'autres gardent un salaire familial.",
+      "sources": [
+        {
+          "ref": "mintz"
+        },
+        {
+          "ref": "leval"
+        }
+      ]
+    },
+    {
+      "de": "collectivisme",
+      "vers": "communisme-libertaire",
+      "type": "succession",
+      "statut": "fait",
+      "texte": "Au tournant des années 1880, la Fédération jurassienne et les anarchistes italiens passent du collectivisme au communisme libertaire.",
+      "sources": [
+        {
+          "ref": "cohn"
+        },
+        {
+          "ref": "enckell"
+        }
+      ]
+    },
+    {
+      "de": "federation-jurassienne",
+      "vers": "congres-saint-imier",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Le congrès se tient à Saint-Imier, dans le Jura, à l'initiative de la Fédération jurassienne.",
+      "sources": [
+        {
+          "ref": "enckell"
+        }
+      ]
+    },
+    {
+      "de": "federation-jurassienne",
+      "vers": "communisme-libertaire",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Le congrès de la Fédération jurassienne à La Chaux-de-Fonds (1880) adopte le communisme anarchiste.",
+      "sources": [
+        {
+          "ref": "enckell"
+        },
+        {
+          "ref": "cohn"
+        }
+      ]
+    },
+    {
+      "de": "congres-la-haye",
+      "vers": "congres-saint-imier",
+      "type": "succession",
+      "statut": "fait",
+      "texte": "Le congrès de Saint-Imier se réunit quelques jours après La Haye pour en rejeter les décisions.",
+      "sources": [
+        {
+          "ref": "saint-imier"
+        },
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "congres-saint-imier",
+      "vers": "anarchisme",
+      "type": "transmission",
+      "statut": "interpretation",
+      "texte": "De nombreux historiens et historiennes datent de Saint-Imier la naissance du mouvement anarchiste organisé ; le mot « anarchiste » n'y est pourtant pas encore revendiqué par toustes.",
+      "sources": [
+        {
+          "ref": "manfredonia"
+        },
+        {
+          "ref": "enckell"
+        }
+      ]
+    },
+    {
+      "de": "congres-la-haye",
+      "vers": "ait",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Le congrès de La Haye est le cinquième congrès de l'Internationale.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        }
+      ]
+    },
+    {
+      "de": "ait",
+      "vers": "commune-de-paris",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Plusieurs membres de l'Internationale siègent au Conseil de la Commune, sans que l'Internationale en tant que telle la dirige.",
+      "sources": [
+        {
+          "ref": "leonard-ait"
+        },
+        {
+          "ref": "lissagaray"
+        }
+      ]
+    },
+    {
+      "de": "commune-de-paris",
+      "vers": "federalisme",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "La Déclaration au peuple français du 19 avril 1871 propose l'autonomie des communes et leur libre fédération.",
+      "sources": [
+        {
+          "ref": "ross-commune"
+        },
+        {
+          "ref": "lissagaray"
+        }
+      ]
+    },
+    {
+      "de": "commune-de-paris",
+      "vers": "democratie-directe",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les élus de la Commune sont responsables et révocables ; clubs et comités de quartier débattent des décisions.",
+      "sources": [
+        {
+          "ref": "ross-commune"
+        },
+        {
+          "ref": "deluermoz"
+        }
+      ]
+    },
+    {
+      "de": "commune-de-paris",
+      "vers": "anarchisme",
+      "type": "influence",
+      "statut": "interpretation",
+      "texte": "Pour les anarchistes (Bakounine, Kropotkine), la Commune est un modèle et une leçon : elle a nié l'État sans aller jusqu'au bout. Kristin Ross montre comment cet héritage a été disputé.",
+      "sources": [
+        {
+          "ref": "ross-commune"
+        }
+      ]
+    },
+    {
+      "de": "commune-de-paris",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Pendant la Commune, l'Union des femmes et des clubs féminins revendiquent le travail, l'égalité de salaire et l'instruction des filles.",
+      "sources": [
+        {
+          "ref": "thomas-petroleuses"
+        }
+      ]
+    },
+    {
+      "de": "makhno",
+      "vers": "makhnovtchina",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Makhno est la figure centrale de l'armée insurrectionnelle et du mouvement de la région de Houliaïpole.",
+      "sources": [
+        {
+          "ref": "skirda"
+        },
+        {
+          "ref": "archinov"
+        }
+      ]
+    },
+    {
+      "de": "makhno",
+      "vers": "plateforme",
+      "type": "publication",
+      "statut": "fait",
+      "texte": "Makhno fait partie du groupe Dielo Trouda qui publie la Plateforme à Paris en 1926.",
+      "sources": [
+        {
+          "ref": "skirda"
+        }
+      ]
+    },
+    {
+      "de": "makhnovtchina",
+      "vers": "revolution-russe",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "La Makhnovtchina est l'un des mouvements de la guerre civile qui suit 1917 ; d'abord alliée aux bolcheviks contre les Blancs, elle est écrasée par eux.",
+      "sources": [
+        {
+          "ref": "skirda"
+        },
+        {
+          "ref": "voline"
+        }
+      ]
+    },
+    {
+      "de": "makhnovtchina",
+      "vers": "democratie-directe",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les congrès régionaux de paysannes et paysans, d'ouvrières et ouvriers et d'insurgées et insurgés décident des affaires communes et réclament des « soviets libres ».",
+      "sources": [
+        {
+          "ref": "archinov"
+        },
+        {
+          "ref": "skirda"
+        }
+      ]
+    },
+    {
+      "de": "makhnovtchina",
+      "vers": "plateforme",
+      "type": "succession",
+      "statut": "fait",
+      "texte": "La Plateforme se présente comme une leçon tirée de la défaite des anarchistes en Russie et en Ukraine.",
+      "sources": [
+        {
+          "ref": "skirda"
+        }
+      ]
+    },
+    {
+      "de": "revolution-russe",
+      "vers": "kronstadt",
+      "type": "succession",
+      "statut": "fait",
+      "texte": "La révolte de Kronstadt (mars 1921) éclate à la fin de la guerre civile, contre le pouvoir bolchevik.",
+      "sources": [
+        {
+          "ref": "mett"
+        }
+      ]
+    },
+    {
+      "de": "revolution-russe",
+      "vers": "marxisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Les bolcheviks se réclament du marxisme ; d'autres marxistes (mencheviks, communistes de conseils) critiquent leur pouvoir.",
+      "sources": [
+        {
+          "ref": "guerin"
+        },
+        {
+          "ref": "voline"
+        }
+      ]
+    },
+    {
+      "de": "anarchisme",
+      "vers": "marxisme",
+      "type": "opposition",
+      "statut": "fait",
+      "texte": "Depuis l'Internationale, anarchistes et marxistes s'opposent sur l'État, le parti et la transition, tout en partageant la critique du capitalisme.",
+      "sources": [
+        {
+          "ref": "guerin"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "de": "durruti",
+      "vers": "cnt",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Durruti est militant de la CNT et membre de groupes anarchistes liés à la FAI.",
+      "sources": [
+        {
+          "ref": "enzensberger"
+        }
+      ]
+    },
+    {
+      "de": "durruti",
+      "vers": "revolution-espagnole",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Durruti participe aux combats de Barcelone puis conduit une colonne sur le front d'Aragon ; il est tué à Madrid le 20 novembre 1936.",
+      "sources": [
+        {
+          "ref": "enzensberger"
+        }
+      ]
+    },
+    {
+      "de": "lucia-sanchez-saornil",
+      "vers": "mujeres-libres",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Lucía Sánchez Saornil cofonde Mujeres Libres en 1936 avec Mercedes Comaposada et Amparo Poch y Gascón.",
+      "sources": [
+        {
+          "ref": "ackelsberg"
+        }
+      ]
+    },
+    {
+      "de": "lucia-sanchez-saornil",
+      "vers": "cnt",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Lucía Sánchez Saornil milite à la CNT avant 1936.",
+      "sources": [
+        {
+          "ref": "ackelsberg"
+        }
+      ]
+    },
+    {
+      "de": "mujeres-libres",
+      "vers": "cnt",
+      "type": "opposition",
+      "statut": "fait",
+      "texte": "En 1938, Mujeres Libres demande à être reconnue comme branche autonome du mouvement libertaire ; la CNT, la FAI et les Jeunesses libertaires refusent.",
+      "sources": [
+        {
+          "ref": "ackelsberg"
+        },
+        {
+          "ref": "nash"
+        }
+      ]
+    },
+    {
+      "de": "mujeres-libres",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Mujeres Libres lutte contre la « triple servitude » des femmes (l’ignorance, l’exploitation au travail, la domination des hommes) tout en refusant l’étiquette « féministe ».",
+      "sources": [
+        {
+          "ref": "ackelsberg"
+        }
+      ]
+    },
+    {
+      "de": "mujeres-libres",
+      "vers": "revolution-espagnole",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Mujeres Libres organise alphabétisation, formation professionnelle et crèches pendant la révolution.",
+      "sources": [
+        {
+          "ref": "nash"
+        },
+        {
+          "ref": "ackelsberg"
+        }
+      ]
+    },
+    {
+      "de": "collectivites-espagnoles",
+      "vers": "revolution-espagnole",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Les collectivisations sont la face sociale de la révolution de 1936.",
+      "sources": [
+        {
+          "ref": "mintz"
+        },
+        {
+          "ref": "bolloten"
+        }
+      ]
+    },
+    {
+      "de": "collectivites-espagnoles",
+      "vers": "autogestion",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les collectivités sont gérées par des assemblées de travailleureuses et des comités élus.",
+      "sources": [
+        {
+          "ref": "mintz"
+        },
+        {
+          "ref": "leval"
+        }
+      ]
+    },
+    {
+      "de": "mai-68",
+      "vers": "greve-generale",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Mai 68 est la plus grande grève générale de l'histoire de France, avec des millions de grévistes et des occupations d'usines.",
+      "sources": [
+        {
+          "ref": "bantigny"
+        },
+        {
+          "ref": "ross-68"
+        }
+      ]
+    },
+    {
+      "de": "mai-68",
+      "vers": "autogestion",
+      "type": "influence",
+      "statut": "interpretation",
+      "texte": "Le mot « autogestion » se répand largement après Mai 68, dans les syndicats et les mouvements ; son contenu varie beaucoup selon celleux qui l'emploient.",
+      "sources": [
+        {
+          "ref": "bantigny"
+        },
+        {
+          "ref": "reid-lip"
+        }
+      ]
+    },
+    {
+      "de": "mai-68",
+      "vers": "democratie-directe",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Comités d'action, assemblées générales et comités de grève se multiplient en mai-juin 1968.",
+      "sources": [
+        {
+          "ref": "bantigny"
+        }
+      ]
+    },
+    {
+      "de": "mai-68",
+      "vers": "mouvement-autonome",
+      "type": "succession",
+      "statut": "interpretation",
+      "texte": "Les mouvements autonomes des années 1970 se pensent souvent comme les héritiers des révoltes de 1968, en France comme en Italie (« Mai rampant » de 1968-1969).",
+      "sources": [
+        {
+          "ref": "wright"
+        }
+      ]
+    },
+    {
+      "de": "lip",
+      "vers": "autogestion",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "En 1973, les Lip relancent la production et se paient avec la vente des montres ; le conflit devient le symbole de l'autogestion.",
+      "sources": [
+        {
+          "ref": "reid-lip"
+        }
+      ]
+    },
+    {
+      "de": "lip",
+      "vers": "action-directe",
+      "type": "convergence",
+      "statut": "interpretation",
+      "texte": "La mise à l'abri du stock et la vente sauvage des montres sont souvent lues comme une forme d'action directe, au sens syndicaliste du terme.",
+      "sources": [
+        {
+          "ref": "reid-lip"
+        }
+      ]
+    },
+    {
+      "de": "autonomia",
+      "vers": "mouvement-autonome",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Autonomia est la forme italienne, et la plus connue, du mouvement autonome.",
+      "sources": [
+        {
+          "ref": "wright"
+        }
+      ]
+    },
+    {
+      "de": "squats",
+      "vers": "mouvement-autonome",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Les squats et centres sociaux autogérés sont des lieux d'organisation centraux des mouvements autonomes européens.",
+      "sources": [
+        {
+          "ref": "van-der-steen"
+        }
+      ]
+    },
+    {
+      "de": "squats",
+      "vers": "autogestion",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les centres sociaux occupés sont gérés par leurs assemblées.",
+      "sources": [
+        {
+          "ref": "van-der-steen"
+        }
+      ]
+    },
+    {
+      "de": "mouvement-autonome",
+      "vers": "democratie-directe",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les autonomes refusent la délégation aux partis et aux syndicats et privilégient les assemblées.",
+      "sources": [
+        {
+          "ref": "wright"
+        },
+        {
+          "ref": "van-der-steen"
+        }
+      ]
+    },
+    {
+      "de": "mouvement-autonome",
+      "vers": "marxisme",
+      "type": "affiliation",
+      "statut": "interpretation",
+      "texte": "L'autonomie italienne vient de l'opéraïsme, un marxisme hétérodoxe ; d'autres courants autonomes empruntent davantage aux libertaires.",
+      "sources": [
+        {
+          "ref": "wright"
+        }
+      ]
+    },
+    {
+      "de": "murray-bookchin",
+      "vers": "communalisme-libertaire",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Bookchin formule le municipalisme libertaire puis le communalisme.",
+      "sources": [
+        {
+          "ref": "bookchin-municipalisme"
+        }
+      ]
+    },
+    {
+      "de": "murray-bookchin",
+      "vers": "rojava",
+      "type": "influence",
+      "statut": "interpretation",
+      "texte": "Abdullah Öcalan a lu Bookchin en prison et s'en réclame dans le confédéralisme démocratique, qui inspire le Rojava ; l'ampleur réelle de cette influence est discutée.",
+      "sources": [
+        {
+          "ref": "bance"
+        }
+      ]
+    },
+    {
+      "de": "federalisme",
+      "vers": "communalisme-libertaire",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Le communalisme de Bookchin se réclame explicitement de la tradition fédéraliste et communaliste.",
+      "sources": [
+        {
+          "ref": "bookchin-municipalisme"
+        }
+      ]
+    },
+    {
+      "de": "rojava",
+      "vers": "communalisme-libertaire",
+      "type": "convergence",
+      "statut": "interpretation",
+      "texte": "Communes, conseils et fédération du Rojava sont lus par Pierre Bance comme une application du municipalisme libertaire, avec des limites (rôle du parti, guerre).",
+      "sources": [
+        {
+          "ref": "bance"
+        }
+      ]
+    },
+    {
+      "de": "rojava",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Le Rojava impose la coprésidence paritaire et organise des structures autonomes de femmes.",
+      "sources": [
+        {
+          "ref": "bance"
+        }
+      ]
+    },
+    {
+      "de": "zapatistes",
+      "vers": "democratie-directe",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Les zapatistes appellent « commander en obéissant » leur principe : les charges sont rotatives et révocables, les communautés décident.",
+      "sources": [
+        {
+          "ref": "baschet"
+        }
+      ]
+    },
+    {
+      "de": "zapatistes",
+      "vers": "anarchisme",
+      "type": "convergence",
+      "statut": "controverse",
+      "texte": "Les zapatistes refusent l'étiquette anarchiste ; beaucoup de libertaires voient pourtant dans leur autonomie une parenté, que d'autres jugent superficielle.",
+      "sources": [
+        {
+          "ref": "baschet"
+        }
+      ]
+    },
+    {
+      "de": "zapatistes",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "La Loi révolutionnaire des femmes (1993) proclame le droit des femmes zapatistes à choisir leur conjoint, le nombre d'enfants et à exercer des charges.",
+      "sources": [
+        {
+          "ref": "baschet"
+        }
+      ]
+    },
+    {
+      "de": "mlac",
+      "vers": "avortement-libre",
+      "type": "participation",
+      "statut": "fait",
+      "texte": "Le MLAC est l'un des principaux acteurs de la lutte pour l'avortement libre en 1973-1975.",
+      "sources": [
+        {
+          "ref": "ruault"
+        }
+      ]
+    },
+    {
+      "de": "mlac",
+      "vers": "autogestion",
+      "type": "convergence",
+      "statut": "interpretation",
+      "texte": "Lucile Ruault montre comment les groupes du MLAC pratiquent une forme d'autogestion des corps et contestent le pouvoir médical.",
+      "sources": [
+        {
+          "ref": "ruault"
+        }
+      ]
+    },
+    {
+      "de": "avortement-libre",
+      "vers": "emancipation-femmes",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "La lutte pour l'avortement libre est l'un des grands combats des mouvements de libération des femmes des années 1970.",
+      "sources": [
+        {
+          "ref": "ruault"
+        }
+      ]
+    },
+    {
+      "de": "stonewall",
+      "vers": "liberation-homosexuelle",
+      "type": "succession",
+      "statut": "fait",
+      "texte": "Le Gay Liberation Front naît à New York dans les semaines qui suivent Stonewall.",
+      "sources": [
+        {
+          "ref": "hocquenghem"
+        },
+        {
+          "ref": "guerin-homo"
+        }
+      ]
+    },
+    {
+      "de": "liberation-homosexuelle",
+      "vers": "mai-68",
+      "type": "succession",
+      "statut": "interpretation",
+      "texte": "Le FHAR naît en 1971 dans le sillage des mouvements d'après 1968 ; ses fondatrices et fondateurs viennent en partie de l'extrême gauche et des milieux libertaires.",
+      "sources": [
+        {
+          "ref": "hocquenghem"
+        },
+        {
+          "ref": "guerin-homo"
+        }
+      ]
+    },
+    {
+      "de": "liberation-homosexuelle",
+      "vers": "anarchisme",
+      "type": "convergence",
+      "statut": "interpretation",
+      "texte": "Daniel Guérin, anarchiste, relie toute sa vie libération sexuelle et révolution ; Emma Goldman défendait déjà les homosexuels au début du XXe siècle.",
+      "sources": [
+        {
+          "ref": "guerin-homo"
+        },
+        {
+          "ref": "goldman-vie"
+        }
+      ]
+    },
+    {
+      "de": "entraide",
+      "vers": "communisme-libertaire",
+      "type": "influence",
+      "statut": "interpretation",
+      "texte": "L'Entraide donne au communisme libertaire un fondement scientifique selon Kropotkine ; Renaud Garcia en discute la portée et les limites.",
+      "sources": [
+        {
+          "ref": "garcia-kropotkine"
+        }
+      ]
+    },
+    {
+      "de": "conquete-du-pain",
+      "vers": "communisme-libertaire",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "La Conquête du pain est l'exposé le plus lu du communisme libertaire.",
+      "sources": [
+        {
+          "ref": "cohn"
+        },
+        {
+          "ref": "kropotkine-pain"
+        }
+      ]
+    },
+    {
+      "de": "dieu-et-l-etat",
+      "vers": "anarchisme",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Dieu et l'État devient l'un des textes de Bakounine les plus traduits et diffusés dans le mouvement anarchiste.",
+      "sources": [
+        {
+          "ref": "guerin-ndnm"
+        },
+        {
+          "ref": "grawitz"
+        }
+      ]
+    },
+    {
+      "de": "pere-peinard",
+      "vers": "action-directe",
+      "type": "transmission",
+      "statut": "fait",
+      "texte": "Le Père Peinard popularise le boycott et le sabotage avant même que la CGT ne les adopte.",
+      "sources": [
+        {
+          "ref": "langlais-pouget"
+        },
+        {
+          "ref": "maitron"
+        }
+      ]
+    },
+    {
+      "de": "mother-earth",
+      "vers": "emancipation-femmes",
+      "type": "convergence",
+      "statut": "fait",
+      "texte": "Mother Earth publie de nombreux textes sur la contraception, le mariage et la liberté des femmes.",
+      "sources": [
+        {
+          "ref": "goldman-vie"
+        }
+      ]
+    },
+    {
+      "de": "communisme-libertaire",
+      "vers": "anarchisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "Le communisme libertaire est l'un des principaux courants de l'anarchisme.",
+      "sources": [
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "de": "anarcho-syndicalisme",
+      "vers": "anarchisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "L'anarcho-syndicalisme est la branche syndicale de l'anarchisme.",
+      "sources": [
+        {
+          "ref": "jourdain"
+        },
+        {
+          "ref": "rocker-as"
+        }
+      ]
+    },
+    {
+      "de": "propagande-par-le-fait",
+      "vers": "anarchisme",
+      "type": "affiliation",
+      "statut": "fait",
+      "texte": "La propagande par le fait est une stratégie défendue par une partie du mouvement anarchiste à la fin du XIXe siècle, puis largement abandonnée.",
+      "sources": [
+        {
+          "ref": "maitron"
+        },
+        {
+          "ref": "jourdain"
+        }
+      ]
+    },
+    {
+      "de": "autogestion",
+      "vers": "anarchisme",
+      "type": "convergence",
+      "statut": "interpretation",
+      "texte": "L'autogestion est souvent présentée comme la pratique économique de l'anarchisme, mais elle a aussi été revendiquée par des courants marxistes, chrétiens ou réformistes.",
+      "sources": [
+        {
+          "ref": "guerin"
+        },
+        {
+          "ref": "reid-lip"
+        }
+      ]
+    }
+  ],
+  "parcours": [
+    {
+      "id": "histoire-anarchisme",
+      "titre": "Histoire de l'anarchisme",
+      "intro": "Du premier « anarchiste » revendiqué en 1840 au communalisme d'aujourd'hui : les grandes étapes, les grandes ruptures.",
+      "etapes": [
+        {
+          "n": "proudhon",
+          "texte": "Tout commence avec un typographe de Besançon qui se dit anarchiste en 1840."
+        },
+        {
+          "n": "ait",
+          "texte": "Dans la Première Internationale, mutuellistes, collectivistes et marxistes se rencontrent et s'affrontent."
+        },
+        {
+          "n": "bakounine",
+          "texte": "Bakounine incarne le courant antiautoritaire contre Marx."
+        },
+        {
+          "n": "congres-saint-imier",
+          "texte": "1872 : la scission. À Saint-Imier, les antiautoritaires s'organisent."
+        },
+        {
+          "n": "kropotkine",
+          "texte": "Kropotkine donne au communisme libertaire sa forme la plus connue."
+        },
+        {
+          "n": "propagande-par-le-fait",
+          "texte": "Les années 1880-1890 : l'impasse des attentats."
+        },
+        {
+          "n": "syndicalisme-revolutionnaire",
+          "texte": "Beaucoup d'anarchistes se tournent alors vers les syndicats."
+        },
+        {
+          "n": "revolution-russe",
+          "texte": "1917-1921 : l'espoir, puis la répression bolchevique."
+        },
+        {
+          "n": "revolution-espagnole",
+          "texte": "1936 : la plus grande révolution libertaire de l'histoire."
+        },
+        {
+          "n": "murray-bookchin",
+          "texte": "Après 1945, de nouvelles pistes : l'écologie sociale et le communalisme."
+        }
+      ]
+    },
+    {
+      "id": "mouvement-ouvrier",
+      "titre": "Histoire du mouvement ouvrier",
+      "intro": "S'organiser entre travailleureuses, à travers les frontières, pour les huit heures, contre les patrons et l'État.",
+      "etapes": [
+        {
+          "n": "ait",
+          "texte": "1864 : la première organisation ouvrière internationale."
+        },
+        {
+          "n": "varlin",
+          "texte": "Un relieur parisien qui organise sa profession, puis meurt pour la Commune."
+        },
+        {
+          "n": "commune-de-paris",
+          "texte": "1871 : Paris gouverné par en bas, puis écrasé."
+        },
+        {
+          "n": "huit-heures",
+          "texte": "La lutte pour les huit heures donne naissance au 1er Mai."
+        },
+        {
+          "n": "haymarket",
+          "texte": "Chicago 1886 : la répression qui marque des générations de militantes et militants."
+        },
+        {
+          "n": "cgt",
+          "texte": "En France, une confédération syndicale révolutionnaire."
+        },
+        {
+          "n": "charte-amiens",
+          "texte": "1906 : l'indépendance syndicale gravée dans le marbre."
+        },
+        {
+          "n": "iww",
+          "texte": "Aux États-Unis, un seul grand syndicat pour toustes."
+        },
+        {
+          "n": "mai-68",
+          "texte": "1968 : la plus grande grève générale française."
+        },
+        {
+          "n": "lip",
+          "texte": "1973 : « on fabrique, on vend, on se paie »."
+        }
+      ]
+    },
+    {
+      "id": "espagne-1936",
+      "titre": "La révolution espagnole de 1936",
+      "intro": "Comment un syndicat anarchiste a pu, en quelques jours, mettre en échec un coup d'État et transformer la société, et ce qui en est resté en débat.",
+      "etapes": [
+        {
+          "n": "conquete-du-pain",
+          "texte": "Un livre lu et relu par des générations d'ouvrières, d'ouvriers, de paysannes et de paysans espagnols."
+        },
+        {
+          "n": "cnt",
+          "texte": "1910 : une confédération anarcho-syndicaliste qui deviendra massive."
+        },
+        {
+          "n": "fai",
+          "texte": "1927 : une fédération de groupes anarchistes à côté du syndicat."
+        },
+        {
+          "n": "revolution-espagnole",
+          "texte": "Juillet 1936 : le coup d'État militaire échoue à Barcelone, la révolution commence."
+        },
+        {
+          "n": "durruti",
+          "texte": "Les milices partent pour le front d'Aragon."
+        },
+        {
+          "n": "collectivites-espagnoles",
+          "texte": "À l'arrière, les terres et les usines sont collectivisées."
+        },
+        {
+          "n": "mujeres-libres",
+          "texte": "Des femmes s'organisent, aussi contre le sexisme de leurs camarades."
+        },
+        {
+          "n": "emma-goldman",
+          "texte": "Le mouvement international se mobilise : Emma Goldman représente la CNT-FAI à Londres."
+        }
+      ]
+    },
+    {
+      "id": "syndicalisme-revolutionnaire",
+      "titre": "Histoire du syndicalisme révolutionnaire",
+      "intro": "Des attentats aux syndicats : comment l'action directe est devenue la méthode d'une partie du mouvement ouvrier.",
+      "etapes": [
+        {
+          "n": "propagande-par-le-fait",
+          "texte": "Le point de départ : l'impasse de la propagande par le fait."
+        },
+        {
+          "n": "pelloutier",
+          "texte": "Pelloutier appelle les anarchistes à entrer dans les syndicats."
+        },
+        {
+          "n": "greve-generale",
+          "texte": "La grève générale devient l'horizon révolutionnaire."
+        },
+        {
+          "n": "pere-peinard",
+          "texte": "Pouget popularise le boycott et le sabotage."
+        },
+        {
+          "n": "cgt",
+          "texte": "La CGT est dominée par les syndicalistes révolutionnaires jusqu'en 1914."
+        },
+        {
+          "n": "action-directe",
+          "texte": "L'action directe : agir sans intermédiaire."
+        },
+        {
+          "n": "charte-amiens",
+          "texte": "La Charte d'Amiens fixe la doctrine."
+        },
+        {
+          "n": "iww",
+          "texte": "Les IWW, cousins américains."
+        },
+        {
+          "n": "anarcho-syndicalisme",
+          "texte": "Après 1918, l'anarcho-syndicalisme prend le relais."
+        },
+        {
+          "n": "rudolf-rocker",
+          "texte": "Rocker en écrit l'exposé classique."
+        },
+        {
+          "n": "cnt",
+          "texte": "La CNT espagnole en est la plus grande organisation."
+        }
+      ]
+    },
+    {
+      "id": "feminisme-revolutionnaire",
+      "titre": "Histoire du féminisme révolutionnaire",
+      "intro": "Des femmes et des minorités sexuelles qui ont lutté pour leur émancipation, contre la société, et souvent contre leurs propres camarades.",
+      "etapes": [
+        {
+          "n": "emancipation-femmes",
+          "texte": "Le point de départ : une question qui divise le mouvement dès Proudhon."
+        },
+        {
+          "n": "commune-de-paris",
+          "texte": "1871 : les femmes de la Commune revendiquent travail, salaire égal et instruction."
+        },
+        {
+          "n": "louise-michel",
+          "texte": "Louise Michel, de la barricade à l'anarchisme."
+        },
+        {
+          "n": "lucy-parsons",
+          "texte": "Lucy Parsons, à Chicago, entre anarchisme et syndicalisme."
+        },
+        {
+          "n": "voltairine-de-cleyre",
+          "texte": "Voltairine de Cleyre, l'anarchiste de Philadelphie."
+        },
+        {
+          "n": "emma-goldman",
+          "texte": "Emma Goldman, la contraception et la liberté sexuelle."
+        },
+        {
+          "n": "mujeres-libres",
+          "texte": "Espagne 1936 : Mujeres Libres contre la « triple servitude » des femmes."
+        },
+        {
+          "n": "avortement-libre",
+          "texte": "Les années 1970 : l'avortement libre arraché par la désobéissance."
+        },
+        {
+          "n": "mlac",
+          "texte": "Le MLAC, ou comment avorter en autogestion."
+        },
+        {
+          "n": "liberation-homosexuelle",
+          "texte": "Stonewall, le FHAR : la révolte homosexuelle."
+        }
+      ]
+    },
+    {
+      "id": "mouvements-autonomes",
+      "titre": "Histoire des mouvements autonomes",
+      "intro": "Après 1968, des mouvements qui refusent partis et syndicats et inventent leurs propres lieux.",
+      "etapes": [
+        {
+          "n": "mai-68",
+          "texte": "Le point de départ : 1968 et ses assemblées."
+        },
+        {
+          "n": "mouvement-autonome",
+          "texte": "L'autonomie, un courant entre marxisme hétérodoxe et pratiques libertaires."
+        },
+        {
+          "n": "autonomia",
+          "texte": "L'Italie des années 1970 : Autonomia et le mouvement de 1977."
+        },
+        {
+          "n": "squats",
+          "texte": "Les squats et centres sociaux autogérés, d'Amsterdam à Berlin."
+        },
+        {
+          "n": "democratie-directe",
+          "texte": "Un principe commun : l'assemblée plutôt que la délégation."
+        },
+        {
+          "n": "autogestion",
+          "texte": "Et une pratique : l'autogestion des lieux."
+        }
+      ]
+    },
+    {
+      "id": "experiences-autogestionnaires",
+      "titre": "Histoire des expériences autogestionnaires",
+      "intro": "Des moments où des gens ont vraiment pris leurs affaires en main, de 1871 à aujourd'hui, avec leurs réussites et leurs limites.",
+      "etapes": [
+        {
+          "n": "commune-de-paris",
+          "texte": "1871 : la Commune et ses élus révocables."
+        },
+        {
+          "n": "makhnovtchina",
+          "texte": "1918-1921 : les soviets libres d'Ukraine."
+        },
+        {
+          "n": "collectivites-espagnoles",
+          "texte": "1936-1939 : les collectivités espagnoles."
+        },
+        {
+          "n": "lip",
+          "texte": "1973 : les Lip relancent leur usine."
+        },
+        {
+          "n": "autogestion",
+          "texte": "Ce que le mot veut dire, et ce qu'on lui fait dire."
+        },
+        {
+          "n": "zapatistes",
+          "texte": "Depuis 1994 : l'autonomie zapatiste."
+        },
+        {
+          "n": "rojava",
+          "texte": "Depuis 2012 : les communes du Rojava."
+        },
+        {
+          "n": "communalisme-libertaire",
+          "texte": "Une théorie pour relier tout ça : le communalisme libertaire."
+        }
+      ]
+    }
+  ]
+};

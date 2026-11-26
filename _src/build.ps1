@@ -47,6 +47,7 @@ $familles = @(
     @("luttes", "experiences/index.html", "Histoire des luttes", "Commune, Espagne 36, Mai 68, MLAC, ZAD, action directe…", "experiences/"),
     @("encyclopedie", "encyclopedie/index.html", "Encyclopédie des mouvements", "Anarchistes, socialistes, féministes, anticoloniaux… : histoire, idées, héritages", "encyclopedie/"),
     @("universite", "universite/index.html", "Université populaire", "Parcours, chronologie, figures et dictionnaire militant", "universite/"),
+    @("graphe", "graphe/index.html", "Le graphe des luttes", "Personnes, idées, événements, organisations : leurs liens, sourcés", "graphe/"),
     @("figures", "figures/index.html", "Figures historiques", "Portraits de penseuses, penseurs, militantes et militants", "figures/"),
     @("glossaire", "glossaire.html", "Dictionnaire militant", "Tous les mots des luttes, expliqués en deux phrases", "glossaire"),
     @("videos", "apprendre.html#culture", "Culture militante", "Documentaires, vidéos de Mamie, images de lutte", "videos")) },
@@ -108,7 +109,7 @@ $menu = @(
     @("universite/index.html", "Université populaire", "Des parcours pour apprendre à son rythme"),
     @("encyclopedie/index.html", "Encyclopédie des mouvements", "Histoire, idées et héritages des mouvements"),
     @("apprendre.html", "Tout pour apprendre", "Théorie, figures, dictionnaire militant, culture militante"))
-    cles = "apprendre bibliotheque theorie luttes encyclopedie universite figures glossaire" },
+    cles = "apprendre bibliotheque theorie luttes encyclopedie universite graphe figures glossaire" },
   [ordered]@{ id = "videotheque"; nom = "Vidéothèque"; page = "videos.html"; dit = "Documentaires et vidéos de Mamie"; liens = @(); cles = "videos" },
   [ordered]@{ id = "organiser"; nom = "S'organiser"; page = "s-organiser.html"; dit = "Une lutte, ça se prépare à plusieurs"; liens = @(
     @("agir/tenir-une-ag.html", "Tenir une AG", "Et décider sans chef"),
@@ -138,7 +139,7 @@ $mamieDit = @{ bibliotheque = "Le savoir n'appartient à personne : prends, lis,
   organiser = "Personne ne nous libérera à notre place."; defendre = "Connaître ses droits, c'est bien. Être nombreux, c'est mieux."
   lieux = "Les camarades sont souvent à deux rues de chez toi."; entraide = "La solidarité, pas la charité."; "" = "Sers-toi, imprime, fais tourner." }
 $tampons = @{ "Lecture à voix haute" = "À voix haute"; "Guide numérique" = "Fais tourner"; "Fiche de lecture" = "Lu par la bande"; "Histoire de lutte" = "Mémoire des luttes"; "Fiche pratique" = "Sers-toi"
-  "Guide pratique" = "Dans le cabas"; "Guide juridique" = "Droit français"; "Dossier antifasciste" = "No pasarán"; "Portrait" = "Portrait"; "Parcours" = "Université populaire"; "Dossier encyclopédique" = "Encyclopédie" }
+  "Guide pratique" = "Dans le cabas"; "Guide juridique" = "Droit français"; "Dossier antifasciste" = "No pasarán"; "Portrait" = "Portrait"; "Parcours" = "Université populaire"; "Fiche du graphe" = "Graphe des luttes"; "Dossier encyclopédique" = "Encyclopédie" }
 function Entree-De($cle) { foreach ($e in $menu) { if (($e.cles -split ' ') -contains $cle) { return $e } }; return $null }
 
 # Les trois familles en grandes colonnes, pour l'accueil.
@@ -1180,7 +1181,7 @@ foreach ($f in Get-ChildItem (Join-Path $src "pages") -Filter *.html) {
   $body = $raw.Substring($m.Length)
   $scripts = ""; if ($meta.Count -gt 3) { $scripts = $meta[3] }
   $out = $f.Name; $root = ""
-  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures", "ressources", "universite", "encyclopedie")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
+  if ($f.BaseName -in @("guides", "bibliotheque", "experiences", "antifascisme", "manif", "agir", "figures", "ressources", "universite", "encyclopedie", "graphe")) { $out = "$($f.BaseName)\index.html"; $root = "../" }
   if ($f.BaseName -in @("404", "sans-connexion")) { $root = "/" }   # servies à n'importe quelle adresse : liens absolus   # servie à n'importe quelle adresse : liens absolus
   # La rubrique (menu, fil d'Ariane, tiroir) se déduit de l'adresse ; à défaut, de la clé de l'en-tête.
   $navKey = (Famille-De-Adresse ($out -replace '\\', '/'))[2]; if (-not $navKey) { $navKey = $meta[2] }
@@ -1213,6 +1214,89 @@ foreach ($f in Get-ChildItem (Join-Path $src "universite") -Filter *.html) {
   Write-Utf8 (Join-Path $site $out) (Render-Page "../" "universite" $meta[0] $meta[1] $body $scripts)
   $index += [pscustomobject]@{ u = $out -replace '\\', '/'; k = "Université populaire"; y = "Rubrique"; t = ($meta[0] -replace '\s*·\s*Mamie Commune$', ''); d = $meta[1]; x = (Heads $body) + " " + ((@($chr.evenements) | ForEach-Object { "$($_.quand) $($_.titre)" }) -join " ") }
 }
+# ---------- le Graphe des luttes (graphe/) ----------
+# Source : _src/graphe/graphe.json (voir _src/graphe/LISEZMOI.md). On refuse de générer le site si une relation n'a pas
+# de source, de texte ou de statut, si un identifiant ou une référence est inconnu, ou si une page citée n'existe pas.
+# Sorties : data/graphe.js (l'application graphe/index.html) et une fiche documentaire par élément (graphe/<id>.html).
+$fGraphe = Join-Path $src "graphe\graphe.json"
+$grapheTxt = Read-Utf8 $fGraphe
+$gr = $grapheTxt | ConvertFrom-Json
+$gNoeuds = @{}; foreach ($n in $gr.noeuds) { $gNoeuds[$n.id] = $n }
+$gRefs = $gr.references.PSObject.Properties.Name
+$gTypes = $gr.types.PSObject.Properties.Name; $gRels = $gr.relations.PSObject.Properties.Name; $gStatuts = $gr.statuts.PSObject.Properties.Name
+$gErreurs = @()
+foreach ($n in $gr.noeuds) {
+  if ($n.id -notmatch '^[a-z0-9-]+$') { $gErreurs += "élément « $($n.id) » : identifiant en minuscules, chiffres et tirets" }
+  if ($gTypes -notcontains $n.type) { $gErreurs += "élément « $($n.id) » : type inconnu « $($n.type) »" }
+  foreach ($champ in "nom", "dates", "resume", "contexte") { if (-not $n.$champ) { $gErreurs += "élément « $($n.id) » : champ « $champ » vide" } }
+  if (-not ($n.annee -is [int] -or $n.annee -is [long])) { $gErreurs += "élément « $($n.id) » : « annee » doit être un nombre" }
+  if (-not @($n.sources).Count) { $gErreurs += "élément « $($n.id) » : aucune source" }
+  foreach ($s in @($n.sources)) { if ($gRefs -notcontains $s.ref) { $gErreurs += "élément « $($n.id) » : référence inconnue « $($s.ref) »" } }
+  foreach ($k in @($n.courants)) { if ($k -and -not $gNoeuds[$k]) { $gErreurs += "élément « $($n.id) » : courant inconnu « $k »" } }
+  foreach ($p in @($n.pages)) { if ($p -and -not (Test-Path (Join-Path $site (($p[0] -replace '/', '\') + ".html")))) { $gErreurs += "élément « $($n.id) » : la page « $($p[0]) » n'existe pas" } }
+}
+foreach ($l in $gr.liens) {
+  $quoi = "relation $($l.de) → $($l.vers)"
+  if (-not $gNoeuds[$l.de] -or -not $gNoeuds[$l.vers]) { $gErreurs += "$quoi : élément inconnu" }
+  if ($gRels -notcontains $l.type) { $gErreurs += "$quoi : type de relation inconnu « $($l.type) »" }
+  if ($gStatuts -notcontains $l.statut) { $gErreurs += "$quoi : statut manquant ou inconnu (fait, interpretation, controverse, hypothese)" }
+  if (-not $l.texte) { $gErreurs += "$quoi : pas de texte qui justifie la relation" }
+  if (-not @($l.sources).Count) { $gErreurs += "$quoi : aucune source" }
+  foreach ($s in @($l.sources)) { if ($gRefs -notcontains $s.ref) { $gErreurs += "$quoi : référence inconnue « $($s.ref) »" } }
+}
+foreach ($p in $gr.parcours) { foreach ($e in @($p.etapes)) { if (-not $gNoeuds[$e.n]) { $gErreurs += "parcours « $($p.id) » : élément inconnu « $($e.n) »" } } }
+if ($gErreurs.Count) { throw ("Graphe des luttes : le site n'est pas généré tant que ces erreurs restent.`n  " + ($gErreurs -join "`n  ")) }
+Write-Utf8 (Join-Path $site "data\graphe.js") ("// Généré par _src/build.ps1 depuis _src/graphe/graphe.json — ne pas modifier à la main.`nwindow.GRAPHE = " + $grapheTxt.Trim() + ";`n")
+$dossierGraphe = Join-Path $site "graphe"; New-Item -ItemType Directory -Force $dossierGraphe | Out-Null
+$refHtml = { param($s) $r = $gr.references.($s.ref); $t = "$(Esc $r.auteur), <cite>$(Esc $r.titre)</cite>, $(Esc $r.edition)"; if ($r.annee -and $r.edition -notmatch [string]$r.annee) { $t += ", $($r.annee)" }; if ($r.langue -eq "en") { $t += " (en anglais)" }; if ($s.precision) { $t += ", $(Esc $s.precision)" }; if ($r.url) { $t = "<a href=""$(Esc $r.url)"" rel=""noopener"">$t</a>" }; $t }
+foreach ($n in $gr.noeuds) {
+  $gType = $gr.types.($n.type)
+  $groupes = [ordered]@{}
+  foreach ($l in $gr.liens) {
+    if ($l.de -ne $n.id -and $l.vers -ne $n.id) { continue }
+    $sortant = $l.de -eq $n.id; $autre = $gNoeuds[$(if ($sortant) { $l.vers } else { $l.de })]; $rel = $gr.relations.($l.type)
+    $cle = if ($sortant) { $rel.sens } else { $rel.inverse }
+    if (-not $groupes.Contains($cle)) { $groupes[$cle] = @() }
+    $srcL = (@($l.sources) | ForEach-Object { & $refHtml $_ }) -join " ; "
+    $groupes[$cle] += "<li><a class=""g-lien__nom"" href=""$($autre.id).html"">$(Esc $autre.nom)</a> <span class=""g-statut g-statut--$($l.statut)"">$(Esc $gr.statuts.($l.statut))</span><p>$(Esc $l.texte)</p><small>Sources : $srcL</small></li>"
+  }
+  $connexions = ($groupes.Keys | ForEach-Object { "<h3>$(Esc ($_.Substring(0,1).ToUpper() + $_.Substring(1)))</h3><ul class=""g-liens"">$($groupes[$_] -join '')</ul>" }) -join ""
+  $courantsN = (@($n.courants) | Where-Object { $_ } | ForEach-Object { "<a href=""$_.html"">$(Esc $gNoeuds[$_].nom)</a>" }) -join ", "
+  $pagesN = (@($n.pages) | Where-Object { $_ } | ForEach-Object { "<li><a href=""../$($_[0]).html"">$(Esc $_[1])</a></li>" }) -join ""
+  $sourcesN = (@($n.sources) | ForEach-Object { "<li>$(& $refHtml $_)</li>" }) -join ""
+  $parcN = (@($gr.parcours) | Where-Object { @($_.etapes | ForEach-Object { $_.n }) -contains $n.id } | ForEach-Object { "<li><a href=""index.html?parcours=$($_.id)&amp;n=$($n.id)"">$(Esc $_.titre)</a></li>" }) -join ""
+  $blocCourants = if ($courantsN) { "<p><b>Courants associés :</b> $courantsN</p>" } else { "" }
+  $blocPages = if ($pagesN) { "<h2 id=""sur-le-site"">Pour aller plus loin sur le site</h2><ul>$pagesN</ul>" } else { "" }
+  $blocParc = if ($parcN) { "<h2 id=""parcours"">Dans les parcours du graphe</h2><ul>$parcN</ul>" } else { "" }
+  $body = @"
+<header class="gtitle"><div class="wrap">
+  <p class="crumbs"><a href="../index.html">Accueil</a><span>/</span><a href="index.html">Le graphe des luttes</a><span>/</span><span>$(Esc $n.nom)</span></p>
+  <p class="eyebrow">$(Esc $gType.nom)</p>
+  <h1>$(Esc $n.nom)</h1>
+  <p class="lead">$(Esc $n.resume)</p>
+  <p class="gmeta"><span class="gmeta__type">Fiche du graphe</span><span>$(Esc $gType.nom)</span><span>$(Esc $n.dates)</span></p>
+</div></header>
+<div class="wrap glayout">
+  <article class="prose g-fiche">
+  <p class="g-fiche__actions"><a class="chip" href="index.html?n=$($n.id)">Voir dans le graphe</a><a class="chip" href="index.html?n=$($n.id)&amp;signaler=1">Signaler une erreur ou une source manquante</a></p>
+  <h2 id="contexte">Présentation</h2>
+  <p>$(Esc $n.contexte)</p>
+  $blocCourants
+  <h2 id="connexions">Connexions</h2>
+  <p class="g-fiche__note">Chaque relation est justifiée et sourcée. Son statut dit s'il s'agit d'un fait établi, d'une interprétation d'historiennes et d'historiens, d'une controverse ou d'une hypothèse.</p>
+  $connexions
+  $blocPages
+  $blocParc
+  <h2 id="sources">Sources</h2>
+  <ul>$sourcesN</ul>
+  <p class="credit">Fiche établie par la bande à Mamie à partir des sources citées. Rien n'est inventé : une erreur, une source manquante, une relation contestable ? <a href="index.html?n=$($n.id)&amp;signaler=1">Signale-la</a>.</p>
+  </article>
+</div>
+"@
+  Write-Utf8 (Join-Path $dossierGraphe "$($n.id).html") (Render-Page "../" "graphe" "$($n.nom) · Le graphe des luttes · Mamie Commune" "$($gType.nom), $($n.dates). $($n.resume)" $body "")
+  $index += [pscustomobject]@{ u = "graphe/$($n.id).html"; k = "Le graphe des luttes"; y = "Fiche du graphe"; t = $n.nom; d = "$($gType.nom) · $($n.dates) · $($n.resume)"; x = $n.contexte }
+}
+
 # ---------- les outils de Mamie (outils/) ----------
 # Une page par outil dans _src/outils/<nom>.html (même en-tête que les pages) ; index.html devient outils/index.html.
 # Les outils marchent entièrement dans le navigateur (assets/outils.js) : rien n'est envoyé, rien n'est enregistré sans le demander.
@@ -1292,6 +1376,19 @@ Write-Utf8 (Join-Path $site "sw.js") $sw
 
 # ---------- plan du site pour les moteurs de recherche (sitemap.xml) et robots.txt ----------
 # Toutes les pages publiques, avec leur adresse propre. Pas les pages techniques (404, hors connexion, renvois, packs).
+# Renvois vers le Graphe des luttes : chaque page du site citée par un élément du graphe reçoit, avant « Dans la rubrique »,
+# la liste des fiches du graphe qui la citent (navigation entre les fiches, les textes et les événements).
+$grapheRetour = @{}
+foreach ($n in $gr.noeuds) { foreach ($p in @($n.pages)) { if ($p) { if (-not $grapheRetour[$p[0]]) { $grapheRetour[$p[0]] = @() }; $grapheRetour[$p[0]] += $n } } }
+foreach ($pg in $grapheRetour.Keys) {
+  $fic = Join-Path $site (($pg -replace '/', '\') + ".html"); if (-not (Test-Path $fic)) { continue }
+  $html = Read-Utf8 $fic; if ($html.Contains('class="g-renvoi')) { continue }
+  $haut = "../" * ($pg.Split('/').Count - 1)
+  $liens = ($grapheRetour[$pg] | Sort-Object annee | ForEach-Object { "<a href=""${haut}graphe/$($_.id)"">$(Esc $_.nom)</a>" }) -join ""
+  $bloc = "<aside class=""g-renvoi wrap"" aria-label=""Dans le graphe des luttes""><p><b>Dans le graphe des luttes</b> <span>Ce que cette page relie : personnes, idées, événements, avec leurs sources.</span></p><p class=""g-renvoi__liens"">$liens</p></aside>"
+  $i = $html.IndexOf('<nav class="suite"'); if ($i -lt 0) { $i = $html.IndexOf('</main>') }
+  if ($i -ge 0) { Write-Utf8 $fic ($html.Insert($i, $bloc)) }
+}
 $exclus = '^(404|sans-connexion|partage|lecteur)[.]html$|^(_src|packs|node_modules|[.])/'
 $pagesPlan = Get-ChildItem $site -Recurse -Filter *.html | ForEach-Object { $_.FullName.Substring($site.Length + 1).Replace([string][char]92, '/') } | Where-Object { $_ -notmatch $exclus -and $_ -notmatch '(^|/)_' -and -not (Select-String -Path (Join-Path $site $_) -Pattern 'name="robots" content="noindex"' -SimpleMatch -Quiet) } | Sort-Object
 $plan = "<?xml version=""1.0"" encoding=""UTF-8""?>`n<urlset xmlns=""http://www.sitemaps.org/schemas/sitemap/0.9"">`n" + (($pagesPlan | ForEach-Object { $c = Clean-Url $_; if ($c -eq './') { $c = '' }; "  <url><loc>$siteUrl$c</loc></url>" }) -join "`n") + "`n</urlset>`n"

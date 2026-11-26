@@ -12,7 +12,7 @@
   const slug = (s) => norm(s).replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "").slice(0, 60) || "dossier";
   const SITE = "https://mamiecommune.org/";
   // Ce qu'on peut mettre dans un dossier : des documents, pas les pages de rubrique ni les outils interactifs.
-  const TYPES = ["Fiche pratique", "Guide pratique", "Guide juridique", "Guide numérique", "Fiche de lecture", "Livre", "Histoire de lutte", "Dossier antifasciste", "Dossier encyclopédique", "Portrait", "Parcours", "Ressource documentaire", "Livre audio", "Archive"];
+  const TYPES = ["Fiche du graphe", "Fiche pratique", "Guide pratique", "Guide juridique", "Guide numérique", "Fiche de lecture", "Livre", "Histoire de lutte", "Dossier antifasciste", "Dossier encyclopédique", "Portrait", "Parcours", "Ressource documentaire", "Livre audio", "Archive"];
   const TOUT = (window.RECHERCHE || []).filter((r) => TYPES.includes(r.y));
   const parU = new Map(TOUT.map((r) => [r.u, r]));
   const CLE = "mamie-dossier";
@@ -186,5 +186,20 @@
     } finally { zone.querySelectorAll("[data-sortie]").forEach((x) => { x.disabled = !dos.items.length; }); }
   });
 
+  /* ---------- favoris et parcours du graphe des luttes (clé « mamie-graphe », gardée par assets/graphe.js) ---------- */
+  (function () {
+    let g = null; try { g = JSON.parse(localStorage.getItem("mamie-graphe") || "null"); } catch (e) { return; }
+    const fav = ((g && g.favoris) || []).filter((id) => parU.has("graphe/" + id)), parcs = ((g && g.parcours) || []).filter((p) => (p.ids || []).length);
+    if (!fav.length && !parcs.length) return;
+    const s = document.createElement("section"); s.className = "dos__graphe";
+    s.innerHTML = `<h2>Depuis le graphe des luttes</h2><p>Tes favoris et tes parcours du graphe sont gardés dans ce navigateur. Verse-les dans ton dossier pour les emporter ou les imprimer, ou <a href="graphe/">retourne au graphe</a> pour les modifier.</p><p class="g-ligne">${fav.length ? `<button type="button" class="chip" data-g="fav">Ajouter mes ${fav.length} favori(s)</button>` : ""}${parcs.map((p, i) => `<button type="button" class="chip" data-g="${i}">Ajouter le parcours « ${esc(p.nom)} » (${p.ids.length} étape${p.ids.length > 1 ? "s" : ""})</button>`).join("")}</p>`;
+    zone.prepend(s);
+    s.addEventListener("click", (e) => {
+      const b = e.target.closest("[data-g]"); if (!b) return;
+      const ids = (b.dataset.g === "fav" ? fav : parcs[Number(b.dataset.g)].ids).map((id) => "graphe/" + id).filter((u) => parU.has(u));
+      const avant = dos.items.length; dos.items = [...new Set([...dos.items, ...ids])]; garder(); dessinerListe();
+      b.textContent = `✓ ${dos.items.length - avant} fiche(s) ajoutée(s)`; b.disabled = true;
+    });
+  })();
   dessinerListe();
 })();

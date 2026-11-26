@@ -1,12 +1,18 @@
 {
-  "maj": "2026-11-25",
-  "titresLus": 147,
+  "maj": "2026-11-26",
+  "titresLus": 144,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 13,
+      "score": 12,
       "titres": [
+        {
+          "titre": "Écoles cernées de pesticides : des parents veulent interdire les épandages près des classes",
+          "url": "https://reporterre.net/On-nous-a-completement-laisses-tomber-des-parents-d-eleves-somment-l-Etat-d-interdire-les",
+          "source": "Reporterre",
+          "date": "2026-11-26"
+        },
         {
           "titre": "« Si les gens savaient, ils se soulèveraient » : malades du cancer et paysans déversent leur colère contre les pesticides",
           "url": "https://reporterre.net/On-m-a-enleve-un-truc-dans-le-nichon-des-malades-du-cancer-et-des-paysans-deversent-leur",
@@ -18,35 +24,54 @@
           "url": "https://reporterre.net/Pesticides-80-ans-de-lutte-tenace-en-10-moments-forts",
           "source": "Reporterre",
           "date": "2026-11-24"
-        },
-        {
-          "titre": "« La mer du Nord telle qu'on l'a connue a disparu » : le changement climatique bouleverse le milieu marin",
-          "url": "https://reporterre.net/La-mer-du-Nord-telle-qu-on-l-a-connue-a-disparu-le-changement-climatique-bouleverse-le",
-          "source": "Reporterre",
-          "date": "2026-11-24"
         }
       ]
     },
     {
       "id": "extreme-droite",
       "nom": "l'extrême droite",
-      "score": 7,
+      "score": 5,
       "titres": [
         {
-          "titre": "Censure d’une exposition : quand l’extrême droite espagnole dicte sa loi jusque dans les universités",
-          "url": "https://www.humanite.fr/monde/elections-en-espagne/censure-dune-exposition-quand-lextreme-droite-espagnole-dicte-sa-loi-jusque-dans-les-universites",
+          "titre": "L'écologie est incompatible avec l'extrême droite",
+          "url": "https://reporterre.net/L-ecologie-est-incompatible-avec-l-extreme-droite",
+          "source": "Reporterre",
+          "date": "2026-11-26"
+        },
+        {
+          "titre": "Messages antisémites : 19 éléments qui prouvent l’identité de Bardella",
+          "url": "https://www.humanite.fr/politique/antisemitisme/messages-antisemites-19-elements-qui-prouvent-lidentite-de-bardella",
           "source": "L'Humanité",
-          "date": "2026-11-25"
+          "date": "2026-11-26"
         },
         {
           "titre": "Allô, police fasciste ?",
           "url": "https://www.politis.fr/api/proxy/?articleID=529232",
           "source": "Politis",
           "date": "2026-11-24"
+        }
+      ]
+    },
+    {
+      "id": "pouvoir",
+      "nom": "le jeu politique",
+      "score": 4,
+      "titres": [
+        {
+          "titre": "Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de \"Conseil des territoires\" pour donner plus de pouvoir aux élus locaux",
+          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-26"
         },
         {
-          "titre": "La paysanne bio aux 288 000 abonnés sur Instagram qui copine avec l'extrême droite",
-          "url": "https://reporterre.net/La-paysanne-bio-aux-288-000-abonnes-sur-Instagram-qui-copine-avec-l-extreme-droite",
+          "titre": "Elections anticipées en Espagne : une coalition de gauche est « la garantie de politiques courageuses » affirme Toni Valero, candidat aux élections anticipées",
+          "url": "https://www.humanite.fr/monde/elections-en-espagne/elections-anticipees-en-espagne-une-coalition-de-gauche-est-la-garantie-de-politiques-courageuses-affirme-toni-valero-candidat-aux-elections-anticipees",
+          "source": "L'Humanité",
+          "date": "2026-11-26"
+        },
+        {
+          "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
+          "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
           "source": "Reporterre",
           "date": "2026-11-23"
         }
@@ -55,119 +80,63 @@
     {
       "id": "jeunesse",
       "nom": "la jeunesse en lutte",
-      "score": 5,
+      "score": 3,
       "titres": [
         {
-          "titre": "Mouvement lycéen : à Grenoble, une prof et une documentaliste convoquées par le rectorat",
+          "titre": "Mouvement lycéen : à Grenoble, une prof de SES et une documentaliste convoquées par le rectorat",
           "url": "https://basta.media/mouvement-lyceen-Grenoble-enseignante-documentaliste-convoquees-rectorat",
           "source": "Basta!",
           "date": "2026-11-25"
         },
         {
-          "titre": "Censure d’une exposition : quand l’extrême droite espagnole dicte sa loi jusque dans les universités",
-          "url": "https://www.humanite.fr/monde/elections-en-espagne/censure-dune-exposition-quand-lextreme-droite-espagnole-dicte-sa-loi-jusque-dans-les-universites",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
+          "titre": "Cédric Herrou, paysan et militant, placé en garde à vue après une vidéo de soutien aux lycéens",
+          "url": "https://reporterre.net/Cedric-Herrou-paysan-et-militant-place-en-garde-a-vue-apres-une-video-de-soutien-aux",
+          "source": "Reporterre",
+          "date": "2026-11-23"
         },
         {
-          "titre": "« La prostitution n’est pas un job étudiant ! »",
-          "url": "https://www.humanite.fr/en-debat/prostitution/la-prostitution-nest-pas-un-job-etudiant",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
+          "titre": "Derrière les blocus et les cortèges, la force de la solidarité",
+          "url": "https://www.politis.fr/api/proxy/?articleID=527787",
+          "source": "Politis",
+          "date": "2026-11-20"
         }
       ]
     },
     {
       "id": "feminisme",
       "nom": "les violences faites aux femmes",
-      "score": 3,
-      "titres": [
-        {
-          "titre": "Violences faites aux femmes : 147 féminicides recensés depuis le début de l'année",
-          "url": "https://www.franceinfo.fr/societe/feminicides/violences-faites-aux-femmes-147-feminicides-recenses-depuis-le-debut-de-l-annee_8298774.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-25"
-        },
-        {
-          "titre": "Aurore Bergé : des bancs rouges pour masquer l’inaction face aux féminicides",
-          "url": "https://www.humanite.fr/societe/associations/aurore-berge-des-bancs-rouges-pour-masquer-linaction-face-aux-feminicides",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
-        },
-        {
-          "titre": "Patrick Bruel visé par une nouvelle plainte pour viol",
-          "url": "https://www.humanite.fr/feminisme/concerts/patrick-bruel-vise-par-une-nouvelle-plainte-pour-viol",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
-        }
-      ]
-    },
-    {
-      "id": "greve",
-      "nom": "les grèves",
-      "score": 3,
-      "titres": [
-        {
-          "titre": "Transports et usines à l’arrêt, chantiers et aéroports paralysés… En Grèce, une nouvelle grève massive contre la vie chère et la précarité galopante",
-          "url": "https://www.humanite.fr/monde/grece/transports-et-usines-a-larret-chantiers-et-aeroports-paralyses-en-grece-une-nouvelle-greve-massive-contre-la-vie-chere-et-la-precarite-galopante",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
-        },
-        {
-          "titre": "Au Bangladesh, les ouvriers du textile arrachent une hausse du salaire minimum",
-          "url": "https://www.humanite.fr/monde/bangladesh/au-bangladesh-les-ouvriers-du-textile-arrachent-une-hausse-du-salaire-minimum",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
-        },
-        {
-          "titre": "Moins payés qu'en Belgique, Allemagne, Pays-Bas… pourquoi les salaires sont plus bas en France et comment les augmenter",
-          "url": "https://basta.media/Moins-payes-qu-en-Belgique-Allemagne-Pays-Bas-pourquoi-salaires-plus-bas-en-france-comment-les-augmenter",
-          "source": "Basta!",
-          "date": "2026-11-23"
-        }
-      ]
-    },
-    {
-      "id": "pouvoir",
-      "nom": "le jeu politique",
-      "score": 3,
-      "titres": [
-        {
-          "titre": "Malgré sa candidature à la présidentielle, David Lisnard réélu pour un troisième mandat à la tête des maires de France",
-          "url": "https://www.humanite.fr/politique/david-lisnard/malgre-sa-candidature-a-la-presidentielle-david-lisnard-reelu-pour-un-troisieme-a-la-tete-des-maires-de-france",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
-        },
-        {
-          "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
-          "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
-          "source": "Reporterre",
-          "date": "2026-11-23"
-        },
-        {
-          "titre": "« Cette présidentielle, pour nous, c'est une question de vie ou de mort » : le rappeur Médine appelle à voter LFI",
-          "url": "https://reporterre.net/Le-rappeur-Medine-appelle-a-voter-LFI-Cette-presidentielle-pour-nous-c-est-une-question",
-          "source": "Reporterre",
-          "date": "2026-11-20"
-        }
-      ]
-    },
-    {
-      "id": "exil",
-      "nom": "l'exil et les frontières",
       "score": 2,
       "titres": [
         {
-          "titre": "Kilmar Ábrego García, le Salvadorien symbole de la chasse aux migrants de Trump, quitte les États-Unis",
-          "url": "https://www.humanite.fr/monde/administration-trump/kilmar-abrego-garcia-le-salvadorien-symbole-de-la-chasse-aux-migrants-de-trump-quitte-les-etats-unis",
-          "source": "L'Humanité",
-          "date": "2026-11-25"
+          "titre": "Féminicide de Karen Baldi en 2023 : la prison à perpétuité requise pour l'ex-époux de la policière assassinée à la machette en Savoie",
+          "url": "https://www.franceinfo.fr/societe/justice/feminicide-de-karen-baldi-en-2023-la-prison-a-perpetuite-requise-pour-l-ex-epoux-de-la-policiere-assassinee-a-la-machette-en-savoie_8301414.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-26"
         },
         {
-          "titre": "La justice suspend les travaux du centre de rétention administrative de Nantes",
-          "url": "https://reporterre.net/La-justice-suspend-les-travaux-du-centre-de-retention-administrative-de-Nantes",
-          "source": "Reporterre",
-          "date": "2026-11-23"
+          "titre": "Gérard Depardieu sera jugé pour viol commis sur la comédienne Charlotte Arnould",
+          "url": "https://www.humanite.fr/feminisme/culture-du-viol/gerard-depardieu-sera-juge-pour-viol-commis-sur-la-comedienne-charlotte-arnould",
+          "source": "L'Humanité",
+          "date": "2026-11-26"
+        }
+      ]
+    },
+    {
+      "id": "police",
+      "nom": "la répression policière",
+      "score": 2,
+      "titres": [
+        {
+          "titre": "« Ce bras de fer avec l’institution nous concerne tous » : face à la censure d’une œuvre sur les violences policières par la région Île-de-France, des artistes lancent la fronde",
+          "url": "https://www.humanite.fr/culture-et-savoir/acces-a-la-culture/comment-la-region-ile-de-france-a-discretement-deprogramme-un-artiste-critique-des-violences-policieres",
+          "source": "L'Humanité",
+          "date": "2026-11-26"
+        },
+        {
+          "titre": "Maintien de l’ordre, police, sécurité : les alternatives à gauche",
+          "url": "https://www.politis.fr/api/proxy/?articleID=529862",
+          "source": "Politis",
+          "date": "2026-11-25"
         }
       ]
     }

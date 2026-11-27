@@ -1,77 +1,102 @@
 {
-  "maj": "2026-11-26",
-  "titresLus": 144,
+  "maj": "2026-11-27",
+  "titresLus": 151,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 12,
+      "score": 15,
       "titres": [
         {
-          "titre": "Écoles cernées de pesticides : des parents veulent interdire les épandages près des classes",
-          "url": "https://reporterre.net/On-nous-a-completement-laisses-tomber-des-parents-d-eleves-somment-l-Etat-d-interdire-les",
+          "titre": "Les Faucheurs et faucheuses volontaires d'OGM ont retrouvé 4 pesticides interdits chez Syngenta",
+          "url": "https://reporterre.net/Les-Faucheurs-et-faucheuses-volontaires-d-OGM-ont-retrouve-4-pesticides-interdits-chez",
           "source": "Reporterre",
-          "date": "2026-11-26"
+          "date": "2026-11-27"
         },
         {
-          "titre": "« Si les gens savaient, ils se soulèveraient » : malades du cancer et paysans déversent leur colère contre les pesticides",
-          "url": "https://reporterre.net/On-m-a-enleve-un-truc-dans-le-nichon-des-malades-du-cancer-et-des-paysans-deversent-leur",
+          "titre": "« Une course éternelle à l'agrandissement » : l'agriculture durable, grande perdante de la future PAC ?",
+          "url": "https://reporterre.net/Une-course-eternelle-a-l-agrandissement-l-agriculture-durable-grande-perdante-de-la",
           "source": "Reporterre",
-          "date": "2026-11-25"
+          "date": "2026-11-27"
         },
         {
-          "titre": "Quand les abeilles et les coquelicots ont fait flancher les pesticides",
-          "url": "https://reporterre.net/Pesticides-80-ans-de-lutte-tenace-en-10-moments-forts",
+          "titre": "Des pesticides interdits pourraient bientôt faire leur retour sous pression de l'agro-industrie",
+          "url": "https://reporterre.net/La-guerre-des-betteraves-le-gouvernement-parviendra-t-il-a-reintroduire-un-pesticide",
           "source": "Reporterre",
-          "date": "2026-11-24"
+          "date": "2026-11-27"
         }
       ]
     },
     {
       "id": "extreme-droite",
       "nom": "l'extrême droite",
-      "score": 5,
+      "score": 7,
       "titres": [
         {
-          "titre": "L'écologie est incompatible avec l'extrême droite",
-          "url": "https://reporterre.net/L-ecologie-est-incompatible-avec-l-extreme-droite",
-          "source": "Reporterre",
-          "date": "2026-11-26"
-        },
-        {
-          "titre": "Messages antisémites : 19 éléments qui prouvent l’identité de Bardella",
-          "url": "https://www.humanite.fr/politique/antisemitisme/messages-antisemites-19-elements-qui-prouvent-lidentite-de-bardella",
-          "source": "L'Humanité",
-          "date": "2026-11-26"
-        },
-        {
-          "titre": "Allô, police fasciste ?",
-          "url": "https://www.politis.fr/api/proxy/?articleID=529232",
+          "titre": "Allemagne : itinéraire d’un néonazi repenti",
+          "url": "https://www.politis.fr/api/proxy/?articleID=528699",
           "source": "Politis",
-          "date": "2026-11-24"
+          "date": "2026-11-27"
+        },
+        {
+          "titre": "Nouvelle révélation de messages antisémites : la défense de Jordan Bardella rétropédale",
+          "url": "https://www.humanite.fr/politique/antisemitisme/nouvelle-revelation-de-messages-antisemites-la-defense-de-jordan-bardella-retropedale",
+          "source": "L'Humanité",
+          "date": "2026-11-27"
+        },
+        {
+          "titre": "« Les discours xénophobes, machistes et homophobes n’ont pas leur place à la télé publique » : pour ses propos sur l’extrême droite, une journaliste espagnole visée par une procédure disciplinaire",
+          "url": "https://www.humanite.fr/medias/audiovisuel-public/les-discours-xenophobes-machistes-et-homophobes-nont-pas-leur-place-a-la-tele-publique-pour-ses-propos-sur-lextreme-droite-une-journaliste-espag",
+          "source": "L'Humanité",
+          "date": "2026-11-27"
         }
       ]
     },
     {
-      "id": "pouvoir",
-      "nom": "le jeu politique",
-      "score": 4,
+      "id": "greve",
+      "nom": "les grèves",
+      "score": 7,
       "titres": [
         {
-          "titre": "Présidentielle 2027 : depuis la Mayenne, Raphaël Glucksmann dévoile son projet de \"Conseil des territoires\" pour donner plus de pouvoir aux élus locaux",
-          "url": "https://www.franceinfo.fr/elections/presidentielle/presidentielle-2027-depuis-la-mayenne-raphael-glucksmann-devoile-son-projet-de-conseil-des-territoires-pour-donner-plus-de-pouvoir-aux-elus-locaux_8300955.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "\"On est quand même inquiets pour l'avenir du site\" : des salariés de Stellantis mis en chômage partiel à Rennes et Mulhouse face aux difficultés du groupe",
+          "url": "https://www.franceinfo.fr/economie/industrie/on-est-quand-meme-inquiets-pour-l-avenir-du-site-des-salaries-de-stellantis-mis-en-chomage-partiel-a-rennes-et-mulhouse-face-aux-difficultes-du-groupe_8303127.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-26"
+          "date": "2026-11-27"
         },
         {
-          "titre": "Elections anticipées en Espagne : une coalition de gauche est « la garantie de politiques courageuses » affirme Toni Valero, candidat aux élections anticipées",
-          "url": "https://www.humanite.fr/monde/elections-en-espagne/elections-anticipees-en-espagne-une-coalition-de-gauche-est-la-garantie-de-politiques-courageuses-affirme-toni-valero-candidat-aux-elections-anticipees",
+          "titre": "Avant la grève du 1er décembre, le patronat refuse toujours d'augmenter les salaires",
+          "url": "https://basta.media/Avant-greve-du-1er-decembre-patronat-refuse-toujours-augmenter-salaires",
+          "source": "Basta!",
+          "date": "2026-11-27"
+        },
+        {
+          "titre": "Allemagne : les métallos font reculer le patronat désireux de geler les salaires dans les négociations tarifaires",
+          "url": "https://www.humanite.fr/monde/allemagne/allemagne-bras-de-fer-avec-le-patronat-desireux-de-geler-les-salaires-les-metallos-obtiennent-gain-de-cause",
           "source": "L'Humanité",
-          "date": "2026-11-26"
+          "date": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "exil",
+      "nom": "l'exil et les frontières",
+      "score": 3,
+      "titres": [
+        {
+          "titre": "Reporters sans frontières demande la suspension de CNews pour un mois",
+          "url": "https://basta.media/Reporters-sans-frontieres-RSF-demande-suspension-Cnews-pour-un-mois",
+          "source": "Basta!",
+          "date": "2026-11-27"
         },
         {
-          "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
-          "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
+          "titre": "L’image : aux Îles Canaries, des arrivées d’exilés en hausse",
+          "url": "https://www.politis.fr/api/proxy/?articleID=530148",
+          "source": "Politis",
+          "date": "2026-11-27"
+        },
+        {
+          "titre": "La justice suspend les travaux du centre de rétention administrative de Nantes",
+          "url": "https://reporterre.net/La-justice-suspend-les-travaux-du-centre-de-retention-administrative-de-Nantes",
           "source": "Reporterre",
           "date": "2026-11-23"
         }
@@ -83,6 +108,12 @@
       "score": 3,
       "titres": [
         {
+          "titre": "REPORTAGE. \"On a étudié deux semaines en présentiel\" : arrivés en France pour un échange universitaire, des étudiants étrangers confrontés aux blocages et fermetures d'universités",
+          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-on-a-etudie-une-semaine-deux-semaines-en-presentiel-a-paris-des-etudiants-etrangers-temoignent-de-leur-isolement-depuis-les-blocages-et-fermetures-d-universite_8302596.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-27"
+        },
+        {
           "titre": "Mouvement lycéen : à Grenoble, une prof de SES et une documentaliste convoquées par le rectorat",
           "url": "https://basta.media/mouvement-lyceen-Grenoble-enseignante-documentaliste-convoquees-rectorat",
           "source": "Basta!",
@@ -93,50 +124,31 @@
           "url": "https://reporterre.net/Cedric-Herrou-paysan-et-militant-place-en-garde-a-vue-apres-une-video-de-soutien-aux",
           "source": "Reporterre",
           "date": "2026-11-23"
-        },
-        {
-          "titre": "Derrière les blocus et les cortèges, la force de la solidarité",
-          "url": "https://www.politis.fr/api/proxy/?articleID=527787",
-          "source": "Politis",
-          "date": "2026-11-20"
         }
       ]
     },
     {
-      "id": "feminisme",
-      "nom": "les violences faites aux femmes",
-      "score": 2,
+      "id": "pouvoir",
+      "nom": "le jeu politique",
+      "score": 3,
       "titres": [
         {
-          "titre": "Féminicide de Karen Baldi en 2023 : la prison à perpétuité requise pour l'ex-époux de la policière assassinée à la machette en Savoie",
-          "url": "https://www.franceinfo.fr/societe/justice/feminicide-de-karen-baldi-en-2023-la-prison-a-perpetuite-requise-pour-l-ex-epoux-de-la-policiere-assassinee-a-la-machette-en-savoie_8301414.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-26"
+          "titre": "Tout comprendre au report des élections annoncé en Guinée-Bissau",
+          "url": "https://www.humanite.fr/monde/amilcar-cabral/tout-comprendre-au-report-des-elections-annonce-en-guinee-bissau",
+          "source": "L'Humanité",
+          "date": "2026-11-27"
         },
         {
-          "titre": "Gérard Depardieu sera jugé pour viol commis sur la comédienne Charlotte Arnould",
-          "url": "https://www.humanite.fr/feminisme/culture-du-viol/gerard-depardieu-sera-juge-pour-viol-commis-sur-la-comedienne-charlotte-arnould",
+          "titre": "Élections à la SNCF : avec 30,90 % la CGT arrive en tête, suivie par l’Unsa qui obtient 27,84 %",
+          "url": "https://www.humanite.fr/social-et-economie/cgt-cheminots/elections-a-la-sncf-avec-3090-la-cgt-arrive-en-tete-suivie-par-lunsa-qui-obtient-2784",
           "source": "L'Humanité",
-          "date": "2026-11-26"
-        }
-      ]
-    },
-    {
-      "id": "police",
-      "nom": "la répression policière",
-      "score": 2,
-      "titres": [
-        {
-          "titre": "« Ce bras de fer avec l’institution nous concerne tous » : face à la censure d’une œuvre sur les violences policières par la région Île-de-France, des artistes lancent la fronde",
-          "url": "https://www.humanite.fr/culture-et-savoir/acces-a-la-culture/comment-la-region-ile-de-france-a-discretement-deprogramme-un-artiste-critique-des-violences-policieres",
-          "source": "L'Humanité",
-          "date": "2026-11-26"
+          "date": "2026-11-27"
         },
         {
-          "titre": "Maintien de l’ordre, police, sécurité : les alternatives à gauche",
-          "url": "https://www.politis.fr/api/proxy/?articleID=529862",
-          "source": "Politis",
-          "date": "2026-11-25"
+          "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
+          "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
+          "source": "Reporterre",
+          "date": "2026-11-23"
         }
       ]
     }

@@ -1,26 +1,26 @@
 {
-  "maj": "2026-11-27",
-  "titresLus": 151,
+  "maj": "2026-11-28",
+  "titresLus": 150,
   "themes": [
     {
       "id": "terre",
       "nom": "la terre et l'eau",
-      "score": 15,
+      "score": 13,
       "titres": [
         {
-          "titre": "Les Faucheurs et faucheuses volontaires d'OGM ont retrouvé 4 pesticides interdits chez Syngenta",
-          "url": "https://reporterre.net/Les-Faucheurs-et-faucheuses-volontaires-d-OGM-ont-retrouve-4-pesticides-interdits-chez",
+          "titre": "« La sécheresse les a empêchés de pousser » : les sapins de Noël français, menacés par le chaos climatique",
+          "url": "https://reporterre.net/Le-sapin-de-Noel-francais-va-t-il-disparaitre",
+          "source": "Reporterre",
+          "date": "2026-11-28"
+        },
+        {
+          "titre": "« Inspection citoyenne » chez Syngenta : 4 pesticides interdits retrouvés",
+          "url": "https://reporterre.net/Inspection-citoyenne-chez-Syngenta-4-pesticides-interdits-retrouves",
           "source": "Reporterre",
           "date": "2026-11-27"
         },
         {
-          "titre": "« Une course éternelle à l'agrandissement » : l'agriculture durable, grande perdante de la future PAC ?",
-          "url": "https://reporterre.net/Une-course-eternelle-a-l-agrandissement-l-agriculture-durable-grande-perdante-de-la",
-          "source": "Reporterre",
-          "date": "2026-11-27"
-        },
-        {
-          "titre": "Des pesticides interdits pourraient bientôt faire leur retour sous pression de l'agro-industrie",
+          "titre": "Un pesticide interdit risque de revenir en catimini... pour le plus grand bonheur des betteraviers",
           "url": "https://reporterre.net/La-guerre-des-betteraves-le-gouvernement-parviendra-t-il-a-reintroduire-un-pesticide",
           "source": "Reporterre",
           "date": "2026-11-27"
@@ -30,49 +30,24 @@
     {
       "id": "extreme-droite",
       "nom": "l'extrême droite",
-      "score": 7,
+      "score": 9,
       "titres": [
         {
-          "titre": "Allemagne : itinéraire d’un néonazi repenti",
-          "url": "https://www.politis.fr/api/proxy/?articleID=528699",
-          "source": "Politis",
-          "date": "2026-11-27"
+          "titre": "Un très proche de Marine Le Pen soupçonné d’être le destinataire des fuites du ministère de l’Intérieur",
+          "url": "https://www.humanite.fr/politique/extreme-droite/un-tres-proche-de-marine-le-pen-soupconne-detre-le-destinataire-des-fuites-du-ministere-de-linterieur",
+          "source": "L'Humanité",
+          "date": "2026-11-28"
         },
         {
-          "titre": "Nouvelle révélation de messages antisémites : la défense de Jordan Bardella rétropédale",
-          "url": "https://www.humanite.fr/politique/antisemitisme/nouvelle-revelation-de-messages-antisemites-la-defense-de-jordan-bardella-retropedale",
+          "titre": "En Isère, la préfecture interdit un concert du réseau néonazi Blood and Honour",
+          "url": "https://www.humanite.fr/politique/extreme-droite/en-isere-la-prefecture-interdit-un-concert-du-reseau-neonazi-blood-and-honour",
           "source": "L'Humanité",
-          "date": "2026-11-27"
+          "date": "2026-11-28"
         },
         {
-          "titre": "« Les discours xénophobes, machistes et homophobes n’ont pas leur place à la télé publique » : pour ses propos sur l’extrême droite, une journaliste espagnole visée par une procédure disciplinaire",
-          "url": "https://www.humanite.fr/medias/audiovisuel-public/les-discours-xenophobes-machistes-et-homophobes-nont-pas-leur-place-a-la-tele-publique-pour-ses-propos-sur-lextreme-droite-une-journaliste-espag",
-          "source": "L'Humanité",
-          "date": "2026-11-27"
-        }
-      ]
-    },
-    {
-      "id": "greve",
-      "nom": "les grèves",
-      "score": 7,
-      "titres": [
-        {
-          "titre": "\"On est quand même inquiets pour l'avenir du site\" : des salariés de Stellantis mis en chômage partiel à Rennes et Mulhouse face aux difficultés du groupe",
-          "url": "https://www.franceinfo.fr/economie/industrie/on-est-quand-meme-inquiets-pour-l-avenir-du-site-des-salaries-de-stellantis-mis-en-chomage-partiel-a-rennes-et-mulhouse-face-aux-difficultes-du-groupe_8303127.html#xtor=RSS-3-%5Bfrance%5D",
+          "titre": "La préfecture de l'Isère interdit un concert organisé par \"une mouvance identitaire nationaliste, voire néonazie\" samedi",
+          "url": "https://www.franceinfo.fr/faits-divers/la-prefecture-de-l-isere-interdit-un-concert-organise-par-une-mouvance-identitaire-nationaliste-voire-neonazie-samedi_8303742.html#xtor=RSS-3-%5Bfrance%5D",
           "source": "franceinfo",
-          "date": "2026-11-27"
-        },
-        {
-          "titre": "Avant la grève du 1er décembre, le patronat refuse toujours d'augmenter les salaires",
-          "url": "https://basta.media/Avant-greve-du-1er-decembre-patronat-refuse-toujours-augmenter-salaires",
-          "source": "Basta!",
-          "date": "2026-11-27"
-        },
-        {
-          "titre": "Allemagne : les métallos font reculer le patronat désireux de geler les salaires dans les négociations tarifaires",
-          "url": "https://www.humanite.fr/monde/allemagne/allemagne-bras-de-fer-avec-le-patronat-desireux-de-geler-les-salaires-les-metallos-obtiennent-gain-de-cause",
-          "source": "L'Humanité",
           "date": "2026-11-27"
         }
       ]
@@ -80,8 +55,14 @@
     {
       "id": "exil",
       "nom": "l'exil et les frontières",
-      "score": 3,
+      "score": 4,
       "titres": [
+        {
+          "titre": "L'état de catastrophe naturelle reconnu pour 227 communes du Pas-de-Calais après les intempéries du mois de novembre",
+          "url": "https://www.franceinfo.fr/environnement/evenements-meteorologiques-extremes/inondations-et-crues/l-etat-de-catastrophe-naturelle-reconnu-pour-227-communes-du-pas-de-calais-apres-les-intemperies-du-mois-de-novembre_8304426.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-28"
+        },
         {
           "titre": "Reporters sans frontières demande la suspension de CNews pour un mois",
           "url": "https://basta.media/Reporters-sans-frontieres-RSF-demande-suspension-Cnews-pour-un-mois",
@@ -93,26 +74,83 @@
           "url": "https://www.politis.fr/api/proxy/?articleID=530148",
           "source": "Politis",
           "date": "2026-11-27"
+        }
+      ]
+    },
+    {
+      "id": "pouvoir",
+      "nom": "le jeu politique",
+      "score": 4,
+      "titres": [
+        {
+          "titre": "Les outre-mer, passage obligé à quelques mois du premier tour de la présidentielle",
+          "url": "https://www.franceinfo.fr/replay-radio/le-brief-politique/les-outre-mer-passage-oblige-a-quelques-mois-du-premier-tour-de-la-presidentielle_8281889.html#xtor=RSS-3-%5Bfrance%5D",
+          "source": "franceinfo",
+          "date": "2026-11-28"
         },
         {
-          "titre": "La justice suspend les travaux du centre de rétention administrative de Nantes",
-          "url": "https://reporterre.net/La-justice-suspend-les-travaux-du-centre-de-retention-administrative-de-Nantes",
+          "titre": "Élections municipales à Taïwan : qui est Puma Shen, le candidat à Taipei qui a fait de la lutte contre les ingérences chinoises un business",
+          "url": "https://www.humanite.fr/monde/asie/elections-municipales-a-taiwan-qui-est-puma-shen-le-candidat-a-taipei-qui-a-fait-de-la-lutte-contre-les-ingerences-chinoises-un-business",
+          "source": "L'Humanité",
+          "date": "2026-11-28"
+        },
+        {
+          "titre": "Règle d’or d’Emmanuel Macron : un verrou économique à la veille de la présidentielle",
+          "url": "https://www.humanite.fr/politique/austerite/regle-dor-demmanuel-macron-un-verrou-economique-a-la-veille-de-la-presidentielle",
+          "source": "L'Humanité",
+          "date": "2026-11-28"
+        }
+      ]
+    },
+    {
+      "id": "greve",
+      "nom": "les grèves",
+      "score": 3,
+      "titres": [
+        {
+          "titre": "Avant la grève du 1er décembre, le patronat refuse toujours d'augmenter les salaires",
+          "url": "https://basta.media/Avant-greve-du-1er-decembre-patronat-refuse-toujours-augmenter-salaires",
+          "source": "Basta!",
+          "date": "2026-11-27"
+        },
+        {
+          "titre": "1 million de grévistes : les ouvrières du textile luttent contre leurs salaires misérables",
+          "url": "https://reporterre.net/1-million-de-grevistes-les-ouvrieres-du-textile-luttent-contre-leurs-salaires-miserables",
           "source": "Reporterre",
+          "date": "2026-11-26"
+        },
+        {
+          "titre": "Moins payés qu'en Belgique, Allemagne, Pays-Bas… pourquoi les salaires sont plus bas en France et comment les augmenter",
+          "url": "https://basta.media/Moins-payes-qu-en-Belgique-Allemagne-Pays-Bas-pourquoi-salaires-plus-bas-en-france-comment-les-augmenter",
+          "source": "Basta!",
           "date": "2026-11-23"
+        }
+      ]
+    },
+    {
+      "id": "feminisme",
+      "nom": "les violences faites aux femmes",
+      "score": 2,
+      "titres": [
+        {
+          "titre": "Féministes, faisons front face à l’offensive réactionnaire",
+          "url": "https://www.humanite.fr/feminisme/feminisme/feministes-faisons-front-face-a-loffensive-reactionnaire",
+          "source": "L'Humanité",
+          "date": "2026-11-28"
+        },
+        {
+          "titre": "Manifestation du 28 novembre : derrière le vernis féministe de Némesis, le racisme décomplexé",
+          "url": "https://www.politis.fr/api/proxy/?articleID=531348",
+          "source": "Politis",
+          "date": "2026-11-27"
         }
       ]
     },
     {
       "id": "jeunesse",
       "nom": "la jeunesse en lutte",
-      "score": 3,
+      "score": 2,
       "titres": [
-        {
-          "titre": "REPORTAGE. \"On a étudié deux semaines en présentiel\" : arrivés en France pour un échange universitaire, des étudiants étrangers confrontés aux blocages et fermetures d'universités",
-          "url": "https://www.franceinfo.fr/societe/education/blocage-des-lycees/reportage-on-a-etudie-une-semaine-deux-semaines-en-presentiel-a-paris-des-etudiants-etrangers-temoignent-de-leur-isolement-depuis-les-blocages-et-fermetures-d-universite_8302596.html#xtor=RSS-3-%5Bfrance%5D",
-          "source": "franceinfo",
-          "date": "2026-11-27"
-        },
         {
           "titre": "Mouvement lycéen : à Grenoble, une prof de SES et une documentaliste convoquées par le rectorat",
           "url": "https://basta.media/mouvement-lyceen-Grenoble-enseignante-documentaliste-convoquees-rectorat",
@@ -122,31 +160,6 @@
         {
           "titre": "Cédric Herrou, paysan et militant, placé en garde à vue après une vidéo de soutien aux lycéens",
           "url": "https://reporterre.net/Cedric-Herrou-paysan-et-militant-place-en-garde-a-vue-apres-une-video-de-soutien-aux",
-          "source": "Reporterre",
-          "date": "2026-11-23"
-        }
-      ]
-    },
-    {
-      "id": "pouvoir",
-      "nom": "le jeu politique",
-      "score": 3,
-      "titres": [
-        {
-          "titre": "Tout comprendre au report des élections annoncé en Guinée-Bissau",
-          "url": "https://www.humanite.fr/monde/amilcar-cabral/tout-comprendre-au-report-des-elections-annonce-en-guinee-bissau",
-          "source": "L'Humanité",
-          "date": "2026-11-27"
-        },
-        {
-          "titre": "Élections à la SNCF : avec 30,90 % la CGT arrive en tête, suivie par l’Unsa qui obtient 27,84 %",
-          "url": "https://www.humanite.fr/social-et-economie/cgt-cheminots/elections-a-la-sncf-avec-3090-la-cgt-arrive-en-tete-suivie-par-lunsa-qui-obtient-2784",
-          "source": "L'Humanité",
-          "date": "2026-11-27"
-        },
-        {
-          "titre": "États-Unis : boostée par son succès électoral, la nouvelle gauche met le cap vers la présidentielle",
-          "url": "https://reporterre.net/Etats-Unis-boostee-par-son-succes-electoral-la-nouvelle-gauche-met-le-cap-vers-la",
           "source": "Reporterre",
           "date": "2026-11-23"
         }
